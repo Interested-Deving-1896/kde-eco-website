@@ -1,0 +1,63 @@
+baseURL: https://eco.kde.org/
+canonifyURLs: true
+defaultContentLanguage: en
+enableGitInfo: true
+enableRobotsTXT: true
+i18n:
+  content:
+    default:
+      files:
+      - content/_index.md
+      - content/users.md
+      - content/get-involved.md
+  genToOtherDir: true
+  others:
+  - title
+  - menu
+  - strings
+languages:
+  de:
+    contentDir: content-trans/de
+    languageCode: de
+    languageName: Deutsch
+    menu:
+      main:
+      - name: Spenden
+        url: https://kde.org/donate
+        weight: 5
+    title: KDE Eco
+    weight: 2
+  en:
+    languageCode: en
+    languageName: English
+    menu:
+      main:
+      - name: Donate
+        url: https://kde.org/donate
+        weight: 5
+    title: KDE Eco
+    weight: 1
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: tango
+module:
+  imports:
+  - path: invent.kde.org/websites/aether-sass
+outputs:
+  home:
+  - HTML
+  - RSS
+  section:
+  - HTML
+params:
+  images:
+  - /assets/img/placeholder_green-gear.png
+  logo: /assets/img/placeholder_green-gear.png
+  madeByKDE: true
+  repoName: eco-kde-org
+  showPatrons: false
+rssLimit: 4
+summaryLength: 30

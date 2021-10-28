@@ -1,0 +1,28 @@
+home.available:
+  other: Verfügbar auf allen wichtigen Plattformen
+home.download.other:
+  other: Andere Möglichkeiten zum Herunterladen
+home.features.dark:
+  other: Dunkle und Helle Designs
+home.features.indexing:
+  other: Schnelle Indizierung
+home.features.kirigami:
+  other: Angepasst an Ihren Bildschirm
+home.features.osi:
+  other: Open Source
+home.features.party:
+  other: Party-Modus
+home.features.party.alt:
+  other: Bildschirmfoto von Elisas Party-Modus
+home.features.playlist:
+  other: Wiedergabelisten erstellen und verwalten
+home.features.playlist.alt:
+  other: Bildschirmfoto der Wiedergabeliste
+home.features.playlist.description:
+  other: Erstellen und Verwalten Sie Ihre Wiedergabelisten in der eingebauten Seitenleiste.
+home.freebsd:
+  other: FreeBSD
+home.linux:
+  other: Linux
+home.windows:
+  other: Windows

@@ -1,0 +1,108 @@
+{{/*
+# SPDX-FileCopyrightText: 2020 Anubhav Choudhary
+# SPDX-FileCopyrightText: 2020 Nikunj Goyal
+# SPDX-LicenseIdentifier: CC-BY-SA-4.0 
+*/}}
+
+{{ define "head-import" }}
+{{ $style := resources.Get "scss/main.scss" | toCSS | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+{{ end }}
+
+{{ define "main" }}
+<section id="kHeader" class="carousel">
+    <div class="carousel-item active">
+        <div class="carousel-item-content pl-4 pr-4">
+            <div class="slide-background"></div>
+            <div class="carousel-text-overlay">
+                <h1>{{ .Title }}</h1>
+                <p>{{ .Description }}</p>
+            </div>
+        </div>
+    </div>
+</section>
+  
+  <div class="container">
+    <h1>{{ .Title }} - {{ .Description }}</h1>
+    <p style="max-width:none;">{{ i18n "home.description" | markdownify }}</p>
+
+    <div class="feature mt-4">
+      <div class="party">
+        <h2>{{ i18n "home.engage" }}</h2>
+        <p>{{ i18n "home.engage.description" | markdownify }}</p>
+      </div>
+    </div>
+
+    <div class="feature mt-4">
+      <div>
+        <h2>{{ i18n "home.help" }}</h2>
+        <p>{{ i18n "home.help.description" | markdownify }}</p>
+      </div>
+      <div>
+        <picture class="img-fluid">
+          <source srcset="/assets/img/placeholder_help.png" media="(prefers-color-scheme: dark)">
+          <img alt="{{ i18n "home.help.alt" }}" src="/assets/img/placeholder_help.png">
+        </picture>
+      </div>
+    </div>
+
+    <div class="feature mt-4">
+      <div>
+        <h2>{{ i18n "home.feep" }}</h2>
+        <p>{{ i18n "home.feep.description" | markdownify }}</p>
+      </div>
+      <div>
+        <picture class="img-fluid">
+          <source srcset="/assets/img/placeholder_efficiency.png" media="(prefers-color-scheme: dark)">
+          <img alt="{{ i18n "home.feep.alt" }}" src="/assets/img/placeholder_efficiency.png">
+        </picture>
+      </div>
+    </div>
+
+    <div class="feature mt-4">
+      <div>
+        <h2>{{ i18n "home.be4foss" }}</h2>
+        <p>{{ i18n "home.be4foss.description" | markdownify}}</p>
+      </div>
+      <div class="img-fluid">
+        <picture>
+          <source srcset="/assets/img/placeholder_be-ecolabel.jpg" media="(prefers-color-scheme: dark)">
+          <img  alt="{{ i18n "home.be4foss.alt" }}" src="/assets/img/placeholder_be-ecolabel.jpg">
+        </picture>
+      </div>
+    </div>
+
+    <div class="feature mt-4">
+      <div class="party">
+        <h2>{{ i18n "home.resources" }}</h2>
+        <p>{{ i18n "home.resources.description" | markdownify }}</p>
+      </div>
+    </div>
+
+    <div class="feature mt-4">
+      <div class="party">
+        <h2>{{ i18n "home.engage" }}</h2>
+        <p>{{ i18n "home.engage.description" | markdownify }}</p>
+      </div>
+    </div>
+
+    <div class="feature mt-4">
+      <div>
+        <h2>{{ i18n "home.funding" }}</h2>
+        <p>{{ i18n "home.funding.description" | markdownify }}</p>
+      </div>
+      <div class="img-fluid">
+        <picture>
+          <source srcset="/assets/img/placeholder_uba.jpg" media="(prefers-color-scheme: dark)">
+          <img  alt="{{ i18n "home.funding.alt" }}" src="/assets/img/placeholder_uba.jpg">
+        </picture>
+        <picture>
+          <source srcset="/assets/img/placeholder_bmu.png" media="(prefers-color-scheme: dark)">
+          <img  src="/assets/img/placeholder_bmu.png">
+        </picture>
+      </div>
+    </div>
+
+  </div>
+</main>
+{{ end }}
