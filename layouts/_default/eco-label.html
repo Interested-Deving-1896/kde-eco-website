@@ -3,12 +3,12 @@
   <div class="feature m-4">
     <div>
       <h2>{{ i18n "home.be4foss" }}</h2>
-      <p>{{ i18n "home.be4foss.description" | markdownify}}</p>
+      <p>{{ .Content }}</p>
     </div>
     <div class="img-fluid">
       <picture>
         <source srcset="/assets/img/placeholder_be-ecolabel.jpg" media="(prefers-color-scheme: dark)">
-        <img alt="{{ i18n " home.be4foss.alt" }}" src="/assets/img/placeholder_be-ecolabel.jpg">
+        <img alt="{{ i18n "home.be4foss.alt" }}" src="/assets/img/placeholder_be-ecolabel.jpg">
       </picture>
     </div>
   </div>
@@ -16,12 +16,18 @@
     <div class="container feature my-4">
       <div>
         <h2>{{ i18n "home.help" }}</h2>
-        <p>{{ i18n "home.help.description" | markdownify }}</p>
+        <ul>
+          <li>{{ i18n "home.help.one" }}</li>
+          <li>{{ i18n "home.help.two" }}</li>
+          <li>{{ i18n "home.help.three" }}</li>
+          <li>{{ i18n "home.help.four" }}</li>
+          <li>{{ i18n "home.help.five" }}</li>
+        </ul>
       </div>
       <div>
         <picture class="img-fluid">
           <source srcset="/assets/img/placeholder_help.png" media="(prefers-color-scheme: dark)">
-          <img alt="{{ i18n " home.help.alt" }}" src="/assets/img/placeholder_help.png">
+          <img alt="{{ i18n "home.help.alt" }}" src="/assets/img/placeholder_help.png">
         </picture>
       </div>
   </section>

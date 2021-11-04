@@ -18,15 +18,15 @@
       <div class="col-lg-6 jumbotron feep mb-0">
         <div class="container p-5  jumbo-card">
           <h2 class="mt-0">{{ i18n "home.feep" }}</h2>
-          <p class="ml-auto mr-auto">{{ i18n "home.header.feep.description" | markdownify }}</p>
-          <div><a href="{{ "/feep/energy_efficiency/" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.feep.more"}}</a></div>
+          <p class="ml-auto mr-auto">{{ i18n "home.header.feep.description" }}</p>
+          <div><a href="{{ "/feep" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
         </div>
       </div>
       <div class="col-lg-6 jumbotron be4foss">
         <div class="container p-5 jumbo-card">
-          <h2 class="mt-0">{{ i18n "home.be4foss" | markdownify}}</h2>
-          <p class="ml-auto mr-auto">{{ i18n "home.header.be4foss.description" | markdownify}}</p>
-          <div><a href="{{ "/be4foss/eco-label/" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.be4foss.more"}}</a></div>
+          <h2 class="mt-0">{{ i18n "home.be4foss" }}</h2>
+          <p class="ml-auto mr-auto">{{ i18n "home.header.be4foss.description" }}</p>
+          <div><a href="{{ "/be4foss" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
         </div>
       </div>
     </div>
@@ -37,7 +37,8 @@
       <div class="row mb-5">
         <div class="col-lg-8 mx-auto">
           <h1 class="font-weight-bold"> {{ .Title }} - {{ .Description }} </h1>
-          <p>{{ i18n "home.description" | markdownify }}</p>
+          <p>{{ i18n "home.description" }}</p>
+          <p>{{ i18n "home.description.lets" }}</p>
         </div>
       </div>
   </section>
@@ -46,26 +47,27 @@
     <div id="#joinus" class="container">
       <div class="row ">
         <div class="col-lg-6">
-          <h2 class="fw-bold">{{ i18n "home.engage" | markdownify }}</h2>
-          <h3>{{ i18n "home.engage.joinus" | markdownify }}</h3>
+          <a href="/get-involved">
+            <h2 class="fw-bold">{{ i18n "home.engage" | markdownify }}</h2>
+          </a>
+          <h3>{{ i18n "home.engage.joinus" }}</h3>
         </div>
         <div class="col mt-4 py-5 text-center">
           <a href="https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency">
             <i class="icon icon_mail-mark-unread home-icon"> </i>
-            <h3 class="fw-bold">{{ i18n "home.engage.mailinglist" | markdownify }}</h3>
-
+            <h3 class="fw-bold">{{ i18n "home.engage.mailinglist" }}</h3>
           </a>
         </div>
         <div class="col mt-4  py-5 text-center">
           <a href="https://webchat.kde.org/#/room/#energy-efficiency:kde.org">
-            <img src="/images/matrix.png" alt="Matrix" style="max-width:3em" />
-            <h3 class="fw-bold">Matrix</h3>
+            <img src="/images/matrix.png" alt="{{ i18n "home.engage.matrix" }}" style="max-width:3em" />
+            <h3 class="fw-bold">{{ i18n "home.engage.matrix" }}</h3>
           </a>
         </div>
         <div class="col mt-4 py-5 text-center">
           <a href="https://forum.kde.org/viewforum.php?f=334">
             <i class="icon icon_user-group-properties home-icon"> </i>
-            <h3 class="fw-bold">{{ i18n "home.engage.forum" | markdownify }}</h3>
+            <h3 class="fw-bold">{{ i18n "home.engage.forum" }}</h3>
           </a>
         </div>
       </div>
@@ -76,12 +78,12 @@
     <div class="feature mt-4">
       <div>
         <h2>{{ i18n "home.funding" }}</h2>
-        <p>{{ i18n "home.funding.description" | markdownify }}</p>
+        {{ .Content }}
       </div>
       <div class="img-fluid">
         <picture>
           <source srcset="/assets/img/placeholder_uba.jpg" media="(prefers-color-scheme: dark)">
-          <img alt="{{ i18n " home.funding.alt" }}" src="/assets/img/placeholder_uba.jpg">
+          <img alt="{{ i18n "home.funding.alt" }}" src="/assets/img/placeholder_uba.jpg">
         </picture>
         <picture>
           <source srcset="/assets/img/placeholder_bmu.png" media="(prefers-color-scheme: dark)">
@@ -89,7 +91,6 @@
         </picture> 
       </div>
     </div>
-
   </div>
 </main>
 {{ end }}
