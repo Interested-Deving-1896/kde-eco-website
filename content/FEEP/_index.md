@@ -1,8 +1,8 @@
 ---
 title: Energy Efficiency
 layout: energy-efficiency
-# menu:
-#   main:
-#     parent: feep
-#     weight: 1
+menu:
+  main:
+    name: FEEP
+    weight: 2
 ---

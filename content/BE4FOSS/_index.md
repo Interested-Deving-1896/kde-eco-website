@@ -1,9 +1,8 @@
 ---
 title: Eco Label
-layout : eco-label
-#menu:
-#  main:
-#    parent: be4foss
-#    weight: 1
+layout: eco-label
+menu:
+  main:
+    name: BE4FOSS
+    weight: 3
 ---
-

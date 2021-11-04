@@ -16,33 +16,14 @@ i18n:
   - menu
   - strings
 languages:
-#  de:
-#    contentDir: content-trans/de
-#    languageCode: de
-#    languageName: Deutsch
-#    menu:
-#      main:
-#      - name: Spenden
-#        url: https://kde.org/donate
-#        weight: 5
-#    title: KDE Eco
-#    weight: 2
   en:
     languageCode: en
     languageName: English
     menu:
       main:
-        - identifier: feep
-          name: FEEP
-          weight: 2
-          url: /feep/energy_efficiency/
-        - identifier: be4foss
-          name: BE4FOSS
-          url: /be4foss/eco-label/
-          weight: 3
         - name: Donate
           url: https://kde.org/community/donations/
-          weight: 5
+          weight: 6
     title: KDE Eco
     weight: 1
 markup:
