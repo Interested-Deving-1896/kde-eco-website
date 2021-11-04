@@ -1,10 +1,28 @@
 home.description:
   other: "
-  KDE Eco supports the FEEP and BE4FOSS programs to help Free & Open Source communities produce more environmentally friendly software. The projects provide communities with guidelines and funding to optimize software so it uses less energy when running, for example, or so that it can run on older and less powerful hardware (thus generating less waste).
+KDE Eco supports the FEEP and BE4FOSS programs to help free & open source communities produce more environmentally friendly software. The projects provide communities with guidelines and support to optimize software to be more energy efficient and have a longer life-span.
 
-  Let's make resource efficient software and digital sustainability part of our story so we can live up to our responsibility for this and future generations."
+Let’s make energy efficient software and digital sustainability part of our story so we can live up to our responsibility for this and future generations!"
+home.header.feep.subtitle:
+  other : Free and open source software Energy Efficiency Project
+home.header.feep.description :
+ other: How can you measure energy consumption of software? And does it make a difference? We are working to make free software more sustainable.
+home.header.feep.more  :
+ other: Learn more
+home.header.be4foss.subtitle:
+  other: Blauer Engel for Free and Open Source Software
+home.header.be4foss.description:
+  other: Eco-labels for products are used widely already. But how can they be transferred to software? What criteria is relevant? We need more pioneers to find out how we can make software sustainable.
+home.header.be4foss.more:
+ other: Learn more
 home.engage:
-  other: Get involved
+  other: "**Get Involved**"
+home.engage.joinus :
+  other: "Join us for a sustainable software development movement!"
+home.engage.mailinglist:
+  other: Mailing List
+home.engage.forum:
+  other: Forum
 home.engage.description:
   other: "
   - Matrix room: <https://webchat.kde.org/#/room/#energy-efficiency:kde.org>
@@ -15,7 +33,7 @@ home.help:
   other: How you can help
 home.help.description:
   other: "
-  - Follow 3-steps to *Blauer Engel* eco-certification: (1) Measure, (2) Analyze, (3) Certify
+  - Follow 3-steps to Blauer Engel eco-certification: (1) Measure, (2) Analyze, (3) Certify
 
   - Squash bugs labelled 'efficiency'
 
@@ -29,7 +47,7 @@ home.help.alt:
 home.feep:
   other: FOSS Energy Efficiency Project (FEEP)
 home.feep.description:
-  other: "FEEP is developing tools to improve energy efficiency in free and open source software development. Design and implementation of software has a significant impact on the energy consumption of the systems it is part of. With the right tools, it is possible to quantify and then drive down energy consumption. This increased efficiency contributes to a more sustainable use of energy as one of the shared resources of our planet.
+  other: "FEEP is developing tools to improve energy efficiency in free and open source software development. Design and implementation of software has a significant impact on the energy consumption of the systems it is part of. With the right tools, it is possible to quantify and drive down energy consumption. This increased efficiency contributes to a more sustainable use of energy as one of the shared resources of our planet.
 
   - GitLab repository: https://invent.kde.org/cschumac/feep"
 home.feep.alt:
@@ -37,28 +55,28 @@ home.feep.alt:
 home.be4foss:
   other: Blauer Engel For FOSS (BE4FOSS)
 home.be4foss.description:
-  other: "In 2020 the Umweltbundesamt ('German Environment Agency') released the award criteria for obtaining eco-certification with the *Blauer Engel* label for desktop software. Categories for certification include energy efficiency, extending the potential operating life of hardware, and user autonomy … all of which fit seamlessly with free and open source software.
+  other: "In 2020 the Umweltbundesamt ('German Environment Agency') released the award criteria for obtaining eco-certification with the Blauer Engel label for desktop software. Categories for certification include energy efficiency, extending the potential operating life of hardware, and user autonomy … all of which fit seamlessly with free and open source software.
 
 
-  The *Blauer Engel* For FOSS project advances eco-certification for resource efficient software in the FOSS community. Obtaining the *Blauer Engel* label occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify.
+  The BE4FOSS project advances eco-certification for resource efficient software in the FOSS community. Obtaining the Blauer Engel label occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify.
 
 
-  1. **Measure** in dedicated labs, such as at KDAB Berlin.
+  1. **Measure** in dedicated labs, such as at KDAB Berlin
 
-  2. **Analyze** using statistical tools such as OSCAR (Open source Software Consumption Analysis in R).
+  2. **Analyze** using statistical tools such as OSCAR (Open source Software Consumption Analysis in R)
 
-  3. **Certify** by submitting the report on the fulfillment of the *Blauer Engel* criteria.
+  3. **Certify** by submitting the report on the fulfillment of the Blauer Engel criteria
 
 
-The benefits of obtaining the *Blauer Engel* ecolabel include:
+The benefits of obtaining the ecolabel include:
 
-  - Recognition of reaching high standards for environmentally-friendly software design.
+  - Recognition of reaching high standards for environmentally-friendly software design
 
-  - Differentiating your software from the alternatives.
+  - Differentiating free software from the alternatives
 
-  - Increasing the appeal of adoption for consumers.
+  - Increasing the appeal of adoption for consumers
 
-  - Promoting transparency in the ecological footprint of software."
+  - Promoting transparency in the ecological footprint of software"
 home.be4foss.alt:
   other: Image of Blauer Engel ecolabel
 home.resources:
@@ -85,3 +103,4 @@ home.funding.description:
     "
 home.funding.alt:
   other: Image of BMU/UBA
+  

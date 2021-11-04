@@ -8,33 +8,41 @@ i18n:
     default:
       files:
       - content/_index.md
-      - content/users.md
-      - content/get-involved.md
+      - content/BE4FOSS/*.md
+      - content/FEEP/*.md
   genToOtherDir: true
   others:
   - title
   - menu
   - strings
 languages:
-  de:
-    contentDir: content-trans/de
-    languageCode: de
-    languageName: Deutsch
-    menu:
-      main:
-      - name: Spenden
-        url: https://kde.org/donate
-        weight: 5
-    title: KDE Eco
-    weight: 2
+#  de:
+#    contentDir: content-trans/de
+#    languageCode: de
+#    languageName: Deutsch
+#    menu:
+#      main:
+#      - name: Spenden
+#        url: https://kde.org/donate
+#        weight: 5
+#    title: KDE Eco
+#    weight: 2
   en:
     languageCode: en
     languageName: English
     menu:
       main:
-      - name: Donate
-        url: https://kde.org/donate
-        weight: 5
+        - identifier: feep
+          name: FEEP
+          weight: 2
+          url: /feep/energy_efficiency/
+        - identifier: be4foss
+          name: BE4FOSS
+          url: /be4foss/eco-label/
+          weight: 3
+        - name: Donate
+          url: https://kde.org/community/donations/
+          weight: 5
     title: KDE Eco
     weight: 1
 markup:
@@ -54,8 +62,8 @@ outputs:
   - HTML
 params:
   images:
-  - /assets/img/placeholder_green-gear.png
-  logo: /assets/img/placeholder_green-gear.png
+  - /logo-150x150.png
+  logo: /logo-150x150.png
   madeByKDE: true
   repoName: eco-kde-org
   showPatrons: false

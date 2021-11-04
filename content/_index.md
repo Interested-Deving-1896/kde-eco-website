@@ -1,7 +1,7 @@
 ---
 title: KDE Eco
-description: For a resource efficient, free software future.
-menu:
-  main:
-    weight: 1
+description: Building Energy-Efficient Free Software
+#menu:
+#  main:
+#    weight: 1
 ---

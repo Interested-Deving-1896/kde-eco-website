@@ -1,0 +1,19 @@
+{{define "main"}}
+
+<div class="container">
+
+    <div class="feature mt-4">
+        <div>
+          <h2>{{ i18n "home.feep" }}</h2>
+          <p>{{ i18n "home.feep.description" | markdownify }}</p>
+        </div>
+        <div>
+          <picture class="img-fluid">
+            <source srcset="/assets/img/placeholder_efficiency.png" media="(prefers-color-scheme: dark)">
+            <img alt="{{ i18n " home.feep.alt" }}" src="/assets/img/placeholder_efficiency.png">
+          </picture>
+        </div>
+      </div>
+
+</div>
+{{end}}

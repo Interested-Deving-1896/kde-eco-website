@@ -1,14 +1,31 @@
 ---
-layout: get-involved
 title: Get Involved
 name: KDE Eco
 userbase: KDE Eco
 menu:
   main:
     weight: 4
-getintouch: |
-  Most development-related discussions take place at our [Matrix room](https://webchat.kde.org/#/room/#energy-efficiency:kde.org) or the energy efficiency [mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency).
-  Join in and tell us what you would like to help us with!
 ---
+## Become a part of the sustainable software movement
 
-Want to contribute? Check out the GitLab repositories for [FEEP](https://invent.kde.org/cschumac/feep) or [BE4FOSS](https://invent.kde.org/joseph/be4foss).
+We need as many motivated people as possible to drive this forward. Here are some channels where you can get more information and contribute.
+
+### Communicate
+
+- Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
+- Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
+- FEEP GitLab repository: https://invent.kde.org/cschumac/feep
+- BE4FOSS GitLab repository: https://invent.kde.org/joseph/be4foss
+
+## Discuss
+
+- BigBlueButton : Monthly meet-ups, 2nd Wednesdays 17:00 UTC (contact us for details)
+- Energy Efficiency Mailing List: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
+- Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
+## Community Support
+
+- KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334
+
+## Contact
+
+Email: `joseph [at] kde.org`

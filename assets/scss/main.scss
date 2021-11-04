@@ -4,7 +4,6 @@
 #kHeader {
   width: 100%;
   height: 400px;
-  background-image: url(/assets/img/Next.jpg);
   background-position: center;
   background-size: cover;
 
@@ -107,12 +106,6 @@
   }
 }
 
-.slide-background {
-  background-image: url(/assets/img/placeholder_green-gear.png);
-  @media (prefers-color-scheme: dark) {
-    background-image: url(/assets/img/placeholder_green-gear.png);
-  }
-}
 .feature {
   display: flex;
   flex-direction: column;
@@ -156,4 +149,44 @@
 }
 .dark-light h2{
   margin: 25px;
+}
+
+.jumbotron {
+  background-size: cover;
+  width: 100%;
+  height: 700px;
+  padding: 6em 10%;
+  border-radius: 0;
+  display: inline-flex;
+  align-items: center;
+  background-size: cover;
+  overflow-x: hidden !important;
+}
+
+.jumbotron.feep {
+  background-image: url('/images/thomas-kelley-xVptEZzgVfo-unsplash.jpg');
+  background-position: center;
+}
+
+.jumbotron.be4foss {
+  background-image: url('/images/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg');
+  background-position: center;
+}
+
+.jumbo-card {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 10px;
+}
+
+html {
+  overflow-x: hidden !important;
+}
+
+.app-logo  {
+  background: transparent !important;
+}
+
+.home-icon{
+	font-size: 300%;
+	color: black;
 }
