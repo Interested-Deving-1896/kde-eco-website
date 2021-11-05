@@ -1,7 +1,7 @@
 home.header.feep.subtitle:
   other: Free and open source software Energy Efficiency Project
 home.header.feep.description:
- other: How can you measure energy consumption of software? And does it make a difference? We are working to make free software more sustainable.
+ other: How can you measure software's energy consumption? And does it make a difference? We are working to make free software more sustainable.
 home.header.be4foss.subtitle:
   other: Blauer Engel for Free and Open Source Software
 home.header.be4foss.description:
@@ -29,7 +29,7 @@ home.help.three:
 home.help.four:
   other: Develop automation tools for energy consumption measurements
 home.help.five:
-  other: Assist with statistical analyses and related tools (e.g., OSCAR)
+  other: Assist with statistical analysis and related tools (e.g., OSCAR)
 home.help.alt:
   other: Image of computer directory with globe
 home.feep:
