@@ -1,5 +1,8 @@
-github.com/gohugoio/hugo-mod-bootstrap-scss-v4 v0.0.0-20200902213320-c9cb5e39d8c6/go.mod h1:dAcE2kCmCarbiwNTV4xxlDFShQHiok9kDjw1VoN2J8g=
-github.com/thednp/bootstrap.native v0.0.0-20210208065639-9692a29f3498/go.mod h1:apvEEkedEAYkAOjFu4DSnvP3QeFy+8tq7mjzzEfhQCA=
+github.com/gohugoio/hugo-mod-bootstrap-scss-v4 v1.0.0/go.mod h1:dAcE2kCmCarbiwNTV4xxlDFShQHiok9kDjw1VoN2J8g=
+github.com/thednp/bootstrap.native v0.0.0-20210203161624-d9ba45b5ee95 h1:2UBkPMlikjSR75D+hnB4IZgeltADdpJ5BWNofhN/U04=
+github.com/thednp/bootstrap.native v0.0.0-20210203161624-d9ba45b5ee95/go.mod h1:apvEEkedEAYkAOjFu4DSnvP3QeFy+8tq7mjzzEfhQCA=
 github.com/twbs/bootstrap v4.5.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
-invent.kde.org/websites/aether-sass v0.0.0-20210419094803-abd3f54275fc h1:RtUGsK/T186+ZV9+ClEHVCuyZad1qokwhQHPUMdzF0A=
-invent.kde.org/websites/aether-sass v0.0.0-20210419094803-abd3f54275fc/go.mod h1:4DvMg7qs7DpW4EguZ6NquxA/sADT6M7LlAYZ1PjB9hw=
+github.com/twbs/bootstrap v4.6.0+incompatible h1:gHX/lyS+3sUtHS6AKI365MfWukJ9N/Mltrc0lfdXYfs=
+github.com/twbs/bootstrap v4.6.0+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+invent.kde.org/websites/aether-sass v0.0.0-20211104180455-9212dc6ddd6f h1:KtAQp4ne8IISejqWjQM1rNkcAMw6TmUrtW2KzmBlPnI=
+invent.kde.org/websites/aether-sass v0.0.0-20211104180455-9212dc6ddd6f/go.mod h1:IskP5IPDRfW//16JlG6MmQ4Jm9aDeBOS5mV0NtquUbI=
