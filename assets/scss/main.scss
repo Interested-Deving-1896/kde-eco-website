@@ -164,12 +164,12 @@
 }
 
 .jumbotron.feep {
-  background-image: url('/images/thomas-kelley-xVptEZzgVfo-unsplash.jpg');
+  background-image: url('/images/thomas-kelley-xVptEZzgVfo-unsplash.webp');
   background-position: center;
 }
 
 .jumbotron.be4foss {
-  background-image: url('/images/karl-pawlowicz-QUHuwyNgSA0-unsplash.jpg');
+  background-image: url('/images/karl-pawlowicz-QUHuwyNgSA0-unsplash.webp');
   background-position: center;
 }
 
@@ -189,4 +189,8 @@ html {
 .home-icon{
 	font-size: 300%;
 	color: black;
+}
+
+.feep-image-mobile{
+	width: 100vw;
 }
