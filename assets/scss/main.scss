@@ -187,10 +187,28 @@ html {
 }
 
 .home-icon{
-	font-size: 300%;
-	color: black;
+  font-size: 300%;
+  color: black;
 }
 
 .feep-image-mobile{
-	width: 100vw;
+  width: 100vw;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-color-scheme: dark) {
+  .jumbo-card>h2, .jumbo-card>p {
+    color: black !important;
+  }
+
+  .icon{
+    color: white;
+  }
+
+  .matrix{
+    filter: invert(1);
+  }
 }

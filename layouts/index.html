@@ -21,14 +21,14 @@
         <div class="container p-5  jumbo-card">
           <h2 class="mt-0">{{ i18n "home.feep" }}</h2>
           <p class="ml-auto mr-auto">{{ i18n "home.header.feep.description" }}</p>
-          <div><a href="{{ "/feep" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
+          <div><a href="/#feep" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
         </div>
       </div>
       <div class="col-lg-6 jumbotron be4foss">
         <div class="container p-5 jumbo-card">
           <h2 class="mt-0">{{ i18n "home.be4foss" }}</h2>
           <p class="ml-auto mr-auto">{{ i18n "home.header.be4foss.description" }}</p>
-          <div><a href="{{ "/be4foss" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
+          <div><a href="/#be4foss" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
         </div>
       </div>
     </div>
@@ -62,7 +62,7 @@
         </div>
         <div class="col mt-4  py-5 text-center">
           <a href="https://webchat.kde.org/#/room/#energy-efficiency:kde.org">
-            <img src="/images/matrix.png" alt="{{ i18n "home.engage.matrix" }}" style="max-width:3em" />
+            <img class="matrix" src="/images/matrix.png" alt="{{ i18n "home.engage.matrix" }}" style="max-width:3em" />
             <h3 class="fw-bold">{{ i18n "home.engage.matrix" }}</h3>
           </a>
         </div>
@@ -75,6 +75,82 @@
       </div>
     </div>
   </section>
+
+  <section id="feep">
+    <div class="container">
+      <div class="row">
+          <div class="col">
+            {{ with .Site.GetPage "/feep" }}
+            <h2 class="fw-bold"><b>{{ i18n "home.feep" }}</b></h2>
+            <div class="d-sm-block d-lg-none">
+              <picture>
+                <source srcset="/images/dave-hoefler-UFnHt94r91w-unsplash-mobile-solidfont.webp"
+                  media="(prefers-color-scheme: dark)">
+                <img class="img-fluid feep-image-mobile" alt="{{ i18n "home.feep.alt" }}"
+                  src="/images/dave-hoefler-UFnHt94r91w-unsplash-mobile-solidfont.webp">
+              </picture>
+            </div>
+            <div class="row p-4">
+              <div class="col-4 d-none d-lg-block">
+                <picture>
+                  <source srcset="/images/dave-hoefler-UFnHt94r91w-unsplash-mobile-solidfont.webp"
+                    media="(prefers-color-scheme: dark)">
+                  <img class="img-fluid feep-image-mobile" alt="{{ i18n "home.feep.alt" }}"
+                    src="/images/dave-hoefler-UFnHt94r91w-unsplash-mobile-solidfont.webp">
+                </picture>
+              </div>
+              <div class="col">
+                {{ .Content }}
+                <div class="py-2">
+                  <a href="https://invent.kde.org/cschumac/feep" class="btn btn-primary">Gitlab</a>
+                </div>
+              </div>
+            </div>
+            {{end}}
+          </div>
+        </div>
+    </div>
+  </section>
+
+  <section id="be4foss">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          {{ with .Site.GetPage "/be4foss" }}
+          <h2 class="fw-bold"><b>{{ i18n "home.be4foss" }}</b></h2>
+          <div class="feature">
+            <div>
+              <p>{{ .Content }}</p>
+            </div>
+            <div class="img-fluid">
+              <picture>
+                <source srcset="/images/be-ecolabel.png" media="(prefers-color-scheme: dark)">
+                <img alt="{{ i18n "home.be4foss.alt" }}" src="/images/be-ecolabel.png">
+              </picture>
+            </div>
+          </div>
+          <div class="container feature">
+            <div>
+              <h2>{{ i18n "home.help" }}</h2>
+              <ul>
+                <li>{{ i18n "home.help.one" }}</li>
+                <li>{{ i18n "home.help.two" }}</li>
+                <li>{{ i18n "home.help.three" }}</li>
+                <li>{{ i18n "home.help.four" }}</li>
+                <li>{{ i18n "home.help.five" }}</li>
+              </ul>
+            </div>
+            <div>
+              <picture class="img-fluid">
+                <source srcset="/assets/img/placeholder_help.png" media="(prefers-color-scheme: dark)">
+                <img alt="{{ i18n "home.help.alt" }}" src="/assets/img/placeholder_help.png">
+              </picture>
+            </div>
+          </div>
+          {{end}}
+        </div>
+  </section>
+
 
   <div class="container">
     <div class="feature mt-4">

@@ -23,6 +23,12 @@ languages:
     languageName: English
     menu:
       main:
+        - name: FEEP
+          weight: 2
+          url: "/#feep"
+        - name: BE4FOSS
+          weight: 3
+          url: "/#be4foss"
         - name: Donate
           url: https://kde.org/community/donations/
           weight: 6

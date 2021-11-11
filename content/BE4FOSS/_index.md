@@ -1,10 +1,10 @@
 ---
 title: Eco Label
 layout: eco-label
-menu:
-  main:
-    name: BE4FOSS
-    weight: 3
+#menu:
+#   main:
+#     name: BE4FOSS
+#     weight: 3
 ---
 In 2020 the Umweltbundesamt ('German Environment Agency') released the award criteria for obtaining eco-certification with the Blauer Engel label for desktop software. Categories for certification include energy efficiency, extending the potential operating life of hardware, and user autonomy … all of which fit seamlessly with free and open source software.
 
