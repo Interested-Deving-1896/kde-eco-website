@@ -39,7 +39,7 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    style: tango
+    noClasses: false
 module:
   imports:
   - path: invent.kde.org/websites/aether-sass
