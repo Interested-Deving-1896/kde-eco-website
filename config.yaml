@@ -18,22 +18,90 @@ i18n:
   - menu
   - strings
 languages:
+  ca:
+    contentDir: content-trans/ca
+    languageCode: ca
+    languageName: Català
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Donatius
+        url: https://kde.org/community/donations/
+        weight: 6
+    title: KDE Eco
+    weight: 2
   en:
     languageCode: en
     languageName: English
     menu:
       main:
-        - name: FEEP
-          weight: 2
-          url: "/#feep"
-        - name: BE4FOSS
-          weight: 3
-          url: "/#be4foss"
-        - name: Donate
-          url: https://kde.org/community/donations/
-          weight: 6
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Donate
+        url: https://kde.org/community/donations/
+        weight: 6
     title: KDE Eco
     weight: 1
+  nl:
+    contentDir: content-trans/nl
+    languageCode: nl
+    languageName: Nederlands
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Doneren
+        url: https://kde.org/community/donations/
+        weight: 6
+    title: KDE Eco
+    weight: 2
+  sv:
+    contentDir: content-trans/sv
+    languageCode: sv
+    languageName: Svenska
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Ge ett bidrag
+        url: https://kde.org/community/donations/
+        weight: 6
+    title: KDE Eco
+    weight: 2
+  uk:
+    contentDir: content-trans/uk
+    languageCode: uk
+    languageName: Українська
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Підтримати фінансово
+        url: https://kde.org/community/donations/
+        weight: 6
+    title: KDE Eco
+    weight: 2
 markup:
   goldmark:
     renderer:
