@@ -1,0 +1,48 @@
+home.be4foss:
+  other: Blauer Engel For FOSS (BE4FOSS)
+home.be4foss.alt:
+  other: Bild av Blauer Engel miljömärke
+home.engage:
+  other: '**Engagera dig**'
+home.engage.forum:
+  other: Forum
+home.engage.joinus:
+  other: Gå med i en hållbar programvaruutvecklingsrörelse!
+home.engage.mailinglist:
+  other: E-postlista
+home.engage.matrix:
+  other: Matrix
+home.feep:
+  other: FOSS Energy Efficiency Project (FEEP)
+home.feep.alt:
+  other: Bild av jordglob med datormus
+home.funding.alt:
+  other: Bild av BMU/UBA
+home.header.be4foss.description:
+  other: Användning av miljömärkning för produkter är redan omfattade. Men hur kan
+    den överföras till programvara? Vilka kriterier är relevanta? Vi behöver fler
+    pionjärer för att ta reda på hur vi kan göra programvara hållbar.
+home.header.be4foss.subtitle:
+  other: Blauer Engel för fri och öppen källkod
+home.header.feep.description:
+  other: Hur kan man mäta energiförbrukning för programvara? Och spelar det någon
+    roll? Vi arbetar på att göra programvara mer hållbar.
+home.header.feep.subtitle:
+  other: Projekt för energieffektivitet med fri och öppen källkod
+home.header.more:
+  other: Ta reda på mer
+home.help:
+  other: Hur du kan hjälpa till
+home.help.alt:
+  other: Bild av datorkatalog med jordglob
+home.help.five:
+  other: Assistera med statistisk analys och relaterade verktyg (t.ex. OSCAR)
+home.help.four:
+  other: Utveckla automatiseringsverktyg för mätning av energiförbrukning
+home.help.one:
+  other: 'Följ de tre stegen för Blauer Engel miljöcertifiering: (1) Mät, (2) Analysera,
+    (3) Certifiera'
+home.help.three:
+  other: Skapa ett lokalt mätlaboratorium
+home.help.two:
+  other: Rätta fel med beteckningen 'efficiency'
