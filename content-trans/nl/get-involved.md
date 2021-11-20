@@ -6,15 +6,15 @@ name: KDE Eco
 title: Doe mee
 userbase: KDE Eco
 ---
-## Become a part of the sustainable software movement
+## Wordt een onderdeel van de duurzame software beweging
 
 We need as many motivated people as possible to drive this forward. Here are some channels where you can get more information and contribute.
 
-### Communicate
+### Communicatie
 
-- Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
-- Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- FEEP GitLab repository: https://invent.kde.org/cschumac/feep
+- Matrix-room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
+- E-maillijst: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
+- FEEP GitLab opslagruimte: https://invent.kde.org/cschumac/feep
 - BE4FOSS GitLab repository: https://invent.kde.org/joseph/be4foss
 
 ## Discuss
