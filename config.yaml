@@ -51,6 +51,23 @@ languages:
         weight: 6
     title: KDE Eco
     weight: 1
+  fr:
+    contentDir: content-trans/fr
+    languageCode: fr
+    languageName: Français
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Faire un don
+        url: https://kde.org/community/donations/
+        weight: 6
+    title: KDE Eco
+    weight: 2
   nl:
     contentDir: content-trans/nl
     languageCode: nl
@@ -64,6 +81,40 @@ languages:
         url: /#be4foss
         weight: 3
       - name: Doneren
+        url: https://kde.org/community/donations/
+        weight: 6
+    title: KDE Eco
+    weight: 2
+  sk:
+    contentDir: content-trans/sk
+    languageCode: sk
+    languageName: Slovenčina
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Venovať peniaze
+        url: https://kde.org/community/donations/
+        weight: 6
+    title: KDE Eco
+    weight: 2
+  sl:
+    contentDir: content-trans/sl
+    languageCode: sl
+    languageName: Slovenščina
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Donirajte
         url: https://kde.org/community/donations/
         weight: 6
     title: KDE Eco
