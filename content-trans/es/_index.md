@@ -1,4 +1,4 @@
 ---
-description: Building Energy-Efficient Free Software
+description: Creando software libre energéticamente eficiente
 title: KDE Eco
 ---
