@@ -85,6 +85,23 @@ languages:
         weight: 6
     title: KDE Eco
     weight: 2
+  it:
+    contentDir: content-trans/it
+    languageCode: it
+    languageName: Italiano
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Fai una donazione
+        url: https://kde.org/community/donations/
+        weight: 6
+    title: KDE Eco
+    weight: 2
   ko:
     contentDir: content-trans/ko
     languageCode: ko
