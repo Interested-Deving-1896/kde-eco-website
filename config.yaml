@@ -240,7 +240,7 @@ params:
   images:
   - /logo-150x150.png
   logo: /logo-150x150.png
-  madeByKDE: true
+  madeByKDE: false
   repoName: eco-kde-org
   showPatrons: false
 rssLimit: 4
