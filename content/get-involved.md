@@ -14,8 +14,8 @@ We need as many motivated people as possible to drive this forward. Here are som
 
 - Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 - Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- FEEP GitLab repository: https://invent.kde.org/cschumac/feep
-- BE4FOSS GitLab repository: https://invent.kde.org/joseph/be4foss
+- FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
+- BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss
 
 ## Discuss
 
