@@ -14,12 +14,12 @@ userbase: KDE Eco
 
 - Matrix 대화방: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 - 메일링 리스트: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep
-- BE4FOSS GitLab 저장소: https://invent.kde.org/joseph/be4foss
+- FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
+- BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss
 
 ## 토론
 
-- BigBlueButton: 월간 미팅, 매월 2번째 수요일 17:00 UTC/목요일 2:00 KST(자세한 정보는 연락해 주십시오)
+- BigBlueButton : Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (german time) (contact us for details)
 - 에너지 효율성 메일링 리스트: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 - Matrix 대화방: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 

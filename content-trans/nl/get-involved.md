@@ -14,12 +14,12 @@ We hebben zoveel mogelijk personen nodig om dit vooruit te brengen. Hier zijn en
 
 - Matrix-room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 - E-maillijst: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- FEEP GitLab opslagruimte: https://invent.kde.org/cschumac/feep
-- BE4FOSS GitLab opslagruimte: https://invent.kde.org/joseph/be4foss
+- FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
+- BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss
 
 ## Discussie
 
-- BigBlueButton : Maandelijkse ontmoetingen, tweede woensdag 17:00 UTC (neem contact op met ons voor details)
+- BigBlueButton : Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (german time) (contact us for details)
 - Energie-efficiëntie e-maillijst: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 - Matrix-room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 

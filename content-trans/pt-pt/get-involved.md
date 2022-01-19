@@ -14,12 +14,12 @@ Precisamos de muita gente o mais motivada possível para levar isto em diante. A
 
 - Sala do Matrix: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 - Lista de correio: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- Repositório de GitLab do FEEP: https://invent.kde.org/cschumac/feep
-- Repositório de GitLab do BE4FOSS: https://invent.kde.org/joseph/be4foss
+- FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
+- BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss
 
 ## Discussão
 
-- BigBlueButton : Reuniões mensais, nas 2as Quartas às 17:00 UTC (contacte-nos para mais detalhes)
+- BigBlueButton : Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (german time) (contact us for details)
 - Lista de Correio da Eficiência Energética: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 - Sala do Matrix: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 

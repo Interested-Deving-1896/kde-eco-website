@@ -14,12 +14,12 @@ userbase: KDE Eco
 
 - Кімната Matrix: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 - Список листування: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- Сховище GitLab FEEP: https://invent.kde.org/cschumac/feep
-- Сховище GitLab BE4FOSS: https://invent.kde.org/joseph/be4foss
+- FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
+- BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss
 
 ## Обговорення
 
-- BigBlueButton: щомісячні зустрічі, друга середа, 17:00 UTC (зв'яжіться з нами, щоб дізнатися більше)
+- BigBlueButton : Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (german time) (contact us for details)
 - Список листування з енергоефективності: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 - Кімната Matrix: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 
