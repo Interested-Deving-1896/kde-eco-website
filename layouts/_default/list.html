@@ -1,0 +1,63 @@
+{{ define "main" }}
+<main role="main">
+  <section class="section-blue mt-0">
+    <div class="container p-5">
+      <h1 class="my-2">{{ .Title | humanize }} </h1>
+      {{ $title := .Title }}
+      {{ with .Content }}
+      {{.}}
+      {{ end }}
+    </div>
+  </section>
+
+  {{ if not .Params.nosubpage }}
+  <div class="container">
+    <div class="row p-5">
+      {{ if ne (len $.Site.Taxonomies.categories) 0 }}
+      <div class="col-md-3 pb-4">
+        <p class="h3">{{ i18n "blog.categories"}}</p>
+        <div class="tags">
+          {{ range $name, $taxonomy := $.Site.Taxonomies.categories }}
+            <a href="{{ $name | add (relLangURL "/categories/") | urlize }}"
+            {{if eq $title ($name | humanize)}}style="background: #abf9c7;" {{end}}>
+            {{ $name | humanize}}
+            </a>
+            {{ end }}
+        </div>
+      </div>
+      {{end}}
+      
+      <div class="col-md-9">
+        {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
+        <div class=" mb-5">
+          <h3 class="mt-1 h4"><a href="{{ .Permalink}}">{{ .Title | safeHTML}}</a></h3>
+          <div class="text-lighter">
+            {{ partial "i18n_date.html" . }}
+            {{- with .Params.author -}}&emsp;|&emsp;{{ . }}{{- end -}}
+            {{- if .Params.categories -}}
+            &emsp;|&emsp;{{ i18n "blog.categories"}}:
+            {{- range .Params.categories }}
+            &nbsp;<a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+            {{- end -}}
+            {{ end }}
+          </div>
+          <div class="post-entry mt-3">
+            {{ if .Description }}
+            {{ .Description }}
+            {{else}}
+            {{ .Summary | markdownify }}
+            {{end}}
+            {{ if .Truncated }}
+            <a href="{{ .Permalink }}" class="d-block mt-2">{{i18n "read-more" }}</a>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+
+  {{ template "_internal/pagination.html" . }}
+  {{ end }}
+</main>
+{{ end }}

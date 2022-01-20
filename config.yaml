@@ -11,6 +11,7 @@ i18n:
       - content/get-involved.md
       globs:
       - content/BE4FOSS/*.md
+      - content/blog/*.md
       - content/FEEP/*.md
   genToOtherDir: true
   others:
