@@ -14,12 +14,12 @@ Potrebujemo kar največ motiviranih ljudi, ki bodo poganjali razvoj naprej. Tuka
 
 - Matrix soba: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 - Poštni šeznam: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
-- BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss
+- Repozitorij FEEP GitLab: https://invent.kde.org/teams/eco/feep
+- Repozitorij BE4FOSS GitLab: https://invent.kde.org/teams/eco/be4foss
 
 ## Debata
 
-- BigBlueButton : Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (german time) (contact us for details)
+- BigBlueButton : Mesečni sestanki, druga sreda ob 19:00 CEST/CET (slovenski čas) (stopite z nami v stik za podrobnosti)
 - Poštni seznam energetske učinkovitosti: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 - Matrix soba: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 
