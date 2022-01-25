@@ -19,8 +19,8 @@
         <div class="tags">
           {{ range $name, $taxonomy := $.Site.Taxonomies.categories }}
             <a href="{{ $name | add (relLangURL "/categories/") | urlize }}"
-            {{if eq $title ($name | humanize)}}style="background: #abf9c7;" {{end}}>
-            {{ $name | humanize}}
+            {{if eq $title .Page.Title}}style="background: #abf9c7;" {{end}}>
+            {{ .Page.Title }}
             </a>
             {{ end }}
         </div>
@@ -34,10 +34,11 @@
           <div class="text-lighter">
             {{ partial "i18n_date.html" . }}
             {{- with .Params.author -}}&emsp;|&emsp;{{ . }}{{- end -}}
-            {{- if .Params.categories -}}
-            &emsp;|&emsp;{{ i18n "blog.categories"}}:
-            {{- range .Params.categories }}
-            &nbsp;<a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+            {{- if .Params.categories -}}<br>
+            {{ i18n "blog.categories"}}:
+            {{ range $index, $category := .Params.categories -}}
+            {{- if $index -}}, {{ end -}}
+            <a href='{{ "/categories/" | relLangURL }}{{ . | urlize }}'>{{ $category }}</a>
             {{- end -}}
             {{ end }}
           </div>
