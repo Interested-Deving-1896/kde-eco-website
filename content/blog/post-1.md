@@ -4,6 +4,9 @@ title: Resource-Efficient Software & Blauer Engel Eco-Certification
 categories:  [Free Software, energy efficiency, hardware operating life, Blauer Engel]
 author: Joseph P. De Veaugh-Geiss
 summary: Software efficiency is resource efficiency!
+SPDX-License-Identifier: CC-BY-4.0
+authors:
+- SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 ---
 
 Often overlooked is the fact that the resource consumption of hardware is determined by the software running on it.
