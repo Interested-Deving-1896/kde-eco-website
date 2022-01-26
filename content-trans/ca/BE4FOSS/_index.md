@@ -4,11 +4,11 @@ title: Etiqueta Eco
 ---
 En 2020, la Umweltbundesamt («Agència Alemanya del Medi Ambient») va publicar els criteris de concessió per obtenir l'ecocertificació amb l'etiqueta Blauer Engel per al programari d'escriptori. Les categories de la certificació inclouen l'eficiència energètica, ampliació de la vida operativa potencial del maquinari, i l'autonomia de l'usuari… tot això s'adapta sense problemes al programari de codi lliure i obert.
 
-El projecte BE4FOSS avança l'ecocertificació del programari eficient en recursos a la comunitat FOSS. L'obtenció de l'etiqueta Blauer Engel es fa en 3 passos: (1) Mesura, (2) Anàlisi, i (3) Certificació.
+The BE4FOSS project advances eco-certification for resource efficient software in the FOSS community. Obtaining the Blauer Engel label occurs in 3 steps: (1) MEASURE, (2) ANALYZE, and (3) CERTIFY.
 
-1. **Mesurar** en laboratoris dedicats, com el de KDAB de Berlín
-1. **Anàlisi** usant eines estadístiques com l'OSCAR («Open source Software Consumption Analysis in R», Anàlisi de consum del programari de codi obert en R)
-1. **Certificació** amb la presentació de l'informe sobre el compliment dels criteris de Blauer Engel
+1. MEASURE in dedicated labs, such as at KDAB Berlin
+1. ANALYZE using statistical tools such as OSCAR (Open source Software Consumption Analysis in R)
+1. CERTIFY by submitting the report on the fulfillment of the Blauer Engel criteria
 
 Els beneficis d'obtenir l'ecoetiqueta inclouen:
 
