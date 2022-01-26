@@ -54,9 +54,7 @@ The Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4foss)) pr
 
 #### Funding Notice
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection. The funds are made available by resolution of the German Bundestag.
-
-BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). The funds are made available by resolution of the German Bundestag.
 
 <img src="/blog/images/bmuv.png" alt="BMUV logo" width="340px"/>
 
