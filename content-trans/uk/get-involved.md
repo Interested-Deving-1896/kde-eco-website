@@ -10,18 +10,18 @@ userbase: KDE Eco
 
 Нам потрібно якомога більше мотивованих людей для просування ідеї. Нижче наведено деякі канали, на яких ви можете отримати додаткові відомості та взяти участь у роботі.
 
-### Community & Support
+### Підтримка і спільнота
 
-- BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin time) (contact us for details)
+- BigBlueButton: щомісячні зустрічі, друга середа, 19:00 CEST/CET (берлінський час) (зв'яжіться з нами, щоб дізнатися більше)
 - Кімната Matrix: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
-- Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
+- Список листування з енергоефективності: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 - Форум KDE Eco: https://forum.kde.org/viewforum.php?f=334
 
-### Resources
+### Ресурси
 
 - Сховище GitLab FEEP: https://invent.kde.org/teams/eco/feep
 - Сховище GitLab BE4FOSS: https://invent.kde.org/teams/eco/be4foss
-- Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-application
+- Програми Blue Angel: https://invent.kde.org/teams/eco/blue-angel-application
 
 ### Контакт
 

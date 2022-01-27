@@ -4,11 +4,11 @@ title: Eko značka
 ---
 Leta 2020 je Umweltbundesamt ("Nemška agencija za okolje") objavila merila za nagrado za pridobitev eko-potrdila z oznako Modri angel za namizno programsko opremo. Kategorije za potrjevanje vključujejo energetsko učinkovitost, razširitev potencialne operativne življenjske dobe strojne opreme in avtonomije uporabnikov... Vse to se brez težav prilega prosti in odprtokodni programski opremi.
 
-The BE4FOSS project advances eco-certification for resource efficient software in the FOSS community. Obtaining the Blauer Engel label occurs in 3 steps: (1) MEASURE, (2) ANALYZE, and (3) CERTIFY.
+Projekt BE4FOSS predstavlja napredek pri ekološkem potrjevanju učinkovite rabe virov pri skupnosti proste programske opreme. Pridobitev značke Modri angel poteka v treh korakih: (1) MERITVE, (2) ANALIZA, in (3) PORTJEVANJE.
 
-1. MEASURE in dedicated labs, such as at KDAB Berlin
-1. ANALYZE using statistical tools such as OSCAR (Open source Software Consumption Analysis in R)
-1. CERTIFY by submitting the report on the fulfillment of the Blauer Engel criteria
+1. MERITVE v za to namenjenih laboratorijih kot je npr. KDAB Berlin
+1. ANALIZA uporaba statističnih orodij kot npr. OSCAR (Open source Software Consumption Analysis in R)
+1. POTRJEVANJE z vlogo poročila o zagotavljanju kriterijev za Modrega angela
 
 Prednosti pridobitve eko značke vsebujejo:
 
