@@ -24,9 +24,9 @@ title: Ресурсоефективне програмне забезпечен�
 
 {{< container class="text-center" >}}
 
-![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
+![Проєкт WEEE «Людина в Едемі»](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "Проєкт WEEE «Людина в Едемі»")
 
-*The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+* Семиметрова фігура людини WEEE (Waste Electrical and Electronic Equipment або «Викинуте електричне та електронне обладнання»), яку створено з електричного та електронного обладнання, яке викидає середньостатистичний мешканець Великої Британії протягом життя — еквівалент 3,3 тонн ([джерело](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
 
 {{< /container >}}
 
@@ -42,7 +42,7 @@ title: Ресурсоефективне програмне забезпечен�
 
 {{< container class="text-center" >}}
 
-![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
+![Логотип KDE Eco із паростком](/blog/images/KDE-eco-logo-name_vegetation.jpg)
 
 {{< /container >}}
 
@@ -50,24 +50,24 @@ title: Ресурсоефективне програмне забезпечен�
 
 {{< container class="text-center" >}}
 
-<font size="6"> **[Join us in building energy-efficient, Free Software!](https://eco.kde.org/get-involved/)** </font>
+<font size="6">[Долучайтеся до нас у побудові енергоефективного вільного програмного забезпечення!](https://eco.kde.org/get-involved/)</font>
 
 {{< /container >}}
 
 *Це модифікована версія резюме [поданого](https://web.archive.org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) на Remote Rhein Ruhr Stage у межах CCC 2021. Ви можете ознайомитися із доповіддю [тут](https://streaming.media.ccc.de/rc3/relive/319).*
 
-#### Funding Notice
+#### Зауваження щодо фінансування
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). The funds are made available by resolution of the German Bundestag.
+Проєкт BE4FOSS було профінансовано Федеральною Агенцією з навколишнього середовища та Федеральним міністерством навколишнього середовища, збереження природи, ядерної безпеки та захисту споживачів (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</sup>). Доступ до фінансування було затверджено Бундестагом ФРН.
 
 {{< container >}}
 
-<img src="/blog/images/bmuv.png" alt="BMUV logo" width="340px"/>
+<img src="/blog/images/bmuv.png" alt="Логотип BMUV" width="340px"/>
 
-<img src="/blog/images/uba.jpg" alt="UBA logo" width="250px"/>
+<img src="/blog/images/uba.jpg" alt="Логотип UBA" width="250px"/>
 
 {{< /container >}}
 
-The publisher is responsible for the content of this publication.
+За вміст цієї публікації відповідає її видавець.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV und UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Офіційні логотипи BMUV і UBA надсилаються лише за запитом за адресою verbaendefoerderung@uba.de

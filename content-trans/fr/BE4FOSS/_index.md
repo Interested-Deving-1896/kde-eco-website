@@ -4,11 +4,11 @@ title: Label Eco
 ---
 En 2020,l'agence allemande pour l'environnement « Umweltbundesamt » a publié les critères d'attribution pour l'obtention de l'écocertification avec le label « Blauer Engel » pour les logiciels de bureau. Parmi les catégories de certification figurent l'efficacité énergétique, l'allongement de la durée de vie potentielle du matériel et l'autonomie de l'utilisateur... autant d'éléments qui s'intègrent parfaitement aux logiciels libres et « Open source ».
 
-The BE4FOSS project advances eco-certification for resource efficient software in the FOSS community. Obtaining the Blauer Engel label occurs in 3 steps: (1) MEASURE, (2) ANALYZE, and (3) CERTIFY.
+Le projet « BE4FOSS » fait progresser l'éco-certification des logiciels économes en ressources dans la communauté « FOSS ». L'obtention du label « Blauer Engel » se réalise selon 3 étapes : (1) MESURER, (2) ANALYSER, et (3) CERTIFIER.
 
-1. MEASURE in dedicated labs, such as at KDAB Berlin
-1. ANALYZE using statistical tools such as OSCAR (Open source Software Consumption Analysis in R)
-1. CERTIFY by submitting the report on the fulfillment of the Blauer Engel criteria
+1. ** MESURER ** dans des laboratoires spécifiques, tels que le laboratoire « KDAB » de Berlin
+1. ** ANALYSER ** grâce à l'utilisation d'outils de statistiques comme OSCAR (« Open source Software Consumption Analysis in R »)
+1. ** CERTIFIER ** en diffusant le rapport concernant le respect des critères pour le certificat « Blauer Engel ».
 
 Les bénéfices de l'obtention de ce label Éco concernent :
 

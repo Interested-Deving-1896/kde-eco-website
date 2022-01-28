@@ -26,7 +26,7 @@ Nog eens, software is kritisch. Software opblazen vereist meer en meer krachtige
 
 ![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
 
-*The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+*De zeven meter hoge WEEE (Waste Electrical and Electronic Equipment) Man is gemaakt van elektrische en elektronische apparaten die zijn weggegooid door de gemiddelde VK-burger in zijn/haar leven - overeenkomend met 3,3 ton ([bron](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
 
 {{< /container >}}
 
@@ -42,7 +42,7 @@ Recent is de onderlinge afhankelijkheid tussen software engineering en onderhoud
 
 {{< container class="text-center" >}}
 
-![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
+![KDE Eco-logo met vegetatie](/blog/images/KDE-eco-logo-name_vegetation.jpg)
 
 {{< /container >}}
 
@@ -50,24 +50,24 @@ Het project Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4f
 
 {{< container class="text-center" >}}
 
-<font size="6"> **[Join us in building energy-efficient, Free Software!](https://eco.kde.org/get-involved/)** </font>
+<font size="6"> **[Doe mee met ons in het bouwen van energie-efficiënte, Vrije Software.](https://eco.kde.org/get-involved/)** </font>
 
 {{< /container >}}
 
 *Dit is een gewijzigde versie van de samenvatting [submitted](https://web.archive.org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) naar de Remote Rhein Ruhr Stage op CCC 2021. U kunt de praatjes [hier](https://streaming.media.ccc.de/rc3/relive/319) bekijken.*
 
-#### Funding Notice
+#### Financieringsopmerking
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). The funds are made available by resolution of the German Bundestag.
+Het project BE4FOSS kreeg fondsen van de Federale Omgevingsagency en het Federale Ministerie voor de omgeving, Natuurbeheer, Nucleaire veiligheid en Consumentenbescherming (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</sup>). De fondsen zijn beschikbaar gesteld door een resolutie van de Duitse Bondsdag.
 
 {{< container >}}
 
-<img src="/blog/images/bmuv.png" alt="BMUV logo" width="340px"/>
+<img src="/blog/images/bmuv.png" alt="BMUV-logo" width="340px"/>
 
-<img src="/blog/images/uba.jpg" alt="UBA logo" width="250px"/>
+<img src="/blog/images/uba.jpg" alt="UBA-logo" width="250px"/>
 
 {{< /container >}}
 
-The publisher is responsible for the content of this publication.
+De uitgever is verantwoordelijk voor de inhoud van deze publicatie.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV und UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Officiële BMUV en UBA-logo's worden alleen verzonden op een verzoek aan: verbaendefoerderung@uba.de
