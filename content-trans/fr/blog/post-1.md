@@ -24,9 +24,9 @@ Là encore, les logiciels sont essentiels. L'accumulation de logiciels nécessit
 
 {{< container class="text-center" >}}
 
-![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
+![« WEEE Man » du projet « The Eden »](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg « « WEEE Man » du projet « The Eden »)
 
-*The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+*« The WEEE (Waste Electrical and Electronic Equipment) Man » (soit l'homme des Déchets d'Équipements Électriques et Électroniques) est constitué des équipements électriques et électroniques jetés par le citoyen britannique moyen au cours de sa vie, soit 3,3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
 
 {{< /container >}}
 
@@ -42,7 +42,7 @@ Récemment, l'interdépendance entre le génie logiciel et la durabilité a ét�
 
 {{< container class="text-center" >}}
 
-![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
+![Logo de KDE Eco logo avec la végétation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
 
 {{< /container >}}
 
@@ -50,15 +50,15 @@ Le projet « Blauer Engel 4 FOSS » ([BE4FOSS](https://invent.kde.org/teams/ec
 
 {{< container class="text-center" >}}
 
-<font size="6"> **[Join us in building energy-efficient, Free Software!](https://eco.kde.org/get-involved/)** </font>
+<font size="6"> **[Rejoignez-nous pour construire des logiciels libres et économes en énergie ! ](https://eco.kde.org/get-involved/)** </font>
 
 {{< /container >}}
 
 *Ceci est une version modifiée du résumé [présenté](https://web.archive.org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) à la réunion en ligne « Rhein Ruhr Stage au CCC 2021 ». Vous pouvez revoir la conférence [ici](https://streaming.media.ccc.de/rc3/relive/319). *
 
-#### Funding Notice
+#### Modalités pour le financement
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). The funds are made available by resolution of the German Bundestag.
+Le projet « BE4FOSS » a été financé par l'Agence fédérale pour l'environnement et le ministère fédéral de l'environnement, de la protection de la nature, de la sécurité nucléaire et de la protection des consommateurs (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</sup>). Les fonds sont mis à disposition par une résolution par le Bundestag, le parlement allemand.
 
 {{< container >}}
 
@@ -68,6 +68,6 @@ The BE4FOSS project was funded by the Federal Environment Agency and the Federal
 
 {{< /container >}}
 
-The publisher is responsible for the content of this publication.
+L'éditeur est responsable du contenu de cette publication.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV und UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup>Les logos officiels de « BMU » et « UBA » ne sont envoyés que sur demande. Veuillez prend contact avec le courriel « verbaendefoerderung@uba.de ».

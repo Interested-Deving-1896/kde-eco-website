@@ -42,7 +42,7 @@ Pred kratkim, je medsebojno odvisnost med programsko opremo intrajnostjo uradno 
 
 {{< container class="text-center" >}}
 
-![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
+![KDE Eco logotip z vegetacijo](/blog/images/KDE-eco-logo-name_vegetation.jpg)
 
 {{< /container >}}
 
@@ -50,15 +50,15 @@ Projekt Modri angel - Blauer Engel 4 FOSS ([BE4Foss](https://invent.kde.org/team
 
 {{< container class="text-center" >}}
 
-<font size="6"> **[Join us in building energy-efficient, Free Software!](https://eco.kde.org/get-involved/)** </font>
+<font size="6">**[pridružite se nam pri razvoju energetsko učinkovite proste programske opreme](https://eco.kde.org/get-involved/)** </font>
 
 {{< /container >}}
 
 *To je spremenjena verzija povzetka [predloženega](https://web.archive.org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) na Remote Rhein Ruhr Stage at CCC 2021. Govor si lahko ogledate [tukaj](https://streaming.media.ccc.de/rc3/relive/319).*
 
-#### Funding Notice
+#### Obvestilo o financiranju
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). The funds are made available by resolution of the German Bundestag.
+Projekt BE4Foss je financirala nemška Zvezna agencija za okolje in Zvezno ministrstvo za okolje, ohranjanje narave, jedrsko varnost in varstvo potrošnikov (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). Sredstva so na voljo z resolucijo nemškega Bundestaga.
 
 {{< container >}}
 
@@ -68,6 +68,6 @@ The BE4FOSS project was funded by the Federal Environment Agency and the Federal
 
 {{< /container >}}
 
-The publisher is responsible for the content of this publication.
+Založnik je odgovoren za vsebino te publikacije.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV und UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Uradni logotipi BMUV in UBA se pošiljajo samo z zahtevo na: verbaendefoerderung@uba.de

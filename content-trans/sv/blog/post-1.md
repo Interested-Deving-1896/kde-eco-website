@@ -24,9 +24,9 @@ Ta en titt på programvaran: samma dator som utför samma uppgift men med två o
 
 {{< container class="text-center" >}}
 
-![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
+![Eden-projektets WEEE-man](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
 
-*The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+*Den sju meter höga WEEE-mannen (Waste Electrical and Electronic Equipment) är gjord av elektriska och elektroniska apparater som har slängts av vanliga medborgare i Storbritannien under deras livstid, vilket motsvarar 3,3 ton ([källa](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
 
 {{< /container >}}
 
@@ -42,7 +42,7 @@ Nyligen erkändes beroendet mellan programvarukonstruktion och hållbarhet offic
 
 {{< container class="text-center" >}}
 
-![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
+![KDE Eco-logotyp med vegetation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
 
 {{< /container >}}
 
@@ -50,15 +50,15 @@ Projektet Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4fos
 
 {{< container class="text-center" >}}
 
-<font size="6"> **[Join us in building energy-efficient, Free Software!](https://eco.kde.org/get-involved/)** </font>
+<font size="6">**[Hjälp oss bygga energieffektiv fri programvara.](https://eco.kde.org/get-involved/)**</font>
 
 {{< /container >}}
 
 *Det är en modifierad version av [inskickat sammandrag](https://web.archive.org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) till Remote Rhein Ruhr scenen i CCC 2021. Du kan titta på föredraget [här](https://streaming.media.ccc.de/rc3/relive/319).*
 
-#### Funding Notice
+#### Finansieringsanmärkning
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). The funds are made available by resolution of the German Bundestag.
+Projektet BE4FOSS grundades av det federala miljödepartementet och det federala ministeriet för miljö, naturvård, kärnkraftssäkerhet och konsumentskydd (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</sup>). Medel tillhandahålls genom beslut av den Tyska Förbundsdagen.
 
 {{< container >}}
 
@@ -68,6 +68,6 @@ The BE4FOSS project was funded by the Federal Environment Agency and the Federal
 
 {{< /container >}}
 
-The publisher is responsible for the content of this publication.
+Utgivaren är ansvarig för innehållet i den här publikationen.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV und UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Officiella logotyper för BMUV och UBA skickas bara på begäran hos: verbaendefoerderung@uba.de
