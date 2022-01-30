@@ -56,7 +56,7 @@ El projecte Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4f
 
 *Aquesta és una versió modificada del resum [tramés](https://web.archive.org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) al Remote Rhein Ruhr Stage del CCC 2021. Podeu veure la xerrada [aquí](https://streaming.media.ccc.de/rc3/relive/319).*
 
-#### Notícia de finançament
+#### Anunci de finançament
 
 El projecte BE4FOSS ha estat finançat per l'Agència Federal del Medi Ambient i el Ministeri Federal de Medi Ambient, Conservació de la Naturalesa, Seguretat Nuclear i Protecció del Consumidor (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). Els fons estan disponibles per una resolució del Bundestag alemany.
 
