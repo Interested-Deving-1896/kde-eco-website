@@ -277,6 +277,7 @@ params:
   logo: /logo-150x150.png
   madeByKDE: false
   repoName: eco-kde-org
+  rssSection: blog
   showPatrons: false
 rssLimit: 4
 summaryLength: 30
