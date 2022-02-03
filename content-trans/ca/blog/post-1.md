@@ -1,5 +1,7 @@
 ---
 SPDX-License-Identifier: CC-BY-4.0
+aliases:
+- /blog/post-1/
 author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
@@ -11,6 +13,7 @@ categories:
 date: 2022-01-25
 summary: L'eficiència del programari és l'eficiència de recursos!
 title: Programari eficient en recursos i ecocertificació Blauer Engel
+url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 ---
 Sovint es passa per alt el fet que el consum de recursos del maquinari està determinat pel programari que s'executa en ell.
 

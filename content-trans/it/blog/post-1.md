@@ -1,5 +1,7 @@
 ---
 SPDX-License-Identifier: CC-BY-4.0
+aliases:
+- /blog/post-1/
 author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
@@ -11,6 +13,7 @@ categories:
 date: 2022-01-25
 summary: L'efficienza del software è efficienza delle risorse!
 title: Software efficiente in termini di risorse e Eco-certificazione Blauer Engel
+url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 ---
 Spesso viene trascurato il fatto che il consumo di risorse dell'hardware è determinato dal software in esecuzione su di esso.
 
@@ -26,7 +29,7 @@ Ancora una volta, il software è fondamentale. Il sovraccarico del software che 
 
 ![WEEE Man al progetto Eden](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man al progetto Eden")
 
-*WEEE Man (Waste Electrical and Electronic Equipment) alto sette metri è costituito da apparecchiature elettriche ed elettroniche rottamate dal cittadino medio del Regno Unito nella sua vita, pari a 3,3 tonnellate ([fonte](https://web.archive.org /web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+*WEEE Man (Waste Electrical and Electronic Equipment) alto sette metri è costituito da apparecchiature elettriche ed elettroniche rottamate dal cittadino medio del Regno Unito nella sua vita, pari a 3,3 tonnellate ([fonte](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
 
 {{< /container >}}
 

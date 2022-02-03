@@ -1,5 +1,7 @@
 ---
 SPDX-License-Identifier: CC-BY-4.0
+aliases:
+- /blog/post-1/
 author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
@@ -11,6 +13,7 @@ categories:
 date: 2022-01-25
 summary: Software efficiëntie is hulpbron efficiëntie!
 title: Hulpbron-efficiënte software & Blauer Engel Eco-Certificatie
+url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 ---
 Er is vaak over het feit heen gekeken dat de hulpbronconsumptie van hardware bepaald wordt door de software die er op draait.
 

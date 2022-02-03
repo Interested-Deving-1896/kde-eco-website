@@ -1,5 +1,7 @@
 ---
 SPDX-License-Identifier: CC-BY-4.0
+aliases:
+- /blog/post-1/
 author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
@@ -11,6 +13,7 @@ categories:
 date: 2022-01-25
 summary: Ефективність програм — ресурсоефективність!
 title: Ресурсоефективне програмне забезпечення і екосертифікація Blauer Engel
+url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 ---
 Тому, що споживання обладнанням ресурсів визначається запущеним на ньому програмним забезпеченням, часто не надають значення.
 

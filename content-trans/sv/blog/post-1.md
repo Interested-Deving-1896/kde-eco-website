@@ -1,5 +1,7 @@
 ---
 SPDX-License-Identifier: CC-BY-4.0
+aliases:
+- /blog/post-1/
 author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
@@ -11,6 +13,7 @@ categories:
 date: 2022-01-25
 summary: Programvarueffektivitet är resurseffektivitet!
 title: Resurseffektiv programvara och Blauer Engel eko-certifiering
+url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 ---
 Det som oftast förbises är det faktum att maskinvarans resursanvändning bestäms av programvaran som kör på den.
 

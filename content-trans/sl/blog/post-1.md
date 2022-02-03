@@ -1,5 +1,7 @@
 ---
 SPDX-License-Identifier: CC-BY-4.0
+aliases:
+- /blog/post-1/
 author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
@@ -11,6 +13,7 @@ categories:
 date: 2022-01-25
 summary: Programska učinkovitost je učinkovita raba virov!
 title: Eko potrdilo Modri angel za programje, ki učinkovito uporablja vire
+url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 ---
 Pogosto je spregledano dejstvo, da je poraba virov strojne opreme določena s programsko opremo, ki se izvaja na njej.
 
