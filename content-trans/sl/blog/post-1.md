@@ -1,7 +1,7 @@
 ---
 SPDX-License-Identifier: CC-BY-4.0
 aliases:
-- /blog/post-1/
+- ./post-1/
 author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
