@@ -5,7 +5,7 @@ categories:  [Free Software, energy efficiency, hardware operating life, Blauer 
 author: Joseph P. De Veaugh-Geiss
 summary: Software efficiency is resource efficiency!
 aliases:
-  - /blog/post-1/
+  - ../post-1/
 url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 SPDX-License-Identifier: CC-BY-4.0
 authors:
