@@ -1,7 +1,7 @@
 ---
 date: 2022-01-25
 title: Resource-Efficient Software & Blauer Engel Eco-Certification
-categories:  [Free Software, energy efficiency, hardware operating life, Blauer Engel]
+categories:  [Free Software, Energy Efficiency, Hardware Operating Life, Blauer Engel]
 author: Joseph P. De Veaugh-Geiss
 summary: Software efficiency is resource efficiency!
 aliases:
@@ -26,7 +26,7 @@ Again, software is critical. Software bloat requiring more and more powerful har
 
 ![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
 
-*The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
 
 {{< /container >}}
 
@@ -70,4 +70,4 @@ The BE4FOSS project was funded by the Federal Environment Agency and the Federal
 
 The publisher is responsible for the content of this publication.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV und UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
