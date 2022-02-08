@@ -7,8 +7,8 @@ authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
 - Vrije software
-- energie-efficiëntie
-- leeftijd van met hardware werken
+- Energie-efficiëntie
+- Hardware Operating Life
 - Blauer Engel
 date: 2022-01-25
 summary: Software efficiëntie is hulpbron efficiëntie!
@@ -29,7 +29,7 @@ Nog eens, software is kritisch. Software opblazen vereist meer en meer krachtige
 
 ![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
 
-*De zeven meter hoge WEEE (Waste Electrical and Electronic Equipment) Man is gemaakt van elektrische en elektronische apparaten die zijn weggegooid door de gemiddelde VK-burger in zijn/haar leven - overeenkomend met 3,3 ton ([bron](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
 
 {{< /container >}}
 
@@ -73,4 +73,4 @@ Het project BE4FOSS kreeg fondsen van de Federale Omgevingsagency en het Federal
 
 De uitgever is verantwoordelijk voor de inhoud van deze publicatie.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Officiële BMUV en UBA-logo's worden alleen verzonden op een verzoek aan: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de

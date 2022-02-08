@@ -7,8 +7,8 @@ authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
 - Programari lliure
-- eficiència energètica
-- vida operativa del maquinari
+- Eficiència energètica
+- Hardware Operating Life
 - Blauer Engel
 date: 2022-01-25
 summary: L'eficiència del programari és l'eficiència de recursos!
@@ -29,7 +29,7 @@ De nou, el programari és crític. La inflació de programari que requereix un m
 
 ![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
 
-*L'Home WEEE (Waste Electrical and Electronic Equipment -Brossa d'equips elèctric i electrònics-) de set metres d'alçada està fet d'equips elèctrics i electrònics llançats pel ciutadà mitjà de Regne Unit durant tota la seva vida, equivalent a 3,3 tones ([font](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
 
 {{< /container >}}
 
@@ -73,4 +73,4 @@ El projecte BE4FOSS ha estat finançat per l'Agència Federal del Medi Ambient i
 
 L'editor és el responsable del contingut d'aquesta publicació.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Els logotips oficials de BMUV i UBA només s'envien sol·licitant-ho a: [verbaendefoerderung@uba.de](mailto:verbaendefoerderung@uba.de)
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de

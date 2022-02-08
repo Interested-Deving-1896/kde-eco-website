@@ -7,8 +7,8 @@ authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
 - Prosto programje
-- energetska učinkovitost
-- življenjska  doba strojne opreme
+- Energetska učinkovitost
+- Hardware Operating Life
 - Modri angel
 date: 2022-01-25
 summary: Programska učinkovitost je učinkovita raba virov!
@@ -29,7 +29,7 @@ Spet je kritična programska oprema. Potratna programska oprema zahteva več in 
 
 ![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
 
-*The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
+*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
 
 {{< /container >}}
 
@@ -73,4 +73,4 @@ Projekt BE4Foss je financirala nemška Zvezna agencija za okolje in Zvezno minis
 
 Založnik je odgovoren za vsebino te publikacije.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Uradni logotipi BMUV in UBA se pošiljajo samo z zahtevo na: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
