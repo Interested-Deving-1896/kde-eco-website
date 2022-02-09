@@ -8,7 +8,7 @@ authors:
 categories:
 - Вільне програмне забезпечення
 - Енергоефективність
-- Hardware Operating Life
+- Експлуатаційний ресурс обладнання
 - Blauer Engel
 date: 2022-01-25
 summary: Ефективність програм — ресурсоефективність!
@@ -29,7 +29,7 @@ url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certificat
 
 ![Проєкт WEEE «Людина в Едемі»](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "Проєкт WEEE «Людина в Едемі»")
 
-*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
+*«Семиметрова фігура людини WEEE (Waste Electrical and Electronic Equipment або «Викинуте електричне та електронне обладнання»), яку створено з електричного та електронного обладнання, яке викидає середньостатистичний мешканець Великої Британії протягом життя — еквівалент 3,3 тонн.» ([джерело](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
 
 {{< /container >}}
 
@@ -73,4 +73,4 @@ url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certificat
 
 За вміст цієї публікації відповідає її видавець.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Офіційні логотипи BMUV і UBA надсилаються лише за запитом за адресою verbaendefoerderung@uba.de
