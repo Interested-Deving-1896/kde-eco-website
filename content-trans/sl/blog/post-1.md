@@ -8,7 +8,7 @@ authors:
 categories:
 - Prosto programje
 - Energetska učinkovitost
-- Hardware Operating Life
+- Življenjska doba strojne opreme
 - Modri angel
 date: 2022-01-25
 summary: Programska učinkovitost je učinkovita raba virov!
@@ -29,7 +29,7 @@ Spet je kritična programska oprema. Potratna programska oprema zahteva več in 
 
 ![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
 
-*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
+*»Sedem metrov visok kip WEEE (Waste Electrical and Electronic Equipment - Zavržena električna in elektronska oprema) Man je izdelan iz električne in elektronske opreme, ki jo je povprečen državljan Združenega kraljestva zavrgel v življenju - ima težo 3,3 ton.« ([vir](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
 
 {{< /container >}}
 
@@ -37,11 +37,11 @@ Torej, ko razmišljate o tem, kaj storiti, ko se podnebna kriza nadaljuje, kje z
 
 Vsaka od teh odločitev ima strošek in/ali korist. Na primer, več (nepotrebnih) postopkov, ki jih aplikacija poganja v ozadju, več virov bo potrebovala strojna oprema. Te stroške pomnožite na stotine milijone ali celo milijarde uporabnikov računalnikov po vsem svetu in ti se hitro povečujejo.
 
-Velja tudi obratno: zmanjšane zahteve iz programske opreme zmanjšujejozahteve po naših virih.
+Velja tudi obratno: zmanjšane zahteve iz programske opreme zmanjšujejo zahteve po naših virih.
 
 Z drugimi besedami, učinkovitost programske opreme pomeni učinkovitost virov!
 
-Pred kratkim, je medsebojno odvisnost med programsko opremo intrajnostjo uradno priznala [Nemška agencija za okolje](https://www.umweltbundesamt.de/en) (* umweltbundesamt *, ali UBA). Leta 2020 je UBA izdala [merila za dodelitev] (https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf) za namizno programsko opremo za pridobitev eko-certifikata z oznako Modri angel. Kategorije za potrjevanje vključujejo energetsko učinkovitost, razširitev potencialne življenjske dobe strojne opreme in avtonomije uporabnikov ... vse se brezhibno prilegajo prosti in odprtokodni programski opremi (angl. FOSS).
+Pred kratkim, je medsebojno odvisnost med programsko opremo intrajnostjo uradno priznala [Nemška agencija za okolje](https://www.umweltbundesamt.de/en) (* umweltbundesamt *, ali UBA). Leta 2020 je UBA izdala [merila za dodelitev](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf) za namizno programsko opremo za pridobitev eko-certifikata z oznako Modri angel. Kategorije za potrjevanje vključujejo energetsko učinkovitost, razširitev potencialne življenjske dobe strojne opreme in avtonomije uporabnikov ... vse se brezhibno prilegajo prosti in odprtokodni programski opremi (angl. FOSS).
 
 {{< container class="text-center" >}}
 
@@ -73,4 +73,4 @@ Projekt BE4Foss je financirala nemška Zvezna agencija za okolje in Zvezno minis
 
 Založnik je odgovoren za vsebino te publikacije.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Uradne logotipe BMUV in UBA pošiljamo samo na zahtevo s prošnjo na: verbaendefoerderung@uba.de

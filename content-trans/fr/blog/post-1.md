@@ -8,7 +8,7 @@ authors:
 categories:
 - Logiciels libres
 - Efficacité énergétique
-- Hardware Operating Life
+- Durée de vie opérationnelle du matériel
 - Blauer Engel
 date: 2022-01-25
 summary: L'efficacité des logiciels est l'efficacité des ressources! 
@@ -29,7 +29,7 @@ Là encore, les logiciels sont essentiels. L'accumulation de logiciels nécessit
 
 ![« WEEE Man » du projet « The Eden »](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg « « WEEE Man » du projet « The Eden »)
 
-*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
+*« L'homme des Déchets d'Équipements Électriques et Électroniques (WEEE, Waste Electrical and Electronic Equipment Man), haut de sept mètres, est construit à partir des équipements électriques et électroniques jetés par le citoyen britannique moyen au cours de sa vie, soit 3,3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
 
 {{< /container >}}
 
@@ -73,4 +73,4 @@ Le projet « BE4FOSS » a été financé par l'Agence fédérale pour l'enviro
 
 L'éditeur est responsable du contenu de cette publication.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Les logos officiels de « BMU » et « UBA » ne sont envoyés que sur demande au courriel « verbaendefoerderung@uba.de ».
