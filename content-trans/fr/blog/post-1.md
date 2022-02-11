@@ -11,7 +11,7 @@ categories:
 - Durée de vie opérationnelle du matériel
 - Blauer Engel
 date: 2022-01-25
-summary: L'efficacité des logiciels est l'efficacité des ressources! 
+summary: L'efficacité des logiciels est l'efficacité des ressources !
 title: Logiciel économe en ressources et éco-certification « Blauer Engel »
 url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 ---
@@ -27,9 +27,9 @@ Là encore, les logiciels sont essentiels. L'accumulation de logiciels nécessit
 
 {{< container class="text-center" >}}
 
-![« WEEE Man » du projet « The Eden »](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg « « WEEE Man » du projet « The Eden »)
+![ « WEEE Man » du projet « The Eden » ](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg « WEEE Man » du projet « The Eden »)
 
-*« L'homme des Déchets d'Équipements Électriques et Électroniques (WEEE, Waste Electrical and Electronic Equipment Man), haut de sept mètres, est construit à partir des équipements électriques et électroniques jetés par le citoyen britannique moyen au cours de sa vie, soit 3,3 tonnes ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
+* « L'homme des Déchets d'Équipements Électriques et Électroniques (WEEE, Waste Electrical and Electronic Equipment Man), haut de sept mètres, est construit à partir des équipements électriques et électroniques jetés par le citoyen britannique moyen au cours de sa vie, soit 3,3 tonnes » ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
 
 {{< /container >}}
 

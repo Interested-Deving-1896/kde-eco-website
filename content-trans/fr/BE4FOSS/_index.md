@@ -8,7 +8,7 @@ Le projet « BE4FOSS » fait progresser l'éco-certification des logiciels éc
 
 1. ** MESURER ** dans des laboratoires spécifiques, tels que le laboratoire « KDAB » de Berlin
 1. ** ANALYSER ** grâce à l'utilisation d'outils de statistiques comme OSCAR (« Open source Software Consumption Analysis in R »)
-1. ** CERTIFIER ** en diffusant le rapport concernant le respect des critères pour le certificat « Blauer Engel ».
+1. ** CERTIFIER ** en diffusant le rapport concernant le respect des critères pour l'éco-label « Blauer Engel ».
 
 Les bénéfices de l'obtention de ce label Éco concernent :
 

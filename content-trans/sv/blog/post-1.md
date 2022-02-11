@@ -8,7 +8,7 @@ authors:
 categories:
 - Fri programvara
 - Energieffektivitet
-- Hardware Operating Life
+- Användningslivslängd för maskinvara
 - Blauer Engel
 date: 2022-01-25
 summary: Programvarueffektivitet är resurseffektivitet!
@@ -29,7 +29,7 @@ Ta en titt på programvaran: samma dator som utför samma uppgift men med två o
 
 ![Eden-projektets WEEE-man](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man At The Eden Project")
 
-*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
+*"Den sju meter höga WEEE-mannen (Waste Electrical and Electronic Equipment) är gjord av elektriska och elektroniska apparater som har slängts av vanliga medborgare i Storbritannien under deras livstid, vilket motsvarar 3,3 ton." ([källa](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
 
 {{< /container >}}
 
@@ -73,4 +73,4 @@ Projektet BE4FOSS grundades av det federala miljödepartementet och det federala
 
 Utgivaren är ansvarig för innehållet i den här publikationen.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Officiella logotyper för BMUV och UBA skickas bara på begäran hos: verbaendefoerderung@uba.de
