@@ -33,7 +33,7 @@ Ta en titt på programvaran: samma dator som utför samma uppgift men med två o
 
 {{< /container >}}
 
-Så när man tänker på vad man ska göra medan klimatkrisen fortsätter, var man ska börja och hur, tror vi på [KDE Eco](https://eco.kde.org/) att programvara, i synnerhet fri programvara, är ett bra ställe att börja. Fri programvara betyder att användare och deras gemenskaper har frihet att kontrollera programvaran de använder, inte tvärtom. Friheten leder till verkliga valmöjligheter. Möjlighet att välja vad man installerar, eller avinstallerar. Alternativ för att ändra programvara så att den blir effektivare. Fortsatt stöd för äldre, men hel funktionsdugliga apparater. Och så vidare.
+Så när man tänker på vad man ska göra medan klimatkrisen fortsätter, var man ska börja och hur, tror vi på [KDE Eko](https://eco.kde.org/) att programvara, i synnerhet fri programvara, är ett bra ställe att börja. Fri programvara betyder att användare och deras gemenskaper har frihet att kontrollera programvaran de använder, inte tvärtom. Friheten leder till verkliga valmöjligheter. Möjlighet att välja vad man installerar, eller avinstallerar. Alternativ för att ändra programvara så att den blir effektivare. Fortsatt stöd för äldre, men hel funktionsdugliga apparater. Och så vidare.
 
 Var och en av valmöjligheterna har en kostnad och/eller fördel. Exempelvis, ju fler (onödiga) processer som ett program kör i bakgrunden, desto mer resurser krävs av maskinvaran. Multiplicera sådana kostnader med hundratals miljoner, eller till och med miljarder, datorer över hela världen, så ökar de snabbt.
 
@@ -45,11 +45,11 @@ Nyligen erkändes beroendet mellan programvarukonstruktion och hållbarhet offic
 
 {{< container class="text-center" >}}
 
-![KDE Eco-logotyp med vegetation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
+![KDE Eko-logotyp med vegetation](/blog/images/KDE-eco-logo-name_vegetation.jpg)
 
 {{< /container >}}
 
-Projektet Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4foss)) från KDE e.V. har som avsikt att samla, sammanfatta och sprida information om Blauer Engel eko-certifiering och resurseffektivitet när det gäller utveckling av fri och öppen programvara. Att mäta energianvändningen för fri programvara är fokus för projektet för energieffektivitet hos fri och öppen programvara ([FEEP](https://invent.kde.org/teams/eco/feep)). Båda projekt ingår i det banbrytande [KDE Eco](https://invent.kde.org/teams/eco) initiativet.
+Projektet Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4foss)) från KDE e.V. har som avsikt att samla, sammanfatta och sprida information om Blauer Engel eko-certifiering och resurseffektivitet när det gäller utveckling av fri och öppen programvara. Att mäta energianvändningen för fri programvara är fokus för projektet för energieffektivitet hos fri och öppen programvara ([FEEP](https://invent.kde.org/teams/eco/feep)). Båda projekt ingår i det banbrytande [KDE Eko](https://invent.kde.org/teams/eco) initiativet.
 
 {{< container class="text-center" >}}
 

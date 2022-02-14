@@ -1,5 +1,5 @@
 ---
-Description: KDE Eco-blogg
+Description: KDE Eko-blogg
 Title: Blogg
 menu:
   main:

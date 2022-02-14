@@ -2,7 +2,7 @@
 menu:
   main:
     weight: 4
-name: KDE Eco
+name: KDE Eko
 title: Engagera dig
 userbase: KDE Eco
 ---
@@ -15,7 +15,7 @@ Vi behöver så många motiverade personer som möjligt för att komma framåt. 
 - BigBlueButton: Månadsvisa träffar, andra onsdagen 19:00 CEST/CET (Berlintid, kontakta oss för detaljerad information)
 - Matrix-rum: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 - E-postlista för energieffektivitet: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- KDE miljöforum: https://forum.kde.org/viewforum.php?f=334
+- KDE Eko forum: https://forum.kde.org/viewforum.php?f=334
 
 ### Resurser
 

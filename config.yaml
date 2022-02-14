@@ -237,7 +237,7 @@ languages:
       - name: Ge ett bidrag
         url: https://kde.org/community/donations/
         weight: 6
-    title: KDE Eco
+    title: KDE Eko
     weight: 2
   uk:
     contentDir: content-trans/uk
