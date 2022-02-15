@@ -1,5 +1,6 @@
 /public/
 *.swp
 /resources/
+.hugo_build.lock
 /po[st]*/
 /locale*/

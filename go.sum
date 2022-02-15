@@ -3,5 +3,5 @@ github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20100.20300/go.mod h1:XWU/Oh+h
 github.com/thednp/bootstrap.native v0.0.0-20220121213928-48c5590165ff h1:Qd6AApJOsNnUsvaDPhw3Cd3zYjIBTsObRbODf3KcTgg=
 github.com/thednp/bootstrap.native v0.0.0-20220121213928-48c5590165ff/go.mod h1:apvEEkedEAYkAOjFu4DSnvP3QeFy+8tq7mjzzEfhQCA=
 github.com/twbs/bootstrap v5.1.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
-invent.kde.org/websites/aether-sass v0.0.0-20220204171524-16bb666ad3c9 h1:+Z4RCBN7c2OL7cHrA/9vfpvEQ9zUrTGSe2nJWrnNT4c=
-invent.kde.org/websites/aether-sass v0.0.0-20220204171524-16bb666ad3c9/go.mod h1:xB1fuW6AV0KGr1sQ98fT+OKC0NJa0a1h4ZQBYkjqJRU=
+invent.kde.org/websites/aether-sass v0.0.0-20220215121723-a1839c487f3a h1:LVOJEhmtFxuLnqu7/cYXHBLb6NxT7zd9ElqpB+D9stI=
+invent.kde.org/websites/aether-sass v0.0.0-20220215121723-a1839c487f3a/go.mod h1:xB1fuW6AV0KGr1sQ98fT+OKC0NJa0a1h4ZQBYkjqJRU=

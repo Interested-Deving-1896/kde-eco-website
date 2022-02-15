@@ -2,7 +2,7 @@
 <main role="main">
   <section class="section-blue mt-0">
     <div class="container p-5">
-      <h1 class="my-2">{{ .Title | humanize }} </h1>
+      <h1 class="my-2">{{ .Title | humanize }}&nbsp;{{ partial "rss_section.html" . }}</h1>
       {{ $title := .Title }}
       {{ with .Content }}
       {{.}}
