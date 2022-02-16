@@ -15,8 +15,8 @@ home.engage.mailinglist:
 home.engage.matrix:
   other: Matrix
 home.feep:
-  other: FOSS Energy Efficiency Project (FEEP) - Projekt energetske učinkovitosti
-    prostega programja
+  other: Projekt energetske učinkovitosti prostega programja FOSS Energy Efficiency
+    Project (FEEP)
 home.feep.alt:
   other: Slika globusa z računalniško miško
 home.funding.alt:
@@ -33,7 +33,7 @@ home.header.feep.description:
 home.header.feep.subtitle:
   other: Projekt energetske učinkovitosti proste in odprte programske opreme
 home.header.more:
-  other: Naučite se več
+  other: Več o tem
 home.help:
   other: Kako lahko pomagate
 home.help.alt:

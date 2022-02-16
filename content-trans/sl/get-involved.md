@@ -2,7 +2,7 @@
 menu:
   main:
     weight: 4
-name: KDE Eco
+name: Eko KDE
 title: Bodite vpleteni
 userbase: KDE Eco
 ---
