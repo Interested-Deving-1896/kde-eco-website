@@ -8,7 +8,7 @@ authors:
 categories:
 - Software Libero
 - Efficienza energetica
-- Hardware Operating Life
+- Vita operativa dell'hardware
 - Blauer Engel
 date: 2022-01-25
 summary: L'efficienza del software è efficienza delle risorse!
@@ -29,7 +29,7 @@ Ancora una volta, il software è fondamentale. Il sovraccarico del software che 
 
 ![WEEE Man al progetto Eden](/blog/images/geograph-2637892-by-James-T-M-Towill_800x600.jpg "WEEE Man al progetto Eden")
 
-*"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man is made of electrical and electronic equipment thrown away by the average UK citizen in their lifetime - equating to 3.3 tonnes." ([source](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*
+*«WEEE Man (Waste Electrical and Electronic Equipment) alto sette metri è costituito da apparecchiature elettriche ed elettroniche rottamate dal cittadino medio del Regno Unito nella sua vita, pari a 3,3 tonnellate.» ([fonte](https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*
 
 {{< /container >}}
 
@@ -73,4 +73,4 @@ Il progetto BE4FOSS è stato finanziato dall'Agenzia federale dell'ambiente e da
 
 L'editore è responsabile per il contenuto di questa pubblicazione.
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> I loghi ufficiale di BMUV e UBA sono inviati solo su richiesta a: verbaendefoerderung@uba.de
