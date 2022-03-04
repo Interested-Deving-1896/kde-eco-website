@@ -1,4 +1,5 @@
 ---
+publishdate: 2022-03-05
 date: 2022-03-05
 title: Celebrate Energy Conservation Day With KDE Eco
 categories: [Energy Conservation, Free Software, Sustainability]
@@ -31,7 +32,7 @@ See you on Energy Conservation Day!
 
 #### Funding Notice
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>), who organize the *Tag des Energiesparens* (Day of Energy Conservation). The funds are made available by resolution of the German Bundestag.
+The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>), who organize the *Tag des Energiesparens* (Energy Conservation Day). The funds are made available by resolution of the German Bundestag.
 
 {{< container >}}
 
