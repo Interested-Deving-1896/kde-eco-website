@@ -10,14 +10,14 @@ userbase: KDE Eco
 
 We need as many motivated people as possible to drive this forward. Here are some channels where you can get more information and contribute.
 
-### Community & Support
+### Komunita a podpora
 
 - BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin time) (contact us for details)
 - Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
 - Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 - KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334
 
-### Resources
+### Zdroje
 
 - FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
 - BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss
