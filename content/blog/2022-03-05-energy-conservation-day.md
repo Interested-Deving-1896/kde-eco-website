@@ -1,5 +1,5 @@
 ---
-publishdate: 2022-03-05
+publishDate: 2022-03-05
 date: 2022-03-05
 title: Celebrate Energy Conservation Day With KDE Eco
 categories: [Energy Conservation, Free Software, Sustainability]
