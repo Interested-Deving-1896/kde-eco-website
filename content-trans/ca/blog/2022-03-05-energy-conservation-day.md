@@ -4,38 +4,38 @@ author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
-- Energy Conservation
+- Conservació de l'energia
 - Programari lliure
-- Sustainability
+- Sostenibilitat
 date: 2022-03-05
 publishDate: 2022-03-05
-summary: March 5th is Energy Conservation Day. Celebrate with Free Software and KDE
-  Eco!
-title: Celebrate Energy Conservation Day With KDE Eco
+summary: El 5 de març és el Dia de conservació de l'energia. Celebreu-ho amb el programari
+  lliure i KDE Eco!
+title: Celebreu el Dia de conservació de l'energia amb KDE Eco
 ---
-Of the challenges humanity faces in its struggle to power modern-day civilization, energy conservation is one of the more difficult to achieve. But it is also the most worthy of pursuing, as ultimately many of the current sources of energy we depend on are finite.
+Dels reptes als quals s'enfronta la humanitat en la seva lluita per potenciar la civilització moderna, la conservació de l'energia és un dels més difícils d'aconseguir. Però també és el més digne de perseguir, ja que en última instància moltes de les fonts d'energia actuals de les quals depenem són finites.
 
-That is why reducing the amount of energy we consume is a priority for [KDE Eco](https://eco.kde.org/). All [KDE](https://kde.org) projects are Free Software, and Free Software entails transparency and user autonomy. The first has always provided users the opportunity to inspect and learn from how software runs; today, this transparency has been extended to include software's [energy consumption](https://invent.kde.org/teams/eco/feep) when in use. The second allows Free Software users to install what they need on the devices they want, bypassing unnecessary and battery-draining spyware and bloatware while [extending the lifespan of their hardware](https://fsfe.org/activities/upcyclingandroid/). Both combined give KDE Eco and Free Software developers the means to develop energy-saving improvements for applications and frameworks, to continue support for otherwise unsupported devices, and deploy exactly what people want and need.
+Per això, reduir la quantitat d'energia que consumim és una prioritat per a [KDE Eco](https://eco.kde.org/). Tots els projectes [KDE](https://kde.org) són programari lliure, i el programari lliure implica transparència i autonomia de l'usuari. La primera sempre ha proporcionat als usuaris l'oportunitat d'inspeccionar i aprendre com s'executa el programari; avui, aquesta transparència s'ha ampliat per incloure el [consum d'energia del programari](https://invent.kde.org/teams/eco/feep) quan s'usa. La segona permet als usuaris de programari lliure instal·lar el que necessitin en els dispositius que vulguin, oblidant-se del programari espia i programari inflat mentre [perllonga l'esperança de vida del vostre maquinari](https://fsfe.org/activities/upcyclingandroid/). Totes dues combinades donen a KDE Eco i als desenvolupadors de programari els mitjans per desenvolupar millores d'estalvi d'energia per a aplicacions i entorns de treball, per continuar el suport a dispositius no suportats, i desplegar exactament el que la gent vol i necessita.
 
 {{< container class="text-center" >}}
 
 ![](/blog/images/tag-des-energiesparens.jpg)
 
-*Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Today we are inviting you to [join us](https://eco.kde.org/get-involved/) at KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*
+*Alemanya ha declarat el 5 de març el [Dia de conservació de l'energia](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Avui us convidem a [unir-vos](https://eco.kde.org/get-involved/) a KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*
 
 {{< /container >}}
 
-Clearly, energy conservation for a small number of software products is not going to make any noticeable difference. But imagine if we start a trend; imagine conserving even small amounts of energy on every app, game, and framework; on hundreds of thousands of programs, running across millions of devices with continuous support. Users will enjoy longer battery lives and lower electricity bills. They can keep using still-functioning hardware, with greater personal savings yet reduced global C02 emissions by avoiding the unnecessary production and shipment of new devices. Most importantly, as a species we will use fewer shared resources while keeping humanity's digital civilization running.
+Evidentment, la conservació de l'energia per a un petit nombre de productes de programari no marcarà cap diferència notable. Però imagineu-vos si iniciem una tendència; imagineu conservar fins i tot petites quantitats d'energia en cada aplicació, joc i entorn de treball; en centenars de milers de programes, corrent a través de milions de dispositius amb suport continu. Els usuaris gaudiran d'una major durada de la bateria i de factures d'electricitat més baixes. Poden continuar utilitzant un maquinari que encara funciona, amb un major estalvi personal i una reducció de les emissions globals de CO₂ evitant la producció i el transport innecessaris de nous dispositius. El més important, com a espècie, utilitzarem menys recursos compartits al mateix temps que mantenim en funcionament la civilització digital de la humanitat.
 
-You can be part of that.
+Podeu ser part d'això.
 
-Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens), and today we are inviting you to join us. Whether you are a user concerned with the carbon footprint of your computing usage, or a project looking to improve the efficiency of your software, [visit our website](https://eco.kde.org/) to find out how to participate in KDE Eco and [join us in our chat room](https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other members of the project.
+Alemanya ha declarat el 5 de març el [Dia de la conservació de l'energia](https://www.bmuv.de/servei/veranstaltungen/veranstaltung/tag-des-energiaparens), i avui us convidem a unir-vos a nosaltres. Tant si sou un usuari preocupat per la petjada de carboni del vostre ús de la informàtica, o un projecte que busca millorar l'eficiència del vostre programari, [visiteu el nostre lloc web](https://eco.kde.org/) per esbrinar com participar en el KDE Eco i [unir-vos a la nostra sala de xat](https://matrix.to///energyenergia-efficiency:kde.org) per parlar en directe amb altres membres del projecte.
 
-See you on Energy Conservation Day!
+Ens veiem al Dia de conservació de l'energia
 
 #### Anunci de finançament
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>), who organize the *Tag des Energiesparens* (Energy Conservation Day). The funds are made available by resolution of the German Bundestag.
+El projecte BE4FOSS ha estat finançat per l'Agència Federal del Medi Ambient i el Ministeri Federal de Medi Ambient, Conservació de la Naturalesa, Seguretat Nuclear i Protecció del Consumidor (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>), que organitza el Tag des Energiesparens* (Dia de conservació de l'energia). Els fons estan disponibles per una resolució del Bundestag alemany.
 
 {{< container >}}
 

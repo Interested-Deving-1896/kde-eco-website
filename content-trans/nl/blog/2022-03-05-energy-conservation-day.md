@@ -4,38 +4,37 @@ author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
-- Energy Conservation
+- Energiebesparing
 - Vrije software
-- Sustainability
+- Onderhoudbaarheid
 date: 2022-03-05
 publishDate: 2022-03-05
-summary: March 5th is Energy Conservation Day. Celebrate with Free Software and KDE
-  Eco!
-title: Celebrate Energy Conservation Day With KDE Eco
+summary: 5 maart is energiebesparingsdag. Vier het met Vrije software en KDE Eco!
+title: Vier energiebesparingsdag met KDE Eco
 ---
 Of the challenges humanity faces in its struggle to power modern-day civilization, energy conservation is one of the more difficult to achieve. But it is also the most worthy of pursuing, as ultimately many of the current sources of energy we depend on are finite.
 
-That is why reducing the amount of energy we consume is a priority for [KDE Eco](https://eco.kde.org/). All [KDE](https://kde.org) projects are Free Software, and Free Software entails transparency and user autonomy. The first has always provided users the opportunity to inspect and learn from how software runs; today, this transparency has been extended to include software's [energy consumption](https://invent.kde.org/teams/eco/feep) when in use. The second allows Free Software users to install what they need on the devices they want, bypassing unnecessary and battery-draining spyware and bloatware while [extending the lifespan of their hardware](https://fsfe.org/activities/upcyclingandroid/). Both combined give KDE Eco and Free Software developers the means to develop energy-saving improvements for applications and frameworks, to continue support for otherwise unsupported devices, and deploy exactly what people want and need.
+Dat is waarom verminderen van de hoeveelheid energie die we consumeren, een prioriteit is voor [KDE Eco](https://eco.kde.org/). Alle [KDE](https://kde.org) projecten zijn Vrije Software en Vrije Software omvat transparantie en autonomie van de gebruiker. Het eerste heeft gebruikers altijd de gelegenheid gegeven ze te inspecteren en van te leren hoe software werkt; vandaag, is deze transparantie uitgebreid [energieconsumptie](https://invent.kde.org/teams/eco/feep) bij gebruik van software. Het tweede biedt aan gebruikers van Vrije Software om wat ze nodig hebben op de apparaten die ze willen te installeren, voorbijgaand aan onnodige spyware en and bloatware die batterijen laat leeglopen onderwijl [de leeftijd van hun hardware te vergroten](https://fsfe.org/activities/upcyclingandroid/). Beiden gecombineerd geeft KDE Eco en Vrije Software ontwikkelaars de middelen om energiebesparende verbeteringen voor toepassingen en frameworks, om met ondersteuning voor anders niet ondersteunde apparaten door te gaan en te gebruiken wat mensen exact willen en nodig hebben.
 
 {{< container class="text-center" >}}
 
 ![](/blog/images/tag-des-energiesparens.jpg)
 
-*Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Today we are inviting you to [join us](https://eco.kde.org/get-involved/) at KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*
+*Duitsland heeft 5 maart verklaart tot [Energiebesparingsdag](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Vandaag nodigen we u uit om [mee te doen](https://eco.kde.org/get-involved/) op KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*
 
 {{< /container >}}
 
-Clearly, energy conservation for a small number of software products is not going to make any noticeable difference. But imagine if we start a trend; imagine conserving even small amounts of energy on every app, game, and framework; on hundreds of thousands of programs, running across millions of devices with continuous support. Users will enjoy longer battery lives and lower electricity bills. They can keep using still-functioning hardware, with greater personal savings yet reduced global C02 emissions by avoiding the unnecessary production and shipment of new devices. Most importantly, as a species we will use fewer shared resources while keeping humanity's digital civilization running.
+Het is helder, energiebesparing voor een klein aantal software producten zal geen groot verschil maken. Maar bedenk dat als we een trend starten; bedenk besparing van zelfs een kleine hoeveelheid energie op elke app, spel en framework; op honderden van duizenden programma's, die draaien op miljoenen apparaten met doorgaande ondersteuning. Gebruikers zullen blij zijn met langere batterijduur en lagere rekeningen voor elektriciteit. Ze kunnen nog steeds functionerende hardware gebruiken, met grotere persoonlijke besparingen daarmee globale C02 emissies te reduceren door de onnodige productie en verscheping van nieuwe apparaten. Meest belangrijk, als soort zullen we minder gedeelde hulpbronnen gebruiken terwijl digitale menselijke samenleving blijft draaien.
 
-You can be part of that.
+U kunt daar deel aan nemen.
 
-Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens), and today we are inviting you to join us. Whether you are a user concerned with the carbon footprint of your computing usage, or a project looking to improve the efficiency of your software, [visit our website](https://eco.kde.org/) to find out how to participate in KDE Eco and [join us in our chat room](https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other members of the project.
+Duitsland heeft 5 maart verklaart tot [Energiebesparingsdag](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens) en vandaag nodigen we u uit met ons mee te doen. Of u een gebruiker bent bezorgt over de carbonfootprint van uw computergebruik of zoekt naar het verbeteren van de efficiëntie van uw software, [bezoek onze website](https://eco.kde.org/) om uit te zoeken hoe u deel kunt nemen in KDE Eco en [doe mee in onze chatroom](https://matrix.to/#/#energy-efficiency:kde.org) om live te praten met andere leden van het project.
 
-See you on Energy Conservation Day!
+Zie u op de Energiebesparingsdag!
 
 #### Financieringsopmerking
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>), who organize the *Tag des Energiesparens* (Energy Conservation Day). The funds are made available by resolution of the German Bundestag.
+Het project BE4FOSS kreeg fondsen van de Federale Omgevingsagency en het Federale Ministerie voor de omgeving, Natuurbeheer, Nucleaire veiligheid en Consumentenbescherming (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</sup>), die de *Tag des Energiesparens* (Energiebesparingsdag) organiseert. De fondsen zijn beschikbaar gesteld door een resolutie van de Duitse Bondsdag.
 
 {{< container >}}
 

@@ -4,38 +4,38 @@ author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
-- Energy Conservation
+- Заощадження енергії
 - Вільне програмне забезпечення
-- Sustainability
+- Сталість
 date: 2022-03-05
 publishDate: 2022-03-05
-summary: March 5th is Energy Conservation Day. Celebrate with Free Software and KDE
-  Eco!
-title: Celebrate Energy Conservation Day With KDE Eco
+summary: 5 березня святкуємо День заощадження енергії. Відзначимо його із вільним
+  програмним забезпеченням і KDE Eco!
+title: Святкуйте День заощадження енергії з KDE Eco
 ---
-Of the challenges humanity faces in its struggle to power modern-day civilization, energy conservation is one of the more difficult to achieve. But it is also the most worthy of pursuing, as ultimately many of the current sources of energy we depend on are finite.
+Серед викликів, які постають перед людством у його боротьбі за отримання енергії для сучасної цивілізації, заощадження енергії є одним із найскладніших. Але це завдання є також найкориснішим, оскільки багато з поточних джерел енергії, від яких ми залежимо, є вичерпними.
 
-That is why reducing the amount of energy we consume is a priority for [KDE Eco](https://eco.kde.org/). All [KDE](https://kde.org) projects are Free Software, and Free Software entails transparency and user autonomy. The first has always provided users the opportunity to inspect and learn from how software runs; today, this transparency has been extended to include software's [energy consumption](https://invent.kde.org/teams/eco/feep) when in use. The second allows Free Software users to install what they need on the devices they want, bypassing unnecessary and battery-draining spyware and bloatware while [extending the lifespan of their hardware](https://fsfe.org/activities/upcyclingandroid/). Both combined give KDE Eco and Free Software developers the means to develop energy-saving improvements for applications and frameworks, to continue support for otherwise unsupported devices, and deploy exactly what people want and need.
+Ось чому зменшення споживання енергії є пріоритетом [KDE Eco](https://eco.kde.org/). Усі проєкти [KDE](https://kde.org) є вільним програмним забезпеченням, а «вільне програмне забезпечення» означає прозорість та автономію користувача. Прозорість завжди надавала користувачам можливість вивчати роботу програм і навчатися; сьогодні цю прозорість розширено — включено [енергоспоживання](https://invent.kde.org/teams/eco/feep) програмного забезпечення при користуванні. Автономія надає змогу користувачам вільного програмного забезпечення встановлювати на їхні пристрої лише те, що їм потрібно, уникаючи непотрібного програмного забезпечення, яке виснажує акумулятор і забиває пам'ять, одночасно [продовжуючи термін життя обладнання](https://fsfe.org/activities/upcyclingandroid/). Поєднання цих характеристик надає KDE Eco та розробникам вільного програмного забезпечення можливість створення енергозаощадливих удосконалень для програм і бібліотек, продовження підтримки непідтримуваних пристрої та розгортання точно того, що бажане і потрібне людям.
 
 {{< container class="text-center" >}}
 
 ![](/blog/images/tag-des-energiesparens.jpg)
 
-*Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Today we are inviting you to [join us](https://eco.kde.org/get-involved/) at KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*
+*5 березня проголошено Німеччиною [Днем заощадження енергії](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Сьогодні ми запрошуємо вас [долучитися до нас](https://eco.kde.org/get-involved/) у KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*
 
 {{< /container >}}
 
-Clearly, energy conservation for a small number of software products is not going to make any noticeable difference. But imagine if we start a trend; imagine conserving even small amounts of energy on every app, game, and framework; on hundreds of thousands of programs, running across millions of devices with continuous support. Users will enjoy longer battery lives and lower electricity bills. They can keep using still-functioning hardware, with greater personal savings yet reduced global C02 emissions by avoiding the unnecessary production and shipment of new devices. Most importantly, as a species we will use fewer shared resources while keeping humanity's digital civilization running.
+Звичайно, заощадження енергії для незначного діапазону програмних продуктів не дасть значного заощадження енергії загалом. Але уявіть, що це стане тенденцією, заощадження навіть незначних обсягів енергії у кожній програмі, грі та бібліотеці; у сотнях тисяч програм, які працюють на мільйонах пристроїв із неперервною підтримкою. Пристрій працюватиме від акумуляторів довше, а користувачі менше сплачуватимуть за електроенергію. Можна буде продовжувати користуватися функціональним обладнанням, заощаджуючи, одночасно зменшивши викиди CO2, уникаючи непотрібного виробництва та постачання нових пристроїв. Найважливіше, ми, як вид життя, використовуватимемо менше спільних ресурсів, підтримуючи розвиток цифрової цивілізації людства.
 
-You can be part of that.
+Ви можете бути частиною цього.
 
-Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens), and today we are inviting you to join us. Whether you are a user concerned with the carbon footprint of your computing usage, or a project looking to improve the efficiency of your software, [visit our website](https://eco.kde.org/) to find out how to participate in KDE Eco and [join us in our chat room](https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other members of the project.
+5 березня проголошено Німеччиною [Днем заощадження енергії](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens), і сьогодні ми запрошуємо вас долучитися до нас. Ви занепокоєні вуглецевим відбитком внаслідок вашого користування комп'ютером? Маєте проєкт, який шукає можливості удосконалити ефективність власних програм? [Відвідайте наш сайт](https://eco.kde.org/), щоб дізнатися проте, як взяти участь у KDE Eco. [Долучайтеся до нашої кімнати спілкування](https://matrix.to/#/#energy-efficiency:kde.org) для інтерактивного обговорення питань з іншими учасниками проєкту.
 
-See you on Energy Conservation Day!
+Побачимося на Дні заощадження енергії!
 
 #### Зауваження щодо фінансування
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>), who organize the *Tag des Energiesparens* (Energy Conservation Day). The funds are made available by resolution of the German Bundestag.
+Проєкт BE4FOSS було профінансовано Федеральною Агенцією з навколишнього середовища та Федеральним міністерством навколишнього середовища, збереження природи, ядерної безпеки та захисту споживачів (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</sup>), якою організовано *Tag des Energiesparens* (День заощадження енергії). Доступ до фінансування було затверджено Бундестагом ФРН.
 
 {{< container >}}
 
