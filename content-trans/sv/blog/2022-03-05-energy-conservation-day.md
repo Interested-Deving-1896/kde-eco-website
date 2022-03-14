@@ -6,7 +6,7 @@ authors:
 categories:
 - Energy Conservation
 - Fri programvara
-- Sustainability
+- Hållbarhet
 date: 2022-03-05
 publishDate: 2022-03-05
 summary: March 5th is Energy Conservation Day. Celebrate with Free Software and KDE
@@ -35,7 +35,7 @@ See you on Energy Conservation Day!
 
 #### Finansieringsanmärkning
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>), who organize the *Tag des Energiesparens* (Energy Conservation Day). The funds are made available by resolution of the German Bundestag.
+Projektet BE4FOSS grundades av det federala miljödepartementet och det federala ministeriet för miljö, naturvård, kärnkraftssäkerhet och konsumentskydd (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</sup>), som organiserar *Tag des Energiesparens* (Energibesparingsdagen). Medel tillhandahålls genom beslut av den Tyska Förbundsdagen.
 
 {{< container >}}
 
