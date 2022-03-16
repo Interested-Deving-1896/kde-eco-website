@@ -11,3 +11,4 @@ Read about the shared theme at [kde-hugo wiki](https://invent.kde.org/websites/a
 
 ### I18n
 See [hugoi18n](https://invent.kde.org/websites/hugo-i18n)
+
