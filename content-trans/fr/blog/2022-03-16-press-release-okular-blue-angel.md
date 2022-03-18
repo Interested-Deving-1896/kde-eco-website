@@ -6,7 +6,7 @@ authors:
 categories:
 - Okular
 - Blauer Engel
-- Global Ecolabelling Network
+- Réseau global d'attribution d'éco-labels
 - Développement durable
 date: 2022-03-16
 publishDate: 2022-03-16 09:00:00+01:00
@@ -14,12 +14,13 @@ scssFiles:
 - scss/20220316.scss
 subtitle: The multi-platform Free and Open-Source Software product is now officially
   recognized for sustainable software design
-summary: Press release to announce Okular receiving the Blue Angel eco-label.
+summary: Article de presse pour annoncer l'attribution de l'éco-label « Blue Angel »
+  à Okular.
 title: 'First Ever Eco-Certified Computer Program: KDE''s Popular PDF Reader Okular'
 ---
-{{< img figure_class="text-center" src="/blog/images/okular-main_w_logos_cleantitle.png" alt=`Okular screenshot` >}}
+{{< img figure_class="text-center" src="/blog/images/okular-main_w_logos_cleantitle.png" alt=`Copie d'écran de Okular` >}}
 
-{{< img figure_class="float-end floating-figure" src="/blog/images/hisc-apps-okular.svg" caption=`Okular Icon` >}}
+{{< img figure_class="float-end floating-figure" src="/blog/images/hisc-apps-okular.svg" caption=`Icône d'Okular` >}}
 
 [Okular](https://okular.kde.org/), KDE's popular multi-platform PDF reader and universal document viewer, has officially been recognized for sustainable software design as reflected in the recent [award criteria for software eco-certification](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf). In February 2022 Okular was [awarded the Blue Angel ecolabel](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products), the official environmental label awarded by the German government. Introduced in 1978, Blue Angel is the world's earliest established environmental label, and Okular is the first software product to be certified with its seal. What is more, Okular is the first ️ever eco-certified computer program within the 30 organizations of the [Global Ecolabelling Network](https://www.globalecolabelling.net/)! This network, of which Blue Angel is a member, represents over 50 countries.
 
@@ -31,7 +32,7 @@ The Blue Angel award criteria for software, with its focus on transparency in re
 
 The Blue Angel is awarded to a range of products and services, from paper products to construction materials to printers. In 2020 the German Environment Agency extended the award criteria to include software products, which was the first in the world of environmental certifications to link transparency and user autonomy with sustainability. In order to obtain the ecolabel, a software product must demonstrate that it meets a list of stringent requirements considered critical for the environment over the product's life cycle. These include providing transparency in the energy consumption when using the software -- for example, in the case of Okular, while reading or annotating a PDF -- and the ability to run the application on hardware at least five years old. The Blue Angel award criteria also include a list of user autonomy requirements which reduce the environmental impact of software.
 
-{{< img figure_class="float-start floating-figure w-30" src="/images/rees-en.svg" caption=`Blue Angel Ecolabel` >}}
+{{< img figure_class="float-start floating-figure w-30" src="/images/rees-en.svg" caption=`Eco-label « Blauer Engel »` >}}
 
 All of these criteria reflect KDE's values and those of the larger FOSS movement seamlessly. With Free and Open-Source Software, transparency is guaranteed and control is handed over to the users, instead of being held back by vendors or service providers. This allows users to decide what they want from the software they use and, all too often overlooked, the hardware as well. For instance, users may drive down the energy consumption of their programs with no loss in functionality as they can install only what they need, no more and no less; and avoid advertising and data-mining options, which would run unnecessary processes in the background driving up the consumption of resources. As for FOSS developers, they typically continue to support hardware that the industry would be eager to obsolete, providing users with up-to-date and secure software for devices that might otherwise be discarded as e-waste and end up polluting landfills. In short, as a consequence of the user freedoms and transparency guaranteed by a Free Software license, users and communities are able to influence the factors determining the resource consumption of their software!
 

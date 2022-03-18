@@ -4,13 +4,13 @@ author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
-- Energy Conservation
+- Energibesparing
 - Fri programvara
 - Hållbarhet
 date: 2022-03-05
 publishDate: 2022-03-05
-summary: March 5th is Energy Conservation Day. Celebrate with Free Software and KDE
-  Eco!
+summary: Den 5:e mars är energibesparingsdagen. Fira den med fri programvara och KDE
+  Eko!
 title: Celebrate Energy Conservation Day With KDE Eco
 ---
 Of the challenges humanity faces in its struggle to power modern-day civilization, energy conservation is one of the more difficult to achieve. But it is also the most worthy of pursuing, as ultimately many of the current sources of energy we depend on are finite.
@@ -27,7 +27,7 @@ That is why reducing the amount of energy we consume is a priority for [KDE Eco]
 
 Clearly, energy conservation for a small number of software products is not going to make any noticeable difference. But imagine if we start a trend; imagine conserving even small amounts of energy on every app, game, and framework; on hundreds of thousands of programs, running across millions of devices with continuous support. Users will enjoy longer battery lives and lower electricity bills. They can keep using still-functioning hardware, with greater personal savings yet reduced global C02 emissions by avoiding the unnecessary production and shipment of new devices. Most importantly, as a species we will use fewer shared resources while keeping humanity's digital civilization running.
 
-You can be part of that.
+Du kan delta.
 
 Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens), and today we are inviting you to join us. Whether you are a user concerned with the carbon footprint of your computing usage, or a project looking to improve the efficiency of your software, [visit our website](https://eco.kde.org/) to find out how to participate in KDE Eco and [join us in our chat room](https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other members of the project.
 

@@ -4,14 +4,14 @@ author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
-- Energy Conservation
+- Conservazione dell'energia
 - Software Libero
-- Sustainability
+- Sostenibilità
 date: 2022-03-05
 publishDate: 2022-03-05
-summary: March 5th is Energy Conservation Day. Celebrate with Free Software and KDE
-  Eco!
-title: Celebrate Energy Conservation Day With KDE Eco
+summary: Il 5 marzo è la Giornata del risparmio energetico. Festeggia con il software
+  gratuito e KDE Eco!
+title: Festeggia la Giornata del risparmio energetico con KDE Eco
 ---
 Of the challenges humanity faces in its struggle to power modern-day civilization, energy conservation is one of the more difficult to achieve. But it is also the most worthy of pursuing, as ultimately many of the current sources of energy we depend on are finite.
 
@@ -27,15 +27,15 @@ That is why reducing the amount of energy we consume is a priority for [KDE Eco]
 
 Clearly, energy conservation for a small number of software products is not going to make any noticeable difference. But imagine if we start a trend; imagine conserving even small amounts of energy on every app, game, and framework; on hundreds of thousands of programs, running across millions of devices with continuous support. Users will enjoy longer battery lives and lower electricity bills. They can keep using still-functioning hardware, with greater personal savings yet reduced global C02 emissions by avoiding the unnecessary production and shipment of new devices. Most importantly, as a species we will use fewer shared resources while keeping humanity's digital civilization running.
 
-You can be part of that.
+Puoi farne parte.
 
 Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens), and today we are inviting you to join us. Whether you are a user concerned with the carbon footprint of your computing usage, or a project looking to improve the efficiency of your software, [visit our website](https://eco.kde.org/) to find out how to participate in KDE Eco and [join us in our chat room](https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other members of the project.
 
-See you on Energy Conservation Day!
+Ci vediamo nella Giornata del risparmio energetico!
 
 #### Avviso di finanziamento
 
-The BE4FOSS project was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>), who organize the *Tag des Energiesparens* (Energy Conservation Day). The funds are made available by resolution of the German Bundestag.
+Il progetto BE4FOSS è stato finanziato dall'Agenzia federale dell'ambiente e dal Ministero federale per l'ambiente, la conservazione della natura, la sicurezza nucleare e la protezione dei consumatori (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). I fondi sono messi a disposizione con delibera del Bundestag tedesco.
 
 {{< container >}}
 
