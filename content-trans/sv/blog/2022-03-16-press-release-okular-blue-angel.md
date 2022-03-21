@@ -6,7 +6,7 @@ authors:
 categories:
 - Okular
 - Blauer Engel
-- Global Ecolabelling Network
+- Globalt miljömärkningsnätverk
 - Hållbarhet
 date: 2022-03-16
 publishDate: 2022-03-16 09:00:00+01:00
@@ -14,7 +14,8 @@ scssFiles:
 - scss/20220316.scss
 subtitle: The multi-platform Free and Open-Source Software product is now officially
   recognized for sustainable software design
-summary: Press release to announce Okular receiving the Blue Angel eco-label.
+summary: Pressrelease för att tillkännage att Okular har fått miljömärkningen Blå
+  ängel.
 title: 'First Ever Eco-Certified Computer Program: KDE''s Popular PDF Reader Okular'
 ---
 {{< img figure_class="text-center" src="/blog/images/okular-main_w_logos_cleantitle.png" alt=`Skärmbild av Okular` >}}
@@ -31,7 +32,7 @@ The Blue Angel award criteria for software, with its focus on transparency in re
 
 The Blue Angel is awarded to a range of products and services, from paper products to construction materials to printers. In 2020 the German Environment Agency extended the award criteria to include software products, which was the first in the world of environmental certifications to link transparency and user autonomy with sustainability. In order to obtain the ecolabel, a software product must demonstrate that it meets a list of stringent requirements considered critical for the environment over the product's life cycle. These include providing transparency in the energy consumption when using the software -- for example, in the case of Okular, while reading or annotating a PDF -- and the ability to run the application on hardware at least five years old. The Blue Angel award criteria also include a list of user autonomy requirements which reduce the environmental impact of software.
 
-{{< img figure_class="float-start floating-figure w-30" src="/images/rees-en.svg" caption=`Blå ängel miljömärke` >}}
+{{< img figure_class="float-start floating-figure w-30" src="/images/rees-en.svg" caption=`Blå ängel miljömärkning` >}}
 
 All of these criteria reflect KDE's values and those of the larger FOSS movement seamlessly. With Free and Open-Source Software, transparency is guaranteed and control is handed over to the users, instead of being held back by vendors or service providers. This allows users to decide what they want from the software they use and, all too often overlooked, the hardware as well. For instance, users may drive down the energy consumption of their programs with no loss in functionality as they can install only what they need, no more and no less; and avoid advertising and data-mining options, which would run unnecessary processes in the background driving up the consumption of resources. As for FOSS developers, they typically continue to support hardware that the industry would be eager to obsolete, providing users with up-to-date and secure software for devices that might otherwise be discarded as e-waste and end up polluting landfills. In short, as a consequence of the user freedoms and transparency guaranteed by a Free Software license, users and communities are able to influence the factors determining the resource consumption of their software!
 

@@ -11,7 +11,7 @@ date: 2022-03-05
 publishDate: 2022-03-05
 summary: Den 5:e mars är energibesparingsdagen. Fira den med fri programvara och KDE
   Eko!
-title: Celebrate Energy Conservation Day With KDE Eco
+title: Fira energibesparingsdagen med KDE Eko
 ---
 Of the challenges humanity faces in its struggle to power modern-day civilization, energy conservation is one of the more difficult to achieve. But it is also the most worthy of pursuing, as ultimately many of the current sources of energy we depend on are finite.
 
@@ -31,7 +31,7 @@ Du kan delta.
 
 Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens), and today we are inviting you to join us. Whether you are a user concerned with the carbon footprint of your computing usage, or a project looking to improve the efficiency of your software, [visit our website](https://eco.kde.org/) to find out how to participate in KDE Eco and [join us in our chat room](https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other members of the project.
 
-See you on Energy Conservation Day!
+Vi ses på energibesparingsdagen!
 
 #### Finansieringsanmärkning
 
