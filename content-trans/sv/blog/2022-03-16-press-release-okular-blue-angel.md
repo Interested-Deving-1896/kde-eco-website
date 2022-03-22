@@ -12,11 +12,11 @@ date: 2022-03-16
 publishDate: 2022-03-16 09:00:00+01:00
 scssFiles:
 - scss/20220316.scss
-subtitle: The multi-platform Free and Open-Source Software product is now officially
-  recognized for sustainable software design
+subtitle: Den fria programvaruprodukten för flera plattformar med fri och öppen källkod
+  är nu officiellt erkänd för hållbar programvarukonstruktion
 summary: Pressrelease för att tillkännage att Okular har fått miljömärkningen Blå
   ängel.
-title: 'First Ever Eco-Certified Computer Program: KDE''s Popular PDF Reader Okular'
+title: 'Det första miljömärkta datorprogrammet: KDE:s populära PDF-läsare Okular'
 ---
 {{< img figure_class="text-center" src="/blog/images/okular-main_w_logos_cleantitle.png" alt=`Skärmbild av Okular` >}}
 
@@ -38,7 +38,7 @@ All of these criteria reflect KDE's values and those of the larger FOSS movement
 
 Released under the GPLv2+ license, Okular is Free and Open-Source Software, and so was also already fulfilling many of the user autonomy criteria necessary to obtain the Blue Angel seal of approval. Further work was carried out to make Okular fully compliant with all of the Blue Angel criteria, and become officially recognized as providing transparency in energy and resource consumption, extending the potential hardware operating life of devices, and enabling user autonomy.
 
-KDE and the Free Software community would like to send a heartfelt thank you to the Okular developers for making environmentally-friendly software for all of us!
+KDE och den fria programvarugemenskapen skulle vilja skicka ett hjärtligt tack till Okular-utvecklarna för att ha skapat miljövänlig programvara åt oss alla!
 
 {{< img figure_class="float-end floating-figure w-30" src="/blog/images/KDE-eco-logo-name_vegetation.jpg" >}}
 
