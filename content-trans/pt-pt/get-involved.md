@@ -17,7 +17,7 @@ Precisamos de muita gente o mais motivada possível para levar isto em diante. A
 - Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 - Fórum do KDE Eco: https://forum.kde.org/viewforum.php?f=334
 
-### Resources
+### Recursos
 
 - FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
 - BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss

@@ -6,7 +6,7 @@ author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
-- Free Software
+- Software Livre
 - Eficiência Energética
 - Hardware Operating Life
 - Blauer Engel
@@ -71,6 +71,6 @@ The BE4FOSS project was funded by the Federal Environment Agency and the Federal
 
 {{< /container >}}
 
-The publisher is responsible for the content of this publication.
+O publicador é responsável pelo conteúdo desta publicação.
 
 <sup><a id="fn.1" href="#fnr.1">1</a></sup> Official BMUV and UBA-Logos are sent only by request at: verbaendefoerderung@uba.de
