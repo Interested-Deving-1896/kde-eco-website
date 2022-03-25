@@ -13,7 +13,7 @@ summary: Den 5:e mars är energibesparingsdagen. Fira den med fri programvara oc
   Eko!
 title: Fira energibesparingsdagen med KDE Eko
 ---
-Of the challenges humanity faces in its struggle to power modern-day civilization, energy conservation is one of the more difficult to achieve. But it is also the most worthy of pursuing, as ultimately many of the current sources of energy we depend on are finite.
+Av de utmaningar mänskligheten står inför i kampen för att driva dagens moderna samhälle, är energibesparing en av de svåraste att uppnå. Men det är också det som är mest värt att göra, eftersom många av dagens energikällor vi är beroende av är ändliga.
 
 That is why reducing the amount of energy we consume is a priority for [KDE Eco](https://eco.kde.org/). All [KDE](https://kde.org) projects are Free Software, and Free Software entails transparency and user autonomy. The first has always provided users the opportunity to inspect and learn from how software runs; today, this transparency has been extended to include software's [energy consumption](https://invent.kde.org/teams/eco/feep) when in use. The second allows Free Software users to install what they need on the devices they want, bypassing unnecessary and battery-draining spyware and bloatware while [extending the lifespan of their hardware](https://fsfe.org/activities/upcyclingandroid/). Both combined give KDE Eco and Free Software developers the means to develop energy-saving improvements for applications and frameworks, to continue support for otherwise unsupported devices, and deploy exactly what people want and need.
 
@@ -21,7 +21,7 @@ That is why reducing the amount of energy we consume is a priority for [KDE Eco]
 
 ![](/blog/images/tag-des-energiesparens.jpg)
 
-*Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Today we are inviting you to [join us](https://eco.kde.org/get-involved/) at KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*
+*Tyskland har utnämnt 5 mars till [energibesparingsdag](https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Idag bjuder vi in dig att [gå med i](https://eco.kde.org/get-involved/) KDE Eko. ([Bild: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*
 
 {{< /container >}}
 
