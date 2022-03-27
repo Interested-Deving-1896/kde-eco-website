@@ -1,4 +1,4 @@
 ---
 description: Tworzenie energooszczędnego, wolnego oprogramowania
-title: KDE Eco
+title: KDE Eko
 ---

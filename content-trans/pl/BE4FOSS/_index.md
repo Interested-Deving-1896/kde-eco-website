@@ -2,7 +2,7 @@
 layout: eco-label
 title: Etykieta Eko
 ---
-W 2020 r. Umweltbundesamt (Niemiecka Agencja Ochrony Środowiska) opublikowała kryteria przyznawania przyznawania certyfikatu ekologicznego z etykietą Blauer Engel dla oprogramowania biurowego. Kategorie do certyfikacji obejmują efektywność energetyczną, wydłużenie potencjalnego okresu eksploatacji sprzętu oraz autonomia użytkownika... z których wszystkie doskonale pasują do wolnego i otwartego oprogramowania.
+W 2020 r. Umweltbundesamt (Niemiecka Agencja Ochrony Środowiska) opublikowała kryteria przyznawania przyznawania certyfikatu ekologicznego z etykietą Blauer Engel dla oprogramowania biurowego. Kategorie do certyfikacji obejmują efektywność energetyczną, wydłużenie potencjalnego okresu eksploatacji sprzętu oraz niezależność użytkownika... z których wszystkie doskonale pasują do wolnego i otwartego oprogramowania.
 
 Projekt BE4FOSS wspiera eko-certyfikację dla zasobo-oszczędnego oprogramowania w społeczności FOSS. Uzyskanie znaku Blauer Engel odbywa się w trzech krokach: (1) POMIAR, (2) ANALIZA i (3) CERTYFIKACJA
 

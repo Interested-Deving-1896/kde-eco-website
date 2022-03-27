@@ -12,8 +12,8 @@ categories:
 - Blauer Engel
 date: 2022-01-25
 summary: Efektywność oprogramowania to efektywne wykorzystanie zasobów!
-title: Oprogramowanie efektywnie korzystające z zasobów i certyfikat ekologiczny Blauer
-  Engel
+title: Oprogramowanie efektywnie korzystające z zasobów i certyfikat ekologiczny Niebieski
+  Anioł
 url: blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification
 ---
 Często pomija się fakt, że o zużyciu zasobów przez sprzęt zależy od działającego na nim oprogramowania.
@@ -42,7 +42,7 @@ Jest też odwrotnie: zmniejszając wymagania wobec oprogramowania, zmniejszamy z
 
 Innymi słowy, efektywne wykorzystanie oprogramowania oznacza efektywne wykorzystanie zasobów!
 
-Ostatnio współzależność pomiędzy inżynierią oprogramowania a środowiska] (https://www.umweltbundesamt.de/en) (*Umweltbundesamt*, lub UBA). W 2020 roku UBA opublikowała [kryteria przyznawania] (https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215- 202001-en-Criteria-2020-02-13.pdf) dla oprogramowania desktopowego, certyfikatu ekologicznego z etykietą Blauer Engel. Kategorie certyfikacji obejmują wydajność energetyczną, wydłużenie potencjalnego okresu eksploatacji sprzętu i autonomię użytkownika... a wszystkie te kategorie doskonale pasują do Wolnego i Otwartego Oprogramowania (FOSS).
+Ostatnio współzależność pomiędzy inżynierią oprogramowania a środowiska] (https://www.umweltbundesamt.de/en) (*Umweltbundesamt*, lub UBA). W 2020 roku UBA opublikowała [kryteria przyznawania] (https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215- 202001-en-Criteria-2020-02-13.pdf) dla oprogramowania biurkowego, certyfikatu ekologicznego z etykietą Niebieski Anioł. Kategorie certyfikacji obejmują wydajność energetyczną, wydłużenie potencjalnego okresu eksploatacji sprzętu i autonomię użytkownika... a wszystkie te kategorie doskonale pasują do Wolnego i Otwartego Oprogramowania (FOSS).
 
 {{< container class="text-center" >}}
 
@@ -50,7 +50,7 @@ Ostatnio współzależność pomiędzy inżynierią oprogramowania a środowiska
 
 {{< /container >}}
 
-Projekt Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4foss)) z KDE e.V. ma na celu zbieranie, podsumowywanie i rozpowszechnianie informacji związanych z certyfikatem ekologicznym Blauer Engel i wydajnością zasobów w odniesieniu do rozwoju FOSS. Pomiar zużycia energii przez wolne oprogramowanie jest głównym celem projektu Wolnego & otwartego oprogramowania projektu efektywności energetycznej ([FEEP](https://invent.kde.org/teams/eco/feep)). Oba projekty są częścią pionierskiej inicjatywy [KDE Eco] (https://invent.kde.org/teams/eco)!
+Projekt Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4foss)) z KDE e.V. ma na celu zbieranie, podsumowywanie i rozpowszechnianie informacji związanych z certyfikatem ekologicznym Niebieski Anioł  i wydajnością zasobów w odniesieniu do rozwoju FOSS. Pomiar zużycia energii przez wolne oprogramowanie jest głównym celem projektu Wolnego & otwartego oprogramowania projektu efektywności energetycznej ([FEEP](https://invent.kde.org/teams/eco/feep)). Oba projekty są częścią pionierskiej inicjatywy [KDE Eko] (https://invent.kde.org/teams/eco)!
 
 {{< container class="text-center" >}}
 

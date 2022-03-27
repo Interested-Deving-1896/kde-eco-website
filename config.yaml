@@ -191,7 +191,7 @@ languages:
       - name: Darowizna
         url: https://kde.org/community/donations/
         weight: 6
-    title: KDE Eco
+    title: KDE Eko
     weight: 2
   pt-pt:
     contentDir: content-trans/pt-pt
