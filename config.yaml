@@ -88,7 +88,7 @@ languages:
         weight: 3
       - name: Donate
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 1
   es:

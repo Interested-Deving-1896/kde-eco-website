@@ -4,7 +4,7 @@ title: Support
 draft : true
 menu:
   main:
-    weight: 5
+    weight: 9
 name: KDE Eco
 forums: https://forum.kde.org/
 handbook: TBD

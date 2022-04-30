@@ -4,7 +4,7 @@ name: KDE Eco
 userbase: KDE Eco
 menu:
   main:
-    weight: 4
+    weight: 8
 ---
 ## Become a part of the sustainable software movement
 
