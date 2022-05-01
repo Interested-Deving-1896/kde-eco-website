@@ -38,7 +38,7 @@ languages:
         weight: 3
       - name: Donatius
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   cs:
@@ -55,7 +55,7 @@ languages:
         weight: 3
       - name: Přispějte
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   de:
@@ -72,7 +72,7 @@ languages:
         weight: 3
       - name: Spenden
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   en:
@@ -105,7 +105,7 @@ languages:
         weight: 3
       - name: Donar
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   fr:
@@ -122,7 +122,7 @@ languages:
         weight: 3
       - name: Faire un don
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   it:
@@ -139,7 +139,7 @@ languages:
         weight: 3
       - name: Fai una donazione
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   ko:
@@ -156,7 +156,7 @@ languages:
         weight: 3
       - name: 기부하기
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   nl:
@@ -173,7 +173,7 @@ languages:
         weight: 3
       - name: Doneren
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   pl:
@@ -190,7 +190,7 @@ languages:
         weight: 3
       - name: Darowizna
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eko
     weight: 2
   pt-pt:
@@ -207,7 +207,7 @@ languages:
         weight: 3
       - name: Doar
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   sk:
@@ -224,7 +224,7 @@ languages:
         weight: 3
       - name: Venovať peniaze
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
   sl:
@@ -241,7 +241,7 @@ languages:
         weight: 3
       - name: Donirajte
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: Eko KDE
     weight: 2
   sv:
@@ -258,7 +258,7 @@ languages:
         weight: 3
       - name: Ge ett bidrag
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eko
     weight: 2
   uk:
@@ -275,7 +275,7 @@ languages:
         weight: 3
       - name: Підтримати фінансово
         url: https://kde.org/community/donations/
-        weight: 6
+        weight: 10
     title: KDE Eco
     weight: 2
 markup:

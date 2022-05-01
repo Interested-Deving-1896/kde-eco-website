@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    weight: 4
+    weight: 8
 name: KDE Eco
 title: Envolva-se
 userbase: KDE Eco

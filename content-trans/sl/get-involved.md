@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    weight: 4
+    weight: 8
 name: Eko KDE
 title: Bodite vpleteni
 userbase: KDE Eco

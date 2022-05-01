@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    weight: 4
+    weight: 8
 name: KDE Eco
 title: 참여하기
 userbase: KDE Eco
