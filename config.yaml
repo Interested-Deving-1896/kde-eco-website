@@ -335,5 +335,6 @@ params:
   repoName: eco-kde-org
   rssSection: blog
   showPatrons: false
+  matomo: 35
 rssLimit: 4
 summaryLength: 30
