@@ -312,6 +312,23 @@ languages:
         weight: 10
     title: KDE Eco
     weight: 2
+  zh-tw:
+    contentDir: content-trans/zh-tw
+    languageCode: zh_TW
+    languageName: 正體中文
+    menu:
+      main:
+      - name: FEEP
+        url: /#feep
+        weight: 2
+      - name: BE4FOSS
+        url: /#be4foss
+        weight: 3
+      - name: Donate
+        url: https://kde.org/community/donations/
+        weight: 10
+    title: KDE Eco
+    weight: 2
 markup:
   goldmark:
     renderer:
@@ -332,9 +349,9 @@ params:
   - /logo-150x150.png
   logo: /logo-150x150.png
   madeByKDE: false
+  matomo: 35
   repoName: eco-kde-org
   rssSection: blog
   showPatrons: false
-  matomo: 35
 rssLimit: 4
 summaryLength: 30
