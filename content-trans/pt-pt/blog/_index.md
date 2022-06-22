@@ -1,8 +1,8 @@
 ---
-Description: KDE Eco blog
+Description: '''Blog'' do KDE Eco'
 Title: '''Blog'''
 menu:
   main:
     weight: 4
 ---
-Keep up with the latest news about the KDE Eco project
+Mantenha-se a par das últimas notícias sobre o projecto KDE Eco
