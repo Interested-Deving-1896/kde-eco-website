@@ -4,9 +4,9 @@ author: Joseph P. De Veaugh-Geiss
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 categories:
-- Energy Conservation
+- Úspora energie
 - Svobodný software
-- Sustainability
+- Udržitelnost
 date: 2022-03-05
 publishDate: 2022-03-05
 summary: March 5th is Energy Conservation Day. Celebrate with Free Software and KDE
