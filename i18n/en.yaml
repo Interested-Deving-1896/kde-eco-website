@@ -8,6 +8,12 @@ home.header.be4foss.description:
   other: Eco-labels for products are used widely already. But how can they be transferred to software? What criteria is relevant? We need more pioneers to find out how we can make software sustainable.
 home.header.more:
   other: Learn more
+home.okular:
+  other: Okular Awarded Blue Angel Ecolabel
+home.okular.be:
+  other: In 2022, KDE's popular multi-platform PDF reader and universal document viewer Okular became the first ever eco-certified computer program!
+home.okular.pr:
+  other: Read More
 home.engage:
   other: "**Get Involved**"
 home.engage.joinus:
@@ -41,6 +47,6 @@ home.be4foss:
 home.be4foss.alt:
   other: Image of Blauer Engel ecolabel
 home.funding.alt:
-  other: Image of BMU/UBA
+  other: Image of BMUV/UBA
 blog.categories:
   other: Categories
