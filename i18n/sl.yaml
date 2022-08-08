@@ -19,6 +19,8 @@ home.feep:
     Project (FEEP)
 home.feep.alt:
   other: Slika globusa z računalniško miško
+home.funding.alt:
+  other: Slika BMUV/UBA
 home.header.be4foss.description:
   other: Ekološke oznake za izdelke se že pogosto uporabljajo. Ampak kako lahko nanaša
     na programsko opremo? Katera merila so pomembna? Potrebujemo več pionirjev, da
@@ -47,3 +49,10 @@ home.help.three:
   other: Postavite laboratorij za merjenje v vaši skupnosti
 home.help.two:
   other: Odstrani programske napake z oznako »učinkovitost«
+home.okular:
+  other: Okular je bil nagrajen z ekološko značko Modri angel
+home.okular.be:
+  other: V letu 2022 je bil popularni večplatformni KDE-jev bralnik PDF datotek in
+    univerzalnih dokumentov Okular sploh prvi ekološko potrjeni računalniški program!
+home.okular.pr:
+  other: Preberite več
