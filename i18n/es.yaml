@@ -18,6 +18,8 @@ home.feep:
   other: Proyecto de Eficiencia Energética FOSS (FEEP)
 home.feep.alt:
   other: Imagen del planeta con un ratón de computadora
+home.funding.alt:
+  other: Imagen de BMUV/UBA
 home.header.be4foss.description:
   other: Las ecoetiquetas para productos ya se utilizan ampliamente. Pero ¿cómo se
     pueden trasladar a los programas informáticos? ¿Qué criterios son relevantes?
@@ -48,3 +50,10 @@ home.help.three:
   other: Creando un laboratorio de medición en su comunidad
 home.help.two:
   other: Arreglando errores etiquetados con 'efficiency'
+home.okular:
+  other: Okular consigue la ecoetiqueta Blauer Engel
+home.okular.be:
+  other: En 2022, ¡el popular lector de PDF universal y multiplataforma Okular se
+    convirtió en el primer programa de ordenador certificado con la ecoetiqueta!
+home.okular.pr:
+  other: Leer más
