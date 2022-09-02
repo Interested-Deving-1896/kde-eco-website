@@ -1,14 +1,17 @@
 ---
 publishDate: 2022-07-25
 date: 2022-07-25
+lastmod: 2022-09-02
 title: "Measurement Lab Follow-Up: Sprint Achievements And To-dos"
 categories: [Sprint, KDE Eco, Blauer Engel, Community Lab]
 author: Joseph P. De Veaugh-Geiss
-summary: On Saturday 16 July 2022 KDE Eco held the second in-person Sprint for the community measurement lab. This is what we achieved... and what we still have to do!
+summary: On Saturday 16 July 2022 KDE Eco held the second in-person Sprint for the community measurement lab. This is what we achieved... and what we still have to do! [Updated on Friday, 2 September 2022 after second follow-up Sprint.]
 SPDX-License-Identifier: CC-BY-SA-4.0
 authors:
 - SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 ---
+
+*Note: This post was updated on Friday, 2 September 2022. See Section ["Update: Problem Solving At Second Follow-Up Sprint (27 August)"]({{< ref "#followup" >}}).*
 
 ## Overview
 
@@ -115,6 +118,28 @@ There are many things we also hope to achieve with LabPlot, since presenting dat
 ![](/blog/images/labplot_live-measurement.webp)
 
 *Monitoring user behavior in real time with LabPlot ([Image: CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))*
+
+{{< /container >}}
+
+## Update: Problem Solving At Second Follow-Up Sprint (27 August) {#followup}
+
+On Saturday 27 August a small group met at KDAB Berlin for a follow-up Sprint to tackle the readout issue with the power meter, as described above. In total we were 1 virtual and 4 in-person attendees (Arne, Volker, Nico, Björn, Joseph). As a result of the Sprint, I am happy to announce that the measurement lab now has a working Python script to read output from the GUDE power meter. You can download the script from the [FEEP repository](https://invent.kde.org/teams/eco/feep/-/tree/master/tools/GUDEPowerMeter). A special thanks to the contribution of Arne from Green Coding Berlin (and you can read about their adventures in DC measurements at [this blog post](https://www.green-coding.org/blog/adventures-in-dc-measurement/)). So here we are: the lab should now be ready for the really exciting part of the project, measuring software! Keep an eye on this blog for updates.
+
+{{< container class="text-center" >}}
+
+![](/blog/images/2022-08-27_arne-light-bulb.webp)
+
+*Arne testing the GUDE Python script by measuring the power consumption of the KDE Eco calibration lamp ([Image: CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))*
+
+{{< /container >}}
+
+Volker also worked on updating the notes for the Gosund SP111 power plug, which included information about switching WiFi networks and recovering devices when they no longer boot, another problem that needed solving from the last Sprint. You can follow the guide yourself [here](https://invent.kde.org/teams/eco/feep/-/blob/master/tools/gosund-sp111-notes.md). What is more, once you have the hacked power plug working, you can also [download LabPlot](https://labplot.kde.org/) and try out live plotting to see energy consumption in real time. To do this, redirect the power plug output to a CSV file (see [instructions](https://volkerkrause.eu/2020/10/17/kde-cheap-power-measurement-tools.html) at Volker's blog). Then, in LabPlot import the CSV file by going to `File > Add New > Live Data Source ...`. Where it says "Filter" select the `Custom` option, and under "Data Format" define the separator value used (e.g., comma, semi-colon, space). You can check that the output is correct under the "Preview" tab. If everything looks good, click OK. Now it is just a matter of right-clicking on the data frame window and selecting `Plot Data > xy-Curve`. Voilà!
+
+{{< container class="text-center" >}}
+
+![](/blog/images/2022-08-27_labplot-bulb-computer.webp)
+
+*Plotting from a live data source with LabPlot during the BigBlueButton video conference ([Image: CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/))*
 
 {{< /container >}}
 
