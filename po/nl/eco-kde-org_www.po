@@ -1,0 +1,2330 @@
+#
+# Freek de Kruijf <freekdekruijf@kde.nl>, 2021, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-eco-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-02 00:50+0000\n"
+"PO-Revision-Date: 2022-08-06 13:03+0200\n"
+"Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 22.04.3\n"
+
+#: config.yaml:0 content/_index.md:0
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
+msgid "KDE Eco"
+msgstr "KDE Eco"
+
+#: config.yaml:0
+msgid "FEEP"
+msgstr "FEEP"
+
+#: config.yaml:0
+msgid "BE4FOSS"
+msgstr "BE4FOSS"
+
+#: config.yaml:0
+msgid "Donate"
+msgstr "Doneren"
+
+#: content/_index.md:0
+msgid "Building Energy-Efficient Free Software"
+msgstr "Energie-efficiënte vrije software bouwen"
+
+#: content/BE4FOSS/_index.md:0
+msgid "Eco Label"
+msgstr "Eco-label"
+
+#: content/BE4FOSS/_index.md:9
+msgid ""
+"In 2020 the Umweltbundesamt ('German Environment Agency') released the award "
+"criteria for obtaining eco-certification with the Blauer Engel label for "
+"desktop software. Categories for certification include energy efficiency, "
+"extending the potential operating life of hardware, and user autonomy … all "
+"of which fit seamlessly with free and open source software."
+msgstr ""
+"In 2020 heeft het Umweltbundesamt ('Duits milieu agentschap') de criteria "
+"voor het verkrijgen van de prijs voor eco-certificatie met het label Blauer "
+"Engel voor bureaubladsoftware uitgegeven. Categorieën voor certificeren "
+"omvatten energie-efficiëntie, de potentiële werkbare leeftijd van hardware "
+"en gebruikersautonomie … allemaal zaken die naadloos passen bij vrije en "
+"open-source software."
+
+#: content/BE4FOSS/_index.md:11
+msgid ""
+"The BE4FOSS project advances eco-certification for resource efficient "
+"software in the FOSS community. Obtaining the Blauer Engel label occurs in 3 "
+"steps: (1) MEASURE, (2) ANALYZE, and (3) CERTIFY."
+msgstr ""
+"Het BE4FOSS project brengt voortgang in eco-certificatie voor efficiëntie in "
+"hulpbronnen voor software in de FOSS gemeenschap. Het label Blauer Engel "
+"verkrijgen gebeurt in drie stappen: (1) METEN, (2) ANALYSEREN en (3) "
+"CERTIFICEREN."
+
+#: content/BE4FOSS/_index.md:12
+msgid "MEASURE in dedicated labs, such as at KDAB Berlin"
+msgstr "METEN in gespecialiseerde labs, zoals bij KDAB Berlin"
+
+#: content/BE4FOSS/_index.md:13
+msgid ""
+"ANALYZE using statistical tools such as OSCAR (Open source Software "
+"Consumption Analysis in R)"
+msgstr ""
+"ANALYSEREN met statistische hulpmiddelen zoals OSCAR (Open source Software "
+"Consumption Analysis in R)"
+
+#: content/BE4FOSS/_index.md:14
+msgid ""
+"CERTIFY by submitting the report on the fulfillment of the Blauer Engel "
+"criteria"
+msgstr ""
+"CERTIFICEREN door indienen van het rapport over het vervullen van de "
+"criteria voor Blauer Engel"
+
+#: content/BE4FOSS/_index.md:16
+msgid "The benefits of obtaining the ecolabel include:"
+msgstr "De voordelen van het verkrijgen van het ecolabel omvatten:"
+
+#: content/BE4FOSS/_index.md:17
+msgid ""
+"Recognition of reaching high standards for environmentally-friendly software "
+"design"
+msgstr ""
+"Herkenning van het bereiken van hoge standaarden voor milieu-vriendelijk "
+"ontwerpen van software"
+
+#: content/BE4FOSS/_index.md:18
+msgid "Differentiating free software from the alternatives"
+msgstr "Onderscheid maken tussen vrije software en de alternatieven"
+
+#: content/BE4FOSS/_index.md:19
+msgid "Increasing the appeal of adoption for consumers"
+msgstr "Verhogen van het appel op adoptie door consumenten"
+
+#: content/BE4FOSS/_index.md:20
+msgid "Promoting transparency in the ecological footprint of software"
+msgstr "Transparantie promoten in de ecologische voetafdruk van software"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+msgid ""
+"KDE Eco 2021 Sprint: Details On The Community Planning For KDE's Ecological "
+"Project"
+msgstr ""
+"KDE Eco 2021 Sprint: Details over de planning van de gemeenschap voor het "
+"Ecologische Project van KDE"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+msgid "Sprint 2021"
+msgstr "Sprint 2021"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+#: content/blog/post-1.md:0
+msgid "Blauer Engel"
+msgstr "Blauer Engel"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+msgid "Community Lab"
+msgstr "Gemeenschapslaboratorium"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+#: content/blog/post-1.md:0
+msgid "Joseph P. De Veaugh-Geiss"
+msgstr "Joseph P. De Veaugh-Geiss"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+msgid "Follow-up to the KDE Eco Sprint announcement posted on The Dot."
+msgstr "Opvolging van de KDE Eco Sprint aankondiging gepost op The Dot."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:12
+msgid ""
+"This is a follow-up to the [KDE Eco Sprint announcement posted on The Dot]"
+"(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
+msgstr ""
+"Dit is de opvolging van de [KDE Eco Sprint aankondiging gepost op The Dot]"
+"(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:14
+msgid ""
+"On 11 December 2021, KDE Eco held the first of many planned Sprints, with 7 "
+"people in attendance. The Sprint was originally intended to be an in-person "
+"event to set up a community measurement lab, but Corona had other ideas. "
+"Nevertheless, the community deployed its usual resourcefulness, and we met "
+"online instead."
+msgstr ""
+"Op 11 december 2021 hield KDE Eco de eerst van vele geplande Sprints, met 7 "
+"aanwezige personen. De Sprint was oorspronkelijk bedoeld om een in-persoon "
+"bijeenkomst te zijn om een meetlaboratorium van de gemeenschap op te zetten, "
+"maar Corona had andere ideeën. Niettemin, gebruikte de gemeenschap zijn "
+"gebruikelijke vindingrijkheid en in plaats daarvan hebben we elkaar online "
+"ontmoet."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:18
+msgid ""
+"![KDE Eco 2021 Sprint On KDE News](/blog/images/dot-sprint-2021_small.png)"
+msgstr ""
+"![KDE Eco 2021 Sprint op KDE News](/blog/images/dot-sprint-2021_small.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:20
+msgid "*KDE Eco 2021 Sprint Announcement On KDE News*"
+msgstr "*KDE Eco 2021 Sprint aankondiging op KDE News*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:24
+msgid ""
+"In this long-form post I will provide a detailed overview of the main issues "
+"discussed at the Sprint and their outcomes; see also the [minutes](https://"
+"invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2021-12-11_sprint01_protocol.md) for further details."
+msgstr ""
+"In deze langevormpost zal ik een gedetailleerd overzicht geven van de "
+"besproken hoofdzaken op de Sprint en hun resultaten; zie ook het [verslag]"
+"(https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2021-12-11_sprint01_protocol.md) voor verdere details."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
+msgid "Did you know?"
+msgstr "Wist u dat?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:28
+msgid ""
+"Discussions similar to these occur monthly at our community meetups on the "
+"2nd Wednesday of the month from 19h-20h CET/CEST (Berlin Time)."
+msgstr ""
+"Discussies zoals deze vinden maandelijks plaats in onze samenkomsten van de "
+"gemeenschap op de tweede woensdag van de maand van 19u-20u CET/CEST "
+"(Berlijnse tijd)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:32
+msgid ""
+"<font size=\"6\"> **[Join us!](https://eco.kde.org/get-involved/) We would "
+"love to see you there.** </font>"
+msgstr ""
+"<font size=\"6\"> **[Doe mee!](https://eco.kde.org/get-involved/) We zouden "
+"het prachtif vinden u daar te zien.** </font>"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:36
+msgid "Creating a KDE Eco team"
+msgstr "Een KDE Eco team creëren"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:38
+msgid ""
+"KDE Eco currently consists of three related projects: (i) Free and open "
+"source Energy Efficiency Project (FEEP), (ii) Blauer Engel For FOSS "
+"(BE4FOSS), and (iii) Blauer Engel Applications. Each project has its own "
+"particular focus: FEEP is concerned with measuring the energy consumption of "
+"Free Software, BE4FOSS is focused on community organization and spreading "
+"information about the Blauer Engel eco-label, and the Blauer Engel "
+"Applications repository hosts all documents related to certifying KDE/Free "
+"Software with the eco-label. Until the Sprint the three repositories for the "
+"projects were hosted at various personal namespaces. Now, all three "
+"repositories can be found at [https://invent.kde.org/teams/eco](https://"
+"invent.kde.org/teams/eco)."
+msgstr ""
+"KDE Eco bestaat nu uit drie gerelateerde projecten: (i) Free and open source "
+"Energy Efficiency Project (FEEP), (ii) Blauer Engel For FOSS (BE4FOSS) en "
+"(iii) Blauer Engel Applications. Elk project heeft zijn eigen specifieke "
+"focus: FEEP houdt zich bezig met het meten van de energieconsumptie van Free "
+"Software, BE4FOSS is gefocust op organiseren van een gemeenschap en "
+"informatie verspreiden over het Blauer Engel eco-label en de opslagruimte "
+"Blauer Engel toepassingen host alle documenten gerelateerd aan certificering "
+"van KDE/Free Software met het eco-label. Tot de Sprint waren de drie "
+"opslagruimten voor de projecten gehost op verschillende persoonlijke "
+"naamruimten. Nu zijn alle drie opslagruimten te vinden op [https://invent."
+"kde.org/teams/eco](https://invent.kde.org/teams/eco)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:40
+msgid ""
+"Having the projects under one team more clearly links these and possible "
+"future projects. Moreover, having a non-personal namespace is more "
+"appropriate for community projects. Feel free to check out the activities of "
+"each project at the above team space!"
+msgstr ""
+"De projecten onder een team te hebben koppelt deze en mogelijk toekomstige "
+"projecten aan elkaar. Verder is het hebben van een niet-persoonlijke "
+"naamruimte meer gepast voor projecten van gemeenschappen. Voel u vrij om de "
+"activiteiten van elk project op de bovenstaande teamruimte te bekijken!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:45
+msgid "![Teams KDE Eco](/blog/images/teams-kde-eco.png)"
+msgstr "![KDE Eco Teams](/blog/images/teams-kde-eco.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:47
+msgid "*Teams > KDE Eco*"
+msgstr "*Teams > KDE Eco*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:51
+msgid "Completing the Blauer Engel application for Okular"
+msgstr "De toepassing Blauer Engel voor Okular voltooien"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:53
+msgid ""
+"There are three KDE applications whose energy consumption has already been "
+"measured: [Okular](https://invent.kde.org/teams/eco/feep/-/tree/master/"
+"measurements/okular), [KMail](https://invent.kde.org/teams/eco/feep/-/tree/"
+"master/measurements/kmail), and [Krita](https://invent.kde.org/teams/eco/"
+"feep/-/tree/master/measurements/krita). Of these three, the Blauer Engel "
+"applications for Okular and KMail have been [in preparation](https://invent."
+"kde.org/teams/eco/blue-angel-application/-/tree/master/applications) for "
+"some time, and one goal was to complete Okular's application. We are proud "
+"to announce that, following the Sprint, Okular's application has been "
+"submitted and is currently under review for certification. We expect "
+"feedback from [RAL gGmbH](https://www.ral-umwelt.de/en/ral-environment/), "
+"the awarding body for the Blauer Engel, within 2-3 months. KMail's "
+"submission will follow soon."
+msgstr ""
+"Er zijn drie KDE toepassingen waarvan de energieconsumptie al is gemeten: "
+"[Okular](https://invent.kde.org/teams/eco/feep/-/tree/master/measurements/"
+"okular), [KMail](https://invent.kde.org/teams/eco/feep/-/tree/master/"
+"measurements/kmail) en [Krita](https://invent.kde.org/teams/eco/feep/-/tree/"
+"master/measurements/krita). Van deze drie zijn al enige tijd de Blauer Engel "
+"toepassingen voor Okular en KMail [in voorbereiding](https://invent.kde.org/"
+"teams/eco/blue-angel-application/-/tree/master/applications) en een doel was "
+"om de toepassing Okular te voltooien. We zijn er trots op om dat aan te "
+"kondigen, na de Sprint, dat de toepassing van Okular is ingediend en nu "
+"beoordeeld wordt voor certificatie. We verwachten terugkoppeling van [RAL "
+"gGmbH](https://www.ral-umwelt.de/en/ral-environment/), het lichaam dat de "
+"Blauer Engel toekent, binnen 2-3 maanden. Het indienen van KMail zal spoedig "
+"volgen."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:55
+msgid ""
+"During a group review of the Okular application, participants raised many "
+"interesting points. One point, for instance, came up when discussing the "
+"transparency criteria of the Blauer Engel ([Section 3.1.3.2](https://"
+"produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-"
+"Criteria-2020-02-13.pdf)). Malte Reißig from the IASS Research Group on "
+"\"[Digitalisation and Sustainability Transformations](https://www.iass-"
+"potsdam.de/en/research-group/digitalisation-sustainability)\" highlighted "
+"how open development may positively affect some of the other requirements of "
+"the award criteria (see [this discussion](https://invent.kde.org/teams/eco/"
+"blue-angel-application/-/issues/57)), such as the long-term maintainability "
+"and user autonomy of a software product. That is, Free Software users do not "
+"only passively use software, but they are encouraged and able to express "
+"wishes for the future development of applications, and may actively "
+"participate in the planning of milestones. Moreover, with open development, "
+"commit messages can be linked to specific issues or bugs reported by a "
+"community of users and developers. With Free Software, an application is not "
+"just an end product, but an open process reflecting the needs and wants of "
+"its users and their communities. With FOSS, the community drives the "
+"direction of development!"
+msgstr ""
+"Tijdens een groepsbeoordeling van de toepassing Okular, hebben deelnemers "
+"vele interessante punten ingebracht. Een punt, bijvoorbeeld, kwam op bij het "
+"bespreken van transparantiecriteria van de Blauer Engel ([Section 3.1.3.2]"
+"(https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
+"%20215-202001-en-Criteria-2020-02-13.pdf)). Malte Reißig van de IASS "
+"Research Group on \"[Digitalisation and Sustainability Transformations]"
+"(https://www.iass-potsdam.de/en/research-group/digitalisation-"
+"sustainability)\" verhelderde hoe open ontwikkeling een positief effect "
+"heeft op enige van de andere vereisten van de toekenningscriteria (zie [deze "
+"discussie](https://invent.kde.org/teams/eco/blue-angel-application/-/"
+"issues/57)), zoals de lange-termijn onderhoudbaarheid en gebruikersautonomie "
+"van een softwareproduct. Dat wil zeggen, gebruikers van Vrije Software "
+"gebruiken niet alleen software passief, maar ze worden aangemoedigd en in "
+"staat om hun wensen te uiten voor de toekomstige ontwikkeling van "
+"toepassingen en kunnen actief meedoen in de planning van mijlpalen. "
+"Bovendien, met open ontwikkeling, commitberichten kunnen gekoppeld worden "
+"aan specifieke problemen of bugs gerapporteerd door een gemeenschap van "
+"gebruikers en ontwikkelaars. Met Vrije Software is een toepassing niet "
+"alleen een eindproduct, maar een open proces de benodigdheden en wensen "
+"weergeeft van zijn gebruikers en hun gemeenschappen. Met FOSS drijft de "
+"gemeenschap de richting van de ontwikkeling!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:59
+msgid "![Okular Icon](/blog/images/128-apps-okular.png)"
+msgstr "![Okular pictogram](/blog/images/128-apps-okular.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:61
+msgid "*Okular Icon*"
+msgstr "*Okular pictogram*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:65
+msgid ""
+"Another point was related to the distribution of Free Software and how it "
+"presents challenges for the fulfillment of the Blauer Engel criteria. Since "
+"Free Software typically distributes software in a decentralized way, for any "
+"one application there are numerous release and distribution channels. "
+"Consider [Okular](https://okular.kde.org/download/), which is packaged not "
+"only for [Flatpak](https://flathub.org/apps/details/org.kde.okular), but "
+"also [Microsoft Store](https://www.microsoft.com/en-us/p/"
+"okular/9n41msq1wnm8), not to mention numerous GNU/Linux distros (e.g., "
+"[OpenSuse](https://software.opensuse.org/package/okular), [Debian](https://"
+"packages.debian.org/bookworm/okular)). Differences in packaging "
+"infrastructure may affect the fulfillment of the Blauer Engel requirements, "
+"such as uninstallability, modularity, etc."
+msgstr ""
+"Een ander punt was gerelateerd aan de distributie van Vrije Software en hoe "
+"het uitdagingen presenteert voor het vervullen van de Blauer Engel criteria. "
+"Omdat Vrije Software software typisch op een gedecentraliseerde manier wordt "
+"gedistribueerd, voor elk aparte toepassing zijn er vele uitgave- en "
+"distributiekanalen. Neem [Okular](https://okular.kde.org/download/), die een "
+"pakket niet alleen voor [Flatpak](https://flathub.org/apps/details/org.kde."
+"okular) heeft, maar ook [Microsoft Store](https://www.microsoft.com/en-us/p/"
+"okular/9n41msq1wnm8), om niet ook talrijke GNU/Linux distributies te noemen "
+"(bijv., [OpenSuse](https://software.opensuse.org/package/okular), [Debian]"
+"(https://packages.debian.org/bookworm/okular)). Verschillen in "
+"pakketteninfrastructuur kan het vervullen van de Blauer Engel vereisten "
+"beïnvloeden, zoals niet te installeren, modulariteit, etc."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:67
+msgid ""
+"Companies releasing proprietary software, typically with centralized "
+"deployment of their products, will not have these issues. In light of this, "
+"one possibility the group discussed is certifying only the source code of a "
+"program, therefore remaining neutral about differences in how a software "
+"product is packaged and distributed. Another possibility is certifying "
+"distribution-specific releases, such as that for the Microsoft Store. In "
+"fact, the latter could be used for marketing purposes to reach new users and "
+"bring them into the KDE community -- see, e.g., [this discussion](https://"
+"invent.kde.org/teams/eco/blue-angel-application/-/issues/56)."
+msgstr ""
+"Bedrijven doe software met eigendomsrechten uitgeven, typisch met "
+"gecentraliseerd gebruik van hun producten, zullen deze problemen niet "
+"hebben. In het licht hiervan, sprak de groep een mogelijkheid om alleen de "
+"broncode van een programma te certificeren, waarbij men neutraal blijft over "
+"verschillen in hoe een softwareproduct verpakt en gedistribueerd wordt. Een "
+"andere mogelijkheid is het certificeren van distributie-specifieke uitgaven, "
+"zoals die voor de Microsoft Store. In feite kan deze laatste gebruikt worden "
+"voor marketingdoelen om nieuwe gebruikers te bereiken en ze inbrengen in de "
+"KDE gemeenschap -- zie, bijv., [deze discussie](https://invent.kde.org/teams/"
+"eco/blue-angel-application/-/issues/56)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:69
+msgid ""
+"We would love to know what you think. Please join the conversation on our "
+"[mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+"efficiency) or [Matrix room](https://webchat.kde.org/#/room/#energy-"
+"efficiency:kde.org) or via the [issue trackers](https://invent.kde.org/"
+"groups/teams/eco/-/issues) at our GitLab repositories!"
+msgstr ""
+"We zouden graag willen weten wat u denkt. Doe mee met de conversatie op onze "
+"[e-maillijst](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+"efficiency) of [Matrix room](https://webchat.kde.org/#/room/#energy-"
+"efficiency:kde.org) of via de [problemenvolger](https://invent.kde.org/"
+"groups/teams/eco/-/issues) op onze GitLab opslagruimten!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:71
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "Standard Usage Scenarios"
+msgstr "Standaard scenario's voor gebruik"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:73
+msgid ""
+"A *Standard Usage Scenario* (SUS) reflects the typical functions of an "
+"application, with the frequency of those functions taken into account. "
+"Standard Usage Scenarios are central to measuring the energy consumption of "
+"a piece of software."
+msgstr ""
+"Een *Standard scenario's voor gebruik* (SUS) reflecteert de typische "
+"functies van een toepassing, met rekening houden met de frequentie van "
+"gebruik van deze functies. Standard scenario's voor gebruik staan centraal "
+"in het meten van de energieconsumptie van een stukje software."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:75
+msgid ""
+"When reviewing the SUS action logs for Okular for the Blauer Engel "
+"application, two important points were made that will improve implementation "
+"of SUS when measuring in the lab. One was the observation about the need to "
+"document not only actions but also the objects of actions (e.g., when using "
+"a pdf-reader, which pdf is opened), as this can influence the energy-"
+"consumption. The other was that including idle action is important when "
+"defining a SUS: idle action is both realistic and can show nothing is "
+"happening when nothing is *supposed* to be happening."
+msgstr ""
+"Bij bekijken van de SUS-actielogs voor Okular voor de toepassing Blauer "
+"Engel, zijn twee belangrijke punten gemaakt die implementatie van SUS bij "
+"meten in het lab om het te verbeteren. Eén was de observatie over de "
+"noodzaak om niet alleen acties te documenten maar ook het objecten van "
+"acties (bijv., wanneer een pdf-lezer wordt gebruikt, welke pdf er geopend "
+"wordt), omdat dit de energieconsumptie kan beïnvloeden. De ander was dat "
+"meenemen van nul-actie belangrijk is bij definiëren van een SUS: nul-actie "
+"is zowel realistisch en kan tonen dat er niets gebeurt wanneer er niets "
+"*veronderstelt* wordt te gebeuren."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:77
+msgid ""
+"Several other issues were brought to the virtual table. Nicolas Fella, a "
+"software engineer at KDAB Berlin, expressed interest in comparing two chat "
+"clients, which shifted the conversation to defining single scenarios when "
+"comparing two applications with similar usage. A single SUS will limit which "
+"software functions can be tested, but it will make results from the "
+"measurements directly comparable. Moreover, for client-server software such "
+"as a chat or email clients, there is the issue of the network component, "
+"which for controlled testing would require setting up and measuring the "
+"energy consumption of a server. Former KDE e.V. president and long-time KDE "
+"contributor [Cornelius Schumacher](https://en.wikipedia.org/wiki/"
+"Cornelius_Schumacher) pointed out that for the [KMail measurements](https://"
+"invent.kde.org/teams/eco/blue-angel-application/-/tree/master/applications/"
+"kmail) only the computing work on the local machine was measured. Measuring "
+"non-local computing in client-server software is more relevant than ever in "
+"today's world, and this is currently planned for the revised Blauer Engel "
+"award criteria for software."
+msgstr ""
+"Verschillende andere zaken zijn op de virtuele tafel gelegd. Nicolas Fella, "
+"een software engineer bij KDAB Berlijn, toonde interesse in het vergelijken "
+"van twee chat-clients, wat de conversatie liet verschuiven naar het "
+"definiëren van enkelvoudige scenario's bij vergelijken van twee toepassingen "
+"met gelijk gebruik. Een enkele SUS zal welke te testen softwarefunctie "
+"beperken, maar het zal resultaten uit de metingen direct vergelijkbaar "
+"maken. Bovendien is er, voor client-server-software zoals een chat of e-"
+"mailclients, de zaak van de netwerkcomponent zijn, die voor gecontroleerd "
+"testen een setup vereist voor het meten van de energieconsumptie van een "
+"server. Voormalige president van KDE e.V. en al lang bijdrager aan KDE "
+"[Cornelius Schumacher](https://en.wikipedia.org/wiki/Cornelius_Schumacher) "
+"wees er op dat voor de [KMail metingen](https://invent.kde.org/teams/eco/"
+"blue-angel-application/-/tree/master/applications/kmail) alleen het "
+"rekenwerk op de lokale machine was gemeten. Meten van niet-lokale computing "
+"in client-server software is relevanter dan ooit in de hedendaagse wereld en "
+"dit wordt nu gepland voor de herziene Blauer Engel prijscriteria voor "
+"software."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:81
+msgid "![KMail Welcome Screen](/blog/images/kmailwelcome.png)"
+msgstr "![Welkomstscherm van KMail](/blog/images/kmailwelcome.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:83
+msgid "*KMail Welcome Screen*"
+msgstr "*Welkomstscherm van KMail*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:87
+msgid ""
+"Another topic discussed was defining SUS actions abstractly in order to "
+"automate the implementation of usage scenarios with different tools "
+"(*Actiona*, *xdotool*, *KXmlGui*, etc.). An important point was that "
+"different emulation tools do different things, which could present "
+"challenges to automating the process. For instance, one cannot type text "
+"when using *KXmlGui* for emulation, and thus something like *xdotool* may "
+"still be needed. On a related note, another proposal was to structure an SUS "
+"in such a way that creation of an action log can also be automated. Would "
+"anyone in the community like to help tackle these challenges?"
+msgstr ""
+"Een ander besproken onderwerp was het abstract definiëren van SUS-acties om "
+"de implementatie van gebruiksscenario's te automatiseren met verschillende "
+"hulpmiddelen (*Actiona*, *xdotool*, *KXmlGui*, etc.). Een belangrijk punt "
+"was dat verschillende hulpmiddelen voor emulatie verschillende dingen doen, "
+"die uitdagingen presenteren om het proces te automatiseren. Bijvoorbeeld, "
+"men kan geen tekst typen bij gebruik van *KXmlGui* voor emulatie en dus "
+"zoiets als *xdotool* is misschien nog steeds nodig. Op een gerelateerde "
+"opmerking, was een ander voorstel een SUS zo te structureren dat aanmaken "
+"van een actielog ook geautomatiseerd kan worden. Zou iemand in de "
+"gemeenschap het leuk vinden om deze uitdagingen aan te gaan?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:89
+msgid ""
+"Furthermore, the group discussed how usage scenarios could also be "
+"repurposed for testing responsiveness and general performance on older or "
+"low-end hardware. What are [your ideas](https://invent.kde.org/teams/eco/"
+"be4foss/-/issues/31)?"
+msgstr ""
+"Verder discussieerde de groep over hoe gebruiksscenario's opnieuw van een "
+"doel voorzien worden voor het testen van hoe de respons is en algemene "
+"prestaties op oudere of minder presterende hardware. Wat zijn [uw ideeën]"
+"(https://invent.kde.org/teams/eco/be4foss/-/issues/31)?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:91
+msgid ""
+"Did you know we are planning to have a measure-athon to measure the energy "
+"consumption of FOSS/KDE applications in early 2022? Which applications would "
+"you like to see Standard Usage Scenarios prepared for? Share your ideas with "
+"us [here](https://invent.kde.org/teams/eco/be4foss/-/issues/28) or submit "
+"your SUS at our [GitLab repository](https://invent.kde.org/teams/eco/"
+"be4foss/-/tree/master/standard-usage-scenarios)!"
+msgstr ""
+"Weet u dat we are plannen hebben om meet-athon te houden om de "
+"energieconsumptie van FOSS/KDE toepassingen te meten in begin 2022? Voor "
+"welke toepassingen zou u Standard Usage Scenarios voorbereid willen zien? "
+"Deel uw ideeën met ons [hier](https://invent.kde.org/teams/eco/be4foss/-/"
+"issues/28) of dien uw SUS in op onze [GitLab opslagruimte](https://invent."
+"kde.org/teams/eco/be4foss/-/tree/master/standard-usage-scenarios)!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:93
+msgid "Replicable reference system"
+msgstr "Herhaalbaar referentiesysteem"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:95
+msgid ""
+"Standard Usage Scenarios are run on a reference system, and an important "
+"issue raised was how to have a replicable reference system. There are "
+"several system layers to consider: Hardware (CPU, Disk, Ram, etc.); the OS "
+"and OS services such as the activity manager in Plasma as well as their "
+"configurations; and the tested application's configuration as well as any "
+"related applications (e.g., Akonadi for PIM applications). On the one hand, "
+"it is necessary to have a controlled environment in order to be able to "
+"interpret the results; on the other hand, it is desirable to have "
+"measurements which reflect actual, perhaps even noisy computing environments "
+"in order to understand the real-world energy consumption of software. In the "
+"end, whether to have controlled or natural computing environments will "
+"depend on what the data is to be used for, and this will differ for "
+"researchers, developers, eco-label auditors, companies, etc."
+msgstr ""
+"Standard Usage Scenarios (SUSes) worden gedraaid op een referentie systeem "
+"en een belangrijke opgebrachte zaak was hoe een te repliceren "
+"referentiesysteem te maken. Er zijn verschillende systeemlagen te overwegen: "
+"Hardware (CPU, Disk, Ram, etc.); het OS en OS services zoals de "
+"activiteitsbeheerder in Plasma evenals hun configuraties; en de configuratie "
+"van de te testen toepassing evenals elke gerelateerde toepassingen (bijv., "
+"Akonadi voor PIM toepassingen). Aan de ene kant, is het noodzakelijk om een "
+"gecontroleerde omgeving te hebben om in staat te zijn de resultaten te "
+"interpreteren; aan de andere kant, is het wenselijk om metingen te hebben "
+"die actuele, misschien zelfs computeromgevingen met veel ruis te hebben om "
+"te begrijpen wat de energieconsumptie van software is in de echte wereld. "
+"Tenslotte zal het hebben van een gecontroleerde of natuurlijke "
+"computeromgeving afhangen van waarvoor de gegevens gebruikt zullen worden en "
+"dit zal verschillen voor onderzoekers, ontwikkelaars, eco-label auditors, "
+"bedrijven, etc."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:97
+msgid ""
+"For instance, for developers interested in doing energy efficiency unit "
+"tests or obtaining the Blauer Engel seal, it will be necessary to have "
+"clearly-specified environments. So what are convenient and quick ways to "
+"bring the system to a known state? Three ideas were discussed: (i) taking "
+"snapshots of a filesystem (e.g., [Snapper](https://github.com/openSUSE/"
+"snapper)), (ii) clearing system cache, and (iii) replacing configuration "
+"files. If you have other ideas let us know about them [here](https://invent."
+"kde.org/teams/eco/feep/-/issues/3)!"
+msgstr ""
+"Bijvoorbeeld, voor ontwikkelaars geïnteresseerd in doen van testen van "
+"energie-efficiency van eenheden of het zegel van de Blauer Engel, zal het "
+"noodzakelijk zijn om helder gespecificeerd omgevingen te hebben. Dus wat "
+"zijn gemakkelijke en snelle manieren om het systeem in een bekende status te "
+"brengen? Drie ideeën zijn besproken: (i) nemen van momentopnamen van een "
+"bestandssysteem (bijv., [Snapper](https://github.com/openSUSE/snapper)), "
+"(ii) wissen van de systeemcache en (iii) vervangen van "
+"configuratiebestanden. Als u andere ideeën hebt laat deze [hier](https://"
+"invent.kde.org/teams/eco/feep/-/issues/3) aan ons weten!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:99
+msgid ""
+"For real-world environments, one proposal, potentially controversial, is to "
+"log hardware performance and electrical power usage while people use their "
+"personal computers. Any volunteers?"
+msgstr ""
+"Voor echte omgevingen, is een voorstel, potentieel controversieel, om "
+"hardwareprestaties en elektrische energiegebruik te loggen terwijl mensen "
+"hun persoonlijke computers gebruiken. Zijn er vrijwilligers?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:101
+msgid "Data output"
+msgstr "Gegevensuitvoer"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:103
+msgid ""
+"When measuring energy consumption in a lab, in particular for Blauer Engel "
+"eco-certification, three types of data files may be generated: (i) a log "
+"file of actions (see above regarding automation of such log files), (ii) "
+"hardware performance data (CPU, RAM, etc.), and (iii) electrical power "
+"usage. Since in some cases the output data will need to be self-defined (e."
+"g., timestamp loggers in xdotool scripts), it is necessary to consider what "
+"the data should look like before measuring in the lab."
+msgstr ""
+"Bij meten van energieconsumptie in een lab, speciaal voor Blauer Engel eco-"
+"certificatie, kunnen drie typen gegevensbestanden gegeneerd worden: (i) een "
+"logbestand van acties (zie bovenstaand met betrekking tot automatisering van "
+"zulke logbestanden), (ii) hardwareprestatiegegevens (CPU, RAM, etc.) en "
+"(iii) elektrische energiegebruik. Omdat in sommige gevallen de "
+"uitvoergegevens zelfdefinierend zullen moeten zijn (bijv., "
+"tijdstempelloggers in xdotool scripts), is het nodig om te bekijken welke "
+"gegevens er uit zouden moeten zien zoals voor de meting in het lab."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:105
+msgid ""
+"Several issues were raised related to the data: Should data output be "
+"standardized to harmonize output across measurement campaigns, or is it "
+"enough simply to publish the data collected in an accessible format (for "
+"example, as .csv-files such as at the [FEEP repository](https://invent.kde."
+"org/teams/eco/feep/-/tree/master/measurements))? What timestamp exactness is "
+"needed (e.g., seconds vs. fractional seconds)? These questions remain open "
+"for now, but the group decided we need [an overview](https://invent.kde.org/"
+"teams/eco/be4foss/-/issues/27) of the FOSS-compatible devices/scripts (e.g., "
+"[Achim Guldner's script](https://gitlab.rlp.net/a.guldner/mobiles-messgerat) "
+"for Gude Expert Power Control 1202 Series) and toolkits (e.g., statistical "
+"analysis tools such as OSCAR, R, Julia, Octave, PSPP, NumPy) used for "
+"measurements and analysis, which is currently [in progress](https://invent."
+"kde.org/teams/eco/be4foss/-/blob/master/devices-tools-overview.md)."
+msgstr ""
+"er zijn een aantal zaken opgekomen gerelateerd aan de gegevens: Zou uitvoer "
+"van gegevens gestandaardiseerd moeten zijn om uitvoer over meetcampagnes te "
+"harmoniseren of is het voldoende eenvoudig om de verzamelde in een "
+"toegankelijk formaat te publiceren (bijvoorbeeld, als .csv-bestanden zoals "
+"in de [FEEP opslagruimte](https://invent.kde.org/teams/eco/feep/-/tree/"
+"master/measurements))? Hoe exact met het tijdstempel zijn (biv., seconden "
+"vs. onderdelen van seconden)? Deze vragen bleven op dit moment open, maar de "
+"groep besloot dat we [een overzicht](https://invent.kde.org/teams/eco/"
+"be4foss/-/issues/27) van de FOSS-compatibele apparaten/scripts nodig hebben "
+"(bijv., [Achim Guldner's script](https://gitlab.rlp.net/a.guldner/mobiles-"
+"messgerat) voor Gude Expert Power Control 1202 Series) en gereedschapskits "
+"(bijv., statistische analyse middelen zoals OSCAR, R, Julia, Octave, PSPP, "
+"NumPy) gebruikt voor metingen en analyses, die nu [in ontwikkeling](https://"
+"invent.kde.org/teams/eco/be4foss/-/blob/master/devices-tools-overview.md) "
+"zijn."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:107
+msgid "Power meter devices"
+msgstr "Apparaten voor energiegebruik"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:109
+msgid ""
+"The Blauer Engel criteria refer to two power meters (PM) in particular: "
+"Janitza UMG 604 and Gude Expert Power Control 1202. These devices are not "
+"cheap. In 2020, long-time KDE contributor Volker Krause hacked an 8 EUR "
+"power plug and [wrote about it](https://volkerkrause.eu/2020/10/17/kde-cheap-"
+"power-measurement-tools.html). As described in the blog post, these "
+"inexpensive power plugs are able to get a sampling rate up to 200ms. This "
+"led to the idea of using inexpensive power meters in low-budget home labs. "
+"For this purpose, it will eventually be useful to compare results from "
+"professional power meters with budget ones to see how they compare. Would "
+"anyone in the community be interested in doing this?"
+msgstr ""
+"De Blauer Engel criteria verwijzen naar twee energiemeters (PM) speciaal: "
+"Janitza UMG 604 en Gude Expert Power Control 1202. Deze apparaten zijn niet "
+"goedkoop. In 2020, KDE-bijdrager Volker Krause heeft een 8 EUR energieplug "
+"gehackt [schreef er over](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html). Zoals beschreven in de blogpost, zijn deze goedkope "
+"energiepluggen in staat om een samplesnelheid tot 200ms te halen. Dit leidde "
+"tot het idee om goedkope energiemeters in thuislabs met een laag budget te "
+"gebruiken. Voor dit doel, zal het eventueel nuttig zijn de resultaten van "
+"professionele energiemeters te vergelijken met goedkope om te zien hoe "
+"vergelijkbaar ze zijn. Zou iemand in de gemeenschap geïnteresseerd zijn om "
+"dit te doen?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:113
+msgid ""
+"![Example Measurement](/blog/images/power-usage-while-moving-mouse-cursor."
+"png)"
+msgstr ""
+"![Voorbeeldmeting](/blog/images/power-usage-while-moving-mouse-cursor.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:115
+msgid ""
+"*From Volker Krause's [Blog Post](https://volkerkrause.eu/2020/10/17/kde-"
+"cheap-power-measurement-tools.html): \"Example measurement (200ms sample "
+"interval, no filter): mouse cursor being moved between samples 100 and 150, "
+"with a peak while hovering a task bar entry.\"*"
+msgstr ""
+"*Uit de [Blogpost](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html) van Volker Krause: \"voorbeeldmeting (200ms sample-"
+"interval, geen filter): muiscursor verplaatst tussen samples 100 en 150, met "
+"een piek bij zweven boven een taakbalkitem.\"*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:119
+msgid ""
+"Another way to measure energy consumption came from KDE contributor David "
+"Hurka, who has a [proposal for USB SPI power sensors](https://invent.kde.org/"
+"davidhurka/usb-spi-power-sensors) to provide a higher resolution alternative "
+"to power meters measuring at the wall outlet."
+msgstr ""
+"Een andere manier om energieconsumptie te meten kwam van de bijdrager aan "
+"KDE David Hurka, die een [voorstel voor USB SPI energiesensors](https://"
+"invent.kde.org/davidhurka/usb-spi-power-sensors) heeft om alternatief met "
+"een hogere resolutie voor energiemeters heeft die bij het stopcontact meet."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:121
+msgid "Open issues for measurement labs"
+msgstr "Open problemen voor meetlaboratoria"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:123
+msgid ""
+"Several other issues were discussed related to energy consumption and lab "
+"measurements. Although final decisions were not made in every case, many of "
+"these open issues will be important to consider going forward."
+msgstr ""
+"Verschillende andere zaken zijn besproken gerelateerd aan energieconsumptie "
+"en metingen in het laboratorium. Hoewel er geen uiteindelijke beslissingen "
+"in elke geval zijn gemaakt, veel van deze open zaken zullen belangrijk zijn "
+"om mee verder te gaan."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:125
+msgid ""
+"Idea of a marketing-friendly tool to draw attention to the energy "
+"consumption of software."
+msgstr ""
+"Idee voor een marketingvriendelijk hulpmiddel om aandacht te trekken naar de "
+"energieconsumptie van software."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:126
+msgid ""
+"For instance, an 'Eco' button for energy efficiency/carbon footprint meter "
+"(cf. travel carbon footprint in Itinerary app)."
+msgstr ""
+"Bijvoorbeeld, een knop 'Eco' voor energie-efficiency/carbon voetprintmeter "
+"(cf. carbonvoetprint voor reizen in toepassing Itinerary)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:127
+msgid ""
+"Note that a similar functionality is already provided by [PowerTop](https://"
+"github.com/fenrus75/powertop), though open issues remain (when is it safe to "
+"enable to avoid data loss, machine freezes?)."
+msgstr ""
+"Merk op dat een soortgelijke functionaliteit al geleverd wordt door "
+"[PowerTop](https://github.com/fenrus75/powertop), hoewel open problemen "
+"blijven (wanneer is het veilig om in te schakelen om verlies van gegevens te "
+"vermijden, machine bevriest?)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:128
+msgid ""
+"When do the drawbacks outweigh the benefits of support for older hardware?"
+msgstr ""
+"Wanneer wegen de bezwaren van onderhoud van oudere hardware zwaarder dan de "
+"voordelen?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:129
+msgid ""
+"Let's invite researchers working on this to discuss with the KDE Eco "
+"community."
+msgstr ""
+"Laten we onderzoekers, die hieraan werken, uitnodigen om dit te "
+"bediscussiëren met de KDE Eco gemeenschap."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:130
+msgid "Future collaboration:"
+msgstr "Toekomstige samenwerking:"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:131
+msgid ""
+"Joint Sprint with related projects (e.g., [SoftAWERE](https://sdialliance."
+"org/steering-groups/softawere))? (Perhaps of interest to the reader: Max "
+"Schulze from SoftAWERE/[SDIA](https://sdialliance.org/) presented at KDE "
+"Eco's monthly meetup in January 2022, which you can read the minutes from "
+"[here](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2022-01-12_community-meetup_protocol.md).)"
+msgstr ""
+"Doe mee met Sprint met gerelateerde projecten (bijv., [SoftAWERE](https://"
+"sdialliance.org/steering-groups/softawere))? (Misschien interessant voor de "
+"lezer: Max Schulze van SoftAWERE/[SDIA](https://sdialliance.org/) "
+"presenteerde op de maandelijkse bijeenkomst van KDE Eco in januari 2022, "
+"waarvan u het verslag [hier](https://invent.kde.org/teams/eco/be4foss/-/blob/"
+"master/community-meetups/2022-01-12_community-meetup_protocol.md) kunt "
+"lezen.)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:132
+msgid ""
+"Discuss above topics and more with other related communities ([Bits & Bäume]"
+"(https://bits-und-baeume.org/en), [Forum InformatikerInnen für Frieden und "
+"gesellschaftliche Verantwortung](https://www.fiff.de/), etc.)?"
+msgstr ""
+"Bespreek de bovenstaande onderwerpen en meer met andere gerelateerde "
+"gemeenschappen ([Bits & Bäume](https://bits-und-baeume.org/en), [Forum "
+"InformatikerInnen für Frieden und gesellschaftliche Verantwortung](https://"
+"www.fiff.de/), etc.)?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:134
+msgid "Conclusion"
+msgstr "Conclusie"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:136
+msgid ""
+"The online Sprint was a wonderful opportunity to bring the community "
+"together and move the KDE Eco project forward, especially as we prepare for "
+"the community measurement lab that will be held at KDAB Berlin and the first "
+"of many measure-athons (planned for early 2022)! The success of such events "
+"depends first and foremost on the community, so allow us to send a heartfelt "
+"thank you to everyone who joined the conversation. We look forward to making "
+"the community grow in 2022! Moreover, we could not do what we do without the "
+"support of KDE e.V. as well as [BMU](www.bmu.de)/[UBA](https://www."
+"umweltbundesamt.de/en), who financially support the BE4FOSS project "
+"(although only the publisher is responsible for the content of this "
+"publication)."
+msgstr ""
+"De online Sprint was een prachtige gelegenheid om de gemeenschap bij elkaar "
+"te brengen en het KDE Eco project vooruit te brengen, speciaal toen ons "
+"voorbereiden op het meetlab van de gemeenschap dat gehouden zal bij KDAB "
+"Berlin en de eerste van vele \"measure-athons\" zal zijn (gepland voor begin "
+"2022)! Het succes van zulke bijeenkomsten hangt eerst en vooral af van de "
+"gemeenschap, sta ons dus toe om een hartelijk gevoeld dank u naar iedereen "
+"te sturen die mee deed in de conversatie. We kijken uit naar het laten "
+"groeien van de gemeenschap in 2022! Bovendien kunnen we niet doen wat we "
+"doen zonder de ondersteuning van KDE e.V. evenals [BMU](www.bmu.de)/[UBA]"
+"(https://www.umweltbundesamt.de/en), die het BE4FOSS project financieel "
+"ondersteunt (hoewel alleen de uitgever verantwoordelijk is voor de inhoud "
+"van deze publicatie)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
+#: content/blog/2022-03-05-energy-conservation-day.md:33
+#: content/blog/post-1.md:59
+msgid "Funding Notice"
+msgstr "Financieringsopmerking"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:140 content/blog/post-1.md:61
+msgid ""
+"The BE4FOSS project was funded by the Federal Environment Agency and the "
+"Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
+"and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
+"\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
+"German Bundestag."
+msgstr ""
+"Het project BE4FOSS kreeg fondsen van de Federale Omgevingsagency en het "
+"Federale Ministerie voor de omgeving, Natuurbeheer, Nucleaire veiligheid en "
+"Consumentenbescherming (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
+"\"#fn.1\">1</sup>). De fondsen zijn beschikbaar gesteld door een resolutie "
+"van de Duitse Bondsdag."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:144
+#: content/blog/2022-03-05-energy-conservation-day.md:39
+#: content/blog/post-1.md:65
+msgid ""
+"<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
+msgstr ""
+"<img src=\"/blog/images/bmuv.png\" alt=\"BMUV-logo\" width=\"340px\"/>\n"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:146
+#: content/blog/2022-03-05-energy-conservation-day.md:41
+#: content/blog/post-1.md:67
+msgid "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
+msgstr "<img src=\"/blog/images/uba.jpg\" alt=\"UBA-logo\" width=\"250px\"/>\n"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
+#: content/blog/2022-03-05-energy-conservation-day.md:45
+#: content/blog/post-1.md:71
+msgid "The publisher is responsible for the content of this publication."
+msgstr "De uitgever is verantwoordelijk voor de inhoud van deze publicatie."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:152
+#: content/blog/2022-03-05-energy-conservation-day.md:47
+#: content/blog/post-1.md:73
+msgid ""
+"<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> Official BMUV and UBA-Logos "
+"are sent only by request at: verbaendefoerderung@uba.de"
+msgstr ""
+"<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> Officiële BMUV en UBA-logo's "
+"worden alleen verzonden op een verzoek aan: verbaendefoerderung@uba.de"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "Season of KDE 2022 With KDE Eco"
+msgstr "Seizoen van KDE 2022 met KDE Eco"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "SOK22"
+msgstr "SOK22"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "Automation Tools"
+msgstr "Automatiseringshulpmiddelen"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "Karanjot Singh"
+msgstr "Karanjot Singh"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid ""
+"My experience testing automation tools and preparing usage scenarios as a "
+"Season of KDE student with KDE Eco."
+msgstr ""
+"Mijn ervaring met testen van automatiseringshulpmiddelen en voorbereiden van "
+"gebruiksscenario's als een Seizoen van KDE student met KDE Eco."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:14
+msgid ""
+"I am very thankful to the KDE team for inviting me to be a part of this "
+"amazing community through their annual program [Season of KDE](https://"
+"season.kde.org)."
+msgstr ""
+"I ben erg dankbaar voor het KDE-team voor het mij uitnodigen om deel te "
+"nemen aan deze verbazingwekkende gemeenschap via hun jaarlijkse programma "
+"[Seizoen van KDE](https://season.kde.org)."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:16
+msgid "About Me"
+msgstr "Info over mijzelf"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:18
+msgid ""
+"I am Karanjot Singh. I am a first-year computer science engineering "
+"undergraduate from Jaypee Institute of Information Technology, Noida, India. "
+"I have worked as a developer with various Free and Open-Source Software "
+"(FOSS) programs such as Kharagpur Winter of Code in 2021 (KWoC’21). However, "
+"this will be my first time contributing to a project with such a large "
+"community. I am very passionate about FOSS, solving problems, and improving "
+"process efficiency. I enjoy exploring and learning new technologies and "
+"building things for socially-useful causes. I also believe that contributing "
+"to FOSS is the best way to gain experience in software development."
+msgstr ""
+"Ik ben Karanjot Singh. Ik ben een eerstejaars computer science engineering "
+"undergraduate van Jaypee Institute of Information Technology, Noida, India. "
+"Ik heb gewerkt als een ontwikkelaar met verschillende Vrije en Open-source "
+"software (FOSS) programma's zoals Kharagpur Winter of Code in 2021 "
+"(KWoC’21). Dit zal echter mijn eerste keer zijn om bij te dragen aan een "
+"project met zo'n grote gemeenschap. Ik ben erg gepassioneerd over FOSS, "
+"problemen oplossen en procesefficiëntie verbeteren. Ik vind het fijn nieuwe "
+"technologieën te ontdekken en dingen bouwen voor sociaal nuttige zaken. Ik "
+"geloof ook dat bijdragen aan FOSS de beste manier is om ervaring te vergaren "
+"in ontwikkelen van software."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:20
+msgid "What I Will Be Working On"
+msgstr "Waar ik aan zal gaan werken"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:22
+msgid ""
+"As part of a pioneering sustainability project, [KDE Eco](https://eco.kde."
+"org/) has the aim of measuring and driving down the energy consumption of "
+"KDE/Free Software. This requires emulating user behaviour, which can be "
+"achieved by planning and scripting Standard Usage Scenarios. I will be "
+"scripting Standard Usage Scenarios for various applications, with a focus on "
+"commonly-used text editors like [Kate](https://apps.kde.org/kate/), [KWrite]"
+"(https://apps.kde.org/kwrite/), [Vim](https://www.vim.org/), [Nano](https://"
+"www.nano-editor.org/), [Emacs](https://www.gnu.org/software/emacs/), "
+"[Calligra Words](https://apps.kde.org/calligrawords/), and [LibreOffice]"
+"(https://www.libreoffice.org/). I will prepare these usage scenarios with "
+"one of many available [emulation tools](https://invent.kde.org/teams/eco/"
+"feep/-/blob/master/tools/presentation_Visual_Workflow_Automation_Tools/"
+"Visual_Workflow_Automation_Tools.pdf). Below is my SoK’22 Timeline:"
+msgstr ""
+"Als onderdeel van een pionierend project voor onderhoudbaarheid, [KDE Eco]"
+"(https://eco.kde.org/) heeft het doel de energieconsumptie van KDE/Vrije "
+"software te meten en te omlaag te brengen. Dit vereist het emuleren van "
+"gebruikersgedrag, wat bereikt kan worden door het plannen en scripts maken "
+"van Standaard gebruiksscenario's. I zal scripts maken voor Standaard "
+"gebruiksscenario's voor verschillende toepassingen, met een focus op "
+"gewoonlijk gebruikte tekstbewerkers zoals [Kate](https://apps.kde.org/"
+"kate/), [KWrite](https://apps.kde.org/kwrite/), [Vim](https://www.vim.org/), "
+"[Nano](https://www.nano-editor.org/), [Emacs](https://www.gnu.org/software/"
+"emacs/), [Calligra Words](https://apps.kde.org/calligrawords/), and "
+"[LibreOffice](https://www.libreoffice.org/). Ik zal deze gebruiksscenario's "
+"met een van de vele beschikbare [emulatiehulpmiddelen](https://invent.kde."
+"org/teams/eco/feep/-/blob/master/tools/"
+"presentation_Visual_Workflow_Automation_Tools/"
+"Visual_Workflow_Automation_Tools.pdf) voorbereiden. Hieronder is mijn SoK’22 "
+"tijdlijn:"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:26
+msgid "![Season of KDE 2022 Timeline](/blog/images/SoK_22Timeline.png)"
+msgstr "![Tijdlijn van Seizoen van KDE 2022](/blog/images/SoK_22Timeline.png)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:31
+msgid "Motivation Behind Working On The KDE Eco Project"
+msgstr "Motivatie achter het werken aan het KDE Eco Project"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:33
+msgid ""
+"I think KDE Eco is a very good initiative for developing resource and energy-"
+"efficient Free Software. When someone uses FOSS and discovers that the "
+"software is transparent about its energy consumption, that using the "
+"software may help prolong the lifespan of hardware and reduce the "
+"environmental impact of digitization, this excites me. I always want to be "
+"part of something that contributes to future generations and KDE Eco serves "
+"that purpose. I also believe that KDE Eco assists me in my journey to become "
+"a better software developer."
+msgstr ""
+"Ik denk dat KDE Eco een erg goed initiatief is voor het ontwikkelen van "
+"hulpbronnen en energie-efficiënte Vrije software. Wanneer iemand FOSS "
+"gebruikt en ontdekt dat de software transparant is over zijn "
+"energieconsumptie, dat de software gebruiken kan helpen de leeftijd van "
+"hardware te verlengen en de omgevingsinvloed van digitalisatie verminderen, "
+"dan windt dat mij op. Ik wil altijd deelnemen aan iets dat bijdraagt aan "
+"toekomstige generaties en KDE Eco dienst dat doel. Ik geloof ook dat KDE Eco "
+"me helpt op mijn weg naar het worden van een betere ontwikkelaar va software."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:35
+msgid "What I Have Learnt So Far"
+msgstr "Wat ik tot nu toe heb geleerd"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:39
+msgid "When I was beginning with this project, I had three questions."
+msgstr "Toen ik begon met dit project had ik drie vragen."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:41
+msgid "*How can we know when software is resource and energy-efficient?*"
+msgstr ""
+"*Hoe kunnen we weten wanneer software efficient is op hulpbronnen en energie?"
+"*"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:43
+msgid "*How can we measure software’s energy consumption?*"
+msgstr "*Hoe kunnen we de de energieconsumptie van software meten?*"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:45
+msgid "*And does it make a difference?*"
+msgstr "*En maakt het een verschil?*"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:47
+msgid ""
+"These questions may come into anyone’s mind when thinking about the idea of "
+"software efficiency."
+msgstr ""
+"Deze vragen bedenkt iedereen bij het denken over het idee van efficiency van "
+"software."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:49
+msgid ""
+"When you use software, what you see is only the interface you are "
+"interacting with. Just tell your phone what you want and things will appear "
+"magically — whether it is the information on screen or a package delivered "
+"to your doorstep. But the technologies and infrastructure behind it are "
+"determined by software engineers who make all of this work."
+msgstr ""
+"Wanneer u software gebruikt is wat u ziet alleen het interface waarmee u "
+"interactie hebt. Vertel uw telefoon wat u wilt en dingen zullen als magie "
+"verschijnen — af dat nu de informatie op het scherm is of een pakket "
+"geleverd op uw deurmat. Maar de technologieën en infrastructuur er achter "
+"worden bepaald door software engineers die dit alles laten werken."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:53
+msgid "![UI vs. Complex Processes](/blog/images/UIvsProcesses.png)"
+msgstr "![UI vs. Complexe processen](/blog/images/UIvsProcesses.png)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:57
+msgid ""
+"Just imagine: What if we analyzed the energy consumption behind commonly-"
+"used software and made it more transparent? What if users could learn how "
+"much energy their software requires and could choose the application that "
+"might be better for the environment? This would be great!!!"
+msgstr ""
+"Bedenk eens: wat als we de energieconsumptie achter algemeen gebruikte "
+"software analyseren en het transparanter maken? Wat als gebruikers te weten "
+"kunne komen hoeveel energie hun software vereist en de toepassing kiezen die "
+"beter zou kunnen zijn voor de omgeving? Dat zou geweldig zijn!!!"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:59
+msgid ""
+"The [KDE Eco](https://invent.kde.org/teams/eco) initiatives Free and open "
+"source Energy Efficiency Project ([FEEP](https://invent.kde.org/teams/eco/"
+"feep)) and Blauer Engel For FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) are working hard on these issues."
+msgstr ""
+"De [KDE Eco](https://invent.kde.org/teams/eco) initiatieven Vrije en open-"
+"source energie-efficiency project ([FEEP](https://invent.kde.org/teams/eco/"
+"feep)) en Blauer Engel For FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) werken hard aan deze problemen."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:61
+msgid ""
+"As noted by [FEEP](https://eco.kde.org/#feep), the design and implementation "
+"of software has a significant impact on the energy consumption of the "
+"systems it is part of. With the right tools, it is possible to quantify and "
+"drive down energy consumption. This increased efficiency contributes to a "
+"more sustainable use of energy as one of the shared resources of our planet."
+msgstr ""
+"Zoals opgemerkt door [FEEP](https://eco.kde.org/#feep) heeft het ontwerp en "
+"implementatie van software een significante invloed op de energieconsumptie "
+"van de systemen waar het onderdeel van is. Met de juiste hulpmiddelen is het "
+"mogelijk energieconsumptie te kwantificeren en omlaag te brengen. Deze "
+"verhoogde efficiëntie draagt bij aan een meer duurzaam gebruik van energie "
+"als een van de gedeelde hulpbronnen van onze planeet."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:65
+msgid "![3 Steps of Eco Certification](/blog/images/3StepsToBEECO.png)"
+msgstr "![3 Stappen naar Eco certificatie](/blog/images/3StepsToBEECO.png)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:69
+msgid ""
+"BE4FOSS supports FEEP by collecting and spreading information related to "
+"Blauer Engel (BE) eco-certification, the official environmental label "
+"awarded by the German government. As stated at the [KDE Eco website](https://"
+"eco.kde.org/#be4foss), obtaining the Blauer Engel label occurs in 3 steps: "
+"(1) Measure, (2) Analyze, (3) Certify."
+msgstr ""
+"BE4FOSS ondersteunt FEEP door verzamelen en verspreiden van informatie "
+"gerelateerd aan Blauer Engel (BE) eco-certificatie, het officiële "
+"omgevingslabel toegekend door de Duitse overheid. Zoals gemeld op de [KDE "
+"Eco website](https://eco.kde.org/#be4foss), gebeurt het krijgen van het "
+"Blauer Engel label in 3 stappen: (1) Meten, (2) Analyseren, (3) Certificeren."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:71
+msgid "**MEASURE** in dedicated labs, such as at KDAB Berlin"
+msgstr "**METEN** in gespecialiseerde labs, zoals bij KDAB Berlin"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:72
+msgid ""
+"**ANALYZE** using statistical tools such as OSCAR (Open-source Software "
+"Consumption Analysis in R)"
+msgstr ""
+"**ANALYSEREN** met statistische hulpmiddelen zoals OSCAR (Open source "
+"Software Consumption Analysis in R)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:73
+msgid ""
+"**CERTIFY** by submitting the report on the fulfilment of the Blauer Engel "
+"criteria"
+msgstr ""
+"**CERTIFICEREN** door indienen van het rapport over het vervullen van de "
+"criteria voor Blauer Engel"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:75
+msgid ""
+"In SoK'22, I will be preparing Standard Usage Scenarios for various text "
+"editors so that the usage scenarios may be used in Step 1 for obtaining BE "
+"eco-certification."
+msgstr ""
+"In SoK'22, zal ik Standaard gebruiksscenario's voor verschillende "
+"tekstbewerkers voorbereiden zodat de gebruiksscenario's gebruikt kunnen "
+"worden in Stap 1 voor het verkrijgen van BE eco-certificatie."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:77
+msgid "What I Have Done & Will Be Doing In The Coming Weeks"
+msgstr "Wat ik heb gedaan & zal doen in de komende weken"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:79
+msgid ""
+"For the past three weeks, I have tested various automation tools, in "
+"particular ``Actiona``, ``xdotool``, and ``GNU Xnee``, to decide which of "
+"these tools would be best for implementing Standard Usage Scenarios."
+msgstr ""
+"In de afgelopen drie weken heb ik verschillende automatiseringshulpmiddelen "
+"getest, speciaal ``Actiona``, ``xdotool`` en ``GNU Xnee``, om te bepalen "
+"welke van deze hulpmiddelen het beste zouden zijn voor implementeren van "
+"Standaard gebruiksscenario's."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:81
+msgid ""
+"While using [``Actiona``](https://github.com/Jmgr/actiona), I wrote some "
+"documentation so that this information will also be beneficial for anyone "
+"wanting to contribute to KDE Eco."
+msgstr ""
+"Bij gebruik van [``Actiona``](https://github.com/Jmgr/actiona) heb ik enige "
+"documentatie geschreven zodat deze informatie ook nuttig zal zijn voor "
+"iedereen die wil bijdragen aan KDE Eco."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:83
+msgid ""
+"While trying out [``xdotool``](https://github.com/jordansissel/xdotool), I "
+"came across an issue with memory leak. Running Valgrind on xdotool search, I "
+"get more lost memory allocated by XQueryTree. There are probably other "
+"places where memory is allocated and not being freed afterwards. I have not "
+"done an extensive check. Nevertheless, xdotool gives more control over the "
+"system and even with some issues, this is the tool that I found most helpful."
+msgstr ""
+"Bij uitproberen van [``xdotool``](https://github.com/jordansissel/xdotool), "
+"kwam ik een probleem tegen met lekken van geheugen. Valgrind uitvoeren bij "
+"xdotool zoeken, kreeg ik meer verloren geheugen toegewezen door XQueryTree. "
+"Er zijn waarschijnlijk andere plaatsen waar geheugen is toegewezen en niet "
+"later weer vrij gegeven. Ik heb geen extensieve controle gedaan. Niettemin "
+"geeft xdotool meer controle over het systeem en zelfs met sommige problemen "
+"is dit het hulpmiddel dat ik het meest behulpzaam vond."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:85
+msgid ""
+"I tested [``GNU Xnee``](https://xnee.wordpress.com/) too, which seemed "
+"interesting to me as it records the output and stores it in a separate file. "
+"Also, it provides a replayer that one can use to automate tasks at whatever "
+"speed one wants."
+msgstr ""
+"Ik heb ook [``GNU Xnee``](https://xnee.wordpress.com/) getest, die voor mij "
+"interessant lijkt te zijn omdat het de uitvoer opneemt en het opslaat in een "
+"apart bestand. Het biedt ook een afspeler die gebruikt kan worden om taken "
+"te automatiseren op elke gewenste snelheid."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:87
+msgid ""
+"In the end, I have decided to prepare all usage scenarios with xdotool, at "
+"least initially, as most of the text editors use keyboard functions rather "
+"than mouse activity and this will make it easier to adapt the script to "
+"different systems. However, after SoK'22 I plan to prepare usage scenarios "
+"with Actiona as well so that I can learn the differences between these "
+"tools. On a related note, there is also an ongoing discussion about "
+"[repurposing Standard Usage Scenarios](https://invent.kde.org/teams/eco/"
+"be4foss/-/issues/31) for testing responsiveness and performance on older or "
+"lower-end hardware."
+msgstr ""
+"Tenslotte heb ik besloten alle gebruiksscenario's voor te bereiden met "
+"xdotool, tenminste initieel, omdat de meeste tekstbewerkers "
+"toetsenbordfuncties gebruiken in plaats van muisactiviteit en dat zal het "
+"gemakkelijker maken het script aan verschillende systemen aan te passen. "
+"Echter na SoK'22 plan ik ook gebruiksscenario's te maken met Actiona zodat "
+"ik de verschillen tussen deze hulpmiddelen kan leren. In een gerelateerde "
+"notitie, is er ook een gaande discussie over [Standaard gebruiksscenario's "
+"een nieuw doel geven](https://invent.kde.org/teams/eco/be4foss/-/issues/31) "
+"voor testen van respons en prestaties op oudere of mindere hardware."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:91
+msgid "![Preparing Standard Usage Scenarios](/blog/images/PreparingSUS.png)"
+msgstr ""
+"![Standaard gebruiksscenario's voorbereiden](/blog/images/PreparingSUS.png)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:95
+msgid ""
+"In the coming weeks, I will additionally be working on fixing an issue that "
+"is known for Actiona. The problem is that Actiona emulates user behaviour by "
+"storing the position of clicks based on pixel coordinates, which can make "
+"transferring a script to another system challenging. For instance, this "
+"issue arose recently when preparing a Standard Usage Scenario for [GCompris]"
+"(https://apps.kde.org/gcompris/). I came up with a solution of resizing the "
+"screen to a minimum screen resolution and including the code at the "
+"beginning of the Actiona script. Whenever the script runs in a different "
+"system, it automatically resizes to the minimum resolution to match the "
+"pixels while making the script. This is just an idea and is not yet tested. "
+"I will put aside time for this attempt to fix the problem with the help of "
+"the GCompris team."
+msgstr ""
+"In de komende weken zal ik bovendien werken aan repareren van een probleem "
+"dat bekend is voor Actiona. Het probleem is dat Actiona gebruiksgedrag "
+"emuleert door het opslaan van de positie van kliks gebaseerd op "
+"pixelcoördinaten, die het overbrengen van een script naar een ander systeem "
+"uitdagend maakt. Dit probleem, bijvoorbeeld, verrees recent bij voorbereiden "
+"van een standaard gebruiksscenario voor [GCompris](https://apps.kde.org/"
+"gcompris/). Ik stelde een oplossing voor met het scherm te veranderen tot "
+"een minimum schermresolutie en de code in te voegen aan het begin van het "
+"Actiona-script. Wanneer het script draait in een verschillend systeem, "
+"wijzigt het automatisch naar de minimale resolutie om overeen te komen met "
+"de pixels bij het maken van het script. Dit is gewoon een idee en is nog "
+"niet getest. Ik zal tijd vrijmaken voor deze poging om het probleem met de "
+"hulp van het GCompris-team te repareren."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:97
+msgid ""
+"The GitLab repository containing Standard Usage Scenarios in progress "
+"(currently GCompris using Actiona) can be found [here](https://invent.kde."
+"org/teams/eco/be4foss/-/tree/master/standard-usage-scenarios)."
+msgstr ""
+"De GitLab opslagruimte die voortgang in Standaard gebruiksscenario's bevat "
+"(GCompris gebruikt nu Actiona) is te [hier](https://invent.kde.org/teams/eco/"
+"be4foss/-/tree/master/standard-usage-scenarios) te vinden."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:99
+msgid "Community Bonding ( SoK’22 )"
+msgstr "Gemeenschapsbinding ( SoK’22 )"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:101
+msgid ""
+"I am thankful to my mentor Joseph P. De Veaugh-Geiss for taking time to help "
+"me by providing resources and guidance during the project. I also attended "
+"the KDE Eco monthly community meetup on [9 February 2022](https://invent.kde."
+"org/teams/eco/be4foss/-/blob/master/community-meetups/2022-02-09_community-"
+"meetup_protocol.md), where Prof. Dr Stefan Naumann, Achim Guldner, and "
+"Christopher Stumpf from [Umwelt Campus Birkenfeld](https://www.umwelt-campus."
+"de/forschung/projekte/green-software-engineering/home) lead a [discussion]"
+"(https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2022-02-09_community-meetup_umwelt-campus-presentation.pdf) on "
+"measuring the energy consumption of distributed systems and extending the "
+"Blauer Engel award criteria to them. This was an interesting meeting where "
+"we discussed problems for automation with mobile applications as well as "
+"client-server testing. Joseph also introduced me to the Umwelt Campus "
+"researchers who measured the [energy consumption](https://invent.kde.org/"
+"teams/eco/feep/-/tree/master/measurements/okular) of [Okular](https://okular."
+"kde.org); Emmanuel Charruau, who is working with the GCompris script; and "
+"Nicolas Fella, who is currently working with xdotool for his Master's thesis "
+"on the energy consumption of software."
+msgstr ""
+"I dank mijn mentor Joseph P. De Veaugh-Geiss voor zijn tijd me te helpen "
+"door het leveren van hulpbronnen en leiding tijdens het project. Ik ook de "
+"KDE Eco maandelijkse bijeenkomst van de gemeenschap bijgewoond op [9 "
+"februari 2022](https://invent.kde.org/teams/eco/be4foss/-/blob/master/"
+"community-meetups/2022-02-09_community-meetup_protocol.md), waar Prof. Dr "
+"Stefan Naumann, Achim Guldner en Christopher Stumpf van de [Umwelt Campus "
+"Birkenfeld](https://www.umwelt-campus.de/forschung/projekte/green-software-"
+"engineering/home) een [discussie](https://invent.kde.org/teams/eco/be4foss/-/"
+"blob/master/community-meetups/2022-02-09_community-meetup_umwelt-campus-"
+"presentation.pdf) leidde over het meten van de energieconsumptie van "
+"gedistribueerde systemen en de criteria voor Blauer Engel prijzen naar heeft "
+"uitgebreid. Dit was een interessante bijeenkomst waar we problemen bespraken "
+"voor automatiseren met mobiele toepassingen evenals client-server testen. "
+"Joseph introduceerde me ook bij de Umwelt Campus onderzoekers die de "
+"[energieconsumptie](https://invent.kde.org/teams/eco/feep/-/tree/master/"
+"measurements/okular) van [Okular](https://okular.kde.org) meten; Emmanuel "
+"Charruau, die werkt met het GCompris script; en Nicolas Fella, die nu werkt "
+"met xdotool voor zijn proefschrift over de energieconsumptie van software."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:109
+msgid ""
+"Thank you for taking time to read this update. If anyone wants to follow-up "
+"on the ideas presented here regarding the pros and cons of different "
+"automation tools when implementing Standard Usage Scenarios, there is a "
+"[GitLab issue](https://invent.kde.org/teams/eco/be4foss/-/issues/32) at the "
+"BE4FOSS repository where we can discuss further."
+msgstr ""
+"Dank u voor het nemen van de tijd om deze update te lezen. Als iemand "
+"opvolging wil geven aan de hier gepresenteerde ideeën met betrekking op de "
+"voor- en nadelen van verschillende automatiseringshulpmiddelen bij het "
+"implementeren van Standaard gebruiksscenario's, er is een [GitLab issue]"
+"(https://invent.kde.org/teams/eco/be4foss/-/issues/32) op de BE4FOSS "
+"opslagruimte waar we verder kunnen discussiëren."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:111
+msgid "I am also available on KDE's Matrix instance at drquark:kde.org."
+msgstr ""
+"Ik ben ook beschikbaar op het Matrix-exemplaar van KDE op drquark:kde.org."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+msgid "Celebrate Energy Conservation Day With KDE Eco"
+msgstr "Vier energiebesparingsdag met KDE Eco"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+msgid "Energy Conservation"
+msgstr "Energiebesparing"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+#: content/blog/post-1.md:0
+msgid "Free Software"
+msgstr "Vrije software"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid "Sustainability"
+msgstr "Onderhoudbaarheid"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+msgid ""
+"March 5th is Energy Conservation Day. Celebrate with Free Software and KDE "
+"Eco!"
+msgstr ""
+"5 maart is energiebesparingsdag. Vier het met Vrije software en KDE Eco!"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:13
+msgid ""
+"Of the challenges humanity faces in its struggle to power modern-day "
+"civilization, energy conservation is one of the more difficult to achieve. "
+"But it is also the most worthy of pursuing, as ultimately many of the "
+"current sources of energy we depend on are finite."
+msgstr ""
+"Van de uitdagingen die de mensheid tegen komt in zijn strijd om in de "
+"huidige tijd civilisatie, energieconsumptie van energie te voorzien is een "
+"van de moeilijkere te bereiken. Maar het is ook het meest waard om na te "
+"streven, omdat uiteindelijk veel van de huidige energiebronnen waar we "
+"afhankelijk van zijn eindig zijn."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:15
+msgid ""
+"That is why reducing the amount of energy we consume is a priority for [KDE "
+"Eco](https://eco.kde.org/). All [KDE](https://kde.org) projects are Free "
+"Software, and Free Software entails transparency and user autonomy. The "
+"first has always provided users the opportunity to inspect and learn from "
+"how software runs; today, this transparency has been extended to include "
+"software's [energy consumption](https://invent.kde.org/teams/eco/feep) when "
+"in use. The second allows Free Software users to install what they need on "
+"the devices they want, bypassing unnecessary and battery-draining spyware "
+"and bloatware while [extending the lifespan of their hardware](https://fsfe."
+"org/activities/upcyclingandroid/). Both combined give KDE Eco and Free "
+"Software developers the means to develop energy-saving improvements for "
+"applications and frameworks, to continue support for otherwise unsupported "
+"devices, and deploy exactly what people want and need."
+msgstr ""
+"Dat is waarom verminderen van de hoeveelheid energie die we consumeren, een "
+"prioriteit is voor [KDE Eco](https://eco.kde.org/). Alle [KDE](https://kde."
+"org) projecten zijn Vrije Software en Vrije Software omvat transparantie en "
+"autonomie van de gebruiker. Het eerste heeft gebruikers altijd de "
+"gelegenheid gegeven ze te inspecteren en van te leren hoe software werkt; "
+"vandaag, is deze transparantie uitgebreid [energieconsumptie](https://invent."
+"kde.org/teams/eco/feep) bij gebruik van software. Het tweede biedt aan "
+"gebruikers van Vrije Software om wat ze nodig hebben op de apparaten die ze "
+"willen te installeren, voorbijgaand aan onnodige spyware en and bloatware "
+"die batterijen laat leeglopen onderwijl [de leeftijd van hun hardware te "
+"vergroten](https://fsfe.org/activities/upcyclingandroid/). Beiden "
+"gecombineerd geeft KDE Eco en Vrije Software ontwikkelaars de middelen om "
+"energiebesparende verbeteringen voor toepassingen en frameworks, om met "
+"ondersteuning voor anders niet ondersteunde apparaten door te gaan en te "
+"gebruiken wat mensen exact willen en nodig hebben."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:19
+msgid "![](/blog/images/tag-des-energiesparens.jpg)"
+msgstr "![](/blog/images/tag-des-energiesparens.jpg)"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:21
+msgid ""
+"*Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/"
+"service/veranstaltungen/veranstaltung/tag-des-energiesparens). Today we are "
+"inviting you to [join us](https://eco.kde.org/get-involved/) at KDE Eco! "
+"([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*"
+msgstr ""
+"*Duitsland heeft 5 maart verklaart tot [Energiebesparingsdag](https://www."
+"bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). "
+"Vandaag nodigen we u uit om [mee te doen](https://eco.kde.org/get-involved/) "
+"op KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/"
+"zero/1.0/))*"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:25
+msgid ""
+"Clearly, energy conservation for a small number of software products is not "
+"going to make any noticeable difference. But imagine if we start a trend; "
+"imagine conserving even small amounts of energy on every app, game, and "
+"framework; on hundreds of thousands of programs, running across millions of "
+"devices with continuous support. Users will enjoy longer battery lives and "
+"lower electricity bills. They can keep using still-functioning hardware, "
+"with greater personal savings yet reduced global C02 emissions by avoiding "
+"the unnecessary production and shipment of new devices. Most importantly, as "
+"a species we will use fewer shared resources while keeping humanity's "
+"digital civilization running."
+msgstr ""
+"Het is helder, energiebesparing voor een klein aantal software producten zal "
+"geen groot verschil maken. Maar bedenk dat als we een trend starten; bedenk "
+"besparing van zelfs een kleine hoeveelheid energie op elke app, spel en "
+"framework; op honderden van duizenden programma's, die draaien op miljoenen "
+"apparaten met doorgaande ondersteuning. Gebruikers zullen blij zijn met "
+"langere batterijduur en lagere rekeningen voor elektriciteit. Ze kunnen nog "
+"steeds functionerende hardware gebruiken, met grotere persoonlijke "
+"besparingen daarmee globale C02 emissies te reduceren door de onnodige "
+"productie en verscheping van nieuwe apparaten. Meest belangrijk, als soort "
+"zullen we minder gedeelde hulpbronnen gebruiken terwijl digitale menselijke "
+"samenleving blijft draaien."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:27
+msgid "You can be part of that."
+msgstr "U kunt daar deel aan nemen."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:29
+msgid ""
+"Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/"
+"service/veranstaltungen/veranstaltung/tag-des-energiesparens), and today we "
+"are inviting you to join us. Whether you are a user concerned with the "
+"carbon footprint of your computing usage, or a project looking to improve "
+"the efficiency of your software, [visit our website](https://eco.kde.org/) "
+"to find out how to participate in KDE Eco and [join us in our chat room]"
+"(https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other "
+"members of the project."
+msgstr ""
+"Duitsland heeft 5 maart verklaart tot [Energiebesparingsdag](https://www."
+"bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens) en "
+"vandaag nodigen we u uit met ons mee te doen. Of u een gebruiker bent "
+"bezorgt over de carbonfootprint van uw computergebruik of zoekt naar het "
+"verbeteren van de efficiëntie van uw software, [bezoek onze website](https://"
+"eco.kde.org/) om uit te zoeken hoe u deel kunt nemen in KDE Eco en [doe mee "
+"in onze chatroom](https://matrix.to/#/#energy-efficiency:kde.org) om live te "
+"praten met andere leden van het project."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:31
+msgid "See you on Energy Conservation Day!"
+msgstr "Zie u op de Energiebesparingsdag!"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:35
+msgid ""
+"The BE4FOSS project was funded by the Federal Environment Agency and the "
+"Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
+"and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
+"\"#fn.1\">1</a></sup>), who organize the *Tag des Energiesparens* (Energy "
+"Conservation Day). The funds are made available by resolution of the German "
+"Bundestag."
+msgstr ""
+"Het project BE4FOSS kreeg fondsen van de Federale Omgevingsagency en het "
+"Federale Ministerie voor de omgeving, Natuurbeheer, Nucleaire veiligheid en "
+"Consumentenbescherming (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
+"\"#fn.1\">1</sup>), die de *Tag des Energiesparens* (Energiebesparingsdag) "
+"organiseert. De fondsen zijn beschikbaar gesteld door een resolutie van de "
+"Duitse Bondsdag."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+msgid ""
+"First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular"
+msgstr ""
+"Eerste ooit Eco-gecertificeerd computer programma: KDE's Populaire PDF-lezer "
+"Okular"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+msgid ""
+"The multi-platform Free and Open-Source Software product is now officially "
+"recognized for sustainable software design"
+msgstr ""
+"Het multi-platform Vrije en Open-Source Softwareproduct is nu officieel "
+"erkent voor duurzaam software ontwerp"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid "Okular"
+msgstr "Okular"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+msgid "Global Ecolabelling Network"
+msgstr "Globaal Ecolabelling Netwerk"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+msgid "Press release to announce Okular receiving the Blue Angel eco-label."
+msgstr ""
+"Persuitgave om het ontvangen van het Blue Angel eco-label door Okular aan te "
+"kondigen."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:16
+msgid "Okular screenshot"
+msgstr "Schermafdruk van Okular"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:18
+msgid "Okular Icon"
+msgstr "Pictogram van Okular"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:20
+msgid ""
+"[Okular](https://okular.kde.org/), KDE's popular multi-platform PDF reader "
+"and universal document viewer, has officially been recognized for "
+"sustainable software design as reflected in the recent [award criteria for "
+"software eco-certification](https://produktinfo.blauer-engel.de/uploads/"
+"criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf). In February "
+"2022 Okular was [awarded the Blue Angel ecolabel](https://www.blauer-engel."
+"de/en/productworld/resources-and-energy-efficient-software-products), the "
+"official environmental label awarded by the German government. Introduced in "
+"1978, Blue Angel is the world's earliest established environmental label, "
+"and Okular is the first software product to be certified with its seal. What "
+"is more, Okular is the first ️ever eco-certified computer program within the "
+"30 organizations of the [Global Ecolabelling Network](https://www."
+"globalecolabelling.net/)! This network, of which Blue Angel is a member, "
+"represents over 50 countries."
+msgstr ""
+"[Okular](https://okular.kde.org/), De populaire multi-platform PDF-lezer en "
+"universele documentviewer van KDE, is officieel erkend voor duurzaam "
+"software ontwerp zoals weergegeven in de recente [gunningscriteria voor "
+"software eco-certificatie](https://produktinfo.blauer-engel.de/uploads/"
+"criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf). In februari "
+"2022 heeft Okular [het Blue Angel ecolabel ontvangen](https://www.blauer-"
+"engel.de/en/productworld/resources-and-energy-efficient-software-products), "
+"het officiële omgevingslabel toegekend door de Duitse regering. "
+"Geïntroduceerd in 1978, is Blue Angel de eerste ter wereld vastgestelde "
+"omgevingslabel, en Okular is het eerste software product gecertificeerd met "
+"dit zegel. Wat meer is, Okular is het eerste ️ooit eco-gecertificeerde "
+"computer program binnen de 30 organisaties van het [Global Ecolabelling "
+"Network](https://www.globalecolabelling.net/)! Dit netwerk, waarvan Blue "
+"Angel een lid is, representeert meer dan 50 landen."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:22
+msgid ""
+"KDE is a world-wide community of software engineers, artists, writers, "
+"translators, and creators who are committed to Free Software development. "
+"With KDE's long-standing [mission](https://community.kde.org/KDE/Mission) "
+"and guiding [vision](https://community.kde.org/KDE/Vision), as well as the "
+"talent and capabilities of its community members, it is no surprise that KDE "
+"is a pioneer among the group of people and organizations in driving a "
+"discussion on sustainable software. This group includes the [Blue Angel]"
+"(https://www.blauer-engel.de/en) itself and [researchers](https://www.umwelt-"
+"campus.de/green-software-engineering/refoplan-2018) behind it, supporters "
+"such as the [Free Software Foundation Europe](https://fsfe.org/), other Free "
+"Software projects, and a growing number of others. Now, with the first ever "
+"eco-certified software product, the KDE community is celebrating the "
+"achievement together with the wider [Free Software community](https://fsfe."
+"org/news/2022/news-20220316-01.en.html), as well as with the computer "
+"science department at [Umwelt Campus Birkenfeld](https://www.umwelt-campus."
+"de/en/forschung/projekte/green-software-engineering/news-details/first-blue-"
+"angel-for-software), where researchers measured the resource and energy-"
+"consumption of Okular and other KDE software."
+msgstr ""
+"KDE is een wereldwijde gemeenschap van software-engineers, artiesten, "
+"schrijvers, vertalers en makers wie betrokken zijn bij Vrije Software "
+"ontwikkeling. Met de lang bestaande [missie](https://community.kde.org/KDE/"
+"Mission) van KDE en begeleidende [visie](https://community.kde.org/KDE/"
+"Vision), evenals het talent en mogelijkheden van zijn gemeenschapsleden, het "
+"is geen verrassing dat KDE een pionier is onder de groep mensen en "
+"organisaties in voeren van discussies over duurzame software. Deze groep "
+"omvat de [Blue Angel](https://www.blauer-engel.de/en) zelf en [researchers]"
+"(https://www.umwelt-campus.de/green-software-engineering/refoplan-2018) "
+"erachter, ondersteuners zoals de [Free Software Foundation Europe](https://"
+"fsfe.org/), andere Vrije Software projecten en een groeiend aantal anderen. "
+"Nu, met het eerste ooit eco-gecertificeerd softwareproduct, viert de KDE "
+"gemeenschap de prestatie samen met de bredere [Vrije Software gemeenschap]"
+"(https://fsfe.org/news/2022/news-20220316-01.en.html), evenals met de "
+"computer science department van [Umwelt Campus Birkenfeld](https://www."
+"umwelt-campus.de/en/forschung/projekte/green-software-engineering/news-"
+"details/first-blue-angel-for-software), waar onderzoekers de hulpbronnen en "
+"energie-consumptie van Okular en andere KDE software."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:24
+msgid ""
+"KDE was founded in 1996 and maintains numerous Free and Open-Source Software "
+"products, including the Plasma desktop environment; the design app for "
+"painters and graphic artists, Krita; the GCompris suite of educational "
+"activities for children; Kdenlive, a professional video-editing software "
+"product; and, of course, Okular, an essential computer program that lets you "
+"view all sorts of documents, including PDFs, comics, scientific and academic "
+"papers, and technical drawings. Okular also lets you check digital "
+"signatures and sign documents yourself, as well as include annotated text "
+"and comments directly embedded into the document."
+msgstr ""
+"KDE is opgericht in 1996 en onderhoudt talrijke Vrije en Open-Source "
+"Software producten, inclusief de Plasma bureaubladomgeving; de "
+"ontwerptoepassing voor schilders en grafische artiesten, Krita; de GCompris "
+"suite met onderwijskundige activiteiten voor kinderen; Kdenlive, een "
+"professioneel video-editing softwareproduct; en, natuurlijk, Okular, een "
+"essentieel computerprogramma dat u allerlei soorten documenten, inclusief "
+"PDF's, strips, wetenschappelijke en academische papers en technische "
+"tekeningen. Okular laat u ook digitale handtekeningen controleren en zelf "
+"documenten ondertekenen, evenals invoegen van geannoteerde tekst en "
+"commentaar direct ingebed in het document."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:26
+msgid ""
+"The Blue Angel award criteria for software, with its focus on transparency "
+"in resource and energy-efficiency, hardware operating life, and user "
+"autonomy, provide an excellent benchmark to begin a discussion on software "
+"sustainability and push development in this area forward. And so, in 2021 "
+"KDE started [KDE Eco](https://eco.kde.org/), a project with the goal of "
+"putting KDE and Free Software at the forefront of sustainable software "
+"design. Sustainability is not a new goal for Free and Open-Source Software "
+"(FOSS). The [four freedoms](http://fsfe.org/freesoftware/freesoftware.en."
+"html) have always put Free Software at the forefront of sustainable software "
+"design. What *is* new is that FOSS values are now recognized as being "
+"directly related to sustainability by organizations such as the German "
+"Environment Agency (*Umweltbundesamt*), who developed the award criteria."
+msgstr ""
+"De Blue Angel gunningscriteria voor software, met zijn focus op "
+"transparantie in hulpbron en energie-efficiëntie, leeftijd van werkende "
+"hardware en gebruiker-autonomie, bieden een excellente benchmark om te een "
+"discussie over software onderhoudbaarheid en ontwikkeling op dit gebied "
+"verder te brengen te beginnen. En dus, in 2021 starte KDE [KDE Eco](https://"
+"eco.kde.org/), een project met het doel KDE en Vrije Software aan het "
+"voorfront van duurzaam software ontwerp te brengen. Duurzaamheid is geen "
+"nieuw doel voor Vrije en Open-Source Software (FOSS). De [vier vrijheden]"
+"(http://fsfe.org/freesoftware/freesoftware.en.html) hebben altijd Vrije "
+"Software aan het voorfront van duurzaam software ontwerp. Wat nieuw *is* is "
+"dat FOSS waarden nu erkent worden als direct gerelateerd aan duurzaamheid "
+"door organisaties zoals de German Environment Agency (*Umweltbundesamt*), "
+"die de gunningscriteria heeft ontwikkeld."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:28
+msgid ""
+"The Blue Angel is awarded to a range of products and services, from paper "
+"products to construction materials to printers. In 2020 the German "
+"Environment Agency extended the award criteria to include software products, "
+"which was the first in the world of environmental certifications to link "
+"transparency and user autonomy with sustainability. In order to obtain the "
+"ecolabel, a software product must demonstrate that it meets a list of "
+"stringent requirements considered critical for the environment over the "
+"product's life cycle. These include providing transparency in the energy "
+"consumption when using the software -- for example, in the case of Okular, "
+"while reading or annotating a PDF -- and the ability to run the application "
+"on hardware at least five years old. The Blue Angel award criteria also "
+"include a list of user autonomy requirements which reduce the environmental "
+"impact of software."
+msgstr ""
+"De Blue Angel is toegekend aan een reeks producten en services, vanaf "
+"papierproducten tot constructiematerialen tot printers. In 2020 heeft de "
+"German Environment Agency de gunningscriteria uitgebreid om "
+"softwareproducten te omvatten, wat voor het eerst in de wereld van "
+"certificering voor omgevingsinvloed werd gekoppeld aan transparantie en "
+"gebruikersautonomie met duurzaamheid. Om het ecolabel te ontvangen, moet een "
+"softwareproduct demonstreren dat het aan een lijst van stringente vereisten "
+"die als kritisch voor de omgeving worden beschouwd over de life-cycle van "
+"een product. Deze omvatten het leveren van transparantie in de "
+"energieconsumptie bij gebruiken van de software -- bijvoorbeeld, in het "
+"geval van Okular, bij lezen of annoteren van ee PDF -- en de mogelijkheid de "
+"toepassing te draaien op hardware die minstens vijf jaar oud is. De Blue "
+"Angel gunningscriteria omvatten ook een lijst met eisen voor "
+"gebruikersautonomie die de omgevingsinvloed van software reduceren."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:30
+msgid "Blue Angel Ecolabel"
+msgstr "Ecolabel Bleu Angel"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:32
+msgid ""
+"All of these criteria reflect KDE's values and those of the larger FOSS "
+"movement seamlessly. With Free and Open-Source Software, transparency is "
+"guaranteed and control is handed over to the users, instead of being held "
+"back by vendors or service providers. This allows users to decide what they "
+"want from the software they use and, all too often overlooked, the hardware "
+"as well. For instance, users may drive down the energy consumption of their "
+"programs with no loss in functionality as they can install only what they "
+"need, no more and no less; and avoid advertising and data-mining options, "
+"which would run unnecessary processes in the background driving up the "
+"consumption of resources. As for FOSS developers, they typically continue to "
+"support hardware that the industry would be eager to obsolete, providing "
+"users with up-to-date and secure software for devices that might otherwise "
+"be discarded as e-waste and end up polluting landfills. In short, as a "
+"consequence of the user freedoms and transparency guaranteed by a Free "
+"Software license, users and communities are able to influence the factors "
+"determining the resource consumption of their software!"
+msgstr ""
+"Al deze criteria reflecteren naadloos de waarden van KDE en die van de "
+"grotere FOSS beweging. Met Vrije en Open-Source Software, is transparantie "
+"gegarandeerd en control is overhandigd aan de gebruikers, in plaats van "
+"achtergehouden te worden door verkopers of serviceleveranciers. Dit biedt "
+"gebruikers om te bepalen wat ze willen van de software die ze gebruiken en, "
+"al te vaak aan voorbijgezien, evenals de hardware. Gebruikers kunnen de "
+"energieconsumptie van hun programma's omlaag brengen zonder verlies in "
+"functionaliteit evenals dat ze alleen wat ze nodig hebben kunnen "
+"installeren, niet meer en niet minder; en adverteren en data-mining opties "
+"vermijden, die onnodige processen in de achtergrond laten werken die de "
+"consumptie van hulpbronnen opdrijven. Voor FOSS ontwikkelaars geldt dat ze "
+"typisch doorgaan met ondersteuning van hardware die de industrie graag wil "
+"verouderen, en aan gebruikers software leveren die bij-de-tijd en veilig is "
+"voor apparaten die anders weggegooid zouden worden als e-waste en eindigen "
+"met vervuilen van afvalbergen. Kortom, als een gevolg van vrijheid van de "
+"gebruiker en transparantie gegarandeerd door een Vrije Software licentie, "
+"zijn gebruikers en gemeenschappen in staat de factoren te beïnvloeden die de "
+"consumptie van hulpbronnen bepalen van hun software!"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:34
+msgid ""
+"Released under the GPLv2+ license, Okular is Free and Open-Source Software, "
+"and so was also already fulfilling many of the user autonomy criteria "
+"necessary to obtain the Blue Angel seal of approval. Further work was "
+"carried out to make Okular fully compliant with all of the Blue Angel "
+"criteria, and become officially recognized as providing transparency in "
+"energy and resource consumption, extending the potential hardware operating "
+"life of devices, and enabling user autonomy."
+msgstr ""
+"Uitgegeven onder de GPLv2+ licentie, is Okular Vrije en Open-Source "
+"Software, en deed zo al aan vele van de criteria  voor gebruikersautonomie "
+"nodig om het Blue Angel zegel voor toekenning te verkrijgen. Verder werk is "
+"gedaan om Okular volledig te laten voldoen aan alle criteria van Blue Angel, "
+"en officieel werd erkent als transparantie leveren in energie- en "
+"hulpbronconsumptie, waarmee het potentiële leeftijd van hardware apparaten "
+"en gebruikersautonomie uitbreidt."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:36
+msgid ""
+"KDE and the Free Software community would like to send a heartfelt thank you "
+"to the Okular developers for making environmentally-friendly software for "
+"all of us!"
+msgstr ""
+"KDE en de Vrije Software gemeenschap willen graag een hartelijk dank u "
+"zenden naar de ontwikkelaars van Okular voor het maken van "
+"omgevingsvriendelijke software voor ons allen!"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:40
+msgid ""
+"Okular works on Linux, Windows, Android and Plasma Mobile, and is available "
+"to [download](https://okular.kde.org/download/) for all GNU/Linux "
+"distributions, as a standalone package from [Flathub](https://flathub.org/"
+"apps/search/okular) and the [Snap Store](https://snapcraft.io/search?"
+"q=okular), through the [KDE F-Droid release repository](https://cdn.kde.org/"
+"android/stable-releases/fdroid/repo/) for Android, as well as from the "
+"[Microsoft Store](https://www.microsoft.com/en-us/p/"
+"okular/9n41msq1wnm8#activetab=pivot:overviewtab). Being FOSS, the source "
+"code is also readily available at [Okular's GitLab repository](https://"
+"invent.kde.org/graphics/okular) for all to use, study, share, and improve."
+msgstr ""
+"Okular werkt op Linux, Windows, Android en Plasma Mobile en is beschikbaar "
+"voor [download](https://okular.kde.org/download/) voor alle GNU/Linux "
+"distributies, als een alleenstaand pakket uit [Flathub](https://flathub.org/"
+"apps/search/okular) en de [Snap Store](https://snapcraft.io/search?"
+"q=okular), via de [KDE F-Droid uitgave-opslagruimte](https://cdn.kde.org/"
+"android/stable-releases/fdroid/repo/) voor Android, evenals uit de "
+"[Microsoft Store](https://www.microsoft.com/en-us/p/"
+"okular/9n41msq1wnm8#activetab=pivot:overviewtab). Omdat het FOSS is, is de "
+"broncode ook gemakkelijk beschikbaar op [de GitLab opslagruimte van Okular]"
+"(https://invent.kde.org/graphics/okular) voor iedereen te gebruiken, studie, "
+"delen en verbeteren."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:43
+msgid ""
+"Today, sustainability must be considered holistically: freedom and openness "
+"in software, user autonomy and control over one's digital life, and "
+"transparency in our digital infrastructure's resource consumption are all a "
+"part of that. Join us at [KDE Eco](https://eco.kde.org/get-involved/). Let "
+"us make digital sustainability and resource-efficient Free and Open-Source "
+"Software part of our future so we can live up to our responsibility for this "
+"and future generations!"
+msgstr ""
+"Duurzaamheid moet vandaag holistisch worden beschouwd: vrijheid en openheid "
+"in software, gebruikersautonomie en controle over uw digitale leven en "
+"transparantie in de hulpbronconsumptie van onze digitale infrastructuur zijn "
+"er allemaal deel van. Doe mee met ons op [KDE Eco](https://eco.kde.org/get-"
+"involved/). Laat ons digitale duurzaamheid en hulpbronefficiënte Vrije en "
+"Open-Source Software deel van onze toekomst maken zodat we kunnen onze "
+"verantwoordelijkheid kunnen nemen voor deze en toekomstige generaties!"
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid ""
+"Blue Angel Award Ceremony At EnviroInfo Conference: Okular Officially "
+"Receives Eco-Label, First Ever For Software Product"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid "Award Ceremony"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid "EnviroInfo Conference"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid ""
+"On Wednesday 28 September Okular celebrated becoming the first Blue Angel "
+"eco-certified software product together with the German Environment Agency "
+"('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt Campus "
+"Birkenfeld'), and the EnviroInfo conference researchers and attendees."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:12
+msgid ""
+"On Wednesday 28 September 2022 [Okular](https://okular.kde.org/), a Free and "
+"Open Source advanced document reader that allows you to read, sign, and "
+"annotate PDFs, ePubs, MarkDowns, and many other types of documents, was "
+"officially celebrated for becoming the first software product to receive the "
+"Blue Angel eco-label."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:14
+msgid ""
+"As announced in March (read more [here](https://eco.kde.org/blog/2022-03-16-"
+"press-release-okular-blue-angel/)), Okular has been recognized for "
+"sustainable software design as reflected in the recent Blue Angel award "
+"criteria for software eco-certification. Introduced in 1978, the Blue Angel "
+"is the world’s earliest eco-label and the official environmental label "
+"awarded by the German government. With this award, Okular is the first and "
+"currently only eco-certified computer program within the 30 organizations of "
+"the Global Ecolabelling Network, which represents over 50 countries."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:18
+msgid ""
+"![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/"
+"blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:20
+msgid ""
+"*KDE's Okular receiving the Blue Angel eco-certification from the German "
+"Environment Agency ('Umweltbundesamt'). From left to right: Mathias "
+"Bornschein from the German Environment Agency with Joseph P. De Veaugh-"
+"Geiss, Alexander Lohnau, and Harri Porten from the KDE community.*"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:25
+msgid ""
+"The award ceremony took place at the 36th edition of the [EnviroInfo "
+"conference](https://informatik2022.gi.de/en/enviroinfo-2022) in Hamburg, "
+"Germany. Three KDE community members -- Joseph P. De Veaugh-Geiss, Alexander "
+"Lohnau, and Harri Porten -- were on stage to receive the award on behalf of "
+"Okular and the KDE community."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:27
+msgid ""
+"EnviroInfo is an international and interdisciplinary conference with a focus "
+"on environmental issues in information and communication technologies. "
+"Researchers and attendees at the event are, quoting the website, "
+"\"[c]ombining and shaping national and international activities in the field "
+"of applied informatics and environmental informatics in making the world a "
+"better place for living.\" The KDE community is honored to have celebrated "
+"Okular's achievement at the event together with the German Environment "
+"Agency ('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt "
+"Campus Birkenfeld'), and the larger EnviroInfo community."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:29
+msgid ""
+"Congratulations to Okular and KDE for official recognition of the "
+"outstanding work you are doing!"
+msgstr ""
+
+#: content/blog/_index.md:0
+msgid "Blog"
+msgstr "Blog"
+
+#: content/blog/_index.md:0
+msgid "KDE Eco blog"
+msgstr "KDE Eco-blog"
+
+#: content/blog/_index.md:9
+msgid "Keep up with the latest news about the KDE Eco project"
+msgstr "Bijblijven met het laatste nieuws over het KDE Eco-project"
+
+#: content/blog/post-1.md:0 content/FEEP/_index.md:0
+msgid "Energy Efficiency"
+msgstr "Energie-efficiëntie"
+
+#: content/blog/post-1.md:0
+msgid "Resource-Efficient Software & Blauer Engel Eco-Certification"
+msgstr "Hulpbron-efficiënte software & Blauer Engel Eco-Certificatie"
+
+#: content/blog/post-1.md:0
+msgid "Hardware Operating Life"
+msgstr "Werkzame leeftijd van hardware"
+
+#: content/blog/post-1.md:0
+msgid "Software efficiency is resource efficiency!"
+msgstr "Software efficiëntie is hulpbron efficiëntie!"
+
+#: content/blog/post-1.md:15
+msgid ""
+"Often overlooked is the fact that the resource consumption of hardware is "
+"determined by the software running on it."
+msgstr ""
+"Er is vaak over het feit heen gekeken dat de hulpbronconsumptie van hardware "
+"bepaald wordt door de software die er op draait."
+
+#: content/blog/post-1.md:17
+msgid "*How much energy does hardware use?*"
+msgstr "*Hoeveel energie gebruikt de hardware?*"
+
+#: content/blog/post-1.md:19
+msgid ""
+"Take a look at the software: the same machine doing the same task but with "
+"two different applications can have [drastically different energy demands]"
+"(https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
+"Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf)."
+msgstr ""
+"Neem een kijkje in de software: dezelfde machine die dezelfde taak uitvoert "
+"maar met twee verschillende toepassingen kan [drastisch verschillende "
+"energiebehoeften](https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
+"Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf) "
+"hebben."
+
+#: content/blog/post-1.md:21
+msgid "*How long is the operating life of a piece of hardware?*"
+msgstr "*Hoe lang is de levensduur van een stukje hardware?*"
+
+#: content/blog/post-1.md:23
+msgid ""
+"Again, software is critical. Software bloat requiring more and more powerful "
+"hardware results in new devices being manufactured and sold, while perfectly "
+"functioning devices are discarded."
+msgstr ""
+"Nog eens, software is kritisch. Software opblazen vereist meer en meer "
+"krachtige hardware, wat resulteert in nieuw gemaakte en verkochte apparaten, "
+"terwijl perfect functionerende apparaten worden afgedankt."
+
+#: content/blog/post-1.md:27
+msgid ""
+"![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-"
+"Towill_800x600.jpg \"WEEE Man At The Eden Project\")"
+msgstr ""
+"![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-"
+"Towill_800x600.jpg \"WEEE Man At The Eden Project\")"
+
+#: content/blog/post-1.md:29
+msgid ""
+"*\"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man "
+"is made of electrical and electronic equipment thrown away by the average UK "
+"citizen in their lifetime - equating to 3.3 tonnes.\" ([source](https://web."
+"archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*"
+msgstr ""
+"*\"De zeven meter hoge WEEE (Waste Electrical and Electronic Equipment) Man "
+"is gemaakt van elektrische en elektronische apparaten die zijn weggegooid "
+"door de gemiddelde VK-burger in zijn/haar leven - overeenkomend met 3,3 ton."
+"\"([bron](https://web.archive.org/web/20180901075137/https://www.geograph."
+"org.uk/photo/2637892))*"
+
+#: content/blog/post-1.md:33
+msgid ""
+"So when thinking about what to do while the climate crisis continues, where "
+"to start and how, we at [KDE Eco](https://eco.kde.org/) think software -- "
+"especially Free Software -- is a good place to start. Free Software means "
+"users and their communities have the freedom to control the software they "
+"use, not the other way around. These freedoms provide real choice. Choice in "
+"what to install, or uninstall. Options to modify software to run more "
+"efficiently. Continuing support for older, but perfectly functioning, "
+"devices. And so on."
+msgstr ""
+"Dus bij het denken over wat te doen terwijl de klimaatcrisis doorgaat, waar "
+"te starten en hoe, denken wij bij [KDE Eco](https://eco.kde.org/) over "
+"software -- speciaal Vrije Software -- is een goede plek om te starten. "
+"Vrije Software betekent gebruikers en hun gemeenschappen hebben de vrijheid "
+"om de software die ze gebruiken te controleren, niet andersom. Deze "
+"vrijheden bieden echte keuze. Keuze in wat te installeren of niet te "
+"installeren. Opties om software te wijzigen om efficiënter te draaien. "
+"Ondersteuning voor oudere, maar perfect functionerende apparaten te "
+"continueren. Enzovoort."
+
+#: content/blog/post-1.md:35
+msgid ""
+"Each of these choices has a cost and/or benefit. For instance, the more "
+"(unnecessary) processes an application has running in the background, the "
+"more resources the hardware will need. Multiply such costs by hundreds of "
+"millions, or even billions, of computer users worldwide, and it quickly adds "
+"up."
+msgstr ""
+"Elk van deze keuzes hebben kosten en/of voordelen. Bijvoorbeeld, hoe meer "
+"(onnodige) processen een toepassing in de achtergrond heeft draaien, hoe "
+"meer hulpbronnen de hardware nodig zal hebben. Vermenigvuldig zulke kosten "
+"met honderden miljoenen of zelfs biljoenen, computergebruikers wereldwijd, "
+"en het telt snel op."
+
+#: content/blog/post-1.md:37
+msgid ""
+"The opposite is also true: reduce the demands from software and one reduces "
+"the demands on our resources."
+msgstr ""
+"Het tegenovergestelde is ook waar: reduceer de eisen van software en dat "
+"reduceert de eisen op onze hulpbronnen."
+
+#: content/blog/post-1.md:39
+msgid "In other words, software efficiency means resource efficiency!"
+msgstr "In andere woorden, software efficiëntie betekent hulpbronefficiëntie!"
+
+#: content/blog/post-1.md:41
+msgid ""
+"Recently, the interdependency between software engineering and "
+"sustainability was officially recognized by the [German Environment Agency]"
+"(https://www.umweltbundesamt.de/en) (*Umweltbundesamt*, or UBA). In 2020, "
+"UBA released the [award criteria](https://produktinfo.blauer-engel.de/"
+"uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf) for "
+"desktop software to obtain eco-certification with the Blauer Engel label. "
+"Categories for certification include energy efficiency, extending the "
+"potential operating life of hardware, and user autonomy ... all of which fit "
+"seamlessly with Free and Open Source Software (FOSS)."
+msgstr ""
+"Recent is de onderlinge afhankelijkheid tussen software engineering en "
+"onderhoudbaarheid officieel erkend door de [German Environment Agency]"
+"(https://www.umweltbundesamt.de/en) (*Umweltbundesamt*, or UBA). In 2020, "
+"gaf UBA de [criteria voor prijsuitreiking](https://produktinfo.blauer-engel."
+"de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf) "
+"uit voor bureaubladsoftware om eco-certificatie met het label Blauer Engel. "
+"Categorieën voor certificatie omvatten energie-efficiëntie, die de "
+"potentiële levensduur van hardware verlengt, en autonomie van de "
+"gebruiker ... waarvan alles naadloos past in Vrije en open-source Software "
+"(FOSS)."
+
+#: content/blog/post-1.md:45
+msgid ""
+"![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation."
+"jpg)"
+msgstr ""
+"![KDE Eco-logo met vegetatie](/blog/images/KDE-eco-logo-name_vegetation.jpg)"
+
+#: content/blog/post-1.md:49
+msgid ""
+"The Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) project from KDE e.V. seeks to collect, summarize, and spread "
+"information related to Blauer Engel eco-certification and resource "
+"efficiency as it relates to FOSS development. Measuring the energy "
+"consumption of Free Software is the focus of the Free & Open Source Software "
+"Energy Efficiency Project ([FEEP](https://invent.kde.org/teams/eco/feep)). "
+"Both projects are part of the pioneering [KDE Eco](https://invent.kde.org/"
+"teams/eco) initiative!"
+msgstr ""
+"Het project Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) van KDE e.V. zoekt het verzamelen, samenvatten en verspreiden van "
+"informatie gerelateerd aan eco-certificatie van Blauer Engel en "
+"hulpbronefficiëntie zoals het verband houdt met FOSS ontwikkeling. Meten van "
+"de energieconsumptie van Vrije Software is de focus van de Vrije & Open-"
+"source Software Energie-efficiëntie project ([FEEP](https://invent.kde.org/"
+"teams/eco/feep)). Beide projecten zijn onderdeel van het pioneering [KDE Eco]"
+"(https://invent.kde.org/teams/eco) initiatief!"
+
+#: content/blog/post-1.md:53
+msgid ""
+"<font size=\"6\"> **[Join us in building energy-efficient, Free Software!]"
+"(https://eco.kde.org/get-involved/)** </font>"
+msgstr ""
+"<font size=\"6\"> **[Doe mee met ons in het bouwen van energie-efficiënte, "
+"Vrije Software.](https://eco.kde.org/get-involved/)** </font>"
+
+#: content/blog/post-1.md:57
+msgid ""
+"*This is a modified version of the abstract [submitted](https://web.archive."
+"org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) "
+"to the Remote Rhein Ruhr Stage at CCC 2021. You can watch the talk [here]"
+"(https://streaming.media.ccc.de/rc3/relive/319).*"
+msgstr ""
+"*Dit is een gewijzigde versie van de samenvatting [submitted](https://web."
+"archive.org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/"
+"UUJGTC/) naar de Remote Rhein Ruhr Stage op CCC 2021. U kunt de praatjes "
+"[hier](https://streaming.media.ccc.de/rc3/relive/319) bekijken.*"
+
+#: content/FEEP/_index.md:9
+msgid ""
+"FEEP is developing tools to improve energy efficiency in free and open "
+"source software development. Design and implementation of software has a "
+"significant impact on the energy consumption of the systems it is part of. "
+"With the right tools, it is possible to quantify and drive down energy "
+"consumption. This increased efficiency contributes to a more sustainable use "
+"of energy as one of the shared resources of our planet."
+msgstr ""
+"FEEP is het ontwikkelen van hulpmiddelen om energie-efficiëntie te "
+"verbeteren in het ontwikkelen van vrije en open-source software. Ontwerp en "
+"implementatie van software heeft een significante invloed op de "
+"energieconsumptie van de systemen waar het onderdeel van is. Met de juiste "
+"hulpmiddelen is het mogelijk energieconsumptie te kwantificeren en omlaag te "
+"brengen. Deze verhoogde efficiëntie draagt bij aan een meer duurzaam gebruik "
+"van energie als een van de gedeelde hulpbronnen van onze planeet."
+
+#: content/get-involved.md:0
+msgid "Get Involved"
+msgstr "Doe mee"
+
+#: content/get-involved.md:9
+msgid "Become a part of the sustainable software movement"
+msgstr "Wordt een onderdeel van de duurzame software beweging"
+
+#: content/get-involved.md:11
+msgid ""
+"We need as many motivated people as possible to drive this forward. Here are "
+"some channels where you can get more information and contribute."
+msgstr ""
+"We hebben zoveel mogelijk personen nodig om dit vooruit te brengen. Hier "
+"zijn enige kanalen waar u meer informatie kan krijgen en bijdragen."
+
+#: content/get-involved.md:13
+msgid "Community & Support"
+msgstr "Gemeenschap & ondersteuning"
+
+#: content/get-involved.md:15
+msgid ""
+"BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin time) "
+"(contact us for details)"
+msgstr ""
+"BigBlueButton : Maandelijkse ontmoetingen, tweede woensdag 19:00 CEST/CET "
+"(Berlijnse tijd)(neem contact op met ons voor details)"
+
+#: content/get-involved.md:16
+msgid "Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+msgstr "Matrix-room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+
+#: content/get-involved.md:17
+msgid ""
+"Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/"
+"listinfo/energy-efficiency"
+msgstr ""
+"Energie-efficiëntie e-maillijst: https://mail.kde.org/cgi-bin/mailman/"
+"listinfo/energy-efficiency"
+
+#: content/get-involved.md:18
+msgid "KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334"
+msgstr "KDE Eco-forum: https://forum.kde.org/viewforum.php?f=334"
+
+#: content/get-involved.md:20
+msgid "Resources"
+msgstr "Hulpbronnen"
+
+#: content/get-involved.md:22
+msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
+msgstr "FEEP GitLab opslagruimte: https://invent.kde.org/teakms/eco/feep"
+
+#: content/get-involved.md:23
+msgid "BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss"
+msgstr "BE4FOSS GitLab opslagruimte: https://invent.kde.org/teams/eco/be4foss"
+
+#: content/get-involved.md:24
+msgid ""
+"Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-"
+"application"
+msgstr ""
+"Blue Angel toepassingen: https://invent.kde.org/teams/eco/blue-angel-"
+"application"
+
+#: content/get-involved.md:26
+msgid "Contact"
+msgstr "Contact"
+
+#: content/get-involved.md:28
+msgid "Email: `joseph [at] kde.org`"
+msgstr "E-mail: `joseph [at] kde.org`"
+
+#: i18n/en.yaml:0
+msgid "Free and open source software Energy Efficiency Project"
+msgstr "Project energie-efficiëntie met vrije en open-source software"
+
+#: i18n/en.yaml:0
+msgid ""
+"How can you measure software's energy consumption? And does it make a "
+"difference? We are working to make free software more sustainable."
+msgstr ""
+"Hoe kunt u de energieconsumptie van software meten? En maakt het een "
+"verschil? We werken aan het meer duurzaam maken van vrije software."
+
+#: i18n/en.yaml:0
+msgid "Blauer Engel for Free and Open Source Software"
+msgstr "Blauer Engel voor vrije en open-source software"
+
+#: i18n/en.yaml:0
+msgid ""
+"Eco-labels for products are used widely already. But how can they be "
+"transferred to software? What criteria is relevant? We need more pioneers to "
+"find out how we can make software sustainable."
+msgstr ""
+"Eco-labels voor producten worden reeds breed gebruikt. Maar hoe kunnen ze "
+"overgebracht worden naar software? Welke criteria zijn relevant? We hebben "
+"meer pioniers nodig om te ontdekken hoe we software duurzamer kunnen maken."
+
+#: i18n/en.yaml:0
+msgid "Learn more"
+msgstr "Meer informatie"
+
+#: i18n/en.yaml:0
+msgid "Okular Awarded Blue Angel Ecolabel"
+msgstr "Ecolabel Bleu Angel toegekend aan Okular"
+
+#: i18n/en.yaml:0
+msgid ""
+"In 2022, KDE's popular multi-platform PDF reader and universal document "
+"viewer Okular became the first ever eco-certified computer program!"
+msgstr ""
+"In 2022 werd de populaire multi-platform PDF-lezer en universele "
+"documentviewer van KDE als eerste ooit het eco-gecertificeerd computer "
+"programma!"
+
+#: i18n/en.yaml:0
+msgid "Read More"
+msgstr "Lees meer"
+
+#: i18n/en.yaml:0
+msgid "**Get Involved**"
+msgstr "**Doe mee**"
+
+#: i18n/en.yaml:0
+msgid "Join us for a sustainable software development movement!"
+msgstr "Doe met ons mee aan een beweging voor duurzame software ontwikkeling!"
+
+#: i18n/en.yaml:0
+msgid "Mailing List"
+msgstr "E-maillijst"
+
+#: i18n/en.yaml:0
+msgid "Matrix"
+msgstr "Matrix"
+
+#: i18n/en.yaml:0
+msgid "Forum"
+msgstr "Forum"
+
+#: i18n/en.yaml:0
+msgid "How you can help"
+msgstr "Hoe kunt u helpen"
+
+#: i18n/en.yaml:0
+msgid ""
+"Follow 3-steps to Blauer Engel eco-certification: (1) Measure, (2) Analyze, "
+"(3) Certify"
+msgstr ""
+"Volg de drie-steppen naar Blauer Engel eco-certificatie: (1) Meten, (2) "
+"Analyseren, (3) Certificeren"
+
+#: i18n/en.yaml:0
+msgid "Squash bugs labelled 'efficiency'"
+msgstr "Los bugs op met het label 'efficiency'"
+
+#: i18n/en.yaml:0
+msgid "Set up a measurement lab in your community"
+msgstr "Zet een meetlaboratorium op in uw gemeenschap"
+
+#: i18n/en.yaml:0
+msgid "Develop automation tools for energy consumption measurements"
+msgstr "Ontwikkel automatiseringshulpmiddelen voor meten van energieconsumptie"
+
+#: i18n/en.yaml:0
+msgid "Assist with statistical analysis and related tools (e.g., OSCAR)"
+msgstr ""
+"Assisteer bij statistische analyses en gerelateerde hulpmiddelen (bijv., "
+"OSCAR)"
+
+#: i18n/en.yaml:0
+msgid "Image of computer directory with globe"
+msgstr "Afbeelding van computermap met wereldbol"
+
+#: i18n/en.yaml:0
+msgid "FOSS Energy Efficiency Project (FEEP)"
+msgstr "FOSS Energy Efficiency Project (FEEP)"
+
+#: i18n/en.yaml:0
+msgid "Image of globe with computer mouse"
+msgstr "Afbeelding met wereldbol met computermuis"
+
+#: i18n/en.yaml:0
+msgid "Blauer Engel For FOSS (BE4FOSS)"
+msgstr "Blauer Engel For FOSS (BE4FOSS)"
+
+#: i18n/en.yaml:0
+msgid "Image of Blauer Engel ecolabel"
+msgstr "Afbeelding van Blauer Engel ecolabel"
+
+#: i18n/en.yaml:0
+msgid "Image of BMUV/UBA"
+msgstr "Afbeelding van BMUV/UBA"
+
+#: i18n/en.yaml:0
+msgid "Categories"
+msgstr "Categorieën"
+
+#~ msgid "energy efficiency"
+#~ msgstr "energie-efficiëntie"
+
+#~ msgid ""
+#~ "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+#~ "efficiency"
+#~ msgstr ""
+#~ "E-maillijst: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+#~ "efficiency"
+
+#~ msgid "Discuss"
+#~ msgstr "Discussie"
+
+#~ msgid ""
+#~ "Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+#~ msgstr ""
+#~ "Matrix-room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"

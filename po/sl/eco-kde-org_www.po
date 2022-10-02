@@ -1,0 +1,2275 @@
+#
+#
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2021, 2022.
+# Martin Srebotnjak <miles@filmsi.net>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: websites-eco-kde-org 1.0\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-10-02 00:50+0000\n"
+"PO-Revision-Date: 2022-08-07 07:23+0200\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <lugos-slo@lugos.si>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
+"%100==4 ? 3 : 0);\n"
+"X-Generator: Lokalize 22.04.1\n"
+
+#: config.yaml:0 content/_index.md:0
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
+msgid "KDE Eco"
+msgstr "Eko KDE"
+
+#: config.yaml:0
+msgid "FEEP"
+msgstr "FEEP"
+
+#: config.yaml:0
+msgid "BE4FOSS"
+msgstr "BE4FOSS"
+
+#: config.yaml:0
+msgid "Donate"
+msgstr "Donirajte"
+
+#: content/_index.md:0
+msgid "Building Energy-Efficient Free Software"
+msgstr "Izdelava energetsko učinkovitega prostega programja"
+
+#: content/BE4FOSS/_index.md:0
+msgid "Eco Label"
+msgstr "Eko značka"
+
+#: content/BE4FOSS/_index.md:9
+msgid ""
+"In 2020 the Umweltbundesamt ('German Environment Agency') released the award "
+"criteria for obtaining eco-certification with the Blauer Engel label for "
+"desktop software. Categories for certification include energy efficiency, "
+"extending the potential operating life of hardware, and user autonomy … all "
+"of which fit seamlessly with free and open source software."
+msgstr ""
+"Leta 2020 je Umweltbundesamt (»Nemška agencija za okolje«) objavila merila "
+"za nagrado za pridobitev eko-potrdila z oznako Modri angel za namizno "
+"programsko opremo. Kategorije za potrjevanje vključujejo energetsko "
+"učinkovitost, razširitev potencialne operativne življenjske dobe strojne "
+"opreme in avtonomije uporabnikov... Vse to se brez težav prilega prosti in "
+"odprtokodni programski opremi."
+
+#: content/BE4FOSS/_index.md:11
+msgid ""
+"The BE4FOSS project advances eco-certification for resource efficient "
+"software in the FOSS community. Obtaining the Blauer Engel label occurs in 3 "
+"steps: (1) MEASURE, (2) ANALYZE, and (3) CERTIFY."
+msgstr ""
+"Projekt BE4FOSS predstavlja napredek pri ekološkem potrjevanju učinkovite "
+"rabe virov pri skupnosti proste programske opreme. Pridobitev značke Modri "
+"angel poteka v treh korakih: (1) MERITVE, (2) ANALIZA, in (3) PORTJEVANJE."
+
+#: content/BE4FOSS/_index.md:12
+msgid "MEASURE in dedicated labs, such as at KDAB Berlin"
+msgstr "MERITVE v za to namenjenih laboratorijih kot je npr. KDAB Berlin"
+
+#: content/BE4FOSS/_index.md:13
+msgid ""
+"ANALYZE using statistical tools such as OSCAR (Open source Software "
+"Consumption Analysis in R)"
+msgstr ""
+"ANALIZA uporaba statističnih orodij kot npr. OSCAR (Open source Software "
+"Consumption Analysis in R)"
+
+#: content/BE4FOSS/_index.md:14
+msgid ""
+"CERTIFY by submitting the report on the fulfillment of the Blauer Engel "
+"criteria"
+msgstr ""
+"POTRJEVANJE z vlogo poročila o zagotavljanju kriterijev za Modrega angela"
+
+#: content/BE4FOSS/_index.md:16
+msgid "The benefits of obtaining the ecolabel include:"
+msgstr "Prednosti pridobitve eko značke vsebujejo:"
+
+#: content/BE4FOSS/_index.md:17
+msgid ""
+"Recognition of reaching high standards for environmentally-friendly software "
+"design"
+msgstr ""
+"Priznanje doseganja visokih standardov pri oblikovanju okolju prijazne "
+"programske opreme"
+
+#: content/BE4FOSS/_index.md:18
+msgid "Differentiating free software from the alternatives"
+msgstr "Razlikovanje prostega programja od alternativnih programov"
+
+#: content/BE4FOSS/_index.md:19
+msgid "Increasing the appeal of adoption for consumers"
+msgstr "Povečanje privlačnosti za rabo pri potrošnikih"
+
+#: content/BE4FOSS/_index.md:20
+msgid "Promoting transparency in the ecological footprint of software"
+msgstr "Spodbujanje preglednosti pri ekološkem odtisu programske opreme"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+msgid ""
+"KDE Eco 2021 Sprint: Details On The Community Planning For KDE's Ecological "
+"Project"
+msgstr ""
+"KDE Eco 2021 Sprint: podrobnosti o načrtovanju skupnosti za ekološki projekt "
+"KDE"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+msgid "Sprint 2021"
+msgstr "Sprint 2021"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+#: content/blog/post-1.md:0
+msgid "Blauer Engel"
+msgstr "Modri angel"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+msgid "Community Lab"
+msgstr "Skupnostni laboratorij"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+#: content/blog/post-1.md:0
+msgid "Joseph P. De Veaugh-Geiss"
+msgstr "Joseph P. De Veaugh-Geiss"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
+msgid "Follow-up to the KDE Eco Sprint announcement posted on The Dot."
+msgstr "Nadaljevanje objave KDE Eco Sprint, objavljene na The Dot."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:12
+msgid ""
+"This is a follow-up to the [KDE Eco Sprint announcement posted on The Dot]"
+"(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
+msgstr ""
+"To je nadaljevanje [obvestila o KDE Eco Sprint, objavljenega na The Dot]"
+"(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:14
+msgid ""
+"On 11 December 2021, KDE Eco held the first of many planned Sprints, with 7 "
+"people in attendance. The Sprint was originally intended to be an in-person "
+"event to set up a community measurement lab, but Corona had other ideas. "
+"Nevertheless, the community deployed its usual resourcefulness, and we met "
+"online instead."
+msgstr ""
+"11. decembra 2021 je KDE Eco izvedel prvi od mnogih načrtovanih sprintov, "
+"katerega se je udeležilo 7 ljudi. Sprint je bil prvotno mišljen kot osebni "
+"dogodek za vzpostavitev skupnostnega merilnega laboratorija, vendar je imela "
+"Corona druge zamisli. Kljub temu je skupnost uporabila svojo običajno "
+"iznajdljivost in namesto tega smo se srečali na spletu."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:18
+msgid ""
+"![KDE Eco 2021 Sprint On KDE News](/blog/images/dot-sprint-2021_small.png)"
+msgstr ""
+"![KDE Eco 2021 Sprint na Novicah KDE](/blog/images/dot-sprint-2021_small.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:20
+msgid "*KDE Eco 2021 Sprint Announcement On KDE News*"
+msgstr "*Objava KDE Eco 2021 Sprint v novicah KDE*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:24
+msgid ""
+"In this long-form post I will provide a detailed overview of the main issues "
+"discussed at the Sprint and their outcomes; see also the [minutes](https://"
+"invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2021-12-11_sprint01_protocol.md) for further details."
+msgstr ""
+"V tem obsežnem prispevku bom podal podroben pregled glavnih vprašanj, o "
+"katerih se razpravlja na Sprintu, in njihovih rezultatov; glejte tudi "
+"[zapisnik](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2021-12-11_sprint01_protocol.md) za dodatne podrobnosti."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
+msgid "Did you know?"
+msgstr "Ali ste vedeli?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:28
+msgid ""
+"Discussions similar to these occur monthly at our community meetups on the "
+"2nd Wednesday of the month from 19h-20h CET/CEST (Berlin Time)."
+msgstr ""
+"Podobne razprave se odvijajo mesečno na srečanjih naše skupnosti vsako 2. "
+"sredo v mesecu od 19. do 20. ure po srednjeevropskem času (Berlin)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:32
+msgid ""
+"<font size=\"6\"> **[Join us!](https://eco.kde.org/get-involved/) We would "
+"love to see you there.** </font>"
+msgstr ""
+"<font size=\"6\"> **[Pridružite se nam!](https://eco.kde.org/get-involved/) "
+"Res vas bomo veseli.** </font>"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:36
+msgid "Creating a KDE Eco team"
+msgstr "Ustvarjanje ekipe KDE Eco"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:38
+msgid ""
+"KDE Eco currently consists of three related projects: (i) Free and open "
+"source Energy Efficiency Project (FEEP), (ii) Blauer Engel For FOSS "
+"(BE4FOSS), and (iii) Blauer Engel Applications. Each project has its own "
+"particular focus: FEEP is concerned with measuring the energy consumption of "
+"Free Software, BE4FOSS is focused on community organization and spreading "
+"information about the Blauer Engel eco-label, and the Blauer Engel "
+"Applications repository hosts all documents related to certifying KDE/Free "
+"Software with the eco-label. Until the Sprint the three repositories for the "
+"projects were hosted at various personal namespaces. Now, all three "
+"repositories can be found at [https://invent.kde.org/teams/eco](https://"
+"invent.kde.org/teams/eco)."
+msgstr ""
+"KDE Eco trenutno sestavljajo trije povezani projekti: (i) brezplačen in "
+"odprtokodni projekt energetske učinkovitosti (FEEP), (ii) Blauer Engel za "
+"FOSS (BE4FOSS) in (iii) aplikacije Blauer Engel. Vsak projekt ima svoj "
+"poseben poudarek: FEEP se ukvarja z merjenjem porabe energije brezplačne "
+"programske opreme, BE4FOSS je osredotočen na organizacijo skupnosti in "
+"širjenje informacij o ekološki nalepki Blauer Engel, v skladišču aplikacij "
+"Blauer Engel pa so vsi dokumenti, povezani s certificiranjem KDE/"
+"brezplačnega programja z znakom za okolje. Do Sprinta so trije repozitoriji "
+"za projekte gostovali v različnih osebnih imenskih prostorih. Zdaj lahko vse "
+"tri repozitorije najdete na [https://invent.kde.org/teams/eco](https://"
+"invent.kde.org/teams/eco)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:40
+msgid ""
+"Having the projects under one team more clearly links these and possible "
+"future projects. Moreover, having a non-personal namespace is more "
+"appropriate for community projects. Feel free to check out the activities of "
+"each project at the above team space!"
+msgstr ""
+"Če so projekti pod eno ekipo, to bolj jasno povezuje te in morebitne "
+"prihodnje projekte. Poleg tega je neosebni imenski prostor bolj primeren za "
+"projekte skupnosti. Vabljeni, da si oglejte dejavnosti vsakega projekta v "
+"zgornjem ekipnem prostoru!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:45
+msgid "![Teams KDE Eco](/blog/images/teams-kde-eco.png)"
+msgstr "![Ekipe KDE Eco](/blog/images/teams-kde-eco.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:47
+msgid "*Teams > KDE Eco*"
+msgstr "*Ekipe > KDE Eco*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:51
+msgid "Completing the Blauer Engel application for Okular"
+msgstr "Dokončanje aplikacije Blauer Engel za Okular"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:53
+msgid ""
+"There are three KDE applications whose energy consumption has already been "
+"measured: [Okular](https://invent.kde.org/teams/eco/feep/-/tree/master/"
+"measurements/okular), [KMail](https://invent.kde.org/teams/eco/feep/-/tree/"
+"master/measurements/kmail), and [Krita](https://invent.kde.org/teams/eco/"
+"feep/-/tree/master/measurements/krita). Of these three, the Blauer Engel "
+"applications for Okular and KMail have been [in preparation](https://invent."
+"kde.org/teams/eco/blue-angel-application/-/tree/master/applications) for "
+"some time, and one goal was to complete Okular's application. We are proud "
+"to announce that, following the Sprint, Okular's application has been "
+"submitted and is currently under review for certification. We expect "
+"feedback from [RAL gGmbH](https://www.ral-umwelt.de/en/ral-environment/), "
+"the awarding body for the Blauer Engel, within 2-3 months. KMail's "
+"submission will follow soon."
+msgstr ""
+"Obstajajo tri aplikacije KDE, katerih poraba energije je bila že izmerjena: "
+"[Okular](https://invent.kde.org/teams/eco/feep/-/tree/master/measurements/"
+"okular), [KMail](https: //invent.kde.org/teams/eco/feep/-/tree/master/"
+"measurements/kmail) in [Krita](https://invent.kde.org/teams/eco/feep/-/tree/ "
+"master/meritve/krita). Od teh treh sta aplikaciji Blauer Engel za Okular in "
+"KMail [v pripravi](https://invent.kde.org/teams/eco/blue-angel-application/-/"
+"tree/master/applications) že nekaj časa, en cilj pa je bil dokončati "
+"Okularjevo aplikacijo. S ponosom sporočamo, da je bila po Sprintu prijava "
+"Okularja oddana in je trenutno v pregledu za pridobitev certifikata. "
+"Pričakujemo povratne informacije od [RAL gGmbH](https://www.ral-umwelt.de/en/"
+"ral-environment/), organa, ki podeljuje znake Blauer Engel, v 2-3 mesecih. "
+"KMail-ova oddaja bo sledila kmalu."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:55
+msgid ""
+"During a group review of the Okular application, participants raised many "
+"interesting points. One point, for instance, came up when discussing the "
+"transparency criteria of the Blauer Engel ([Section 3.1.3.2](https://"
+"produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-"
+"Criteria-2020-02-13.pdf)). Malte Reißig from the IASS Research Group on "
+"\"[Digitalisation and Sustainability Transformations](https://www.iass-"
+"potsdam.de/en/research-group/digitalisation-sustainability)\" highlighted "
+"how open development may positively affect some of the other requirements of "
+"the award criteria (see [this discussion](https://invent.kde.org/teams/eco/"
+"blue-angel-application/-/issues/57)), such as the long-term maintainability "
+"and user autonomy of a software product. That is, Free Software users do not "
+"only passively use software, but they are encouraged and able to express "
+"wishes for the future development of applications, and may actively "
+"participate in the planning of milestones. Moreover, with open development, "
+"commit messages can be linked to specific issues or bugs reported by a "
+"community of users and developers. With Free Software, an application is not "
+"just an end product, but an open process reflecting the needs and wants of "
+"its users and their communities. With FOSS, the community drives the "
+"direction of development!"
+msgstr ""
+"Med skupinskim pregledom aplikacije Okular so udeleženci izpostavili veliko "
+"zanimivih točk. Ena točka se je na primer pojavila pri razpravi o merilih "
+"preglednosti Blauer Engel ([razdelek 3.1.3.2](https://produktinfo.blauer-"
+"engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13."
+"pdf)). Malte Reißig iz raziskovalne skupine IASS na temo »[Digitalizacija in "
+"trajnostne transformacije](https://www.iass-potsdam.de/en/research-group/"
+"digitalisation-sustainability)« je poudaril, kako lahko odprt razvoj "
+"pozitivno vpliva na nekatere druge zahteve meril za dodelitev (glej [to "
+"razpravo](https://invent.kde.org/teams/eco/blue-angel-application/-/"
+"issues/57)), kot sta dolgoročna vzdržljivost in avtonomija uporabnikov "
+"programskega izdelka. To pomeni, da uporabniki brezplačne programske opreme "
+"ne samo pasivno uporabljajo programsko opremo, ampak jih spodbujajo in lahko "
+"izrazijo želje za prihodnji razvoj aplikacij ter lahko aktivno sodelujejo "
+"pri načrtovanju mejnikov. Poleg tega se pri odprtem razvoju lahko sporočila "
+"o spremembah programske kode povežejo s posebnimi težavami ali napakami, o "
+"katerih poroča skupnost uporabnikov in razvijalcev. Z brezplačno programsko "
+"opremo aplikacija ni le končni izdelek, temveč odprt proces, ki odraža "
+"potrebe in želje svojih uporabnikov in njihovih skupnosti. S programjem FOSS "
+"skupnost usmerja razvoj!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:59
+msgid "![Okular Icon](/blog/images/128-apps-okular.png)"
+msgstr "![Ikona Okular](/blog/images/128-apps-okular.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:61
+msgid "*Okular Icon*"
+msgstr "*Ikona Okular*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:65
+msgid ""
+"Another point was related to the distribution of Free Software and how it "
+"presents challenges for the fulfillment of the Blauer Engel criteria. Since "
+"Free Software typically distributes software in a decentralized way, for any "
+"one application there are numerous release and distribution channels. "
+"Consider [Okular](https://okular.kde.org/download/), which is packaged not "
+"only for [Flatpak](https://flathub.org/apps/details/org.kde.okular), but "
+"also [Microsoft Store](https://www.microsoft.com/en-us/p/"
+"okular/9n41msq1wnm8), not to mention numerous GNU/Linux distros (e.g., "
+"[OpenSuse](https://software.opensuse.org/package/okular), [Debian](https://"
+"packages.debian.org/bookworm/okular)). Differences in packaging "
+"infrastructure may affect the fulfillment of the Blauer Engel requirements, "
+"such as uninstallability, modularity, etc."
+msgstr ""
+"Druga točka je bila povezana z distribucijo brezplačne programske opreme in "
+"tem, kako to predstavlja izzive za izpolnjevanje meril Blauer Engel. Ker "
+"prosto programje običajno distribuira programsko opremo na decentraliziran "
+"način, obstajajo za vsako aplikacijo številni kanali za izdajo in "
+"distribucijo. Razmislite o [Okularju](https://okular.kde.org/download/), ki "
+"ni pakiran samo za [Flatpak](https://flathub.org/apps/details/org.kde."
+"okular), ampak tudi za [Microsoft Store](https://www.microsoft.com/en-us/p/"
+"okular/9n41msq1wnm8), da ne omenjamo številnih distribucij GNU/Linux (npr. "
+"[OpenSuse](https://software.opensuse.org /package/okular), [Debian](https://"
+"packages.debian.org/bookworm/okular)). Razlike v infrastrukturi izdelave "
+"paketov lahko vplivajo na izpolnjevanje zahtev Blauer Engel, kot so možnost "
+"odstranitve, modularnost itn."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:67
+msgid ""
+"Companies releasing proprietary software, typically with centralized "
+"deployment of their products, will not have these issues. In light of this, "
+"one possibility the group discussed is certifying only the source code of a "
+"program, therefore remaining neutral about differences in how a software "
+"product is packaged and distributed. Another possibility is certifying "
+"distribution-specific releases, such as that for the Microsoft Store. In "
+"fact, the latter could be used for marketing purposes to reach new users and "
+"bring them into the KDE community -- see, e.g., [this discussion](https://"
+"invent.kde.org/teams/eco/blue-angel-application/-/issues/56)."
+msgstr ""
+"Podjetja, ki izdajajo lastniško programsko opremo, običajno s centralizirano "
+"uvedbo svojih izdelkov, ne bodo imela teh težav. Glede na to je ena od "
+"možnosti, o kateri je razpravljala skupina, certificiranje samo izvorne kode "
+"programa, tako bi ostajali nevtralni glede razlik v tem, kako je programski "
+"izdelek pakiran in distribuiran. Druga možnost je certificiranje izdaj, "
+"specifičnih za distribucijo, npr. za Microsoft Store. Pravzaprav bi slednje "
+"lahko uporabili za namene trženja, da bi dosegli nove uporabnike in jih "
+"pripeljali v skupnost KDE – glej npr. [to razpravo](https://invent.kde.org/"
+"teams/eco/blue-angel-application/-/issues/56)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:69
+msgid ""
+"We would love to know what you think. Please join the conversation on our "
+"[mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+"efficiency) or [Matrix room](https://webchat.kde.org/#/room/#energy-"
+"efficiency:kde.org) or via the [issue trackers](https://invent.kde.org/"
+"groups/teams/eco/-/issues) at our GitLab repositories!"
+msgstr ""
+"Radi bi izvedeli, kaj mislite. Pridružite se pogovoru na našem [poštnem "
+"seznamu](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency), "
+"[sobi Matrix](https://webchat.kde.org/# /room/#energy-efficiency:kde.org) "
+"ali prek [sledilnikov težav](https://invent.kde.org/groups/teams/eco/-/"
+"issues) v naših skladiščih GitLab!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:71
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "Standard Usage Scenarios"
+msgstr "Scenariji standardne uporabe"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:73
+msgid ""
+"A *Standard Usage Scenario* (SUS) reflects the typical functions of an "
+"application, with the frequency of those functions taken into account. "
+"Standard Usage Scenarios are central to measuring the energy consumption of "
+"a piece of software."
+msgstr ""
+"*Scenarij standardne uporabe* (SUS) odraža tipične funkcije aplikacije, pri "
+"čemer se upošteva pogostost teh funkcij. Standardni scenariji uporabe so "
+"osrednjega pomena za merjenje porabe energije za določeno programsko opremo."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:75
+msgid ""
+"When reviewing the SUS action logs for Okular for the Blauer Engel "
+"application, two important points were made that will improve implementation "
+"of SUS when measuring in the lab. One was the observation about the need to "
+"document not only actions but also the objects of actions (e.g., when using "
+"a pdf-reader, which pdf is opened), as this can influence the energy-"
+"consumption. The other was that including idle action is important when "
+"defining a SUS: idle action is both realistic and can show nothing is "
+"happening when nothing is *supposed* to be happening."
+msgstr ""
+"Pri pregledovanju dnevnikov delovanja SUS za Okular za aplikacijo Blauer "
+"Engel, sta bili izpostavljeni dve pomembni točki, ki bosta izboljšali "
+"izvajanje SUS pri merjenju v laboratoriju. Prvo je opažanje, da je treba "
+"dokumentirati ne le dejanja, ampak tudi objekte dejanj (npr. pri uporabi pdf-"
+"bralnika, kateri pdf se odpre), saj lahko to vpliva na porabo energije. "
+"Druga je bila, da je vključitev nedejavnega dejanja pomembna pri definiranju "
+"SUS: dejanje mirovanja je realistično in lahko pokaže, da se nič ne dogaja, "
+"ko se *naj ne bi* nič dogajalo."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:77
+msgid ""
+"Several other issues were brought to the virtual table. Nicolas Fella, a "
+"software engineer at KDAB Berlin, expressed interest in comparing two chat "
+"clients, which shifted the conversation to defining single scenarios when "
+"comparing two applications with similar usage. A single SUS will limit which "
+"software functions can be tested, but it will make results from the "
+"measurements directly comparable. Moreover, for client-server software such "
+"as a chat or email clients, there is the issue of the network component, "
+"which for controlled testing would require setting up and measuring the "
+"energy consumption of a server. Former KDE e.V. president and long-time KDE "
+"contributor [Cornelius Schumacher](https://en.wikipedia.org/wiki/"
+"Cornelius_Schumacher) pointed out that for the [KMail measurements](https://"
+"invent.kde.org/teams/eco/blue-angel-application/-/tree/master/applications/"
+"kmail) only the computing work on the local machine was measured. Measuring "
+"non-local computing in client-server software is more relevant than ever in "
+"today's world, and this is currently planned for the revised Blauer Engel "
+"award criteria for software."
+msgstr ""
+"Na virtualnem omizju je bilo izpostavljenih več drugih vprašanj. Nicolas "
+"Fella, programski inženir pri KDAB Berlin, je izrazil zanimanje za "
+"primerjavo dveh odjemalcev za klepet, kar je pogovor preusmerilo na "
+"opredelitev posameznih scenarijev pri primerjavi dveh aplikacij s podobno "
+"uporabo. En sam SUS bo omejil, katere funkcije programske opreme je mogoče "
+"testirati, vendar bo omogočil neposredno primerljivost rezultatov meritev. "
+"Poleg tega pri programski opremi odjemalec-strežnik, kot so odjemalci za "
+"klepet ali e-pošto, obstaja vprašanje omrežne komponente, ki bi za "
+"nadzorovano testiranje zahtevala nastavitev in merjenje porabe energije "
+"strežnika. Nekdanji predsednik KDE e.V. in dolgoletni sodelavec KDE "
+"[Cornelius Schumacher](https://en.wikipedia.org/wiki/Cornelius_Schumacher) "
+"je poudaril, da je bilo za [meritve KMail](https://invent.kde.org/teams/eco/ "
+"blue-angel-application/-/tree/master/applications/kmail) izmerjeno le "
+"računalniško delo na krajevnem računalniku. Merjenje oddaljenega računanja v "
+"programski opremi odjemalec-strežnik je v današnjem svetu pomembnejše kot "
+"kdaj koli prej, to pa je trenutno načrtovano za revidirana merila za "
+"podeljevanje znaka Blauer Engel za programsko opremo."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:81
+msgid "![KMail Welcome Screen](/blog/images/kmailwelcome.png)"
+msgstr "![Pozdravni zaslon KMail](/blog/images/kmailwelcome.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:83
+msgid "*KMail Welcome Screen*"
+msgstr "*Pozdravni zaslon KMail*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:87
+msgid ""
+"Another topic discussed was defining SUS actions abstractly in order to "
+"automate the implementation of usage scenarios with different tools "
+"(*Actiona*, *xdotool*, *KXmlGui*, etc.). An important point was that "
+"different emulation tools do different things, which could present "
+"challenges to automating the process. For instance, one cannot type text "
+"when using *KXmlGui* for emulation, and thus something like *xdotool* may "
+"still be needed. On a related note, another proposal was to structure an SUS "
+"in such a way that creation of an action log can also be automated. Would "
+"anyone in the community like to help tackle these challenges?"
+msgstr ""
+"Druga tema, o kateri smo razpravljali, je bilo abstraktno definiranje dejanj "
+"SUS, da bi avtomatizirali izvajanje scenarijev uporabe z različnimi orodji "
+"(*Actiona*, *xdotool*, *KXmlGui* itn.). Pomembna točka je bila, da različna "
+"orodja za emulacijo počnejo različne stvari, kar bi lahko predstavljalo "
+"izzive za avtomatizacijo procesa. Primer: pri uporabi *KXmlGui* za emulacijo "
+"ni mogoče vnašati besedila, zato bo morda še vedno potrebno nekaj, kot je "
+"*xdotool*. V zvezi s tem je bil še en predlog, da se SUS strukturira tako, "
+"da se lahko avtomatizira tudi ustvarjanje dnevnika dejanj. Bi kdo v "
+"skupnosti rad pomagal pri soočanju s temi izzivi?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:89
+msgid ""
+"Furthermore, the group discussed how usage scenarios could also be "
+"repurposed for testing responsiveness and general performance on older or "
+"low-end hardware. What are [your ideas](https://invent.kde.org/teams/eco/"
+"be4foss/-/issues/31)?"
+msgstr ""
+"Poleg tega je skupina razpravljala o tem, kako bi lahko scenarije uporabe "
+"preoblikovali tudi za preizkušanje odzivnosti in splošne zmogljivosti na "
+"starejši ali poceni strojni opremi. Kakšne so [vaše zamisli](https://invent."
+"kde.org/teams/eco/be4foss/-/issues/31)?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:91
+msgid ""
+"Did you know we are planning to have a measure-athon to measure the energy "
+"consumption of FOSS/KDE applications in early 2022? Which applications would "
+"you like to see Standard Usage Scenarios prepared for? Share your ideas with "
+"us [here](https://invent.kde.org/teams/eco/be4foss/-/issues/28) or submit "
+"your SUS at our [GitLab repository](https://invent.kde.org/teams/eco/"
+"be4foss/-/tree/master/standard-usage-scenarios)!"
+msgstr ""
+"Ali ste vedeli, da načrtujemo merjenje porabe energije aplikacij FOSS/KDE v "
+"začetku leta 2022? Za katere aplikacije bi radi videli pripravljene "
+"standardne scenarije uporabe? Delite svoje ideje z nami [tukaj](https://"
+"invent.kde.org/teams/eco/be4foss/-/issues/28) ali pošljite svoje SUS v naše "
+"[skladišče GitLab](https://invent.kde. org/teams/eco/be4foss/-/tree/master/"
+"standard-usage-scenarios)!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:93
+msgid "Replicable reference system"
+msgstr "Ponovljiv referenčni sistem"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:95
+msgid ""
+"Standard Usage Scenarios are run on a reference system, and an important "
+"issue raised was how to have a replicable reference system. There are "
+"several system layers to consider: Hardware (CPU, Disk, Ram, etc.); the OS "
+"and OS services such as the activity manager in Plasma as well as their "
+"configurations; and the tested application's configuration as well as any "
+"related applications (e.g., Akonadi for PIM applications). On the one hand, "
+"it is necessary to have a controlled environment in order to be able to "
+"interpret the results; on the other hand, it is desirable to have "
+"measurements which reflect actual, perhaps even noisy computing environments "
+"in order to understand the real-world energy consumption of software. In the "
+"end, whether to have controlled or natural computing environments will "
+"depend on what the data is to be used for, and this will differ for "
+"researchers, developers, eco-label auditors, companies, etc."
+msgstr ""
+"Standardni scenariji uporabe (SUS, angl. za Standard Usage Scenarios) se "
+"izvajajo na referenčnem sistemu, pomembno vprašanje pa je bilo, kako imeti "
+"ponovljiv referenčni sistem. Upoštevati je treba več sistemskih slojev: "
+"strojna oprema (CPE, Disk, Ram itd.); storitve OS in OS, kot je upravitelj "
+"dejavnosti v Plasmi, ter njihove prilagoditve; in prilagoditev testirane "
+"aplikacije ter vseh povezanih aplikacij (npr. Akonadi za aplikacije PIM). Po "
+"eni strani je treba imeti nadzorovano okolje, da lahko interpretiramo "
+"rezultate; po drugi strani pa je zaželeno imeti meritve, ki odražajo "
+"dejanska, morda celo šuma polna računalniška okolja, da bi razumeli realno "
+"porabo energije programske opreme. Na koncu bo odvisno od tega, ali bomo "
+"imeli nadzorovano ali naravno računalniško okolje, odvisno od tega, za kaj "
+"se bodo podatki uporabljali, to pa se bo razlikovalo glede na raziskovalce, "
+"razvijalce, presojevalce ustreznosti za eko-znak, podjetja itn."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:97
+msgid ""
+"For instance, for developers interested in doing energy efficiency unit "
+"tests or obtaining the Blauer Engel seal, it will be necessary to have "
+"clearly-specified environments. So what are convenient and quick ways to "
+"bring the system to a known state? Three ideas were discussed: (i) taking "
+"snapshots of a filesystem (e.g., [Snapper](https://github.com/openSUSE/"
+"snapper)), (ii) clearing system cache, and (iii) replacing configuration "
+"files. If you have other ideas let us know about them [here](https://invent."
+"kde.org/teams/eco/feep/-/issues/3)!"
+msgstr ""
+"Primer: za razvijalce, ki jih zanima testiranje energetske učinkovitosti ali "
+"pridobitev znaka Blauer Engel, bodo potrebna jasno določena okolja. Kateri "
+"so torej priročni in hitri načini za spravljanje sistema v znano stanje? "
+"Razpravljali so o treh idejah: (i) izdelava posnetkov datotečnega sistema "
+"(npr. [Snapper](https://github.com/openSUSE/snapper)), (ii) brisanje "
+"sistemskega predpomnilnika in (iii) zamenjava prilagoditvenih datotek. Če "
+"imate druge ideje, nam jih sporočite [semkaj](https://invent.kde.org/teams/"
+"eco/feep/-/issues/3)!"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:99
+msgid ""
+"For real-world environments, one proposal, potentially controversial, is to "
+"log hardware performance and electrical power usage while people use their "
+"personal computers. Any volunteers?"
+msgstr ""
+"Za okolja resničnega sveta je predlog, ki je potencialno sporen, beleženje "
+"zmogljivosti strojne opreme in porabe električne energije, medtem ko ljudje "
+"uporabljajo svoje osebne računalnike. Kakšen prostovoljec?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:101
+msgid "Data output"
+msgstr "Izhodni podatki"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:103
+msgid ""
+"When measuring energy consumption in a lab, in particular for Blauer Engel "
+"eco-certification, three types of data files may be generated: (i) a log "
+"file of actions (see above regarding automation of such log files), (ii) "
+"hardware performance data (CPU, RAM, etc.), and (iii) electrical power "
+"usage. Since in some cases the output data will need to be self-defined (e."
+"g., timestamp loggers in xdotool scripts), it is necessary to consider what "
+"the data should look like before measuring in the lab."
+msgstr ""
+"Pri merjenju porabe energije v laboratoriju, zlasti za ekološko potrjevanje "
+"Modri angel, se lahko ustvarijo tri vrste podatkovnih datotek: (i) datoteka "
+"dnevnika dejanj (glej zgoraj o avtomatizaciji takšnih dnevniških datotek), "
+"(ii) podatki o zmogljivosti strojne opreme (CPE, RAM itn.) in (iii) poraba "
+"električne energije. Ker bodo v nekaterih primerih morali biti izhodni "
+"podatki samodefinirani (npr. zapisovalniki časovnih žigov v skriptih "
+"xdotool), je treba pred merjenjem v laboratoriju razmisliti, kako naj bi "
+"podatki izgledali."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:105
+msgid ""
+"Several issues were raised related to the data: Should data output be "
+"standardized to harmonize output across measurement campaigns, or is it "
+"enough simply to publish the data collected in an accessible format (for "
+"example, as .csv-files such as at the [FEEP repository](https://invent.kde."
+"org/teams/eco/feep/-/tree/master/measurements))? What timestamp exactness is "
+"needed (e.g., seconds vs. fractional seconds)? These questions remain open "
+"for now, but the group decided we need [an overview](https://invent.kde.org/"
+"teams/eco/be4foss/-/issues/27) of the FOSS-compatible devices/scripts (e.g., "
+"[Achim Guldner's script](https://gitlab.rlp.net/a.guldner/mobiles-messgerat) "
+"for Gude Expert Power Control 1202 Series) and toolkits (e.g., statistical "
+"analysis tools such as OSCAR, R, Julia, Octave, PSPP, NumPy) used for "
+"measurements and analysis, which is currently [in progress](https://invent."
+"kde.org/teams/eco/be4foss/-/blob/master/devices-tools-overview.md)."
+msgstr ""
+"V zvezi s podatki je bilo izpostavljenih več vprašanj: ali je treba izhodne "
+"podatke standardizirati za uskladitev rezultatov v meritvenih kampanjah ali "
+"je dovolj preprosto objaviti zbrane podatke v dostopni obliki (na primer kot "
+"datoteke .csv, kot je v [skladišču FEEP](https://invent.kde.org/teams/eco/"
+"feep/-/tree/master/measurements))? Kakšna natančnost časovnega žiga je "
+"potrebna (npr. sekunde v primerjavi z deli sekund)? Ta vprašanja za zdaj "
+"ostajajo odprta, vendar se je skupina odločila, da potrebujemo [pregled]"
+"(https://invent.kde.org/teams/eco/be4foss/-/issues/27) naprav/skriptov, "
+"združljivih s FOSS (npr. [skript Achima Guldnerja](https://gitlab.rlp.net/a."
+"guldner/mobiles-messgerat) za serijo Gude Expert Power Control 1202) in "
+"komplete orodij (npr. orodja za statistično analizo, kot so OSCAR, R, Julia, "
+"Octave , PSPP, NumPy), ki se uporabljajo za meritve in analize, ki so "
+"trenutno [v teku](https://invent.kde.org/teams/eco/be4foss/-/blob/master/"
+"devices-tools-overview.md)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:107
+msgid "Power meter devices"
+msgstr "Naprave za merjenje porabe"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:109
+msgid ""
+"The Blauer Engel criteria refer to two power meters (PM) in particular: "
+"Janitza UMG 604 and Gude Expert Power Control 1202. These devices are not "
+"cheap. In 2020, long-time KDE contributor Volker Krause hacked an 8 EUR "
+"power plug and [wrote about it](https://volkerkrause.eu/2020/10/17/kde-cheap-"
+"power-measurement-tools.html). As described in the blog post, these "
+"inexpensive power plugs are able to get a sampling rate up to 200ms. This "
+"led to the idea of using inexpensive power meters in low-budget home labs. "
+"For this purpose, it will eventually be useful to compare results from "
+"professional power meters with budget ones to see how they compare. Would "
+"anyone in the community be interested in doing this?"
+msgstr ""
+"Kriteriji Blauer Engel se nanašajo predvsem na dva merilnika moči (PM): "
+"Janitza UMG 604 in Gude Expert Power Control 1202. Te naprave niso poceni. "
+"Leta 2020 je dolgoletni sodelavec KDE Volker Krause priredil napajalni vtič "
+"za 8 EUR in [pisal o tem](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html). Kot je opisano v objavi v blogu, lahko ti poceni "
+"napajalni vtiči dosežejo hitrost vzorčenja do 200 ms. To je privedlo do "
+"ideje o uporabi poceni števcev električne energije v nizkoproračunskih "
+"domačih laboratorijih. V ta namen bo sčasoma koristno primerjati rezultate "
+"profesionalnih merilnikov moči s proračunskimi, da bi videli, kako se "
+"primerjajo. Je kdo v skupnosti zainteresiran za to?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:113
+msgid ""
+"![Example Measurement](/blog/images/power-usage-while-moving-mouse-cursor."
+"png)"
+msgstr ""
+"![Primer meritve](/blog/images/power-usage-while-moving-mouse-cursor.png)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:115
+msgid ""
+"*From Volker Krause's [Blog Post](https://volkerkrause.eu/2020/10/17/kde-"
+"cheap-power-measurement-tools.html): \"Example measurement (200ms sample "
+"interval, no filter): mouse cursor being moved between samples 100 and 150, "
+"with a peak while hovering a task bar entry.\"*"
+msgstr ""
+"*Iz [objave v spletnem dnevniku Volkerja Krausea](https://volkerkrause."
+"eu/2020/10/17/kde-cheap-power-measurement-tools.html): »Primer meritve "
+"(interval vzorca 200 ms, brez filtra): premikanje kazalca miške med vzorci "
+"100 in 150, z vrhom, ko lebdite nad vnosom opravilne vrstice.«*"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:119
+msgid ""
+"Another way to measure energy consumption came from KDE contributor David "
+"Hurka, who has a [proposal for USB SPI power sensors](https://invent.kde.org/"
+"davidhurka/usb-spi-power-sensors) to provide a higher resolution alternative "
+"to power meters measuring at the wall outlet."
+msgstr ""
+"Drug način za merjenje porabe energije je prišel od sodelavca KDE Davida "
+"Hurka, ki ima [predlog za senzorje moči USB SPI](https://invent.kde.org/"
+"davidhurka/usb-spi-power-sensors) kot višje-ločljivostne alternative "
+"merilnikom moči, ki merijo na stenski vtičnici."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:121
+msgid "Open issues for measurement labs"
+msgstr "Odprta vprašanja za merilne laboratorije"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:123
+msgid ""
+"Several other issues were discussed related to energy consumption and lab "
+"measurements. Although final decisions were not made in every case, many of "
+"these open issues will be important to consider going forward."
+msgstr ""
+"Razpravljali so o več drugih vprašanjih, povezanih s porabo energije in "
+"laboratorijskimi meritvami. Čeprav dokončne odločitve niso bile sprejete v "
+"vsakem primeru, bo o veliko teh odprtih vprašanih pomembno razmisliti v "
+"prihodnje."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:125
+msgid ""
+"Idea of a marketing-friendly tool to draw attention to the energy "
+"consumption of software."
+msgstr ""
+"Ideja o trženju prijaznem orodju za opozarjanje na porabo energije "
+"programske opreme."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:126
+msgid ""
+"For instance, an 'Eco' button for energy efficiency/carbon footprint meter "
+"(cf. travel carbon footprint in Itinerary app)."
+msgstr ""
+"Primer: gumb »Eko« za merilnik energetske učinkovitosti/ogljičnega odtisa "
+"(prim. potovalni ogljični odtis v aplikaciji Itinerary)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:127
+msgid ""
+"Note that a similar functionality is already provided by [PowerTop](https://"
+"github.com/fenrus75/powertop), though open issues remain (when is it safe to "
+"enable to avoid data loss, machine freezes?)."
+msgstr ""
+"Upoštevajte, da podobno funkcionalnost že ponuja [PowerTop](https://github."
+"com/fenrus75/powertop), čeprav ostajajo še nerešene težave (kdaj ga je varno "
+"omogočiti, da preprečite izgubo podatkov, zamrznitev računalnika?)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:128
+msgid ""
+"When do the drawbacks outweigh the benefits of support for older hardware?"
+msgstr ""
+"Kdaj pomanjkljivosti odtehtajo prednosti podpore za starejšo strojno opremo?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:129
+msgid ""
+"Let's invite researchers working on this to discuss with the KDE Eco "
+"community."
+msgstr ""
+"Povabimo raziskovalce, ki se ukvarjajo s tem, da razpravljajo s skupnostjo "
+"KDE Eco."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:130
+msgid "Future collaboration:"
+msgstr "Prihodnje sodelovanje:"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:131
+msgid ""
+"Joint Sprint with related projects (e.g., [SoftAWERE](https://sdialliance."
+"org/steering-groups/softawere))? (Perhaps of interest to the reader: Max "
+"Schulze from SoftAWERE/[SDIA](https://sdialliance.org/) presented at KDE "
+"Eco's monthly meetup in January 2022, which you can read the minutes from "
+"[here](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2022-01-12_community-meetup_protocol.md).)"
+msgstr ""
+"Skupni Sprint s sorodnimi projekti (npr. [SoftAWERE](https://sdialliance.org/"
+"steering-groups/softawere))? (Morda zanimivo za bralca: Max Schulze iz "
+"SoftAWERE/[SDIA](https://sdialliance.org/), ki je bil predstavljen na "
+"mesečnem srečanju KDE Eco januarja 2022, ki si ga lahko preberete iz "
+"zapisnika [tukaj](https:/ /invent.kde.org/teams/eco/be4foss/-/blob/master/"
+"community-meetups/2022-01-12_community-meetup_protocol.md).)"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:132
+msgid ""
+"Discuss above topics and more with other related communities ([Bits & Bäume]"
+"(https://bits-und-baeume.org/en), [Forum InformatikerInnen für Frieden und "
+"gesellschaftliche Verantwortung](https://www.fiff.de/), etc.)?"
+msgstr ""
+"Se želite pogovoriti o zgornjih temah in drugem z drugimi sorodnimi "
+"skupnostmi ([Bits & Bäume](https://bits-und-baeume.org/en), [Forum "
+"InformatikerInnen für Frieden und gesellschaftliche Verantwortung](https://"
+"www.fiff.de /) itn.)?"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:134
+msgid "Conclusion"
+msgstr "Zaključek"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:136
+msgid ""
+"The online Sprint was a wonderful opportunity to bring the community "
+"together and move the KDE Eco project forward, especially as we prepare for "
+"the community measurement lab that will be held at KDAB Berlin and the first "
+"of many measure-athons (planned for early 2022)! The success of such events "
+"depends first and foremost on the community, so allow us to send a heartfelt "
+"thank you to everyone who joined the conversation. We look forward to making "
+"the community grow in 2022! Moreover, we could not do what we do without the "
+"support of KDE e.V. as well as [BMU](www.bmu.de)/[UBA](https://www."
+"umweltbundesamt.de/en), who financially support the BE4FOSS project "
+"(although only the publisher is responsible for the content of this "
+"publication)."
+msgstr ""
+"Spletni Sprint je bil čudovita priložnost, da združimo skupnost in "
+"premaknemo projekt KDE Eco naprej, še posebej, ko se pripravljamo na merilni "
+"laboratorij skupnosti, ki bo potekal v KDAB Berlin, in prvo od mnogih "
+"meritev (načrtovano za začetek leta 2022)! Uspeh tovrstnih dogodkov je v "
+"prvi vrsti odvisen od skupnosti, zato dovolite, da se vsem, ki ste se "
+"pridružili pogovoru, iskreno zahvalimo. Veselimo se rasti skupnosti v letu "
+"2022! Poleg tega tega, kar počnemo, ne bi mogli narediti brez podpore KDE e."
+"V. kot tudi [BMU](www.bmu.de)/[UBA](https://www.umweltbundesamt.de/en), ki "
+"finančno podpirata projekt BE4FOSS (čeprav je za vsebino te publikacije "
+"odgovoren samo založnik)."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
+#: content/blog/2022-03-05-energy-conservation-day.md:33
+#: content/blog/post-1.md:59
+msgid "Funding Notice"
+msgstr "Obvestilo o financiranju"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:140 content/blog/post-1.md:61
+msgid ""
+"The BE4FOSS project was funded by the Federal Environment Agency and the "
+"Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
+"and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
+"\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
+"German Bundestag."
+msgstr ""
+"Projekt BE4Foss je financirala nemška Zvezna agencija za okolje in Zvezno "
+"ministrstvo za okolje, ohranjanje narave, jedrsko varnost in varstvo "
+"potrošnikov (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href=\"#fn.1\">1</"
+"a></sup>). Sredstva so na voljo z resolucijo nemškega Bundestaga."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:144
+#: content/blog/2022-03-05-energy-conservation-day.md:39
+#: content/blog/post-1.md:65
+msgid ""
+"<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
+msgstr ""
+"<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:146
+#: content/blog/2022-03-05-energy-conservation-day.md:41
+#: content/blog/post-1.md:67
+msgid "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
+msgstr "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
+#: content/blog/2022-03-05-energy-conservation-day.md:45
+#: content/blog/post-1.md:71
+msgid "The publisher is responsible for the content of this publication."
+msgstr "Založnik je odgovoren za vsebino te publikacije."
+
+#: content/blog/2022-02-07-kde-eco-2021-sprint.md:152
+#: content/blog/2022-03-05-energy-conservation-day.md:47
+#: content/blog/post-1.md:73
+msgid ""
+"<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> Official BMUV and UBA-Logos "
+"are sent only by request at: verbaendefoerderung@uba.de"
+msgstr ""
+"<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> Uradne logotipe BMUV in UBA "
+"pošiljamo samo na zahtevo s prošnjo na: verbaendefoerderung@uba.de"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "Season of KDE 2022 With KDE Eco"
+msgstr "Sezona KDE 2022 z Eko KDE"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "SOK22"
+msgstr "SOK22"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "Automation Tools"
+msgstr "Orodja za avtomatizacijo"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid "Karanjot Singh"
+msgstr "Karanjot Singh"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:0
+msgid ""
+"My experience testing automation tools and preparing usage scenarios as a "
+"Season of KDE student with KDE Eco."
+msgstr ""
+"Moje izkušnje preizkušanje orodij za avtomatizacijo in pripravo scenarijev "
+"uporabe kot študent Sezone KDE z Eko KDE."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:14
+msgid ""
+"I am very thankful to the KDE team for inviting me to be a part of this "
+"amazing community through their annual program [Season of KDE](https://"
+"season.kde.org)."
+msgstr ""
+"Zelo sem hvaležen ekipi KDE, ker me je povabila, da sem del te neverjetne "
+"skupnosti prek njihovega letnega programa [Sezona KDE](https://season.kde."
+"org)."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:16
+msgid "About Me"
+msgstr "O meni"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:18
+msgid ""
+"I am Karanjot Singh. I am a first-year computer science engineering "
+"undergraduate from Jaypee Institute of Information Technology, Noida, India. "
+"I have worked as a developer with various Free and Open-Source Software "
+"(FOSS) programs such as Kharagpur Winter of Code in 2021 (KWoC’21). However, "
+"this will be my first time contributing to a project with such a large "
+"community. I am very passionate about FOSS, solving problems, and improving "
+"process efficiency. I enjoy exploring and learning new technologies and "
+"building things for socially-useful causes. I also believe that contributing "
+"to FOSS is the best way to gain experience in software development."
+msgstr ""
+"Sem Karanjot Singh. Sem študent prvega letnika računalništva na Inštitutu za "
+"informacijsko tehnologijo Jaypee v Noida (Indija). Kot razvijalec sem delal "
+"z različnimi prostimi in odprtokodnimi programi (FOSS), kot so Kharagpur "
+"Winter of Code v 2021 (KWoC'21). Vendar bom prvič prispeval k projektu s "
+"tako veliko skupnostjo. Zelo sem vnet glede tovrstnega programja, reševanja "
+"problemov in izboljšanja učinkovitosti procesov. Uživam v raziskovanju in "
+"učenju novih tehnologij in gradnji stvari za družbeno korist. Prav tako "
+"menim, da je prispevanje k FOSS najboljši način za pridobivanje izkušenj pri "
+"razvoju programske opreme."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:20
+msgid "What I Will Be Working On"
+msgstr "Na čem bom delal"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:22
+msgid ""
+"As part of a pioneering sustainability project, [KDE Eco](https://eco.kde."
+"org/) has the aim of measuring and driving down the energy consumption of "
+"KDE/Free Software. This requires emulating user behaviour, which can be "
+"achieved by planning and scripting Standard Usage Scenarios. I will be "
+"scripting Standard Usage Scenarios for various applications, with a focus on "
+"commonly-used text editors like [Kate](https://apps.kde.org/kate/), [KWrite]"
+"(https://apps.kde.org/kwrite/), [Vim](https://www.vim.org/), [Nano](https://"
+"www.nano-editor.org/), [Emacs](https://www.gnu.org/software/emacs/), "
+"[Calligra Words](https://apps.kde.org/calligrawords/), and [LibreOffice]"
+"(https://www.libreoffice.org/). I will prepare these usage scenarios with "
+"one of many available [emulation tools](https://invent.kde.org/teams/eco/"
+"feep/-/blob/master/tools/presentation_Visual_Workflow_Automation_Tools/"
+"Visual_Workflow_Automation_Tools.pdf). Below is my SoK’22 Timeline:"
+msgstr ""
+"V okviru pionirskega projekta trajnosti ima [Eko KDE](https://eco.kde.org/) "
+"za cilj merjenje in zmanjšanje porabe energije KDE/proste programske opreme. "
+"To zahteva posnemanje vedenja uporabnikov, ki ga je mogoče doseči s "
+"načrtovanjem in skriptnim scenarijem standardne uporabe. Pripravil bom "
+"skripte standardnih scenarijev uporabe za različne aplikacije, s poudarkom "
+"na pogosto uporabljenih urejevalnikih besedil, kot so [Kate](https://apps."
+"kde.org/kate/), [KWrite](https://apps.kde.org/kwrite/), [Vim](https://www."
+"vim.org/), [Nano](https://www.nano-editor.org/), [Emacs](https://www.gnu.org/"
+"software/emacs/), [Calligra Words](https://apps.kde.org/calligrawords/) in "
+"[LibreOffice](https://www.libreoffice.org/). Te scenarije uporabe bom "
+"pripravil z enim od številnih razpoložljivih [emulacijskih orodij](https://"
+"invent.kde.org/teams/eco/feep/-/blob/master/tools/"
+"presentation_Visual_Workflow_Automation_Tools/"
+"Visual_Workflow_Automation_Tools.pdf). Spodaj je moja časovnica za SoK'22:"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:26
+msgid "![Season of KDE 2022 Timeline](/blog/images/SoK_22Timeline.png)"
+msgstr "![Časovnica sezone KDE 2022](/blog/slike/SoK_22Timeline.png)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:31
+msgid "Motivation Behind Working On The KDE Eco Project"
+msgstr "Motivacija za delo na projektu Eko KDE"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:33
+msgid ""
+"I think KDE Eco is a very good initiative for developing resource and energy-"
+"efficient Free Software. When someone uses FOSS and discovers that the "
+"software is transparent about its energy consumption, that using the "
+"software may help prolong the lifespan of hardware and reduce the "
+"environmental impact of digitization, this excites me. I always want to be "
+"part of something that contributes to future generations and KDE Eco serves "
+"that purpose. I also believe that KDE Eco assists me in my journey to become "
+"a better software developer."
+msgstr ""
+"Mislim, da je Eko KDE zelo dobra pobuda za razvoj virov in energetsko "
+"učinkovite brezplačne programske opreme. Ko nekdo uporablja FOSS in odkrije, "
+"da je programska oprema pregledna glede porabe energije, da lahko uporaba "
+"programske opreme pomaga podaljšati življenjsko dobo strojne opreme in "
+"zmanjšati vpliv digitizacije na okolje, me to vznemiri. Vedno želim biti del "
+"nečesa, kar prispeva k prihodnjim generacijam in Eko KDE služi temu namenu. "
+"Verjamem tudi, da mi Eko KDE pomaga na moji poti, da postanem boljši "
+"razvijalec programske opreme."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:35
+msgid "What I Have Learnt So Far"
+msgstr "Kaj sem se doslej naučil"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:39
+msgid "When I was beginning with this project, I had three questions."
+msgstr "Ko sem začel s tem projektom, sem imel tri vprašanja."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:41
+msgid "*How can we know when software is resource and energy-efficient?*"
+msgstr ""
+"*Kako lahko vemo, kdaj je programska oprema učinkovita z viri in energetsko "
+"učinkovita?*"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:43
+msgid "*How can we measure software’s energy consumption?*"
+msgstr "*Kako lahko merimo porabo energije programske opreme?*"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:45
+msgid "*And does it make a difference?*"
+msgstr "*In ali s tem lahko kaj spremenimo?*"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:47
+msgid ""
+"These questions may come into anyone’s mind when thinking about the idea of "
+"software efficiency."
+msgstr ""
+"Ta vprašanja lahko pridejo v vsakomur na misel, ko razmišljajo o ideji o "
+"učinkovitosti programske opreme."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:49
+msgid ""
+"When you use software, what you see is only the interface you are "
+"interacting with. Just tell your phone what you want and things will appear "
+"magically — whether it is the information on screen or a package delivered "
+"to your doorstep. But the technologies and infrastructure behind it are "
+"determined by software engineers who make all of this work."
+msgstr ""
+"Ko uporabljate programsko opremo, vidite le vmesnik, s katerega ste v "
+"interakciji. Svojemu telefonu samo povejte, kaj želite, in stvari se bodo "
+"čarobno pojavile – ali so to informacije na zaslonu ali paket, dostavljen na "
+"vaš prag. Toda tehnologije in infrastrukturo za njimi določajo inženirji "
+"programske opreme, ki poskrbijo, da vse to deluje."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:53
+msgid "![UI vs. Complex Processes](/blog/images/UIvsProcesses.png)"
+msgstr ""
+"! [Up. vmesnik proti zapletenim procesom](/blog/slike/UIvsProcesses.png)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:57
+msgid ""
+"Just imagine: What if we analyzed the energy consumption behind commonly-"
+"used software and made it more transparent? What if users could learn how "
+"much energy their software requires and could choose the application that "
+"might be better for the environment? This would be great!!!"
+msgstr ""
+"Samo predstavljajte si: Kaj, če bi analizirali porabo energije za običajno "
+"uporabljeno programsko opremo in jo naredili preglednejšo? Kaj, če bi lahko "
+"uporabniki izvedeli, koliko energije potrebuje njihova programska oprema in "
+"bi lahko izbrali aplikacijo, ki bi bila morda boljša za okolje? To bi bilo "
+"super!!!"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:59
+msgid ""
+"The [KDE Eco](https://invent.kde.org/teams/eco) initiatives Free and open "
+"source Energy Efficiency Project ([FEEP](https://invent.kde.org/teams/eco/"
+"feep)) and Blauer Engel For FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) are working hard on these issues."
+msgstr ""
+"[Eko KDE](https://invent.kde.org/teams/eco) je pobudnik projekta energetske "
+"učinkovitosti prostega in odprtokodnega programja ([FEEP](https://invent.kde."
+"org/teams/eco/feep)) ter Blauer Engel za FOSS ([BE4FOSS](https://invent.kde."
+"org/teams/eco/be4foss)), ki trdo delata na teh vprašanjih."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:61
+msgid ""
+"As noted by [FEEP](https://eco.kde.org/#feep), the design and implementation "
+"of software has a significant impact on the energy consumption of the "
+"systems it is part of. With the right tools, it is possible to quantify and "
+"drive down energy consumption. This increased efficiency contributes to a "
+"more sustainable use of energy as one of the shared resources of our planet."
+msgstr ""
+"[FEEP](https://eco.kde.org/#feep) opozarja, da oblikovanje in izdelava "
+"programske opreme pomembno vplivata na porabo energije sistemov, katere "
+"sestavni del so. S pravimi orodji je mogoče količinsko opredeliti in si "
+"prizadevati za zmanjšanje porabe energije. Ta povečana učinkovitost prispeva "
+"k bolj trajnostni rabi energije kot enega od skupnih virov našega planeta."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:65
+msgid "![3 Steps of Eco Certification](/blog/images/3StepsToBEECO.png)"
+msgstr "![3 koraki eko-certificiranja](/blog/slike/3StepsToBEECO.png)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:69
+msgid ""
+"BE4FOSS supports FEEP by collecting and spreading information related to "
+"Blauer Engel (BE) eco-certification, the official environmental label "
+"awarded by the German government. As stated at the [KDE Eco website](https://"
+"eco.kde.org/#be4foss), obtaining the Blauer Engel label occurs in 3 steps: "
+"(1) Measure, (2) Analyze, (3) Certify."
+msgstr ""
+"BE4FOSS podpira FEEP z zbiranjem in širjenjem informacij, povezanih z "
+"ekološkim certificiranjem Blauer Engel (BE), uradno okoljsko oznako, ki jo "
+"podeljuje nemška vlada. Kot je navedeno na spletni strani [Eko KDE](https://"
+"eco.kde.org/#be4foss), se pridobitev oznake Blauer Engel izvede v 3 korakih: "
+"(1) merjenje, (2) analiza, (3) potrjevanje."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:71
+msgid "**MEASURE** in dedicated labs, such as at KDAB Berlin"
+msgstr "**MERITVE** v za to namenjenih laboratorijih kot je npr. KDAB Berlin"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:72
+msgid ""
+"**ANALYZE** using statistical tools such as OSCAR (Open-source Software "
+"Consumption Analysis in R)"
+msgstr ""
+"**ANALIZA** uporaba statističnih orodij kot npr. OSCAR (Open source Software "
+"Consumption Analysis in R)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:73
+msgid ""
+"**CERTIFY** by submitting the report on the fulfilment of the Blauer Engel "
+"criteria"
+msgstr ""
+"**POTRJEVANJE** z vlogo poročila o zagotavljanju kriterijev za Modrega angela"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:75
+msgid ""
+"In SoK'22, I will be preparing Standard Usage Scenarios for various text "
+"editors so that the usage scenarios may be used in Step 1 for obtaining BE "
+"eco-certification."
+msgstr ""
+"V okviru SoK'22 bom pripravil standardne scenarije uporabe za različne "
+"urejevalnike besedila, tako da bodo scenariji uporabe lahko uporabljeni v "
+"koraku 1 za pridobitev ekološkega certifikata BE."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:77
+msgid "What I Have Done & Will Be Doing In The Coming Weeks"
+msgstr "Kaj sem naredil in kaj bom počel prihodnje tedne"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:79
+msgid ""
+"For the past three weeks, I have tested various automation tools, in "
+"particular ``Actiona``, ``xdotool``, and ``GNU Xnee``, to decide which of "
+"these tools would be best for implementing Standard Usage Scenarios."
+msgstr ""
+"V zadnjih treh tednih sem preizkušal različna orodja za avtomatizacijo, "
+"zlasti ``Actiona``, ``xdotool`` in ``GNU Xnee``, da se odločim, katero od "
+"teh orodij bi bilo najboljše za izvajanje standardnih scenarijev uporabe."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:81
+msgid ""
+"While using [``Actiona``](https://github.com/Jmgr/actiona), I wrote some "
+"documentation so that this information will also be beneficial for anyone "
+"wanting to contribute to KDE Eco."
+msgstr ""
+"Ob uporabi [``Actiona``](https://github.com/Jmgr/actiona) sem spisal nekaj "
+"dokumentacije, tako da bodo te informacije koristne tudi za vse, ki želijo "
+"prispevati k Eko KDE."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:83
+msgid ""
+"While trying out [``xdotool``](https://github.com/jordansissel/xdotool), I "
+"came across an issue with memory leak. Running Valgrind on xdotool search, I "
+"get more lost memory allocated by XQueryTree. There are probably other "
+"places where memory is allocated and not being freed afterwards. I have not "
+"done an extensive check. Nevertheless, xdotool gives more control over the "
+"system and even with some issues, this is the tool that I found most helpful."
+msgstr ""
+"Med preizkusom [``xdotool``](https://github.com/jordansissel/xdotool) sem "
+"naletel na težavo z uhajanjem pomnilnika. Izvajanje Valgrind na iskanju "
+"xdotool je povzročilo več izgub pomnilnika, dodeljenega XQueryTree. Verjetno "
+"obstajajo tudi druga mesta, kjer je pomnilnik dodeljen in se kasneje ne "
+"sprosti. Nisem opravil obsežnega preverjanja. Kljub temu xdotool daje več "
+"nadzora nad sistemom in čeprav z nekaj težavami je to orodje, ki ga "
+"ocenjujem kot najbolj koristnega."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:85
+msgid ""
+"I tested [``GNU Xnee``](https://xnee.wordpress.com/) too, which seemed "
+"interesting to me as it records the output and stores it in a separate file. "
+"Also, it provides a replayer that one can use to automate tasks at whatever "
+"speed one wants."
+msgstr ""
+"Preizkusil sem tudi [``GNU Xnee``](https://xnee.wordpress.com/), kar se mi "
+"je zdelo zanimivo, saj beleži izhod in ga shrani v ločeno datoteko. Prav "
+"tako zagotavlja ponovni predvajalnik (angl. replayer), ki ga lahko uporabite "
+"za avtomatizacijo nalog pri poljubni želeni hitrosti."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:87
+msgid ""
+"In the end, I have decided to prepare all usage scenarios with xdotool, at "
+"least initially, as most of the text editors use keyboard functions rather "
+"than mouse activity and this will make it easier to adapt the script to "
+"different systems. However, after SoK'22 I plan to prepare usage scenarios "
+"with Actiona as well so that I can learn the differences between these "
+"tools. On a related note, there is also an ongoing discussion about "
+"[repurposing Standard Usage Scenarios](https://invent.kde.org/teams/eco/"
+"be4foss/-/issues/31) for testing responsiveness and performance on older or "
+"lower-end hardware."
+msgstr ""
+"Na koncu sem se odločil, da pripravim vse scenarije uporabe z xdotool, vsaj "
+"na začetku, saj večina urejevalnikov besedila uporablja funkcije tipkovnice "
+"in ne dejavnost miške in to bo olajšalo prilagajanje skripta različnim "
+"sistemom. Vendar nameravam po SoK'22 pripraviti scenarije uporabe z Actiono, "
+"da se bom lahko naučil razlik med tema orodjema. V zvezi s tem je v teku "
+"tudi razprava o [spreminjanju namena standardnih scenarijev uporabe](https://"
+"invent.kde.org/teams/eco/be4foss/-/issues/31) za preizkušanje odzivnosti in "
+"učinkovitosti na starejši ali preprostejši strojni opremi."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:91
+msgid "![Preparing Standard Usage Scenarios](/blog/images/PreparingSUS.png)"
+msgstr ""
+"![Priprava standardnih scenarijev uporabe](/blog/slike/PripravaSUS.png)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:95
+msgid ""
+"In the coming weeks, I will additionally be working on fixing an issue that "
+"is known for Actiona. The problem is that Actiona emulates user behaviour by "
+"storing the position of clicks based on pixel coordinates, which can make "
+"transferring a script to another system challenging. For instance, this "
+"issue arose recently when preparing a Standard Usage Scenario for [GCompris]"
+"(https://apps.kde.org/gcompris/). I came up with a solution of resizing the "
+"screen to a minimum screen resolution and including the code at the "
+"beginning of the Actiona script. Whenever the script runs in a different "
+"system, it automatically resizes to the minimum resolution to match the "
+"pixels while making the script. This is just an idea and is not yet tested. "
+"I will put aside time for this attempt to fix the problem with the help of "
+"the GCompris team."
+msgstr ""
+"V prihodnjih tednih se bom dodatno ukvarjal z odpravljanjem težave, ki je "
+"znano za Actiona. Težava je v tem, da Actiona emulira vedenje uporabnikov s "
+"shranjevanje položaja klikov na podlagi koordinat slikovnih točk, zaradi "
+"česar je prenos skripta v drug sistem zahteven. To vprašanje se je pojavilo "
+"nedavno npr. pri pripravi standardnega scenarija uporabe za [GCompris]"
+"(https://apps.kde.org/gcompris/). Prišel sem do rešitve spreminjanja "
+"velikosti zaslona na minimalno ločljivost zaslona in vključno s kodo na "
+"začetku skripta Actiona. Kadar koli se skript zažene na drugem sistemu, "
+"samodejno spremeni velikost najmanjše ločljivosti, da se ujema s slikovnimi "
+"točkami ob izdelavi skripta. To je samo ideja in še ni preizkušena. Za ta "
+"poskus si bom vzel čas za rešitev težave s pomočjo skupine GCompris."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:97
+msgid ""
+"The GitLab repository containing Standard Usage Scenarios in progress "
+"(currently GCompris using Actiona) can be found [here](https://invent.kde."
+"org/teams/eco/be4foss/-/tree/master/standard-usage-scenarios)."
+msgstr ""
+"Skladišče GitLab, ki vsebuje standardne scenarije uporabe, ki so v teku "
+"(trenutno GCompris z uporabo Actiona) je na voljo [tukaj](https://invent.kde."
+"org/teams/eco/be4foss/-/drevo/master/standard-usage-scenarios)."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:99
+msgid "Community Bonding ( SoK’22 )"
+msgstr "Krepitev vezi skupnosti (SoK’22)"
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:101
+msgid ""
+"I am thankful to my mentor Joseph P. De Veaugh-Geiss for taking time to help "
+"me by providing resources and guidance during the project. I also attended "
+"the KDE Eco monthly community meetup on [9 February 2022](https://invent.kde."
+"org/teams/eco/be4foss/-/blob/master/community-meetups/2022-02-09_community-"
+"meetup_protocol.md), where Prof. Dr Stefan Naumann, Achim Guldner, and "
+"Christopher Stumpf from [Umwelt Campus Birkenfeld](https://www.umwelt-campus."
+"de/forschung/projekte/green-software-engineering/home) lead a [discussion]"
+"(https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2022-02-09_community-meetup_umwelt-campus-presentation.pdf) on "
+"measuring the energy consumption of distributed systems and extending the "
+"Blauer Engel award criteria to them. This was an interesting meeting where "
+"we discussed problems for automation with mobile applications as well as "
+"client-server testing. Joseph also introduced me to the Umwelt Campus "
+"researchers who measured the [energy consumption](https://invent.kde.org/"
+"teams/eco/feep/-/tree/master/measurements/okular) of [Okular](https://okular."
+"kde.org); Emmanuel Charruau, who is working with the GCompris script; and "
+"Nicolas Fella, who is currently working with xdotool for his Master's thesis "
+"on the energy consumption of software."
+msgstr ""
+"Hvaležna sem mentorju Josephu P. De Veaugh-Geissu, ker si je vzel čas, da mi "
+"pomaga z zagotavljanjem sredstev in smernic med projektom. Udeležil sem se "
+"tudi mesečnega srečanja skupnosti Eko KDE Eco [9. februarja 2022](https://"
+"invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2022-02-09_community-meetup_protocol.md), kjer so prof. Dr. Stefan "
+"Naumann, Achim Guldner in Christopher Stumpf iz [Umwelt Campus Birkenfeld]"
+"(https://www.umwelt-campus.de/forschung/projekte/green-software-engineering/"
+"home) [razpravljali](https://invent.kde.org/teams/eco/be4foss/-/blob/master/"
+"community-meetups/2022-02-09_community-meetup_umwelt-campus-presentation."
+"pdf) o meritvah porabe energije porazdeljenih sistemov in razširitvi meril "
+"za dodelitev naziva Blauer Engel. To je bilo zanimivo srečanje, kjer smo "
+"razpravljali o težavah pri avtomatizaciji mobilnih aplikacij, kot tudi "
+"preizkušanju odjemalcev-strežnikov. Joseph me je predstavil tudi "
+"raziskovalcem kampusa Umwelt, ki so merili [porabo energije](https://invent."
+"kde.org/teams/eco/feep/-/drevo/master/meritve/okular) [Okularja](https://"
+"okular.kde.org), Emmanuelu Charruau, ki sodeluje s scenarijem GCompris, in "
+"Nicolasu Felli, ki trenutno sodeluje z xdotool za svojo magistrsko delo o "
+"porabi energije programske opreme."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:109
+msgid ""
+"Thank you for taking time to read this update. If anyone wants to follow-up "
+"on the ideas presented here regarding the pros and cons of different "
+"automation tools when implementing Standard Usage Scenarios, there is a "
+"[GitLab issue](https://invent.kde.org/teams/eco/be4foss/-/issues/32) at the "
+"BE4FOSS repository where we can discuss further."
+msgstr ""
+"Hvala, da ste si vzeli čas za branje te posodobitve. Če želi kdo spremljati "
+"tukaj predstavljene zamisli glede prednosti in slabosti različnih orodij za "
+"avtomatizacijo pri izvajanju standardnih scenarijev uporabe, obstaja "
+"[vprašanje na GitLab-u](https://invent.kde.org/teams/eco/be4foss/-/"
+"issues/32) v skladišču BE4FOSS, kjer lahko nadaljujemo razpravo."
+
+#: content/blog/2022-03-03-sok22-kde-eco.md:111
+msgid "I am also available on KDE's Matrix instance at drquark:kde.org."
+msgstr "Na voljo sem tudi na KDE-jevem primerku Matrixa na drquark:kde.org."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+msgid "Celebrate Energy Conservation Day With KDE Eco"
+msgstr "Praznujte dan varčevanja z energijo z Eko KDE"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+msgid "Energy Conservation"
+msgstr "Varčevanje z energijo"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+#: content/blog/post-1.md:0
+msgid "Free Software"
+msgstr "Prosto programje"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid "Sustainability"
+msgstr "Trajnostno"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:0
+msgid ""
+"March 5th is Energy Conservation Day. Celebrate with Free Software and KDE "
+"Eco!"
+msgstr ""
+"5. marec je dan varčevanja z energijo. Proslavite ga z prostim programjem in "
+"Eko KDE!"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:13
+msgid ""
+"Of the challenges humanity faces in its struggle to power modern-day "
+"civilization, energy conservation is one of the more difficult to achieve. "
+"But it is also the most worthy of pursuing, as ultimately many of the "
+"current sources of energy we depend on are finite."
+msgstr ""
+"Od izzivov, s katerimi se človeštvo sooča v svojem boju za napajanje sodobne "
+"civilizacije, je varčevanje z energijo eden od težje dosegljivih. Je pa tudi "
+"najbolj vreden zasledovanja, saj so na koncu številni sedanji viri energije, "
+"od katerih smo odvisni, končni."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:15
+msgid ""
+"That is why reducing the amount of energy we consume is a priority for [KDE "
+"Eco](https://eco.kde.org/). All [KDE](https://kde.org) projects are Free "
+"Software, and Free Software entails transparency and user autonomy. The "
+"first has always provided users the opportunity to inspect and learn from "
+"how software runs; today, this transparency has been extended to include "
+"software's [energy consumption](https://invent.kde.org/teams/eco/feep) when "
+"in use. The second allows Free Software users to install what they need on "
+"the devices they want, bypassing unnecessary and battery-draining spyware "
+"and bloatware while [extending the lifespan of their hardware](https://fsfe."
+"org/activities/upcyclingandroid/). Both combined give KDE Eco and Free "
+"Software developers the means to develop energy-saving improvements for "
+"applications and frameworks, to continue support for otherwise unsupported "
+"devices, and deploy exactly what people want and need."
+msgstr ""
+"Zato je zmanjšanje količin porabljene energije prednostna naloga za [Eko KDE]"
+"(https://eco.kde.org/). Vsi projekti [KDE](https://kde.org) so brezplačna "
+"programska oprema, brezplačna programska oprema pa omogoča preglednost in "
+"uporabniško avtonomijo. Prva je uporabnikom vedno nudila možnost, da "
+"pregledajo in se naučijo, kako deluje programska oprema; danes je bila ta "
+"preglednost razširjena tako, da vključuje [porabo energije programja]"
+"(https://invent.kde.org/teams/eco/feep) med uporabo. Druga omogoča "
+"uporabnikom brezplačne programske opreme, da namestijo tisto, kar "
+"potrebujejo na naprave, ki jih želijo, zaobidejo nepotrebno in baterijo-"
+"izčrpujočo vohunsko in napihnjeno programsko opremo, medtem ko [podaljšajo "
+"življenjsko dobo svoje strojne opreme](https://fsfe.org/activities/"
+"upcyclingandroid/). Oba skupaj dajeta Eko KDE in razvijalcem brezplačne "
+"programske opreme sredstva za razvoj izboljšav za varčevanje z energijo za "
+"aplikacije in ogrodja, za nadaljevanje podpore za sicer nepodprte naprave in "
+"uvajanje točno tega, kar ljudje želijo in potrebujejo."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:19
+msgid "![](/blog/images/tag-des-energiesparens.jpg)"
+msgstr "![](/blog/images/tag-des-energiesparens.jpg)"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:21
+msgid ""
+"*Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/"
+"service/veranstaltungen/veranstaltung/tag-des-energiesparens). Today we are "
+"inviting you to [join us](https://eco.kde.org/get-involved/) at KDE Eco! "
+"([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*"
+msgstr ""
+"*Nemčija je razglasila 5. marec za [Dan varčevanja z energijo](https://www."
+"bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens). Danes "
+"vas vabimo, da se nam [pridružite](https://eco.kde.org/get-involved/) v Eko "
+"KDE! ([Slika: CC0](https://creativecommons.org/publicdomain/zero/1.0/))**"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:25
+msgid ""
+"Clearly, energy conservation for a small number of software products is not "
+"going to make any noticeable difference. But imagine if we start a trend; "
+"imagine conserving even small amounts of energy on every app, game, and "
+"framework; on hundreds of thousands of programs, running across millions of "
+"devices with continuous support. Users will enjoy longer battery lives and "
+"lower electricity bills. They can keep using still-functioning hardware, "
+"with greater personal savings yet reduced global C02 emissions by avoiding "
+"the unnecessary production and shipment of new devices. Most importantly, as "
+"a species we will use fewer shared resources while keeping humanity's "
+"digital civilization running."
+msgstr ""
+"Jasno je, da ohranjanje energije za majhno število programskih izdelkov ne "
+"bo prineslo opaznih sprememb. Ampak predstavljajte si, da začnemo trend; "
+"predstavljajte si prihranek tudi majhnih količin energije v vsaki "
+"aplikaciji, igri in ogrodju; več sto tisoč programov, ki se izvajajo na več "
+"milijonih naprav s stalno podporo. Uporabniki bodo uživali v daljšem času "
+"uporabnosti baterij in nižjih računih za elektriko. Še naprej bodo lahko "
+"uporabljali še vedno delujočo strojno opremo, z večjimi osebnimi prihranki, "
+"vendar zmanjšanimi globalnimi emisijami C02, tako da se izognejo nepotrebni "
+"proizvodnji in pošiljanju novih naprav. Najpomembneje je, da bomo kot vrsta "
+"uporabili manj skupnih virov, hkrati pa bomo ohranjali digitalno "
+"civilizacijo človeštva pri življenju."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:27
+msgid "You can be part of that."
+msgstr "Lahko ste del tega."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:29
+msgid ""
+"Germany has declared 5 March [Energy Conservation Day](https://www.bmuv.de/"
+"service/veranstaltungen/veranstaltung/tag-des-energiesparens), and today we "
+"are inviting you to join us. Whether you are a user concerned with the "
+"carbon footprint of your computing usage, or a project looking to improve "
+"the efficiency of your software, [visit our website](https://eco.kde.org/) "
+"to find out how to participate in KDE Eco and [join us in our chat room]"
+"(https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other "
+"members of the project."
+msgstr ""
+"Nemčija je razglasila 5. marec za [Dan varčevanja z energijo](https://www."
+"bmuv.de/service/veranstaltungen/veranstaltung/tag-des-energiesparens), danes "
+"pa vas vabimo, da se nam pridružite. Ne glede na to, ali ste uporabnik, ki "
+"se zanima za ogljični odtis svoje računalniške opreme, ali projekt, ki si "
+"želi izboljšati učinkovitost svoje programske opreme, [obiščite našo spletno "
+"stran](https://eco.kde.org/), da izveste, kako sodelovati v Eko KDE, in [se "
+"nam pridružite v naši klepetalnici](https://matrix.to/#/#energy-učinkovitost:"
+"kde.org) za pogovor v živo z drugimi člani projekta."
+
+#: content/blog/2022-03-05-energy-conservation-day.md:31
+msgid "See you on Energy Conservation Day!"
+msgstr "Se vidimo na dan varčevanja z energijo!"
+
+#: content/blog/2022-03-05-energy-conservation-day.md:35
+msgid ""
+"The BE4FOSS project was funded by the Federal Environment Agency and the "
+"Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
+"and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
+"\"#fn.1\">1</a></sup>), who organize the *Tag des Energiesparens* (Energy "
+"Conservation Day). The funds are made available by resolution of the German "
+"Bundestag."
+msgstr ""
+"Projekt BE4Foss sta financirala nemška Zvezna agencija za okolje in Zvezno "
+"ministrstvo za okolje, ohranjanje narave, jedrsko varnost in varstvo "
+"potrošnikov (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href=\"#fn.1\">1</"
+"a></sup>), ki organizirata *Tag des Energiesparens* (Dan varčevanja z "
+"energijo). Sredstva so na voljo z resolucijo nemškega Bundestaga."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+msgid ""
+"First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular"
+msgstr ""
+"Prvi sploh ekološko potrjen računalniški program: popularni KDE bralnik PDF "
+"datotek Okular"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+msgid ""
+"The multi-platform Free and Open-Source Software product is now officially "
+"recognized for sustainable software design"
+msgstr ""
+"Več platformski prost in odprtokodni programski proizvod je zdaj uradno "
+"prepoznan kot trajnostni programski design"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid "Okular"
+msgstr "Okular"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+msgid "Global Ecolabelling Network"
+msgstr "Global Ecolabelling Network"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
+msgid "Press release to announce Okular receiving the Blue Angel eco-label."
+msgstr ""
+"Sporočilo za javnost ob objavi da Okular prejme ekološko oznako Modrega "
+"angela."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:16
+msgid "Okular screenshot"
+msgstr "Zaslonska slika Okularja"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:18
+msgid "Okular Icon"
+msgstr "Ikona Okularja"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:20
+msgid ""
+"[Okular](https://okular.kde.org/), KDE's popular multi-platform PDF reader "
+"and universal document viewer, has officially been recognized for "
+"sustainable software design as reflected in the recent [award criteria for "
+"software eco-certification](https://produktinfo.blauer-engel.de/uploads/"
+"criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf). In February "
+"2022 Okular was [awarded the Blue Angel ecolabel](https://www.blauer-engel."
+"de/en/productworld/resources-and-energy-efficient-software-products), the "
+"official environmental label awarded by the German government. Introduced in "
+"1978, Blue Angel is the world's earliest established environmental label, "
+"and Okular is the first software product to be certified with its seal. What "
+"is more, Okular is the first ️ever eco-certified computer program within the "
+"30 organizations of the [Global Ecolabelling Network](https://www."
+"globalecolabelling.net/)! This network, of which Blue Angel is a member, "
+"represents over 50 countries."
+msgstr ""
+"[Okular](https://okular.kde.org/), KDE je priljubljena več-platformski "
+"bralnik PDF in univerzalni pregledovalnik dokumentov, je uradno priznan za "
+"trajnostno oblikovano programsko opremo, kot se odraža v zadnjih [merilih za "
+"dodelitev za ekološko priznanje programske opreme](https://produktinfo."
+"blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-"
+"Criteria-2020-02-13.pdf)). Februarja 2022 je bil Okular [nagrajen z ekološko "
+"značko Modrega angela](https://www.blauer-engel.de/en/productworld/resources-"
+"and-energy-efficient-software-products), uradni okoljski oznaki, ki jih je "
+"podeljuje nemška vlada. Uvedena je bil leta 1978 in Modri angel je prva "
+"svetovna okoljska oznaka, in Okular je prva programska oprema, ki je "
+"potrjena s tem pečatom. Še več, Okular je prvi ekološko potrjen računalniški "
+"program v 30 organizacijah [Global Ecolabelling Network](https://www."
+"globalecolabelling.net/)!  To omrežje, kjer je Blue Angel član, predstavlja "
+"več kot 50 držav."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:22
+msgid ""
+"KDE is a world-wide community of software engineers, artists, writers, "
+"translators, and creators who are committed to Free Software development. "
+"With KDE's long-standing [mission](https://community.kde.org/KDE/Mission) "
+"and guiding [vision](https://community.kde.org/KDE/Vision), as well as the "
+"talent and capabilities of its community members, it is no surprise that KDE "
+"is a pioneer among the group of people and organizations in driving a "
+"discussion on sustainable software. This group includes the [Blue Angel]"
+"(https://www.blauer-engel.de/en) itself and [researchers](https://www.umwelt-"
+"campus.de/green-software-engineering/refoplan-2018) behind it, supporters "
+"such as the [Free Software Foundation Europe](https://fsfe.org/), other Free "
+"Software projects, and a growing number of others. Now, with the first ever "
+"eco-certified software product, the KDE community is celebrating the "
+"achievement together with the wider [Free Software community](https://fsfe."
+"org/news/2022/news-20220316-01.en.html), as well as with the computer "
+"science department at [Umwelt Campus Birkenfeld](https://www.umwelt-campus."
+"de/en/forschung/projekte/green-software-engineering/news-details/first-blue-"
+"angel-for-software), where researchers measured the resource and energy-"
+"consumption of Okular and other KDE software."
+msgstr ""
+"KDE je svetovna skupnost programskih inženirjev, umetnikov, pisateljev, "
+"prevajalcev in ustvarjalcev, ki so zavezani k prostemu razvoju programske "
+"opreme. Z dolgoletno [misijo](https://community.kde.org/KDE/Mission) in "
+"vodenjem [Vision](https:///community.kde.org/kde/vision), kot tudi talenti "
+"in sposobnostmi članov skupnosti, to ni presenetljivo, da je KDE pionir med "
+"skupino ljudi in organizacij pri trendih in razpravi o trajnostni programski "
+"opremi. Ta skupina vključuje samega [Modrega angela(https://www.blauer-engel."
+"de/en) in [raziskovalce](https://www.umwelt-campus.de/green-software-"
+"engineering/refoplan-2018), za njimi podpornike, kot je [Free Software "
+"Foundation Europe](https://fsfe.org/), druge projekte proste programske "
+"opreme in vse večje število drugih. Zdaj, s prvo ekološko potrjeno "
+"programsko opremo KDE skupnost praznuje dosežke skupaj s širšo [prosto "
+"programsko opremo](https://fsfe.org/news/0222/news-20220316-01.en.html ), "
+"kot tudi z oddelkom za računalništvo v [okoljskem kampusu Birkenfeld]"
+"(https://www.umwelt-campus.de/en/forschung/projekte/green-software-"
+"engineering/news-details/first-blue-angel-for-software), kjer so "
+"raziskovalci izmerili vire in porabo energije Okularja in druge programske "
+"opreme KDE."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:24
+msgid ""
+"KDE was founded in 1996 and maintains numerous Free and Open-Source Software "
+"products, including the Plasma desktop environment; the design app for "
+"painters and graphic artists, Krita; the GCompris suite of educational "
+"activities for children; Kdenlive, a professional video-editing software "
+"product; and, of course, Okular, an essential computer program that lets you "
+"view all sorts of documents, including PDFs, comics, scientific and academic "
+"papers, and technical drawings. Okular also lets you check digital "
+"signatures and sign documents yourself, as well as include annotated text "
+"and comments directly embedded into the document."
+msgstr ""
+"KDE je bil ustanovljen leta 1996 in vzdržuje številne proste in odprtokodne "
+"programske opreme, vključno z okoljem na namizju Plasme; aplikacija za "
+"oblikovanje za slikarje in grafične umetnike Krita; GCompris za "
+"izobraževalne dejavnosti za otroke; Kdenlive, profesionalna programska "
+"oprema za urejanje videov; in seveda Okular osnovni računalniški program, ki "
+"omogoča pogled vseh vrst dokumentov vključno s PDF, stripi, znanstvenimi in "
+"akademskimi dokumenti ter tehničnimi risbami. Okular vam omogoča, da "
+"preverite digitalne podpise in sami podpisujete dokumente, kot tudi da vanj "
+"vključujete označeno besedilo in komentarje, ki so neposredno vdelani v "
+"dokument."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:26
+msgid ""
+"The Blue Angel award criteria for software, with its focus on transparency "
+"in resource and energy-efficiency, hardware operating life, and user "
+"autonomy, provide an excellent benchmark to begin a discussion on software "
+"sustainability and push development in this area forward. And so, in 2021 "
+"KDE started [KDE Eco](https://eco.kde.org/), a project with the goal of "
+"putting KDE and Free Software at the forefront of sustainable software "
+"design. Sustainability is not a new goal for Free and Open-Source Software "
+"(FOSS). The [four freedoms](http://fsfe.org/freesoftware/freesoftware.en."
+"html) have always put Free Software at the forefront of sustainable software "
+"design. What *is* new is that FOSS values are now recognized as being "
+"directly related to sustainability by organizations such as the German "
+"Environment Agency (*Umweltbundesamt*), who developed the award criteria."
+msgstr ""
+"Merila za nagrado Modri angel za programsko opremo, s svojo osredotočenostjo "
+"na preglednost v učinkovitosti virov in energije, izrabo strojne opreme in "
+"avtonomije uporabnikov, zagotavlja odlično merilo za začetek razprave o "
+"trajnosti programske opreme in spodbujanje nadaljnji razvoj na tem področju. "
+"In tako je KDE v letu 2021 začel projekt [KDE ECO](https://eco.kde.org/), s "
+"ciljem, da bi KDE in prosto programsko opremo postavil v ospredje "
+"trajnostnega oblikovanja programske opreme. Trajnost ni nov cilj za prosto "
+"in odprtokodno programsko opremo (FOSS). [Štiri svoboščine](http://fsfe.org/"
+"freesoftware/freesoftware.en.html) so vedno postavljale prosto programsko "
+"opremo v ospredje trajnostnega oblikovanja programske opreme. Kar *je* novo, "
+"da so testne vrednosti zdaj priznane kot neposredno povezane s trajnostjo "
+"organizacij, kot so nemška agencija za okolje (*Umweltbundesamt*), ki je "
+"razvila merila za dodelitev."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:28
+msgid ""
+"The Blue Angel is awarded to a range of products and services, from paper "
+"products to construction materials to printers. In 2020 the German "
+"Environment Agency extended the award criteria to include software products, "
+"which was the first in the world of environmental certifications to link "
+"transparency and user autonomy with sustainability. In order to obtain the "
+"ecolabel, a software product must demonstrate that it meets a list of "
+"stringent requirements considered critical for the environment over the "
+"product's life cycle. These include providing transparency in the energy "
+"consumption when using the software -- for example, in the case of Okular, "
+"while reading or annotating a PDF -- and the ability to run the application "
+"on hardware at least five years old. The Blue Angel award criteria also "
+"include a list of user autonomy requirements which reduce the environmental "
+"impact of software."
+msgstr ""
+"Modri angel se dodeljuje vrsti izdelkov in storitev, od papirnatih izdelkov "
+"do gradbenih materialov in tiskalnikov. V letu 2020 je nemška agencija za "
+"okolje razširila merila za dodelitev, ki vključuje izdelke programske "
+"opreme, ki je bila prva v svetu okoljskih certifikatov za povezovanje "
+"preglednosti in avtonomije uporabnikov s trajnostjo. Za pridobitev znaka za "
+"okolje mora programski izdelek dokazati, da izpolnjuje seznam strogih "
+"zahtev, ki se štejejo za kritične za okolje med življenjskim ciklom izdelka. "
+"Ti vključujejo zagotavljanje preglednosti pri porabi energije pri uporabi "
+"programske opreme - na primer, v primeru Okularja, medtem ko berejo ali "
+"označujejo PDF - in sposobnost za zagon aplikacije na strojni opremi vsaj "
+"pet let. Merila za nagrado Modrega angela vključujejo tudi seznam zahtev za "
+"avtonomijo uporabnikov, ki zmanjšujejo vpliv programske opreme na okolje."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:30
+msgid "Blue Angel Ecolabel"
+msgstr "Ekološka značka Modri angel"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:32
+msgid ""
+"All of these criteria reflect KDE's values and those of the larger FOSS "
+"movement seamlessly. With Free and Open-Source Software, transparency is "
+"guaranteed and control is handed over to the users, instead of being held "
+"back by vendors or service providers. This allows users to decide what they "
+"want from the software they use and, all too often overlooked, the hardware "
+"as well. For instance, users may drive down the energy consumption of their "
+"programs with no loss in functionality as they can install only what they "
+"need, no more and no less; and avoid advertising and data-mining options, "
+"which would run unnecessary processes in the background driving up the "
+"consumption of resources. As for FOSS developers, they typically continue to "
+"support hardware that the industry would be eager to obsolete, providing "
+"users with up-to-date and secure software for devices that might otherwise "
+"be discarded as e-waste and end up polluting landfills. In short, as a "
+"consequence of the user freedoms and transparency guaranteed by a Free "
+"Software license, users and communities are able to influence the factors "
+"determining the resource consumption of their software!"
+msgstr ""
+"Vsa ta merila brezhibno odražajo vrednote KDE in širšega gibanja proste "
+"programske opreme. S prosto in odprtokodno programsko opremo, je "
+"zagotovljena preglednost in nadzor se preda uporabnikom, namesto da jih "
+"zadržijo prodajalci ali ponudniki storitev. To omogoča uporabnikom, da se "
+"odločijo, kaj želijo od programske opreme, ki jo uporabljajo in vse "
+"prepogosto spregledane strojne opreme. Na primer, uporabniki lahko znižajo "
+"porabo energije svojih programov brez izgube v funkcionalnosti, saj lahko "
+"namestijo le tisto, kar potrebujejo, nič več in nič manj; izogibajo se "
+"možnostim oglaševanja in podatkovnega rudarjenja, ki bi potekalo v "
+"nepotrebnih procesih v ozadju, ki trošijo rabo virov. Kar se tiče za "
+"razvijalce prostega programja, običajno še naprej podpirajo strojno opremo, "
+"ki bi jo industrija želela da  zastari, zagotavljajo uporabnikom z "
+"osveževanjem in varno programsko opremo za naprave, ki bi jih sicer lahko "
+"zavrgli kot e-odpadki in na koncu onesnažila odlagališča. Skratka, posledica "
+"svoboščin uporabnikov in preglednosti, ki jo zagotavlja prosta licenca "
+"programske opreme, uporabniki in skupnosti lahko vplivajo na dejavnike, ki "
+"določajo porabo virov njihove programske opreme!"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:34
+msgid ""
+"Released under the GPLv2+ license, Okular is Free and Open-Source Software, "
+"and so was also already fulfilling many of the user autonomy criteria "
+"necessary to obtain the Blue Angel seal of approval. Further work was "
+"carried out to make Okular fully compliant with all of the Blue Angel "
+"criteria, and become officially recognized as providing transparency in "
+"energy and resource consumption, extending the potential hardware operating "
+"life of devices, and enabling user autonomy."
+msgstr ""
+"Okular izdan pod licenco GPLV2 + je prosta in odprtokodna programska oprema, "
+"zato je tudi že izpolnila številna merila za avtonomijo uporabnikov, "
+"potrebnih za pridobitev odobritve pečata Modrega angela. Nadaljnje delo je "
+"bilo izvedeno, da bi bilo ustrezno v celoti skladno z vsemi merili Modrega "
+"angela in postalo uradno priznano kot zagotavljanje preglednosti energetske "
+"in porabe virov, ki razširjajo potencialno operativno življenjsko dobo "
+"naprav strojne opreme in omogočanje avtonomije uporabnikov."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:36
+msgid ""
+"KDE and the Free Software community would like to send a heartfelt thank you "
+"to the Okular developers for making environmentally-friendly software for "
+"all of us!"
+msgstr ""
+"KDE in skupnost proste programske opreme bi radi poslali iskrene zahvale "
+"razvijalcem Okularja za okolju prijazno programsko opremo za nes vse!"
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:40
+msgid ""
+"Okular works on Linux, Windows, Android and Plasma Mobile, and is available "
+"to [download](https://okular.kde.org/download/) for all GNU/Linux "
+"distributions, as a standalone package from [Flathub](https://flathub.org/"
+"apps/search/okular) and the [Snap Store](https://snapcraft.io/search?"
+"q=okular), through the [KDE F-Droid release repository](https://cdn.kde.org/"
+"android/stable-releases/fdroid/repo/) for Android, as well as from the "
+"[Microsoft Store](https://www.microsoft.com/en-us/p/"
+"okular/9n41msq1wnm8#activetab=pivot:overviewtab). Being FOSS, the source "
+"code is also readily available at [Okular's GitLab repository](https://"
+"invent.kde.org/graphics/okular) for all to use, study, share, and improve."
+msgstr ""
+"Okular deluje na okolju Linux, Windows, Android in Plasma Mobile, in je na "
+"voljo na [download](https://okular.kde.org/download/) za vse distribucije "
+"GNU/Linux, kot samostojni paket od [Flathub](https://flathub.org/apps/search/"
+"okular) in [Snap Store](https://snapcraft.io/search?q=okular), pri [KDE F-"
+"Droid release repository](https://cdn.kde.org/android/stable-releases/fdroid/"
+"repo/) za Android, kot tudi pri [Microsoft Store](https://www.microsoft.com/"
+"en-us/p/okular/9n41msq1wnm8#activetab=pivot:overviewtab). Ker je prosto "
+"programje, je izvorna koda na voljo tudi na [Okular's GitLab repository]"
+"(https://invent.kde.org/graphics/okular) za vse za uporabo, študij, deljenje "
+"in izboljšanje."
+
+#: content/blog/2022-03-16-press-release-okular-blue-angel.md:43
+msgid ""
+"Today, sustainability must be considered holistically: freedom and openness "
+"in software, user autonomy and control over one's digital life, and "
+"transparency in our digital infrastructure's resource consumption are all a "
+"part of that. Join us at [KDE Eco](https://eco.kde.org/get-involved/). Let "
+"us make digital sustainability and resource-efficient Free and Open-Source "
+"Software part of our future so we can live up to our responsibility for this "
+"and future generations!"
+msgstr ""
+"Danes je treba trajnost obravnavati celostno: svoboda in odprtost v "
+"programski opremi, avtonomiji uporabnikov in nadzor nad digitalnim "
+"življenjem in preglednostjo v naši digitalni porabi virov infrastrukture so "
+"del tega. Pridružite se nam na [KDE ECO](https://eco.kde.org/get-involved/). "
+"Naj naredimo digitalno trajnost in prosto in odprtokodno programsko opremo, "
+"ki je na voljo za našo prihodnost, da bomo lahko izpolnili našo odgovornost "
+"za to in prihodnje generacije!"
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid ""
+"Blue Angel Award Ceremony At EnviroInfo Conference: Okular Officially "
+"Receives Eco-Label, First Ever For Software Product"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid "Award Ceremony"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid "EnviroInfo Conference"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
+msgid ""
+"On Wednesday 28 September Okular celebrated becoming the first Blue Angel "
+"eco-certified software product together with the German Environment Agency "
+"('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt Campus "
+"Birkenfeld'), and the EnviroInfo conference researchers and attendees."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:12
+msgid ""
+"On Wednesday 28 September 2022 [Okular](https://okular.kde.org/), a Free and "
+"Open Source advanced document reader that allows you to read, sign, and "
+"annotate PDFs, ePubs, MarkDowns, and many other types of documents, was "
+"officially celebrated for becoming the first software product to receive the "
+"Blue Angel eco-label."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:14
+msgid ""
+"As announced in March (read more [here](https://eco.kde.org/blog/2022-03-16-"
+"press-release-okular-blue-angel/)), Okular has been recognized for "
+"sustainable software design as reflected in the recent Blue Angel award "
+"criteria for software eco-certification. Introduced in 1978, the Blue Angel "
+"is the world’s earliest eco-label and the official environmental label "
+"awarded by the German government. With this award, Okular is the first and "
+"currently only eco-certified computer program within the 30 organizations of "
+"the Global Ecolabelling Network, which represents over 50 countries."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:18
+msgid ""
+"![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/"
+"blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:20
+msgid ""
+"*KDE's Okular receiving the Blue Angel eco-certification from the German "
+"Environment Agency ('Umweltbundesamt'). From left to right: Mathias "
+"Bornschein from the German Environment Agency with Joseph P. De Veaugh-"
+"Geiss, Alexander Lohnau, and Harri Porten from the KDE community.*"
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:25
+msgid ""
+"The award ceremony took place at the 36th edition of the [EnviroInfo "
+"conference](https://informatik2022.gi.de/en/enviroinfo-2022) in Hamburg, "
+"Germany. Three KDE community members -- Joseph P. De Veaugh-Geiss, Alexander "
+"Lohnau, and Harri Porten -- were on stage to receive the award on behalf of "
+"Okular and the KDE community."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:27
+msgid ""
+"EnviroInfo is an international and interdisciplinary conference with a focus "
+"on environmental issues in information and communication technologies. "
+"Researchers and attendees at the event are, quoting the website, "
+"\"[c]ombining and shaping national and international activities in the field "
+"of applied informatics and environmental informatics in making the world a "
+"better place for living.\" The KDE community is honored to have celebrated "
+"Okular's achievement at the event together with the German Environment "
+"Agency ('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt "
+"Campus Birkenfeld'), and the larger EnviroInfo community."
+msgstr ""
+
+#: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:29
+msgid ""
+"Congratulations to Okular and KDE for official recognition of the "
+"outstanding work you are doing!"
+msgstr ""
+
+#: content/blog/_index.md:0
+msgid "Blog"
+msgstr "Blog"
+
+#: content/blog/_index.md:0
+msgid "KDE Eco blog"
+msgstr "KDE Eco blog"
+
+#: content/blog/_index.md:9
+msgid "Keep up with the latest news about the KDE Eco project"
+msgstr "Spremljajte najnovejše novice o projektu KDE Eco"
+
+#: content/blog/post-1.md:0 content/FEEP/_index.md:0
+msgid "Energy Efficiency"
+msgstr "Energetska učinkovitost"
+
+#: content/blog/post-1.md:0
+msgid "Resource-Efficient Software & Blauer Engel Eco-Certification"
+msgstr "Eko potrdilo Modri angel za programje, ki učinkovito uporablja vire"
+
+#: content/blog/post-1.md:0
+msgid "Hardware Operating Life"
+msgstr "Življenjska doba strojne opreme"
+
+#: content/blog/post-1.md:0
+msgid "Software efficiency is resource efficiency!"
+msgstr "Programska učinkovitost je učinkovita raba virov!"
+
+#: content/blog/post-1.md:15
+msgid ""
+"Often overlooked is the fact that the resource consumption of hardware is "
+"determined by the software running on it."
+msgstr ""
+"Pogosto je spregledano dejstvo, da je poraba virov strojne opreme določena s "
+"programsko opremo, ki se izvaja na njej."
+
+#: content/blog/post-1.md:17
+msgid "*How much energy does hardware use?*"
+msgstr "*Koliko energije uporablja strojna oprema?*"
+
+#: content/blog/post-1.md:19
+msgid ""
+"Take a look at the software: the same machine doing the same task but with "
+"two different applications can have [drastically different energy demands]"
+"(https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
+"Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf)."
+msgstr ""
+"Oglejte si programsko opremo: isti računalnik opravlja isto nalogo, vendar "
+"dve različni aplikaciji imata [drastično različne zahteve po energiji]"
+"(https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
+"Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf)."
+
+#: content/blog/post-1.md:21
+msgid "*How long is the operating life of a piece of hardware?*"
+msgstr "*Kako dolga je življenjska doba strojne opreme?*"
+
+#: content/blog/post-1.md:23
+msgid ""
+"Again, software is critical. Software bloat requiring more and more powerful "
+"hardware results in new devices being manufactured and sold, while perfectly "
+"functioning devices are discarded."
+msgstr ""
+"Spet je kritična programska oprema. Potratna programska oprema zahteva več "
+"in močnejšo strojno opremo v novih napravah, ki se proizvajajo in prodajajo, "
+"medtem ko se popolnoma delujoče naprave zavržejo."
+
+#: content/blog/post-1.md:27
+msgid ""
+"![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-"
+"Towill_800x600.jpg \"WEEE Man At The Eden Project\")"
+msgstr ""
+"![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-"
+"Towill_800x600.jpg \"WEEE Man At The Eden Project\")"
+
+#: content/blog/post-1.md:29
+msgid ""
+"*\"The seven metre tall WEEE (Waste Electrical and Electronic Equipment) Man "
+"is made of electrical and electronic equipment thrown away by the average UK "
+"citizen in their lifetime - equating to 3.3 tonnes.\" ([source](https://web."
+"archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*"
+msgstr ""
+"*»Sedem metrov visok kip WEEE (Waste Electrical and Electronic Equipment - "
+"Zavržena električna in elektronska oprema) Man je izdelan iz električne in "
+"elektronske opreme, ki jo je povprečen državljan Združenega kraljestva "
+"zavrgel v življenju - ima težo 3,3 ton.« ([vir](https://web.archive.org/"
+"web/20180901075137/https://www.geograph.org.uk/photo/2637892))*"
+
+#: content/blog/post-1.md:33
+msgid ""
+"So when thinking about what to do while the climate crisis continues, where "
+"to start and how, we at [KDE Eco](https://eco.kde.org/) think software -- "
+"especially Free Software -- is a good place to start. Free Software means "
+"users and their communities have the freedom to control the software they "
+"use, not the other way around. These freedoms provide real choice. Choice in "
+"what to install, or uninstall. Options to modify software to run more "
+"efficiently. Continuing support for older, but perfectly functioning, "
+"devices. And so on."
+msgstr ""
+"Torej, ko razmišljate o tem, kaj storiti, ko se podnebna kriza nadaljuje, "
+"kje začeti in kako, na [KDE Eco](https://eco.kde.org/) menimo, da je "
+"programje - posebej prosta programska oprema - dober kraj za začetek. Prosta "
+"programska oprema pomeni, da imajo uporabniki in njihove skupnosti svobodo "
+"nadzora programske opreme in ne obratno. Te svoboščine zagotavljajo resnično "
+"izbiro. Izbira kaj namestiti ali odstraniti. Možnosti za spremembo "
+"programske opreme da deluje bolj učinkovito. Nadaljnjo podporo starejšim, a "
+"popolnoma delujočim napravam. In tako naprej."
+
+#: content/blog/post-1.md:35
+msgid ""
+"Each of these choices has a cost and/or benefit. For instance, the more "
+"(unnecessary) processes an application has running in the background, the "
+"more resources the hardware will need. Multiply such costs by hundreds of "
+"millions, or even billions, of computer users worldwide, and it quickly adds "
+"up."
+msgstr ""
+"Vsaka od teh odločitev ima strošek in/ali korist. Na primer, več "
+"(nepotrebnih) postopkov, ki jih aplikacija poganja v ozadju, več virov bo "
+"potrebovala strojna oprema. Te stroške pomnožite na stotine milijone ali "
+"celo milijarde uporabnikov računalnikov po vsem svetu in ti se hitro "
+"povečujejo."
+
+#: content/blog/post-1.md:37
+msgid ""
+"The opposite is also true: reduce the demands from software and one reduces "
+"the demands on our resources."
+msgstr ""
+"Velja tudi obratno: zmanjšane zahteve iz programske opreme zmanjšujejo "
+"zahteve po naših virih."
+
+#: content/blog/post-1.md:39
+msgid "In other words, software efficiency means resource efficiency!"
+msgstr ""
+"Z drugimi besedami, učinkovitost programske opreme pomeni učinkovitost virov!"
+
+#: content/blog/post-1.md:41
+msgid ""
+"Recently, the interdependency between software engineering and "
+"sustainability was officially recognized by the [German Environment Agency]"
+"(https://www.umweltbundesamt.de/en) (*Umweltbundesamt*, or UBA). In 2020, "
+"UBA released the [award criteria](https://produktinfo.blauer-engel.de/"
+"uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf) for "
+"desktop software to obtain eco-certification with the Blauer Engel label. "
+"Categories for certification include energy efficiency, extending the "
+"potential operating life of hardware, and user autonomy ... all of which fit "
+"seamlessly with Free and Open Source Software (FOSS)."
+msgstr ""
+"Pred kratkim, je medsebojno odvisnost med programsko opremo intrajnostjo "
+"uradno priznala [Nemška agencija za okolje](https://www.umweltbundesamt.de/"
+"en) (* umweltbundesamt *, ali UBA). Leta 2020 je UBA izdala [merila za "
+"dodelitev](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
+"%20215-202001-en-Criteria-2020-02-13.pdf) za namizno programsko opremo za "
+"pridobitev eko-certifikata z oznako Modri angel. Kategorije za potrjevanje "
+"vključujejo energetsko učinkovitost, razširitev potencialne življenjske dobe "
+"strojne opreme in avtonomije uporabnikov ... vse se brezhibno prilegajo "
+"prosti in odprtokodni programski opremi (angl. FOSS)."
+
+#: content/blog/post-1.md:45
+msgid ""
+"![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation."
+"jpg)"
+msgstr ""
+"![KDE Eco logotip z vegetacijo](/blog/images/KDE-eco-logo-name_vegetation."
+"jpg)"
+
+#: content/blog/post-1.md:49
+msgid ""
+"The Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) project from KDE e.V. seeks to collect, summarize, and spread "
+"information related to Blauer Engel eco-certification and resource "
+"efficiency as it relates to FOSS development. Measuring the energy "
+"consumption of Free Software is the focus of the Free & Open Source Software "
+"Energy Efficiency Project ([FEEP](https://invent.kde.org/teams/eco/feep)). "
+"Both projects are part of the pioneering [KDE Eco](https://invent.kde.org/"
+"teams/eco) initiative!"
+msgstr ""
+"Projekt Modri angel - Blauer Engel 4 FOSS ([BE4Foss](https://invent.kde.org/"
+"teams/eco/be4Foss)) skupnosti KDE e.V. skuša zbrati, povzeti in razširiti "
+"informacije, povezane z eko-potrjevanjem Modri angel in učinkovitosti virov, "
+"kot se nanaša na razvoj FOSS. Merjenje porabe energije proste programske "
+"opreme je poudarek proste in odprtokodne programske opreme. Projekt "
+"energetske učinkovitosti ([FEEP](https://invent.kde.org/teams/eco/Feep)).Oba "
+"projekta sta del pionirske pobude [KDE ECO](https://invent.kde.org/teams/"
+"eco) !"
+
+#: content/blog/post-1.md:53
+msgid ""
+"<font size=\"6\"> **[Join us in building energy-efficient, Free Software!]"
+"(https://eco.kde.org/get-involved/)** </font>"
+msgstr ""
+"<font size=\"6\">**[pridružite se nam pri razvoju energetsko učinkovite "
+"proste programske opreme](https://eco.kde.org/get-involved/)** </font>"
+
+#: content/blog/post-1.md:57
+msgid ""
+"*This is a modified version of the abstract [submitted](https://web.archive."
+"org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) "
+"to the Remote Rhein Ruhr Stage at CCC 2021. You can watch the talk [here]"
+"(https://streaming.media.ccc.de/rc3/relive/319).*"
+msgstr ""
+"*To je spremenjena verzija povzetka [predloženega](https://web.archive.org/"
+"web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) na "
+"Remote Rhein Ruhr Stage at CCC 2021. Govor si lahko ogledate [tukaj](https://"
+"streaming.media.ccc.de/rc3/relive/319).*"
+
+#: content/FEEP/_index.md:9
+msgid ""
+"FEEP is developing tools to improve energy efficiency in free and open "
+"source software development. Design and implementation of software has a "
+"significant impact on the energy consumption of the systems it is part of. "
+"With the right tools, it is possible to quantify and drive down energy "
+"consumption. This increased efficiency contributes to a more sustainable use "
+"of energy as one of the shared resources of our planet."
+msgstr ""
+"FEEP razvija orodja za izboljšanje energetske učinkovitosti razvoja proste "
+"in odprte programske opreme. Oblikovanje in izdelava programske opreme "
+"pomembno vplivata na porabo energije sistemov, katere so sestavni del. S "
+"pravimi orodji je mogoče količinsko opredeliti in si prizadevati za "
+"zmanjšanje porabe energije. Ta povečana učinkovitost prispeva k bolj "
+"trajnostni rabi energije kot enega od skupnih virov našega planeta."
+
+#: content/get-involved.md:0
+msgid "Get Involved"
+msgstr "Bodite vpleteni"
+
+#: content/get-involved.md:9
+msgid "Become a part of the sustainable software movement"
+msgstr "Postanite del gibanja za trajnostno programsko opremo"
+
+#: content/get-involved.md:11
+msgid ""
+"We need as many motivated people as possible to drive this forward. Here are "
+"some channels where you can get more information and contribute."
+msgstr ""
+"Potrebujemo kar največ motiviranih ljudi, ki bodo poganjali razvoj naprej. "
+"Tukaj je nekaj kanalov, kjer lahko dobite več informacij in lahko prispevate."
+
+#: content/get-involved.md:13
+msgid "Community & Support"
+msgstr "Skupnosti in podpora"
+
+#: content/get-involved.md:15
+msgid ""
+"BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin time) "
+"(contact us for details)"
+msgstr ""
+"BigBlueButton : Mesečni sestanki, druga sreda ob 19:00 CEST/CET (slovenski "
+"čas) (stopite z nami v stik za podrobnosti)"
+
+#: content/get-involved.md:16
+msgid "Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+msgstr "Matrix soba: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+
+#: content/get-involved.md:17
+msgid ""
+"Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/"
+"listinfo/energy-efficiency"
+msgstr ""
+"Poštni seznam energetske učinkovitosti: https://mail.kde.org/cgi-bin/mailman/"
+"listinfo/energy-efficiency"
+
+#: content/get-involved.md:18
+msgid "KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334"
+msgstr "KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334"
+
+#: content/get-involved.md:20
+msgid "Resources"
+msgstr "Viri"
+
+#: content/get-involved.md:22
+msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
+msgstr "Repozitorij FEEP GitLab: https://invent.kde.org/teams/eco/feep"
+
+#: content/get-involved.md:23
+msgid "BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss"
+msgstr "Repozitorij BE4FOSS GitLab: https://invent.kde.org/teams/eco/be4foss"
+
+#: content/get-involved.md:24
+msgid ""
+"Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-"
+"application"
+msgstr ""
+"Aplikacije Modri angel: https://invent.kde.org/teams/eco/blue-angel-"
+"application"
+
+#: content/get-involved.md:26
+msgid "Contact"
+msgstr "Kontakt"
+
+#: content/get-involved.md:28
+msgid "Email: `joseph [at] kde.org`"
+msgstr "E-pošta: `joseph [at] kde.org`"
+
+#: i18n/en.yaml:0
+msgid "Free and open source software Energy Efficiency Project"
+msgstr "Projekt energetske učinkovitosti proste in odprte programske opreme"
+
+#: i18n/en.yaml:0
+msgid ""
+"How can you measure software's energy consumption? And does it make a "
+"difference? We are working to make free software more sustainable."
+msgstr ""
+"Kako lahko izmerite porabo energije programske opreme? In kakšna je razlika? "
+"Delamo, da naredimo prosto programsko opremo bolj trajnostno."
+
+#: i18n/en.yaml:0
+msgid "Blauer Engel for Free and Open Source Software"
+msgstr "Modri angel za prosto in odprtokodno programsko opremo"
+
+#: i18n/en.yaml:0
+msgid ""
+"Eco-labels for products are used widely already. But how can they be "
+"transferred to software? What criteria is relevant? We need more pioneers to "
+"find out how we can make software sustainable."
+msgstr ""
+"Ekološke oznake za izdelke se že pogosto uporabljajo. Ampak kako lahko "
+"nanaša na programsko opremo? Katera merila so pomembna? Potrebujemo več "
+"pionirjev, da ugotovimo, kako lahko naredimo programsko opremo trajnostno."
+
+#: i18n/en.yaml:0
+msgid "Learn more"
+msgstr "Več o tem"
+
+#: i18n/en.yaml:0
+msgid "Okular Awarded Blue Angel Ecolabel"
+msgstr "Okular je bil nagrajen z ekološko značko Modri angel"
+
+#: i18n/en.yaml:0
+msgid ""
+"In 2022, KDE's popular multi-platform PDF reader and universal document "
+"viewer Okular became the first ever eco-certified computer program!"
+msgstr ""
+"V letu 2022 je bil popularni večplatformni KDE-jev bralnik PDF datotek in "
+"univerzalnih dokumentov Okular sploh prvi ekološko potrjeni računalniški "
+"program!"
+
+#: i18n/en.yaml:0
+msgid "Read More"
+msgstr "Preberite več"
+
+#: i18n/en.yaml:0
+msgid "**Get Involved**"
+msgstr "**Bodite vpleteni**"
+
+#: i18n/en.yaml:0
+msgid "Join us for a sustainable software development movement!"
+msgstr "Pridružite se nam za gibanje trajnostnega razvoja programske opreme!"
+
+#: i18n/en.yaml:0
+msgid "Mailing List"
+msgstr "Poštni seznam"
+
+#: i18n/en.yaml:0
+msgid "Matrix"
+msgstr "Matrix"
+
+#: i18n/en.yaml:0
+msgid "Forum"
+msgstr "Forum"
+
+#: i18n/en.yaml:0
+msgid "How you can help"
+msgstr "Kako lahko pomagate"
+
+#: i18n/en.yaml:0
+msgid ""
+"Follow 3-steps to Blauer Engel eco-certification: (1) Measure, (2) Analyze, "
+"(3) Certify"
+msgstr ""
+"Sledite trem korakom potrjevanje za Modrega angela: 1) Meri, (2) "
+"Analiziraj , (3) Potrdi"
+
+#: i18n/en.yaml:0
+msgid "Squash bugs labelled 'efficiency'"
+msgstr "Odstrani programske napake z oznako »učinkovitost«"
+
+#: i18n/en.yaml:0
+msgid "Set up a measurement lab in your community"
+msgstr "Postavite laboratorij za merjenje v vaši skupnosti"
+
+#: i18n/en.yaml:0
+msgid "Develop automation tools for energy consumption measurements"
+msgstr "Razvoj avtomatskih orodij za meritve porabe energije"
+
+#: i18n/en.yaml:0
+msgid "Assist with statistical analysis and related tools (e.g., OSCAR)"
+msgstr "Pomoč s statistično analizo in sorodnimi orodji (npr. OSCAR)"
+
+#: i18n/en.yaml:0
+msgid "Image of computer directory with globe"
+msgstr "Slika računalnikovega imenika z globusom"
+
+#: i18n/en.yaml:0
+msgid "FOSS Energy Efficiency Project (FEEP)"
+msgstr ""
+"Projekt energetske učinkovitosti prostega programja FOSS Energy Efficiency "
+"Project (FEEP)"
+
+#: i18n/en.yaml:0
+msgid "Image of globe with computer mouse"
+msgstr "Slika globusa z računalniško miško"
+
+#: i18n/en.yaml:0
+msgid "Blauer Engel For FOSS (BE4FOSS)"
+msgstr "Modri angel za prosto programje (BE4FOSS)"
+
+#: i18n/en.yaml:0
+msgid "Image of Blauer Engel ecolabel"
+msgstr "Slika eko značke Modri angel"
+
+#: i18n/en.yaml:0
+msgid "Image of BMUV/UBA"
+msgstr "Slika BMUV/UBA"
+
+#: i18n/en.yaml:0
+msgid "Categories"
+msgstr "Kategorije"
