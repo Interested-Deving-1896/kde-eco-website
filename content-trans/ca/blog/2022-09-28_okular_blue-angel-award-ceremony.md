@@ -6,31 +6,32 @@ authors:
 categories:
 - Okular
 - Blauer Engel
-- Award Ceremony
-- EnviroInfo Conference
+- Cerimònia del premi
+- Congrés EnviroInfo
 - Sostenibilitat
 date: 2022-09-28
-summary: On Wednesday 28 September Okular celebrated becoming the first Blue Angel
-  eco-certified software product together with the German Environment Agency ('Umweltbundesamt'),
-  the Environmental Campus Birkenfeld ('Umwelt Campus Birkenfeld'), and the EnviroInfo
-  conference researchers and attendees.
-title: 'Blue Angel Award Ceremony At EnviroInfo Conference: Okular Officially Receives
-  Eco-Label, First Ever For Software Product'
+summary: El dimecres 28 de setembre, se celebrà que l'Okular va convertir-se en el
+  primer producte de programari amb certificació ecològica de Blue Angel juntament
+  amb l'Agència Alemanya del Medi Ambient (Umweltbundesamt), el Campus Mediambiental
+  Birkenfeld (Umwelt Campus Birkenfeld), i els investigadors i assistents de la conferència
+  EnviroInfo.
+title: 'Cerimònia del premi Blue Angel al Congrés EnviroInfo: oficialment l''Okular
+  rep l''etiqueta Eco, la primera per a un producte de programari'
 ---
-On Wednesday 28 September 2022 [Okular](https://okular.kde.org/), a Free and Open Source advanced document reader that allows you to read, sign, and annotate PDFs, ePubs, MarkDowns, and many other types of documents, was officially celebrated for becoming the first software product to receive the Blue Angel eco-label.
+El dimecres 28 de setembre de 2022 l'[Okular](https://okular.kde.org/), un lector de documents avançat de codi lliure i obert que permet llegir, signar i anotar PDF, ePubs, MarkDowns i molts altres tipus de documents, va celebrar oficialment que es convertí en el primer producte de programari a rebre l'etiqueta ecològica Blue Angel.
 
-As announced in March (read more [here](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)), Okular has been recognized for sustainable software design as reflected in the recent Blue Angel award criteria for software eco-certification. Introduced in 1978, the Blue Angel is the world’s earliest eco-label and the official environmental label awarded by the German government. With this award, Okular is the first and currently only eco-certified computer program within the 30 organizations of the Global Ecolabelling Network, which represents over 50 countries.
+Com es va anunciar al març (llegiu més [aquí](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)), s'ha reconegut l'Okular pel disseny de programari sostenible tal com es reflecteix en el recent premi Blue Angel de criteris per a l'ecocertificació de programari. Introduïda el 1978, la Blue Angel és la primera etiqueta ecològica del món i l'etiqueta ambiental oficial concedida pel govern alemany. Amb aquest premi, l'Okular és el primer i actualment únic programa informàtic amb certificació ecològica dins de les 30 organitzacions de la Xarxa Global d'Ecoetiquetes, que representa més de 50 països.
 
 {{< container class="text-center" >}}
 
-![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)
+![Joseph, Harri i Alexander a l'escenari de la cerimònia del premi Blue Angel.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)
 
-*KDE's Okular receiving the Blue Angel eco-certification from the German Environment Agency ('Umweltbundesamt'). From left to right: Mathias Bornschein from the German Environment Agency with Joseph P. De Veaugh-Geiss, Alexander Lohnau, and Harri Porten from the KDE community.*
+*L'Okular del KDE rep la certificació ecològica Blue Angel de l'Agència Alemanya del Medi Ambient ('Umweltbundesamt'). D'esquerra a dreta: Mathias Bornschein de l'Agència Alemanya de Medi Ambient amb Joseph P. De Veaugh-Geiss, Alexander Lohnau i Harri Porten de la comunitat KDE.*
 
 {{< /container >}}
 
-The award ceremony took place at the 36th edition of the [EnviroInfo conference](https://informatik2022.gi.de/en/enviroinfo-2022) in Hamburg, Germany. Three KDE community members -- Joseph P. De Veaugh-Geiss, Alexander Lohnau, and Harri Porten -- were on stage to receive the award on behalf of Okular and the KDE community.
+La cerimònia de lliurament va tenir lloc a la 36a edició del [Congrés EnviroInfo](https://informatik2022.gi.de/en/enviroinfo-2022) a Hamburg, Alemanya. Tres membres de la comunitat KDE -- Joseph P. De Veaugh-Geiss, Alexander Lohnau i Harri Porten -- estaven a l'escenari per rebre el premi en nom de l'Okular i la comunitat KDE.
 
-EnviroInfo is an international and interdisciplinary conference with a focus on environmental issues in information and communication technologies. Researchers and attendees at the event are, quoting the website, "[c]ombining and shaping national and international activities in the field of applied informatics and environmental informatics in making the world a better place for living." The KDE community is honored to have celebrated Okular's achievement at the event together with the German Environment Agency ('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt Campus Birkenfeld'), and the larger EnviroInfo community.
+L'EnviroInfo és un congrés internacional i interdisciplinari centrat en qüestions mediambientals en les tecnologies de la informació i la comunicació. Els investigadors i assistents a l'esdeveniment hi són, citant el lloc web, per a «combinar i donar forma a les activitats nacionals i internacionals en el camp de la informàtica aplicada i la informàtica mediambiental per fer del món un lloc millor per viure». La comunitat KDE té l'honor d'haver celebrat l'assoliment de l'Okular a l'esdeveniment juntament amb l'Agència Alemanya del Medi Ambient (Umweltbundesamt), el Campus Mediambiental de Birkenfeld (Umwelt Campus Birkenfeld), i la resta de la comunitat EnviroInfo.
 
-Congratulations to Okular and KDE for official recognition of the outstanding work you are doing!
+Enhorabona a l'Okular i a KDE pel reconeixement oficial de la feina que esteu fent!

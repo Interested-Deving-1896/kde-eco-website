@@ -6,16 +6,16 @@ authors:
 categories:
 - Okular
 - Blauer Engel
-- Award Ceremony
-- EnviroInfo Conference
+- Prijsceremonie
+- EnviroInfo-conferentie
 - Onderhoudbaarheid
 date: 2022-09-28
-summary: On Wednesday 28 September Okular celebrated becoming the first Blue Angel
-  eco-certified software product together with the German Environment Agency ('Umweltbundesamt'),
-  the Environmental Campus Birkenfeld ('Umwelt Campus Birkenfeld'), and the EnviroInfo
-  conference researchers and attendees.
-title: 'Blue Angel Award Ceremony At EnviroInfo Conference: Okular Officially Receives
-  Eco-Label, First Ever For Software Product'
+summary: Op woensdag 28 september vierde Okular de toekenning van het eerste Blue
+  Angel eco-gecertificeerd softwareproduct samen met het Duitse omgevingsagentschap
+  ('Umweltbundesamt'), de omgevingscampus Birkenfeld ('Umwelt Campus Birkenfeld')
+  en de onderzoekers en deelnemers van de EnviroInfo-conferentie.
+title: 'Blue Angel prijsceremonie op de EnviroInfo conferentie: Okular ontvangt officieel
+  het Eco-Label, De allereerste voor een Softwareproduct'
 ---
 On Wednesday 28 September 2022 [Okular](https://okular.kde.org/), a Free and Open Source advanced document reader that allows you to read, sign, and annotate PDFs, ePubs, MarkDowns, and many other types of documents, was officially celebrated for becoming the first software product to receive the Blue Angel eco-label.
 
@@ -23,9 +23,9 @@ As announced in March (read more [here](https://eco.kde.org/blog/2022-03-16-pres
 
 {{< container class="text-center" >}}
 
-![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)
+![Joseph, Harri en Alexander op het podium bij de Blue Angel prijsuitreiking.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)
 
-*KDE's Okular receiving the Blue Angel eco-certification from the German Environment Agency ('Umweltbundesamt'). From left to right: Mathias Bornschein from the German Environment Agency with Joseph P. De Veaugh-Geiss, Alexander Lohnau, and Harri Porten from the KDE community.*
+*Okular van KDE ontvangt het Blue Angel eco-certificaat van het Duitse omgevingsagentschap ('Umweltbundesamt'). Van links naar rechts: Mathias Bornschein van het Duitse omgevingsagentschap met Joseph P. De Veaugh-Geiss, Alexander Lohnau en Harri Porten van de KDE gemeenschap.*
 
 {{< /container >}}
 
