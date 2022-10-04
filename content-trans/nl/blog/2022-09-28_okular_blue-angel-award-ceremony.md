@@ -17,9 +17,9 @@ summary: Op woensdag 28 september vierde Okular de toekenning van het eerste Blu
 title: 'Blue Angel prijsceremonie op de EnviroInfo conferentie: Okular ontvangt officieel
   het Eco-Label, De allereerste voor een Softwareproduct'
 ---
-On Wednesday 28 September 2022 [Okular](https://okular.kde.org/), a Free and Open Source advanced document reader that allows you to read, sign, and annotate PDFs, ePubs, MarkDowns, and many other types of documents, was officially celebrated for becoming the first software product to receive the Blue Angel eco-label.
+Op woensdag 28 september 2022 werd officieel gevierd dat [Okular](https://okular.kde.org/), een vrije en open-source advanced documentlezer, die u het lezen, ondertekenen en annoteren van PDF's, ePub's, MarkDowns en vele andere typen documenten biedt, het eerst softwareproduct is om het Blue Angel eco-label te ontvangen.
 
-As announced in March (read more [here](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)), Okular has been recognized for sustainable software design as reflected in the recent Blue Angel award criteria for software eco-certification. Introduced in 1978, the Blue Angel is the world’s earliest eco-label and the official environmental label awarded by the German government. With this award, Okular is the first and currently only eco-certified computer program within the 30 organizations of the Global Ecolabelling Network, which represents over 50 countries.
+Zoals in maart aangekondigd (lees meer [hier](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)), heeft Okular erkenning gekregen als duurzaam softwareontwerp zoals weergegeven in de recente Blue Angel prijscriteria voor eco-certificatie van software. Geïntroduceerd in 1978, is Blue Angel het eerste ter wereld eco-label en het officiële milieulabel toegekend door de Duitse regering. Met deze prijs is Okular het eerste en op dit moment enige eco-gecertificeerde computerprogramma binnen de 30 organisaties van het Global Ecolabelling Network, die meer fan 50 landen representeert.
 
 {{< container class="text-center" >}}
 
@@ -29,8 +29,8 @@ As announced in March (read more [here](https://eco.kde.org/blog/2022-03-16-pres
 
 {{< /container >}}
 
-The award ceremony took place at the 36th edition of the [EnviroInfo conference](https://informatik2022.gi.de/en/enviroinfo-2022) in Hamburg, Germany. Three KDE community members -- Joseph P. De Veaugh-Geiss, Alexander Lohnau, and Harri Porten -- were on stage to receive the award on behalf of Okular and the KDE community.
+De prijsceremonie vond plaats op de 36ste editie van de [EnviroInfo conferentie](https://informatik2022.gi.de/en/enviroinfo-2022) in Hamburg, Duitsland. Drie leden van de KDE gemeenschap -- Joseph P. De Veaugh-Geiss, Alexander Lohnau en Harri Porten -- stonden op het podium om de prijs namens Okular en de KDE-gemeenschap te ontvangen.
 
-EnviroInfo is an international and interdisciplinary conference with a focus on environmental issues in information and communication technologies. Researchers and attendees at the event are, quoting the website, "[c]ombining and shaping national and international activities in the field of applied informatics and environmental informatics in making the world a better place for living." The KDE community is honored to have celebrated Okular's achievement at the event together with the German Environment Agency ('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt Campus Birkenfeld'), and the larger EnviroInfo community.
+EnviroInfo is een internationale en interdisciplinaire conferentie met een focus op milieuproblemen in informatie en communicatie technologieën. Onderzoekers en deelnemers op de bijeenkomst zijn, volgens de website, "[c]ombining and shaping national and international activities in the field of applied informatics and environmental informatics in making the world a better place for living." De KDE-gemeenschap werd geëerd om het vieren van de prestatie van Okular op de bijeenkomst samen met het Duitse milieuagentschap ('Umweltbundesamt'), de Milieucampus Birkenfeld ('Umwelt Campus Birkenfeld') en de uitgebreide EnviroInfo gemeenschap.
 
-Congratulations to Okular and KDE for official recognition of the outstanding work you are doing!
+Felicitaties aan Okular en KDE voor de officiële erkenning van het uitstekend werk dat zij doen!

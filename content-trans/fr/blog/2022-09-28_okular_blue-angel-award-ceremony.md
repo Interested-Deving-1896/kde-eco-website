@@ -6,8 +6,8 @@ authors:
 categories:
 - Okular
 - Blauer Engel
-- Award Ceremony
-- EnviroInfo Conference
+- Cérémonie de remise de prix
+- Conférence EnviroInfo
 - Développement durable
 date: 2022-09-28
 summary: On Wednesday 28 September Okular celebrated becoming the first Blue Angel
