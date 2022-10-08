@@ -6,6 +6,7 @@ backend:
   auth_endpoint: oauth/authorize
   auth_type: pkce # Required for pkce
   app_id: afdb615313355e4d38ebb4bf1e8646a2ef06d93dd79e971c98744c490c0c9c5a
+publish_mode: editorial_workflow
 media_folder: "content/blog/images"
 public_folder: "/blog/images"
 search: false
