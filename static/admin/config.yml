@@ -1,0 +1,26 @@
+backend:
+  name: gitlab
+  repo: websites/eco-kde-org
+  api_root: https://invent.kde.org/api/v4 
+  base_url: https://invent.kde.org
+  auth_endpoint: oauth/authorize
+  auth_type: pkce # Required for pkce
+  app_id: afdb615313355e4d38ebb4bf1e8646a2ef06d93dd79e971c98744c490c0c9c5a
+media_folder: "content/blog/images"
+public_folder: "/blog/images"
+search: false
+collections:
+- name: 'blog' # Used in routes, e.g., /admin/collections/blog
+  label: 'Blog' # Used in the UI
+  folder: 'content/blog' # The path to the folder where the documents are stored
+  create: true # Allow users to create new documents in this collection
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  fields: # The fields for each document, usually in front matter
+  - { label: 'Title', name: 'title', widget: 'string' }
+  - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+  - { label: 'Categories', name: 'categories', widget: 'list' }
+  - { label: 'Author', name: 'author', widget: 'string', default: 'Joseph P. De Veaugh-Geiss' }
+  - { label: 'Summary', name: 'summary', widget: 'text' }
+  - { label: 'License', name: 'SPDX-License-Identifier', widget: 'string', default: 'CC-BY-4.0' }
+  - { label: 'Copyright', name: 'authors', widget: 'list', field: { label: 'Text', name: 'SPDX-FileCopyrightText', widget: 'string', default: '2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>' } }
+  - { label: 'Body', name: 'body', widget: 'markdown' } 
