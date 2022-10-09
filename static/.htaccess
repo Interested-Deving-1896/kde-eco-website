@@ -1,0 +1,13 @@
+# own 404 handler
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+RewriteBase /
+# Don't redirect if file, symlink or directory exist
+RewriteCond %{REQUEST_FILENAME} -s [OR]
+RewriteCond %{REQUEST_FILENAME} -l [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^.*$ - [NC,L]
+
+# Redirect /lg/xxxxxx -> /xxxxxx
+RewriteRule "^([a-z]{2,3}|[a-z]{2}-[a-z]{2,})/(.*)$" "$2" [L,R=301] 
