@@ -4,3 +4,5 @@
 .hugo_build.lock
 /po[st]*/
 /locale*/
+/i18n/*
+!/i18n/en.yaml
