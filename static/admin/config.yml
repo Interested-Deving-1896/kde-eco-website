@@ -23,5 +23,5 @@ collections:
   - { label: 'Author', name: 'author', widget: 'string', default: 'Joseph P. De Veaugh-Geiss' }
   - { label: 'Summary', name: 'summary', widget: 'text' }
   - { label: 'License', name: 'SPDX-License-Identifier', widget: 'string', default: 'CC-BY-4.0' }
-  - { label: 'Copyright', name: 'authors', widget: 'list', field: { label: 'Text', name: 'SPDX-FileCopyrightText', widget: 'string', default: '2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>' } }
+  - { label: 'Copyright', name: 'authors', widget: 'list', field: { label: 'Text', name: 'SPDX-FileCopyrightText', widget: 'string' }, default: [{'SPDX-FileCopyrightText':'2022 Joseph P. De Veaugh-Geiss <joseph@kde.org>'}] }
   - { label: 'Body', name: 'body', widget: 'markdown' } 
