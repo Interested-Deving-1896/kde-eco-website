@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-10-08 00:53+0000\n"
-"PO-Revision-Date: 2022-10-03 08:27+0200\n"
+"PO-Revision-Date: 2022-10-09 09:00+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -1789,13 +1789,6 @@ msgid "EnviroInfo Conference"
 msgstr "Konferenca EnviroInfo"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
-#, fuzzy
-#| msgid ""
-#| "On Wednesday 28 September Okular celebrated becoming the first Blue Angel "
-#| "eco-certified software product together with the German Environment "
-#| "Agency ('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt "
-#| "Campus Birkenfeld'), and the EnviroInfo conference researchers and "
-#| "attendees."
 msgid ""
 "On Wednesday 28 September Okular celebrated becoming the first Blue Angel "
 "eco-certified software product together with the German Environment Agency "
@@ -1805,9 +1798,11 @@ msgid ""
 "with KDE Eco cake.]"
 msgstr ""
 "V sredo 28. septembra je Okular slavil, ko je postal prvi Eko certificiran "
-"programski izdelek modri angel skupaj z nemško Agencijo za "
+"programski izdelek Modri angel skupaj z nemško Agencijo za "
 "okolje('Umweltbundesamt'), okoljski kampus Birkenfeld ('Umwelt Campus "
-"Birkenfeld ') ter raziskovalci in udeleženci konference EnviroInfo."
+"Birkenfeld ') ter raziskovalci in udeleženci konference EnviroInfo. "
+"[Posodobljeno v petek, 7. oktobra 2022 za praznovanje Okularja na Akademy "
+"2022 s KDE Eco torto.]"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:12
 msgid ""
@@ -1815,6 +1810,9 @@ msgid ""
 "[\"Update: Celebrating At Akademy 2022 (1 October)\"]({{< ref \"#akademy\" "
 ">}}).*"
 msgstr ""
+"*Opomba: Ta objava je bila posodobljena v petek, 7. oktobra 2022. Glejte "
+"razdelek [\"Posodobitev: Praznovanje na Akademy 2022 (1. oktober)\"]({{< ref "
+"\"#akademy\">}}).*"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:14
 msgid ""
@@ -1916,7 +1914,7 @@ msgstr ""
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
 msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
-msgstr ""
+msgstr "Posodobitev: Praznovanje na akademiji 2022 (1. oktober) {#akademy}"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
@@ -1924,6 +1922,9 @@ msgid ""
 "Akademy 2022 attendees gathered to celebrate Okular's achievement in the "
 "outdoor gardens at Universitat Politècnica de Catalunya."
 msgstr ""
+"V soboto, 1. oktobra, takoj po panelni razpravi KDE Eco, Udeleženci Akademy "
+"2022 so se zbrali, da bi proslavili Okularjev dosežek v zunanjih vrtovih na "
+"Universitat Policitècnica de Catalunya."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:37
 msgid ""
@@ -1932,6 +1933,10 @@ msgid ""
 "community coming together, smiling, and enjoying the delicious, sugar-free "
 "KDE Eco cake made especially for the occasion."
 msgstr ""
+"Bil je lep dan. Še lepše je bilo videti [sodelavce Okularja](https://invent."
+"kde.org/graphics/okular/-/sgraphs/master) in širša skupnost KDE, ki se "
+"združi, smeje in uživa v okusni torti, KDE Eco cake brez sladkorja narejeni "
+"posebej za to priložnost."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:39
 msgid ""
@@ -1939,17 +1944,19 @@ msgid ""
 "about the celebration and follow us at our [BE4FOSS Mastodon](https://"
 "mastodon.social/web/@BE4FOSS) account."
 msgstr ""
+"Poglejte [toot](https://mastodon.social/web/@be4foss/109093579604779746) o "
+"praznovanju in nas spremljajte na našem [BE4FOSS Mastodon](https://mastodon."
+"social/web/@BE4FOSS) računu."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:43
-#, fuzzy
-#| msgid "![Teams KDE Eco](/blog/images/teams-kde-eco.png)"
 msgid "![KDE Eco cake](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
-msgstr "![Ekipe KDE Eco](/blog/images/teams-kde-eco.png)"
+msgstr "![KDE Eco cake](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:45
 msgid ""
 "*Celebrating Okular and the Blue Angel with KDE Eco cake at Akademy 2022!*"
 msgstr ""
+"*Praznovanje Okular in Modri angel s torto KDE Eco cake na Akademy 2022!*"
 
 #: content/blog/_index.md:0
 msgid "Blog"
