@@ -21,7 +21,7 @@ collections:
   fields: # The fields for each document, usually in front matter
   - { label: 'Title', name: 'title', widget: 'string' }
   - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-  - { label: 'Categories', name: 'categories', widget: 'list' }
+  - { label: 'Categories', name: 'categories', widget: 'list', required: false }
   - { label: 'Author', name: 'author', widget: 'string', default: 'Joseph P. De Veaugh-Geiss' }
   - { label: 'Summary', name: 'summary', widget: 'text' }
   - { label: 'License', name: 'SPDX-License-Identifier', widget: 'string', default: 'CC-BY-4.0' }
