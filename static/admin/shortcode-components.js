@@ -14,7 +14,7 @@ CMS.registerEditorComponent({
             widget: "markdown"
         }
     ],
-    pattern: /{{< container class="(.*?)" >}}\n(.*?)\n{{< \/container >}}/ms,
+    pattern: /{{< container class="(.*?)" >}}\n\n(.*?)\n\n{{< \/container >}}/ms,
     fromBlock: function(match) {
         return {
             class: match[1],
@@ -22,9 +22,9 @@ CMS.registerEditorComponent({
         };
     },
     toBlock: function(obj) {
-        return `{{< container class="${obj.class}" >}}\n${obj.content}\n{{< /container >}}`;
+        return `{{< container class="${obj.class}" >}}\n\n${obj.content}\n\n{{< /container >}}`;
     },
     toPreview: function(obj) {
-        return `<div class="container py-5 ${obj.class}">\n${obj.content}\n</div>`;
+        return `<div class="container py-5 ${obj.class}">\n\n${obj.content}\n\n</div>`;
     },
 });
