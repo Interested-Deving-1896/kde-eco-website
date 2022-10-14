@@ -10,11 +10,15 @@ authors:
 The first line
 
 {{< container class=" " >}}
+
 Container with no class
+
 {{< /container >}}
 
 The line in-between
 
 {{< container class="text-center mt-0 " >}}
+
 Container with two classes
+
 {{< /container >}}
