@@ -43,6 +43,8 @@ languages:
     weight: 1
 markup:
   goldmark:
+    extensions:
+      typographer: false
     renderer:
       unsafe: true
   highlight:
