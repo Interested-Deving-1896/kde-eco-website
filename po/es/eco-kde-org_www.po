@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2022-10-08 00:53+0000\n"
-"PO-Revision-Date: 2022-08-18 23:17+0200\n"
+"PO-Revision-Date: 2022-11-30 15:30+0100\n"
 "Last-Translator: David Marzal <mundolibre@tutanota.com>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 22.04.3\n"
+"X-Generator: Lokalize 22.08.3\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -1818,14 +1818,17 @@ msgid ""
 "Blue Angel Award Ceremony At EnviroInfo Conference: Okular Officially "
 "Receives Eco-Label, First Ever For Software Product"
 msgstr ""
+"Ceremonia de entrega del premio Blue Angel en la Conferencia EnviroInfo: "
+"Okular recibe oficialmente la ecoetiqueta, por primera vez para un producto "
+"de software"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Award Ceremony"
-msgstr ""
+msgstr "Ceremonia de entrega de premios"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "EnviroInfo Conference"
-msgstr ""
+msgstr "Conferencia EnviroInfo"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid ""
@@ -1836,6 +1839,12 @@ msgid ""
 "[Updated on Friday, 7 October 2022 for Okular's celebration at Akademy 2022 "
 "with KDE Eco cake.]"
 msgstr ""
+"El miércoles 28 de septiembre, Okular celebró convertirse en el primer "
+"producto de software con la ecoetiqueta de Blue Angel junto con la Agencia "
+"Alemana de Medio Ambiente ('Umweltbundesamt'), el Campus Ambiental de "
+"Birkenfeld ('Umwelt Campus Birkenfeld'), y los investigadores y asistentes a "
+"la conferencia EnviroInfo. [Actualizado el viernes 7 de octubre de 2022 para "
+"la celebración de Okular en la Akademy 2022 con la tarta KDE Eco]."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:12
 msgid ""
@@ -1843,6 +1852,9 @@ msgid ""
 "[\"Update: Celebrating At Akademy 2022 (1 October)\"]({{< ref \"#akademy\" "
 ">}}).*"
 msgstr ""
+"Nota: Este artículo fue actualizado el viernes 7 de octubre de 2022. Ver "
+"sección [\"Actualización: Celebrando en la Akademy 2022 (1 de octubre)\"]"
+"({{< ref \"#akademy\">}}).*"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:14
 msgid ""
@@ -1852,6 +1864,11 @@ msgid ""
 "officially celebrated for becoming the first software product to receive the "
 "Blue Angel eco-label."
 msgstr ""
+"El miércoles 28 de septiembre de 2022 [Okular](https://okular.kde.org/), un "
+"lector de documentos avanzado, libre y de código abierto, que permite leer, "
+"firmar y anotar PDFs, ePubs, MarkDowns y muchos otros tipos de documentos, "
+"fue oficialmente galardonado por convertirse en el primer producto de "
+"software en recibir la ecoetiqueta Ángel Azul."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:16
 msgid ""
@@ -1864,12 +1881,23 @@ msgid ""
 "currently only eco-certified computer program within the 30 organizations of "
 "the Global Ecolabelling Network, which represents over 50 countries."
 msgstr ""
+"Tal y como se anunció en marzo (leer más [aquí](https://eco.kde.org/"
+"blog/2022- 03-16-press-release-okular-blue-angel/)), Okular ha sido "
+"reconocido por su diseño de software sostenible, tal y como se refleja en "
+"los recientes criterios del premio Blue Angel para la eco-certificación de "
+"software. Introducido en 1978, el Blue Angel es la primera ecoetiqueta del "
+"mundo y la etiqueta medioambiental oficial concedida por el gobierno alemán. "
+"Con este premio, Okular es el primer y único programa informático con "
+"ecocertificación dentro de las 30 organizaciones de la Global Ecolabelling "
+"Network, que representa a más de 50 países."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:20
 msgid ""
 "![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/"
 "blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 msgstr ""
+"![oseph, Harri y Alexander en el escenario de la ceremonia de entrega del "
+"Blue Angel.](/blog/images/2022-09-28_kde-recibir-ecocertificación.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:22
 msgid ""
@@ -1878,6 +1906,10 @@ msgid ""
 "Bornschein from the German Environment Agency with Joseph P. De Veaugh-"
 "Geiss, Alexander Lohnau, and Harri Porten from the KDE community.*"
 msgstr ""
+"*Okular de KDE recibe la ecocertificación Blue Angel de la Agencia Alemana "
+"de Medio Ambiente ('Umweltbundesamt'). De izquierda a derecha: Mathias "
+"Bornschein, de la Agencia Alemana de Medio Ambiente, con Joseph P. De Veaugh-"
+"Geiss, Alexander Lohnau y Harri Porten, de la comunidad KDE.*"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:27
 msgid ""
@@ -1887,6 +1919,11 @@ msgid ""
 "Lohnau, and Harri Porten -- were on stage to receive the award on behalf of "
 "Okular and the KDE community."
 msgstr ""
+"La ceremonia de entrega tuvo lugar en la 36ª edición de la [conferencia "
+"EnviroInfo](https://informatik2022.gi.de/en/enviroinfo-2022) en Hamburgo, "
+"Alemania. Tres miembros de la comunidad KDE - Joseph P. De Veaugh-Geiss, "
+"Alexander Lohnau y Harri Porten -, estuvieron en el escenario para recibir "
+"el premio en nombre de Okular y de la comunidad KDE."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:29
 msgid ""
@@ -1900,16 +1937,28 @@ msgid ""
 "Agency ('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt "
 "Campus Birkenfeld'), and the larger EnviroInfo community."
 msgstr ""
+"EnviroInfo es una conferencia internacional e interdisciplinaria centrada en "
+"los problemas medioambientales de las tecnologías de la información y la "
+"comunicación. Los investigadores y asistentes al evento están, citando la "
+"página web, \"[c]ombinando y dando forma a las actividades nacionales e "
+"internacionales en el campo de la informática aplicada y la informática "
+"medioambiental para hacer del mundo un lugar mejor para vivir\". La "
+"comunidad KDE se siente honrada de haber celebrado el logro de Okular en el "
+"evento junto con la Agencia Alemana de Medio Ambiente ('Umweltbundesamt'), "
+"el Campus Ambiental de Birkenfeld ('Umwelt Campus Birkenfeld') y la "
+"comunidad EnviroInfo en general."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:31
 msgid ""
 "Congratulations to Okular and KDE for official recognition of the "
 "outstanding work you are doing!"
 msgstr ""
+"Enhorabuena a Okular y a KDE por el reconocimiento oficial del trabajo que "
+"estáis haciendo."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
 msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
-msgstr ""
+msgstr "Actualización: Celebrando en la Akademy 2022 (1 de octubre) {#akademy}"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
@@ -1917,6 +1966,9 @@ msgid ""
 "Akademy 2022 attendees gathered to celebrate Okular's achievement in the "
 "outdoor gardens at Universitat Politècnica de Catalunya."
 msgstr ""
+"El sábado 1 de octubre, inmediatamente después de la mesa redonda de KDE Eco "
+"los asistentes a la Akademy 2022 se reunieron para celebrar el logro de "
+"Okular en los jardines exteriores de la Universidad Politécnica de Cataluña."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:37
 msgid ""
@@ -1925,6 +1977,10 @@ msgid ""
 "community coming together, smiling, and enjoying the delicious, sugar-free "
 "KDE Eco cake made especially for the occasion."
 msgstr ""
+"Fue un día precioso. Más bonito aún fue ver a los [colaboradores de Okular]"
+"(https://invent.kde.org/graphics/okular/-/graphs/master) y la comunidad KDE "
+"en general reunirse, sonreír y disfrutar de la deliciosa tarta eco de KDE, "
+"sin azúcar, hecha especialmente para la ocasión."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:39
 msgid ""
@@ -1932,17 +1988,19 @@ msgid ""
 "about the celebration and follow us at our [BE4FOSS Mastodon](https://"
 "mastodon.social/web/@BE4FOSS) account."
 msgstr ""
+"Vean el [toot](https://mastodon.social/web/@BE4FOSS/109093579604779746) "
+"sobre la celebración y síguenos en nuestra cuenta [BE4FOSS Mastodon]"
+"(https:// mastodon.social/web/@BE4FOSS)."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:43
-#, fuzzy
-#| msgid "![Teams KDE Eco](/blog/images/teams-kde-eco.png)"
 msgid "![KDE Eco cake](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
-msgstr "![Equipos KDE Eco](/blog/images/teams-kde-eco.png)"
+msgstr "![Tarta KDE Eco](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:45
 msgid ""
 "*Celebrating Okular and the Blue Angel with KDE Eco cake at Akademy 2022!*"
 msgstr ""
+"*¡Celebrando Okular y el Blue Angel con la tarta KDE Eco en la Akademy 2022!*"
 
 #: content/blog/_index.md:0
 msgid "Blog"
