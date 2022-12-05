@@ -1,5 +1,5 @@
 ---
-date: 2022-12-02
+date: 2022-12-05
 title: "Guest Post: OpenUK Awards 2022 Sustainability"
 categories:  [Sustainability]
 author: Jonathan Esk-Riddell
