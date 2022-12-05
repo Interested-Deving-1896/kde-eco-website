@@ -40,3 +40,6 @@ Scores from our judges were high for all of these but the final trophy went to C
 *The OpenUK Awards 2022 at the House of Lords*
 
 {{< /container >}}
+
+The work of KDE is made possible thanks to the contributions from KDE Community members, donors and corporations that support us. Every individual counts, and every commitment, large or small, is a commitment to Free Software. Head to the [KDE's End of Year fundraiser page and donate now](https://dot.kde.org/2022/12/02/kdes-end-year-fundraiser-live).
+
