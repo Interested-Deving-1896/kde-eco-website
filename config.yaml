@@ -21,6 +21,7 @@ i18n:
       - content/FEEP/*.md
   genToOtherDir: true
   others:
+  - description
   - title
   - menu
   - strings
@@ -39,6 +40,8 @@ languages:
       - name: Donate
         url: https://kde.org/community/donations/
         weight: 10
+    params:
+      description: Building Energy-Efficient Free Software
     title: KDE Eco
     weight: 1
 markup:
