@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-08 00:53+0000\n"
+"POT-Creation-Date: 2023-01-05 00:52+0000\n"
 "PO-Revision-Date: 2022-10-09 12:41+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@neuf.fr>\n"
 "Language-Team: French <kde-francophone@kde.org>\n"
@@ -20,6 +20,10 @@ msgid "KDE Eco"
 msgstr "KDE Eco"
 
 #: config.yaml:0
+msgid "Building Energy-Efficient Free Software"
+msgstr "Création de logiciels économes en énergie"
+
+#: config.yaml:0
 msgid "FEEP"
 msgstr "FEEP"
 
@@ -30,10 +34,6 @@ msgstr "BE4FOSS"
 #: config.yaml:0
 msgid "Donate"
 msgstr "Faire un don"
-
-#: content/_index.md:0
-msgid "Building Energy-Efficient Free Software"
-msgstr "Création de logiciels économes en énergie"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"

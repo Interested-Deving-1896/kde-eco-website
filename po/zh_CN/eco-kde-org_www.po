@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-08 00:53+0000\n"
+"POT-Creation-Date: 2023-01-05 00:52+0000\n"
 "PO-Revision-Date: 2023-01-02 07:12\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
@@ -26,6 +26,10 @@ msgid "KDE Eco"
 msgstr ""
 
 #: config.yaml:0
+msgid "Building Energy-Efficient Free Software"
+msgstr ""
+
+#: config.yaml:0
 msgid "FEEP"
 msgstr ""
 
@@ -35,10 +39,6 @@ msgstr ""
 
 #: config.yaml:0
 msgid "Donate"
-msgstr ""
-
-#: content/_index.md:0
-msgid "Building Energy-Efficient Free Software"
 msgstr ""
 
 #: content/BE4FOSS/_index.md:0
