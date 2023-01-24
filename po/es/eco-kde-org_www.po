@@ -1,12 +1,12 @@
 #
 # Eloy Cuadra <ecuadra@eloihr.net>, 2021, 2022.
-# David Marzal <mundolibre@tutanota.com>, 2021, 2022, %Y.
+# David Marzal <mundolibre@tutanota.com>, 2021, 2022, 2023, %Y.
 msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-01-05 00:52+0000\n"
-"PO-Revision-Date: 2022-11-30 15:30+0100\n"
+"PO-Revision-Date: 2023-01-21 07:57+0100\n"
 "Last-Translator: David Marzal <mundolibre@tutanota.com>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 22.08.3\n"
+"X-Generator: Lokalize 22.12.1\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -1882,7 +1882,7 @@ msgid ""
 "the Global Ecolabelling Network, which represents over 50 countries."
 msgstr ""
 "Tal y como se anunció en marzo (leer más [aquí](https://eco.kde.org/"
-"blog/2022- 03-16-press-release-okular-blue-angel/)), Okular ha sido "
+"blog/2022-03-16-press-release-okular-blue-angel/)), Okular ha sido "
 "reconocido por su diseño de software sostenible, tal y como se refleja en "
 "los recientes criterios del premio Blue Angel para la eco-certificación de "
 "software. Introducido en 1978, el Blue Angel es la primera ecoetiqueta del "
@@ -1896,8 +1896,8 @@ msgid ""
 "![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/"
 "blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 msgstr ""
-"![oseph, Harri y Alexander en el escenario de la ceremonia de entrega del "
-"Blue Angel.](/blog/images/2022-09-28_kde-recibir-ecocertificación.webp)"
+"![Joseph, Harri y Alexander en el escenario de la ceremonia de entrega del "
+"Blue Angel.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:22
 msgid ""
@@ -1989,8 +1989,8 @@ msgid ""
 "mastodon.social/web/@BE4FOSS) account."
 msgstr ""
 "Vean el [toot](https://mastodon.social/web/@BE4FOSS/109093579604779746) "
-"sobre la celebración y síguenos en nuestra cuenta [BE4FOSS Mastodon]"
-"(https:// mastodon.social/web/@BE4FOSS)."
+"sobre la celebración y síguenos en nuestra cuenta [BE4FOSS Mastodon](https://"
+"mastodon.social/web/@BE4FOSS)."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:43
 msgid "![KDE Eco cake](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
