@@ -1,0 +1,55 @@
+{{ define "main" }}
+<main id="top" role="main">
+	<section class="section-blue mt-0">
+		<div class="container p-5 row mx-auto">
+			<div class="col-lg-8">
+
+				<h1 class="my-2">{{ .Title | humanize }}&nbsp;{{ partial "rss_section.html" . }}</h1>
+				{{ $title := .Title }}
+
+				<h2>Applying the Blue Angel criteria to Free
+					Software</h2>
+				<h6>Our website is always up to date, and PDF version receives periodical updates</h6>
+			</div>
+			<div class="col m-auto">
+				<a href="/handbook/handbook.pdf"
+					download="KDE Eco - Applying the Blue Angel criteria to Free Software.pdf">
+
+					<button type="button" class="btn btn-outline-success btn-lg">Download PDF (Dec 2022
+						Release)</button>
+				</a>
+			</div>
+		</div>
+	</section>
+	<div class="container ">
+
+		<div class="handbook row">
+			<div class="my-5 toc col-lg-4 ">
+				<div class="sticky">
+
+					<h2>Table of contents</h2>
+					{{ range .Pages }}
+
+					{{ .Page.TableOfContents }}
+					{{ end }}
+				</div>
+				<br>
+			</div>
+			<div class="content col">
+
+				<!-- Ranges through content/posts/*.md -->
+				{{ range .Pages }}
+				<div class="my-5 ">
+					{{.Content}}
+				</div>
+				{{ end }}
+			</div>
+		</div>
+		<!-- <a href="#" class="top">Scroll to top ↑</a> -->
+
+	</div>
+
+
+	</div>
+</main>
+{{ end }}
