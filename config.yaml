@@ -45,6 +45,10 @@ languages:
     title: KDE Eco
     weight: 1
 markup:
+  tableOfContents:
+    startLevel: 1
+    endLevel: 2
+    ordered: false
   goldmark:
     extensions:
       typographer: false
