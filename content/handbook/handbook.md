@@ -267,7 +267,7 @@ Software products that comply with the award criteria are less likely to suffer 
 
 With its focus on transparency in resource and energy-efficiency, hardware operating life, and user autonomy, the Blue Angel award criteria for software provides an comprehensive framework to begin a discussion around software sustainability. In FOSS communities, we often take user autonomy and transparency and their benefits for granted. Although being Free & Open Source Software is not a requirement to obtain the Blue Angel ecolabel, it is in this category that FOSS really shines&mdash;in so many ways, we are already at the forefront of sustainable software design!
 
-## <a name="sec:okular"></a> First Eco-Certified Computer Program: KDE's Popular Document Reader Okular
+## First Eco-Certified Computer Program: KDE's Popular Document Reader Okular
 
 ![Okular's energy consumption report.](images/sec2_okular-energy-consumption.png)
 
