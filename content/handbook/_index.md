@@ -1,7 +1,7 @@
 ---
 Title: Handbook
 Description: KDE Demo Handbook
-layout: list.html
+layout: handbook.html
 resources:
 menu:
   main:
