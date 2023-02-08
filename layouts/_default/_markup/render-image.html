@@ -1,4 +1,4 @@
 <figure>
-	<img src="{{ .Destination | safeURL }}" class="img-fluid" alt="{{ .Text }}">
+	<img src="{{ .Destination | safeURL }}" loading="lazy" class="img-fluid" alt="{{ .Text }}">
 	<figcaption> <b>Figure : </b>{{ .Text | safeHTML }}</figcaption>
 </figure>
