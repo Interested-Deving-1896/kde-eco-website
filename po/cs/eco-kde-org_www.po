@@ -1,11 +1,11 @@
 #
-# Vit Pelcak <vit@pelcak.org>, 2021, 2022.
+# Vit Pelcak <vit@pelcak.org>, 2021, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-01-05 00:52+0000\n"
-"PO-Revision-Date: 2022-10-10 16:50+0200\n"
+"PO-Revision-Date: 2023-02-10 11:05+0100\n"
 "Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 22.08.1\n"
+"X-Generator: Lokalize 22.12.2\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -1501,7 +1501,7 @@ msgstr ""
 
 #: content/get-involved.md:0
 msgid "Get Involved"
-msgstr "Přidejte se"
+msgstr "Zapojte se"
 
 #: content/get-involved.md:9
 msgid "Become a part of the sustainable software movement"
@@ -1604,7 +1604,7 @@ msgstr "Více informací"
 
 #: i18n/en.yaml:0
 msgid "**Get Involved**"
-msgstr "**Přidejte se**"
+msgstr "**Zapojte se**"
 
 #: i18n/en.yaml:0
 msgid "Join us for a sustainable software development movement!"
