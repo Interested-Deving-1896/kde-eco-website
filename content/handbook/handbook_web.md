@@ -17,7 +17,7 @@ float-placement-figure: ht
 ---
 
 
-# INTRODUCTION: WHAT'S THIS HANDBOOK ALL ABOUT?
+# INTRODUCTION: WHAT'S THIS ALL ABOUT?
 
 This handbook provides a brief overview of environmental harm driven by software, and how the Blue Angel ecolabel&mdash;the official environmental label of the German government&mdash;provides a benchmark for sustainable software design.
 
@@ -1215,6 +1215,7 @@ There are many initiatives working on tooling for measuring the energy consumpti
  - [Green Web Foundation](https://www.thegreenwebfoundation.org/)
  
    The Green Web Foundation tracks and accelerates the transition to a fossil-free internet.
+
 
 
 # About
