@@ -600,15 +600,15 @@ When using the Gude Power Meter with the [Python script](https://invent.kde.org/
 
 The raw data can be preprocessed in R: Nanoseconds in Epoch time can be converted to date-time with the command `as.POSIXct(<NANOSECONDS>/1000000, origin = '1970-01-01', tz = 'Europe/Berlin')`. For example, the nanoseconds in row 1 from the raw output is "2022-08-27 16:52:03 CEST" after conversion.
 
-For use with OSCAR, this date-time should then be converted to a character string with the date as DD.MM.YY followed by a comma. All of this can be achieved with one command (this operation can be vectorized over the entire column in the data frame); replace the YYYY-MM-DD date with the date of your measurements:
+For use with OSCAR, this date-time should then be converted to a character string with the date as DD.MM.YY followed by a comma. All of this can be achieved with one command (this operation can be vectorized over the entire column in the data frame); replace the YYYY-MM-DD date with the date of your measurements: 
 
-    `stringr::str_replace(as.character(as.POSIXct(1661611923019071/1000000, origin = '1970-01-01', tz = 'Europe/Berlin')), '2022-08-27', '27.08.22,')`
+`stringr::str_replace(as.character(as.POSIXct(1661611923019071/1000000, origin = '1970-01-01', tz = 'Europe/Berlin')), '2022-08-27', '27.08.22,')`
 
 The output in Watts should be averaged per second. The same data above is shown below after processing with R; note the 7 values above are averaged per second, resulting in two rows.
 
 To save the CSV file with a semi-colon separator, the first column with row names starting at the number 1, and no string delimiter, use the following R command:
 
-    `write.csv2(<DATAFRAME>, file = <PATH/TO/FILE.csv>, row.names = TRUE, quote = FALSE)`
+`write.csv2(<DATAFRAME>, file = <PATH/TO/FILE.csv>, row.names = TRUE, quote = FALSE)`
 
 The result should look something like the following:
 
