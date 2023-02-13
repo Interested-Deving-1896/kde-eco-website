@@ -1,8 +1,9 @@
 ---
 author: KDE Eco
 date: 8 February 2023
-title: Applying The Blue Angel Criteria To Free Software
-subtitle: "A handbook to certifying software as sustainable"
+title: "Applying The Blue Angel Criteria To Free Software"
+subtitle: "A Handbook To Certifying Software As Sustainable (February 2023)"
+date: "2023-02-13"
 lang: "en"
 toc : true
 toc-own-page : true
@@ -17,7 +18,7 @@ float-placement-figure: ht
 ---
 
 
-# INTRODUCTION: WHAT'S THIS ALL ABOUT?
+# Introduction: What's This All About?
 
 This handbook provides a brief overview of environmental harm driven by software, and how the Blue Angel ecolabel&mdash;the official environmental label of the German government&mdash;provides a benchmark for sustainable software design.
 
@@ -34,7 +35,7 @@ The book is divided into three parts:
 While Part I explores the *why* and Part II the *what* of software eco-certification, Part III discusses the *how* by explaining what you need to know to measure the energy consumption of your software and apply for the Blue Angel ecolabel. Specifically, in this section we provide a step-by-step guide to fullfilling the ABCs of the award criteria: (A) Resource & Energy Efficiency, (B) Potential Hardware Operating Life, and (C) User Autonomy.
 
 
-# PART I: ENVIRONMENTAL IMPACT OF SOFTWARE
+# Part I: Environmental Impact Of Software
 
 ![Photograph of e-waste. (Image published under a [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste.jpg)
 
@@ -187,7 +188,7 @@ Structural change happens when dedicated, passionate people organize to confront
 Some material in this section is based directly on text from two Wikipedia articles: (i) ["*Waste Electrical and Electronic Equipment Directive*"](https://en.wikipedia.org/wiki/Waste_Electrical_and_Electronic_Equipment_Directive) and (ii) ["*Electronic waste*"](https://en.wikipedia.org/wiki/Electronic_Waste). Both texts are released under the [Creative Commons Attribution-Share-Alike License 3.0](https://spdx.org/licenses/CC-BY-SA-3.0.html).
 
 
-# PART II: ECO-CERTIFYING DESKTOP SOFTWARE
+# Part II: Eco-Certifying Desktop Software
 
 ![KDE’s popular multi-platform PDF reader and universal document viewer Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](images/sec2_okular-BE-logo.png)
 
@@ -201,7 +202,7 @@ Specifically, the eco-certification criteria requires transparency about the sof
 
 This section provides a broad overview of the Blue Angel and the ABCs of the [award criteria for desktop software](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products). It also demonstrates how meeting the award criteria can reduce environmental harm. In particular, we will zoom in here on details about the user autonomy requirements of the Blue Angel award criteria, which we will return to in PART III. But first, a brief introduction to the Blue Angel and the KDE Eco initiative. 
 
-## The Blue Angel
+## The Blue Angel For Desktop Software
 
 Introduced in 1978, the Blue Angel is the first ecolabel worldwide and the official environmental label awarded by the German government. The label is adminstered by Germany's Federal Ministry for the Environment, Nature Conservation, Nuclear Safety, and Consumer Protection (German: *Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz*, or BMUV). The Blue Angel ecolabel is also a member of the [Global Ecolabelling Network (GEN)](https://globalecolabelling.net/), an international network of Type I ecolabels which [at the time of writing](https://web.archive.org/web/20221026003053/https://globalecolabelling.net/) has 37 members across nearly 60 countries. 
 
@@ -215,7 +216,7 @@ The Blue Angel ecolabel has been awarded to around 100 product groups and servic
 
 The award criteria for certification are developed transparently by the German Environment Agency. The process includes the Environmental Label Jury, a body made up of suppliers as well as civil society organizations and research institutions. The independent third-party auditor RAL gGmbH assesses compliance with the criteria and awards the seal. Importantly, the Blue Angel does not certify that a product is completely harmless. Instead, certified products represent a "lesser evil" with respect to environmental harm&mdash;this can be summed up with the motto '*as little as possible, as much as necessary*'. Rather than compare different products, the Blue Angel ecolabel indicates that a product fulfills a list of requirements for a specific category.
 
-## The ABCs Of The Award Criteria For Desktop Software
+## The ABCs Of The Award Criteria
 
 The Blue Angel's award criteria for ["Resource and Energy-Efficient Software Products"](https://www.blauer-engel.de/en/products/electric-devices/resources-and-energy-efficient-software-products) were released in January 2020. There are two primary objectives of the Blue Angel for software: (i) to award software with lower performance requirements such that "longer operating lives for [...] hardware are possible"; and (ii) to recognize products which "stand out due to their high level of transparency and give users greater freedom in their use of the software" (p. 6). To achieve this, there are three main categories, referred to here as the ABCs of the award criteria: (A) Resource & Energy Efficiency, (B) Potential Hardware Operating Life, (C) User Autonomy.
 
@@ -263,13 +264,13 @@ Software design that complies with the award criteria is less likely to suffer f
 
 With its focus on transparency in resource and energy-efficiency, hardware operating life, and user autonomy, the Blue Angel award criteria for software provides a comprehensive framework to begin a discussion around software sustainability. In FOSS communities, we often take user autonomy and transparency and their benefits for granted. Although being Free & Open Source Software is not a requirement to obtain the Blue Angel ecolabel, it is in this category that FOSS really shines. In so many ways, we are already at the forefront of sustainable software design!
 
-## <a name="sec:okular"></a> First Eco-Certified Computer Program: KDE's Popular Document Reader Okular
+## Okular, The First Eco-Certified Computer Program
 
-![Icon for KDE's popular application Okular.](images/sec2_okular.png)
+![Okular's energy consumption report from OSCAR (**O**pen source **S**oftware **C**onsumption **A**nalysis in **R**).](images/sec2_okular-energy-consumption.png)
 
 In 2022 [Okular](https://okular.kde.org/), KDE’s popular multi-platform PDF reader and universal document viewer, was the first software product to be officially recognized for sustainable software design as reflected in the Blue Angel award criteria. Okular is also the first eco-certified computer program within the Global Ecolabelling Network, representing nearly 60 countries. 
 
-Okular is just one software product maintained by KDE, a world-wide community of software engineers, artists, writers, translators, and creators who are committed to Free Software development. KDE maintains numerous FOSS products, including the Plasma desktop environment; the design app for painters and graphic artists, Krita; the GCompris suite of educational activities for children; Kdenlive, a professional video-editing software product; and of course Okular, a document viewer for PDFs, comics, scientific and academic papers, and technical drawings. 
+Okular is just one software product maintained by KDE, a world-wide community of software engineers, artists, writers, translators, and creators who are committed to Free Software development. KDE maintains numerous FOSS products, including the Plasma desktop environment; the design app for painters and graphic artists, Krita; the GCompris suite of educational activities for children; Kdenlive, a professional video-editing software product; and of course Okular, a document viewer for PDFs, comics, scientific and academic papers, and technical drawings.
 
 With KDE’s long-standing mission and guiding vision since its founding in 1996, as well as the talent and capabilities of its community members, KDE is a pioneer in championing sustainable software. In 2021 KDE started KDE Eco, a project with the goal of putting KDE and Free Software at the forefront of sustainable software design. Sustainability is not new for Free & Open Source Software (FOSS)&mdash;the [four freedoms](https://fsfe.org/freesoftware/index.en.html) have always made [Free Software sustainable software](https://fsfe.org/freesoftware/sustainability/). But now, the two pillars of FOSS&mdash;transparency and user autonomy&mdash;have wider recognition for their impacts on sustainability, and were incorporated into the sustainability criteria set by the German Environment Agency through the Blue Angel ecolabel.
 
@@ -279,9 +280,9 @@ With the first ever eco-certified software product, the KDE community [celebrate
 
 The Blue Angel award criteria reflect KDE’s values and those of the larger FOSS movement seamlessly. Free & Open Source Software guarantees transparency and hands control over to users, rather than obligating them to work with certain vendors or service providers. This allows users to decide what they want from the software they use and in turn, make decisions about the hardware they use as well. Users might be able to reduce the energy consumption of their programs with little or no loss in functionality, installing only what they need, no more and no less; they can also avoid invasive advertising or data-mining options which run processes in the background, further consuming resources on the device and in the network. As for FOSS developers, they typically continue to support hardware that the industry would be eager to make obsolete, providing users with up-to-date and secure software for devices that might otherwise be discarded as e-waste and end up polluting landfills.
 
-![Okular's energy consumption report from OSCAR (**O**pen source **S**oftware **C**onsumption **A**nalysis in **R**).](images/sec2_okular-energy-consumption.png)
-
 Released under the GPLv2+ license, Okular is FOSS and therefore already fulfilling many of the user autonomy criteria necessary to obtain the Blue Angel seal of approval. Further work was carried out to make Okular fully compliant with the award criteria by documenting user autonomy features, providing transparency in energy and resource consumption, and supporting the potential extension of the hardware operating life of devices.
+
+![Icon for KDE's popular application Okular.](images/sec2_okular.png)
 
 Okular lets you check digital signatures and sign documents yourself, as well as include annotated text and comments directly embedded into the document. Okular works on Linux, Windows, Android, and Plasma Mobile, and it is available to download for all GNU/Linux distributions, as a standalone package from Flathub and the Snap Store, through the KDE F-Droid release repository for Android, as well as from the Microsoft Store. The source code is also readily available at [Okular’s GitLab repository](https://invent.kde.org/graphics/okular) for all to use, study, share, improve, and most of all, enjoy.
 
@@ -320,7 +321,7 @@ Receiving the Blue Angel seal can raise your product's profile not only among in
 Some material in this section is based directly on text from two Wikipedia articles: (i) ["*Blue Angel (certification)*"](https://en.wikipedia.org/wiki/Blue_Angel_(certification)) and (ii) ["*Software bloat*"](https://en.wikipedia.org/wiki/Software_bloat). Both texts are released under the [Creative Commons Attribution-Share-Alike License 3.0](https://spdx.org/licenses/CC-BY-SA-3.0.html). Some material in this section is also based directly on the KDE Eco blog post ["*First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular*"](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/), which is released under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://spdx.org/licenses/CC-BY-SA-4.0.html).
 
 
-# PART III: FULFILLING THE BLUE ANGEL AWARD CRITERIA
+# Part III: Fulfilling The Blue Angel Award Criteria
 
 ![Monitoring energy and hardware consumption in real time with KDE's `LabPlot`. (Image from Alexander Semke published under a [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.)](images/sec3_labplot_live-measurement.png)
 
@@ -696,11 +697,9 @@ Note that the baseline measurements are always uploaded along with either the id
 
 See below for what a completed upload for the *Nutzungsszenario* looks like.
 
-![Uploading the measurement data (German: *Upload Messdaten*) in OSCAR.](images/sec3_oscar_2_upload.png)
+![Uploading the measurement data (German: *Upload Messdaten*).](images/sec3_oscar_2_upload.png)
 
-###### Timestamps
-
-Once the data has been uploaded, you will need to tell `OSCAR` how to read the data.
+***Timestamps*** &nbsp;&nbsp; Once the data has been uploaded, you will need to tell `OSCAR` how to read the data.
 
 Let's start with the timestamp format (German: *Formatierung Zeitstempel*). This is one aspect of the process which can cause problems if not done correctly. This is done under *(2) Upload Messdaten* > *Formatierung Zeitstempel*.
 
@@ -718,11 +717,9 @@ Consider the Okular data:
   
    In `OSCAR`, this is specified as: "%d.%m.%Y %H:%M:%OS" (see screenshot below), in which the uppercase "%Y" indicates a year with four digits.
 
-![Specifying the format of the timestamps (German: *Formatierung Zeitstempel*) in OSCAR.](images/sec3_oscar_3_timestamp.png)
+![Specifying the format of the timestamps (German: *Formatierung Zeitstempel*).](images/sec3_oscar_3_timestamp.png)
 
-###### Measurement Data
-
-After the timestamps have been correctly specified, let's explore the format of the measurement data (German: *Formatierung Messdaten*) in `OSCAR`.
+***Measurement Data*** &nbsp;&nbsp; After the timestamps have been correctly specified, let's explore the format of the measurement data (German: *Formatierung Messdaten*) in `OSCAR`.
 
 First, take a look at the log file of actions (German: *Aktionen*). This is done under *(2) Upload Messdaten* > *Formatierung Messdaten* > *Aktionen*.
 
@@ -740,7 +737,7 @@ For the Okular data, this is defined as follows in the following screenshot: "fi
 
 When everything is defined correctly, a preview of the spreadsheet will be shown.
 
-![Specifying the format of the measurement data (German: *Formatierung Messdaten*) for the log file of actions (German: *Aktionen*) in OSCAR.](images/sec3_oscar_4_actions.png)
+![Specifying the format of the measurement data (German: *Formatierung Messdaten*) for the log file of actions (German: *Aktionen*).](images/sec3_oscar_4_actions.png)
 
 Second, take a look at the energy consumption measurements (German: *Elektrische Leistung*). This is done under *(2) Upload Messdaten* > *Formatierung Messdaten* > *Elektrische Leistung*.
 
@@ -750,7 +747,7 @@ For the Okular data here, this is a semi-colon separator, double quotation strin
 
 When everything is defined correctly, a preview of the spreadsheet will be shown.
 
-![Specifying the format for the energy consumption measurements (German: *Elektrische Leistung*) in OSCAR.](images/sec3_oscar_5_energy.png)
+![Specifying the format for the energy consumption data (German: *Elektrische Leistung*).](images/sec3_oscar_5_energy.png)
 
 Finally, take a look at the hardware performance data (German: *Hardware-Auslastung*). This is done under *(2) Upload Messdaten* > *Formatierung Messdaten* > *Hardware-Auslastung*.
 
@@ -769,9 +766,9 @@ For the columns specification, the following need to be identified; select NA fo
  - *Auf Festplatte geschrieben*: Disk written (i.e., 'X.DSK.WriteKBTot')
  - *Auslastung Auslagerungsdatei*: Swap (here, 'N/A')
 
-![Specifying the format for the hardware performance measurements (German: *Hardware-Auslastung*) in OSCAR.](images/sec3_oscar_6_hw.png)
+![Specifying the format for the hardware performance data (German: *Hardware-Auslastung*).](images/sec3_oscar_6_hw.png)
 
-###### Translations
+##### Translations
 
 Here is an overview of some of the German terminology used in `OSCAR` and the English translations:
 
@@ -808,7 +805,7 @@ Here is an overview of some of the German terminology used in `OSCAR` and the En
 
 After completing the above, the report can be generated and downloaded. You will need to do this process twice, once for (i) the idle mode and (ii) standard usage scenario measurements, resulting in two documents.
 
-![OSCAR screenshot&mdash;Generating the report (German: *Bericht erzeugen*).](images/sec3_oscar_7_report.png)
+![Generating the report (German: *Bericht erzeugen*).](images/sec3_oscar_7_report.png)
 
 For Blue Angel eco-certification, the two reports will be submitted for evaluation by RAL.
 
@@ -1224,9 +1221,7 @@ There are many initiatives working on tooling for measuring the energy consumpti
 
 KDE Eco tooling and documentation are provided by community members who have volunteered to contribute to this project for the benefit of all. Primary contributors include (listed in alphabetical order by first name): Arne Tarara, Cornelius Schumacher, Emmanuel Charruau, Karanjot Singh, Nicolas Fella, and Volker Krause. Thank you&mdash;your contributions make this handbook possible.
 
-The text of this version of the handbook was written and/or compiled from the above documentation by Joseph P. De Veaugh-Geiss. Olea Morris edited the text. Lana Lutz and Arwin Neil Baichoo made the book and website design as well as the images therein beautiful. Paul Brown made significant improvements to the Okular blog post adapted in Section ["First Eco-Certified Computer Program: KDE's Popular Document Reader Okular"](#sec:sec:okular). Wikipedia was a source for several texts which were included here in modified form. Thank you to the community of Wikipedia writers and editors for making such a wonderful resource for all of us. See the end of each section for additional information about sources.
-
-The PDF of the handbook was generated using the [Evisogel](https://github.com/Wandmalfarbe/pandoc-latex-template) pandoc LaTeX template by [Pascal Wagler](https://github.com/Wandmalfarbe).
+The text of this version of the handbook was written and/or compiled from the above documentation by Joseph P. De Veaugh-Geiss. Olea Morris edited the text. Lana Lutz and Arwin Neil Baichoo made the book and website design as well as the images therein beautiful. Paul Brown made significant improvements to the Okular blog post adapted for "Okular, The First Eco-Certified Computer Program" in Part II. Wikipedia was a source for several texts which were included here in modified form. Thank you to the community of Wikipedia writers and editors for making such a wonderful resource for all of us. See the end of each section for additional information about sources.
 
 ## Acknowledgments
 
