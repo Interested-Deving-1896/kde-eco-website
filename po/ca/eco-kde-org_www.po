@@ -1,5 +1,5 @@
 # Translation of eco-kde-org_www.po to Catalan
-# Copyright (C) 2021-2022 This_file_is_part_of_KDE
+# Copyright (C) 2021-2023 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
@@ -1517,7 +1517,7 @@ msgstr ""
 "El projecte BE4FOSS ha estat finançat per l'Agència Federal del Medi Ambient "
 "i el Ministeri Federal de Medi Ambient, Conservació de la Naturalesa, "
 "Seguretat Nuclear i Protecció del Consumidor (BMUV<sup><a id=\"fnr.1\" class="
-"\"footref\" href=\"#fn.1\">1</a></sup>), que organitza el Tag des "
+"\"footref\" href=\"#fn.1\">1</a></sup>), que organitza el *Tag des "
 "Energiesparens* (Dia de conservació de l'energia). Els fons estan "
 "disponibles per una resolució del Bundestag alemany."
 
