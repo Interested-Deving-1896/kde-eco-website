@@ -1,43 +1,45 @@
-# Frederik Schwarzer <schwarzer@kde.org>, 2022.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-01-05 00:52+0000\n"
-"PO-Revision-Date: 2022-03-13 09:24+0100\n"
-"Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
-"Language-Team: German <kde-i18n-doc@kde.org>\n"
-"Language: de\n"
+"PO-Revision-Date: 2023-01-05 00:52+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 21.12.3\n"
+"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
+"SPDX-License-Identifier: LGPL-3.0-or-later\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
 msgid "KDE Eco"
-msgstr "KDE Eco"
+msgstr ""
 
 #: config.yaml:0
 msgid "Building Energy-Efficient Free Software"
-msgstr "Freie Software energieeffizient entwickeln"
+msgstr ""
 
 #: config.yaml:0
 msgid "FEEP"
-msgstr "FEEP"
+msgstr ""
 
 #: config.yaml:0
 msgid "BE4FOSS"
-msgstr "BE4FOSS"
+msgstr ""
 
 #: config.yaml:0
 msgid "Donate"
-msgstr "Spenden"
+msgstr ""
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
-msgstr "Umweltzeichen"
+msgstr ""
 
 #: content/BE4FOSS/_index.md:9
 msgid ""
@@ -47,12 +49,6 @@ msgid ""
 "extending the potential operating life of hardware, and user autonomy … all "
 "of which fit seamlessly with free and open source software."
 msgstr ""
-"2020 hat das Umweltbundesamt die Vergabekriterien zum Erlangen des „Blauer "
-"Engel“-Nachhaltigkeitslabels für Desktop-Software veröffentlicht. Zu den "
-"Kategorien für die Zertifizierung gehören z. B. Energieeffizienz oder die "
-"Verlängerung der potenziellen Nutzungsdauer von Hardware und "
-"Benutzer*innenautonomie. Die Kriterien sind ohnehin größtenteils schon in "
-"Freier und Open-Source-Software umgesetzt."
 
 #: content/BE4FOSS/_index.md:11
 msgid ""
@@ -60,53 +56,44 @@ msgid ""
 "software in the FOSS community. Obtaining the Blauer Engel label occurs in 3 "
 "steps: (1) MEASURE, (2) ANALYZE, and (3) CERTIFY."
 msgstr ""
-"Das BE4FOSS-Projekt fördert die Öko-Zertifizierung für ressourceneffiziente "
-"Software in der FOSS-Community. Die „Blauer Engel“-Zertifizierung erfolgt in "
-"3 Schritten: (1) MESSEN, (2) ANALYSIEREN, und (3) ZERTIFIZIEREN."
 
 #: content/BE4FOSS/_index.md:12
 msgid "MEASURE in dedicated labs, such as at KDAB Berlin"
-msgstr "**MESSEN** in Laboren, wie z. B. bei KDAB Berlin"
+msgstr ""
 
 #: content/BE4FOSS/_index.md:13
 msgid ""
 "ANALYZE using statistical tools such as OSCAR (Open source Software "
 "Consumption Analysis in R)"
 msgstr ""
-"**ANALYSIEREN** mit statistischen Tools wie OSCAR (Open source Software "
-"Consumption Analysis in R)"
 
 #: content/BE4FOSS/_index.md:14
 msgid ""
 "CERTIFY by submitting the report on the fulfillment of the Blauer Engel "
 "criteria"
 msgstr ""
-"**ZERTIFIZIEREN** durch Einreichung des Nachweises über die Erfüllung der "
-"Kriterien des Blauen Engels"
 
 #: content/BE4FOSS/_index.md:16
 msgid "The benefits of obtaining the ecolabel include:"
-msgstr "Die Zertifizierung bringt einige Vorteile mit sich:"
+msgstr ""
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design"
 msgstr ""
-"Anerkennung des Erreichens hoher Standards für umweltfreundliches "
-"Softwaredesign"
 
 #: content/BE4FOSS/_index.md:18
 msgid "Differentiating free software from the alternatives"
-msgstr "Abgrenzung von freier Software gegenüber Alternativen"
+msgstr ""
 
 #: content/BE4FOSS/_index.md:19
 msgid "Increasing the appeal of adoption for consumers"
-msgstr "Erhöhung der Attraktivität der Anwendung für Benutzer*innen"
+msgstr ""
 
 #: content/BE4FOSS/_index.md:20
 msgid "Promoting transparency in the ecological footprint of software"
-msgstr "Förderung der Transparenz des ökologischen Fußabdrucks von Software"
+msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid ""
@@ -127,10 +114,8 @@ msgid "Blauer Engel"
 msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
-#, fuzzy
-#| msgid "Communicate"
 msgid "Community Lab"
-msgstr "Kommunizieren"
+msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-05-energy-conservation-day.md:0
@@ -178,7 +163,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
 msgid "Did you know?"
-msgstr "Wussten Sie schon?"
+msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:28
 msgid ""
@@ -225,7 +210,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:47
 msgid "*Teams > KDE Eco*"
-msgstr "*Teams > KDE Eco*"
+msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:51
 msgid "Completing the Blauer Engel application for Okular"
@@ -779,14 +764,6 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:61
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "As noted by [FEEP](https://eco.kde.org/#feep), the design and implementation "
 "of software has a significant impact on the energy consumption of the "
@@ -794,13 +771,6 @@ msgid ""
 "drive down energy consumption. This increased efficiency contributes to a "
 "more sustainable use of energy as one of the shared resources of our planet."
 msgstr ""
-"FEEP entwickelt Tools zur Verbesserung der Energieeffizienz bei der "
-"Entwicklung Freier und Open-Source-Software. Die Gestaltung und "
-"Implementierung von Software haben einen erheblichen Einfluss auf den "
-"Energieverbrauch der Systeme, zu denen sie gehört. Mit den richtigen "
-"Werkzeugen ist es möglich, den Energieverbrauch zu quantifizieren und zu "
-"senken. Diese höhere Effizienz trägt zu einer nachhaltigeren Nutzung der "
-"Energie als einer der gemeinsamen Ressourcen unseres Planeten bei."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:65
 msgid "![3 Steps of Eco Certification](/blog/images/3StepsToBEECO.png)"
@@ -816,34 +786,20 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:71
-#, fuzzy
-#| msgid "**Measure** in dedicated labs, such as at KDAB Berlin"
 msgid "**MEASURE** in dedicated labs, such as at KDAB Berlin"
-msgstr "**Messen** in Laboren, wie z. B. bei KDAB Berlin"
+msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:72
-#, fuzzy
-#| msgid ""
-#| "**Analyze** using statistical tools such as OSCAR (Open source Software "
-#| "Consumption Analysis in R)"
 msgid ""
 "**ANALYZE** using statistical tools such as OSCAR (Open-source Software "
 "Consumption Analysis in R)"
 msgstr ""
-"**Analysieren** mit statistischen Tools wie OSCAR (Open source Software "
-"Consumption Analysis in R)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:73
-#, fuzzy
-#| msgid ""
-#| "**Certify** by submitting the report on the fulfillment of the Blauer "
-#| "Engel criteria"
 msgid ""
 "**CERTIFY** by submitting the report on the fulfilment of the Blauer Engel "
 "criteria"
 msgstr ""
-"**Zertifizieren** durch Einreichung des Nachweises über die Erfüllung der "
-"Kriterien des Blauen Engels"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:75
 msgid ""
@@ -1192,10 +1148,8 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:30
-#, fuzzy
-#| msgid "Image of Blauer Engel ecolabel"
 msgid "Blue Angel Ecolabel"
-msgstr "Logo des „Blauer Engel“-Umweltzeichens"
+msgstr ""
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:32
 msgid ""
@@ -1394,10 +1348,8 @@ msgid "Blog"
 msgstr ""
 
 #: content/blog/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco"
 msgid "KDE Eco blog"
-msgstr "KDE Eco"
+msgstr ""
 
 #: content/blog/_index.md:9
 msgid "Keep up with the latest news about the KDE Eco project"
@@ -1405,7 +1357,7 @@ msgstr ""
 
 #: content/blog/post-1.md:0 content/FEEP/_index.md:0
 msgid "Energy Efficiency"
-msgstr "Energieeffizienz"
+msgstr ""
 
 #: content/blog/post-1.md:0
 msgid "Resource-Efficient Software & Blauer Engel Eco-Certification"
@@ -1494,13 +1446,6 @@ msgid "In other words, software efficiency means resource efficiency!"
 msgstr ""
 
 #: content/blog/post-1.md:41
-#, fuzzy
-#| msgid ""
-#| "In 2020 the Umweltbundesamt ('German Environment Agency') released the "
-#| "award criteria for obtaining eco-certification with the Blauer Engel "
-#| "label for desktop software. Categories for certification include energy "
-#| "efficiency, extending the potential operating life of hardware, and user "
-#| "autonomy … all of which fit seamlessly with free and open source software."
 msgid ""
 "Recently, the interdependency between software engineering and "
 "sustainability was officially recognized by the [German Environment Agency]"
@@ -1512,12 +1457,6 @@ msgid ""
 "potential operating life of hardware, and user autonomy ... all of which fit "
 "seamlessly with Free and Open Source Software (FOSS)."
 msgstr ""
-"2020 hat das Umweltbundesamt die Vergabekriterien zum Erlangen des „Blauer "
-"Engel“-Nachhaltigkeitslabels für Desktop-Software veröffentlicht. Zu den "
-"Kategorien für die Zertifizierung gehören z. B. Energieeffizienz oder die "
-"Verlängerung der potenziellen Nutzungsdauer von Hardware und "
-"Benutzer*innenautonomie. Die Kriterien sind ohnehin größtenteils schon in "
-"Freier und Open-Source-Software umgesetzt."
 
 #: content/blog/post-1.md:45
 msgid ""
@@ -1560,116 +1499,84 @@ msgid ""
 "consumption. This increased efficiency contributes to a more sustainable use "
 "of energy as one of the shared resources of our planet."
 msgstr ""
-"FEEP entwickelt Tools zur Verbesserung der Energieeffizienz bei der "
-"Entwicklung Freier und Open-Source-Software. Die Gestaltung und "
-"Implementierung von Software haben einen erheblichen Einfluss auf den "
-"Energieverbrauch der Systeme, zu denen sie gehört. Mit den richtigen "
-"Werkzeugen ist es möglich, den Energieverbrauch zu quantifizieren und zu "
-"senken. Diese höhere Effizienz trägt zu einer nachhaltigeren Nutzung der "
-"Energie als einer der gemeinsamen Ressourcen unseres Planeten bei."
 
 #: content/get-involved.md:0
 msgid "Get Involved"
-msgstr "Machen Sie mit"
+msgstr ""
 
 #: content/get-involved.md:9
 msgid "Become a part of the sustainable software movement"
-msgstr "Werden Sie Teil der Bewegung für nachhaltige Software"
+msgstr ""
 
 #: content/get-involved.md:11
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
-"Wir brauchen so viele motivierte Menschen wie möglich, um das Projekt "
-"voranzutreiben. Hier sind einige Kanäle, über die Sie weitere Informationen "
-"erhalten und sich engagieren können."
 
 #: content/get-involved.md:13
-#, fuzzy
-#| msgid "Community Support"
 msgid "Community & Support"
-msgstr "Community Support"
+msgstr ""
 
 #: content/get-involved.md:15
-#, fuzzy
-#| msgid ""
-#| "BigBlueButton : Monthly meet-ups, 2nd Wednesdays 17:00 UTC (contact us "
-#| "for details)"
 msgid ""
 "BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin time) "
 "(contact us for details)"
 msgstr ""
-"BigBlueButton: Monatliche Treffen, 2. Mittwoch 19:00 CET/CEST (kontaktieren "
-"Sie uns für Details)"
 
 #: content/get-involved.md:16
 msgid "Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
-msgstr "Matrix-Raum: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+msgstr ""
 
 #: content/get-involved.md:17
-#, fuzzy
-#| msgid ""
-#| "Energy Efficiency Mailing List: https://mail.kde.org/cgi-bin/mailman/"
-#| "listinfo/energy-efficiency"
 msgid ""
 "Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/"
 "listinfo/energy-efficiency"
 msgstr ""
-"Energieeffizienz-Mailingliste: https://mail.kde.org/cgi-bin/mailman/listinfo/"
-"energy-efficiency"
 
 #: content/get-involved.md:18
 msgid "KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334"
-msgstr "KDE-Eco-Forum: https://forum.kde.org/viewforum.php?f=334"
+msgstr ""
 
 #: content/get-involved.md:20
 msgid "Resources"
 msgstr ""
 
 #: content/get-involved.md:22
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
-msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
+msgstr ""
 
 #: content/get-involved.md:23
-#, fuzzy
-#| msgid "BE4FOSS GitLab repository: https://invent.kde.org/joseph/be4foss"
 msgid "BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss"
-msgstr "BE4FOSS-GitLab-Repository: https://invent.kde.org/teams/eco/be4foss"
+msgstr ""
 
 #: content/get-involved.md:24
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid ""
 "Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-"
 "application"
-msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
+msgstr ""
 
 #: content/get-involved.md:26
 msgid "Contact"
-msgstr "Kontakt"
+msgstr ""
 
 #: content/get-involved.md:28
 msgid "Email: `joseph [at] kde.org`"
-msgstr "Email: `joseph [at] kde.org`"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Free and open source software Energy Efficiency Project"
-msgstr "Projekt für Energieeffizienz in Freier und Open-Source-Software"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
 "How can you measure software's energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
 msgstr ""
-"Wie lässt sich der Energieverbrauch von Software messen? Und macht das einen "
-"Unterschied? Wir arbeiten daran, Freie Software nachhaltiger zu machen."
 
 #: i18n/en.yaml:0
 msgid "Blauer Engel for Free and Open Source Software"
-msgstr "Blauer Engel für Freie und Open-Source-Software"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
@@ -1677,20 +1584,14 @@ msgid ""
 "transferred to software? What criteria is relevant? We need more pioneers to "
 "find out how we can make software sustainable."
 msgstr ""
-"Nachhaltigkeitslabels für Produkte sind bereits weit verbreitet. Aber wie "
-"lassen sich diese auf Software übertragen? Welche Kriterien sind relevant? "
-"Wir brauchen mehr Pionier*innen, um herauszufinden, wie wir Software "
-"nachhaltig gestalten können."
 
 #: i18n/en.yaml:0
 msgid "Learn more"
-msgstr "Mehr erfahren"
+msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Image of Blauer Engel ecolabel"
 msgid "Okular Awarded Blue Angel Ecolabel"
-msgstr "Logo des „Blauer Engel“-Umweltzeichens"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
@@ -1704,101 +1605,74 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "**Get Involved**"
-msgstr "**Mitmachen**"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Join us for a sustainable software development movement!"
 msgstr ""
-"Machen Sie mit bei der Bewegung für eine nachhaltige Softwareentwicklung!"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
-msgstr "Mailingliste"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Matrix"
-msgstr "Matrix"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Forum"
-msgstr "Forum"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "How you can help"
-msgstr "Wie Sie helfen können"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
 "Follow 3-steps to Blauer Engel eco-certification: (1) Measure, (2) Analyze, "
 "(3) Certify"
 msgstr ""
-"Folgen Sie den 3 Schritten zur „Blauer Engel“-Öko-Zertifizierung: (1) "
-"Messen, (2) Analysieren, (3) Zertifizieren"
 
 #: i18n/en.yaml:0
 msgid "Squash bugs labelled 'efficiency'"
-msgstr "Bugs mit der Bezeichnung 'Effizienz' beheben"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Set up a measurement lab in your community"
-msgstr "Ein Messlabor in Ihrer Community einrichten"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Develop automation tools for energy consumption measurements"
-msgstr "Automatisierungs-Tools für Energieverbrauchsmessungen entwickeln"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Assist with statistical analysis and related tools (e.g., OSCAR)"
 msgstr ""
-"Bei der statistischen Analyse und den dazugehörigen Tools (z. B. OSCAR) "
-"unterstützen"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"
-msgstr "Bild von Computerverzeichnis mit Weltkugel"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "FOSS Energy Efficiency Project (FEEP)"
-msgstr "FOSS Energy Efficiency Project (FEEP)"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Image of globe with computer mouse"
-msgstr "Bild der Weltkugel mit Computermaus"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Blauer Engel For FOSS (BE4FOSS)"
-msgstr "Blauer Engel For FOSS (BE4FOSS)"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Image of Blauer Engel ecolabel"
-msgstr "Logo des „Blauer Engel“-Umweltzeichens"
+msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Image of BMU/UBA"
 msgid "Image of BMUV/UBA"
-msgstr "Logo des BMU/UBA"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Categories"
 msgstr ""
-
-#, fuzzy
-#~| msgid "Energy Efficiency"
-#~ msgid "energy efficiency"
-#~ msgstr "Energieeffizienz"
-
-#~ msgid ""
-#~ "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#~ "efficiency"
-#~ msgstr ""
-#~ "Mailingliste: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#~ "efficiency"
-
-#~ msgid "Discuss"
-#~ msgstr "Diskutieren"
-
-#~ msgid ""
-#~ "Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
-#~ msgstr ""
-#~ "Matrix-Raum: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
