@@ -1,9 +1,9 @@
 ---
 author: KDE Eco
-date: 8 February 2023
+date: 6 March 2023
 title: "Applying The Blue Angel Criteria To Free Software"
 subtitle: "A Handbook To Certifying Software As Sustainable (February 2023)"
-date: "2023-02-13"
+date: "2023-03-06"
 lang: "en"
 toc : true
 toc-own-page : true
@@ -1201,7 +1201,7 @@ There are many initiatives working on tooling for measuring the energy consumpti
  
    The Öko-Institut is one of Europe's leading independent research and consultancy organizations working for a sustainable future. The *Sustainable Products & Material Flows* research group is working on various measurement methodologies. In this [blog post](https://blog.oeko.de/energieverbrauch-von-software-eine-anleitung-zum-selbermessen/) (in German) researchers present a self-measurement technique using a simple Python script.
 
- - [Green Coding Berlin](https://www.green-coding.org/)
+ - [Green Coding Berlin](https://www.green-coding.berlin/)
  
    Green Coding Berlin is focused on research into the energy consumption of software and its infrastructure, creating open source measurement tools, and building a community and ecosystem around green software. 
 
