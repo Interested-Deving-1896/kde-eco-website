@@ -20,13 +20,19 @@ The activity is baby_keyboard and its aim is to show and tell the name of a lett
 To be able to communicate with GCompris I had first to modify its `QML` code, adding the accessibility code needed.
 
 Example:
-In this below TextEdit element, I have added accessible name as textinput. Now, we will be able to use this element in selenium script using its name as locator.
+In this below TextEdit element, I have added accessible name as textinput.
 
 ```
 TextEdit {
             id: textinput
             Accessible.name: "textinput"
         }
+```
+
+In Selenium script, we will be able to use above element using its name as locator and then `send_keys` function to fil the textinput field.
+```
+textedit_element = driver.find_element(by=AppiumBy.NAME, value='textinput')
+textedit_element.send_keys('textinput_value')
 ```
 
 To perform the event handling on activity elements, I have added accessibility code to Baby Keyboard activity `QML` elements and can be found [here](https://invent.kde.org/nitintejuja/gcompris/-/blob/selenium/src/activities/baby_keyboard/Baby_keyboard.qml).
@@ -68,7 +74,9 @@ In the coming weeks, I will write scripts in Python to perform full testing for 
 
 #### Community Bonding (SoK’23)
 
-I am thankful to my mentors Emmanuel Charruau and Harald Sitter for taking time to help me by providing resources and solving my doubts.
+I'm thankful to my mentors Emmanuel Charruau and Harald Sitter for taking the time to help me by providing resources and solving my doubts. 
+
+I'm very thankful to Harald Sitter for enhancing the selenium-webdriver-at-spi.
 
 I am also thankful to you for taking the time to read this update. If you would like to access the scripts, they can be found [here](https://invent.kde.org/nitintejuja/feep/-/tree/selenium/tools/KdeEcoTestSelenium/scripts).
 
