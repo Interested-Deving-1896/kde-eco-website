@@ -76,7 +76,7 @@ In the coming weeks, I will write scripts in Python to perform full testing for 
 
 I'm thankful to my mentors Emmanuel Charruau and Harald Sitter for taking the time to help me by providing resources and solving my doubts. 
 
-I'm very thankful to Harald Sitter for enhancing the selenium-webdriver-at-spi.
+I'm very thankful to Harald Sitter for enhancing the selenium-webdriver-at-spi whenever I encounter a problem that requires a new functionality.
 
 I am also thankful to you for taking the time to read this update. If you would like to access the scripts, they can be found [here](https://invent.kde.org/nitintejuja/feep/-/tree/selenium/tools/KdeEcoTestSelenium/scripts).
 
