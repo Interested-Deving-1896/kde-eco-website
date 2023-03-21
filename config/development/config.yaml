@@ -1,5 +1,5 @@
 module:
   imports:
-  - path: invent.kde.org/websites/aether-sass
+  - path: invent.kde.org/websites/hugo-kde
   - path: github.com/thednp/bootstrap.native
-  replacements: invent.kde.org/websites/aether-sass -> ../../aether-sass
+  replacements: invent.kde.org/websites/hugo-kde -> ../../hugo-kde

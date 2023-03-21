@@ -2,4 +2,6 @@ module eco-kde-org
 
 go 1.15
 
-require invent.kde.org/websites/aether-sass v0.0.0-20230214221807-c6d815d6e292 // indirect
+require (
+	invent.kde.org/websites/hugo-kde v0.0.0-20230320155927-cb360b5838fe // indirect
+)

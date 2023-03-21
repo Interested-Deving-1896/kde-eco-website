@@ -58,7 +58,7 @@ markup:
     noClasses: false
 module:
   imports:
-  - path: invent.kde.org/websites/aether-sass
+  - path: invent.kde.org/websites/hugo-kde
 outputs:
   home:
   - HTML
