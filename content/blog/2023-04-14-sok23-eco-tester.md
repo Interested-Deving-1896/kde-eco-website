@@ -20,11 +20,13 @@ I am Mohamed Ibrahim, a 4th year student of systems and biomedical engineering a
 
 The idea behind [`KdeEcoTest`](https://invent.kde.org/teams/eco/feep/-/tree/master/tools/KdeEcoTest) is to provide a tool for building Standard Usage Scenario scripts and then running them when measuring the energy consumption of software. How KdeEcoTest works is very simple: first, run the CLI tool, which acts as a test controller; and second, open the target application and enable the recording of actions. This way a script containing the usage scenario is created which can be used to run the scenario again in a measurement lab, such as the one at [KDAB Berlin](https://eco.kde.org/blog/2022-07-25-sprint-lab-follow-up/).
 
-{{< video src="/blog/videos/blog_ex1_fast.mp4?raw=1" controls="true" autoplay="false" loop="false" caption="Example of a simple usage scenario for GCompris." >}}
+
+{{< video src="/blog/videos/blog_ex1_fast.mp4?raw=1" controls=true autoplay=false loop=false >}}
 
 {{< container class="text-center" >}}
-Video from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.
+Video: Example of a simple usage scenario for GCompris. (Video from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)
 {{< /container >}}
+
 
 Creating a Standard Usage Scenario is challenging. User interactions are complex, for example, doing single or double mouse clicks, right clicks, scrolling , dragging, typing, keyboard shortcuts, and interacting with modal windows or pop ups.
 
@@ -50,10 +52,7 @@ The `Repeat` action is a helper functionality that enables running actions multi
 
 I also worked on adding support for performing actions in modal windows which appear while running tests. For example, clicking open or save in the [`Kate`](https://apps.kde.org/kate/) editor opens the file explorer window. Now, the runner can click in those modal windows.
 
-
-<div style="width: 70%; margin: auto;">
-{{< video src="/blog/videos/kate_plasma_modal.mp4" controls="true" autoplay="false" loop="false" caption="" >}}
-</div>
+{{< video src="/blog/videos/kate_plasma_modal.mp4" controls=true autoplay=false loop=false >}}
 
 {{< container class="text-center" >}}
 Video: Example of modal window click in Kate. (Video from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)
@@ -70,20 +69,20 @@ In order to measure software performance, we need to correlate the energy consum
 #### Keyboard Support
 I worked on supporting the recording of keyboard activity while building the usage scenario script and running those keyboard actions in the target test window again. Currently, KdeEcoTest supports almost all keyboard keys including aA-zZ, arrows, backspace, enter, and special characters.
 
-{{< video src="/blog/videos/gcompris_keyboard_sped_up.mp4?raw=1" controls="true" autoplay="false" loop="false" caption="Keyboard activity for Gcompris." >}}
+{{< video src="/blog/videos/gcompris_keyboard_sped_up.mp4?raw=1" controls=true autoplay=false loop=false >}}
 
 {{< container class="text-center" >}}
-Video from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.
+Video: Keyboard activity for Gcompris. (Video from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)
 {{< /container >}}
 
 #### Mouse Drag
 
 I added mouse-dragging functionality by making users select a start and end point to perform a drag while building the script. While running the script, mouse dragging is simulated between the specified points, as shown in the example below.
 
-{{< video src="/blog/videos/gcompris_drag.mp4?raw=1" controls="true" autoplay="false" loop="false" caption="Drag mouse simulation in GCompris." >}}
+{{< video src="/blog/videos/gcompris_drag.mp4?raw=1" controls=true autoplay=false loop=false >}}
 
 {{< container class="text-center" >}}
-Video from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.
+Video: Drag mouse simulation in GCompris. (Video from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)
 {{< /container >}}
 
 ### Current Challenges
