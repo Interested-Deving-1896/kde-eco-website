@@ -1,6 +1,6 @@
 ---
 date: 2023-04-14
-title: 'Season of KDE 2023 With KDE Eco: "Improvements of KdeEcoTest"'
+title: 'Season Of KDE 2023 With KDE Eco: Improvements To KdeEcoTest'
 categories: [SOK23, KdeEcoTest, xdotool, pynput, Kate, GCompris, KDE Eco]
 author: Mohamed Ibrahim
 summary: 'My experience improving the KdeEcoTest tool, an automation tool that simulates computer actions when measuring the energy consumption of software.'
@@ -30,7 +30,7 @@ Creating a Standard Usage Scenario is challenging. User interactions are complex
 
 Thanks to [Emmanuel Charruau](https://invent.kde.org/echarruau) and [Karanjot Singh](https://invent.kde.org/drquark), who developed the base code for creating, parsing, and running scenario scripts by adding support for mouse clicks and writing text to screen (taking input from the CLI) using `xdotool` and `pynput`.
 
-During SoK23 I worked on the following in order to enhance the functionality of `KdeEcoTest`: refactoring, new Cli and repeat actions, modal window support, [`OSCAR`](https://oscar.umwelt-campus.de/) formatting & runtime logs, keyboard support, and mouse drag. I will discuss each below.
+During SoK23 I worked on the following in order to enhance the functionality of `KdeEcoTest`: refactoring, new CLI and repeat actions, modal window support, [`OSCAR`](https://oscar.umwelt-campus.de/) formatting & runtime logs, keyboard support, and mouse drag. I will discuss each below.
 
 #### Refactoring
 
