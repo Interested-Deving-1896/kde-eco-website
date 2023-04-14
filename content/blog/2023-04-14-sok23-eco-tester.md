@@ -50,11 +50,14 @@ The `Repeat` action is a helper functionality that enables running actions multi
 
 I also worked on adding support for performing actions in modal windows which appear while running tests. For example, clicking open or save in the [`Kate`](https://apps.kde.org/kate/) editor opens the file explorer window. Now, the runner can click in those modal windows.
 
-<div style="width: 60%; margin: auto;">
-{{< container class="text-center" >}}
-![Example of modal window click in Kate. (Image from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/videos/kate-plasma.gif?raw=1)
-{{< /container >}}
+
+<div style="width: 70%; margin: auto;">
+{{< video src="/blog/videos/kate_plasma_modal.mp4" controls="true" autoplay="false" loop="false" caption="" >}}
 </div>
+
+{{< container class="text-center" >}}
+Video: Example of modal window click in Kate. (Video from Mohamed Ibrahim published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)
+{{< /container >}}
 
 #### OSCAR Formatting & Runtime Logs
 
