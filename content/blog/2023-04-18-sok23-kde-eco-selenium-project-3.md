@@ -25,14 +25,14 @@ After first understanding the original script written with the emulation tool [K
 
 The "Baby Word Processor" activity includes a simple word processor which provides children the ability to easily write their first texts. The activity allows for saving, deleting, and loading text files.
 
-I started by modifying the activity QML Code of "Baby Word Processor". I have added Accessible code to the Load and Save buttons in the activity. Below you can find the modified QML code:
+I started by modifying the activity QML Code of "Baby Word Processor". I have added Accessible code to the Load and Save buttons in the activity. Below you can find the modified QML code in order to in order to be able to save text and reload them later on:
 
 ```
  GCButton {
     id: loadButton
     textSize: "regular"
     width: parent.width
-    Accessible.name: "Load"
+    Accessible.name: "Load the file"
     text: qsTr("Load")
     onClicked: {
         keyboard.hide = true;
@@ -42,7 +42,7 @@ I started by modifying the activity QML Code of "Baby Word Processor". I have ad
 GCButton {
     id: saveButton
     textSize: "regular"
-    Accessible.name: "Save"
+    Accessible.name: "Save the text to file`"
     width: parent.width
     text: qsTr("Save")
     onClicked: {
@@ -57,7 +57,7 @@ GCButton {
 
 ```
 
-Accessible code for this activity can be found [here](https://invent.kde.org/nitintejuja/gcompris/-/blob/selenium/src/activities/baby_wordprocessor/BabyWordprocessor.qml). With these modification to the QML Code, I wrote a Selenium script to test the activity, which can be found [here](https://invent.kde.org/nitintejuja/feep/-/blob/selenium/tools/KdeEcoTestSelenium/scripts/kdeecotest-gcompris.py#L159).
+Accessible code for this activity can be found [here](https://invent.kde.org/nitintejuja/gcompris/-/blob/selenium/src/activities/baby_wordprocessor/BabyWordprocessor.qml). With these modification to the QML Code, I wrote a Selenium script to test the activity, and code can be found [here](https://invent.kde.org/nitintejuja/feep/-/blob/selenium/tools/KdeEcoTestSelenium/scripts/kdeecotest-gcompris.py#L159).
 
 Once the above script was running, I worked on the `KdeEcoTest` scenario that modifies the volume configuration of GCompris. The volume settings are changed by clicking the configuration icon once the app has loaded. To modify the settings, I added Accessible code to Configuration QML elements. Accessible code can be found [here](https://invent.kde.org/nitintejuja/gcompris/-/blob/selenium/src/activities/menu/ConfigurationItem.qml).
 
@@ -77,7 +77,7 @@ Finally, I was able to replicate all scenarios present in the GCompris KdeEcoTes
 
 {{< container class="text-center" >}}
 
-![Logs for actions taken in the Selenium script in a format compatible with `OSCAR`. (Image from Nitin Tejuja published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/images/kde-eco-test--gcompris-test-log-file-sample.png)
+![Logs for actions taken in the Selenium script in a format compatible with `OSCAR`. (Image from Nitin Tejuja published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/images/kde-eco-test-gcompris-test-log-file-sample.png)
 
 {{< /container >}}
 
@@ -87,6 +87,6 @@ I want to thank everybody who made Season of KDE possible, especially my mentors
 
 I am very thankful to Harald Sitter for enhancing [`selenium-webdriver-at-spi`](https://invent.kde.org/sdk/selenium-webdriver-at-spi) whenever I encountered a problem that required a new functionality.
 
-I am also thankful to you for taking the time to read this update. If you would like to access the scripts, they can be found [here](https://invent.kde.org/nitintejuja/feep/-/tree/selenium/tools/KdeEcoTestSelenium/scripts).
+I am also thankful to you for taking the time to read this update. If you want to access the scripts, they can be found [here](https://invent.kde.org/nitintejuja/feep/-/tree/selenium/tools/KdeEcoTestSelenium/scripts).
 
 Please feel free to contact me on Matrix at @nitin.tejuja12:matrix.org.
