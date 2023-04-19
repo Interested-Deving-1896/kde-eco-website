@@ -1,8 +1,18 @@
+# hugo
+/.hugo_build.lock
+/config/development/config.yaml
 /public/
-*.swp
 /resources/
-.hugo_build.lock
-/po[st]*/
-/locale*/
+
+# i18n
+/content-trans*/
 /i18n/*
 !/i18n/en.yaml
+/locale*/
+/po[st]*/
+
+# misc.
+*.swp
+.directory
+/.htmltest/
+/node_modules/

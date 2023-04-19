@@ -1,5 +1,0 @@
-module:
-  imports:
-  - path: invent.kde.org/websites/hugo-kde
-  - path: github.com/thednp/bootstrap.native
-  replacements: invent.kde.org/websites/hugo-kde -> ../../hugo-kde
