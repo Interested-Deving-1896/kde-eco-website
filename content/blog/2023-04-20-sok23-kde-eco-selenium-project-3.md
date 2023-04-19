@@ -1,5 +1,5 @@
 ---
-date: 2023-04-18
+date: 2023-04-20
 title: "Final Weeks Of SoK23 With KDE Eco: Writing Scripts In Selenium To Reproduce KdeEcoTest Script"
 categories: [SOK23, Selenium, KdeEcoTest, GCompris, AT-SPI]
 author: Nitin Tejuja
