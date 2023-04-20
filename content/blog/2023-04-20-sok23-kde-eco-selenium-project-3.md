@@ -15,7 +15,7 @@ Thank you once again to the KDE community for having me as part of this amazing 
 
 In these final weeks of SoK23 I have reproduced in Selenium the entire [`KdeEcoTestGcomprisScript.txt`](https://invent.kde.org/teams/eco/feep/-/blob/master/tools/KdeEcoTest/tests/KdeEcoGComprisTestScript.txt) script, which emulates user behavior in different [GCompris](https://apps.kde.org/gcompris/) activities.
 
-{{< video src="/blog/videos/kde-eco-test-gcompris-selenium-script.mp4" controls=true autoplay=false loop=false >}}
+{{< video src="/blog/videos/kde-eco-test-gcompris-selenium-script.webm" controls=true autoplay=false loop=false >}}
 
 {{< container class="text-center" >}}
 Video: Replication of KdeEcoTest script for GCompris. (Video from Nitin Tejuja published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)
