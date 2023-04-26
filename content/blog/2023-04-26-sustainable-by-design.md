@@ -1,0 +1,22 @@
+---
+date: 2023-04-26
+title: Report From The German Parliament's "Sustainable by Design" Conference
+categories: [Sustainability, Blauer Engel, Energy Efficiency]
+author: Cornelius Schumacher
+summary: In this post I report back from the German Parliament's "Nachhaltig by Design" conference, which took place in March 2023. I realize we still have a lot to figure out to ensure we minimize the impact of software on the destruction of our planet. Nonetheless, it is encouraging to see the topic of green digitisation and sustainable software receiving more attention.
+SPDX-License-Identifier: CC-BY-SA-4.0
+authors:
+- SPDX-FileCopyrightText: 2023 Cornelius Schumacher <schumacher@kde.org>
+---
+
+In March 2023, a conference on Green Digitisation, ["Nachhaltig by Design - für eine klimaneutrale Zukunft"](https://www.gruene-bundestag.de/digitalkonferenz), took place at the German Parliament. I was invited as an expert due to KDE's experience obtaining the [Blue Angel ecolabel for Okular](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/). The Green Party organized the conference, and participants from a wide range of organizations attended, contributing their views and expertise.
+
+The first part of the conference featured keynotes and panels where subject matter experts and political representatives discussed the challenges surrounding sustainable digitisation. [Cory Doctorow](https://www.youtube.com/live/Nk6DydN0bJg?feature=share&t=984) ([Invidious link](https://yewtu.be/watch?v=Nk6DydN0bJg&feature=share&t=984)) spoke about how we lose control of our digital lives as big vendors force changes on users and legal regulations hinder our ability to prevent this. [Mojib Latif](https://www.youtube.com/live/Nk6DydN0bJg?feature=share&t=1708) ([Invidious link](https://yewtu.be/watch?v=Nk6DydN0bJg?feature=share&t=1708)) presented a scientific perspective on climate change, emphasizing the urgency of taking action to mitigate long-term harmful effects on our global living conditions. Germany's Vice Chancellor, [Robert Habeck](https://www.youtube.com/live/Nk6DydN0bJg?feature=share&t=4612) ([Invidious link](https://yewtu.be/watch?v=Nk6DydN0bJg?feature=share&t=4612)), provided insight into current political activities and stressed that energy-efficiency isn't getting the required attention yet.
+
+In the second part, workshops addressed specific topics through discussions with experts and participants. Topics included the right to repair, sustainable data centers, free software as a central component of sustainable ecosystems, and more. I participated in the right to repair workshop. Several initiatives, such as the [Runder Tisch Reparatur](https://runder-tisch-reparatur.de/) ("round table repair"), work on extending hardware lifespans by repairing broken devices instead of replacing them, as many manfifactures tend to prefer despite the negative effects caused by resource and energy consumption associated with producing new hardware.
+
+KDE has always been aligned with this mindset. KDE software runs on all kinds of hardware, including very old systems, allowing users to decide when to replace them. Extending the right to repair concept from hardware to software leads to the principle of open source software, which is central to KDE's mission. Our experience with the Blue Angel demonstrates that these principles align with sustainability criteria. However, as KDE is not only the first but still the only organization with a Blue Angel label for software, there is still much work to be done in raising awareness and promoting adoption. For many organisations it may not be such a good match to go for sustainable software design as it is for the KDE community.
+
+Key takeaways from the workshop were the conclusions among the participants that software must not render hardware obsolete, that there needs to be more education on green coding practices, and greater awareness through labels of energy-efficiency and other sustainability factors.
+
+It is encouraging to see that the topic of green digitisation and sustainable software is receiving more attention. The conference was an interesting event, but the discussion is far from over. We still have a lot to figure out for the next practical steps in ensuring the impact of software on the destruction of our base of living is minimized. At KDE, we contribute by working on the [sustainable software goal](https://invent.kde.org/teams/eco/sustainable-software-goal). If you're interested in contributing, please join us there.
