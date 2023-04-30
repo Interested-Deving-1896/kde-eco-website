@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-01-05 00:52+0000\n"
-"PO-Revision-Date: 2023-03-21 21:20+0300\n"
+"PO-Revision-Date: 2023-04-29 10:56+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
 "SPDX-License-Identifier: LGPL-3.0-or-later\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 22.12.3\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -306,11 +306,11 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:59
 msgid "![Okular Icon](/blog/images/128-apps-okular.png)"
-msgstr ""
+msgstr "![Okular Simgesi](/blog/images/128-apps-okular.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:61
 msgid "*Okular Icon*"
-msgstr ""
+msgstr "*Okular Simgesi*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:65
 msgid ""
@@ -353,7 +353,7 @@ msgstr ""
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:71
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Standard Usage Scenarios"
-msgstr ""
+msgstr "Standart Kullanım Senaryoları"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:73
 msgid ""
@@ -397,11 +397,11 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:81
 msgid "![KMail Welcome Screen](/blog/images/kmailwelcome.png)"
-msgstr ""
+msgstr "![K Posta Karşılama Ekranı](/blog/images/kmailwelcome.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:83
 msgid "*KMail Welcome Screen*"
-msgstr ""
+msgstr "*K Posta Karşılama Ekranı*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:87
 msgid ""
@@ -610,7 +610,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:134
 msgid "Conclusion"
-msgstr ""
+msgstr "Sonuç"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:136
 msgid ""
@@ -631,7 +631,7 @@ msgstr ""
 #: content/blog/2022-03-05-energy-conservation-day.md:33
 #: content/blog/post-1.md:59
 msgid "Funding Notice"
-msgstr ""
+msgstr "Fonlama Bildirimi"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:140 content/blog/post-1.md:61
 msgid ""
@@ -648,12 +648,13 @@ msgstr ""
 msgid ""
 "<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
 msgstr ""
+"<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:146
 #: content/blog/2022-03-05-energy-conservation-day.md:41
 #: content/blog/post-1.md:67
 msgid "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
-msgstr ""
+msgstr "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
