@@ -56,7 +56,7 @@ The handbook can be found [here](https://eco.kde.org/handbook/)
 
 Once updated you will be able to find the guide under "Part IV: Selenium-AT-SPI"
 
-His journey through the Sok 2023 can be found in the following three blog posts:
+His journey through the SoK 2023 can be found in the following three blog posts:
 
 
 #### Achieving three KDE goals
