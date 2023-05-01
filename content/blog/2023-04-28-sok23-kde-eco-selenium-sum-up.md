@@ -1,6 +1,6 @@
 ---
 date: 2023-04-20
-title: "SOK 2023 Selenium-ST-API Kde Eco Power Measurement Proof of Concept
+title: "SoK 2023 Selenium-ST-API Kde Eco Power Measurement Proof of Concept
 Achieving three KDE Goals with one stone!"
 categories: [SOK23, Selenium, KdeEcoTest, GCompris, AT-SPI]
 author: Emmanuel Charruau
