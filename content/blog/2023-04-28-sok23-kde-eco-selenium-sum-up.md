@@ -19,7 +19,11 @@ At KDE Eco, we also tried to use the GUI tool Actiona to make these tests, but i
 We then developed a Python tool based on xdotool and called it [KdeEcoTest](https://invent.kde.org/teams/eco/feep/-/tree/master/tools/KdeEcoTest), which was able to record any user action and translate it into text script.
 The advantage of using text-based scripts over creating GUI actions is that it is much quicker and you can easily copy/paste/modify any interesting part of the test. This is much more efficient time-wise, but it was not enough.
 
-(Image from Emmanuel Charruau published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](images/kdeecotestscreenshot.jpg "KdeEcoTest does not work if the software GUI elements locations are modified.")
+{{< container class="text-center" >}}
+
+![KdeEcoTest does not work if the software GUI elements locations are modified. (Image from Emmanuel Charruau published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](/blog/images/kdeecotestscreenshot.jpg)
+
+{{< /container >}}
 
 
 The main problem with this approach, which is based on the location of mouse clicks, is that if the software GUI changes (resizing GUI elements, changing screen resolution), the tool can click outside the elements to be tested, and then it does not work.
