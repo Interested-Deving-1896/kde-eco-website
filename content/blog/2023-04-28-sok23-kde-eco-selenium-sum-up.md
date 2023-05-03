@@ -44,7 +44,7 @@ Nitin Tejuja SoK's task was to use Selenium-AT-SPI, still a work in progress, to
 His work was very efficient, as after a month Nitin was able to:
 - run Selenium-AT-SPI,
 - write an installation guide for Selenium-AT-SPI,
-- compile and run GCompris
+- compile and run GCompris, and
 - modify GCompris QML code to have access to its components (GUI elements)
 
 A few modifications to Selenium-AT-SPI allowed the last problems to be solved (adding slider access and handling utf8 character problems) and Selenium-AT-SPI is now able to repeatedly test all the activities needed for the next Blue Angel eco-label test.
