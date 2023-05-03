@@ -21,7 +21,7 @@ The advantage of using text-based scripts over creating GUI actions is that it i
 
 {{< container class="text-center" >}}
 
-![KdeEcoTest does not work if the software GUI elements locations are modified. (Image from Emmanuel Charruau published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](images/kdeecotestscreenshot.jpg)
+![KdeEcoTest does not work if the software GUI elements locations are modified. (Image from Emmanuel Charruau published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](/blog/images/kdeecotestscreenshot.jpg)
 
 {{< /container >}}
 
