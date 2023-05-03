@@ -67,7 +67,7 @@ His journey through the SoK 2023 can be found in the following three blog posts:
 
 
 
-#### Achieving three KDE goals
+#### Achieving Three KDE Goals
 
 Before finishing, I would like to explain the title of this entry and why we  "Achieved three KDE goals with one stone!"
 
