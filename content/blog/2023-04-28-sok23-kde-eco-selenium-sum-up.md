@@ -33,7 +33,7 @@ We needed a tool able to access the GUI element itself, and this is exactly the 
 
 #### What is Selenium-AT-SPI
 
-Selenium-AT-SPI is a modification of the Selenium webdriver. The Selenium webdriver is used to automate tests on browsers, accessing HTML element using its id or name. It is able to click on elements, enter text into input fields, and more.
+Selenium-AT-SPI is a modification of the Selenium webdriver. The Selenium webdriver is used to automate tests on browsers, accessing HTML elements using its ID or name. It is able to click on elements, enter text into input fields, and more.
 Selenium-AT-SPI does the same but for Qt programs, accessing the GUI element through its QML accessibility properties.
 The tested software interface can be modified, resized, and tested on different screen resolutions. As long as the GUI element are still present, the test will still work.
 
