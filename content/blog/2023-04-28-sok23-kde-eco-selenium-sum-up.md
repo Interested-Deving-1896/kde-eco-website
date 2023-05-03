@@ -71,7 +71,7 @@ His journey through the SoK 2023 can be found in the following three blog posts:
 
 Before finishing, I would like to explain the title of this entry and why we "achieved [three KDE goals](https://kde.org/goals/) with one stone!"
 
-Selenium-AT-SPI is used here to automate actions in order to measure power consumption and improve it, helping to reach one of our goal: Sustainable Software.
+Selenium-AT-SPI is used here to automate actions in order to measure power consumption and improve it, helping to reach one of our goals: [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software).
 
 It can be used as unit testing to check if all the accessibility code we add is working, which will help us to reach another goal: KDE For All.
 
