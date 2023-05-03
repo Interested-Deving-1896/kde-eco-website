@@ -47,7 +47,7 @@ His work was very efficient, as after a month Nitin was able to:
 - compile and run GCompris, and
 - modify GCompris QML code to have access to its components (GUI elements).
 
-A few modifications to Selenium-AT-SPI allowed the last problems to be solved (adding slider access and handling utf8 character problems) and Selenium-AT-SPI is now able to repeatedly test all the activities needed for the next Blue Angel eco-label test.
+A few modifications to Selenium-AT-SPI allowed the last problems to be solved (adding slider access and handling UTF-8 character problems) and Selenium-AT-SPI is now able to emulate all the activities needed for the next Blue Angel eco-label.
 
 {{< video src="/blog/videos/kde-eco-test-gcompris-selenium-script.webm" controls=true autoplay=false loop=false >}}
 {{< container class="text-center" >}} Video: Replication of KdeEcoTest script for GCompris. (Video from Nitin Tejuja published under a CC-BY-SA-4.0 license.) {{< /container >}}
