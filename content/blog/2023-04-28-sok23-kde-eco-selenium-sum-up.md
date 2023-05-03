@@ -69,7 +69,7 @@ His journey through the SoK 2023 can be found in the following three blog posts:
 
 #### Achieving Three KDE Goals
 
-Before finishing, I would like to explain the title of this entry and why we  "Achieved three KDE goals with one stone!"
+Before finishing, I would like to explain the title of this entry and why we "achieved [three KDE goals](https://kde.org/goals/) with one stone!"
 
 Selenium-AT-SPI is used here to automate actions in order to measure power consumption and improve it, helping to reach one of our goal: Sustainable Software.
 
