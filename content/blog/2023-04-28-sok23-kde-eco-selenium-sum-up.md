@@ -53,7 +53,7 @@ A few modifications to Selenium-AT-SPI allowed the last problems to be solved (a
 {{< container class="text-center" >}} Video: Replication of KdeEcoTest script for GCompris. (Video from Nitin Tejuja published under a CC-BY-SA-4.0 license.) {{< /container >}}
 
 
-To help you quickly use Selenium-AT-SPI for your own project, Nitin is working to update the KDE Eco Handbook with a full step-by-step Selenium-AT-SPI installation and usage guide, explaining how to add accessibility to QML and how to write the Selenium script in Python.
+To help you quickly use Selenium-AT-SPI for your own project, Nitin is working on updating the KDE Eco Handbook with a full step-by-step Selenium-AT-SPI installation and usage guide, explaining how to add accessibility to QML and how to write a Selenium script in Python.
 
 The handbook can be found [here](https://eco.kde.org/handbook/)
 
