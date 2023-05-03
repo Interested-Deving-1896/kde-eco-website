@@ -61,7 +61,7 @@ Once the handbook is updated you will be able to find the guide under "Part IV: 
 
 His journey through the SoK 2023 can be found in the following three blog posts:
 - [Setting Up Selenium For Energy Consumption Measurements](https://eco.kde.org/blog/2023-03-06-sok23-kde-eco/)
-[Writing Scripts In Selenium To Reproduce KdeEcoTest Script](https://eco.kde.org/blog/2023-04-05-sok23-kde-eco-selenium-project/)
+- [Writing Scripts In Selenium To Reproduce KdeEcoTest Script](https://eco.kde.org/blog/2023-04-05-sok23-kde-eco-selenium-project/)
 [Writing Scripts In Selenium To Reproduce KdeEcoTest Script](https://eco.kde.org/blog/2023-04-20-sok23-kde-eco-selenium-project-3/)
 
 
