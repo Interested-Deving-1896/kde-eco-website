@@ -73,7 +73,7 @@ Before finishing, I would like to explain the title of this entry and why we "ac
 
 Selenium-AT-SPI is used here to automate actions in order to measure power consumption and improve it, helping to reach one of our goals: [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software).
 
-It can be used as unit testing to check if all the accessibility code we add is working, which will help us to reach another goal: KDE For All.
+It can be used as unit testing to check if all the accessibility code we add is working, which will help us reach another goal: [KDE For All](https://community.kde.org/Goals/KDE_For_All).
 
 Finally, by being able to fully automate internal application testing, we can improve the quality of our applications and this contributes to our third goal: Automate And Systematize Internal Processes.
 
