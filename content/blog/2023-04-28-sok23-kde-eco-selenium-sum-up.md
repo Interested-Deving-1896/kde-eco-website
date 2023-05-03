@@ -26,7 +26,7 @@ The advantage of using text-based scripts over creating GUI actions is that it i
 {{< /container >}}
 
 
-The main problem with this approach, which is based on the location of mouse clicks, is that if the software GUI changes (resizing GUI elements, changing screen resolution), the tool can click outside the elements to be tested, and then it does not work.
+The main problem with this approach, which is based on the location of mouse clicks, is that if the software GUI changes (e.g., resizing GUI elements, changing screen resolution), the tool will click outside the elements to be tested, and then it does not work.
 
 We needed a tool able to access the GUI element itself, and this is exactly the solution that Harald Sitter posted one day on KDE Planet.
 
