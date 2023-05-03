@@ -31,7 +31,7 @@ The main problem with this approach, which is based on the location of mouse cli
 We needed a tool able to access the GUI element itself, and this is exactly the solution that Harald Sitter [posted one day on KDE Planet](https://planet.kde.org/harald-sitter-2022-12-14-selenium-at-spi-gui-testing/).
 
 
-#### What is Selenium-AT-SPI
+#### What Is Selenium-AT-SPI
 
 Selenium-AT-SPI is a modification of the Selenium webdriver. The Selenium webdriver is used to automate tests on browsers, accessing HTML elements using its ID or name. It is able to click on elements, enter text into input fields, and more.
 Selenium-AT-SPI does the same but for Qt programs, accessing the GUI element through its QML accessibility properties.
