@@ -1,7 +1,7 @@
 ---
 date: 2023-05-03
 title: "SoK 2023 Selenium-ST-API KDE Eco Power Measurement Proof Of Concept: Achieving Three KDE Goals With One Stone!"
-categories: [SOK23, Selenium, KdeEcoTest, GCompris, AT-SPI]
+categories: [SOK23, Selenium, KdeEcoTest, GCompris, AT-SPI, KDE Goals]
 author: Emmanuel Charruau
 summary: How Nitin Tejuja's work for Season of KDE (SoK) will help KDE towards its goals.
 SPDX-License-Identifier: CC-BY-SA-4.0
