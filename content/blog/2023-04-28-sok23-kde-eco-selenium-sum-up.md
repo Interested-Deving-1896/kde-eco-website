@@ -11,7 +11,7 @@ authors:
 
 #### Why using Selenium-AT-SPI
 
-Last year, Okular, KDE's advanced document reader, became the first software product ever to receive the Blue Angel eco-label. This certification recognises Okular as having a sustainable software design.
+Last year, Okular, KDE's advanced document reader, became the [first software product ever](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/) to receive the Blue Angel eco-label. This certification recognises Okular as having a sustainable software design.
 
 The certification process involves measuring the power consumption of the software executing repetitive actions that simulate human use.
 For Okular's certification, this was done using scripts written in Actiona.
