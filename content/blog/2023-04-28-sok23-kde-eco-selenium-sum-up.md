@@ -41,7 +41,7 @@ The tested software interface can be modified, resized, and tested on different 
 #### Nitin's Work
 
 Nitin Tejuja SoK's task was to use Selenium-AT-SPI, still a work in progress, to reproduce a minute-long script created with KdeEcoTest to test several activities of the educational software [GCompris](https://apps.kde.org/gcompris/).
-His work was very efficient, as after a month Nitin was able to
+His work was very efficient, as after a month Nitin was able to:
 - run Selenium-AT-SPI
 - write an installation guide for Selenium-AT-SPI
 - compile and run GCompris
