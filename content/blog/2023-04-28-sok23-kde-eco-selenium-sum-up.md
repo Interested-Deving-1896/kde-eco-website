@@ -57,7 +57,7 @@ To help you quickly use Selenium-AT-SPI for your own project, Nitin is working o
 
 The handbook can be found [here](https://eco.kde.org/handbook/).
 
-Once updated you will be able to find the guide under "Part IV: Selenium-AT-SPI"
+Once the handbook is updated you will be able to find the guide under "Part IV: Selenium-AT-SPI".
 
 His journey through the SoK 2023 can be found in the following three blog posts:
 [Setting Up Selenium For Energy Consumption Measurements](https://eco.kde.org/blog/2023-03-06-sok23-kde-eco/)
