@@ -16,7 +16,7 @@ Last year, Okular, KDE's advanced document reader, became the first software pro
 The certification process involves measuring the power consumption of the software executing repetitive actions that simulate human use.
 For Okular's certification, this was done using scripts written in Actiona.
 At KDE Eco, we also tried to use the GUI tool Actiona to make these tests, but it was not flexible enough because it required adding a simple action to open a window, entering a click location, validating your input, and so on. This process was very tedious.
-We then developed a Python tool based on xdotools, called KdeEcoTest, which was able to record any user action and translate it into text script.
+We then developed a Python tool based on xdotool and called it [KdeEcoTest](https://invent.kde.org/teams/eco/feep/-/tree/master/tools/KdeEcoTest), which was able to record any user action and translate it into text script.
 The advantage of using text-based scripts over creating GUI actions is that using text based actions is much quicker, and you can easily copy/paste/modify any interesting part of the test. This is much more efficient, but it was not enough.
 
 (Image from Emmanuel Charruau published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](images/kdeecotestscreenshot.jpg "KdeEcoTest does not work if the software GUI elements locations are modified.")
