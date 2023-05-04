@@ -15,7 +15,7 @@
     <div class="row p-5">
       {{ if ne (len $.Site.Taxonomies.categories) 0 }}
       <div class="col-md-3 pb-4">
-        <p class="h3">{{ i18n "blog.categories"}}</p>
+        <p class="h3 mt-0">{{ i18n "blog.categories"}}</p>
         <div class="tags">
           {{ range $name, $taxonomy := $.Site.Taxonomies.categories }}
             <a href="{{ $name | add (relLangURL "/categories/") | urlize }}"
