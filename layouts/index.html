@@ -61,6 +61,33 @@
     </div>
   </section>
 
+  <section class="section-green py-4">
+    <div class="container">
+      <h2 class="mb-3 h1">{{ i18n "posts" }}</h2>
+      <div class="row">
+      {{ $pages := (.Site.GetPage "/blog").RegularPagesRecursive }}
+      {{ range .Site.Home.Translations }}
+      {{ $pages = $pages | lang.Merge (.Site.GetPage "/blog").RegularPagesRecursive }}
+      {{ end }}
+      {{ range first 4 (where $pages "Params.hidden" "ne" "true") }}
+        <div class="col-12 col-md-6 mb-4">
+          <div class="text-lighter">{{ partial "i18n_date.html" . }}</div>
+          <h3 class="mt-1 h4">{{ .Title | safeHTML}}</h3>
+          <div class="post-entry mt-3">
+            {{ if .Description }}
+              {{ .Description }}
+            {{else}}
+              {{ .Summary }}
+            {{end}}
+            <a href="{{ .Permalink }}" class="d-block learn-more mt-2">{{i18n "read-more" }}</a>
+          </div>
+        </div>
+      {{end}}
+      </div>
+      <a href="post/" class="learn-more mt-3" style="font-weight: bold;">&#x1F4E2; {{ i18n "view-all-posts" }}</a>
+    </div>
+  </section>
+
   <section>
     <div class="container">
       <div class="row">
