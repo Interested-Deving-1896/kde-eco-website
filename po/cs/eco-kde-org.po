@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-05 00:52+0000\n"
+"POT-Creation-Date: 2023-06-09 00:51+0000\n"
 "PO-Revision-Date: 2023-02-10 11:05+0100\n"
 "Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -1675,3 +1675,17 @@ msgstr ""
 #: i18n/en.yaml:0
 msgid "Categories"
 msgstr "Kategorie"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Read More"
+msgid "Read more"
+msgstr "Více informací"
+
+#: i18n/en.yaml:0
+msgid "View all posts"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "News from the blog"
+msgstr ""

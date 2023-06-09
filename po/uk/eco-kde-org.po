@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-05 00:52+0000\n"
+"POT-Creation-Date: 2023-06-09 00:51+0000\n"
 "PO-Revision-Date: 2022-10-08 09:21+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -2426,6 +2426,20 @@ msgstr "Зображення BMUV/UBA"
 #: i18n/en.yaml:0
 msgid "Categories"
 msgstr "Категорії"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Read More"
+msgid "Read more"
+msgstr "Дізнатися більше"
+
+#: i18n/en.yaml:0
+msgid "View all posts"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "News from the blog"
+msgstr ""
 
 #~ msgid "energy efficiency"
 #~ msgstr "енергоефективність"

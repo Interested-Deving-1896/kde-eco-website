@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-05 00:52+0000\n"
+"POT-Creation-Date: 2023-06-09 00:51+0000\n"
 "PO-Revision-Date: 2022-10-11 16:15+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -2446,3 +2446,17 @@ msgstr "Imatge de BMUV/UBA"
 #: i18n/en.yaml:0
 msgid "Categories"
 msgstr "Categories"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Read More"
+msgid "Read more"
+msgstr "Llegiu més"
+
+#: i18n/en.yaml:0
+msgid "View all posts"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "News from the blog"
+msgstr ""

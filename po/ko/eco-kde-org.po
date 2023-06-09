@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-01-05 00:52+0000\n"
+"POT-Creation-Date: 2023-06-09 00:51+0000\n"
 "PO-Revision-Date: 2021-11-24 01:32+0100\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -1777,6 +1777,20 @@ msgstr "BMU/UBA 로고"
 
 #: i18n/en.yaml:0
 msgid "Categories"
+msgstr ""
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Learn more"
+msgid "Read more"
+msgstr "더 알아보기"
+
+#: i18n/en.yaml:0
+msgid "View all posts"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "News from the blog"
 msgstr ""
 
 #, fuzzy
