@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-09 00:51+0000\n"
-"PO-Revision-Date: 2022-10-08 11:00+0100\n"
+"PO-Revision-Date: 2023-06-09 23:13+0100\n"
 "Last-Translator: José Nuno Coelho Pires <zepires@gmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-pt@kde.org>\n"
 "Language: pt\n"
@@ -2473,15 +2473,13 @@ msgid "Categories"
 msgstr "Categorias"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Read More"
 msgid "Read more"
-msgstr "Ler Mais"
+msgstr "Ler mais"
 
 #: i18n/en.yaml:0
 msgid "View all posts"
-msgstr ""
+msgstr "Ver todas as publicações"
 
 #: i18n/en.yaml:0
 msgid "News from the blog"
-msgstr ""
+msgstr "Notícias do 'blog'"

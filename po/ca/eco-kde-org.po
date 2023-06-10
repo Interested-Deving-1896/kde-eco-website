@@ -1,15 +1,15 @@
 # Translation of eco-kde-org.po to Catalan
-# Copyright (C) 2021-2022 This_file_is_part_of_KDE
+# Copyright (C) 2021-2023 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# Josep M. Ferrer <txemaq@gmail.com>, 2021, 2022.
+# Josep M. Ferrer <txemaq@gmail.com>, 2021, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-09 00:51+0000\n"
-"PO-Revision-Date: 2022-10-11 16:15+0200\n"
+"PO-Revision-Date: 2023-06-09 10:16+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -191,7 +191,7 @@ msgid ""
 "invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
 "meetups/2021-12-11_sprint01_protocol.md) for further details."
 msgstr ""
-"En aquesta entrada de forma llarga proporcionaré una visió detallada dels "
+"En aquest article de format llarg proporcionaré una visió detallada dels "
 "principals temes debatuts a l'esprint i els seus resultats; vegeu també les "
 "[actes](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
 "meetups/2021-12-11_sprint01_protocol.md) per a més detalls."
@@ -2448,15 +2448,13 @@ msgid "Categories"
 msgstr "Categories"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Read More"
 msgid "Read more"
 msgstr "Llegiu més"
 
 #: i18n/en.yaml:0
 msgid "View all posts"
-msgstr ""
+msgstr "Visualitza tots els articles"
 
 #: i18n/en.yaml:0
 msgid "News from the blog"
-msgstr ""
+msgstr "Notícies del blog"
