@@ -1,11 +1,11 @@
 #
-# Vincenzo Reale <smart2128vr@gmail.com>, 2021, 2022.
+# Vincenzo Reale <smart2128vr@gmail.com>, 2021, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-09 00:51+0000\n"
-"PO-Revision-Date: 2022-10-10 09:13+0200\n"
+"PO-Revision-Date: 2023-06-09 15:46+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 22.08.1\n"
+"X-Generator: Lokalize 23.04.2\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -2439,18 +2439,16 @@ msgid "Categories"
 msgstr "Categorie"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Read More"
 msgid "Read more"
-msgstr "Maggiori informazioni"
+msgstr "Ulteriori informazioni"
 
 #: i18n/en.yaml:0
 msgid "View all posts"
-msgstr ""
+msgstr "Visualizza tutti i commenti"
 
 #: i18n/en.yaml:0
 msgid "News from the blog"
-msgstr ""
+msgstr "Notizie dal blog"
 
 #~ msgid "energy efficiency"
 #~ msgstr "efficienza energetica"
