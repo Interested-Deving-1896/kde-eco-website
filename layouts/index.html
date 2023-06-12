@@ -1,5 +1,5 @@
 {{/*
-# SPDX-FileCopyrightText: 2022 Joseph P. De Veaugh-Geiss
+# SPDX-FileCopyrightText: 2023 Joseph P. De Veaugh-Geiss
 # SPDX-FileCopyrightText: 2022 Arwin Neil Baichoo
 # SPDX-FileCopyrightText: 2022 Lana Lutz
 # SPDX-FileCopyrightText: 2022 Paul Brown
@@ -16,18 +16,18 @@
 
   <section style="overflow: hidden;" class="mt-0" id="eco">
     <div class="row">
+      <div class="col-lg-6 jumbotron be4foss">
+        <div class="container p-5 jumbo-card">
+          <h2 class="mt-0">{{ i18n "home.sustainable-goal" }}</h2>
+          <p class="ml-auto mr-auto">{{ i18n "home.header.sustainable-goal.description" }}</p>
+          <div><a href="{{ "/#sustainable-goal" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
+        </div>
+      </div>
       <div class="col-lg-6 jumbotron feep mb-0">
         <div class="container p-5  jumbo-card">
           <h2 class="mt-0">{{ i18n "home.feep" }}</h2>
           <p class="ml-auto mr-auto">{{ i18n "home.header.feep.description" }}</p>
           <div><a href="{{ "/#feep" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
-        </div>
-      </div>
-      <div class="col-lg-6 jumbotron be4foss">
-        <div class="container p-5 jumbo-card">
-          <h2 class="mt-0">{{ i18n "home.be4foss" }}</h2>
-          <p class="ml-auto mr-auto">{{ i18n "home.header.be4foss.description" }}</p>
-          <div><a href="{{ "/#be4foss" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
         </div>
       </div>
     </div>
@@ -37,9 +37,27 @@
     <div class="container">
       <div class="row mb-5">
         <div class="col">
-          <h1 class="font-weight-bold"> {{ .Title }} - {{ .Description }} </h1>
+          <h1 class="font-weight-bold"> {{ .Title }} {{ .Description }} </h1>
           <p>{{ i18n "kde-eco-description" }}</p>
           <p>{{ i18n "kde-eco-lets" }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="row mb-5">
+        <div class="col">
+          <p align="center">
+            <video width="750" controls="1"><br />
+              <source src="https://cdn.kde.org/promo/Eco/Videos/KDE-eco-video.mp4"><br />
+              Your browser does not support the video tag.<br />
+              </source>
+            </video>
+            <br />
+            <a href="https://spdx.org/licenses/CC-BY-SA-4.0.html">Creative Commons Attribution-ShareAlike 4.0 International Public License</a>
+          </p>
         </div>
       </div>
     </div>
@@ -56,6 +74,37 @@
         <div class="col-lg-6">
           <h1 class="font-weight-bold">{{ i18n "home.okular" }}</h1>
           <p>{{ i18n "home.okular.be" }} &nbsp; <a hreflang="{{ .Site.LanguagePrefix }}" href="https://eco.kde.org/{{ .Site.LanguagePrefix }}/blog/2022-03-16-press-release-okular-blue-angel">{{ i18n "home.okular.pr" }}</a> </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <a href="/get-involved">
+            <h2 class="fw-bold">{{ i18n "home.engage" | markdownify }}</h2>
+          </a>
+          <h3>{{ i18n "home.engage.joinus" }}</h3>
+        </div>
+        <div class="col mt-4 py-5 text-center">
+          <a href="https://invent.kde.org/teams/eco">
+            <img class="gitlab" src="/images/gitlab-logo-700.png" alt="{{ i18n "home.engage.repo" }}" style="max-width:3em" />
+            <h3 class="fw-bold">{{ i18n "home.engage.repo" }}</h3>
+          </a>
+        </div>
+        <div class="col mt-4  py-5 text-center">
+          <a href="https://webchat.kde.org/#/room/#energy-efficiency:kde.org">
+            <img class="matrix" src="/images/matrix.png" alt="{{ i18n "home.engage.matrix" }}" style="max-width:3em" />
+            <h3 class="fw-bold">{{ i18n "home.engage.matrix" }}</h3>
+          </a>
+        </div>
+        <div class="col mt-4 py-5 text-center">
+          <a href="https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency">
+            <i class="icon icon_mail-mark-unread home-icon"> </i>
+            <h3 class="fw-bold">{{ i18n "home.engage.mailinglist" }}</h3>
+          </a>
         </div>
       </div>
     </div>
@@ -88,32 +137,27 @@
     </div>
   </section>
 
-  <section>
+  <section id="sustainable-goal">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6">
-          <a href="/get-involved">
-            <h2 class="fw-bold">{{ i18n "home.engage" | markdownify }}</h2>
-          </a>
-          <h3>{{ i18n "home.engage.joinus" }}</h3>
-        </div>
-        <div class="col mt-4 py-5 text-center">
-          <a href="https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency">
-            <i class="icon icon_mail-mark-unread home-icon"> </i>
-            <h3 class="fw-bold">{{ i18n "home.engage.mailinglist" }}</h3>
-          </a>
-        </div>
-        <div class="col mt-4  py-5 text-center">
-          <a href="https://webchat.kde.org/#/room/#energy-efficiency:kde.org">
-            <img class="matrix" src="/images/matrix.png" alt="{{ i18n "home.engage.matrix" }}" style="max-width:3em" />
-            <h3 class="fw-bold">{{ i18n "home.engage.matrix" }}</h3>
-          </a>
-        </div>
-        <div class="col mt-4 py-5 text-center">
-          <a href="https://forum.kde.org/viewforum.php?f=334">
-            <i class="icon icon_user-group-properties home-icon"> </i>
-            <h3 class="fw-bold">{{ i18n "home.engage.forum" }}</h3>
-          </a>
+        <div class="col">
+          {{ with .Site.GetPage "/sustainable-goal" }}
+          <h2 class="fw-bold"><b>{{ i18n "home.sustainable-goal" }}</b></h2>
+          <div class="feature">
+            <div>
+              <p>{{ .Content }}</p>
+              <div class="py-2">
+                <a href="https://community.kde.org/Goals/Sustainable_Software" class="btn btn-primary">{{ i18n "home.header.more" }}</a>
+              </div>
+            </div>
+            <div class="img-fluid">
+              <picture>
+                <source srcset="/images/sustainable-goal.webp" media="(prefers-color-scheme: dark)">
+                <img alt="{{ i18n "home.sustainable-goal.alt" }}" src="/images/sustainable-goal.webp">
+              </picture>
+            </div>
+          </div>
+          {{end}}
         </div>
       </div>
     </div>
@@ -172,57 +216,11 @@
               </picture>
             </div>
           </div>
-          <div class="container feature">
-            <div>
-              <h2>{{ i18n "home.help" }}</h2>
-              <ul>
-                <li>{{ i18n "home.help.one" }}</li>
-                <li>{{ i18n "home.help.two" }}</li>
-                <li>{{ i18n "home.help.three" }}</li>
-                <li>{{ i18n "home.help.four" }}</li>
-                <li>{{ i18n "home.help.five" }}</li>
-              </ul>
-            </div>
-            <div>
-              <picture class="img-fluid">
-                <source srcset="/assets/img/help.webp" media="(prefers-color-scheme: dark)">
-                <img alt="{{ i18n "home.help.alt" }}" src="/assets/img/help.webp">
-              </picture>
-            </div>
-          </div>
           {{end}}
         </div>
       </div>
     </div>
   </section>
 
-
-  <div class="container">
-    <div class="feature mt-4">
-      <div>
-        <h2>{{ i18n "eco.funding" }}</h2>
-        <p>{{ i18n "eco.funding.support" | markdownify }}</p>
-        <p>{{ i18n "eco.funding.responsible" }}</p>
-      </div>
-      <div class="img-fluid">
-        <p>
-          <a href="https://www.umweltbundesamt.de/">
-            <picture>
-              <source srcset="/assets/img/uba.webp" media="(prefers-color-scheme: dark)">
-              <img alt="{{ i18n "home.funding.alt" }}" src="/assets/img/uba.webp">
-            </picture>
-          </a>
-        </p>
-        <p>
-          <a href="https://www.bmuv.de/">
-            <picture>
-              <source srcset="/assets/img/bmuv.webp" media="(prefers-color-scheme: dark)">
-              <img alt="{{ i18n "home.funding.alt" }}" src="/assets/img/bmuv.webp">
-            </picture>
-          </a>
-        </p>
-      </div>
-    </div>
-  </div>
 </main>
 {{ end }}
