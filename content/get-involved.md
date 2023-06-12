@@ -6,22 +6,23 @@ menu:
   main:
     weight: 8
 ---
-## Become a part of the sustainable software movement
+## Become A Part Of The Sustainable Software Movement
 
 We need as many motivated people as possible to drive this forward. Here are some channels where you can get more information and contribute.
 
 ### Community & Support
 
-- BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin time) (contact us for details)
-- Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org
-- Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
-- KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334
+- Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/+1:00) (contact us for details)
+- Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-efficiency:kde.org
+- Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency
 
 ### Resources
 
-- FEEP GitLab repository: https://invent.kde.org/teams/eco/feep
-- BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss
-- Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-application
+- Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/Sustainable_Software
+- FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep
+- BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss
+- Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/eco/blue-angel-application
+- Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-eco-lab
 
 ### Contact
 
