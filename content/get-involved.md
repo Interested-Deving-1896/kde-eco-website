@@ -6,9 +6,8 @@ menu:
   main:
     weight: 8
 ---
-## Become A Part Of The Sustainable Software Movement
 
-We need as many motivated people as possible to drive this forward. Here are some channels where you can get more information and contribute.
+Become a part of the sustainable software movement! We need as many motivated people as possible to drive this forward. Here are some channels where you can get more information and contribute.
 
 ### Community & Support
 
