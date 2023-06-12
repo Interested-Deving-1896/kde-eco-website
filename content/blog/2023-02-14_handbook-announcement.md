@@ -1,7 +1,7 @@
 ---
 date: 2023-02-14
 title: 'KDE Eco Handbook: "Applying The Blue Angel Criteria To Free Software"'
-categories: [Sustainability, Blauer Engel, Eco-Certificastion, Okular, KDE Eco, Community Lab]
+categories: [Sustainability, Blauer Engel, Eco-Certification, Okular, KDE Eco, Community Lab]
 author: Joseph P. De Veaugh-Geiss
 summary: 'KDE Eco is proud to announce the publication of the first edition of the measurement handbook "Applying The Blue Angel Criteria To Free Software: A Handbook To Certify Software As Sustainable".'
 SPDX-License-Identifier: CC-BY-SA-4.0
