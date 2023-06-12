@@ -31,8 +31,8 @@ languages:
     languageName: English
     menu:
       main:
-      - name: Sustainability Goal
-        url: /#sustainablegoal
+      - name: Sustainable Goal
+        url: /#sustainable-goal
         weight: 2
       - name: FEEP
         url: /#feep
