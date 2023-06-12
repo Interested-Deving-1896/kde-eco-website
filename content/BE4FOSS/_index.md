@@ -6,15 +6,12 @@ layout: eco-label
 #     name: BE4FOSS
 #     weight: 3
 ---
-In 2020 the Umweltbundesamt ('German Environment Agency') released the award criteria for obtaining eco-certification with the Blauer Engel label for desktop software. Categories for certification include energy efficiency, extending the potential operating life of hardware, and user autonomy … all of which fit seamlessly with free and open source software.
+In 2020, the German Environment Agency (German: *Umweltbundesamt*) released the award criteria for eco-certifying desktop software with the Blue Angel ecolabel (German: *Blauer Engel*). From 2021-2022, the BE4FOSS project under KDE Eco worked to advance eco-certification for resource and energy-efficient software in FOSS communities. Obtaining the Blue Angel ecolabel occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify.
 
-The BE4FOSS project advances eco-certification for resource efficient software in the FOSS community. Obtaining the Blauer Engel label occurs in 3 steps: (1) MEASURE, (2) ANALYZE, and (3) CERTIFY.
-1. MEASURE in dedicated labs, such as at KDAB Berlin
-2. ANALYZE using statistical tools such as OSCAR (Open source Software Consumption Analysis in R)
-3. CERTIFY by submitting the report on the fulfillment of the Blauer Engel criteria
+Benefits of obtaining the Blue Angel ecolabel include:
+- Recognition of reaching high standards for environmentally-friendly software design,
+- Differentiating free software from the alternatives,
+- Increasing the appeal of adoption for consumers, and
+- Promoting transparency in the ecological footprint of software.
 
-The benefits of obtaining the ecolabel include:
-- Recognition of reaching high standards for environmentally-friendly software design
-- Differentiating free software from the alternatives
-- Increasing the appeal of adoption for consumers
-- Promoting transparency in the ecological footprint of software
+Learn more in the KDE Eco handbook "[Applying The Blue Angel Criteria To Free Software](https://eco.kde.org/handbook/)".
