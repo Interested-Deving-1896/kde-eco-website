@@ -19,6 +19,7 @@ i18n:
       globs:
       - content/BE4FOSS/*.md
       - content/FEEP/*.md
+      - content/sustainable-goal/*.md
   genToOtherDir: true
   others:
   - description
