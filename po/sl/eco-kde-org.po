@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-09 00:51+0000\n"
+"POT-Creation-Date: 2023-06-13 00:51+0000\n"
 "PO-Revision-Date: 2023-06-09 08:25+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -2183,7 +2183,9 @@ msgid "Get Involved"
 msgstr "Bodite vpleteni"
 
 #: content/get-involved.md:9
-msgid "Become a part of the sustainable software movement"
+#, fuzzy
+#| msgid "Become a part of the sustainable software movement"
+msgid "Become A Part Of The Sustainable Software Movement"
 msgstr "Postanite del gibanja za trajnostno programsko opremo"
 
 #: content/get-involved.md:11
@@ -2199,54 +2201,85 @@ msgid "Community & Support"
 msgstr "Skupnosti in podpora"
 
 #: content/get-involved.md:15
+#, fuzzy
+#| msgid ""
+#| "BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin "
+#| "time) (contact us for details)"
 msgid ""
-"BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin time) "
-"(contact us for details)"
+"Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/"
+"+1:00) (contact us for details)"
 msgstr ""
 "BigBlueButton : Mesečni sestanki, druga sreda ob 19:00 CEST/CET (slovenski "
 "čas) (stopite z nami v stik za podrobnosti)"
 
 #: content/get-involved.md:16
-msgid "Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+#, fuzzy
+#| msgid ""
+#| "Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+msgid ""
+"Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-efficiency:"
+"kde.org"
 msgstr "Matrix soba: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
 
 #: content/get-involved.md:17
+#, fuzzy
+#| msgid ""
+#| "Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/"
+#| "listinfo/energy-efficiency"
 msgid ""
-"Energy Efficiency Mailing list: https://mail.kde.org/cgi-bin/mailman/"
-"listinfo/energy-efficiency"
+"Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"energy-efficiency"
 msgstr ""
 "Poštni seznam energetske učinkovitosti: https://mail.kde.org/cgi-bin/mailman/"
 "listinfo/energy-efficiency"
 
-#: content/get-involved.md:18
-msgid "KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334"
-msgstr "KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334"
-
-#: content/get-involved.md:20
+#: content/get-involved.md:19
 msgid "Resources"
 msgstr "Viri"
 
+#: content/get-involved.md:21
+msgid ""
+"Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
+"Sustainable_Software"
+msgstr ""
+
 #: content/get-involved.md:22
-msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
+#, fuzzy
+#| msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
+msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
 msgstr "Repozitorij FEEP GitLab: https://invent.kde.org/teams/eco/feep"
 
 #: content/get-involved.md:23
-msgid "BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss"
+#, fuzzy
+#| msgid "BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss"
+msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgstr "Repozitorij BE4FOSS GitLab: https://invent.kde.org/teams/eco/be4foss"
 
 #: content/get-involved.md:24
+#, fuzzy
+#| msgid ""
+#| "Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-"
+#| "application"
 msgid ""
-"Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-"
-"application"
+"Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
+"eco/blue-angel-application"
 msgstr ""
 "Aplikacije Modri angel: https://invent.kde.org/teams/eco/blue-angel-"
 "application"
 
-#: content/get-involved.md:26
+#: content/get-involved.md:25
+#, fuzzy
+#| msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
+msgid ""
+"Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
+"eco-lab"
+msgstr "Repozitorij FEEP GitLab: https://invent.kde.org/teams/eco/feep"
+
+#: content/get-involved.md:27
 msgid "Contact"
 msgstr "Kontakt"
 
-#: content/get-involved.md:28
+#: content/get-involved.md:29
 msgid "Email: `joseph [at] kde.org`"
 msgstr "E-pošta: `joseph [at] kde.org`"
 
@@ -2386,3 +2419,6 @@ msgstr "Poglej vse objave"
 #: i18n/en.yaml:0
 msgid "News from the blog"
 msgstr "Novice iz bloga"
+
+#~ msgid "KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334"
+#~ msgstr "KDE Eco Forum: https://forum.kde.org/viewforum.php?f=334"
