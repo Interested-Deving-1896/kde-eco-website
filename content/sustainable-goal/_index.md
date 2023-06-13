@@ -1,5 +1,5 @@
 ---
-title: Sustainable Software Gaol
+title: Sustainable Software Goal
 layout: sustainable-goal
 #menu:
 #   main:
