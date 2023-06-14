@@ -11,7 +11,7 @@ authors:
 
 Today is ["I ❤ Free Software!"](https://fsfe.org/activities/ilovefs/index.en.html) day and KDE Eco is proud to announce the publication of the first edition of the measurement handbook "Applying The Blue Angel Criteria To Free Software: A Handbook To Certify Software As Sustainable".
 
-You can view the handbook at [our website](https://eco.kde.org/handbook/), where you can also [download the PDF release](https://eco.kde.org/handbook/2023-02-13_sustainable-software-handbook_kde-eco.pdf) for offline reading or for sharing with a friend or colleague.
+You can view the handbook at [our website](https://eco.kde.org/handbook/), where you can also download the latest PDF release for offline reading or for sharing with a friend or colleague.
 
 {{< container class="text-center" >}}
 
