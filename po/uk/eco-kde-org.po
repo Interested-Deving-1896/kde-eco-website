@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-14 00:50+0000\n"
-"PO-Revision-Date: 2023-06-13 09:12+0300\n"
+"PO-Revision-Date: 2023-06-14 08:48+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
 "Language: uk\n"
@@ -26,10 +26,8 @@ msgid "Building Energy-Efficient Free Software"
 msgstr "Створення енергоефективного вільного програмного забезпечення"
 
 #: config.yaml:0
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Sustainable Goal"
-msgstr "Сталість"
+msgstr "Мета стійкого розвитку"
 
 #: config.yaml:0
 msgid "FEEP"
@@ -52,50 +50,47 @@ msgid ""
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
 msgstr ""
+"У 2020 році Німецька Агенція з навколишнього середовища (німецькою "
+"*Umweltbundesamt*) оприлюднила критерії надання екосертифікації для "
+"програмного забезпечення робочих станцій із екоміткою Blue Angel (німецькою "
+"*Blauer Engel*). Протягом 2021-2022 років проєкт BE4FOSS у KDE Eco працював "
+"над просуванням екосертифікації для ресурсо- та енергозаощадливого "
+"програмного забезпечення у спільнотах FOSS. Отримання екомітки Blue Angel "
+"відбувається у 3 кроки: (1) вимірювання, (2) аналіз і (3) сертифікація."
 
 #: content/BE4FOSS/_index.md:11
-#, fuzzy
-#| msgid "The benefits of obtaining the ecolabel include:"
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
 msgstr "Серед переваг, які надає екомітка, такі:"
 
 #: content/BE4FOSS/_index.md:12
-#, fuzzy
-#| msgid ""
-#| "Recognition of reaching high standards for environmentally-friendly "
-#| "software design"
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design,"
 msgstr ""
 "Визначення досягнення високих стандартів нешкідливого для середовища дизайну "
-"програмного забезпечення"
+"програмного забезпечення,"
 
 #: content/BE4FOSS/_index.md:13
-#, fuzzy
-#| msgid "Differentiating free software from the alternatives"
 msgid "Differentiating free software from the alternatives,"
 msgstr ""
 "Показ переваг вільного програмного забезпечення у порівнянні із "
-"альтернативами"
+"альтернативами,"
 
 #: content/BE4FOSS/_index.md:14
-#, fuzzy
-#| msgid "Increasing the appeal of adoption for consumers"
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr "Збільшення запиту щодо впровадження серед споживачів"
+msgstr "Збільшення запиту щодо впровадження серед споживачів і"
 
 #: content/BE4FOSS/_index.md:15
-#, fuzzy
-#| msgid "Promoting transparency in the ecological footprint of software"
 msgid "Promoting transparency in the ecological footprint of software."
-msgstr "Просування прозорості у екологічному аспекті програмного забезпечення"
+msgstr "Просування прозорості у екологічному аспекті програмного забезпечення."
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
 "Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)\"."
 msgstr ""
+"Дізнайтеся більше з підручника KDE Eco «[Застосування критеріїв Blue Angel "
+"до вільного програмного забезпечення](https://eco.kde.org/handbook/)\"."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid ""
@@ -2191,14 +2186,6 @@ msgstr ""
 "доповіддю [тут](https://streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "FEEP is developing tools to improve energy efficiency in Free & Open Source "
 "Software development. Design and implementation of software has a "
@@ -2220,18 +2207,15 @@ msgid "Get Involved"
 msgstr "Участь у команді"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "We need as many motivated people as possible to drive this forward. Here "
-#| "are some channels where you can get more information and contribute."
 msgid ""
 "Become a part of the sustainable software movement! We need as many "
 "motivated people as possible to drive this forward. Here are some channels "
 "where you can get more information and contribute."
 msgstr ""
-"Нам потрібно якомога більше мотивованих людей для просування ідеї. Нижче "
-"наведено деякі канали, на яких ви можете отримати додаткові відомості та "
-"взяти участь у роботі."
+"Ставайте частиною руху за створення програмного забезпечення для стійкого "
+"розвитку! Нам потрібно якомога більше мотивованих людей для просування ідеї. "
+"Нижче наведено деякі канали, на яких ви можете отримати додаткові відомості "
+"та взяти участь у роботі."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
@@ -2307,7 +2291,7 @@ msgstr "Ел. пошта: `joseph [at] kde.org`"
 
 #: content/sustainable-goal/_index.md:0 i18n/en.yaml:0
 msgid "Sustainable Software Goal"
-msgstr ""
+msgstr "Мета щодо створення програмного забезпечення для стійкого розвитку"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -2316,6 +2300,11 @@ msgid ""
 "preserves environment and society for us and future generations. KDE can "
 "deliver Sustainable Software."
 msgstr ""
+"Програмне забезпечення впливає на наше майбутнє. Воно визначає споживання "
+"енергії та ресурсів. KDE може створювати програмне забезпечення, яке "
+"працюватиме так, щоб не руйнувати середовище та суспільство у наш час та у "
+"майбутньому. KDE може створювати програмне забезпечення для стійкого "
+"розвитку."
 
 #: content/sustainable-goal/_index.md:11
 msgid ""
@@ -2324,6 +2313,12 @@ msgid ""
 "sustainably designed, stimulating actions to increase sustainability, and "
 "creating standards/tools to quantify software sustainability."
 msgstr ""
+"Мета щодо створення програмного забезпечення для стійкого розвитку полягає у "
+"просуванні енергозаощадження у KDE шляхом синхронізації поточних дій, "
+"виявлення частин програмного забезпечення, які вже спроєктовано з "
+"урахуванням енергозаощадження, заохочення до удосконалення енергозаощадження "
+"та створення стандартів та інструментів для оцінки відповідності програмного "
+"забезпечення цілям сталого розвитку."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2331,6 +2326,10 @@ msgid ""
 "KDE has the goal of providing software which does this in a way that reduces "
 "software's environmental impact for us and future generations."
 msgstr ""
+"Програмне забезпечення має безпосередній вплив на споживання енергії та "
+"ресурсів. З 2022 року у KDE є мета, яка полягає у створенні програмного "
+"забезпечення, яке зменшуватиме вплив людини на навколишнє середовище для нас "
+"і наступних поколінь."
 
 #: i18n/en.yaml:0
 msgid "Free and open source software Energy Efficiency Project"
@@ -2363,8 +2362,6 @@ msgstr ""
 "забезпечення екологічнішим."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn more"
 msgid "Learn More"
 msgstr "Дізнатись більше"
 
@@ -2390,19 +2387,18 @@ msgid "**Get Involved**"
 msgstr "Приєднатися до команди"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Join us for a sustainable software development movement!"
 msgid "Join us in the sustainable software development movement!"
 msgstr ""
-"Долучайтеся до нас у русі зі сталого розвитку програмного забезпечення!"
+"Долучайтеся до нас у русі зі створення програмного забезпечення для сталого "
+"розвитку!"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
-msgstr ""
+msgstr "Сховища"
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "Спілкування"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
@@ -2410,7 +2406,7 @@ msgstr "Список листування"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
-msgstr ""
+msgstr "Мета щодо створення стійкого програмного забезпечення KDE"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"

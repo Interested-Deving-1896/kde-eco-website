@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-14 00:50+0000\n"
-"PO-Revision-Date: 2023-06-13 10:36+0200\n"
+"PO-Revision-Date: 2023-06-14 14:14+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -25,10 +25,8 @@ msgid "Building Energy-Efficient Free Software"
 msgstr "Energie-efficiënte vrije software bouwen"
 
 #: config.yaml:0
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Sustainable Goal"
-msgstr "Onderhoudbaarheid"
+msgstr "Duurzaam doel"
 
 #: config.yaml:0
 msgid "FEEP"
@@ -51,48 +49,45 @@ msgid ""
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
 msgstr ""
+"In 2020 publiceerde het Duitse Milieu Agentschap (Duits: *Umweltbundesamt*) "
+"de criteria voor toekenningen voor eco-certifying van bureaubladsoftware met "
+"het Blue Angel ecolabel (Duits: *Blauer Engel*). Vanaf 2021-2022 werkte het "
+"BE4FOSS project onder KDE Eco naar geavanceerde eco-certificatie voor "
+"hulpbron en energy-efficiënte software in FOSS gemeenschappen. Het Blue "
+"Angel ecolabel verkrijgen gaat in drie stappen: (1) Meten, (2) Analyseren en "
+"(3) Certificeren."
 
 #: content/BE4FOSS/_index.md:11
-#, fuzzy
-#| msgid "The benefits of obtaining the ecolabel include:"
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr "De voordelen van het verkrijgen van het ecolabel omvatten:"
+msgstr "Voordelen van het verkrijgen van het ecolabel Blue Angel omvatten:"
 
 #: content/BE4FOSS/_index.md:12
-#, fuzzy
-#| msgid ""
-#| "Recognition of reaching high standards for environmentally-friendly "
-#| "software design"
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design,"
 msgstr ""
 "Herkenning van het bereiken van hoge standaarden voor milieu-vriendelijk "
-"ontwerpen van software"
+"ontwerpen van software,"
 
 #: content/BE4FOSS/_index.md:13
-#, fuzzy
-#| msgid "Differentiating free software from the alternatives"
 msgid "Differentiating free software from the alternatives,"
-msgstr "Onderscheid maken tussen vrije software en de alternatieven"
+msgstr "Onderscheid maken tussen vrije software en de alternatieven,"
 
 #: content/BE4FOSS/_index.md:14
-#, fuzzy
-#| msgid "Increasing the appeal of adoption for consumers"
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr "Verhogen van het appel op adoptie door consumenten"
+msgstr "Verhogen van het appel op adoptie door consumenten en"
 
 #: content/BE4FOSS/_index.md:15
-#, fuzzy
-#| msgid "Promoting transparency in the ecological footprint of software"
 msgid "Promoting transparency in the ecological footprint of software."
-msgstr "Transparantie promoten in de ecologische voetafdruk van software"
+msgstr "Transparantie promoten in de ecologische voetafdruk van software."
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
 "Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)\"."
 msgstr ""
+"Kom meer te weten in het KDE Eco handboek \"[Applying The Blue Angel "
+"Criteria To Free Software](https://eco.kde.org/handbook/)\"."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid ""
@@ -2184,14 +2179,6 @@ msgstr ""
 "[hier](https://streaming.media.ccc.de/rc3/relive/319) bekijken.*"
 
 #: content/FEEP/_index.md:9
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "FEEP is developing tools to improve energy efficiency in Free & Open Source "
 "Software development. Design and implementation of software has a "
@@ -2201,7 +2188,7 @@ msgid ""
 "of energy as one of the shared resources of our planet."
 msgstr ""
 "FEEP is het ontwikkelen van hulpmiddelen om energie-efficiëntie te "
-"verbeteren in het ontwikkelen van vrije en open-source software. Ontwerp en "
+"verbeteren in het ontwikkelen van vrije & open-source software. Ontwerp en "
 "implementatie van software heeft een significante invloed op de "
 "energieconsumptie van de systemen waar het onderdeel van is. Met de juiste "
 "hulpmiddelen is het mogelijk energieconsumptie te kwantificeren en omlaag te "
@@ -2213,17 +2200,14 @@ msgid "Get Involved"
 msgstr "Doe mee"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "We need as many motivated people as possible to drive this forward. Here "
-#| "are some channels where you can get more information and contribute."
 msgid ""
 "Become a part of the sustainable software movement! We need as many "
 "motivated people as possible to drive this forward. Here are some channels "
 "where you can get more information and contribute."
 msgstr ""
-"We hebben zoveel mogelijk personen nodig om dit vooruit te brengen. Hier "
-"zijn enige kanalen waar u meer informatie kan krijgen en bijdragen."
+"Maak deel uit van de duurzame software beweging! We hebben zoveel mogelijk "
+"personen nodig om dit vooruit te brengen. Hier zijn enige kanalen waar u "
+"meer informatie kan krijgen en bijdragen."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
@@ -2300,7 +2284,7 @@ msgstr "E-mail: `joseph [at] kde.org`"
 
 #: content/sustainable-goal/_index.md:0 i18n/en.yaml:0
 msgid "Sustainable Software Goal"
-msgstr ""
+msgstr "Duurzame software doel"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -2309,6 +2293,10 @@ msgid ""
 "preserves environment and society for us and future generations. KDE can "
 "deliver Sustainable Software."
 msgstr ""
+"Software heeft een impact op onze toekomst. Het heeft invloed op energie en "
+"gebruik van hulpbronnen. KDE kan software leveren die dit doet op een manier "
+"die de omgeving en gemeenschap bewaart voor ons en toekomstige generaties. "
+"KDE kan duurzame software leveren."
 
 #: content/sustainable-goal/_index.md:11
 msgid ""
@@ -2317,6 +2305,11 @@ msgid ""
 "sustainably designed, stimulating actions to increase sustainability, and "
 "creating standards/tools to quantify software sustainability."
 msgstr ""
+"Het doel duurzame software gaat over het promoten van duurzaamheid in KDE "
+"door bestaande activiteiten in lijn te brengen, accentueren waar onze "
+"software al duurzaam is ontworpen , acties stimuleren om duurzaamheid te "
+"verhogen en standaards/hulpmiddelen te maken om de duurzaamheid van software "
+"te kwantificeren."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2324,6 +2317,10 @@ msgid ""
 "KDE has the goal of providing software which does this in a way that reduces "
 "software's environmental impact for us and future generations."
 msgstr ""
+"Software heeft een directe invloed op consumptie van energie en hulpbronnen. "
+"Sinds 2022 heeft KDE het doel software te leveren die dat doet op een manier "
+"die de invloed van de software op de omgeving reduceert voor ons en "
+"toekomstige generaties."
 
 #: i18n/en.yaml:0
 msgid "Free and open source software Energy Efficiency Project"
@@ -2352,8 +2349,6 @@ msgstr ""
 "meer pioniers nodig om te ontdekken hoe we software duurzamer kunnen maken."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn more"
 msgid "Learn More"
 msgstr "Meer informatie"
 
@@ -2379,18 +2374,16 @@ msgid "**Get Involved**"
 msgstr "**Doe mee**"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Join us for a sustainable software development movement!"
 msgid "Join us in the sustainable software development movement!"
-msgstr "Doe met ons mee aan een beweging voor duurzame software ontwikkeling!"
+msgstr "Doe met ons mee in de beweging voor duurzame software ontwikkeling!"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
-msgstr ""
+msgstr "Opslagruimten"
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
@@ -2398,7 +2391,7 @@ msgstr "E-maillijst"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
-msgstr ""
+msgstr "Het doel van KDE voor duurzame software"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"

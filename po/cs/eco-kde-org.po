@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-14 00:50+0000\n"
-"PO-Revision-Date: 2023-06-12 17:13+0200\n"
+"PO-Revision-Date: 2023-06-14 14:12+0200\n"
 "Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
@@ -25,10 +25,8 @@ msgid "Building Energy-Efficient Free Software"
 msgstr ""
 
 #: config.yaml:0
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Sustainable Goal"
-msgstr "Udržitelnost"
+msgstr "Udržitelný cíl"
 
 #: config.yaml:0
 msgid "FEEP"
@@ -1605,10 +1603,8 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Read More"
 msgid "Learn More"
-msgstr "Více informací"
+msgstr "Chcete se dozvědět více?"
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
@@ -1634,11 +1630,11 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Repositories"
-msgstr ""
+msgstr "Repozitáře"
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "Rozhovor"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
@@ -1687,15 +1683,3 @@ msgstr ""
 #: i18n/en.yaml:0
 msgid "News from the blog"
 msgstr "Novinky z blogu"
-
-#~ msgid "BE4FOSS"
-#~ msgstr "BE4FOSS"
-
-#~ msgid "Matrix"
-#~ msgstr "Matice"
-
-#~ msgid "Forum"
-#~ msgstr "Fórum"
-
-#~ msgid "How you can help"
-#~ msgstr "Jak můžete pomoci"

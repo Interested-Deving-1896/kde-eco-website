@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-14 00:50+0000\n"
-"PO-Revision-Date: 2023-06-13 17:30+0100\n"
+"PO-Revision-Date: 2023-06-14 12:12+0100\n"
 "Last-Translator: José Nuno Coelho Pires <zepires@gmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-pt@kde.org>\n"
 "Language: pt\n"
@@ -42,6 +42,7 @@ msgstr ""
 "X-POFile-SpellExtra: MarkDowns Harri Alexander Mathias Bornschein Lohnau\n"
 "X-POFile-SpellExtra: Porten nacionaisie Akademy akademy Universitat\n"
 "X-POFile-SpellExtra: Politècnica Catalunya Mastodon akademykde cake webp\n"
+"X-POFile-SpellExtra: Applying Criteria\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -53,10 +54,8 @@ msgid "Building Energy-Efficient Free Software"
 msgstr "Criar 'Software' Livre Eficiente a Nível Energético"
 
 #: config.yaml:0
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Sustainable Goal"
-msgstr "Sustentabilidade"
+msgstr "Objectivo Sustentável"
 
 #: config.yaml:0
 msgid "FEEP"
@@ -79,48 +78,45 @@ msgid ""
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
 msgstr ""
+"Em 2020, a Agência Ambiental Alemã (Em alemão: *Umweltbundesamt*) lançou os "
+"critérios de nomeação de 'software' com certificação ecológica, através do "
+"emblema ecológico Blue Angel (Em alemão: *Blauer Engel*). Em 2021-2022, o "
+"projecto BE4FOSS no KDE Eco foi trabalhando no avanço da certificação "
+"ecológica para as aplicações eficientes em termos de recursos e energia nas "
+"comunidades FOSS. Obter a certificação Blue Angel ocorre em 3 passos: (1) "
+"Medir, (2) Analisar e (3) Certificar."
 
 #: content/BE4FOSS/_index.md:11
-#, fuzzy
-#| msgid "The benefits of obtaining the ecolabel include:"
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr "Os benefícios de obter este emblema incluem:"
+msgstr "Os benefícios de obter o emblema Blue Angel incluem:"
 
 #: content/BE4FOSS/_index.md:12
-#, fuzzy
-#| msgid ""
-#| "Recognition of reaching high standards for environmentally-friendly "
-#| "software design"
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design,"
 msgstr ""
 "Reconhecimento no alcance de padrões elevados no desenho de 'software' amigo "
-"do ambiente"
+"do ambiente,"
 
 #: content/BE4FOSS/_index.md:13
-#, fuzzy
-#| msgid "Differentiating free software from the alternatives"
 msgid "Differentiating free software from the alternatives,"
-msgstr "Diferenciação do 'software' livre face às alternativas"
+msgstr "Diferenciação do 'software' livre face às alternativas."
 
 #: content/BE4FOSS/_index.md:14
-#, fuzzy
-#| msgid "Increasing the appeal of adoption for consumers"
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr "Aumento do apelo à adopção pelos consumidores"
+msgstr "Aumento do apelo à adopção pelos consumidores e"
 
 #: content/BE4FOSS/_index.md:15
-#, fuzzy
-#| msgid "Promoting transparency in the ecological footprint of software"
 msgid "Promoting transparency in the ecological footprint of software."
-msgstr "Promoção da transparência na pegada ecológica das aplicações"
+msgstr "Promoção da transparência na pegada ecológica das aplicações."
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
 "Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)\"."
 msgstr ""
+"Saiba mais no manual do KDE Eco, em \"[Applying The Blue Angel Criteria To "
+"Free Software](https://eco.kde.org/handbook/)\"."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid ""
@@ -2238,14 +2234,6 @@ msgstr ""
 "(https://streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "FEEP is developing tools to improve energy efficiency in Free & Open Source "
 "Software development. Design and implementation of software has a "
@@ -2267,18 +2255,14 @@ msgid "Get Involved"
 msgstr "Envolva-se"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "We need as many motivated people as possible to drive this forward. Here "
-#| "are some channels where you can get more information and contribute."
 msgid ""
 "Become a part of the sustainable software movement! We need as many "
 "motivated people as possible to drive this forward. Here are some channels "
 "where you can get more information and contribute."
 msgstr ""
-"Precisamos de muita gente o mais motivada possível para levar isto em "
-"diante. Aqui estão alguns canais onde poderá obter mais informações e "
-"contribuir."
+"Torne-se parte do movimento de 'software' sustentável! Precisamos de muita "
+"gente o mais motivada possível para levar isto em diante. Aqui estão alguns "
+"canais onde poderá obter mais informações e contribuir."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
@@ -2355,7 +2339,7 @@ msgstr "E-mail: `joseph [at] kde.org`"
 
 #: content/sustainable-goal/_index.md:0 i18n/en.yaml:0
 msgid "Sustainable Software Goal"
-msgstr ""
+msgstr "Objectivo de 'Software' Sustentável"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -2364,6 +2348,10 @@ msgid ""
 "preserves environment and society for us and future generations. KDE can "
 "deliver Sustainable Software."
 msgstr ""
+"O 'software' tem um impacto no nosso futuro. Tem um efeito sobre a "
+"utilização da energia e dos recursos. O KDE pode oferecer aplicações que "
+"façam isso de uma forma que preserve o ambiente e a sociedade para nós e "
+"para as gerações futuras. O KDE pode fornecer 'Software' Sustentável."
 
 #: content/sustainable-goal/_index.md:11
 msgid ""
@@ -2372,6 +2360,11 @@ msgid ""
 "sustainably designed, stimulating actions to increase sustainability, and "
 "creating standards/tools to quantify software sustainability."
 msgstr ""
+"O objectivo do 'software' sustentável é promover a sustentabilidade no KDE, "
+"alinhando as actividades existentes, destacando onde o nosso 'software' já "
+"está desenhado dessa forma, estimulando acções para aumentar a "
+"sustentabilidade e criar normas/ferramentas para quantificar a "
+"sustentabilidade do 'software'."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2379,6 +2372,10 @@ msgid ""
 "KDE has the goal of providing software which does this in a way that reduces "
 "software's environmental impact for us and future generations."
 msgstr ""
+"O 'software' tem um efeito directo no consumo de energia e recursos. Desde "
+"2022, o KDE tem o objectivo de fornecer aplicações que o façam de forma a "
+"reduzir o impacto ambiental do 'software' para nós e para as gerações "
+"futuras."
 
 #: i18n/en.yaml:0
 msgid "Free and open source software Energy Efficiency Project"
@@ -2408,10 +2405,8 @@ msgstr ""
 "mais pioneiros para descobrir como podemos tornar o 'software' sustentável."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn more"
 msgid "Learn More"
-msgstr "Aprender mais"
+msgstr "Saber Mais"
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
@@ -2435,20 +2430,17 @@ msgid "**Get Involved**"
 msgstr "**Envolver-se**"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Join us for a sustainable software development movement!"
 msgid "Join us in the sustainable software development movement!"
 msgstr ""
-"Junte-se a nós para um movimento de desenvolvimento de 'software' "
-"sustentável!"
+"Junte-se a nós no movimento de desenvolvimento de 'software' sustentável!"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
-msgstr ""
+msgstr "Repositórios"
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "Conversar"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
@@ -2456,7 +2448,7 @@ msgstr "Lista de E-mail"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
-msgstr ""
+msgstr "Objectivo de 'Software' Sustentável do KDE"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"
@@ -2497,80 +2489,3 @@ msgstr "Ver todas as publicações"
 #: i18n/en.yaml:0
 msgid "News from the blog"
 msgstr "Notícias do 'blog'"
-
-#~ msgid "BE4FOSS"
-#~ msgstr "BE4FOSS"
-
-#~ msgid ""
-#~ "In 2020 the Umweltbundesamt ('German Environment Agency') released the "
-#~ "award criteria for obtaining eco-certification with the Blauer Engel "
-#~ "label for desktop software. Categories for certification include energy "
-#~ "efficiency, extending the potential operating life of hardware, and user "
-#~ "autonomy … all of which fit seamlessly with free and open source software."
-#~ msgstr ""
-#~ "Em 2020, a Umweltbundesamt ('Agência Ambiental Alemã') lançou os "
-#~ "critérios para a obtenção de certificações ecológicas com o emblema "
-#~ "Blauer Engel para o 'software' de computadores. As categorias de "
-#~ "certificação incluem a eficiência energética, a extensão do tempo de vida "
-#~ "potencial do 'hardware' e a autonomia do utilizador … as quais se "
-#~ "encaixam perfeitamente no 'software' livre e de código-aberto."
-
-#~ msgid ""
-#~ "The BE4FOSS project advances eco-certification for resource efficient "
-#~ "software in the FOSS community. Obtaining the Blauer Engel label occurs "
-#~ "in 3 steps: (1) MEASURE, (2) ANALYZE, and (3) CERTIFY."
-#~ msgstr ""
-#~ "O projecto BE4FOSS avança com a certificação ecológica de aplicações "
-#~ "eficientes em recursos na comunidade FOSS. A obtenção do emblema Blauer "
-#~ "Engel ocorre em 3 passos: (1) MEDIR, (2) ANALISAR e (3) CERTIFICAR."
-
-#~ msgid "MEASURE in dedicated labs, such as at KDAB Berlin"
-#~ msgstr "MEDIR em laboratórios dedicados, como no KDAB Berlim"
-
-#~ msgid ""
-#~ "ANALYZE using statistical tools such as OSCAR (Open source Software "
-#~ "Consumption Analysis in R)"
-#~ msgstr ""
-#~ "ANALISAR com ferramentas estatísticas como o OSCAR (Open source Software "
-#~ "Consumption Analysis in R)"
-
-#~ msgid ""
-#~ "CERTIFY by submitting the report on the fulfillment of the Blauer Engel "
-#~ "criteria"
-#~ msgstr ""
-#~ "CERTIFICAR através da submissão do relatório de cumprimento dos critérios "
-#~ "da Blauer Engel"
-
-#~ msgid "Become A Part Of The Sustainable Software Movement"
-#~ msgstr "Torne-se Parte do Movimento de 'Software' Sustentável"
-
-#~ msgid "Matrix"
-#~ msgstr "Matrix"
-
-#~ msgid "Forum"
-#~ msgstr "Fórum"
-
-#~ msgid "How you can help"
-#~ msgstr "Como poderá ajudar"
-
-#~ msgid ""
-#~ "Follow 3-steps to Blauer Engel eco-certification: (1) Measure, (2) "
-#~ "Analyze, (3) Certify"
-#~ msgstr ""
-#~ "Siga os 3-passos de certificação da Blauer Engel: (1) Medir, (2) "
-#~ "Analisar, (3) Certificar"
-
-#~ msgid "Squash bugs labelled 'efficiency'"
-#~ msgstr "Elimine os erros com a etiqueta 'efficiency' (eficiência)"
-
-#~ msgid "Set up a measurement lab in your community"
-#~ msgstr "Configure um laboratório de medição para a sua comunidade"
-
-#~ msgid "Develop automation tools for energy consumption measurements"
-#~ msgstr ""
-#~ "Desenvolva ferramentas de automação das medições de consumo de energia"
-
-#~ msgid "Assist with statistical analysis and related tools (e.g., OSCAR)"
-#~ msgstr ""
-#~ "Assista com análises estatísticas e as ferramentas relacionadas (p.ex., "
-#~ "OSCAR)"

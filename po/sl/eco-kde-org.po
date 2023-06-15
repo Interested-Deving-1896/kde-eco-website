@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-14 00:50+0000\n"
-"PO-Revision-Date: 2023-06-13 06:36+0200\n"
+"PO-Revision-Date: 2023-06-14 12:05+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -28,10 +28,8 @@ msgid "Building Energy-Efficient Free Software"
 msgstr "Izdelava energetsko učinkovitega prostega programja"
 
 #: config.yaml:0
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Sustainable Goal"
-msgstr "Trajnostno"
+msgstr "Trajnostni cilj"
 
 #: config.yaml:0
 msgid "FEEP"
@@ -54,48 +52,46 @@ msgid ""
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
 msgstr ""
+"Leta 2020 je Nemška agencija za okolje (nemško: *Umweltbundesamt*) objavila "
+"merila za podelitev okoljskega certifikata programske opreme za namizne "
+"računalnike z znakom za okolje Blue Angel (nemško: *Blauer Engel*). Od leta "
+"2021 do 2022 si je projekt BE4FOSS v okviru KDE Eco prizadeval za napredek "
+"okoljskega certificiranja za programsko opremo, učinkovito glede virov in "
+"energije v skupnostih prostega in odprtokodnega programja. Pridobitev znaka "
+"za okolje Modri angel poteka v treh korakih: (1) Merjenje, (2) Analiza in "
+"(3) Certificiranje."
 
 #: content/BE4FOSS/_index.md:11
-#, fuzzy
-#| msgid "The benefits of obtaining the ecolabel include:"
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr "Prednosti pridobitve eko značke vsebujejo:"
+msgstr "Prednosti pridobitve eko značke Blue Angel vsebujejo:"
 
 #: content/BE4FOSS/_index.md:12
-#, fuzzy
-#| msgid ""
-#| "Recognition of reaching high standards for environmentally-friendly "
-#| "software design"
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design,"
 msgstr ""
 "Priznanje doseganja visokih standardov pri oblikovanju okolju prijazne "
-"programske opreme"
+"programske opreme,"
 
 #: content/BE4FOSS/_index.md:13
-#, fuzzy
-#| msgid "Differentiating free software from the alternatives"
 msgid "Differentiating free software from the alternatives,"
-msgstr "Razlikovanje prostega programja od alternativnih programov"
+msgstr "Razlikovanje prostega programja od alternativnih programov,"
 
 #: content/BE4FOSS/_index.md:14
-#, fuzzy
-#| msgid "Increasing the appeal of adoption for consumers"
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr "Povečanje privlačnosti za rabo pri potrošnikih"
+msgstr "Povečanje privlačnosti za rabo pri potrošnikih in"
 
 #: content/BE4FOSS/_index.md:15
-#, fuzzy
-#| msgid "Promoting transparency in the ecological footprint of software"
 msgid "Promoting transparency in the ecological footprint of software."
-msgstr "Spodbujanje preglednosti pri ekološkem odtisu programske opreme"
+msgstr "Spodbujanje preglednosti pri ekološkem odtisu programske opreme."
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
 "Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)\"."
 msgstr ""
+"Poučite se več v Priročniku KDE Eco \"[Applying The Blue Angel Criteria To "
+"Free Software](https://eco.kde.org/handbook/)\"."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid ""
@@ -2149,14 +2145,6 @@ msgstr ""
 "streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "FEEP is developing tools to improve energy efficiency in Free & Open Source "
 "Software development. Design and implementation of software has a "
@@ -2166,7 +2154,7 @@ msgid ""
 "of energy as one of the shared resources of our planet."
 msgstr ""
 "FEEP razvija orodja za izboljšanje energetske učinkovitosti razvoja proste "
-"in odprte programske opreme. Oblikovanje in izdelava programske opreme "
+"in odprtokodne programske opreme. Oblikovanje in izdelava programske opreme "
 "pomembno vplivata na porabo energije sistemov, katere so sestavni del. S "
 "pravimi orodji je mogoče količinsko opredeliti in si prizadevati za "
 "zmanjšanje porabe energije. Ta povečana učinkovitost prispeva k bolj "
@@ -2177,17 +2165,14 @@ msgid "Get Involved"
 msgstr "Bodite vpleteni"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "We need as many motivated people as possible to drive this forward. Here "
-#| "are some channels where you can get more information and contribute."
 msgid ""
 "Become a part of the sustainable software movement! We need as many "
 "motivated people as possible to drive this forward. Here are some channels "
 "where you can get more information and contribute."
 msgstr ""
-"Potrebujemo kar največ motiviranih ljudi, ki bodo poganjali razvoj naprej. "
-"Tukaj je nekaj kanalov, kjer lahko dobite več informacij in lahko prispevate."
+"Postanite del gibanja za trajnostno programsko opremo! Potrebujemo kar "
+"največ motiviranih ljudi, ki bodo poganjali razvoj naprej. Tukaj je nekaj "
+"kanalov, kjer lahko dobite več informacij in lahko prispevate."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
@@ -2263,7 +2248,7 @@ msgstr "E-pošta: `joseph [at] kde.org`"
 
 #: content/sustainable-goal/_index.md:0 i18n/en.yaml:0
 msgid "Sustainable Software Goal"
-msgstr ""
+msgstr "Trajnostni cilj programske opreme"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -2272,6 +2257,9 @@ msgid ""
 "preserves environment and society for us and future generations. KDE can "
 "deliver Sustainable Software."
 msgstr ""
+"Programska oprema ima vpliv na našo bodočnost. Vpliva na rabo energije in "
+"virov. KDE lahko dobavlja programsko opremo, ki ohranja okolje, družbo za "
+"nas in bodoče generacije. KDE lahko dobavlja trajnostno programsko opremo."
 
 #: content/sustainable-goal/_index.md:11
 msgid ""
@@ -2280,6 +2268,11 @@ msgid ""
 "sustainably designed, stimulating actions to increase sustainability, and "
 "creating standards/tools to quantify software sustainability."
 msgstr ""
+"Cilj trajnostne programske opreme je spodbujanje trajnosti v KDE z "
+"usklajevanjem obstoječih dejavnosti, poudarjanjem, kjer je naša programska "
+"oprema že trajnostno zasnovana, spodbujanjem ukrepov za povečanje trajnosti "
+"in ustvarjanjem standardov/orodij za količinsko opredelitev trajnosti "
+"programske opreme."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2287,6 +2280,9 @@ msgid ""
 "KDE has the goal of providing software which does this in a way that reduces "
 "software's environmental impact for us and future generations."
 msgstr ""
+"Programska oprema neposredno vpliva na porabo energije in virov. Od leta "
+"2022 ima KDE cilj zagotoviti programsko opremo, ki to počne na način, ki "
+"zmanjšuje vpliv programske opreme na okolje za nas in prihodnje generacije."
 
 #: i18n/en.yaml:0
 msgid "Free and open source software Energy Efficiency Project"
@@ -2315,10 +2311,8 @@ msgstr ""
 "pionirjev, da ugotovimo, kako lahko naredimo programsko opremo trajnostno."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn more"
 msgid "Learn More"
-msgstr "Več o tem"
+msgstr "Poučite se več"
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
@@ -2342,18 +2336,16 @@ msgid "**Get Involved**"
 msgstr "**Bodite vpleteni**"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Join us for a sustainable software development movement!"
 msgid "Join us in the sustainable software development movement!"
-msgstr "Pridružite se nam za gibanje trajnostnega razvoja programske opreme!"
+msgstr "Pridružite se nam v gibanju za trajnostni razvoj programske opreme!"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
-msgstr ""
+msgstr "Repozitoriji"
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "Klepet"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
@@ -2361,7 +2353,7 @@ msgstr "Poštni seznam"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
-msgstr ""
+msgstr "Cilj KDE-jeve trajnostne programske opreme"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"
