@@ -12,6 +12,10 @@ home.header.be4foss.description:
   other: Eco-labels for products are used widely already. But how can they be transferred to software? What criteria is relevant? We need more pioneers to find out how we can make software sustainable.
 home.header.more:
   other: Learn More
+home.eco-handbook:
+  other: KDE Eco Handbook
+home.eco-handbook.alt:
+  other: Plots of real time measurements using KDE's LabPlot.
 home.okular:
   other: Okular Awarded Blue Angel Ecolabel
 home.okular.be:
