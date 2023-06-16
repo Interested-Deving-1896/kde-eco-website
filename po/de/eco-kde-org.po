@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-14 00:50+0000\n"
+"POT-Creation-Date: 2023-06-16 00:50+0000\n"
 "PO-Revision-Date: 2022-03-13 09:24+0100\n"
 "Last-Translator: Frederik Schwarzer <schwarzer@kde.org>\n"
 "Language-Team: German <kde-i18n-doc@kde.org>\n"
@@ -1720,6 +1720,16 @@ msgstr ""
 #| msgid "Learn more"
 msgid "Learn More"
 msgstr "Mehr erfahren"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "KDE Eco"
+msgid "KDE Eco Handbook"
+msgstr "KDE Eco"
+
+#: i18n/en.yaml:0
+msgid "Plots of real time measurements using KDE's LabPlot."
+msgstr ""
 
 #: i18n/en.yaml:0
 #, fuzzy

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-14 00:50+0000\n"
+"POT-Creation-Date: 2023-06-16 00:50+0000\n"
 "PO-Revision-Date: 2023-05-22 14:02\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
@@ -1615,6 +1615,14 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Learn More"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "KDE Eco Handbook"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Plots of real time measurements using KDE's LabPlot."
 msgstr ""
 
 #: i18n/en.yaml:0

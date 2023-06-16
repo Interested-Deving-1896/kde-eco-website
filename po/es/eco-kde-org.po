@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-14 00:50+0000\n"
+"POT-Creation-Date: 2023-06-16 00:50+0000\n"
 "PO-Revision-Date: 2023-02-26 20:44+0100\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -2386,6 +2386,16 @@ msgstr ""
 #| msgid "Learn more"
 msgid "Learn More"
 msgstr "Saber más"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "KDE Eco blog"
+msgid "KDE Eco Handbook"
+msgstr "Blog de KDE Eco"
+
+#: i18n/en.yaml:0
+msgid "Plots of real time measurements using KDE's LabPlot."
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"

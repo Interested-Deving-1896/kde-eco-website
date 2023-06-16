@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-14 00:50+0000\n"
+"POT-Creation-Date: 2023-06-16 00:50+0000\n"
 "PO-Revision-Date: 2023-06-14 14:12+0200\n"
 "Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -1605,6 +1605,14 @@ msgstr ""
 #: i18n/en.yaml:0
 msgid "Learn More"
 msgstr "Chcete se dozvědět více?"
+
+#: i18n/en.yaml:0
+msgid "KDE Eco Handbook"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Plots of real time measurements using KDE's LabPlot."
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
