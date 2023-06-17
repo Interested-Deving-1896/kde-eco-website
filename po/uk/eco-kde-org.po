@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-16 00:50+0000\n"
-"PO-Revision-Date: 2023-06-14 08:48+0300\n"
+"PO-Revision-Date: 2023-06-16 08:52+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
 "Language: uk\n"
@@ -2366,14 +2366,13 @@ msgid "Learn More"
 msgstr "Дізнатись більше"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco blog"
 msgid "KDE Eco Handbook"
-msgstr "Блог KDE Eco"
+msgstr "Підручник з KDE Eco"
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE's LabPlot."
 msgstr ""
+"Креслення вимірювань у режимі реального часу, які побудовано у LabPlot KDE."
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
