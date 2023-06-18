@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-16 00:50+0000\n"
-"PO-Revision-Date: 2023-06-14 12:12+0100\n"
+"PO-Revision-Date: 2023-06-18 00:00+0100\n"
 "Last-Translator: José Nuno Coelho Pires <zepires@gmail.com>\n"
 "Language-Team: Portuguese <kde-i18n-pt@kde.org>\n"
 "Language: pt\n"
@@ -42,7 +42,7 @@ msgstr ""
 "X-POFile-SpellExtra: MarkDowns Harri Alexander Mathias Bornschein Lohnau\n"
 "X-POFile-SpellExtra: Porten nacionaisie Akademy akademy Universitat\n"
 "X-POFile-SpellExtra: Politècnica Catalunya Mastodon akademykde cake webp\n"
-"X-POFile-SpellExtra: Applying Criteria\n"
+"X-POFile-SpellExtra: Applying Criteria LabPlot\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -2409,14 +2409,12 @@ msgid "Learn More"
 msgstr "Saber Mais"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco blog"
 msgid "KDE Eco Handbook"
-msgstr "'Blog' do KDE Eco"
+msgstr "Manual do KDE Eco"
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE's LabPlot."
-msgstr ""
+msgstr "Gráficos de medições em tempo-real, usando o LabPlot do KDE."
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
