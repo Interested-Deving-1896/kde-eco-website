@@ -1,11 +1,11 @@
 #
-# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2021, 2022.
+# Stefan Asserhäll <stefan.asserhall@bredband.net>, 2021, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-16 00:50+0000\n"
-"PO-Revision-Date: 2022-09-24 15:44+0200\n"
+"PO-Revision-Date: 2023-08-04 16:08+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -25,10 +25,8 @@ msgid "Building Energy-Efficient Free Software"
 msgstr "Bygga energieffektiv fri programvara"
 
 #: config.yaml:0
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Sustainable Goal"
-msgstr "Hållbarhet"
+msgstr "Hållbart mål"
 
 #: config.yaml:0
 msgid "FEEP"
@@ -53,41 +51,29 @@ msgid ""
 msgstr ""
 
 #: content/BE4FOSS/_index.md:11
-#, fuzzy
-#| msgid "The benefits of obtaining the ecolabel include:"
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr "Fördelarna med att erhålla miljömärkningen omfattar:"
+msgstr "Fördelarna med att erhålla Blå ängel-miljömärkningen omfattar:"
 
 #: content/BE4FOSS/_index.md:12
-#, fuzzy
-#| msgid ""
-#| "Recognition of reaching high standards for environmentally-friendly "
-#| "software design"
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design,"
 msgstr ""
 "Erkännande av att ha nått en hög standard av miljövänlig "
-"programvarukonstruktion"
+"programvarukonstruktion,"
 
 #: content/BE4FOSS/_index.md:13
-#, fuzzy
-#| msgid "Differentiating free software from the alternatives"
 msgid "Differentiating free software from the alternatives,"
-msgstr "Särskiljande av fri programvara från alternativen"
+msgstr "Särskiljande av fri programvara från alternativen,"
 
 #: content/BE4FOSS/_index.md:14
-#, fuzzy
-#| msgid "Increasing the appeal of adoption for consumers"
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr "Ökning av hur attraktiv användning är för brukare"
+msgstr "Ökning av hur attraktiv användning är för brukare, och"
 
 #: content/BE4FOSS/_index.md:15
-#, fuzzy
-#| msgid "Promoting transparency in the ecological footprint of software"
 msgid "Promoting transparency in the ecological footprint of software."
 msgstr ""
-"Främjande av transparens rörande det ekologiska avtrycket hos programvara"
+"Främjande av transparens rörande det ekologiska avtrycket hos programvara."
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
@@ -1879,10 +1865,8 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:43
-#, fuzzy
-#| msgid "![Teams KDE Eco](/blog/images/teams-kde-eco.png)"
 msgid "![KDE Eco cake](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
-msgstr "![KDE Eko-grupper](/blog/images/teams-kde-eco.png)"
+msgstr "![KDE Eko tårta](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:45
 msgid ""
@@ -2094,14 +2078,6 @@ msgstr ""
 "(https://streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "FEEP is developing tools to improve energy efficiency in Free & Open Source "
 "Software development. Design and implementation of software has a "
@@ -2122,53 +2098,42 @@ msgid "Get Involved"
 msgstr "Engagera dig"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "We need as many motivated people as possible to drive this forward. Here "
-#| "are some channels where you can get more information and contribute."
 msgid ""
 "Become a part of the sustainable software movement! We need as many "
 "motivated people as possible to drive this forward. Here are some channels "
 "where you can get more information and contribute."
 msgstr ""
-"Vi behöver så många motiverade personer som möjligt för att komma framåt. "
-"Här är några kanaler där du kan få mer information och bidra."
+"Bli en del av den hållbara programvarurörelsen! Vi behöver så många "
+"motiverade personer som möjligt för att komma framåt. Här är några kanaler "
+"där du kan få mer information och bidra."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
 msgstr "Gemenskap och stöd"
 
 #: content/get-involved.md:14
-#, fuzzy
-#| msgid ""
-#| "BigBlueButton: Monthly meet-ups, 2nd Wednesdays 19:00 CEST/CET (Berlin "
-#| "time) (contact us for details)"
 msgid ""
 "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/"
 "+1:00) (contact us for details)"
 msgstr ""
-"BigBlueButton: Månadsvisa träffar, andra onsdagen 19:00 CEST/CET (Berlintid, "
-"kontakta oss för detaljerad information)"
+"Månadsvisa träffar, andra onsdagen 19:00 CEST/CET (UTC+2:00/+1:00) (kontakta "
+"oss för detaljerad information)"
 
 #: content/get-involved.md:15
-#, fuzzy
-#| msgid ""
-#| "Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
 msgid ""
 "Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-efficiency:"
 "kde.org"
-msgstr "Matrix-rum: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+msgstr ""
+"Matrix-rum (diskussion): https://webchat.kde.org/#/room/#energy-efficiency:"
+"kde.org"
 
 #: content/get-involved.md:16
-#, fuzzy
-#| msgid ""
-#| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#| "efficiency"
 msgid ""
 "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "energy-efficiency"
 msgstr ""
-"E-postlista: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency"
+"E-postlista (tillkännagivanden): https://mail.kde.org/cgi-bin/mailman/"
+"listinfo/energy-efficiency"
 
 #: content/get-involved.md:18
 msgid "Resources"
@@ -2181,35 +2146,27 @@ msgid ""
 msgstr ""
 
 #: content/get-involved.md:21
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
 msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
-msgstr "FEEP GitLab-arkiv: https://invent.kde.org/teams/eco/feep"
+msgstr "FEEP (GitLab-arkiv): https://invent.kde.org/teams/eco/feep"
 
 #: content/get-involved.md:22
-#, fuzzy
-#| msgid "BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss"
 msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
-msgstr "BE4FOSS GitLab-arkiv: https://invent.kde.org/teams/eco/be4foss"
+msgstr "BE4FOSS (GitLab-arkiv): https://invent.kde.org/teams/eco/be4foss"
 
 #: content/get-involved.md:23
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-"
-#| "application"
 msgid ""
 "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
 "eco/blue-angel-application"
 msgstr ""
-"Blue Angel-program: https://invent.kde.org/teams/eco/blue-angel-application"
+"Blå ängel-program: https://invent.kde.org/teams/eco/blue-angel-application"
 
 #: content/get-involved.md:24
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
-msgstr "FEEP GitLab-arkiv: https://invent.kde.org/teams/eco/feep"
+msgstr ""
+"Remote Eco Lab (GitLab-arkiv): https://invent.kde.org/teams/eco/remote-eco-"
+"lab"
 
 #: content/get-involved.md:26
 msgid "Contact"
@@ -2273,16 +2230,12 @@ msgstr ""
 "fler pionjärer för att ta reda på hur vi kan göra programvara hållbar."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn more"
 msgid "Learn More"
 msgstr "Ta reda på mer"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco blog"
 msgid "KDE Eco Handbook"
-msgstr "KDE Eko-blogg"
+msgstr "KDE Eko handbok"
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE's LabPlot."
@@ -2310,10 +2263,8 @@ msgid "**Get Involved**"
 msgstr "**Engagera dig**"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Join us for a sustainable software development movement!"
 msgid "Join us in the sustainable software development movement!"
-msgstr "Gå med i en hållbar programvaruutvecklingsrörelse!"
+msgstr "Gå med i den hållbar programvaruutvecklingsrörelsen!"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
@@ -2360,8 +2311,6 @@ msgid "Categories"
 msgstr "Kategorier"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Read More"
 msgid "Read more"
 msgstr "Läs mer "
 
