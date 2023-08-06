@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-16 00:50+0000\n"
-"PO-Revision-Date: 2023-06-16 10:15+0200\n"
+"PO-Revision-Date: 2023-08-05 19:35+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 22.12.3\n"
+"X-Generator: Lokalize 23.04.3\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -778,6 +778,7 @@ msgstr ""
 msgid "Future collaboration:"
 msgstr "Col·laboració futura:"
 
+# skip-rule: punctuation-period-no
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:131
 msgid ""
 "Joint Sprint with related projects (e.g., [SoftAWERE](https://sdialliance."
