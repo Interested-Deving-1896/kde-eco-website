@@ -1,11 +1,11 @@
 #
-# Shinjo Park <kde@peremen.name>, 2021.
+# Shinjo Park <kde@peremen.name>, 2021, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-06-16 00:50+0000\n"
-"PO-Revision-Date: 2021-11-24 01:32+0100\n"
+"PO-Revision-Date: 2023-08-08 00:28+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
 "Language: ko\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 21.08.1\n"
+"X-Generator: Lokalize 22.12.3\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -761,14 +761,6 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:61
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "As noted by [FEEP](https://eco.kde.org/#feep), the design and implementation "
 "of software has a significant impact on the energy consumption of the "
@@ -776,11 +768,11 @@ msgid ""
 "drive down energy consumption. This increased efficiency contributes to a "
 "more sustainable use of energy as one of the shared resources of our planet."
 msgstr ""
-"FEEP는 자유 오픈 소스 소프트웨어 개발 시 에너지 효율성을 개선할 수 있는 도구"
-"를 개발합니다. 소프트웨어의 설계와 구현은 해당 소프트웨어가 구동되는 시스템"
-"의 에너지 소모에 큰 영향을 줍니다. 올바른 도구를 사용하여 에너지 소모를 측정"
-"하고 감소시킬 부분을 찾을 수 있습니다. 소프트웨어의 에너지 효율성을 개선하면 "
-"우리 지구의 공유 자원인 에너지를 더 지속 가능한 형태로 사용할 수 있습니다."
+"[FEEP](https://eco.kde.org/#feep)에서 설명하는 것과 같이 소프트웨어의 설계와 "
+"구현은 해당 소프트웨어가 구동되는 시스템의 에너지 소모에 큰 영향을 줍니다. 올"
+"바른 도구를 사용하여 에너지 소모를 측정하고 감소시킬 부분을 찾을 수 있습니"
+"다. 소프트웨어의 에너지 효율성을 개선하면 우리 지구의 공유 자원인인 에너지를 "
+"더 지속 가능한 형태로 사용할 수 있습니다."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:65
 msgid "![3 Steps of Eco Certification](/blog/images/3StepsToBEECO.png)"
@@ -1528,14 +1520,6 @@ msgid ""
 msgstr ""
 
 #: content/FEEP/_index.md:9
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "FEEP is developing tools to improve energy efficiency in Free & Open Source "
 "Software development. Design and implementation of software has a "
