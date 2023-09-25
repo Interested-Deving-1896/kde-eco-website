@@ -64,6 +64,7 @@ outputs:
   home:
   - HTML
   - RSS
+  - JSON # for search
   section:
   - HTML
 params:
