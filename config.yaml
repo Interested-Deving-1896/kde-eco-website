@@ -26,6 +26,9 @@ i18n:
   - title
   - menu
   - strings
+  shortcodes:
+    params:
+      img: [alt, caption]
 languages:
   en:
     languageCode: en
