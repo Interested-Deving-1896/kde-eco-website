@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-16 00:50+0000\n"
+"POT-Creation-Date: 2023-09-29 00:45+0000\n"
 "PO-Revision-Date: 2023-08-05 08:26+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -1892,7 +1892,9 @@ msgstr ""
 "enastående arbete ni utför!"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
+#, fuzzy
+#| msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
+msgid "Update: Celebrating At Akademy 2022 (1 October) "
 msgstr "Uppdatering: Firande på Akademy 2022 (1 Oktober) {#akademy}"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-16 00:50+0000\n"
+"POT-Creation-Date: 2023-09-29 00:45+0000\n"
 "PO-Revision-Date: 2023-08-08 00:28+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -1325,7 +1325,7 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
+msgid "Update: Celebrating At Akademy 2022 (1 October) "
 msgstr ""
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35

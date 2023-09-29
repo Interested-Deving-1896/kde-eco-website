@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-06-16 00:50+0000\n"
+"POT-Creation-Date: 2023-09-29 00:45+0000\n"
 "PO-Revision-Date: 2023-07-21 18:09+0100\n"
 "Last-Translator: David Marzal <mundolibre@tutanota.com>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -1932,7 +1932,9 @@ msgstr ""
 "estáis haciendo."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
+#, fuzzy
+#| msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
+msgid "Update: Celebrating At Akademy 2022 (1 October) "
 msgstr "Actualización: Celebrando en la Akademy 2022 (1 de octubre) {#akademy}"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35

@@ -1,45 +1,49 @@
+# Translation of eco-kde-org.po to Catalan (Valencian)
+# Copyright (C) 2021-2023 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
 #
+# Josep M. Ferrer <txemaq@gmail.com>, 2021, 2022, 2023.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: websites-eco-kde-org 1.0\n"
+"Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-09-29 00:45+0000\n"
-"PO-Revision-Date: 2023-01-05 00:52+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: lt\n"
+"PO-Revision-Date: 2023-09-28 13:45+0200\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
-"SPDX-License-Identifier: LGPL-3.0-or-later\n"
-"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n%10>=2 && (n%100<10 || n"
-"%100>=20) ? 1 : n%10==0 || (n%100>10 && n%100<20) ? 2 : 3);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 23.11.70\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
 msgid "KDE Eco"
-msgstr ""
+msgstr "KDE Eco"
 
 #: config.yaml:0
 msgid "Building Energy-Efficient Free Software"
-msgstr ""
+msgstr "Construcció de programari lliure energèticament eficient"
 
 #: config.yaml:0
 msgid "Sustainable Goal"
-msgstr ""
+msgstr "Objectiu de sostenibilitat"
 
 #: config.yaml:0
 msgid "FEEP"
-msgstr ""
+msgstr "FEEP"
 
 #: config.yaml:0
 msgid "Donate"
-msgstr ""
+msgstr "Donatius"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
-msgstr ""
+msgstr "Etiqueta Eco"
 
 #: content/BE4FOSS/_index.md:9
 msgid ""
@@ -50,44 +54,58 @@ msgid ""
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
 msgstr ""
+"El 2020, l'Agència Alemanya del Medi Ambient (alemany: *Umweltbundesamt*) va "
+"publicar els criteris d'adjudicació del programari d'escriptori de "
+"l'ecocertificació amb l'etiqueta ecològica Blue Angel (alemany: *Blauer "
+"Engel*). Des de 2021-2022, el projecte BE4FOSS amb KDE Eco va treballar per "
+"a avançar en la certificació ecològica de recursos i programari "
+"energèticament eficient en les comunitats FOSS. L'obtenció de l'etiqueta "
+"ecològica Blue Angel es produïx en 3 passos: (1) mesurar, (2) analitzar, i "
+"(3) certificar."
 
 #: content/BE4FOSS/_index.md:11
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr ""
+msgstr "Els beneficis d'obtindre l'ecoetiqueta Blue Angel inclouen:"
 
 #: content/BE4FOSS/_index.md:12
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design,"
 msgstr ""
+"Reconeixement de l'assoliment d'estàndards elevats en el disseny de "
+"programari respectuós amb el medi ambient,"
 
 #: content/BE4FOSS/_index.md:13
 msgid "Differentiating free software from the alternatives,"
-msgstr ""
+msgstr "Diferenciació del programari lliure de les alternatives,"
 
 #: content/BE4FOSS/_index.md:14
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr ""
+msgstr "Incrementar l'interés d'adopció per part dels consumidors, i"
 
 #: content/BE4FOSS/_index.md:15
 msgid "Promoting transparency in the ecological footprint of software."
-msgstr ""
+msgstr "Promocionar la transparència en la petjada ecològica del programari."
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
 "Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)\"."
 msgstr ""
+"Apreneu-ne més en el manual de KDE Eco «[Applying The Blue Angel Criteria To "
+"Free Software](https://eco.kde.org/handbook/)»."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid ""
 "KDE Eco 2021 Sprint: Details On The Community Planning For KDE's Ecological "
 "Project"
 msgstr ""
+"Esprint de 2021 de KDE Eco: Detalls de la planificació de la Comunitat per "
+"al projecte ecològic de KDE"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Sprint 2021"
-msgstr ""
+msgstr "Esprint de 2021"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
@@ -95,11 +113,11 @@ msgstr ""
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/post-1.md:0
 msgid "Blauer Engel"
-msgstr ""
+msgstr "Blauer Engel"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Community Lab"
-msgstr ""
+msgstr "Laboratori de la comunitat"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-05-energy-conservation-day.md:0
@@ -107,17 +125,19 @@ msgstr ""
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/post-1.md:0
 msgid "Joseph P. De Veaugh-Geiss"
-msgstr ""
+msgstr "Joseph P. De Veaugh-Geiss"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Follow-up to the KDE Eco Sprint announcement posted on The Dot."
-msgstr ""
+msgstr "Seguiment de l'anunci de l'esprint de KDE Eco publicat en el Dot."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:12
 msgid ""
 "This is a follow-up to the [KDE Eco Sprint announcement posted on The Dot]"
 "(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
 msgstr ""
+"Este és el seguiment de l'[anunci de l'esprint de KDE Eco publicat en el Dot]"
+"(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:14
 msgid ""
@@ -127,15 +147,23 @@ msgid ""
 "Nevertheless, the community deployed its usual resourcefulness, and we met "
 "online instead."
 msgstr ""
+"L'11 de desembre de 2021, KDE Eco va celebrar el primer de molts esprints "
+"planificats, amb 7 persones presents. L'esprint va ser originalment un "
+"esdeveniment en persona per a establir un laboratori de mesura de la "
+"comunitat, però el coronavirus tenia altres idees. No obstant açò, la "
+"comunitat va desplegar la seua habitual capacitat de recursos, i ens "
+"reunirem en línia."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:18
 msgid ""
 "![KDE Eco 2021 Sprint On KDE News](/blog/images/dot-sprint-2021_small.png)"
 msgstr ""
+"![KDE Eco 2021 Sprint en les notícies de KDE](/blog/images/dot-"
+"sprint-2021small.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:20
 msgid "*KDE Eco 2021 Sprint Announcement On KDE News*"
-msgstr ""
+msgstr "*Anunci de l'esprint de 2021 de KDE Eco en les notícies de KDE*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:24
 msgid ""
@@ -144,26 +172,35 @@ msgid ""
 "invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
 "meetups/2021-12-11_sprint01_protocol.md) for further details."
 msgstr ""
+"En este article de format llarg proporcionaré una visió detallada dels "
+"principals temes debatuts a l'esprint i els seus resultats; vegeu també les "
+"[actes](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2021-12-11_sprint01_protocol.md) per a més detalls."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
 msgid "Did you know?"
-msgstr ""
+msgstr "Sabíeu que...?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:28
 msgid ""
 "Discussions similar to these occur monthly at our community meetups on the "
 "2nd Wednesday of the month from 19h-20h CET/CEST (Berlin Time)."
 msgstr ""
+"Els debats similars a estos es produïxen mensualment en les reunions de la "
+"comunitat el 2n dimecres del mes des de les 19 fins a les 20 hores CET/CEST "
+"(hora de Berlín)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:32
 msgid ""
 "<font size=\"6\"> **[Join us!](https://eco.kde.org/get-involved/) We would "
 "love to see you there.** </font>"
 msgstr ""
+"<font size=\"6\"> **[Uniu-vos!](https://eco.kde.org/get-involved/) Ens "
+"agradaria trobar-nos ací** </font>"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:36
 msgid "Creating a KDE Eco team"
-msgstr ""
+msgstr "Crear un equip de KDE Eco"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:38
 msgid ""
@@ -179,6 +216,17 @@ msgid ""
 "repositories can be found at [https://invent.kde.org/teams/eco](https://"
 "invent.kde.org/teams/eco)."
 msgstr ""
+"Actualment KDE Eco consistix en tres projectes relacionats: (i) Free and "
+"open Source Energy Efficiency Project (FEEP), (ii) Blauer Engel For FOSS "
+"(BE4FOSS) i (iii) Blauer Engel Applications. Cada projecte té el seu propi "
+"enfocament particular: FEEP es referix a mesurar el consum d'energia del "
+"programari lliure, BE4FOSS se centra en l'organització de la comunitat i la "
+"difusió d'informació sobre l'etiqueta ecològica Blauer Engel, i el "
+"repositori Blauer Engel Aplicacions acull tots els documents relacionats amb "
+"la certificació de programari KDE/lliure amb l'etiqueta ecològica. Fins a "
+"l'esprint els tres repositoris dels projectes es van allotjar en diversos "
+"espais de nom personals. Ara, els tres repositoris es troben a [https://"
+"invent.kde.org/teams/eco](https://invent.kde.org/teams/eco)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:40
 msgid ""
@@ -187,18 +235,22 @@ msgid ""
 "appropriate for community projects. Feel free to check out the activities of "
 "each project at the above team space!"
 msgstr ""
+"Tindre els projectes davall un equip enllaça amb major claredat estos i els "
+"possibles projectes futurs. A més, tindre un espai de noms no personal és "
+"més apropiat per a projectes comunitaris. Preneu-vos la llibertat per a "
+"revisar les activitats de cada projecte a l'espai anterior de l'equip!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:45
 msgid "![Teams KDE Eco](/blog/images/teams-kde-eco.png)"
-msgstr ""
+msgstr "![Teams KDE Eco](/blog/images/teams-kde-eco.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:47
 msgid "*Teams > KDE Eco*"
-msgstr ""
+msgstr "*Teams > KDE Eco*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:51
 msgid "Completing the Blauer Engel application for Okular"
-msgstr ""
+msgstr "Completant l'aplicació Blauer Engel per a Okular"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:53
 msgid ""
@@ -216,6 +268,18 @@ msgid ""
 "the awarding body for the Blauer Engel, within 2-3 months. KMail's "
 "submission will follow soon."
 msgstr ""
+"Hi ha tres aplicacions KDE el consum d'energia del qual ja s'ha mesurat:"
+"[Okular](https://invent.kde.org/teams/-/tree/master/measurements/okular),"
+"[KMail](https://invent.kde.org/teams/-/tree/measurements/kmail), i [Krita]"
+"(https://invent.kde.org/teams/eco/feep/-/tree/master/measurements/krita). "
+"D'estos tres, les aplicacions Blauer Engel per a Okular i KMail han sigut "
+"[en preparació](https://invent.kde.org/teams/eco/blue-angel-application/-/"
+"tree/master/applications) durant algun temps, i un dels objectius era "
+"completar l'aplicació Okular. Estem orgullosos d'anunciar que, després de "
+"l'esprint, s'ha presentat la sol·licitud d'Okular i actualment està en "
+"revisió per a la certificació. Esperem informació del [RAL gGmbH](https://"
+"www.ral-umwelt.de/en/ral-environment/), l'organisme de certificació pel "
+"Blauer Engel, en 2 o 3 mesos. La tramesa de KMail seguirà prompte."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:55
 msgid ""
@@ -239,14 +303,34 @@ msgid ""
 "its users and their communities. With FOSS, the community drives the "
 "direction of development!"
 msgstr ""
+"Durant una revisió de grup de l'aplicació Okular, els participants van "
+"plantejar molts punts interessants. Un punt, per exemple, es va plantejar "
+"quan es debatien els criteris de transparència del Blauer Engel ([Secció "
+"3.1.3.2](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
+"%20215-202001-en-Criteria-2020-02-13.pdf)). Malte Reißig del Grup de Recerca "
+"de l'IASS sobre «[Digitalisation and Sustainability Transformations](https://"
+"www.iass-potsdam.de/en/researchalisation-sustainability)» va destacar com el "
+"desenvolupament obert pot afectar positivament alguns dels altres requisits "
+"dels criteris de concessió (vegeu [este debat](https://invent.kde.org/teams/"
+"eco/blue-angel-application/-/issues/57)), com ara el manteniment a llarg "
+"termini i l'autonomia de l'usuari d'un producte de programari. És a dir, els "
+"usuaris de programari lliure no sols utilitzen programari passivament, sinó "
+"que són encoratjats i capaços d'expressar desitjos per al futur "
+"desenvolupament de les aplicacions, i poden participar activament en la "
+"planificació de fites. A més, amb un desenvolupament obert, els missatges de "
+"comissió poden estar vinculats a problemes específics o errors reportats per "
+"una comunitat d'usuaris i desenvolupadors. Amb el programari lliure, una "
+"aplicació no és només un producte final, sinó un procés obert que reflectix "
+"les necessitats i desitjos dels seus usuaris i les seues comunitats. Amb el "
+"FOSS, la comunitat impulsa la direcció del desenvolupament!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:59
 msgid "![Okular Icon](/blog/images/128-apps-okular.png)"
-msgstr ""
+msgstr "![Icona d'Okular](/blog/images/128-apps-okular.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:61
 msgid "*Okular Icon*"
-msgstr ""
+msgstr "*Icona d'Okular*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:65
 msgid ""
@@ -263,6 +347,19 @@ msgid ""
 "infrastructure may affect the fulfillment of the Blauer Engel requirements, "
 "such as uninstallability, modularity, etc."
 msgstr ""
+"Un altre punt estava relacionat amb la distribució de programari lliure i "
+"com presenta reptes per al compliment dels criteris de Blauer Engel. Com que "
+"el programari lliure normalment distribuïx programari de manera "
+"descentralitzada, per a qualsevol aplicació hi ha nombrosos canals de "
+"llançament i distribució. Considereu [Okular](https://okular.kde.org/"
+"download/), el qual està empaquetat no només per a [Flatpak](https://flathub."
+"org/apps/details/org.kde.okular), sinó també per a la [Microsoft Store]"
+"(https://www.microsoft.com/en-us/p/okular/9n41msq1wnm8), per no esmentar les "
+"nombroses distribucions de GNU/Linux (per exemple, [OpenOpenSuse](https://"
+"software.opensuse.org/package/okular), [Debian](https://packages.debian.org/"
+"bookworm/okular)). Les diferències en la infraestructura de paquets poden "
+"afectar el compliment dels requisits de Blauer Engel, com ara la "
+"desinstal·lació, la modularitat, etc."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:67
 msgid ""
@@ -276,6 +373,16 @@ msgid ""
 "bring them into the KDE community -- see, e.g., [this discussion](https://"
 "invent.kde.org/teams/eco/blue-angel-application/-/issues/56)."
 msgstr ""
+"Les empreses que publiquen programari propietari, normalment amb el "
+"desplegament centralitzat dels seus productes, no tindran estos problemes. "
+"En la vista d'açò, una possibilitat que el grup ha debatut és certificar "
+"només el codi font d'un programa, per tant, romanen neutrals sobre les "
+"diferències en com un producte de programari està empaquetat i distribuït. "
+"Una altra possibilitat és certificar llançaments específics de distribució, "
+"com el de la Microsoft Store. De fet, este últim es podria utilitzar per a "
+"propòsits de màrqueting per a arribar a usuaris nous i portar-los a la "
+"comunitat KDE. Vegeu, per exemple, [este debat](https://invent.kde.org/teams/"
+"eco/blue-angel-application/-/issues/56)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:69
 msgid ""
@@ -285,11 +392,16 @@ msgid ""
 "efficiency:kde.org) or via the [issue trackers](https://invent.kde.org/"
 "groups/teams/eco/-/issues) at our GitLab repositories!"
 msgstr ""
+"Ens encantaria saber què en penseu. Uniu-vos a la conversa en la nostra "
+"[llista de correu](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+"efficiency) o en la [sala de Matrix](https://webchat.kde.org/#/room/#energy-"
+"efficiency:kde.org) o a través del [seguidor d'incidències](https://invent."
+"kde.org/groups/teams/eco/-/issues) del nostre repositori de GitLab!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:71
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Standard Usage Scenarios"
-msgstr ""
+msgstr "Escenaris d'ús estàndard"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:73
 msgid ""
@@ -298,6 +410,10 @@ msgid ""
 "Standard Usage Scenarios are central to measuring the energy consumption of "
 "a piece of software."
 msgstr ""
+"Un *Standard Usage Scenario* (SUS, en català Escenari d'ús estàndard) "
+"reflectix les funcions típiques d'una aplicació, tenint en compte la "
+"freqüència d'estes funcions. Els escenaris d'ús estàndard són fonamentals "
+"per a mesurar el consum d'energia d'una peça de programari."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:75
 msgid ""
@@ -310,6 +426,15 @@ msgid ""
 "defining a SUS: idle action is both realistic and can show nothing is "
 "happening when nothing is *supposed* to be happening."
 msgstr ""
+"En revisar els registres d'acció SUS per a Okular per a l'aplicació Blauer "
+"Engel, es van destacar dos punts importants que milloraran la implementació "
+"del SUS quan es mesura en el laboratori. Una va ser l'observació sobre la "
+"necessitat de documentar no només les accions, sinó també els objectes "
+"d'accions (per exemple, quan s'utilitza un lector de PDF, quin PDF està "
+"obert), ja que açò pot influir en el consum d'energia. L'altra és que "
+"incloure una acció inactiva és important quan es definix un SUS: l'acció "
+"inactiva és realista i pot mostrar que no està passant res quan no hi ha res "
+"que *suposadament* estiga passant."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:77
 msgid ""
@@ -330,14 +455,32 @@ msgid ""
 "today's world, and this is currently planned for the revised Blauer Engel "
 "award criteria for software."
 msgstr ""
+"Es van portar altres temes diversos a la taula virtual. Nicolas Fella, un "
+"enginyer de programari al KDAB de Berlín, va expressar el seu interés a "
+"comparar dos clients de xat, que van canviar la conversa per a definir "
+"escenaris individuals quan es comparaven dues aplicacions amb un ús similar. "
+"Un SUS únic limitarà quines funcions de programari es poden provar, però "
+"farà que els resultats de les mesures siguen directament comparables. "
+"D'altra banda, per a programari client-servidor com un xat o clients de "
+"correu electrònic, existix la qüestió del component de xarxa, que per a "
+"proves controlades requeriria la creació i el mesurament del consum "
+"d'energia d'un servidor. L'antic president de KDE e.V. i l'antic "
+"col·laborador de KDE [Cornelius Schumacher](https://en.wikipedia.org/wiki/"
+"CorneliusSchumacher) varen assenyalar que per a les mesures de [KMail]"
+"(https://invent.kde.org/teams/eco/blue-angel-application/-/tree/master/"
+"applications/kmail) només es va mesurar el treball de computació en la "
+"màquina local. La mesura de la computació no local en el programari de "
+"client-servidor és més rellevant que mai en el món actual, i açò està "
+"previst actualment per als criteris de la concessió Blauer Engel revisats "
+"per al programari."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:81
 msgid "![KMail Welcome Screen](/blog/images/kmailwelcome.png)"
-msgstr ""
+msgstr "![Pantalla de benvinguda de KMail](/blog/images/kmailwelcome.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:83
 msgid "*KMail Welcome Screen*"
-msgstr ""
+msgstr "*Pantalla de benvinguda de KMail*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:87
 msgid ""
@@ -351,6 +494,16 @@ msgid ""
 "in such a way that creation of an action log can also be automated. Would "
 "anyone in the community like to help tackle these challenges?"
 msgstr ""
+"Un altre tema debatut va ser definir les accions SUS de manera abstracta per "
+"tal d'automatitzar la implementació d'escenaris d'ús amb diferents eines "
+"(*Actiona*, *xdotool*, *KXmlGui*, etc.). Un punt important va ser que les "
+"eines diferents d'emulació fan coses diferents, les quals podrien presentar "
+"reptes a l'automatització del procés. Per exemple, no es pot escriure text "
+"quan s'utilitza *KXmlGui* per a emular, i per tant encara es pot necessitar "
+"alguna cosa com *xdotool*. En una nota relacionada, una altra proposta era "
+"estructurar un SUS de tal manera que la creació d'un registre d'acció també "
+"es pot automatitzar. A algú de la comunitat li agradaria ajudar a fer front "
+"a estos reptes?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:89
 msgid ""
@@ -359,6 +512,10 @@ msgid ""
 "low-end hardware. What are [your ideas](https://invent.kde.org/teams/eco/"
 "be4foss/-/issues/31)?"
 msgstr ""
+"A més, el grup va debatre com els escenaris d'ús també podien ser "
+"reformulats per a provar la capacitat de resposta i el rendiment general en "
+"maquinari antic o de gamma baixa. Quines són les [vostres idees](https://"
+"invent.kde.org/teams/eco/be4foss/-/issues/31)?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:91
 msgid ""
@@ -369,10 +526,17 @@ msgid ""
 "your SUS at our [GitLab repository](https://invent.kde.org/teams/eco/"
 "be4foss/-/tree/master/standard-usage-scenarios)!"
 msgstr ""
+"Sabíeu que estem planejant tindre una marató per a mesurar el consum "
+"d'energia de les aplicacions FOSS/KDE a principis de 2022? Quines "
+"aplicacions voleu que es preparin els escenaris d'ús estàndard? Compartiu "
+"les vostres idees amb nosaltres [ací](https://invent.kde.org/teams/eco/"
+"be4foss/-/issues/28) o envieu el vostre SUS al nostre [repositori de GitLab]"
+"(https://invent.kde.org/teams/eco/be4foss/-/tree/master/standard-usage-"
+"scenarios)!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:93
 msgid "Replicable reference system"
-msgstr ""
+msgstr "Sistema de referència reproduïble"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:95
 msgid ""
@@ -390,7 +554,22 @@ msgid ""
 "depend on what the data is to be used for, and this will differ for "
 "researchers, developers, eco-label auditors, companies, etc."
 msgstr ""
+"Els escenaris d'ús estàndard s'executen en un sistema de referència, i una "
+"qüestió important plantejada va ser com tindre un sistema de referència "
+"reproduïble. Hi ha diverses capes de sistema que s'han de considerar: "
+"maquinari (CPU, disc, RAM, etc.); el SO i els serveis del SO com el gestor "
+"d'activitats en Plasma, així com les seues configuracions; i la configuració "
+"de l'aplicació provada, així com qualsevol aplicació relacionada (per "
+"exemple, Akonadi per a les aplicacions PIM). D'una banda, és necessari "
+"tindre un entorn controlat per a poder interpretar els resultats; d'altra "
+"banda, és desitjable disposar de mesures que reflectisquen entorns "
+"informàtics reals, fins i tot sorollosos, per a comprendre el consum "
+"d'energia en el món real del programari. Al cap i a la fi, si s'han de "
+"controlar els entorns de computació natural o si s'han d'utilitzar les "
+"dades, i açò diferix per als investigadors, els desenvolupadors, els "
+"auditors de l'etiqueta ecològica, les empreses, etc."
 
+# skip-rule: kct-snapshot
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:97
 msgid ""
 "For instance, for developers interested in doing energy efficiency unit "
@@ -402,6 +581,15 @@ msgid ""
 "files. If you have other ideas let us know about them [here](https://invent."
 "kde.org/teams/eco/feep/-/issues/3)!"
 msgstr ""
+"Per exemple, per als desenvolupadors interessats en realitzar proves "
+"unitàries d'eficiència energètica o a obtindre el segell Blauer Engel, serà "
+"necessari tindre entorns clarament especificats. Llavors, quines són les "
+"maneres còmodes i ràpides de portar el sistema a un estat conegut? Es van "
+"discutir tres idees: (i) prendre instantànies d'un sistema de fitxers (per "
+"exemple, [Snapper](https://github.com/openSUSE/snapper)), (ii) netejar la "
+"memòria cau del sistema i (iii) reemplaçar els fitxers de configuració. Si "
+"teniu altres idees feu-nos saber [ací](https://invent.kde.org/teams/eco/"
+"feep/-/issues/3)!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:99
 msgid ""
@@ -409,10 +597,13 @@ msgid ""
 "log hardware performance and electrical power usage while people use their "
 "personal computers. Any volunteers?"
 msgstr ""
+"Per a entorns del món real, una proposta, potencialment controvertida, és "
+"registrar el rendiment del maquinari i l'ús d'energia elèctrica mentre que "
+"la gent utilitza els seus ordinadors personals. Cap voluntari?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:101
 msgid "Data output"
-msgstr ""
+msgstr "Eixida de dades"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:103
 msgid ""
@@ -424,6 +615,14 @@ msgid ""
 "g., timestamp loggers in xdotool scripts), it is necessary to consider what "
 "the data should look like before measuring in the lab."
 msgstr ""
+"Quan es mesura el consum d'energia en un laboratori, en particular per a "
+"l'ecocertificació de Blauer Engel, es poden generar tres tipus de fitxers de "
+"dades: (i) un fitxer de registre d'accions (vegeu més amunt pel que fa a "
+"l'automatització d'estos fitxers de registre), (ii) dades de rendiment del "
+"maquinari (CPU, RAM, etc.), i (iii) ús d'energia elèctrica. Com que en "
+"alguns casos les dades d'eixida hauran de ser autodefinides (per exemple, "
+"registres de codis de temps en scripts de «xdotool»), cal considerar com "
+"haurien de ser les dades abans de mesurar-les en el laboratori."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:105
 msgid ""
@@ -441,10 +640,25 @@ msgid ""
 "measurements and analysis, which is currently [in progress](https://invent."
 "kde.org/teams/eco/be4foss/-/blob/master/devices-tools-overview.md)."
 msgstr ""
+"S'han plantejat diverses qüestions relacionades amb les dades: S'ha "
+"d'estandarditzar l'eixida de dades per harmonitzar l'eixida a través de "
+"campanyes de mesurament, o és senzillament suficient per a publicar les "
+"dades arreplegades en un format accessible (per exemple, com a fitxers .csv "
+"com es fa al [repositori FEEP](https://invent.kde.org/teams/eco/feep/-/tree/"
+"master/measurements))? Quina precisió del codi de temps es necessita (per "
+"exemple, segons o fraccions de segons)? Estes preguntes seguixen obertes per "
+"ara, però el grup va decidir que necessitem [un resum](https://invent.kde."
+"org/teams/eco/be4foss/-/issues/27) dels dispositius/scripts compatibles amb "
+"FOSS (per exemple l'script d'Achim Guldner](https://gitlab.rlp.net/a.guldner/"
+"mobiles-messgerat) i els kits d'eines d'anàlisi de Gude Expert Power "
+"«Control» 1202 Series) i eines (per exemple, eines d'anàlisi estadística com "
+"OSCAR, R, Julia, Octave, PSPP, NumPy) utilitzades per a mesures i anàlisi, "
+"que actualment està [en curs](https://invent.kde.org/teams/eco/be4foss/-/"
+"blob/master/devices-tools-overview.md)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:107
 msgid "Power meter devices"
-msgstr ""
+msgstr "Dispositius de mesura d'electricitat"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:109
 msgid ""
@@ -459,13 +673,27 @@ msgid ""
 "professional power meters with budget ones to see how they compare. Would "
 "anyone in the community be interested in doing this?"
 msgstr ""
+"Els criteris de Blauer Engel es referixen a dos comptadors elèctrics (PM, "
+"Power Meter) en particular: Janitza UMG 604 i Gude Expert Power «Control» "
+"1202. Estos dispositius no són barats. En 2020, el col·laborador de KDE "
+"Volker Krause va analitzar un endoll de 8 euros i [va escriure sobre ell]"
+"(https://volkerkrause.eu/2020/10/17/kde-cheap-power-measurement-tools.html). "
+"Tal com es descriu en l'article del blog, estos endolls elèctrics de baix "
+"cost poden obtindre una taxa de mostreig de fins a 200 ms. Açò va portar a "
+"la idea d'utilitzar comptadors elèctrics barats en laboratoris domèstics de "
+"baix pressupost. Per a este fi, finalment serà útil comparar els resultats "
+"dels comptadors elèctrics professionals amb els econòmics per a veure com es "
+"comparen. Algú de la comunitat estaria interessat en açò?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:113
 msgid ""
 "![Example Measurement](/blog/images/power-usage-while-moving-mouse-cursor."
 "png)"
 msgstr ""
+"![Mesura d'exemple](/blog/images/power-usage-ment-ment-moving-mouse-cursor."
+"png)"
 
+# skip-rule: t-com_pu
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:115
 msgid ""
 "*From Volker Krause's [Blog Post](https://volkerkrause.eu/2020/10/17/kde-"
@@ -473,6 +701,11 @@ msgid ""
 "interval, no filter): mouse cursor being moved between samples 100 and 150, "
 "with a peak while hovering a task bar entry.\"*"
 msgstr ""
+"*De [l'article del blog de Volker Krause](https://volkerkrause.eu/2020/10/17/"
+"kde-cheap-power-measurement-tools.html):«\"Mesura d'exemple (interval de "
+"mostra de 200 ms, sense filtre): el cursor del ratolí es mou en mostres "
+"entre 100 i 150, amb un pic mentre es passa per damunt d'una entrada de la "
+"barra de tasques.»*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:119
 msgid ""
@@ -481,10 +714,15 @@ msgid ""
 "davidhurka/usb-spi-power-sensors) to provide a higher resolution alternative "
 "to power meters measuring at the wall outlet."
 msgstr ""
+"Una altra manera de mesurar el consum elèctric va vindre del col·laborador "
+"de KDE David Hurka, qui té una [proposta per a sensors d'alimentació SPI USB]"
+"(https://invent.kde.org/davidhurka/usb-spi-power-sensors) per a proporcionar "
+"una alternativa de resolució més alta als comptadors elèctrics que mesuren "
+"en la presa de corrent."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:121
 msgid "Open issues for measurement labs"
-msgstr ""
+msgstr "Problemes oberts dels laboratoris de mesura"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:123
 msgid ""
@@ -492,18 +730,27 @@ msgid ""
 "measurements. Although final decisions were not made in every case, many of "
 "these open issues will be important to consider going forward."
 msgstr ""
+"Diversos altres temes es van discutir relacionats amb el consum elèctric i "
+"les mesures de laboratori. Encara que en tots els casos no es van prendre "
+"decisions definitives, moltes d'estes qüestions obertes seran importants per "
+"a considerar en el futur."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:125
 msgid ""
 "Idea of a marketing-friendly tool to draw attention to the energy "
 "consumption of software."
 msgstr ""
+"Idea d'una eina favorable a la comercialització per a cridar l'atenció sobre "
+"el consum elèctric del programari."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:126
 msgid ""
 "For instance, an 'Eco' button for energy efficiency/carbon footprint meter "
 "(cf. travel carbon footprint in Itinerary app)."
 msgstr ""
+"Per exemple, un botó «Eco» per a l'eficiència energètica/mètrica de petjada "
+"de carboni (conferir la petjada de carboni dels viatges a l'aplicació "
+"Itinerary)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:127
 msgid ""
@@ -511,22 +758,31 @@ msgid ""
 "github.com/fenrus75/powertop), though open issues remain (when is it safe to "
 "enable to avoid data loss, machine freezes?)."
 msgstr ""
+"Cal tindre en compte que hi ha una funcionalitat similar proporcionada per "
+"[PowerTop](https://github.com/fenrus75/powertop), encara que els problemes "
+"oberts romanen (quan és segur activar-ho per a evitar la pèrdua de dades, la "
+"màquina es congela?)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:128
 msgid ""
 "When do the drawbacks outweigh the benefits of support for older hardware?"
 msgstr ""
+"Quan superen els inconvenients als beneficis d'acceptar el maquinari més "
+"antic?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:129
 msgid ""
 "Let's invite researchers working on this to discuss with the KDE Eco "
 "community."
 msgstr ""
+"Convidem als investigadors que treballen en açò per a debatre amb la "
+"comunitat de KDE Eco."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:130
 msgid "Future collaboration:"
-msgstr ""
+msgstr "Col·laboració futura:"
 
+# skip-rule: punctuation-period-no
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:131
 msgid ""
 "Joint Sprint with related projects (e.g., [SoftAWERE](https://sdialliance."
@@ -536,6 +792,12 @@ msgid ""
 "[here](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
 "meetups/2022-01-12_community-meetup_protocol.md).)"
 msgstr ""
+"Esprint conjunt amb projectes relacionats (per exemple, [SoftAWERE](https://"
+"sdialliance.org/steering-groups/softawere))? (Potser és d'interés per al "
+"lector: Max Schulze de SoftAWERE/[SDIA](https://sdialliance.org/) presentat "
+"a la reunió mensual de KDE Eco el gener de 2022, el qual es pot llegir a les "
+"actes d'[ací](https://invent.kde.org/teams/eco/be4foss/-/blob/master/"
+"community-meetups/2022-01-12_community-meetup_protocol.md))."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:132
 msgid ""
@@ -543,10 +805,14 @@ msgid ""
 "(https://bits-und-baeume.org/en), [Forum InformatikerInnen für Frieden und "
 "gesellschaftliche Verantwortung](https://www.fiff.de/), etc.)?"
 msgstr ""
+"Voleu debatre sobre estos temes i altres amb més comunitats relacionades "
+"([Bits & Bäume](https://bits-und-baeume.org/en), [Forum InformatikerInnen "
+"für Frieden und gesellschaftliche Verantwortung](https://www.fiff.de/), "
+"etc.)?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:134
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusió"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:136
 msgid ""
@@ -562,12 +828,23 @@ msgid ""
 "(although only the publisher is responsible for the content of this "
 "publication)."
 msgstr ""
+"L'esprint en línia va ser una oportunitat perfecta per a unir la comunitat i "
+"fer avançar el projecte KDE Eco, especialment quan ens preparem per al "
+"laboratori comunitari de mesura que se celebrarà a la KDAB de Berlín i la "
+"primera de moltes maratons de mesura (planificada per a principis de 2022)! "
+"L'èxit d'estos esdeveniments depén abans de res de la comunitat, així que "
+"permeteu-nos donar les gràcies de tot cor a tots els que es van unir a la "
+"conversa. Esperem que la comunitat cresca el 2022! A més, no hauríem pogut "
+"fer el que fem sense la col·laboració de KDE e.V. així com [BMU](www.bmu.de)/"
+"[UBA](https://www.umweltbundesamt.de/en), que col·labora financerament amb "
+"el projecte BE4FOSS (encara que només l'editor és responsable del contingut "
+"d'esta publicació)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
 #: content/blog/2022-03-05-energy-conservation-day.md:33
 #: content/blog/post-1.md:59
 msgid "Funding Notice"
-msgstr ""
+msgstr "Anunci de finançament"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:140 content/blog/post-1.md:61
 msgid ""
@@ -577,6 +854,11 @@ msgid ""
 "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
 "German Bundestag."
 msgstr ""
+"El projecte BE4FOSS ha sigut finançat per l'Agència Federal del Medi Ambient "
+"i el Ministeri Federal de Medi Ambient, Conservació de la Naturalea, "
+"Seguretat Nuclear i Protecció del Consumidor (BMUV<sup><a id=\"fnr.1\" class="
+"\"footref\" href=\"#fn.1\">1</a></sup>). Els fons estan disponibles per una "
+"resolució del Bundestag alemany."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:144
 #: content/blog/2022-03-05-energy-conservation-day.md:39
@@ -584,18 +866,22 @@ msgstr ""
 msgid ""
 "<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
 msgstr ""
+"<img src=\"/blog/images/bmuv.png\" alt=\"Logotip del BMUV\" width=\"340px\"/"
+">\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:146
 #: content/blog/2022-03-05-energy-conservation-day.md:41
 #: content/blog/post-1.md:67
 msgid "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
 msgstr ""
+"<img src=\"/blog/images/uba.jpg\" alt=\"Logotip de la UBA\" width=\"250px\"/"
+">\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
 #: content/blog/post-1.md:71
 msgid "The publisher is responsible for the content of this publication."
-msgstr ""
+msgstr "L'editor és el responsable del contingut d'esta publicació."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:152
 #: content/blog/2022-03-05-energy-conservation-day.md:47
@@ -604,39 +890,48 @@ msgid ""
 "<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> Official BMUV and UBA-Logos "
 "are sent only by request at: verbaendefoerderung@uba.de"
 msgstr ""
+"<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> Els logotips oficials de "
+"BMUV i UBA només s'envien sol·licitant-ho a: [verbaendefoerderung@uba.de]"
+"(mailto:verbaendefoerderung@uba.de)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Season of KDE 2022 With KDE Eco"
-msgstr ""
+msgstr "«Season of KDE» 2022 amb KDE Eco"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "SOK22"
-msgstr ""
+msgstr "SOK22"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Automation Tools"
-msgstr ""
+msgstr "Eines d'automatització"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Karanjot Singh"
-msgstr ""
+msgstr "Karanjot Singh"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid ""
 "My experience testing automation tools and preparing usage scenarios as a "
 "Season of KDE student with KDE Eco."
 msgstr ""
+"La meua experiència provant eines d'automatització i preparant escenaris "
+"d'ús com a estudiant de la «Season of KDE» amb KDE Eco."
 
+# skip-rule: t-com_obe_tan
 #: content/blog/2022-03-03-sok22-kde-eco.md:14
 msgid ""
 "I am very thankful to the KDE team for inviting me to be a part of this "
 "amazing community through their annual program [Season of KDE](https://"
 "season.kde.org)."
 msgstr ""
+"Estic molt agraït a l'equip de KDE per convidar-me a formar part d'esta "
+"comunitat increïble a través del seu programa anual [«Season of KDE»]"
+"(https://season.kde.org)."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:16
 msgid "About Me"
-msgstr ""
+msgstr "Quant a mi"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:18
 msgid ""
@@ -650,10 +945,20 @@ msgid ""
 "building things for socially-useful causes. I also believe that contributing "
 "to FOSS is the best way to gain experience in software development."
 msgstr ""
+"Soc Karanjot Singh. Soc un estudiant d'enginyeria informàtica de primer any "
+"de l'Institut Jaypee de Tecnologia de la Informació, Noida, Índia. He "
+"treballat com a desenvolupador en diversos programes de programari lliure i "
+"de codi obert (FOSS) com Kharagpur Winter of Code el 2021 (KWoC'21). No "
+"obstant açò, esta serà la meua primera contribució a un projecte amb una "
+"comunitat tan gran. Estic molt apassionat pel FOSS, resolent problemes i "
+"millorant l'eficiència dels processos. M'agrada explorar i aprendre noves "
+"tecnologies i construir coses per a causes socialment útils. També crec que "
+"contribuir al FOSS és la millor manera d'obtindre experiència en el "
+"desenvolupament de programari."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:20
 msgid "What I Will Be Working On"
-msgstr ""
+msgstr "En què estaré treballant"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:22
 msgid ""
@@ -671,14 +976,29 @@ msgid ""
 "feep/-/blob/master/tools/presentation_Visual_Workflow_Automation_Tools/"
 "Visual_Workflow_Automation_Tools.pdf). Below is my SoK’22 Timeline:"
 msgstr ""
+"Com a part d'un projecte pioner de sostenibilitat, [KDE Eco](https://eco.kde."
+"org/) té l'objectiu de mesurar i reduir el consum d'energia del programari "
+"KDE/lliure. Açò requerix emular el comportament de l'usuari, el qual es pot "
+"aconseguir mitjançant la planificació i la creació de scripts d'escenaris "
+"d'ús estàndard. Jo crearé els scripts d'escenaris d'ús estàndard per a "
+"diverses aplicacions, amb un enfocament en editors de text habitualment "
+"utilitzats com [Kate](https://apps.kde.org/kwrite/), [Vim](https://www.vim."
+"org/), [Emacs](https://www.gnu.org/software/emacs/), [Calligra Words]"
+"(https://apps.kde.org/calligrawords/), i [LibreOffice](https://www."
+"libreoffice.org/). Prepararé estos escenaris d'ús amb una de les moltes "
+"[eines disponibles d'emulació](https://invent.kde.org/teams/eco/feep/-/blob/"
+"master/tools/presentationVisualWorkflowAutomationTools/"
+"Visual_Workflow_Automation_Tools.pdf). A continuació hi ha la meua línia de "
+"temps del SoK'22:"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:26
 msgid "![Season of KDE 2022 Timeline](/blog/images/SoK_22Timeline.png)"
 msgstr ""
+"![Línia de temps de la «Season of KDE» 2022](/blog/images/SoK_22Timeline.png)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:31
 msgid "Motivation Behind Working On The KDE Eco Project"
-msgstr ""
+msgstr "Motivació per a treballar en el projecte de KDE Eco"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:33
 msgid ""
@@ -691,32 +1011,45 @@ msgid ""
 "that purpose. I also believe that KDE Eco assists me in my journey to become "
 "a better software developer."
 msgstr ""
+"Crec que KDE Eco és una iniciativa molt bona per a desenvolupar recursos i "
+"programari lliure eficient des del punt de vista energètic. Quan algú "
+"utilitza el FOSS i descobrix que el programari és transparent sobre el seu "
+"consum d'energia, que l'ús del programari pot ajudar a prolongar la vida "
+"útil del maquinari i reduir l'impacte ambiental de la digitalització, açò "
+"m'excita. Sempre vull formar part d'alguna cosa que contribuïsca a les "
+"generacions futures i KDE Eco servix per a este propòsit. També crec que KDE "
+"Eco m'ajuda en el meu viatge per a convertir-me en un millor desenvolupador "
+"de programari."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:35
 msgid "What I Have Learnt So Far"
-msgstr ""
+msgstr "El que he aprés fins ara"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:39
 msgid "When I was beginning with this project, I had three questions."
-msgstr ""
+msgstr "Quan vaig començar amb este projecte, tenia tres preguntes."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:41
 msgid "*How can we know when software is resource and energy-efficient?*"
 msgstr ""
+"*Com podem saber quan el programari és eficient en recursos i energèticament?"
+"*"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:43
 msgid "*How can we measure software’s energy consumption?*"
-msgstr ""
+msgstr "*Com podem mesurar el consum d'energia del programari?*"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:45
 msgid "*And does it make a difference?*"
-msgstr ""
+msgstr "*I açò marca alguna diferència?*"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:47
 msgid ""
 "These questions may come into anyone’s mind when thinking about the idea of "
 "software efficiency."
 msgstr ""
+"Estes preguntes poden arribar a la ment de qualsevol quan se pensa en la "
+"idea de l'eficiència del programari."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:49
 msgid ""
@@ -726,10 +1059,16 @@ msgid ""
 "to your doorstep. But the technologies and infrastructure behind it are "
 "determined by software engineers who make all of this work."
 msgstr ""
+"Quan utilitzeu programari, el que veeu és només la interfície amb la qual "
+"esteu interaccionant. Només digueu al vostre telèfon el que vulgueu i les "
+"coses apareixeran màgicament: si és informació en la pantalla o un paquet "
+"lliurat a la porta. Però les tecnologies i la infraestructura que hi ha "
+"darrere estan determinades per enginyers de programari que fan que tot açò "
+"funcione."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:53
 msgid "![UI vs. Complex Processes](/blog/images/UIvsProcesses.png)"
-msgstr ""
+msgstr "![IU vs. processos complexos](/blog/images/UIvsProcesses.png)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:57
 msgid ""
@@ -738,6 +1077,10 @@ msgid ""
 "much energy their software requires and could choose the application that "
 "might be better for the environment? This would be great!!!"
 msgstr ""
+"Imagineu: i si analitzem el consum d'energia que hi ha darrere del "
+"programari utilitzat habitualment i el fem més transparent? I si els usuaris "
+"pogueren saber quanta energia necessita el programari i pogueren triar "
+"l'aplicació que fora millor per al medi ambient? Açò seria genial!"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:59
 msgid ""
@@ -746,6 +1089,10 @@ msgid ""
 "feep)) and Blauer Engel For FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
 "be4foss)) are working hard on these issues."
 msgstr ""
+"Les iniciatives [KDE Eco](https://invent.kde.org/teams/eco), Free and open "
+"Source Energy Efficiency Project ([FEEP](https://invent.kde.org/teams/eco/"
+"feep)) i Blauer Engel For FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) estan treballant intensament en estos temes."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:61
 msgid ""
@@ -755,11 +1102,18 @@ msgid ""
 "drive down energy consumption. This increased efficiency contributes to a "
 "more sustainable use of energy as one of the shared resources of our planet."
 msgstr ""
+"Com ha indicat el [FEEP](https://eco.kde.org/#feep), el disseny i la "
+"implementació de programari té un impacte significatiu en el consum "
+"d'energia dels sistemes dels quals forma part. Amb les eines correctes, és "
+"possible quantificar i reduir el consum d'energia. Este augment d'eficiència "
+"col·labora amb un ús més sostenible de l'energia com un dels recursos "
+"compartits del nostre planeta."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:65
 msgid "![3 Steps of Eco Certification](/blog/images/3StepsToBEECO.png)"
-msgstr ""
+msgstr "![3 Passos de la certificació eco](/blog/images/3StepsToBEECO.png)"
 
+# skip-rule: da-be
 #: content/blog/2022-03-03-sok22-kde-eco.md:69
 msgid ""
 "BE4FOSS supports FEEP by collecting and spreading information related to "
@@ -768,40 +1122,58 @@ msgid ""
 "eco.kde.org/#be4foss), obtaining the Blauer Engel label occurs in 3 steps: "
 "(1) Measure, (2) Analyze, (3) Certify."
 msgstr ""
+"BE4FOSS dona suport a FEEP mitjançant la recopilació i difusió d'informació "
+"relacionada amb la certificació eco de Blauer Engel (BE), l'etiqueta "
+"ambiental oficial atorgada pel govern alemany. Com s'indica al lloc web [KDE "
+"Eco](https://eco.kde.org/#be4foss), l'obtenció de l'etiqueta Blauer Engel es "
+"produïx en 3 passos: (1) Mesurar, (2) Analitzar, (3) Certificar."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:71
 msgid "**MEASURE** in dedicated labs, such as at KDAB Berlin"
-msgstr ""
+msgstr "**MESURAR** en laboratoris dedicats, com el de KDAB de Berlín"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:72
 msgid ""
 "**ANALYZE** using statistical tools such as OSCAR (Open-source Software "
 "Consumption Analysis in R)"
 msgstr ""
+"**ANÀLISI** utilitzant eines estadístiques com OSCAR («Open source Software "
+"Consumption Analysis in R», Anàlisi de consum del programari de codi obert "
+"en R)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:73
 msgid ""
 "**CERTIFY** by submitting the report on the fulfilment of the Blauer Engel "
 "criteria"
 msgstr ""
+"**CERTIFICACIÓ** amb la presentació de l'informe sobre el compliment dels "
+"criteris de Blauer Engel"
 
+# skip-rule: da-be
 #: content/blog/2022-03-03-sok22-kde-eco.md:75
 msgid ""
 "In SoK'22, I will be preparing Standard Usage Scenarios for various text "
 "editors so that the usage scenarios may be used in Step 1 for obtaining BE "
 "eco-certification."
 msgstr ""
+"Al SoK'22, prepararé escenaris d'ús estàndard per a diversos editors de "
+"text, de manera que els escenaris d'ús es puguen utilitzar en la fase 1 per "
+"a obtindre una certificació ecològica de BE."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:77
 msgid "What I Have Done & Will Be Doing In The Coming Weeks"
-msgstr ""
+msgstr "Què he fet i què faré en les setmanes següents"
 
+# skip-rule: t-acc_obe
 #: content/blog/2022-03-03-sok22-kde-eco.md:79
 msgid ""
 "For the past three weeks, I have tested various automation tools, in "
 "particular ``Actiona``, ``xdotool``, and ``GNU Xnee``, to decide which of "
 "these tools would be best for implementing Standard Usage Scenarios."
 msgstr ""
+"Durant les últimes tres setmanes, he provat diverses eines d'automatització, "
+"en particular ``Actiona``, ``xdotool``, i ``GNU Xnee``, per a decidir quina "
+"d'estes eines seria millor per a implementar escenaris d'ús estàndard."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:81
 msgid ""
@@ -809,6 +1181,9 @@ msgid ""
 "documentation so that this information will also be beneficial for anyone "
 "wanting to contribute to KDE Eco."
 msgstr ""
+"Mentre utilitzava [``Actiona``](https://github.com/Jmgr/actiona), vaig "
+"escriure alguna documentació perquè esta informació també fora beneficiosa "
+"per a qualsevol que volguera contribuir a KDE Eco."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:83
 msgid ""
@@ -819,7 +1194,15 @@ msgid ""
 "done an extensive check. Nevertheless, xdotool gives more control over the "
 "system and even with some issues, this is the tool that I found most helpful."
 msgstr ""
+"Mentre provava [``xdotool``](https://github.com/jordansissel/xdotool), vaig "
+"trobar un problema amb una fuita de memòria. En executar Valgrind en la "
+"busca de «xdotool», es va perdre més memòria assignada pel XQueryTree. "
+"Probablement hi ha altres llocs on la memòria està assignada i no s'allibera "
+"després. No he fet una revisió exhaustiva. No obstant açò, «xdotool» dona "
+"més control sobre el sistema i, fins i tot amb alguns problemes, esta és "
+"l'eina que he trobat més útil."
 
+# skip-rule: t-acc_obe
 #: content/blog/2022-03-03-sok22-kde-eco.md:85
 msgid ""
 "I tested [``GNU Xnee``](https://xnee.wordpress.com/) too, which seemed "
@@ -827,6 +1210,10 @@ msgid ""
 "Also, it provides a replayer that one can use to automate tasks at whatever "
 "speed one wants."
 msgstr ""
+"També vaig provar [``GNU Xnee``](https://xnee.wordpress.com/) que em "
+"pareixia interessant, ja que registra l'eixida i l'emmagatzema en un fitxer "
+"separat. A més, proporciona una repetició de reproducció que es pot "
+"utilitzar per a automatitzar tasques a la velocitat que es vullga."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:87
 msgid ""
@@ -840,10 +1227,20 @@ msgid ""
 "be4foss/-/issues/31) for testing responsiveness and performance on older or "
 "lower-end hardware."
 msgstr ""
+"Al final, he decidit preparar tots els escenaris d'ús amb «xdotool», almenys "
+"inicialment, ja que la majoria dels editors de text utilitzen funcions de "
+"teclat en lloc d'activitat de ratolí i açò facilitarà l'adaptació de "
+"l'script a sistemes diferents. No obstant açò, després del SoK'22 tinc "
+"previst preparar escenaris d'ús també amb Actiona, de manera que puga "
+"aprendre les diferències entre estes eines. Amb relació a açò, també hi ha "
+"un debat en curs sobre [reutilitzar els escenaris d'ús estàndard](https://"
+"invent.kde.org/teams/eco/be4foss/-/issues/31) per a provar la capacitat de "
+"resposta i el rendiment en maquinari antic o de gamma baixa."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:91
 msgid "![Preparing Standard Usage Scenarios](/blog/images/PreparingSUS.png)"
 msgstr ""
+"![Preparació d'escenaris d'ús estàndard](/blog/images/PreparingSUS.png)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:95
 msgid ""
@@ -860,6 +1257,19 @@ msgid ""
 "I will put aside time for this attempt to fix the problem with the help of "
 "the GCompris team."
 msgstr ""
+"En les pròximes setmanes, a més, treballaré per a solucionar un problema "
+"conegut d'Actiona. El problema és que Actiona emula el comportament de "
+"l'usuari mitjançant l'emmagatzematge de la posició dels clics basats en "
+"coordenades de píxels, el qual pot fer que la transferència d'un script a un "
+"altre sistema siga difícil. Per exemple, este problema va sorgir recentment "
+"quan es preparava un escenari d'ús estàndard per a [GCompris](https://apps."
+"kde.org/gcompris/). Vaig trobar la solució de redimensionar la pantalla a "
+"una resolució mínima de la pantalla i incloure el codi al començament de "
+"l'script d'Actiona. Sempre que l'script s'executa en un sistema diferent, es "
+"redimensiona automàticament a la resolució mínima per a coincidir amb els "
+"píxels mentre s'executa l'script. Es tracta senzillament d'una idea i encara "
+"no s'ha provat. Dedicaré temps addicional per a este intent de solucionar el "
+"problema amb l'ajuda de l'equip de GCompris."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:97
 msgid ""
@@ -867,10 +1277,13 @@ msgid ""
 "(currently GCompris using Actiona) can be found [here](https://invent.kde."
 "org/teams/eco/be4foss/-/tree/master/standard-usage-scenarios)."
 msgstr ""
+"El repositori de GitLab que conté escenaris d'ús estàndard (actualment "
+"GCompris utilitza Actiona) es pot trobar [ací](https://invent.kde.org/teams/"
+"eco/be4foss/-/tree/master/standard-usage-scenarios)."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:99
 msgid "Community Bonding ( SoK’22 )"
-msgstr ""
+msgstr "Vinculació amb la comunitat (SoK'22)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:101
 msgid ""
@@ -893,6 +1306,25 @@ msgid ""
 "Nicolas Fella, who is currently working with xdotool for his Master's thesis "
 "on the energy consumption of software."
 msgstr ""
+"Done les gràcies al meu mentor Joseph P. De Veaugh-Geiss per dedicar temps "
+"per a ajudar-me proporcionant recursos i orientació durant el projecte. "
+"També vaig assistir a la reunió mensual de la comunitat de KDE Eco el [9 de "
+"febrer de 2022](https://invent.kde.org/teams/eco/be4foss/-/blob/master/"
+"community-meetups/2022-02-09_community-meetup_protocol.md), on el professor "
+"Dr. Stefan Naumann, Achim Guldner i Christopher Stumpf del [Umwelt Campus "
+"Birkenfeld](https://www.umwelt-campus.de/forschung/projekte/green-software-"
+"engineering/home) van fer un [debat](https://invent.kde.org/teams/eco/"
+"be4foss/-/blob/master/community-meetups/2022-02-09_community-meetup_umwelt-"
+"campus-presentation.pdf) sobre el mesurament del consum d'energia dels "
+"sistemes distribuïts i l'ampliació dels criteris de concessió de l'etiqueta "
+"Blauer Engel. Va ser una reunió interessant en la qual es van debatre els "
+"problemes d'automatització amb aplicacions mòbils, així com les proves de "
+"client-servidor. Joseph també em va presentar als investigadors de l'Umwelt "
+"Campus que van mesurar el [consum d'energia](https://invent.kde.org/teams/"
+"eco/feep/-/tree/master/measurements/okular) d'[Okular](https://okular.kde."
+"org); Emmanuel Charruau, que està treballant amb l'script de GCompris; i "
+"Nicolas Fella, que actualment treballa amb «xdotool» per a la seua tesi del "
+"màster sobre el consum d'energia del programari."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:109
 msgid ""
@@ -902,35 +1334,43 @@ msgid ""
 "[GitLab issue](https://invent.kde.org/teams/eco/be4foss/-/issues/32) at the "
 "BE4FOSS repository where we can discuss further."
 msgstr ""
+"Gràcies per prendre el temps per a llegir esta actualització. Si algú vol "
+"fer un seguiment de les idees presentades ací sobre els pros i els contres "
+"de diferents eines d'automatització en implementar els escenaris d'ús "
+"estàndard, hi ha un [assumpte de GitLab](https://invent.kde.org/teams/eco/"
+"be4foss/-/issues/32) al repositori de BE4FOSS on podem debatre més."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:111
 msgid "I am also available on KDE's Matrix instance at drquark:kde.org."
 msgstr ""
+"També estic disponible en la instància de Matrix de KDE a drquark:kde.org."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 msgid "Celebrate Energy Conservation Day With KDE Eco"
-msgstr ""
+msgstr "Celebreu el dia de conservació de l'energia amb KDE Eco"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 msgid "Energy Conservation"
-msgstr ""
+msgstr "Conservació de l'energia"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 #: content/blog/post-1.md:0
 msgid "Free Software"
-msgstr ""
+msgstr "Programari lliure"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Sustainability"
-msgstr ""
+msgstr "Sostenibilitat"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 msgid ""
 "March 5th is Energy Conservation Day. Celebrate with Free Software and KDE "
 "Eco!"
 msgstr ""
+"El 5 de març és el dia de conservació de l'energia. Celebreu-ho amb el "
+"programari lliure i KDE Eco!"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:13
 msgid ""
@@ -939,6 +1379,11 @@ msgid ""
 "But it is also the most worthy of pursuing, as ultimately many of the "
 "current sources of energy we depend on are finite."
 msgstr ""
+"Dels reptes als quals s'enfronta la humanitat en la seua lluita per "
+"potenciar la civilització moderna, la conservació de l'energia és un dels "
+"més difícils d'aconseguir. Però també és el més digne de perseguir, ja que "
+"en última instància moltes de les fonts d'energia actuals de les quals "
+"depenem són finites."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:15
 msgid ""
@@ -956,10 +1401,25 @@ msgid ""
 "applications and frameworks, to continue support for otherwise unsupported "
 "devices, and deploy exactly what people want and need."
 msgstr ""
+"Per açò, reduir la quantitat d'energia que consumim és una prioritat per a "
+"[KDE Eco](https://eco.kde.org/). Tots els projectes [KDE](https://kde.org) "
+"són programari lliure, i el programari lliure implica transparència i "
+"autonomia de l'usuari. La primera sempre ha proporcionat als usuaris "
+"l'oportunitat d'inspeccionar i aprendre com s'executa el programari; hui, "
+"esta transparència s'ha ampliat per a incloure el [consum d'energia del "
+"programari](https://invent.kde.org/teams/eco/feep) quan s'utilitza. La "
+"segona permet als usuaris de programari lliure instal·lar el que necessiten "
+"en els dispositius que vullguen, oblidant-se del programari espia i "
+"programari inflat mentre [perllonga l'esperança de vida del vostre maquinari]"
+"(https://fsfe.org/activities/upcyclingandroid/). Totes dues combinades donen "
+"a KDE Eco i als desenvolupadors de programari els mitjans per a desenvolupar "
+"millores d'estalvi d'energia per a aplicacions i entorns de treball, per a "
+"continuar el suport a dispositius no suportats, i desplegar exactament el "
+"que la gent vol i necessita."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:19
 msgid "![](/blog/images/tag-des-energiesparens.jpg)"
-msgstr ""
+msgstr "![](/blog/images/tag-des-energiesparens.jpg)"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:21
 msgid ""
@@ -968,6 +1428,11 @@ msgid ""
 "inviting you to [join us](https://eco.kde.org/get-involved/) at KDE Eco! "
 "([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*"
 msgstr ""
+"*Alemanya ha declarat el 5 de març el [Dia de conservació de l'energia]"
+"(https://www.bmuv.de/service/veranstaltungen/veranstaltung/tag-des-"
+"energiesparens). Hui us convidem a [unir-vos](https://eco.kde.org/get-"
+"involved/) a KDE Eco! ([Image: CC0](https://creativecommons.org/publicdomain/"
+"zero/1.0/))*"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:25
 msgid ""
@@ -982,10 +1447,22 @@ msgid ""
 "a species we will use fewer shared resources while keeping humanity's "
 "digital civilization running."
 msgstr ""
+"Evidentment, la conservació de l'energia per a un xicotet nombre de "
+"productes de programari no marcarà cap diferència notable. Però imagineu-vos "
+"si iniciem una tendència; imagineu conservar fins i tot xicotetes quantitats "
+"d'energia en cada aplicació, joc i entorn de treball; en centenars de milers "
+"de programes, corrent a través de milions de dispositius amb suport continu. "
+"Els usuaris gaudiran d'una major duració de la bateria i de factures "
+"d'electricitat més baixes. Poden continuar utilitzant un maquinari que "
+"encara funciona, amb un major estalvi personal i una reducció de les "
+"emissions globals de CO₂ evitant la producció i el transport innecessaris de "
+"dispositius nous. El més important, com a espècie, utilitzarem menys "
+"recursos compartits al mateix temps que mantenim en funcionament la "
+"civilització digital de la humanitat."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:27
 msgid "You can be part of that."
-msgstr ""
+msgstr "Podeu ser part d'açò."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:29
 msgid ""
@@ -998,10 +1475,19 @@ msgid ""
 "(https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other "
 "members of the project."
 msgstr ""
+"Alemanya ha declarat el 5 de març el [Dia de la conservació de l'energia]"
+"(https://www.bmuv.de/servei/veranstaltungen/veranstaltung/tag-des-"
+"energiaparens), i hui us convidem a unir-vos a nosaltres. Tant si sou un "
+"usuari preocupat per la petjada de carboni del vostre ús de la informàtica, "
+"o un projecte que busca millorar l'eficiència del vostre programari, "
+"[visiteu el nostre lloc web](https://eco.kde.org/) per a esbrinar com "
+"participar en KDE Eco i [unir-vos a la nostra sala de xat](https://matrix."
+"to///energyenergia-efficiency:kde.org) per a parlar en directe amb altres "
+"membres del projecte."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:31
 msgid "See you on Energy Conservation Day!"
-msgstr ""
+msgstr "Ens veem en el dia de conservació de l'energia"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:35
 msgid ""
@@ -1012,38 +1498,50 @@ msgid ""
 "Conservation Day). The funds are made available by resolution of the German "
 "Bundestag."
 msgstr ""
+"El projecte BE4FOSS ha sigut finançat per l'Agència Federal del Medi Ambient "
+"i el Ministeri Federal de Medi Ambient, Conservació de la Naturalea, "
+"Seguretat Nuclear i Protecció del Consumidor (BMUV<sup><a id=\"fnr.1\" class="
+"\"footref\" href=\"#fn.1\">1</a></sup>), el qual organitza el *Tag des "
+"Energiesparens* (Dia de conservació de l'energia). Els fons estan "
+"disponibles per una resolució del Bundestag alemany."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid ""
 "First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular"
 msgstr ""
+"Primer programa d'ordinador ecocertificat: Okular, el popular lector de PDF "
+"de KDE"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid ""
 "The multi-platform Free and Open-Source Software product is now officially "
 "recognized for sustainable software design"
 msgstr ""
+"El producte de programari lliure i de codi obert multiplataforma ara es "
+"reconeix oficialment pel disseny de programari sostenible"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Okular"
-msgstr ""
+msgstr "Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid "Global Ecolabelling Network"
-msgstr ""
+msgstr "Xarxa global d'etiquetatge ecològic"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid "Press release to announce Okular receiving the Blue Angel eco-label."
 msgstr ""
+"Nota de premsa per a anunciar que Okular ha rebut l'etiqueta ecològica de "
+"Blue Angel."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:16
 msgid "Okular screenshot"
-msgstr ""
+msgstr "Captura de pantalla d'Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:18
 msgid "Okular Icon"
-msgstr ""
+msgstr "Icona d'Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:20
 msgid ""
@@ -1062,6 +1560,21 @@ msgid ""
 "globalecolabelling.net/)! This network, of which Blue Angel is a member, "
 "represents over 50 countries."
 msgstr ""
+"[Okular](https://okular.kde.org/), el popular lector de PDF i visor "
+"universal de documents multiplataforma de KDE, ha sigut oficialment "
+"reconegut pel disseny de programari sostenible com es reflectixen els "
+"recents [criteris de concessió per a l'ecocertificació de programari]"
+"(https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
+"%20215-202001-en-Criteria-2020-02-13.pdf). El febrer de 2022 Okular va "
+"[aconseguir l'ecoetiqueta Blue Angel](https://www.blauer-engel.de/en/"
+"productworld/resources-and-energy-eficient-software-products), l'etiqueta "
+"ambiental oficial atorgada pel govern alemany. Presentada el 1978, Blue "
+"Angel és l'etiqueta ambiental més antiga del món, i Okular és el primer "
+"producte de programari certificat amb el seu segell. A més, Okular és el "
+"primer programa d'ordinador amb certificació ecològica d'entre les 30 "
+"organitzacions de la [Global Ecolabelling Network](https://www."
+"globalecolabelling.net/)! Esta xarxa, de la qual Blue Angel és membre, "
+"representa més de 50 països."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:22
 msgid ""
@@ -1084,6 +1597,26 @@ msgid ""
 "angel-for-software), where researchers measured the resource and energy-"
 "consumption of Okular and other KDE software."
 msgstr ""
+"KDE és una comunitat mundial d'enginyers de programari, artistes, "
+"escriptors, traductors i creadors que estan compromesos amb el "
+"desenvolupament de programari lliure. Amb la [missió](https://community.kde."
+"org/KDE/Mission) i la guia de la [visió](https://community.kde.org/KDE/"
+"Vision) a llarg termini de KDE, així com el talent i les capacitats dels "
+"membres de la seua comunitat, no és cap sorpresa que KDE siga un pioner "
+"entre el grup de persones i organitzacions en portar a terme un debat sobre "
+"programari sostenible. Este grup inclou [Blue Angel](https://www.blauer-"
+"engel.de/en) i els [investigadors](https://www.umwelt-campus.de/green-"
+"software-engineering/refoplan-2018) que hi ha darrere seu, col·laboradors "
+"com la [Free Software Foundation Europe](https://fsfe.org/), altres "
+"projectes de programari lliure, i un nombre creixent d'altres "
+"col·laboracions. Ara, amb el primer producte de programari ecocertificat, la "
+"comunitat KDE celebra la consecució juntament amb la resta de la [Comunitat "
+"de programari lliure](https://fsfe.org/news/2022/news-20220316-01.en.html), "
+"així com amb el departament d'informàtica de la [Umwelt Campus Birkenfeld]"
+"(https://www.umwelt-campus.de/en/forschung/projekte/green-software-"
+"engineering/news-details/first-blue-angel-for-software), on els "
+"investigadors van mesurar els recursos i el consum d'energia d'Okular i "
+"altre programari KDE."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:24
 msgid ""
@@ -1097,6 +1630,15 @@ msgid ""
 "signatures and sign documents yourself, as well as include annotated text "
 "and comments directly embedded into the document."
 msgstr ""
+"KDE va ser fundat en 1996 i manté nombrosos productes de programari lliure i "
+"de codi obert, inclòs l'entorn d'escriptori Plasma; l'aplicació de disseny "
+"per a pintors i artistes gràfics Krita; el conjunt GCompris d'activitats "
+"educatives per a infants; Kdenlive, un producte de programari d'edició "
+"professional de vídeo; i, per descomptat, Okular, un programa informàtic "
+"essencial que permet visualitzar tota mena de documents, incloent-hi PDF, "
+"còmics, documents científics i acadèmics, i dibuixos tècnics. Okular també "
+"permet verificar les signatures digitals i signar documents, així com "
+"incloure text anotat i comentaris directament integrats en el document."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:26
 msgid ""
@@ -1113,6 +1655,20 @@ msgid ""
 "directly related to sustainability by organizations such as the German "
 "Environment Agency (*Umweltbundesamt*), who developed the award criteria."
 msgstr ""
+"Els criteris de la concessió Blue Angel per al programari, amb el seu "
+"enfocament en la transparència en els recursos i l'eficiència energètica, la "
+"vida útil del maquinari i l'autonomia de l'usuari, proporcionen un punt de "
+"referència excel·lent per a iniciar un debat sobre la sostenibilitat del "
+"programari i impulsar el desenvolupament en esta àrea. I així, el 2021, KDE "
+"va començar [KDE Eco](https://eco.kde.org/), un projecte amb l'objectiu de "
+"posar el programari lliure i KDE a l'avantguarda del disseny de programari "
+"sostenible. La sostenibilitat no és un objectiu nou per al programari lliure "
+"i codi font obert (FOSS). Les [quatre llibertats](http://fsfe.org/"
+"freesoftware/freesoftware.en.html) sempre han posat el programari lliure a "
+"l'avantguarda del disseny de programari sostenible. La novetat *és* que els "
+"valors del FOSS ara es reconeixen com a directament relacionats amb la "
+"sostenibilitat per organitzacions com l'Agència Alemanya del Medi Ambient "
+"(*Umweltbundesamt*), la qual va desenvolupar els criteris de concessió."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:28
 msgid ""
@@ -1130,10 +1686,24 @@ msgid ""
 "include a list of user autonomy requirements which reduce the environmental "
 "impact of software."
 msgstr ""
+"La Blue Angel es concedix a un ampli ventall de productes i serveis, des de "
+"productes de paper fins a materials de construcció o impressores. En 2020, "
+"l'Agència Alemanya de Medi Ambient va ampliar els criteris de concessió per "
+"a incloure productes de programari, el qual va ser el primer en el món de "
+"les certificacions mediambientals a vincular la transparència i l'autonomia "
+"dels usuaris amb la sostenibilitat. Per a obtindre l'etiqueta ecològica, un "
+"producte de programari ha de demostrar que complix una llista d'exigències "
+"estrictes considerades crítiques per al medi ambient durant el cicle de vida "
+"del producte. Estes inclouen proporcionar transparència en el consum "
+"d'energia quan s'utilitza el programari -per exemple, en el cas d'Okular, "
+"mentre es llig o anota un PDF- i la capacitat d'executar l'aplicació en el "
+"maquinari d'almenys cinc anys d'antiguitat. Els criteris de concessió de "
+"Blue Angel també inclouen una llista de requisits d'autonomia de l'usuari "
+"que reduïxen l'impacte mediambiental del programari."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:30
 msgid "Blue Angel Ecolabel"
-msgstr ""
+msgstr "Ecoetiqueta Blue Angel"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:32
 msgid ""
@@ -1154,6 +1724,24 @@ msgid ""
 "Software license, users and communities are able to influence the factors "
 "determining the resource consumption of their software!"
 msgstr ""
+"Tots estos criteris reflectixen sense problemes els valors de KDE i els del "
+"moviment FOSS. Amb programari lliure i de codi obert, es garantix la "
+"transparència i es lliura el control als usuaris, en lloc de ser retinguts "
+"pels venedors o proveïdors de serveis. Açò permet als usuaris decidir el que "
+"volen del programari que utilitzen i també del maquinari, que amb molta "
+"freqüència es passa per alt. Per exemple, els usuaris poden reduir el consum "
+"d'energia dels programes sense pèrdua de funcionalitat, ja que poden "
+"instal·lar només allò que necessiten, ni més ni menys; i evitar la "
+"publicitat i les opcions de mineria de dades, que executarien processos "
+"innecessaris en segon pla que conduirien al consum de recursos. Pel que fa "
+"als desenvolupadors de FOSS, solen continuar donant suport al maquinari que "
+"la indústria estaria ansiosa per fer-ho obsolet, proporcionant als usuaris "
+"programari actualitzat i segur per a dispositius que d'una altra manera "
+"serien descartats com a residus electrònics i acabar en abocadors "
+"contaminants. En resum, a conseqüència de les llibertats d'usuari i la "
+"transparència garantides per una llicència de programari lliure, els usuaris "
+"i les comunitats poden influir en els factors que determinen el consum de "
+"recursos del seu programari!"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:34
 msgid ""
@@ -1165,6 +1753,13 @@ msgid ""
 "energy and resource consumption, extending the potential hardware operating "
 "life of devices, and enabling user autonomy."
 msgstr ""
+"Publicat amb la llicència GPLv2+, Okular és programari lliure i de codi "
+"obert, i per tant ja acomplia molts dels criteris d'autonomia de l'usuari "
+"necessaris per a obtindre el segell d'aprovació de la Blue Angel. Es van dur "
+"a terme més treballs per a fer que Okular complira plenament amb tots els "
+"criteris de la Blue Angel, i es reconeix oficialment com proporcionar "
+"transparència en el consum d'energia i recursos, ampliant la vida útil "
+"potencial dels dispositius i permetent l'autonomia de l'usuari."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:36
 msgid ""
@@ -1172,6 +1767,9 @@ msgid ""
 "to the Okular developers for making environmentally-friendly software for "
 "all of us!"
 msgstr ""
+"KDE i la comunitat de programari lliure volen enviar un sincer agraïment als "
+"desenvolupadors d'Okular per fer programari respectuós amb el medi ambient "
+"per a tots nosaltres!"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:40
 msgid ""
@@ -1186,6 +1784,17 @@ msgid ""
 "code is also readily available at [Okular's GitLab repository](https://"
 "invent.kde.org/graphics/okular) for all to use, study, share, and improve."
 msgstr ""
+"Okular funciona a Linux, Windows, Android i Plasma Mobile, i està disponible "
+"per [baixar](https://okular.kde.org/download/) en totes les distribucions de "
+"GNU/Linux, com a paquet independent des de [Flathub](https://flathub.org/"
+"apps/search/okular) i des de la [Snap Store](https://snapcraft.io/search?"
+"q=okular), a través del [repositori de llançaments de KDE a F-Droid](https://"
+"cdn.kde.org/android/stable-releases/fdroid/repo/) per a Android, així com "
+"des de la [Microsoft Store](https://www.microsoft.com/en-us/p/"
+"okular/9n41msq1wnm8#activetab=pivot:overviewtab). Com a FOSS, el codi font "
+"també està disponible al [repositori de GitLab d'Okular](https://invent.kde."
+"org/graphics/okular) perquè tothom l'utilitze, estudie, compartisca i "
+"millore."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:43
 msgid ""
@@ -1197,20 +1806,30 @@ msgid ""
 "Software part of our future so we can live up to our responsibility for this "
 "and future generations!"
 msgstr ""
+"Hui, la sostenibilitat s'ha de considerar holísticament: llibertat i "
+"obertura en el programari, autonomia dels usuaris i control sobre la vida "
+"digital pròpia i transparència en el consum de recursos de la nostra "
+"infraestructura digital formen part d'açò. Uniu-vos a nosaltres a [KDE Eco]"
+"(https://eco.kde.org/get-involved/). Fem que la sostenibilitat digital i el "
+"programari lliure i de codi obert eficient en recursos formen part del "
+"nostre futur, de manera que puguem complir amb la nostra responsabilitat "
+"envers esta generació i també amb les futures!"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid ""
 "Blue Angel Award Ceremony At EnviroInfo Conference: Okular Officially "
 "Receives Eco-Label, First Ever For Software Product"
 msgstr ""
+"Cerimònia del premi Blue Angel al Congrés EnviroInfo: oficialment Okular rep "
+"l'etiqueta Eco, la primera per a un producte de programari"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Award Ceremony"
-msgstr ""
+msgstr "Cerimònia del premi"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "EnviroInfo Conference"
-msgstr ""
+msgstr "Congrés EnviroInfo"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid ""
@@ -1221,6 +1840,13 @@ msgid ""
 "[Updated on Friday, 7 October 2022 for Okular's celebration at Akademy 2022 "
 "with KDE Eco cake.]"
 msgstr ""
+"El dimecres 28 de setembre, se celebrà que Okular va convertir-se en el "
+"primer producte de programari amb certificació ecològica de Blue Angel "
+"juntament amb l'Agència Alemanya del Medi Ambient (Umweltbundesamt), el "
+"Campus Mediambiental Birkenfeld (Umwelt Campus Birkenfeld), i els "
+"investigadors i assistents de la conferència EnviroInfo. [Actualitzat el "
+"divendres 7 d'octubre de 2022 per a la celebració d'Okular a l'Akademy 2022 "
+"amb el pastís de KDE Eco.]"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:12
 msgid ""
@@ -1228,6 +1854,9 @@ msgid ""
 "[\"Update: Celebrating At Akademy 2022 (1 October)\"]({{< ref \"#akademy\" "
 ">}}).*"
 msgstr ""
+"*Nota: Este article es va actualitzar el divendres 7 d'octubre de 2022. "
+"Vegeu la secció [«Actualització: celebració a l'Akademy 2022 (1 d'octubre)»]"
+"({{< ref \"#akademy\" >}}).*"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:14
 msgid ""
@@ -1237,6 +1866,11 @@ msgid ""
 "officially celebrated for becoming the first software product to receive the "
 "Blue Angel eco-label."
 msgstr ""
+"El dimecres 28 de setembre de 2022 [Okular](https://okular.kde.org/), un "
+"lector de documents avançat de codi lliure i obert que permet llegir, signar "
+"i anotar PDF, ePub, MarkDown i molts altres tipus de documents, va celebrar "
+"oficialment que es convertí en el primer producte de programari a rebre "
+"l'etiqueta ecològica Blue Angel."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:16
 msgid ""
@@ -1249,12 +1883,23 @@ msgid ""
 "currently only eco-certified computer program within the 30 organizations of "
 "the Global Ecolabelling Network, which represents over 50 countries."
 msgstr ""
+"Com es va anunciar al març (llegiu més [ací](https://eco.kde.org/"
+"blog/2022-03-16-press-release-okular-blue-angel/)), s'ha reconegut Okular "
+"pel disseny de programari sostenible tal com es reflectix en el recent premi "
+"Blue Angel de criteris per a l'ecocertificació de programari. Introduïda el "
+"1978, la Blue Angel és la primera etiqueta ecològica del món i l'etiqueta "
+"ambiental oficial concedida pel govern alemany. Amb este premi, Okular és el "
+"primer i actualment únic programa informàtic amb certificació ecològica dins "
+"de les 30 organitzacions de la Xarxa Global d'Ecoetiquetes, la qual "
+"representa més de 50 països."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:20
 msgid ""
 "![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/"
 "blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 msgstr ""
+"![Joseph, Harri i Alexander en l'escenari de la cerimònia del premi Blue "
+"Angel.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:22
 msgid ""
@@ -1263,6 +1908,10 @@ msgid ""
 "Bornschein from the German Environment Agency with Joseph P. De Veaugh-"
 "Geiss, Alexander Lohnau, and Harri Porten from the KDE community.*"
 msgstr ""
+"*Okular de KDE rep la certificació ecològica Blue Angel de l'Agència "
+"Alemanya del Medi Ambient ('Umweltbundesamt'). D'esquerra a dreta: Mathias "
+"Bornschein de l'Agència Alemanya de Medi Ambient amb Joseph P. De Veaugh-"
+"Geiss, Alexander Lohnau i Harri Porten de la comunitat KDE.*"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:27
 msgid ""
@@ -1272,6 +1921,11 @@ msgid ""
 "Lohnau, and Harri Porten -- were on stage to receive the award on behalf of "
 "Okular and the KDE community."
 msgstr ""
+"La cerimònia de lliurament va tindre lloc a la 36a edició del [Congrés "
+"EnviroInfo](https://informatik2022.gi.de/en/enviroinfo-2022) a Hamburg, "
+"Alemanya. Tres membres de la comunitat KDE -- Joseph P. De Veaugh-Geiss, "
+"Alexander Lohnau i Harri Porten -- estaven a l'escenari per a rebre el premi "
+"en nom d'Okular i la comunitat KDE."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:29
 msgid ""
@@ -1285,16 +1939,30 @@ msgid ""
 "Agency ('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt "
 "Campus Birkenfeld'), and the larger EnviroInfo community."
 msgstr ""
+"L'EnviroInfo és un congrés internacional i interdisciplinari centrat en "
+"qüestions mediambientals en les tecnologies de la informació i la "
+"comunicació. Els investigadors i assistents a l'esdeveniment hi són, citant "
+"el lloc web, per a «combinar i donar forma a les activitats nacionals i "
+"internacionals en el camp de la informàtica aplicada i la informàtica "
+"mediambiental per a fer del món un lloc millor per a viure». La comunitat "
+"KDE té l'honor d'haver celebrat l'assoliment d'Okular a l'esdeveniment "
+"juntament amb l'Agència Alemanya del Medi Ambient (Umweltbundesamt), el "
+"Campus Mediambiental de Birkenfeld (Umwelt Campus Birkenfeld), i la resta de "
+"la comunitat EnviroInfo."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:31
 msgid ""
 "Congratulations to Okular and KDE for official recognition of the "
 "outstanding work you are doing!"
 msgstr ""
+"Enhorabona a Okular i a KDE pel reconeixement oficial de la faena que esteu "
+"fent!"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
+#, fuzzy
+#| msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
 msgid "Update: Celebrating At Akademy 2022 (1 October) "
-msgstr ""
+msgstr "Actualització: celebració a l'Akademy 2022 (1 d'octubre) {#akademy}"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
@@ -1302,6 +1970,10 @@ msgid ""
 "Akademy 2022 attendees gathered to celebrate Okular's achievement in the "
 "outdoor gardens at Universitat Politècnica de Catalunya."
 msgstr ""
+"El dissabte 1 d'octubre, immediatament després de la taula de debat de KDE "
+"Eco, els assistents de l'Akademy 2022 es reuniren per a celebrar "
+"l'assoliment d'Okular en els jardins exteriors de la Universitat Politècnica "
+"de Catalunya."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:37
 msgid ""
@@ -1310,6 +1982,10 @@ msgid ""
 "community coming together, smiling, and enjoying the delicious, sugar-free "
 "KDE Eco cake made especially for the occasion."
 msgstr ""
+"Va ser un dia bonic. Encara més bonic va ser veure com els [col·laboradors "
+"d'Okular](https://invent.kde.org/graphics/okular/-/graphs/master) i la "
+"comunitat KDE en general s'unien, somrients i gaudint del deliciós pastís "
+"KDE Eco lliure de sucre creat especialment per a l'ocasió."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:39
 msgid ""
@@ -1317,53 +1993,60 @@ msgid ""
 "about the celebration and follow us at our [BE4FOSS Mastodon](https://"
 "mastodon.social/web/@BE4FOSS) account."
 msgstr ""
+"Vegeu el [tut](https://mastodon.social/web/@BE4FOSS/109093579604779746) "
+"quant a la celebració i seguiu-nos en el nostre compte [BE4FOSS Mastodon]"
+"(https://mastodon.social/web/@BE4FOSS)."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:43
 msgid "![KDE Eco cake](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
 msgstr ""
+"![Pastís de KDE Eco](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:45
 msgid ""
 "*Celebrating Okular and the Blue Angel with KDE Eco cake at Akademy 2022!*"
 msgstr ""
+"*Celebració d'Okular i la Blue Angel amb el pastís KDE Eco a l'Akademy 2022!*"
 
 #: content/blog/_index.md:0
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: content/blog/_index.md:0
 msgid "KDE Eco blog"
-msgstr ""
+msgstr "Blog de KDE Eco"
 
 #: content/blog/_index.md:9
 msgid "Keep up with the latest news about the KDE Eco project"
-msgstr ""
+msgstr "Esteu al dia de les últimes notícies quant al projecte KDE Eco"
 
 #: content/blog/post-1.md:0 content/FEEP/_index.md:0
 msgid "Energy Efficiency"
-msgstr ""
+msgstr "Eficiència energètica"
 
 #: content/blog/post-1.md:0
 msgid "Resource-Efficient Software & Blauer Engel Eco-Certification"
-msgstr ""
+msgstr "Programari eficient en recursos i ecocertificació Blauer Engel"
 
 #: content/blog/post-1.md:0
 msgid "Hardware Operating Life"
-msgstr ""
+msgstr "Vida operativa del maquinari"
 
 #: content/blog/post-1.md:0
 msgid "Software efficiency is resource efficiency!"
-msgstr ""
+msgstr "L'eficiència del programari és l'eficiència de recursos!"
 
 #: content/blog/post-1.md:15
 msgid ""
 "Often overlooked is the fact that the resource consumption of hardware is "
 "determined by the software running on it."
 msgstr ""
+"Sovint es passa per alt el fet que el consum de recursos del maquinari està "
+"determinat pel programari que executa."
 
 #: content/blog/post-1.md:17
 msgid "*How much energy does hardware use?*"
-msgstr ""
+msgstr "*Quanta energia utilitza el maquinari?*"
 
 #: content/blog/post-1.md:19
 msgid ""
@@ -1372,10 +2055,15 @@ msgid ""
 "(https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
 "Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf)."
 msgstr ""
+"Donem un colp d'ull al programari: la mateixa màquina que fa la mateixa "
+"tasca però amb dues aplicacions diferents pot tindre [exigències "
+"energètiques molt diferents](https://www.umwelt-campus.de/fileadmin/Umwelt-"
+"Campus/Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-"
+"software_0_1_.pdf)."
 
 #: content/blog/post-1.md:21
 msgid "*How long is the operating life of a piece of hardware?*"
-msgstr ""
+msgstr "*Quant dura la vida operativa d'una peça de maquinari?*"
 
 #: content/blog/post-1.md:23
 msgid ""
@@ -1383,12 +2071,17 @@ msgid ""
 "hardware results in new devices being manufactured and sold, while perfectly "
 "functioning devices are discarded."
 msgstr ""
+"De nou, el programari és crític. La inflació de programari que requerix un "
+"maquinari més i més potent conduïx a la fabricació i venda de dispositius "
+"nous, mentre que els dispositius que funcionen perfectament es descarten."
 
 #: content/blog/post-1.md:27
 msgid ""
 "![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-"
 "Towill_800x600.jpg \"WEEE Man At The Eden Project\")"
 msgstr ""
+"![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-"
+"Towill_800x600.jpg \"WEEE Man At The Eden Project\")"
 
 #: content/blog/post-1.md:29
 msgid ""
@@ -1397,6 +2090,11 @@ msgid ""
 "citizen in their lifetime - equating to 3.3 tonnes.\" ([source](https://web."
 "archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*"
 msgstr ""
+"*\"L'Home WEEE (Waste Electrical and Electronic Equipment -Brossa d'equips "
+"elèctrics i electrònics-) de set metres d'alçària està fet d'equips "
+"elèctrics i electrònics llançats pel ciutadà mitjà de Regne Unit durant tota "
+"la seua vida, equivalent a 3,3 tones.\" ([font](https://web.archive.org/"
+"web/20180901075137/https://www.geograph.org.uk/photo/2637892))*"
 
 #: content/blog/post-1.md:33
 msgid ""
@@ -1409,6 +2107,15 @@ msgid ""
 "efficiently. Continuing support for older, but perfectly functioning, "
 "devices. And so on."
 msgstr ""
+"Quan pensem en què fer mentre continua la crisi climàtica, per on començar i "
+"com, a [KDE Eco](https://eco.kde.org/) pensem que el programari, "
+"especialment el programari lliure, és un bon lloc per a començar. El "
+"programari lliure significa que els usuaris i les seues comunitats tenen la "
+"llibertat de controlar el programari que utilitzen, no a l'inrevés. Estes "
+"llibertats oferixen una selecció real. Seleccioneu què instal·lar o "
+"desinstal·lar. Les opcions per a modificar el programari per a executar-se "
+"de forma més eficient. Suport continuat per a dispositius més antics, però "
+"perfectament funcionals. I així successivament."
 
 #: content/blog/post-1.md:35
 msgid ""
@@ -1418,16 +2125,24 @@ msgid ""
 "millions, or even billions, of computer users worldwide, and it quickly adds "
 "up."
 msgstr ""
+"Cadascuna d'estes opcions té un cost o benefici. Per exemple, com més "
+"processos (innecessaris) tinga una aplicació executant-se en segon pla, més "
+"recursos de maquinari necessitarà. Multipliqueu estos costos per centenars "
+"de milions, o fins i tot milers de milions, d'usuaris d'ordinador a tot el "
+"món, i creixeran ràpidament."
 
 #: content/blog/post-1.md:37
 msgid ""
 "The opposite is also true: reduce the demands from software and one reduces "
 "the demands on our resources."
 msgstr ""
+"El contrari també és cert: en reduir les demandes del programari es reduïxen "
+"les demandes dels nostres recursos."
 
 #: content/blog/post-1.md:39
 msgid "In other words, software efficiency means resource efficiency!"
 msgstr ""
+"En altres paraules, eficiència del programari vol dir eficiència de recursos!"
 
 #: content/blog/post-1.md:41
 msgid ""
@@ -1441,12 +2156,24 @@ msgid ""
 "potential operating life of hardware, and user autonomy ... all of which fit "
 "seamlessly with Free and Open Source Software (FOSS)."
 msgstr ""
+"Recentment, s'ha reconegut oficialment la interdependència entre "
+"l'enginyeria de programari i la sostenibilitat per l'[Agència Alemanya del "
+"Medi Ambient](https://www.umweltbundesamt.de/en) (*Umweltbundesamt*, o UBA). "
+"En 2020, l'UBA va publicar els [criteris de concessió](https://produktinfo."
+"blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-"
+"Criteria-2020-02-13.pdf) per a obtindre l'ecocertificació amb l'etiqueta "
+"Blauer Engel del programari d'escriptori. Les categories de la certificació "
+"inclouen l'eficiència energètica, ampliació de la vida operativa potencial "
+"del maquinari, i l'autonomia de l'usuari… tot açò s'adapta sense problemes "
+"al programari de codi lliure i obert (FOSS)."
 
 #: content/blog/post-1.md:45
 msgid ""
 "![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation."
 "jpg)"
 msgstr ""
+"![Logotip de KDE Eco amb vegetació](/blog/images/KDE-eco-logo-"
+"name_vegetation.jpg)"
 
 #: content/blog/post-1.md:49
 msgid ""
@@ -1459,12 +2186,22 @@ msgid ""
 "Both projects are part of the pioneering [KDE Eco](https://invent.kde.org/"
 "teams/eco) initiative!"
 msgstr ""
+"El projecte Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) de KDE e.V. busca arreplegar, resumir i difondre informació "
+"relacionada amb l'ecocertificació Blauer Engel i l'eficiència de recursos, "
+"ja que es referix al desenvolupament de FOSS. Mesurar el consum d'energia "
+"del programari lliure és el centre del Free & Open Source Software Energy "
+"Efficiency Project ([FEEP](https://invent.kde.org/teams/eco/feep)). Ambdós "
+"projectes formen part de la iniciativa pionera [KDE Eco](https://invent.kde."
+"org/teams/eco)!"
 
 #: content/blog/post-1.md:53
 msgid ""
 "<font size=\"6\"> **[Join us in building energy-efficient, Free Software!]"
 "(https://eco.kde.org/get-involved/)** </font>"
 msgstr ""
+"<font size=\"6\"> **[Uniu-vos a construir programari lliure energèticament "
+"eficient.](https://eco.kde.org/get-involved/)** </font>"
 
 #: content/blog/post-1.md:57
 msgid ""
@@ -1473,6 +2210,10 @@ msgid ""
 "to the Remote Rhein Ruhr Stage at CCC 2021. You can watch the talk [here]"
 "(https://streaming.media.ccc.de/rc3/relive/319).*"
 msgstr ""
+"*Esta és una versió modificada del resum [tramés](https://web.archive.org/"
+"web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) al "
+"Remote Rhein Ruhr Stage del CCC 2021. Podeu mirar la xerrada [ací](https://"
+"streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
 msgid ""
@@ -1483,10 +2224,17 @@ msgid ""
 "consumption. This increased efficiency contributes to a more sustainable use "
 "of energy as one of the shared resources of our planet."
 msgstr ""
+"El FEEP està desenvolupant eines per a millorar l'eficiència energètica en "
+"el desenvolupament de programari de codi lliure i obert. El disseny i la "
+"implementació de programari té un impacte significatiu en el consum "
+"d'energia dels sistemes dels quals forma part. Amb les eines correctes, és "
+"possible quantificar i reduir el consum d'energia. Este augment d'eficiència "
+"col·labora amb un ús més sostenible de l'energia com un dels recursos "
+"compartits del nostre planeta."
 
 #: content/get-involved.md:0
 msgid "Get Involved"
-msgstr ""
+msgstr "Com participar"
 
 #: content/get-involved.md:10
 msgid ""
@@ -1494,70 +2242,87 @@ msgid ""
 "motivated people as possible to drive this forward. Here are some channels "
 "where you can get more information and contribute."
 msgstr ""
+"Formeu part del moviment del programari sostenible! Necessitem tanta gent "
+"motivada com siga possible per a impulsar este repte. Ací hi ha diversos "
+"canals a on podeu obtindre més informació i col·laborar."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
-msgstr ""
+msgstr "Comunitat i assistència"
 
 #: content/get-involved.md:14
 msgid ""
 "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/"
 "+1:00) (contact us for details)"
 msgstr ""
+"Trobades mensuals (videoconferència), 2n dimecres a les 19,00 CEST/CET (hora "
+"de Berlín) (per als detalls, contacteu amb nosaltres)"
 
 #: content/get-involved.md:15
 msgid ""
 "Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-efficiency:"
 "kde.org"
 msgstr ""
+"Sala de Matrix (debat): https://webchat.kde.org/#/room/#energy-efficiency:"
+"kde.org"
 
 #: content/get-involved.md:16
 msgid ""
 "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "energy-efficiency"
 msgstr ""
+"Llista de correu (avisos): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"energy-efficiency"
 
 #: content/get-involved.md:18
 msgid "Resources"
-msgstr ""
+msgstr "Recursos"
 
 #: content/get-involved.md:20
 msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 msgstr ""
+"Objectiu de programari sostenible (Wiki de la comunitat): https://community."
+"kde.org/Goals/Sustainable_Software"
 
 #: content/get-involved.md:21
 msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
-msgstr ""
+msgstr "FEEP (repositori de GitLab): https://invent.kde.org/teams/eco/feep"
 
 #: content/get-involved.md:22
 msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgstr ""
+"BE4FOSS (repositori de GitLab): https://invent.kde.org/teams/eco/be4foss"
 
 #: content/get-involved.md:23
 msgid ""
 "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
 "eco/blue-angel-application"
 msgstr ""
+"Aplicacions de Blue Angel (repositori de GitLab): https://invent.kde.org/"
+"teams/eco/blue-angel-application"
 
 #: content/get-involved.md:24
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
 msgstr ""
+"Laboratori eco remot (repositori de GitLab): https://invent.kde.org/teams/"
+"eco/remote-eco-lab"
 
 #: content/get-involved.md:26
 msgid "Contact"
-msgstr ""
+msgstr "Contacte"
 
+# skip-rule: t-acc_obe
 #: content/get-involved.md:28
 msgid "Email: `joseph [at] kde.org`"
-msgstr ""
+msgstr "Correu: `joseph [at] kde.org`"
 
 #: content/sustainable-goal/_index.md:0 i18n/en.yaml:0
 msgid "Sustainable Software Goal"
-msgstr ""
+msgstr "Objectiu de programari sostenible"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -1566,6 +2331,10 @@ msgid ""
 "preserves environment and society for us and future generations. KDE can "
 "deliver Sustainable Software."
 msgstr ""
+"El programari té impacte en el nostre futur. Afecta l'ús d'energia i "
+"recursos. La comunitat KDE pot proporcionar programari que ho faça de manera "
+"que mantinga l'entorn i la societat per a nosaltres i les generacions "
+"futures. La comunitat KDE pot lliurar programari sostenible."
 
 #: content/sustainable-goal/_index.md:11
 msgid ""
@@ -1574,6 +2343,11 @@ msgid ""
 "sustainably designed, stimulating actions to increase sustainability, and "
 "creating standards/tools to quantify software sustainability."
 msgstr ""
+"L'objectiu de programari sostenible és promoure la sostenibilitat a KDE "
+"alineant les activitats existents, destacant on el nostre programari ja està "
+"dissenyat de manera sostenible, estimulant accions per a augmentar la "
+"sostenibilitat i creant estàndards/eines per a quantificar la sostenibilitat "
+"del programari."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -1581,20 +2355,26 @@ msgid ""
 "KDE has the goal of providing software which does this in a way that reduces "
 "software's environmental impact for us and future generations."
 msgstr ""
+"El programari té un efecte directe en el consum d'energia i recursos. Des de "
+"2022, KDE té l'objectiu de proporcionar programari que ho faça de manera que "
+"reduïsca l'impacte ambiental del programari per a nosaltres i per a les "
+"generacions futures."
 
 #: i18n/en.yaml:0
 msgid "Free and open source software Energy Efficiency Project"
-msgstr ""
+msgstr "Projecte d'eficiència energètica de programari de codi lliure i obert"
 
 #: i18n/en.yaml:0
 msgid ""
 "How can you measure software's energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
 msgstr ""
+"Com es pot mesurar el consum d'energia del programari? I açò marca una "
+"diferència? Estem treballant per a fer més sostenible el programari lliure."
 
 #: i18n/en.yaml:0
 msgid "Blauer Engel for Free and Open Source Software"
-msgstr ""
+msgstr "Blauer Engel per a programari de codi lliure i obert"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -1602,93 +2382,99 @@ msgid ""
 "transferred to software? What criteria is relevant? We need more pioneers to "
 "find out how we can make software sustainable."
 msgstr ""
+"Les ecoetiquetes ja s'empren àmpliament per als productes. Però, com es "
+"poden transferir al programari? Quins criteris són importants? Necessitem "
+"més pioners per a esbrinar com podem fer programari sostenible."
 
 #: i18n/en.yaml:0
 msgid "Learn More"
-msgstr ""
+msgstr "Apreneu-ne més"
 
 #: i18n/en.yaml:0
 msgid "KDE Eco Handbook"
-msgstr ""
+msgstr "Manual de KDE Eco"
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE's LabPlot."
-msgstr ""
+msgstr "Diagrames de mesures en temps real utilitzant LabPlot de KDE."
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
-msgstr ""
+msgstr "Okular ha rebut l'ecoetiqueta Blue Angel"
 
 #: i18n/en.yaml:0
 msgid ""
 "In 2022, KDE's popular multi-platform PDF reader and universal document "
 "viewer Okular became the first ever eco-certified computer program!"
 msgstr ""
+"El 2022, el popular lector de PDF i visor universal de documents "
+"multiplataforma de KDE, Okular, ha esdevingut el primer programa d'ordinador "
+"eco-certificat!"
 
 #: i18n/en.yaml:0
 msgid "Read More"
-msgstr ""
+msgstr "Llegiu més"
 
 #: i18n/en.yaml:0
 msgid "**Get Involved**"
-msgstr ""
+msgstr "**Com participar**"
 
 #: i18n/en.yaml:0
 msgid "Join us in the sustainable software development movement!"
-msgstr ""
+msgstr "Uniu-vos al moviment de desenvolupament de programari sostenible!"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
-msgstr ""
+msgstr "Repositoris"
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "Xat"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
-msgstr ""
+msgstr "Llista de correu"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
-msgstr ""
+msgstr "Objectiu de programari sostenible de KDE"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"
-msgstr ""
+msgstr "Imatge d'un directori d'ordinador amb un globus"
 
 #: i18n/en.yaml:0
 msgid "FOSS Energy Efficiency Project (FEEP)"
-msgstr ""
+msgstr "FOSS Energy Efficiency Project (FEEP)"
 
 #: i18n/en.yaml:0
 msgid "Image of globe with computer mouse"
-msgstr ""
+msgstr "Imatge d'un globus amb un ratolí d'ordinador"
 
 #: i18n/en.yaml:0
 msgid "Blauer Engel For FOSS (BE4FOSS)"
-msgstr ""
+msgstr "Blauer Engel For FOSS (BE4FOSS)"
 
 #: i18n/en.yaml:0
 msgid "Image of Blauer Engel ecolabel"
-msgstr ""
+msgstr "Imatge de l'ecoetiqueta Blauer Engel"
 
 #: i18n/en.yaml:0
 msgid "Image of BMUV/UBA"
-msgstr ""
+msgstr "Imatge de BMUV/UBA"
 
 #: i18n/en.yaml:0
 msgid "Categories"
-msgstr ""
+msgstr "Categories"
 
 #: i18n/en.yaml:0
 msgid "Read more"
-msgstr ""
+msgstr "Llegiu més"
 
 #: i18n/en.yaml:0
 msgid "View all posts"
-msgstr ""
+msgstr "Visualitza tots els articles"
 
 #: i18n/en.yaml:0
 msgid "News from the blog"
-msgstr ""
+msgstr "Notícies del blog"
