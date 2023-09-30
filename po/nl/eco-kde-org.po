@@ -1,11 +1,11 @@
 #
-# Freek de Kruijf <freekdekruijf@kde.nl>, 2021, 2022, 2023.
+# SPDX-FileCopyrightText: 2021, 2022, 2023 Freek de Kruijf <freekdekruijf@kde.nl>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-09-29 00:45+0000\n"
-"PO-Revision-Date: 2023-06-25 15:12+0200\n"
+"PO-Revision-Date: 2023-09-29 10:32+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 23.04.2\n"
+"X-Generator: Lokalize 23.08.1\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -1929,10 +1929,8 @@ msgstr ""
 "uitstekend werk dat zij doen!"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-#, fuzzy
-#| msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
 msgid "Update: Celebrating At Akademy 2022 (1 October) "
-msgstr "Update: viering op Akademy 2022 (1 oktober) {#akademy}"
+msgstr "Update: viering op Akademy 2022 (1 oktober)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""

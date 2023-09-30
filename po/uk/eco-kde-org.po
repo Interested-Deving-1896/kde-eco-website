@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-09-29 00:45+0000\n"
-"PO-Revision-Date: 2023-06-16 08:52+0300\n"
+"PO-Revision-Date: 2023-09-29 08:45+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
 "Language: uk\n"
@@ -1931,10 +1931,8 @@ msgstr ""
 "Вітаємо Okular та KDE з офіційним визнанням виконаної надзвичайної роботи!"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-#, fuzzy
-#| msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
 msgid "Update: Celebrating At Akademy 2022 (1 October) "
-msgstr "Оновлення: святкування на Akademy 2022 (1 жовтня) {#akademy}"
+msgstr "Оновлення: святкування на Akademy 2022 (1 жовтня)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
