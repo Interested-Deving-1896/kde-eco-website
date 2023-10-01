@@ -1,11 +1,11 @@
 #
-# Vincenzo Reale <smart2128vr@gmail.com>, 2021, 2022, 2023.
+# SPDX-FileCopyrightText: 2021, 2022, 2023 Vincenzo Reale <smart2128vr@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-09-29 00:45+0000\n"
-"PO-Revision-Date: 2023-06-16 14:35+0200\n"
+"PO-Revision-Date: 2023-09-29 15:00+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 23.04.2\n"
+"X-Generator: Lokalize 23.08.1\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -1949,10 +1949,8 @@ msgstr ""
 "lavoro che stanno facendo!"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-#, fuzzy
-#| msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
 msgid "Update: Celebrating At Akademy 2022 (1 October) "
-msgstr "Aggiornamento: celebrazione all'Akademy 2022 (1 ottobre) {#akademy}"
+msgstr "Aggiornamento: celebrazione all'Akademy 2022 (1 ottobre) "
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
