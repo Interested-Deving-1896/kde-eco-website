@@ -1,20 +1,20 @@
 #
-# Eloy Cuadra <ecuadra@eloihr.net>, 2021, 2022, 2023.
+# SPDX-FileCopyrightText: 2021, 2022, 2023 Eloy Cuadra <ecuadra@eloihr.net>
 # David Marzal <mundolibre@tutanota.com>, 2021, 2022, 2023, %Y.
 msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-09-29 00:45+0000\n"
-"PO-Revision-Date: 2023-07-21 18:09+0100\n"
-"Last-Translator: David Marzal <mundolibre@tutanota.com>\n"
+"PO-Revision-Date: 2023-10-17 21:53+0200\n"
+"Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 23.04.3\n"
+"X-Generator: Lokalize 23.08.2\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -26,10 +26,8 @@ msgid "Building Energy-Efficient Free Software"
 msgstr "Creando software libre energéticamente eficiente"
 
 #: config.yaml:0
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Sustainable Goal"
-msgstr "Sostenibilidad"
+msgstr "Objetivo de sostenibilidad"
 
 #: config.yaml:0
 msgid "FEEP"
@@ -37,7 +35,7 @@ msgstr "FEEP"
 
 #: config.yaml:0
 msgid "Donate"
-msgstr "Donar"
+msgstr "Hacer un donativo"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
@@ -54,10 +52,8 @@ msgid ""
 msgstr ""
 
 #: content/BE4FOSS/_index.md:11
-#, fuzzy
-#| msgid "The benefits of obtaining the ecolabel include:"
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr "Ventajas de obtener la ecoetiqueta:"
+msgstr "Ventajas de obtener la ecoetiqueta Blue Angel:"
 
 #: content/BE4FOSS/_index.md:12
 msgid ""
@@ -1932,10 +1928,8 @@ msgstr ""
 "estáis haciendo."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-#, fuzzy
-#| msgid "Update: Celebrating At Akademy 2022 (1 October) {#akademy}"
 msgid "Update: Celebrating At Akademy 2022 (1 October) "
-msgstr "Actualización: Celebrando en la Akademy 2022 (1 de octubre) {#akademy}"
+msgstr "Actualización: Celebrando en la Akademy 2022 (1 de octubre) "
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
@@ -2188,14 +2182,6 @@ msgstr ""
 "(https://streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
-#, fuzzy
-#| msgid ""
-#| "FEEP is developing tools to improve energy efficiency in free and open "
-#| "source software development. Design and implementation of software has a "
-#| "significant impact on the energy consumption of the systems it is part "
-#| "of. With the right tools, it is possible to quantify and drive down "
-#| "energy consumption. This increased efficiency contributes to a more "
-#| "sustainable use of energy as one of the shared resources of our planet."
 msgid ""
 "FEEP is developing tools to improve energy efficiency in Free & Open Source "
 "Software development. Design and implementation of software has a "
@@ -2247,26 +2233,20 @@ msgstr ""
 "CET (hora de Berlín) (contáctenos para más detalles)"
 
 #: content/get-involved.md:15
-#, fuzzy
-#| msgid ""
-#| "Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
 msgid ""
 "Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-efficiency:"
 "kde.org"
 msgstr ""
-"Sala de Matrix: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+"Sala de Matrix (discusión): https://webchat.kde.org/#/room/#energy-"
+"efficiency:kde.org"
 
 #: content/get-involved.md:16
-#, fuzzy
-#| msgid ""
-#| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#| "efficiency"
 msgid ""
 "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "energy-efficiency"
 msgstr ""
-"Lista de correo: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-"efficiency"
+"Lista de correo (anuncios): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"energy-efficiency"
 
 #: content/get-involved.md:18
 msgid "Resources"
@@ -2277,39 +2257,33 @@ msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 msgstr ""
+"Objetivo de software sostenible (wiki de la comunidad): https://community."
+"kde.org/Goals/Sustainable_Software"
 
 #: content/get-involved.md:21
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
 msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
-msgstr "Repositorio GitLab de FEEP: https://invent.kde.org/teams/eco/feep"
+msgstr "FEEP (repositorio de GitLab): https://invent.kde.org/teams/eco/feep"
 
 #: content/get-involved.md:22
-#, fuzzy
-#| msgid "BE4FOSS GitLab repository: https://invent.kde.org/teams/eco/be4foss"
 msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgstr ""
-"Repositorio GitLab de BE4FOSS: https://invent.kde.org/teams/eco/be4foss"
+"BE4FOSS (repositorio de GitLab): https://invent.kde.org/teams/eco/be4foss"
 
 #: content/get-involved.md:23
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications: https://invent.kde.org/teams/eco/blue-angel-"
-#| "application"
 msgid ""
 "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
 "eco/blue-angel-application"
 msgstr ""
-"Solicitudes para *Blue Angel* : https://invent.kde.org/teams/eco/blue-angel-"
-"application"
+"Solicitudes para *Blue Angel* (repositorio de GitLab): https://invent.kde."
+"org/teams/eco/blue-angel-application"
 
 #: content/get-involved.md:24
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/teams/eco/feep"
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
-msgstr "Repositorio GitLab de FEEP: https://invent.kde.org/teams/eco/feep"
+msgstr ""
+"Remote Eco Lab (repositorio de GitLab): https://invent.kde.org/teams/eco/"
+"remote-eco-lab"
 
 #: content/get-involved.md:26
 msgid "Contact"
@@ -2321,7 +2295,7 @@ msgstr "Correo electrónico: `joseph [at] kde.org`"
 
 #: content/sustainable-goal/_index.md:0 i18n/en.yaml:0
 msgid "Sustainable Software Goal"
-msgstr ""
+msgstr "Objetivo de software sostenible"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -2406,11 +2380,9 @@ msgid "**Get Involved**"
 msgstr "**Implicarse**"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Join us for a sustainable software development movement!"
 msgid "Join us in the sustainable software development movement!"
 msgstr ""
-"Únase a nosotros por un movimiento de desarrollo de software sostenible"
+"¡Únase a nosotros en el movimiento de desarrollo de software sostenible!"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
@@ -2418,7 +2390,7 @@ msgstr "Repositorios"
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
@@ -2426,7 +2398,7 @@ msgstr "Lista de correo"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
-msgstr ""
+msgstr "Objetivo de software sostenible de KDE"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"
@@ -2462,11 +2434,11 @@ msgstr "Leer más"
 
 #: i18n/en.yaml:0
 msgid "View all posts"
-msgstr ""
+msgstr "Ver todas las publicaciones"
 
 #: i18n/en.yaml:0
 msgid "News from the blog"
-msgstr ""
+msgstr "Novedades del blog"
 
 #~ msgid "BE4FOSS"
 #~ msgstr "BE4FOSS"
