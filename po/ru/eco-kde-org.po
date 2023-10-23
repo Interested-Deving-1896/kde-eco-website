@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-29 00:45+0000\n"
+"POT-Creation-Date: 2023-10-23 00:44+0000\n"
 "PO-Revision-Date: 2022-04-24 14:27+0300\n"
 "Last-Translator: Alexander Yavorsky <kekcuha@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
@@ -1293,7 +1293,7 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-msgid "Update: Celebrating At Akademy 2022 (1 October) "
+msgid "Update: Celebrating At Akademy 2022 (1 October)"
 msgstr ""
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
