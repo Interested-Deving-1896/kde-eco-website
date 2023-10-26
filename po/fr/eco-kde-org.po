@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-10-23 00:44+0000\n"
-"PO-Revision-Date: 2023-09-30 11:07+0200\n"
+"PO-Revision-Date: 2023-10-24 14:25+0200\n"
 "Last-Translator: Xavier BESNARD <xavier.besnard@neuf.fr>\n"
 "Language-Team: fr\n"
 "Language: fr\n"
@@ -2007,11 +2007,10 @@ msgstr ""
 "exceptionnel que vous faites !"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
-#, fuzzy
-#| msgid "Update: Celebrating At Akademy 2022 (1 October) "
 msgid "Update: Celebrating At Akademy 2022 (1 October)"
 msgstr ""
-"Mise à jour : célébration à la conférence « Akademy 2022 » (01 Octobre) » "
+"Mise à jour : célébration durant la conférence « Akademy 2022 » (01 Octobre "
+"2022) "
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
