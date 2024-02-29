@@ -44,6 +44,10 @@ home.be4foss:
   other: Blauer Engel For FOSS (BE4FOSS)
 home.be4foss.alt:
   other: Image of Blauer Engel ecolabel
+home.greenweb:
+  other: This Website Is Hosted Green
+home.greenweb.alt:
+  other: Image of Green Web Foundation label
 home.funding.alt:
   other: Image of BMUV/UBA
 blog.categories:

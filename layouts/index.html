@@ -238,5 +238,28 @@
     </div>
   </section>
 
+  <section id="greenweb">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          {{ with .Site.GetPage "/greenweb" }}
+          <h2 class="fw-bold"><b>{{ i18n "home.greenweb" }}</b></h2>
+          <div class="feature">
+            <div class="img-fluid">
+              <picture>
+                <source srcset="/images/greenwebfoundation.png" media="(prefers-color-scheme: dark)">
+                <img alt="{{ i18n "home.greenweb.alt" }}" src="/images/greenwebfoundation.png">
+              </picture>
+            </div>
+            <div>
+              {{ .Content }}
+            </div>
+          </div>
+          {{end}}
+        </div>
+      </div>
+    </div>
+  </section>
+
 </main>
 {{ end }}
