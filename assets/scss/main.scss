@@ -2,14 +2,14 @@
 // SPDX-FileCopyrightText: 2022 Nguyen Hung Phu <phu.nguyen@kdemail.net>
 // SPDX-License-Identifier: LGPL-2.1-or-later
 
-.feature {
+.feature, .hosted-green {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.feature > div {
+.feature > div, .hosted-green > div {
   padding: 20px;
 }
 .feature > div:first-child {
@@ -24,8 +24,12 @@
   flex-basis: 75%;
 }
 
+.hosted-green > div:first-child {
+  flex-basis: 35%;
+}
+
 @media (min-width: 800px) {
-  .feature {
+  .feature, .hosted-green {
     flex-direction: row;
   }
   .feature:nth-child(2n + 1) > div:first-child {
