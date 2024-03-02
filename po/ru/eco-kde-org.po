@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:42+0000\n"
+"POT-Creation-Date: 2024-03-02 01:38+0000\n"
 "PO-Revision-Date: 2022-04-24 14:27+0300\n"
 "Last-Translator: Alexander Yavorsky <kekcuha@gmail.com>\n"
 "Language-Team: Russian <kde-russian@lists.kde.ru>\n"
@@ -1673,6 +1673,14 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Image of Blauer Engel ecolabel"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "This Website Is Hosted Green"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Image of Green Web Foundation label"
 msgstr ""
 
 #: i18n/en.yaml:0

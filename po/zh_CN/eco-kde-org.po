@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:42+0000\n"
+"POT-Creation-Date: 2024-03-02 01:38+0000\n"
 "PO-Revision-Date: 2024-02-29 12:58\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
@@ -1679,6 +1679,14 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Image of Blauer Engel ecolabel"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "This Website Is Hosted Green"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Image of Green Web Foundation label"
 msgstr ""
 
 #: i18n/en.yaml:0

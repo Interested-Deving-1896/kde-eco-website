@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:42+0000\n"
+"POT-Creation-Date: 2024-03-02 01:38+0000\n"
 "PO-Revision-Date: 2024-01-31 15:03+0100\n"
 "Last-Translator: David Marzal <mundolibre@tutanota.com>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -2433,6 +2433,14 @@ msgstr "Blauer Engel para FOSS (BE4FOSS)"
 #: i18n/en.yaml:0
 msgid "Image of Blauer Engel ecolabel"
 msgstr "Imagen de la ecoetiqueta Blauer Engel"
+
+#: i18n/en.yaml:0
+msgid "This Website Is Hosted Green"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Image of Green Web Foundation label"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Image of BMUV/UBA"

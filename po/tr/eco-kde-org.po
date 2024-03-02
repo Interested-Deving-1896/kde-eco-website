@@ -1,11 +1,11 @@
 #
-# Emir SARI <emir_sari@icloud.com>, 2023.
+# SPDX-FileCopyrightText: 2023, 2024 Emir SARI <emir_sari@icloud.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-11-05 12:42+0000\n"
-"PO-Revision-Date: 2023-04-29 10:56+0300\n"
+"POT-Creation-Date: 2024-03-02 01:38+0000\n"
+"PO-Revision-Date: 2024-03-01 11:59+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
 "SPDX-License-Identifier: LGPL-3.0-or-later\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 23.03.70\n"
+"X-Generator: Lokalize 24.02.0\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -53,10 +53,8 @@ msgid ""
 msgstr ""
 
 #: content/BE4FOSS/_index.md:11
-#, fuzzy
-#| msgid "The benefits of obtaining the ecolabel include:"
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr "Eko-etiket almanın yararları şunlardır:"
+msgstr "Blue Angel eko-etiketini almanın yararları şunlardır:"
 
 #: content/BE4FOSS/_index.md:12
 #, fuzzy
@@ -98,7 +96,7 @@ msgid ""
 "KDE Eco 2021 Sprint: Details On The Community Planning For KDE's Ecological "
 "Project"
 msgstr ""
-"KDE Eko 2021 Hız Koşusu: KDE'nin Ekolojik Projesi İçin Topluluk Planlamasına "
+"KDE Eko 2021 Hız Koşusu: KDE’nin Ekolojik Projesi İçin Topluluk Planlamasına "
 "İlişkin Ayrıntılar"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -127,14 +125,14 @@ msgstr "Joseph P. De Veaugh-Geiss"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Follow-up to the KDE Eco Sprint announcement posted on The Dot."
-msgstr "The Dot'ta yayımlanan KDE Eko Hız Koşusu duyurusunun süreği."
+msgstr "The Dot’ta yayımlanan KDE Eko Hız Koşusu duyurusunun süreği."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:12
 msgid ""
 "This is a follow-up to the [KDE Eco Sprint announcement posted on The Dot]"
 "(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
 msgstr ""
-"Bu, [The Dot'ta yayınlanan KDE Eko Hız Koşusu duyurusunun](https://dot.kde."
+"Bu, [The Dot’ta yayınlanan KDE Eko Hız Koşusu duyurusunun](https://dot.kde."
 "org/2021/12/24/2021-kde-eco-sprint) süreği niteliğindedir."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:14
@@ -145,7 +143,7 @@ msgid ""
 "Nevertheless, the community deployed its usual resourcefulness, and we met "
 "online instead."
 msgstr ""
-"11 Aralık 2021'de KDE Eko, 7 kişinin katılımıyla planlanan birçok hız "
+"11 Aralık 2021’de KDE Eko, 7 kişinin katılımıyla planlanan birçok hız "
 "koşusunun ilkini düzenledi. Hız koşusunun başlangıçta bir topluluk ölçüm "
 "laboratuvarı kurmak için yüz yüze bir etkinlik olması amaçlanmıştı; ancak "
 "Corona'nın başka fikirleri vardı. Yine de, topluluk her zamanki "
@@ -155,12 +153,12 @@ msgstr ""
 msgid ""
 "![KDE Eco 2021 Sprint On KDE News](/blog/images/dot-sprint-2021_small.png)"
 msgstr ""
-"![KDE Haberler'de KDE Eko 2021 Hız Koşusu](/blog/images/dot-"
+"![KDE Haberler’de KDE Eko 2021 Hız Koşusu](/blog/images/dot-"
 "sprint-2021_small.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:20
 msgid "*KDE Eco 2021 Sprint Announcement On KDE News*"
-msgstr "*KDE Haberler'de KDE Eko 2021 Hız Koşusu Duyurusu*"
+msgstr "*KDE Haberler’de KDE Eko 2021 Hız Koşusu Duyurusu*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:24
 msgid ""
@@ -215,10 +213,10 @@ msgstr ""
 "KDE Eco şu anda birbiriyle ilişkili üç projeden oluşmaktadır: (i) Ücretsiz "
 "ve açık kaynaklı Enerji Verimliliği Projesi (FEEP), (ii) FOSS için Blauer "
 "Engel (BE4FOSS) ve (iii) Blauer Engel Uygulamaları. Her projenin kendine "
-"özel odak noktası vardır: FEEP, Özgür Yazılımın enerji tüketimini ölçmekle "
+"özel odak noktası vardır: FEEP, Özgür Yazılım’ın enerji tüketimini ölçmekle "
 "ilgilenir; BE4FOSS, topluluk organizasyonuna ve Blauer Engel eko-etiketi "
 "hakkında bilgi yaymaya odaklanır ve Blauer Engel Uygulamaları havuzu, KDE/"
-"Özgür Yazılım'ların eko-etiket ile sertifikalandırılmasıyla ilgili tüm "
+"Özgür Yazılım’ların eko-etiket ile sertifikalandırılmasıyla ilgili tüm "
 "belgeleri barındırır. Hız koşusuna değin, projeler için üç havuz çeşitli "
 "kişisel ad alanlarında barındırılıyordu. Şimdi, üç havuzun tümü [https://"
 "invent.kde.org/teams/eco](https://invent.kde.org/teams/eco) adresinde "
@@ -1722,6 +1720,14 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Image of Blauer Engel ecolabel"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "This Website Is Hosted Green"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Image of Green Web Foundation label"
 msgstr ""
 
 #: i18n/en.yaml:0
