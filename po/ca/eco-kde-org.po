@@ -1,16 +1,16 @@
 # Translation of eco-kde-org.po to Catalan
-# Copyright (C) 2021-2023 This_file_is_part_of_KDE
+# Copyright (C) 2021-2024 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# Josep M. Ferrer <txemaq@gmail.com>, 2021, 2022, 2023.
+# Josep M. Ferrer <txemaq@gmail.com>, 2021, 2022, 2023, 2024.
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-03-02 01:38+0000\n"
-"PO-Revision-Date: 2023-10-23 09:55+0200\n"
+"PO-Revision-Date: 2024-03-02 11:35+0100\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -2457,11 +2457,11 @@ msgstr "Imatge de l'ecoetiqueta Blauer Engel"
 
 #: i18n/en.yaml:0
 msgid "This Website Is Hosted Green"
-msgstr ""
+msgstr "Aquest lloc web està allotjat en un servidor eco"
 
 #: i18n/en.yaml:0
 msgid "Image of Green Web Foundation label"
-msgstr ""
+msgstr "Imatge de l'etiqueta de la Green Web Foundation"
 
 #: i18n/en.yaml:0
 msgid "Image of BMUV/UBA"

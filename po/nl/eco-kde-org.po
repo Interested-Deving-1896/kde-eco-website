@@ -1,11 +1,11 @@
 #
-# SPDX-FileCopyrightText: 2021, 2022, 2023 Freek de Kruijf <freekdekruijf@kde.nl>
+# SPDX-FileCopyrightText: 2021, 2022, 2023, 2024 Freek de Kruijf <freekdekruijf@kde.nl>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-03-02 01:38+0000\n"
-"PO-Revision-Date: 2023-10-23 12:27+0200\n"
+"PO-Revision-Date: 2024-03-02 11:50+0100\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 23.08.2\n"
+"X-Generator: Lokalize 23.08.4\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -2424,11 +2424,11 @@ msgstr "Afbeelding van Blauer Engel ecolabel"
 
 #: i18n/en.yaml:0
 msgid "This Website Is Hosted Green"
-msgstr ""
+msgstr "Deze website wordt groen gehost"
 
 #: i18n/en.yaml:0
 msgid "Image of Green Web Foundation label"
-msgstr ""
+msgstr "Afbeelding van label van Groene webstichting"
 
 #: i18n/en.yaml:0
 msgid "Image of BMUV/UBA"
