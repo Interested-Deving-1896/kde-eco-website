@@ -38,7 +38,7 @@ But `ydotool` was not enough as it did not support manipulating windows like `xd
 
 {{< /container >}}
 
-We thought that currently there did not exist any solution for Wayland, but we were wrong. It turns out that `KWin`, the KDE Plasma compositor for Wayland and X11, already had one! One fine day Emmanuel posted a message on the KDE Dev channel, and voilà we got our solution from a KDE developer in the form of a Rust tool, [`kdotool`](https:/l/github.com/jinliu/kdotool). The tool uses KWin’s dbus interface to upload a JavaScript file and access methods and properties provided by the [KWin scripting API](https://develop.kde.org/docs/plasma/kwin/api/). Just love you, KDE!
+We thought that currently there did not exist any solution for Wayland, but we were wrong. It turns out that `KWin`, the KDE Plasma compositor for Wayland and X11, already had one! One fine day Emmanuel posted a message on the KDE Dev channel, and voilà we got our solution from a KDE developer in the form of a Rust tool, [`kdotool`](https://github.com/jinliu/kdotool). The tool uses KWin’s dbus interface to upload a JavaScript file and access methods and properties provided by the [KWin scripting API](https://develop.kde.org/docs/plasma/kwin/api/). Just love you, KDE!
 
 Emmanuel brought kdotool’s author ‘genericity’ on board and we set sail. With some minor tweaks and upgrades we integrated kdotool into KdeEcoTest and we now have all window-related functionalities set up and working on X11 and Wayland. (Oh … and by the way that’s when I found out you can’t have `gitsubmodules` on invent.kde.org). The use of the KWin specific APIs means that KdeEcoTest will currently only work on KDE Plasma.
 
