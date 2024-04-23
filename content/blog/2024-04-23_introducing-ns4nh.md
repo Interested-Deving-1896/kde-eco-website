@@ -1,6 +1,6 @@
 ---
 date: 2024-04-04
-title: "Think Global, Compute Local: KDE Eco's new 'Sustainable Software For Sustainable Hardware' Project"
+title: "Opt Green: KDE Eco's new 'Sustainable Software For Sustainable Hardware' Project"
 categories: [KDE Eco, Sustainable Software, Sustainable Hardware, Blauer Engel]
 author: Joseph P. De Veaugh-Geiss
 summary: Software is a frequently unacknowledged, yet significant factor for sustainability. Software determines a hardware's energy consumption and minimum system requirements. It determines how long a device can remain safely in use. In this context, KDE welcomes the newly-funded project *Nachhaltige Software Für Nachhaltige Hardware* ('Sustainable Software For Sustainable Hardware').
@@ -8,6 +8,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 authors:
 - SPDX-FileCopyrightText: 2024 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 ---
+
+KDE welcomes the newly-funded, two-year project *Nachhaltige Software Für Nachhaltige Hardware* (NS4NH; English: 'Sustainable Software For Sustainable Hardware'), a KDE Eco initiative funded by the Federal Environment Agency (UBA) and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV).
 
 ## Environmentally-Friendly Software?!?
 
@@ -22,8 +24,6 @@ For consumers, the environmental harm is out-of-sight and out-of-mind. Yet the e
 {{< /container >}}
 
 Software and hardware are inextricably linked: When software is repairable, hardware can stay in service longer. When users are guaranteed autonomy in managing the software they use, they are able to lower the energy and performance demands from the devices they depend on. [Sustainable software](https://eco.kde.org/blog/2023-05-10-what-is-sustainable-software/) is increasingly recognized as critical for our collective future. It is one reason why KDE adopted "[Sustainable Software](https://community.kde.org/Goals/Sustainable_Software)" as a community goal in 2021.
-
-In this context, KDE welcomes the newly-funded, two-year project *Nachhaltige Software Für Nachhaltige Hardware* (NS4NH; English: 'Sustainable Software For Sustainable Hardware'), a KDE Eco initiative funded by the Federal Environment Agency (UBA) and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV).
 
 Software consumes energy. Software can render your device obsolete. But you can opt in to sustainability by opting green, today! How? By installing independent and sustainable Free & Open Source Software (FOSS) for sustainable hardware use.
 
@@ -41,7 +41,7 @@ And the flow of e-waste continues to rise.
 
 {{< container class="text-center" >}}
 
-![In 2016, 44.7 million metric tons of e-waste was generated. This is estimated to be equivalent to 4,500 Eiffel Towers, which, when stacked, is 17 times higher than Mount Everest. Less than 20% of e-waste is collected and recycled. Although e-waste makes up less than 2% of trash in landfills, it contributes to almost 70% of the toxic waste found in them. (Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. [Eiffel Tower](https://thenounproject.com/icon/eiffel-tower-1190637/) icon by Daniela Baptista, [moutain](https://thenounproject.com/icon/moutain-372219/) icon by Samy Menai, [recycling](https://thenounproject.com/icon/recycling-5458016/) icon by Kosong Tujuh, [Excavator](https://thenounproject.com/icon/excavator-576937/) icon by Peter van Driel, [Poison](https://thenounproject.com/icon/poison-3201818/) icon by Adrien Coquet, all licensed under a [CC-BY](https://spdx.org/licenses/CC-BY-3.0.html) license. Design by Lana Lutz.)](/blog/images/sec1_e-waste-infographic.png)
+![In 2016, 44.7 million metric tons of e-waste was generated. This is estimated to be equivalent to 4,500 Eiffel Towers, which, when stacked, is 17 times higher than Mount Everest. Less than 20% of e-waste is collected and recycled. Although e-waste makes up less than 2% of trash in landfills, it contributes to almost 70% of the toxic waste found in them. (Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. [Eiffel Tower](https://thenounproject.com/icon/eiffel-tower-1190637/) icon by Daniela Baptista, [mountain](https://thenounproject.com/icon/moutain-372219/) icon by Samy Menai, [recycling](https://thenounproject.com/icon/recycling-5458016/) icon by Kosong Tujuh, [excavator](https://thenounproject.com/icon/excavator-576937/) icon by Peter van Driel, [poison](https://thenounproject.com/icon/poison-3201818/) icon by Adrien Coquet, all licensed under a [CC-BY](https://spdx.org/licenses/CC-BY-3.0.html) license. Design by Lana Lutz.)](/blog/images/sec1_e-waste-infographic.png)
 
 {{< /container >}}
 
