@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-03-02 01:38+0000\n"
-"PO-Revision-Date: 2024-01-31 15:03+0100\n"
+"PO-Revision-Date: 2024-04-27 11:17+0200\n"
 "Last-Translator: David Marzal <mundolibre@tutanota.com>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 23.08.4\n"
+"X-Generator: Lokalize 24.02.2\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -2437,10 +2437,11 @@ msgstr "Imagen de la ecoetiqueta Blauer Engel"
 #: i18n/en.yaml:0
 msgid "This Website Is Hosted Green"
 msgstr ""
+"Este sitio web está catalogado como *Hosted Green*, con alojamiento verde."
 
 #: i18n/en.yaml:0
 msgid "Image of Green Web Foundation label"
-msgstr ""
+msgstr "Imagen de la *Green Web Foundation label*"
 
 #: i18n/en.yaml:0
 msgid "Image of BMUV/UBA"
