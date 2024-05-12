@@ -179,7 +179,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
 msgid "Did you know?"
-msgstr "Sabíeu que...?"
+msgstr "Sabíeu que?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:28
 msgid ""
