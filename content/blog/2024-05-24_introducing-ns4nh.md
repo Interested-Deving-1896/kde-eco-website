@@ -19,7 +19,7 @@ Independent and sustainable Free Software is good for the users, and it is good 
 
 {{< container class="text-center" >}}
 
-![The ["Think Global, Act Local" campaign](https://en.wikipedia.org/wiki/Think_globally,_act_locally) urged people to consider global health while taking action in their local communities. This new project urges people to do the same, but with computing. (Image from Karanjot Singh published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](/blog/images/2024-04-12_ThinkGlobalComputeLocal.png)
+![The ["Think Global, Act Local" campaign](https://en.wikipedia.org/wiki/Think_globally,_act_locally) urged people to consider global health while taking action in their local communities. This new project urges people to do the same, but with computing. (Image from Karanjot Singh published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](/blog/images/2024-05-24_ThinkGlobalComputeLocal.png)
 
 {{< /container >}}
 
@@ -37,7 +37,7 @@ On [14 October 2025](https://learn.microsoft.com/en-us/lifecycle/faq/windows), t
 
 Vendors frequently require buying a new device to support software updates. All too often this is driven by an economic, and not a technological, logic.
 
-Moreover, while new hardware has become more and more powerful, software has become less efficient and more energy-intensive, which has rendered older, less powerful devices &mdash; sometimes even from just a couple of years' ago &mdash; useless.
+Moreover, while new hardware has become more and more powerful, new software offering [similar or identical functionality](https://www.umweltbundesamt.de/publikationen/entwicklung-anwendung-von-bewertungsgrundlagen-fuer) has frequently become less efficient and more energy-intensive, which has rendered older, less powerful devices useless.
 
 Already in 2015 Achim Steiner, former Executive Director of the UN Environment Programme (UNEP), [warned](https://news.un.org/en/story/2015/05/497772) of the "tsunami of electronic waste rolling out over the world".
 
@@ -106,6 +106,8 @@ We need volunteers like you to bring the "Opt Green" campaign and installation w
 Maybe you are interested in contributing to the development of measurement tools like KdeEcoTest or KEcoLab? Or using such tools to measure software's energy consumption? Let's collaborate to make energy transparency a part of software use today!
 
 Or perhaps you actively contribute to a Free Software project that will keep hardware in use for longer. Please be in touch &mdash; we want to promote the amazing work you do directly with consumers.
+
+Additional ideas are more than welcome. Part of the project will be figuring out what works.
 
 People like you will make this project a success. We would love to have you join us. Learn more: https://eco.kde.org/get-involved/
 
