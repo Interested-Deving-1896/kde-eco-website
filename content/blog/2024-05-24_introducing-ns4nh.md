@@ -27,7 +27,7 @@ Over the next two years, the "Opt Green" initiative will bring what KDE Eco has 
 
 Through online and offline campaigns as well as workshops, we will demonstrate the power of Free Software to drive down resource and energy consumption, and keep devices in use for the lifespan of the hardware, not the software.
 
-Our motto: The most environmentally-friendly device is the one you already own.
+Our motto: **The most environmentally-friendly device is the one you already own.**
 
 The topic of software-driven sustainability is relevant for all Free Software applications and developers. We'd love to have you join us and become partners in combatting the issue of software-driven environmental harm. Check out the project's [Invent repository](https://invent.kde.org/teams/eco/ns4nh) or the [contact page](https://eco.kde.org/get-involved/) to get involved today!
 
