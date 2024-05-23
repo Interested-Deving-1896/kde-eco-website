@@ -105,7 +105,7 @@ We need volunteers like you to bring the "Opt Green" campaign and installation w
 
 Maybe you are interested in contributing to the development of measurement tools like KdeEcoTest or KEcoLab? Or using such tools to measure software's energy consumption? Let's collaborate to make energy transparency a part of software use today!
 
-Or perhaps you actively contribute to a Free Software project that will keep hardware in use for longer. Please be in touch &mdash; we want to promote the amazing work you do directly with consumers.
+Or perhaps you actively contribute to a Free Software project that will keep hardware in use for longer. Please be in touch! We want to promote the amazing work you do directly with consumers.
 
 Additional ideas are more than welcome. Part of the project will be figuring out what works.
 
