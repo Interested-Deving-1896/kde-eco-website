@@ -1,17 +1,17 @@
 ---
-date: 2024-05-24
+date: 2024-05-29
 title: "Opt Green: KDE Eco's New Sustainable Software Project"
 categories: [KDE Eco, Sustainable Software, Sustainable Hardware]
 author: Joseph P. De Veaugh-Geiss
-summary: "KDE Eco has begun a new initiative 'Opt Green: Sustainable Software For Sustainable Hardware'."
+summary: 'KDE Eco has begun a new initiative "Opt Green: Sustainable Software For Sustainable Hardware".'
 SPDX-License-Identifier: CC-BY-SA-4.0
 authors:
 - SPDX-FileCopyrightText: 2024 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 ---
 
-Inspired by the successes of the [*Blauer Engel Für FOSS* (BE4FOSS)](https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification/) project and KDE's ongoing [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software) goal, KDE Eco has begun a new initiative: 'Opt Green: Sustainable Software For Sustainable Hardware' (German: *Nachhaltige Software Für Nachhaltige Hardware*, or [NS4NH](https://invent.kde.org/teams/eco/ns4nh)).
+Inspired by the successes of the ["Blauer Engel Für FOSS" (BE4FOSS)](https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification/) project and KDE's ongoing [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software) goal, KDE Eco has begun a new initiative: "Opt Green: Sustainable Software For Sustainable Hardware" (German: *Nachhaltige Software Für Nachhaltige Hardware*, or [NS4NH](https://invent.kde.org/teams/eco/ns4nh)).
 
-## The New Project, In A Nutshell
+## The New Project
 
 By design, Free Software guarantees [transparency and user autonomy](https://fsfe.org/freesoftware/index.en.html). This gives *you*, the user, control of *your* hardware by removing unnecessary vendor dependencies. With Free Software, you're able to use your devices how you want, for as long as you want. There's no [bloatware](https://en.wikipedia.org/wiki/Software_bloat) and you can block [unwanted data use and ads](https://groenlinks.nl/sites/groenlinks/files/2021-09/CE_Delft_210166_Carbon_footprint_unwanted_data-use_smartphones.pdf) from driving up energy demands and slowing down your device&mdash;while shutting the door to uninvited snooping in your private life as well. With software made for your needs and not the vendors', you can choose applications designed for the hardware you already own. Say goodbye to premature hardware obsolescence&mdash;lean, efficient Free Software runs on devices that are decades old!
 
@@ -33,7 +33,9 @@ The topic of software-driven sustainability is relevant for all Free Software ap
 
 ## Software's Environmental Harm
 
-On [14 October 2025](https://learn.microsoft.com/en-us/lifecycle/faq/windows), the end of support for Windows 10 is [estimated](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste) to make e-waste out of [240 million computers](https://www.reuters.com/technology/microsoft-ending-support-windows-10-could-send-240-mln-pcs-landfills-report-2023-12-21/) ineligible for the upgrade to Windows 11. When users have no control over the software they rely on, they are left at a security risk when support ends, unless they buy a new computer.
+On [14 October 2025](https://learn.microsoft.com/en-us/lifecycle/faq/windows), the end of support for Windows 10 is [estimated](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste) to make e-waste out of [240 million computers](https://www.reuters.com/technology/microsoft-ending-support-windows-10-could-send-240-mln-pcs-landfills-report-2023-12-21/) ineligible for the upgrade to Windows 11. Moreover, macOS support for Intel-based Apple computers&mdash;the last of which were sold in 2020&mdash;is [predicted](https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/) to end, at the earliest, one year later in 2026, rendering even more millions upon millions of functioning devices obsolete. When users have no control over the software they rely on, they are left at a security risk when software support ends, unless they buy a new computer.
+
+(Consider, by comparison, that only in 2022 did Linux Torvalds even [suggest ending Linux kernel support](https://go.skimresources.com/?id=100098X1555750&isjs=1&jv=15.7.0&sref=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2023%2F07%2Fwith-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to%2F&url=https%3A%2F%2Fwww.phoronix.com%2Fnews%2FIntel-i486-Linux-Possible-Drop&xs=1&xtz=0&xuuid=dc213c369b934950c1883d6b27ad4206&xjsf=other_click__contextmenu%20%5B2%5D) for 1989's Intel 486 processors. That's 23 years of support!)
 
 Vendors frequently require buying a new device to support software updates. All too often, this is driven by economic imperatives rather than technological requirements.
 
@@ -81,7 +83,7 @@ Globally, interest in environmental harm and sustainable goods has been [rising 
 
 Free Software already gives consumers what they want, but most don't know it yet. Transparency makes lightweight, highly performative software a reality, even on much older devices, while user autonomy ensures the right to repair when applications stop functioning.
 
-In fact, the Blue Angel criteria for desktop software recognize the critical role of transparency and user autonomy in sustainable software design. From 2021-2023, the KDE Eco project 'Blue Angel For FOSS' (German: *Blauer Engel Für FOSS*, or BE4FOSS) had the goal of collecting and spreading information about the [Blue Angel criteria](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products) for software among developer communities. In 2022, KDE’s popular PDF and universal document reader [Okular](https://okular.kde.org/) became the [first ever Blue Angel eco-certified software](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)! The BE4FOSS project culminated with the KDE Eco handbook "Applying The Blue Angel Criteria To Free Software", which you can read [here](https://eco.kde.org/handbook/). KDE's Sustainable Software goal has continued this work by developing [emulation tools](https://eco.kde.org/blog/2024-02-20-sok24-wayland_support_kdeecotest/) like [KdeEcoTest](https://eco.kde.org/blog/2024-02-20-windows-kdeecotest-support/) to measure software's energy consumption in KDE's [KEcoLab](https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/).
+In fact, the Blue Angel criteria for desktop software recognize the critical role of transparency and user autonomy in sustainable software design. From 2021-2023, the KDE Eco project "Blauer Engel Für FOSS" (BE4FOSS) had the goal of collecting and spreading information about the [Blue Angel criteria](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products) for software among developer communities. In 2022, KDE’s popular PDF and universal document reader [Okular](https://okular.kde.org/) became the [first ever Blue Angel eco-certified software](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)! The BE4FOSS project culminated with the KDE Eco handbook "Applying The Blue Angel Criteria To Free Software", which you can read [here](https://eco.kde.org/handbook/). KDE's Sustainable Software goal has continued this work by developing [emulation tools](https://eco.kde.org/blog/2024-02-20-sok24-wayland_support_kdeecotest/) like [KdeEcoTest](https://eco.kde.org/blog/2024-02-20-windows-kdeecotest-support/) to measure software's energy consumption in KDE's [KEcoLab](https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/).
 
 {{< container class="text-center" >}}
 
