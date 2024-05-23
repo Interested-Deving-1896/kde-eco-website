@@ -15,7 +15,7 @@ Inspired by the successes of the [*Blauer Engel Für FOSS* (BE4FOSS)](https://ec
 
 By design, Free Software guarantees [transparency and user autonomy](https://fsfe.org/freesoftware/index.en.html). This gives *you*, the user, control of *your* hardware by removing unnecessary vendor dependencies. With Free Software, you're able to use your devices how you want, for as long as you want. There's no [bloatware](https://en.wikipedia.org/wiki/Software_bloat) and you can block [unwanted data use and ads](https://groenlinks.nl/sites/groenlinks/files/2021-09/CE_Delft_210166_Carbon_footprint_unwanted_data-use_smartphones.pdf) from driving up energy demands and slowing down your device&mdash;while shutting the door to uninvited snooping in your private life as well. With software made for your needs and not the vendors', you can choose applications designed for the hardware you already own. Say goodbye to premature hardware obsolescence&mdash;lean, efficient Free Software runs on devices that are decades old!
 
-Independent and sustainable Free Software is good for the users, and it is good for the environment.
+Independent and sustainable Free Software is good for the users, and good for the environment.
 
 {{< container class="text-center" >}}
 
