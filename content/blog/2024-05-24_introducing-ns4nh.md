@@ -25,7 +25,7 @@ Independent and sustainable Free Software is good for the users, and good for th
 
 Over the next two years, the "Opt Green" initiative will bring what KDE Eco has been doing for sustainable software directly to end users. A particular target group for the project is those whose consumer behavior is driven by principles related to the environment, and not just price or convenience: the "eco-consumers."
 
-Through online and offline campaigns as well as workshops, we will demonstrate the power of Free Software to drive down resource and energy consumption and keep devices in use until the end of the hardware, not the software, lifecycle.
+Through online and offline campaigns as well as workshops, we will demonstrate the power of Free Software to drive down resource and energy consumption, and keep devices in use for the lifespan of the hardware, not the software.
 
 Our motto: The most environmentally-friendly device is the one you already own.
 
