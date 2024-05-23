@@ -35,7 +35,7 @@ The topic of software-driven sustainability is relevant for all Free Software ap
 
 On [14 October 2025](https://learn.microsoft.com/en-us/lifecycle/faq/windows), the end of support for Windows 10 is [estimated](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste) to make e-waste out of [240 million computers](https://www.reuters.com/technology/microsoft-ending-support-windows-10-could-send-240-mln-pcs-landfills-report-2023-12-21/) ineligible for the upgrade to Windows 11. When users have no control over the software they rely on, they are left at a security risk when support ends, unless they buy a new computer.
 
-Vendors frequently require buying a new device to support software updates. All too often this is driven by an economic, and not a technological, logic.
+Vendors frequently require buying a new device to support software updates. All too often, this is driven by economic imperatives rather than technological requirements.
 
 Moreover, while new hardware has become more and more powerful, new software offering [similar or identical functionality](https://www.umweltbundesamt.de/publikationen/entwicklung-anwendung-von-bewertungsgrundlagen-fuer) has frequently become less efficient and more energy-intensive, which has rendered older, less powerful devices useless.
 
