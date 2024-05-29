@@ -11,9 +11,9 @@ authors:
 
 Inspired by the successes of the ["Blauer Engel Für FOSS" (BE4FOSS)](https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification/) project and KDE's ongoing [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software) goal, KDE Eco has begun a new initiative: "Opt Green: Sustainable Software For Sustainable Hardware" (German: *Nachhaltige Software Für Nachhaltige Hardware*, or [NS4NH](https://invent.kde.org/teams/eco/ns4nh)).
 
-## The New Project
+## Opt Green: Sustainable Software For Sustainable Hardware
 
-By design, Free Software guarantees [transparency and user autonomy](https://fsfe.org/freesoftware/index.en.html). This gives *you*, the user, control of *your* hardware by removing unnecessary vendor dependencies. With Free Software, you're able to use your devices how you want, for as long as you want. There's no [bloatware](https://en.wikipedia.org/wiki/Software_bloat) and you can block [unwanted data use and ads](https://groenlinks.nl/sites/groenlinks/files/2021-09/CE_Delft_210166_Carbon_footprint_unwanted_data-use_smartphones.pdf) from driving up energy demands and slowing down your device&mdash;while shutting the door to uninvited snooping in your private life as well. With software made for your needs and not the vendors', you can choose applications designed for the hardware you already own. Say goodbye to premature hardware obsolescence&mdash;lean, efficient Free Software runs on devices that are decades old!
+By design, Free Software guarantees [transparency and user autonomy](https://fsfe.org/freesoftware/index.en.html). This gives *you*, the user, control of *your* hardware by removing unnecessary vendor dependencies. With Free Software, you're able to use your devices how you want, for as long as you want. There's no [bloatware](https://en.wikipedia.org/wiki/Software_bloat) and you can block [unwanted data use and ads](https://groenlinks.nl/sites/groenlinks/files/2021-09/CE_Delft_210166_Carbon_footprint_unwanted_data-use_smartphones.pdf) from driving up energy demands and slowing down your device&mdash;while shutting the door to uninvited snooping in your private life as well. With software made for your needs and not the vendors', you can choose applications designed for the hardware you already own. Say goodbye to premature hardware obsolescence: lean, efficient Free Software runs on devices which are decades old!
 
 Independent and sustainable Free Software is good for the users, and good for the environment.
 
@@ -23,9 +23,9 @@ Independent and sustainable Free Software is good for the users, and good for th
 
 {{< /container >}}
 
-Over the next two years, the "Opt Green" initiative will bring what KDE Eco has been doing for sustainable software directly to end users. A particular target group for the project is those whose consumer behavior is driven by principles related to the environment, and not just price or convenience: the "eco-consumers."
+Over the next two years, the "Opt Green" initiative will bring what KDE Eco has been doing for sustainable software directly to end users. A particular target group for the project is those whose consumer behavior is driven by principles related to the environment, and not just price or convenience: the "eco-consumers".
 
-Through online and offline campaigns as well as workshops, we will demonstrate the power of Free Software to drive down resource and energy consumption, and keep devices in use for the lifespan of the hardware, not the software.
+Through online and offline campaigns as well as installation workshops, we will demonstrate the power of Free Software to drive down resource and energy consumption, and keep devices in use for the lifespan of the hardware, not the software.
 
 Our motto: **The most environmentally-friendly device is the one you already own.**
 
@@ -33,13 +33,9 @@ The topic of software-driven sustainability is relevant for all Free Software ap
 
 ## Software's Environmental Harm
 
-On [14 October 2025](https://learn.microsoft.com/en-us/lifecycle/faq/windows), the end of support for Windows 10 is [estimated](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste) to make e-waste out of [240 million computers](https://www.reuters.com/technology/microsoft-ending-support-windows-10-could-send-240-mln-pcs-landfills-report-2023-12-21/) ineligible for the upgrade to Windows 11. Moreover, macOS support for Intel-based Apple computers&mdash;the last of which were sold in 2020&mdash;is [predicted](https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/) to end, at the earliest, one year later in 2026, rendering even more millions upon millions of functioning devices obsolete. When users have no control over the software they rely on, they are left at a security risk when software support ends, unless they buy a new computer.
+On [14 October 2025](https://learn.microsoft.com/en-us/lifecycle/faq/windows), the end of support for Windows 10 is [estimated](https://www.canalys.com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-waste) to make e-waste out of [240 million computers](https://www.reuters.com/technology/microsoft-ending-support-windows-10-could-send-240-mln-pcs-landfills-report-2023-12-21/) ineligible for the upgrade to Windows 11. Moreover, macOS support for Intel-based Apple computers&mdash;the last of which were sold in 2020&mdash;is [predicted](https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/) to end (at the earliest) one year later in 2026, rendering even more millions upon millions of functioning devices obsolete. When users have no control over the software they rely on, they are left at a security risk when software support ends ... unless, of course, they purchase a new computer. (By comparison, consider that only in 2022 did Linux Torvalds first [suggest ending Linux kernel support](https://www.phoronix.com/news/Intel-i486-Linux-Possible-Drop) for Intel 486 processors from 1989. That's 33 years of support!)
 
-(Consider, by comparison, that only in 2022 did Linux Torvalds even [suggest ending Linux kernel support](https://go.skimresources.com/?id=100098X1555750&isjs=1&jv=15.7.0&sref=https%3A%2F%2Farstechnica.com%2Fgadgets%2F2023%2F07%2Fwith-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to%2F&url=https%3A%2F%2Fwww.phoronix.com%2Fnews%2FIntel-i486-Linux-Possible-Drop&xs=1&xtz=0&xuuid=dc213c369b934950c1883d6b27ad4206&xjsf=other_click__contextmenu%20%5B2%5D) for 1989's Intel 486 processors. That's 23 years of support!)
-
-Vendors frequently require buying a new device to support software updates. All too often, this is driven by economic imperatives rather than technological requirements.
-
-Moreover, while new hardware has become more and more powerful, new software offering [similar or identical functionality](https://www.umweltbundesamt.de/publikationen/entwicklung-anwendung-von-bewertungsgrundlagen-fuer) has frequently become less efficient and more energy-intensive, which has rendered older, less powerful devices useless.
+Vendors frequently require buying a new device to support software updates. All too often, this is driven by economic imperatives rather than technological requirements. Moreover, while new hardware has become more and more powerful, new software offering [similar or identical functionality](https://www.umweltbundesamt.de/publikationen/entwicklung-anwendung-von-bewertungsgrundlagen-fuer) has frequently become less efficient and more energy-intensive, which has rendered older, less powerful devices useless.
 
 Already in 2015 Achim Steiner, former Executive Director of the UN Environment Programme (UNEP), [warned](https://news.un.org/en/story/2015/05/497772) of the "tsunami of electronic waste rolling out over the world".
 
@@ -59,7 +55,7 @@ The flow of e-waste continues to rise today.
 
 Software is a frequently unacknowledged yet significant factor for sustainability. Software determines a hardware's energy consumption and minimum system requirements. It determines how long a device can remain safely in use. With software running on [everyday devices](https://www.schneier.com/blog/archives/2018/10/security_in_a_w.html), from [coffee machines](https://arstechnica.com/gadgets/2014/03/keurigs-next-generation-of-coffee-machines-will-have-drm-lockdown/) to smartphones, from [trains](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/) to [drones](https://yewtu.be/watch?v=Nxem6yTRC4M), the role of software in keeping functioning hardware in use and out of the landfill grows more critical every day.
 
-For consumers, the environmental harm may be out-of-sight and out-of-mind. Yet the environment is registering its effects, from the C02 pumped into the atmosphere to the landfills that receive our discarded devices at their end of life, and the air, soil, and waters around them&mdash;not to mention the people and animals.
+For consumers, the environmental harm may be out-of-sight and out-of-mind. Yet the environment is registering its effects, from the CO2 pumped into the atmosphere to the landfills that receive our discarded devices at their end of life, and the air, soil, and waters around them&mdash;not to mention the people and animals.
 
 {{< container class="text-center" >}}
 
@@ -67,9 +63,9 @@ For consumers, the environmental harm may be out-of-sight and out-of-mind. Yet t
 
 {{< /container >}}
 
-It is especially devastating when you consider the environmental and social harm caused by e-waste, in particular when e-waste is generated earlier than necessary because of premature obsolescence. The production and transportation of a device accounts for 50-80+% of its carbon footprint over its lifecycle. A [German Environment Report](http://www.uba.de/uba-info-medien/4316.html) estimates you’d need to use a computer for over 30 years before efficiency gains in newly-produced devices justify their purchase.
+It is particularly devastating when you consider the environmental and social harm caused by e-waste, especially when e-waste is generated earlier than necessary because of premature obsolescence. The production and transportation of a device accounts for 50&ndash;80+% of its carbon footprint over its lifecycle. A [German Environment Report](http://www.uba.de/uba-info-medien/4316.html) estimates you’d need to use a computer for over 30 years before efficiency gains in newly-produced devices justify their purchase.
 
-The extraction of rare earth metals in production consumes copious amounts of energy and takes place under miserable social conditions, often in the Global South. For disposal, devices are typically returned to the Global South for end-of-life treatment, where they pollute the environment as toxic waste and cause enormous damage to workers' health or even death.
+Furthermore, the extraction of rare earth metals in production consumes copious amounts of energy and takes place under miserable social conditions, often in the Global South. For disposal, devices are typically returned to the Global South for end-of-life treatment, where they pollute the environment as toxic waste and cause enormous damage to workers' health or even death.
 
 {{< container class="text-center" >}}
 
@@ -79,11 +75,9 @@ The extraction of rare earth metals in production consumes copious amounts of en
 
 ## Giving Consumers What They Want
 
-Globally, interest in environmental harm and sustainable goods has been [rising steadily from 2015 to 2021](https://www.worldwildlife.org/publications/an-eco-wakening-measuring-awareness-engagement-and-action-for-nature). In Europe, a [2020 Eurobarometer poll](https://europa.eu/eurobarometer/surveys/detail/2228) found that 50% of consumers indicate that the reason they purchase a new device is due to either performance issues or non-functioning software, and [8 in 10 consumers](https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=72255) believe manufacturers should be required to make it easier to repair digital devices.
+Globally, interest in environmental harm and sustainable goods has been [rising steadily from 2015 to 2021](https://www.worldwildlife.org/publications/an-eco-wakening-measuring-awareness-engagement-and-action-for-nature). In Europe, a [2020 Eurobarometer poll](https://europa.eu/eurobarometer/surveys/detail/2228) found that 50% of consumers indicate that two reasons they purchase new devices are performance issues and non-functioning software, and [8 in 10 consumers](https://europa.eu/eurobarometer/api/deliverable/download/file?deliverableId=72255) believe manufacturers should be required to make it easier to repair digital devices.
 
-Free Software already gives consumers what they want, but most don't know it yet. Transparency makes lightweight, highly performative software a reality, even on much older devices, while user autonomy ensures the right to repair when applications stop functioning.
-
-In fact, the Blue Angel criteria for desktop software recognize the critical role of transparency and user autonomy in sustainable software design. From 2021-2023, the KDE Eco project "Blauer Engel Für FOSS" (BE4FOSS) had the goal of collecting and spreading information about the [Blue Angel criteria](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products) for software among developer communities. In 2022, KDE’s popular PDF and universal document reader [Okular](https://okular.kde.org/) became the [first ever Blue Angel eco-certified software](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)! The BE4FOSS project culminated with the KDE Eco handbook "Applying The Blue Angel Criteria To Free Software", which you can read [here](https://eco.kde.org/handbook/). KDE's Sustainable Software goal has continued this work by developing [emulation tools](https://eco.kde.org/blog/2024-02-20-sok24-wayland_support_kdeecotest/) like [KdeEcoTest](https://eco.kde.org/blog/2024-02-20-windows-kdeecotest-support/) to measure software's energy consumption in KDE's [KEcoLab](https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/).
+Free Software already gives consumers what they want, but most don't know it yet. Transparency in code makes lightweight, highly performative software possible, even on much older devices, while user autonomy ensures the right to repair when applications stop functioning.
 
 {{< container class="text-center" >}}
 
@@ -91,27 +85,27 @@ In fact, the Blue Angel criteria for desktop software recognize the critical rol
 
 {{< /container >}}
 
+In fact, the [Blue Angel criteria for desktop software](https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-products) are at the forefront in recognizing the critical role of transparency and user autonomy in sustainable software design. From 2021-2023, the KDE Eco project "Blauer Engel Für FOSS" (BE4FOSS) had the goal of collecting and spreading information about the Blue Angel ecolabel among developer communities. In 2022, KDE’s popular PDF and universal document reader [Okular](https://okular.kde.org/eco) became the [first ever Blue Angel eco-certified software](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/)! The BE4FOSS project culminated with the KDE Eco handbook "Applying The Blue Angel Criteria To Free Software", which you can read [here](https://eco.kde.org/handbook/). KDE's [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software) goal has continued this work by developing [emulation tools](https://eco.kde.org/categories/kdeecotest/) like [KdeEcoTest](https://eco.kde.org/blog/2024-02-20-windows-kdeecotest-support/) and [Selenium AT-SPI](https://eco.kde.org/categories/selenium/) to measure software's energy consumption in KDE's [KEcoLab](https://eco.kde.org/categories/kecolab/).
+
 Now we want to take what we have achieved and bring it directly to eco-consumers.
 
-Through educational campaigns and workshops, the "Opt Green" project aims to combat e-waste by keeping hardware in use with Free Software. Although the problem of e-waste is relevant for an increasing number of software-driven products, the focus will be on desktop PCs, laptops, and, when possible, smartphones and tablets. We are planning to set up info-stands at fair-trade, organic, and artisinal markets, as well as sustainability festivals such as the [Umweltfestival](https://www.umweltfestival.de/) in Berlin. We will distribute [leaflets](https://eco.kde.org/blog/images/environmentally-friendly-software-flyer.pdf) to consumers, and demo otherwise-unsupported devices which are not only usable, but also a joy to use thanks to the tireless work of inspiring Free Software communities. Installation workshops will give users the know-how to keep their devices in use for as long as they want.
+Through educational campaigns and workshops, the "Opt Green" project aims to combat e-waste by keeping hardware in use with Free Software. Although the problem of software-driven e-waste is relevant for an increasing number of digital devices, the focus will be on desktop PCs, laptops, and, when possible, smartphones and tablets. We are planning to set up info-stands at fair-trade, organic, and artisanal markets as well as sustainability festivals such as the [Umweltfestival](https://www.umweltfestival.de/) in Berlin. We will distribute [leaflets](https://eco.kde.org/blog/images/environmentally-friendly-software-flyer.pdf) to consumers, and demo vendor-abandoned devices which are not only usable, but also a joy to use thanks to the tireless work of inspiring Free Software communities. Installation workshops will give users the know-how to keep their devices in use for as long as they want.
 
-Consumers don’t need a new computer to get secure, up-to-date software; they just need the right software. Free Software gives consumers what they want today, and we are working to make sure they know that.
+Consumers don’t need a new computer to get secure, cutting-edge software; they just need the right software. Free Software already gives consumers what they want today, and we will be working hard to make sure they know that.
 
-## Join Us
+## Ready To Join Us?
 
-We believe sustainable Free Software will be attractive to eco-consumers and drive a movement for long-term hardware use.
+Consumers want sustainable and repairable digital devices. We believe that providing users the software to keep devices in use and out of the landfill will drive demand for Free Software products and enable long-term hardware use.
 
-Want to join us? See our [contact info](https://eco.kde.org/get-involved/) to get involved.
+**Do you want to join us in this movement to combat e-waste with Free Software? See our [contact info](https://eco.kde.org/get-involved/) to get involved.**
 
-We need volunteers like you to bring the "Opt Green" campaign and installation workshops to towns and cities around the world. We need volunteers like you to design engaging user guides and beautiful materials for global distribution. Let's work together to bring sustainable software to your community!
+We need volunteers like you to bring the "Opt Green" campaign to towns and cities around the world. We need volunteers like you to design engaging guides and beautiful materials for global distribution. We need volunteers like you to report on the project in magazines and newspapers. Let's work together to bring sustainable software to your community!
 
-Maybe you are interested in contributing to the development of measurement tools like KdeEcoTest or KEcoLab? Or using such tools to measure software's energy consumption? Let's collaborate to make energy transparency a part of software use today!
+Maybe you are interested in contributing to the development of [measurement tools](https://invent.kde.org/teams/eco/) like KdeEcoTest and Selenium AT-SPI or improving KEcoLab automation? Or using such tools to measure your software application's energy consumption? Let's collaborate to make energy transparency a part of Free Software development today!
 
-Or perhaps you actively contribute to a Free Software project that will keep hardware in use for longer. Please be in touch! We want to promote the amazing work you do directly with consumers.
+Or maybe you actively contribute to a Free Software project that will keep hardware in use for longer. Please be in touch! We want to promote the amazing work you do directly with consumers.
 
-Additional ideas are more than welcome. Part of the project will be figuring out what works.
-
-People like you will make this project a success. We would love to have you join us. Learn more: https://eco.kde.org/get-involved/
+Additional ideas are more than welcome. Part of the project will be figuring out what works and engagement by people like you will make this project a success. We would love to have you join us. Learn more: https://eco.kde.org/get-involved/
 
 #### Funding Notice
 
