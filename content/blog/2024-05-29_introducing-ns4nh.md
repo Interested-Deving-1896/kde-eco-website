@@ -9,7 +9,7 @@ authors:
 - SPDX-FileCopyrightText: 2024 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 ---
 
-Inspired by the successes of the ["Blauer Engel Für FOSS" (BE4FOSS)](https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification/) project and KDE's ongoing [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software) goal, KDE Eco has begun a new initiative: "Opt Green: Sustainable Software For Sustainable Hardware" (German: *Nachhaltige Software Für Nachhaltige Hardware*, or [NS4NH](https://invent.kde.org/teams/eco/ns4nh)).
+Inspired by the successes of the ["Blauer Engel Für FOSS" (BE4FOSS)](https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification/) project and KDE's ongoing [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software) goal, KDE Eco has begun a new initiative: "Opt Green: Sustainable Software For Sustainable Hardware" (German: [*Nachhaltige Software Für Nachhaltige Hardware*](https://www.umweltbundesamt.de/das-uba/was-wir-tun/foerdern-beraten/verbaendefoerderung/projektfoerderungen-projekttraeger/opt-green-nachhaltige-software-fuer-nachhaltige), or [NS4NH](https://invent.kde.org/teams/eco/ns4nh)).
 
 ## Opt Green: Sustainable Software For Sustainable Hardware
 
