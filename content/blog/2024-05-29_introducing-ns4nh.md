@@ -41,7 +41,7 @@ Already in 2015 Achim Steiner, former Executive Director of the UN Environment P
 
 In 2016, 44.7 million tonnes of e-waste were generated, estimated to be equivalent to 4500 Eiffel Towers. If you were to stack those Eiffel Towers on top of each other, the result would be 17 times higher than Mount Everest.
 
-By 2017, [United Nations University](http://www.unu.edu/media-relations/releases/ewaste-rises-8-percent-by-weight-in-2-years.html) determined e-waste to be the [fastest growing waste stream](https://www.weforum.org/reports/a-new-circular-vision-for-electronics-time-for-a-global-reboot/) in the world.
+By 2017, [United Nations University](https://web.archive.org/web/20220901055133/https://unu.edu/media-relations/releases/ewaste-rises-8-percent-by-weight-in-2-years.html) determined e-waste to be the [fastest growing waste stream](https://www.weforum.org/reports/a-new-circular-vision-for-electronics-time-for-a-global-reboot/) in the world.
 
 In 2022, the amount of e-waste reached 59.4 million tonnes, a 33% increase since 2016.
 
