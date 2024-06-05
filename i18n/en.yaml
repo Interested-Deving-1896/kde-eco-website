@@ -1,11 +1,11 @@
 home.header.sustainable-goal.subtitle:
   other: Sustainable Software Goal
 home.header.sustainable-goal.description:
- other: Software has a direct affect on energy and resource consumption. Since 2022, KDE has the goal of providing software which does this in a way that reduces software's environmental impact for us and future generations.
+ other: Software has a direct affect on energy and resource consumption. Since 2022, KDE has the goal of providing software which does this in a way that reduces software’s environmental impact for us and future generations.
 home.header.feep.subtitle:
   other: Free and open source software Energy Efficiency Project
 home.header.feep.description:
- other: How can you measure software's energy consumption? And does it make a difference? We are working to make free software more sustainable.
+ other: How can you measure software’s energy consumption? And does it make a difference? We are working to make free software more sustainable.
 home.header.be4foss.subtitle:
   other: Blauer Engel for Free and Open Source Software
 home.header.be4foss.description:
@@ -15,11 +15,11 @@ home.header.more:
 home.eco-handbook:
   other: KDE Eco Handbook
 home.eco-handbook.alt:
-  other: Plots of real time measurements using KDE's LabPlot.
+  other: Plots of real time measurements using KDE’s LabPlot.
 home.okular:
   other: Okular Awarded Blue Angel Ecolabel
 home.okular.be:
-  other: In 2022, KDE's popular multi-platform PDF reader and universal document viewer Okular became the first ever eco-certified computer program!
+  other: In 2022, KDE’s popular multi-platform PDF reader and universal document viewer Okular became the first ever eco-certified computer program!
 home.okular.pr:
   other: Read More
 home.engage:
@@ -33,7 +33,7 @@ home.engage.matrix:
 home.engage.mailinglist:
   other: Mailing List
 home.sustainable-goal:
-  other: KDE's Sustainable Software Goal
+  other: KDE’s Sustainable Software Goal
 home.sustainable-goal.alt:
   other: Image of computer directory with globe
 home.feep:
