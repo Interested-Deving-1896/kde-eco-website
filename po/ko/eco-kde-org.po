@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-02 01:38+0000\n"
+"POT-Creation-Date: 2024-06-07 01:43+0000\n"
 "PO-Revision-Date: 2023-08-08 00:28+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -44,7 +44,7 @@ msgstr "친환경 인증"
 msgid ""
 "In 2020, the German Environment Agency (German: *Umweltbundesamt*) released "
 "the award criteria for eco-certifying desktop software with the Blue Angel "
-"ecolabel (German: *Blauer Engel*). From 2021-2022, the BE4FOSS project under "
+"ecolabel (German: *Blauer Engel*). From 2021–2022, the BE4FOSS project under "
 "KDE Eco worked to advance eco-certification for resource and energy-"
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
@@ -86,8 +86,8 @@ msgstr "소프트웨어의 환경 발자국 투명성 홍보"
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
-"Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
-"Free Software](https://eco.kde.org/handbook/)\"."
+"Learn more in the KDE Eco handbook “[Applying The Blue Angel Criteria To "
+"Free Software](https://eco.kde.org/handbook/)”."
 msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -1661,7 +1661,7 @@ msgstr ""
 msgid ""
 "Software has a direct affect on energy and resource consumption. Since 2022, "
 "KDE has the goal of providing software which does this in a way that reduces "
-"software's environmental impact for us and future generations."
+"software’s environmental impact for us and future generations."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -1669,8 +1669,12 @@ msgid "Free and open source software Energy Efficiency Project"
 msgstr "자유 오픈 소스 소프트웨어 에너지 효율성 프로젝트"
 
 #: i18n/en.yaml:0
+#, fuzzy
+#| msgid ""
+#| "How can you measure software's energy consumption? And does it make a "
+#| "difference? We are working to make free software more sustainable."
 msgid ""
-"How can you measure software's energy consumption? And does it make a "
+"How can you measure software’s energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
 msgstr ""
 "소프트웨어의 에너지 소모를 어떻게 측정할 수 있을까요? 소프트웨어별 차이는 얼"
@@ -1703,7 +1707,7 @@ msgid "KDE Eco Handbook"
 msgstr "KDE Eco"
 
 #: i18n/en.yaml:0
-msgid "Plots of real time measurements using KDE's LabPlot."
+msgid "Plots of real time measurements using KDE’s LabPlot."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -1714,7 +1718,7 @@ msgstr "Blauer Engel 친환경 마크 그림"
 
 #: i18n/en.yaml:0
 msgid ""
-"In 2022, KDE's popular multi-platform PDF reader and universal document "
+"In 2022, KDE’s popular multi-platform PDF reader and universal document "
 "viewer Okular became the first ever eco-certified computer program!"
 msgstr ""
 
@@ -1745,7 +1749,7 @@ msgid "Mailing List"
 msgstr "메일링 리스트"
 
 #: i18n/en.yaml:0
-msgid "KDE's Sustainable Software Goal"
+msgid "KDE’s Sustainable Software Goal"
 msgstr ""
 
 #: i18n/en.yaml:0

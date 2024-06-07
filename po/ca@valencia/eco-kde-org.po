@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-03-02 01:38+0000\n"
+"POT-Creation-Date: 2024-06-07 01:43+0000\n"
 "PO-Revision-Date: 2024-03-21 16:29+0100\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -46,10 +46,19 @@ msgid "Eco Label"
 msgstr "Etiqueta Eco"
 
 #: content/BE4FOSS/_index.md:9
+#, fuzzy
+#| msgid ""
+#| "In 2020, the German Environment Agency (German: *Umweltbundesamt*) "
+#| "released the award criteria for eco-certifying desktop software with the "
+#| "Blue Angel ecolabel (German: *Blauer Engel*). From 2021-2022, the BE4FOSS "
+#| "project under KDE Eco worked to advance eco-certification for resource "
+#| "and energy-efficient software in FOSS communities. Obtaining the Blue "
+#| "Angel ecolabel occurs in 3 steps: (1) Measure, (2) Analyze, and (3) "
+#| "Certify."
 msgid ""
 "In 2020, the German Environment Agency (German: *Umweltbundesamt*) released "
 "the award criteria for eco-certifying desktop software with the Blue Angel "
-"ecolabel (German: *Blauer Engel*). From 2021-2022, the BE4FOSS project under "
+"ecolabel (German: *Blauer Engel*). From 2021–2022, the BE4FOSS project under "
 "KDE Eco worked to advance eco-certification for resource and energy-"
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
@@ -88,9 +97,13 @@ msgid "Promoting transparency in the ecological footprint of software."
 msgstr "Promocionar la transparència en la petjada ecològica del programari."
 
 #: content/BE4FOSS/_index.md:17
+#, fuzzy
+#| msgid ""
+#| "Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
+#| "Free Software](https://eco.kde.org/handbook/)\"."
 msgid ""
-"Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
-"Free Software](https://eco.kde.org/handbook/)\"."
+"Learn more in the KDE Eco handbook “[Applying The Blue Angel Criteria To "
+"Free Software](https://eco.kde.org/handbook/)”."
 msgstr ""
 "Apreneu-ne més en el manual de KDE Eco «[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)»."
@@ -2348,10 +2361,16 @@ msgstr ""
 "del programari."
 
 #: i18n/en.yaml:0
+#, fuzzy
+#| msgid ""
+#| "Software has a direct affect on energy and resource consumption. Since "
+#| "2022, KDE has the goal of providing software which does this in a way "
+#| "that reduces software's environmental impact for us and future "
+#| "generations."
 msgid ""
 "Software has a direct affect on energy and resource consumption. Since 2022, "
 "KDE has the goal of providing software which does this in a way that reduces "
-"software's environmental impact for us and future generations."
+"software’s environmental impact for us and future generations."
 msgstr ""
 "El programari té un efecte directe en el consum d'energia i els recursos. "
 "Des de 2022, KDE té l'objectiu de proporcionar programari que ho faça de "
@@ -2363,8 +2382,12 @@ msgid "Free and open source software Energy Efficiency Project"
 msgstr "Projecte d'eficiència energètica de programari de codi lliure i obert"
 
 #: i18n/en.yaml:0
+#, fuzzy
+#| msgid ""
+#| "How can you measure software's energy consumption? And does it make a "
+#| "difference? We are working to make free software more sustainable."
 msgid ""
-"How can you measure software's energy consumption? And does it make a "
+"How can you measure software’s energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
 msgstr ""
 "Com es pot mesurar el consum d'energia del programari? I açò marca una "
@@ -2393,7 +2416,9 @@ msgid "KDE Eco Handbook"
 msgstr "Manual de KDE Eco"
 
 #: i18n/en.yaml:0
-msgid "Plots of real time measurements using KDE's LabPlot."
+#, fuzzy
+#| msgid "Plots of real time measurements using KDE's LabPlot."
+msgid "Plots of real time measurements using KDE’s LabPlot."
 msgstr "Diagrames de mesures en temps real utilitzant LabPlot de KDE."
 
 #: i18n/en.yaml:0
@@ -2401,8 +2426,12 @@ msgid "Okular Awarded Blue Angel Ecolabel"
 msgstr "Okular ha rebut l'ecoetiqueta Blue Angel"
 
 #: i18n/en.yaml:0
+#, fuzzy
+#| msgid ""
+#| "In 2022, KDE's popular multi-platform PDF reader and universal document "
+#| "viewer Okular became the first ever eco-certified computer program!"
 msgid ""
-"In 2022, KDE's popular multi-platform PDF reader and universal document "
+"In 2022, KDE’s popular multi-platform PDF reader and universal document "
 "viewer Okular became the first ever eco-certified computer program!"
 msgstr ""
 "El 2022, el popular lector de PDF i visor universal de documents "
@@ -2434,7 +2463,9 @@ msgid "Mailing List"
 msgstr "Llista de correu"
 
 #: i18n/en.yaml:0
-msgid "KDE's Sustainable Software Goal"
+#, fuzzy
+#| msgid "KDE's Sustainable Software Goal"
+msgid "KDE’s Sustainable Software Goal"
 msgstr "Objectiu de programari sostenible de KDE"
 
 #: i18n/en.yaml:0
