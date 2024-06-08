@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-07 01:43+0000\n"
-"PO-Revision-Date: 2024-03-02 08:03+0100\n"
+"PO-Revision-Date: 2024-06-07 06:25+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
 "%100==4 ? 3 : 0);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -44,15 +44,6 @@ msgid "Eco Label"
 msgstr "Eko značka"
 
 #: content/BE4FOSS/_index.md:9
-#, fuzzy
-#| msgid ""
-#| "In 2020, the German Environment Agency (German: *Umweltbundesamt*) "
-#| "released the award criteria for eco-certifying desktop software with the "
-#| "Blue Angel ecolabel (German: *Blauer Engel*). From 2021-2022, the BE4FOSS "
-#| "project under KDE Eco worked to advance eco-certification for resource "
-#| "and energy-efficient software in FOSS communities. Obtaining the Blue "
-#| "Angel ecolabel occurs in 3 steps: (1) Measure, (2) Analyze, and (3) "
-#| "Certify."
 msgid ""
 "In 2020, the German Environment Agency (German: *Umweltbundesamt*) released "
 "the award criteria for eco-certifying desktop software with the Blue Angel "
@@ -65,10 +56,10 @@ msgstr ""
 "merila za podelitev okoljskega certifikata programske opreme za namizne "
 "računalnike z znakom za okolje Blue Angel (nemško: *Blauer Engel*). Od leta "
 "2021 do 2022 si je projekt BE4FOSS v okviru KDE Eco prizadeval za napredek "
-"okoljskega certificiranja za programsko opremo, učinkovito glede virov in "
-"energije v skupnostih prostega in odprtokodnega programja. Pridobitev znaka "
-"za okolje Modri angel poteka v treh korakih: (1) Merjenje, (2) Analiza in "
-"(3) Certificiranje."
+"eko-certificiranja za programsko opremo, učinkovito glede virov in energije "
+"v skupnostih prostega in odprtokodnega programja. Pridobitev znaka za okolje "
+"Modri angel poteka v treh korakih: (1) Merjenje, (2) Analiza in (3) "
+"Certificiranje."
 
 #: content/BE4FOSS/_index.md:11
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
@@ -95,10 +86,6 @@ msgid "Promoting transparency in the ecological footprint of software."
 msgstr "Spodbujanje preglednosti pri ekološkem odtisu programske opreme."
 
 #: content/BE4FOSS/_index.md:17
-#, fuzzy
-#| msgid ""
-#| "Learn more in the KDE Eco handbook \"[Applying The Blue Angel Criteria To "
-#| "Free Software](https://eco.kde.org/handbook/)\"."
 msgid ""
 "Learn more in the KDE Eco handbook “[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)”."
@@ -2288,12 +2275,6 @@ msgstr ""
 "programske opreme."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid ""
-#| "Software has a direct affect on energy and resource consumption. Since "
-#| "2022, KDE has the goal of providing software which does this in a way "
-#| "that reduces software's environmental impact for us and future "
-#| "generations."
 msgid ""
 "Software has a direct affect on energy and resource consumption. Since 2022, "
 "KDE has the goal of providing software which does this in a way that reduces "
@@ -2308,16 +2289,12 @@ msgid "Free and open source software Energy Efficiency Project"
 msgstr "Projekt energetske učinkovitosti proste in odprte programske opreme"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid ""
-#| "How can you measure software's energy consumption? And does it make a "
-#| "difference? We are working to make free software more sustainable."
 msgid ""
 "How can you measure software’s energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
 msgstr ""
 "Kako lahko izmerite porabo energije programske opreme? In kakšna je razlika? "
-"Delamo, da naredimo prosto programsko opremo bolj trajnostno."
+"Delamo na tem, da naredimo prosto programsko opremo bolj trajnostno."
 
 #: i18n/en.yaml:0
 msgid "Blauer Engel for Free and Open Source Software"
@@ -2342,20 +2319,14 @@ msgid "KDE Eco Handbook"
 msgstr "Priročnik KDE Eco"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Plots of real time measurements using KDE's LabPlot."
 msgid "Plots of real time measurements using KDE’s LabPlot."
-msgstr "Grafi dejanskih meritev z uporabo KDE's LabPlot."
+msgstr "Grafi sprotnih meritev z uporabo KDE's LabPlot."
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
 msgstr "Okular je bil nagrajen z ekološko značko Modri angel"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid ""
-#| "In 2022, KDE's popular multi-platform PDF reader and universal document "
-#| "viewer Okular became the first ever eco-certified computer program!"
 msgid ""
 "In 2022, KDE’s popular multi-platform PDF reader and universal document "
 "viewer Okular became the first ever eco-certified computer program!"
@@ -2389,8 +2360,6 @@ msgid "Mailing List"
 msgstr "Poštni seznam"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE's Sustainable Software Goal"
 msgid "KDE’s Sustainable Software Goal"
 msgstr "Cilj KDE-jeve trajnostne programske opreme"
 
