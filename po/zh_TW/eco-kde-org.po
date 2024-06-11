@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-07 01:43+0000\n"
-"PO-Revision-Date: 2022-04-25 00:51+0000\n"
+"PO-Revision-Date: 2024-06-10 23:29+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
 msgid "KDE Eco"
-msgstr ""
+msgstr "KDE Eco"
 
 #: config.yaml:0
 msgid "Building Energy-Efficient Free Software"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: config.yaml:0
 msgid "Donate"
-msgstr ""
+msgstr "捐助"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
@@ -614,11 +614,11 @@ msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Automation Tools"
-msgstr ""
+msgstr "自動化工具"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Karanjot Singh"
-msgstr ""
+msgstr "Karanjot Singh"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid ""
@@ -635,7 +635,7 @@ msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:16
 msgid "About Me"
-msgstr ""
+msgstr "關於我"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:18
 msgid ""
@@ -917,7 +917,7 @@ msgstr ""
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 #: content/blog/post-1.md:0
 msgid "Free Software"
-msgstr ""
+msgstr "自由軟體"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
@@ -1026,7 +1026,7 @@ msgstr ""
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Okular"
-msgstr ""
+msgstr "Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid "Global Ecolabelling Network"
@@ -1328,7 +1328,7 @@ msgstr ""
 
 #: content/blog/_index.md:0
 msgid "Blog"
-msgstr ""
+msgstr "部落格"
 
 #: content/blog/_index.md:0
 msgid "KDE Eco blog"
@@ -1485,7 +1485,7 @@ msgstr ""
 
 #: content/get-involved.md:0
 msgid "Get Involved"
-msgstr ""
+msgstr "參與"
 
 #: content/get-involved.md:10
 msgid ""
@@ -1518,7 +1518,7 @@ msgstr ""
 
 #: content/get-involved.md:18
 msgid "Resources"
-msgstr ""
+msgstr "資源"
 
 #: content/get-involved.md:20
 msgid ""
@@ -1548,7 +1548,7 @@ msgstr ""
 
 #: content/get-involved.md:26
 msgid "Contact"
-msgstr ""
+msgstr "聯絡"
 
 #: content/get-involved.md:28
 msgid "Email: `joseph [at] kde.org`"
@@ -1604,11 +1604,11 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Learn More"
-msgstr ""
+msgstr "了解更多"
 
 #: i18n/en.yaml:0
 msgid "KDE Eco Handbook"
-msgstr ""
+msgstr "KDE Eco 手冊"
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -1626,7 +1626,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Read More"
-msgstr ""
+msgstr "閱讀更多"
 
 #: i18n/en.yaml:0
 msgid "**Get Involved**"
@@ -1642,7 +1642,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "聊天"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
@@ -1686,11 +1686,11 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Categories"
-msgstr ""
+msgstr "分類"
 
 #: i18n/en.yaml:0
 msgid "Read more"
-msgstr ""
+msgstr "閱讀更多"
 
 #: i18n/en.yaml:0
 msgid "View all posts"
