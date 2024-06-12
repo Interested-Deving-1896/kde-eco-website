@@ -1,12 +1,13 @@
 #
+# SPDX-FileCopyrightText: 2024 Kisaragi Hiu <mail@kisaragi-hiu.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-07 01:43+0000\n"
-"PO-Revision-Date: 2024-06-10 23:29+0900\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-06-12 02:40+0900\n"
+"Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
+"Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,6 +15,7 @@ msgstr ""
 "SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
 "SPDX-License-Identifier: LGPL-3.0-or-later\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 24.04.70\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -26,7 +28,7 @@ msgstr ""
 
 #: config.yaml:0
 msgid "Sustainable Goal"
-msgstr ""
+msgstr "永續目標"
 
 #: config.yaml:0
 msgid "FEEP"
@@ -146,7 +148,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
 msgid "Did you know?"
-msgstr ""
+msgstr "您知道嗎？"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:28
 msgid ""
@@ -411,7 +413,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:101
 msgid "Data output"
-msgstr ""
+msgstr "資料輸出"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:103
 msgid ""
@@ -545,7 +547,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:134
 msgid "Conclusion"
-msgstr ""
+msgstr "結論"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:136
 msgid ""
@@ -1332,7 +1334,7 @@ msgstr "部落格"
 
 #: content/blog/_index.md:0
 msgid "KDE Eco blog"
-msgstr ""
+msgstr "KDE Eco 部落格"
 
 #: content/blog/_index.md:9
 msgid "Keep up with the latest news about the KDE Eco project"
@@ -1525,6 +1527,8 @@ msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 msgstr ""
+"永續軟體目標（社群維基）：https://community.kde.org/Goals/"
+"Sustainable_Software"
 
 #: content/get-involved.md:21
 msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
@@ -1556,7 +1560,7 @@ msgstr ""
 
 #: content/sustainable-goal/_index.md:0 i18n/en.yaml:0
 msgid "Sustainable Software Goal"
-msgstr ""
+msgstr "永續軟體目標"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -1646,11 +1650,11 @@ msgstr "聊天"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
-msgstr ""
+msgstr "郵件論壇"
 
 #: i18n/en.yaml:0
 msgid "KDE’s Sustainable Software Goal"
-msgstr ""
+msgstr "KDE 的永續軟體目標"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"
@@ -1658,7 +1662,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "FOSS Energy Efficiency Project (FEEP)"
-msgstr ""
+msgstr "自由開源軟體能源效率專案 (FEEP, FOSS Energy Efficiency Project)"
 
 #: i18n/en.yaml:0
 msgid "Image of globe with computer mouse"

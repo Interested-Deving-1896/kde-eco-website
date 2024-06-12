@@ -1,5 +1,5 @@
 #
-# Vit Pelcak <vit@pelcak.org>, 2021, 2022, 2023.
+# SPDX-FileCopyrightText: 2021, 2022, 2023, 2024 Vit Pelcak <vit@pelcak.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Lokalize 23.04.2\n"
+"X-Generator: Lokalize 24.05.0\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0 content/get-involved.md:0
@@ -1649,10 +1649,8 @@ msgid "Mailing List"
 msgstr "E-mailová konference"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Sustainable Goal"
 msgid "KDE’s Sustainable Software Goal"
-msgstr "Udržitelný cíl"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"
