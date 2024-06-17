@@ -9,7 +9,7 @@ authors:
 - SPDX-FileCopyrightText: 2024 Joseph P. De Veaugh-Geiss <joseph@kde.org>
 ---
 
-Inspired by the successes of the ["Blauer Engel Für FOSS" (BE4FOSS)](https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification/) project and KDE's ongoing [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software) goal, KDE Eco has begun a new initiative: "Opt Green: Sustainable Software For Sustainable Hardware" (German: [*Nachhaltige Software Für Nachhaltige Hardware*](https://www.umweltbundesamt.de/das-uba/was-wir-tun/foerdern-beraten/verbaendefoerderung/projektfoerderungen-projekttraeger/opt-green-nachhaltige-software-fuer-nachhaltige), or [NS4NH](https://invent.kde.org/teams/eco/ns4nh)).
+Inspired by the successes of the ["Blauer Engel Für FOSS" (BE4FOSS)](https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-engel-eco-certification/) project and KDE's ongoing [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software) goal, KDE Eco has begun a new initiative: "[Opt Green](https://invent.kde.org/teams/eco/opt-green): Sustainable Software For Sustainable Hardware" (German: [*Nachhaltige Software Für Nachhaltige Hardware*](https://www.umweltbundesamt.de/das-uba/was-wir-tun/foerdern-beraten/verbaendefoerderung/projektfoerderungen-projekttraeger/opt-green-nachhaltige-software-fuer-nachhaltige)).
 
 ## Opt Green: Sustainable Software For Sustainable Hardware
 
@@ -29,7 +29,7 @@ Through online and offline campaigns as well as installation workshops, we will 
 
 Our motto: **The most environmentally-friendly device is the one you already own.**
 
-The topic of software-driven sustainability is relevant for all Free Software applications and developers. We'd love to have you join us and become partners in combatting the issue of software-driven environmental harm. Check out the project's [Invent repository](https://invent.kde.org/teams/eco/ns4nh) or the [contact page](https://eco.kde.org/get-involved/) to get involved today!
+The topic of software-driven sustainability is relevant for all Free Software applications and developers. We'd love to have you join us and become partners in combatting the issue of software-driven environmental harm. Check out the project's [Invent repository](https://invent.kde.org/teams/eco/opt-green) or the [contact page](https://eco.kde.org/get-involved/) to get involved today!
 
 ## Software's Environmental Harm
 
@@ -59,7 +59,7 @@ For consumers, the environmental harm may be out-of-sight and out-of-mind. Yet t
 
 {{< container class="text-center" >}}
 
-![A young man is pictured burning electrical wires to recover copper at Agbogbloshie, Ghana, as another metal scrap worker arrives with more wires to be burned. A 2018 article in the "International Journal of Cancer" reports a [correlation](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31902) between proximity to e-waste burn sites and childhood lymphoma. (Image by Muntaka Chasant, published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)
+![A young man is pictured burning electrical wires to recover copper at Agbogbloshie, Ghana, as another metal scrap worker arrives with more wires to be burned. A 2018 article in the "International Journal of Cancer" reports a [correlation](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31902) between proximity to e-waste burn sites and childhood lymphoma. ([Image](https://en.wikipedia.org/wiki/File:Agbogbloshie,_Ghana_-_September_2019.jpg) by Muntaka Chasant, published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)
 
 {{< /container >}}
 
@@ -89,7 +89,7 @@ In fact, the [Blue Angel criteria for desktop software](https://www.blauer-engel
 
 Now we want to take what we have achieved and bring it directly to eco-consumers.
 
-Through educational campaigns and workshops, the "Opt Green" project aims to combat e-waste by keeping hardware in use with Free Software. Although the problem of software-driven e-waste is relevant for an increasing number of digital devices, the focus will be on desktop PCs, laptops, and, when possible, smartphones and tablets. We are planning to set up info-stands at fair-trade, organic, and artisanal markets as well as sustainability festivals such as the [Umweltfestival](https://www.umweltfestival.de/) in Berlin. We will distribute [leaflets](https://eco.kde.org/blog/images/environmentally-friendly-software-flyer.pdf) to consumers, and demo vendor-abandoned devices which are not only usable, but also a joy to use thanks to the tireless work of inspiring Free Software communities. Installation workshops will give users the know-how to keep their devices in use for as long as they want.
+Through educational campaigns and workshops, the "Opt Green" project aims to combat e-waste by keeping hardware in use with Free Software. Although the problem of software-driven e-waste is relevant for an increasing number of digital devices, the focus will be on desktop PCs, laptops, and, when possible, smartphones and tablets. We are planning to set up info-stands at fair-trade, organic, and artisanal markets as well as sustainability festivals such as the [Umweltfestival](https://www.umweltfestival.de/) in Berlin. We will distribute [leaflets](https://invent.kde.org/teams/eco/opt-green/-/blob/master/materials/leaflets/kde-eco-umweltfestival-flyer-EN-8.jpg) to consumers, and demo vendor-abandoned devices which are not only usable, but also a joy to use thanks to the tireless work of inspiring Free Software communities. Installation workshops will give users the know-how to keep their devices in use for as long as they want.
 
 Consumers don’t need a new computer to get secure, cutting-edge software; they just need the right software. Free Software already gives consumers what they want today, and we will be working hard to make sure they know that.
 
@@ -107,9 +107,11 @@ Or maybe you actively contribute to a Free Software project that will keep hardw
 
 Additional ideas are more than welcome. Part of the project will be figuring out what works and engagement by people like you will make this project a success. We would love to have you join us. Learn more: https://eco.kde.org/get-involved/
 
+*Note: This post was updated on Monday, 17 June 2024.*
+
 #### Funding Notice
 
-The NS4NH project is funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). The funds are made available by resolution of the German Bundestag.
+This project is funded by the Federal Environment Agency and the Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection (BMUV<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>). The funds are made available by resolution of the German Bundestag.
 
 {{< container >}}
 
