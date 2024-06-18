@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-06-07 01:43+0000\n"
+"POT-Creation-Date: 2024-06-18 01:53+0000\n"
 "PO-Revision-Date: 2024-04-27 11:17+0200\n"
 "Last-Translator: David Marzal <mundolibre@tutanota.com>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -2247,26 +2247,45 @@ msgstr ""
 "CET (UTC+2:00/+1:00) (contáctenos para más detalles)"
 
 #: content/get-involved.md:15
+#, fuzzy
+#| msgid ""
+#| "Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-"
+#| "efficiency:kde.org"
 msgid ""
-"Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-efficiency:"
-"kde.org"
+"Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgstr ""
 "Sala de Matrix (discusión): https://webchat.kde.org/#/room/#energy-"
 "efficiency:kde.org"
 
 #: content/get-involved.md:16
+#, fuzzy
+#| msgid ""
+#| "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/"
+#| "listinfo/energy-efficiency"
 msgid ""
-"Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-"energy-efficiency"
+"Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
+"eco-discuss"
 msgstr ""
 "Lista de correo (anuncios): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "energy-efficiency"
 
-#: content/get-involved.md:18
+#: content/get-involved.md:17
+#, fuzzy
+#| msgid ""
+#| "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/"
+#| "listinfo/energy-efficiency"
+msgid ""
+"Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"kde-eco-announce"
+msgstr ""
+"Lista de correo (anuncios): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"energy-efficiency"
+
+#: content/get-involved.md:19
 msgid "Resources"
 msgstr "Recursos"
 
-#: content/get-involved.md:20
+#: content/get-involved.md:21
 msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
@@ -2274,24 +2293,15 @@ msgstr ""
 "Objetivo de software sostenible (wiki de la comunidad): https://community."
 "kde.org/Goals/Sustainable_Software"
 
-#: content/get-involved.md:21
-msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
+#: content/get-involved.md:22
+#, fuzzy
+#| msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
+msgid ""
+"\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
+"opt-green"
 msgstr "FEEP (repositorio de GitLab): https://invent.kde.org/teams/eco/feep"
 
-#: content/get-involved.md:22
-msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
-msgstr ""
-"BE4FOSS (repositorio de GitLab): https://invent.kde.org/teams/eco/be4foss"
-
 #: content/get-involved.md:23
-msgid ""
-"Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-"eco/blue-angel-application"
-msgstr ""
-"Solicitudes para *Blue Angel* (repositorio de GitLab): https://invent.kde."
-"org/teams/eco/blue-angel-application"
-
-#: content/get-involved.md:24
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
@@ -2299,11 +2309,28 @@ msgstr ""
 "Remote Eco Lab (repositorio de GitLab): https://invent.kde.org/teams/eco/"
 "remote-eco-lab"
 
+#: content/get-involved.md:24
+msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
+msgstr "FEEP (repositorio de GitLab): https://invent.kde.org/teams/eco/feep"
+
+#: content/get-involved.md:25
+msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
+msgstr ""
+"BE4FOSS (repositorio de GitLab): https://invent.kde.org/teams/eco/be4foss"
+
 #: content/get-involved.md:26
+msgid ""
+"Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
+"eco/blue-angel-application"
+msgstr ""
+"Solicitudes para *Blue Angel* (repositorio de GitLab): https://invent.kde."
+"org/teams/eco/blue-angel-application"
+
+#: content/get-involved.md:28
 msgid "Contact"
 msgstr "Contacto"
 
-#: content/get-involved.md:28
+#: content/get-involved.md:30
 msgid "Email: `joseph [at] kde.org`"
 msgstr "Correo electrónico: `joseph [at] kde.org`"
 

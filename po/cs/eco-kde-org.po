@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-06-07 01:43+0000\n"
+"POT-Creation-Date: 2024-06-18 01:53+0000\n"
 "PO-Revision-Date: 2023-06-23 12:35+0200\n"
 "Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -1506,51 +1506,62 @@ msgstr ""
 
 #: content/get-involved.md:15
 msgid ""
-"Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-efficiency:"
-"kde.org"
+"Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgstr ""
 
 #: content/get-involved.md:16
 msgid ""
-"Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-"energy-efficiency"
+"Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
+"eco-discuss"
 msgstr ""
 
-#: content/get-involved.md:18
+#: content/get-involved.md:17
+msgid ""
+"Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"kde-eco-announce"
+msgstr ""
+
+#: content/get-involved.md:19
 msgid "Resources"
 msgstr "Zdroje"
 
-#: content/get-involved.md:20
+#: content/get-involved.md:21
 msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 msgstr ""
 
-#: content/get-involved.md:21
-msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
-msgstr ""
-
 #: content/get-involved.md:22
-msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
+msgid ""
+"\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
+"opt-green"
 msgstr ""
 
 #: content/get-involved.md:23
-msgid ""
-"Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-"eco/blue-angel-application"
-msgstr ""
-
-#: content/get-involved.md:24
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
 msgstr ""
 
+#: content/get-involved.md:24
+msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
+msgstr ""
+
+#: content/get-involved.md:25
+msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
+msgstr ""
+
 #: content/get-involved.md:26
+msgid ""
+"Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
+"eco/blue-angel-application"
+msgstr ""
+
+#: content/get-involved.md:28
 msgid "Contact"
 msgstr "Kontakt"
 
-#: content/get-involved.md:28
+#: content/get-involved.md:30
 msgid "Email: `joseph [at] kde.org`"
 msgstr ""
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-06-07 01:43+0000\n"
+"POT-Creation-Date: 2024-06-18 01:53+0000\n"
 "PO-Revision-Date: 2024-06-07 09:47+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
@@ -2223,26 +2223,45 @@ msgstr ""
 "(UTC+2:00/+1:00) (neem contact op met ons voor details)"
 
 #: content/get-involved.md:15
+#, fuzzy
+#| msgid ""
+#| "Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-"
+#| "efficiency:kde.org"
 msgid ""
-"Matrix Room (Discussion): https://webchat.kde.org/#/room/#energy-efficiency:"
-"kde.org"
+"Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgstr ""
 "Matrix-room (discussies): https://webchat.kde.org/#/room/#energy-efficiency:"
 "kde.org"
 
 #: content/get-involved.md:16
+#, fuzzy
+#| msgid ""
+#| "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/"
+#| "listinfo/energy-efficiency"
 msgid ""
-"Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-"energy-efficiency"
+"Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
+"eco-discuss"
 msgstr ""
 "E-maillijst (aankondigingen): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "energy-efficiency"
 
-#: content/get-involved.md:18
+#: content/get-involved.md:17
+#, fuzzy
+#| msgid ""
+#| "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/"
+#| "listinfo/energy-efficiency"
+msgid ""
+"Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"kde-eco-announce"
+msgstr ""
+"E-maillijst (aankondigingen): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"energy-efficiency"
+
+#: content/get-involved.md:19
 msgid "Resources"
 msgstr "Hulpbronnen"
 
-#: content/get-involved.md:20
+#: content/get-involved.md:21
 msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
@@ -2250,24 +2269,15 @@ msgstr ""
 "Doel van duurzame software (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 
-#: content/get-involved.md:21
-msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
+#: content/get-involved.md:22
+#, fuzzy
+#| msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
+msgid ""
+"\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
+"opt-green"
 msgstr "FEEP (GitLab opslagruimte): https://invent.kde.org/teakms/eco/feep"
 
-#: content/get-involved.md:22
-msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
-msgstr ""
-"BE4FOSS (GitLab opslagruimte): https://invent.kde.org/teams/eco/be4foss"
-
 #: content/get-involved.md:23
-msgid ""
-"Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-"eco/blue-angel-application"
-msgstr ""
-"Blue Angel toepassingen (GitLab opslagruimte): https://invent.kde.org/teams/"
-"eco/blue-angel-application"
-
-#: content/get-involved.md:24
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
@@ -2275,11 +2285,28 @@ msgstr ""
 "Eco-lab op afstand (GitLab opslagruimte): https://invent.kde.org/teams/eco/"
 "remote-eco-lab"
 
+#: content/get-involved.md:24
+msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
+msgstr "FEEP (GitLab opslagruimte): https://invent.kde.org/teakms/eco/feep"
+
+#: content/get-involved.md:25
+msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
+msgstr ""
+"BE4FOSS (GitLab opslagruimte): https://invent.kde.org/teams/eco/be4foss"
+
 #: content/get-involved.md:26
+msgid ""
+"Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
+"eco/blue-angel-application"
+msgstr ""
+"Blue Angel toepassingen (GitLab opslagruimte): https://invent.kde.org/teams/"
+"eco/blue-angel-application"
+
+#: content/get-involved.md:28
 msgid "Contact"
 msgstr "Contact"
 
-#: content/get-involved.md:28
+#: content/get-involved.md:30
 msgid "Email: `joseph [at] kde.org`"
 msgstr "E-mail: `joseph [at] kde.org`"
 
