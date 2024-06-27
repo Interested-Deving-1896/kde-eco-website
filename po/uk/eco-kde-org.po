@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-26 01:48+0000\n"
-"PO-Revision-Date: 2024-06-18 08:28+0300\n"
+"PO-Revision-Date: 2024-06-26 07:59+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian\n"
 "Language: uk\n"
@@ -1977,22 +1977,17 @@ msgid ""
 msgstr "*Святкування Okular і Blue Angel з тортом KDE Eco на Akademy 2022!*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
-msgstr "Мета щодо створення стійкого програмного забезпечення KDE"
+msgstr ""
+"Opt Green: новий проєкт програмного забезпечення стійкого розвитку KDE Eco"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Software Goal"
 msgid "Sustainable Software"
-msgstr "Мета щодо створення програмного забезпечення для стійкого розвитку"
+msgstr "Програмне забезпечення стійкого розвитку"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Goal"
 msgid "Sustainable Hardware"
-msgstr "Мета стійкого розвитку"
+msgstr "Обладнання стійкого розвитку"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid ""
@@ -2017,6 +2012,8 @@ msgstr ""
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid "Opt Green: Sustainable Software For Sustainable Hardware"
 msgstr ""
+"Opt Green: програмне забезпечення стійкого розвитку для обладнання стійкого "
+"розвитку"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:16
 msgid ""
@@ -2372,15 +2369,9 @@ msgstr ""
 #: content/blog/2024-05-29_introducing-ns4nh.md:110
 msgid "*Note: This post was updated on Monday, 17 June 2024.*"
 msgstr ""
+"*Зауваження: цей допис було оновлено у понеділок, 17 червня 2024 року.*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:114
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "This project is funded by the Federal Environment Agency and the Federal "
 "Ministry for the Environment, Nature Conservation, Nuclear Safety and "
@@ -2388,11 +2379,11 @@ msgid ""
 "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
 "German Bundestag."
 msgstr ""
-"Проєкт BE4FOSS було профінансовано Федеральною Агенцією з навколишнього "
-"середовища та Федеральним міністерством навколишнього середовища, збереження "
-"природи, ядерної безпеки та захисту споживачів (BMUV<sup><a id=\"fnr.1\" "
-"class=\"footref\" href=\"#fn.1\">1</sup>). Доступ до фінансування було "
-"затверджено Бундестагом ФРН."
+"Фінансування було виконано Федеральною Агенцією з навколишнього середовища "
+"та Федеральним міністерством навколишнього середовища, збереження природи, "
+"ядерної безпеки та захисту споживачів (BMUV<sup><a id=\"fnr.1\" class="
+"\"footref\" href=\"#fn.1\">1</sup>). Доступ до фінансування було затверджено "
+"Бундестагом ФРН."
 
 #: content/blog/_index.md:0
 msgid "Blog"

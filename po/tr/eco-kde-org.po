@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-26 01:48+0000\n"
-"PO-Revision-Date: 2024-06-18 11:51+0300\n"
+"PO-Revision-Date: 2024-06-26 13:07+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -1947,22 +1947,16 @@ msgstr ""
 "*Akademy 2022’de Okular ve Mavi Melek’i KDE Eko pastasıyla kutluyoruz!*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
-msgstr "KDE’nin Sürdürülebilir Yazılım Hedefi"
+msgstr "Opt Green: KDE Eko’nun Yeni Sürdürülebilir Yazılım Hedefi"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Software Goal"
 msgid "Sustainable Software"
-msgstr "Sürdürülebilir Yazılım Hedefi"
+msgstr "Sürdürülebilir Yazılım"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Goal"
 msgid "Sustainable Hardware"
-msgstr "Sürdürülebilirlik Hedefi"
+msgstr "Sürdürülebilir Donanım"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid ""

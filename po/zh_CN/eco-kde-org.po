@@ -1728,13 +1728,6 @@ msgid "*Note: This post was updated on Monday, 17 June 2024.*"
 msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:114
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "This project is funded by the Federal Environment Agency and the Federal "
 "Ministry for the Environment, Nature Conservation, Nuclear Safety and "
@@ -1742,9 +1735,6 @@ msgid ""
 "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
 "German Bundestag."
 msgstr ""
-"BE4FOSS 工程由下列组织提供资金支持：德国联邦环境局、德国联邦环境部、德国自然"
-"保护组织、德国核能安全和消费者保护组织 (BMUV<sup><a id=\"fnr.1\" class="
-"\"footref\" href=\"#fn.1\">1</a></sup>)。这些资金由德国联邦议院决议提供。"
 
 #: content/blog/_index.md:0
 msgid "Blog"
