@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-26 01:48+0000\n"
-"PO-Revision-Date: 2024-06-19 11:45+0200\n"
+"PO-Revision-Date: 2024-06-26 12:11+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -1976,28 +1976,24 @@ msgstr ""
 "*Viering van Okular en de Blue Angel met KDE Eco cake op Akademy 2022!*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
-msgstr "Het doel van KDE voor duurzame software"
+msgstr "Opt Green: nieuw duurzaam softwareproject van KDE Eco"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Software Goal"
 msgid "Sustainable Software"
-msgstr "Duurzame software doel"
+msgstr "Duurzame software"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Goal"
 msgid "Sustainable Hardware"
-msgstr "Duurzaam doel"
+msgstr "Duurzame hardware"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid ""
 "KDE Eco has begun a new initiative \"Opt Green: Sustainable Software For "
 "Sustainable Hardware\"."
 msgstr ""
+"KDE Eco is een nieuw initiatief begonnen \"Opt Green: duurzame software voor "
+"duurzame hardware\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:12
 msgid ""
@@ -2015,7 +2011,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid "Opt Green: Sustainable Software For Sustainable Hardware"
-msgstr ""
+msgstr "Opt Green: duurzame software voor duurzame hardware"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:16
 msgid ""
@@ -2039,6 +2035,8 @@ msgid ""
 "Independent and sustainable Free Software is good for the users, and good "
 "for the environment."
 msgstr ""
+"Onafhankelijke en duurzame vrije software is goed voor de gebruikers en goed "
+"voor de omgeving."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:22
 msgid ""
@@ -2058,6 +2056,11 @@ msgid ""
 "driven by principles related to the environment, and not just price or "
 "convenience: the \"eco-consumers\"."
 msgstr ""
+"Gedurende de volgende twee jaar zal het initiatief \"Opt Green\" brengen wat "
+"KDE Eco gedaan heeft voor duurzame software direct bij eindgebruikers. Een "
+"specifieke doelgroep voor het project zijn die waarvan het consumentengedrag "
+"gedreven wordt door principes gerelateerd aan de omgeving en niet gewoon "
+"prijs of gemak: de \"eco-consument\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:28
 msgid ""
@@ -2066,12 +2069,18 @@ msgid ""
 "energy consumption, and keep devices in use for the lifespan of the "
 "hardware, not the software."
 msgstr ""
+"Door online en offline campagnes evenals installatieworkshops willen we de "
+"kracht van vrije software demonstreren om gebruik van hulpbronnen en "
+"energieconsumptie omlaag te brengen en apparaten in gebruik te houden "
+"gedurende de levensloop van de hardware, niet de software."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:30
 msgid ""
 "Our motto: **The most environmentally-friendly device is the one you already "
 "own.**"
 msgstr ""
+"Ons motto: **Het meest milieuvriendelijke apparaat is diegene die u al bezit."
+"**"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:32
 msgid ""
@@ -2373,13 +2382,6 @@ msgid "*Note: This post was updated on Monday, 17 June 2024.*"
 msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:114
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "This project is funded by the Federal Environment Agency and the Federal "
 "Ministry for the Environment, Nature Conservation, Nuclear Safety and "
@@ -2387,8 +2389,8 @@ msgid ""
 "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
 "German Bundestag."
 msgstr ""
-"Het project BE4FOSS kreeg fondsen van de Federale Omgevingsagency en het "
-"Federale Ministerie voor de omgeving, Natuurbeheer, Nucleaire veiligheid en "
+"Het project kreeg fondsen van de Federale Omgevingsagency en het Federale "
+"Ministerie voor de omgeving, Natuurbeheer, Nucleaire veiligheid en "
 "Consumentenbescherming (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
 "\"#fn.1\">1</sup>). De fondsen zijn beschikbaar gesteld door een resolutie "
 "van de Duitse Bondsdag."
