@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-26 01:48+0000\n"
-"PO-Revision-Date: 2024-06-18 16:57+0200\n"
-"Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
+"PO-Revision-Date: 2024-06-30 19:41+0200\n"
+"Last-Translator: Stefan Asserhäll <stefan.asserhall@gmail.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -1938,22 +1938,16 @@ msgid ""
 msgstr "*Vi firar Okular och Blå ängel med KDE Eko tårta på Akademy 2022!*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
-msgstr "KDE:s mål för hållbar programvara"
+msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Software Goal"
 msgid "Sustainable Software"
-msgstr "Mål för hållbar programvara"
+msgstr "Hållbar programvara"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Goal"
 msgid "Sustainable Hardware"
-msgstr "Hållbart mål"
+msgstr "Hållbar maskinvara"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid ""
@@ -2047,7 +2041,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:34
 msgid "Software's Environmental Harm"
-msgstr ""
+msgstr "Miljöskador från programvara"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:36
 msgid ""
@@ -2194,7 +2188,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:76
 msgid "Giving Consumers What They Want"
-msgstr ""
+msgstr "Ge konsumenter vad de vill ha"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:78
 msgid ""
@@ -2280,7 +2274,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:96
 msgid "Ready To Join Us?"
-msgstr ""
+msgstr "Redo att gå med oss?"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:98
 msgid ""
@@ -2335,13 +2329,6 @@ msgid "*Note: This post was updated on Monday, 17 June 2024.*"
 msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:114
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "This project is funded by the Federal Environment Agency and the Federal "
 "Ministry for the Environment, Nature Conservation, Nuclear Safety and "
@@ -2349,10 +2336,6 @@ msgid ""
 "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
 "German Bundestag."
 msgstr ""
-"Projektet BE4FOSS grundades av det federala miljödepartementet och det "
-"federala ministeriet för miljö, naturvård, kärnkraftssäkerhet och "
-"konsumentskydd (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href=\"#fn.1\">1</"
-"sup>). Medel tillhandahålls genom beslut av den Tyska Förbundsdagen."
 
 #: content/blog/_index.md:0
 msgid "Blog"
