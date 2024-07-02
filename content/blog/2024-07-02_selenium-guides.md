@@ -17,7 +17,7 @@ Check out the following four-part guide to get started with this wonderful tool!
 
 <p align="center"><iframe title="A Selenium Primer - Part 1: An Introduction to Selenium" src="https://tube.kockatoo.org/videos/embed/b03e88c4-6200-472b-b8bb-a9ab0099d3e0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" width="560" height="315" frameborder="0"></iframe></p>
 
-Selenium AT-SPI, originaly based on the Selenium web application for automating testing purposes, has been [ported to Qt](https://planet.kde.org/harald-sitter-2022-12-14-selenium-at-spi-gui-testing/) by Harald Sitter. With this tool, KDE can reach all three of its current goals:
+Selenium AT-SPI, originally based on the Selenium web application for automating testing purposes, has been [ported to Qt](https://planet.kde.org/harald-sitter-2022-12-14-selenium-at-spi-gui-testing/) by Harald Sitter. With this tool, KDE can reach all three of its current goals:
 
  - [KDE For All](https://community.kde.org/Goals/KDE_For_All)
  - [Sustainable Software](https://community.kde.org/Goals/Sustainable_Software)
