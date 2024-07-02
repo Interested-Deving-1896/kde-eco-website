@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-06-26 01:48+0000\n"
-"PO-Revision-Date: 2024-06-29 18:09+0200\n"
+"PO-Revision-Date: 2024-06-30 22:05+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: French <French <kde-francophone@kde.org>>\n"
 "Language: fr\n"
@@ -2059,28 +2059,24 @@ msgstr ""
 "Eco à Akademy 2022 ! *"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
-msgstr "Objectifs des logiciels durables de KDE"
+msgstr "Opt Green : le nouveau projet pour des logiciels durables de KDE Eco"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Software Goal"
 msgid "Sustainable Software"
-msgstr "Mouvement pour des logiciels durables"
+msgstr "Logiciels durables"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "Sustainable Goal"
 msgid "Sustainable Hardware"
-msgstr "Développement durable"
+msgstr "Matériels durables"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid ""
 "KDE Eco has begun a new initiative \"Opt Green: Sustainable Software For "
 "Sustainable Hardware\"."
 msgstr ""
+"KDE Eco a lancé une nouvelle initiative « Opt Green : des logiciels durables "
+"pour des matériels durables »."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:12
 msgid ""
@@ -2095,10 +2091,20 @@ msgid ""
 "projektfoerderungen-projekttraeger/opt-green-nachhaltige-software-fuer-"
 "nachhaltige))."
 msgstr ""
+"Inspiré par les succès du projet [« Blauer Engel Für FOSS » (BE4FOSS)]"
+"(https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-"
+"engel-eco-certification/) et les objectifs en cours pour des [logiciels "
+"durables](https://community.kde.org/Goals/Sustainable_Software) de KDE, KDE "
+"Eco a démarré une nouvelle initiative : « [Opt Green](https://invent.kde.org/"
+"teams/eco/opt-green): pour des logiciels durables pour du matériel "
+"durable » (En Allemand : [*Nachhaltige Software Für Nachhaltige Hardware*]"
+"(https://www.umweltbundesamt.de/das-uba/was-wir-tun/foerdern-beraten/"
+"verbaendefoerderung/projektfoerderungen-projekttraeger/opt-green-nachhaltige-"
+"software-fuer-nachhaltige))."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid "Opt Green: Sustainable Software For Sustainable Hardware"
-msgstr ""
+msgstr "Opt Green : des logiciels durables pour des matériels durables"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:16
 msgid ""
@@ -2122,6 +2128,8 @@ msgid ""
 "Independent and sustainable Free Software is good for the users, and good "
 "for the environment."
 msgstr ""
+"Des logiciels libres, indépendants et durables, sont bons pour les personnes "
+"utilisatrices et bons pour l'environnement."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:22
 msgid ""
@@ -2155,6 +2163,8 @@ msgid ""
 "Our motto: **The most environmentally-friendly device is the one you already "
 "own.**"
 msgstr ""
+"Notre devise : **Le périphérique le plus respectueux de l'environnement est "
+"celui que vous possédez déjà.**"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:32
 msgid ""
@@ -2168,7 +2178,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:34
 msgid "Software's Environmental Harm"
-msgstr ""
+msgstr "Dommages environnementaux causés par les logiciels"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:36
 msgid ""
@@ -2229,6 +2239,10 @@ msgid ""
 "story/2015/05/497772) of the \"tsunami of electronic waste rolling out over "
 "the world\"."
 msgstr ""
+"Déjà en 2015, Achim Steiner, ancien directeur exécutif du Programme des "
+"Nations Unies pour l'environnement (PNUE), [avait mis en garde](https://news."
+"un.org/en/story/2015/05/497772) contre le « tsunami de déchets électroniques "
+"se propageant dans le monde »."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:42
 msgid ""
@@ -2236,6 +2250,10 @@ msgid ""
 "equivalent to 4500 Eiffel Towers. If you were to stack those Eiffel Towers "
 "on top of each other, the result would be 17 times higher than Mount Everest."
 msgstr ""
+"En 2016, 44,7 millions de tonnes de déchets électroniques ont été générées, "
+"soit l'équivalent de 4 500 tours Eiffel. Si vous empiliez ces tours Eiffel "
+"les unes sur les autres, le résultat serait une hauteur 17 fois plus élevée "
+"que celle du mont Everest."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:44
 msgid ""
@@ -2251,10 +2269,12 @@ msgid ""
 "In 2022, the amount of e-waste reached 59.4 million tonnes, a 33% increase "
 "since 2016."
 msgstr ""
+"En 2022, la quantité de déchets électroniques a atteint 59,4 millions de "
+"tonnes, soit une augmentation de 33 % depuis 2016."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:48
 msgid "The flow of e-waste continues to rise today."
-msgstr ""
+msgstr "Le flux de déchets électroniques continue d'augmenter aujourd'hui."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:52
 msgid ""
@@ -2335,7 +2355,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:76
 msgid "Giving Consumers What They Want"
-msgstr ""
+msgstr "Donner aux personnes consommatrices ce qu'elles veulent"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:78
 msgid ""
@@ -2365,6 +2385,11 @@ msgid ""
 "published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
 "license.)](/blog/images/sec2_okular-BE-logo.png)"
 msgstr ""
+"![Okular, le populaire lecteur de fichier au format « PDF », multi-"
+"plateforme de KDE et l'afficheur universel de documents a reçu l'éco-label "
+"« Blue Angel » en 2022. (Image de KDE publiée sous licence [CC-BY-4.0]"
+"(https://spdx.org/licenses/CC-BY-4.0.html).)](/blog/images/sec2_okular-BE-"
+"logo.png)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:88
 msgid ""
@@ -2414,6 +2439,8 @@ msgid ""
 "Now we want to take what we have achieved and bring it directly to eco-"
 "consumers."
 msgstr ""
+"Maintenant, nous voulons poursuivre ce que nous avons réalisé et l'apporter "
+"directement aux éco-consommateurs."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:92
 msgid ""
@@ -2439,10 +2466,15 @@ msgid ""
 "what they want today, and we will be working hard to make sure they know "
 "that."
 msgstr ""
+"Les consommateurs n'ont pas aucun besoin d'un nouvel ordinateur pour obtenir "
+"des logiciels sécurisés et de pointe. Ils ont juste besoin de bons "
+"logiciels. Les logiciels libres donnent déjà aux consommateurs ce qu'ils "
+"veulent aujourd'hui. Nous travaillerons dur pour nous assurer qu'ils soient "
+"convaincus."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:96
 msgid "Ready To Join Us?"
-msgstr ""
+msgstr "Prêt à nous rejoindre ?"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:98
 msgid ""
@@ -2451,6 +2483,11 @@ msgid ""
 "will drive demand for Free Software products and enable long-term hardware "
 "use."
 msgstr ""
+"Les consommateurs veulent des périphériques numériques durables et "
+"réparables. Nous pensons que fournir aux utilisateurs des logiciels pour "
+"maintenir les périphérique en service et hors de la décharge stimulera la "
+"demande de produits logiciels libres et permettra une utilisation du "
+"matériel sur le long terme."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:100
 msgid ""
@@ -2458,6 +2495,10 @@ msgid ""
 "Software? See our [contact info](https://eco.kde.org/get-involved/) to get "
 "involved.**"
 msgstr ""
+"**Voulez-vous vous joindre à nous dans ce mouvement pour la lutte contre les "
+"déchets électroniques avec des logiciels libres ? Veuillez consulter nos "
+"[informations de contact](https://eco.kde.org/get-involved/) pour vous "
+"impliquer.**"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:102
 msgid ""
@@ -2483,6 +2524,10 @@ msgid ""
 "hardware in use for longer. Please be in touch! We want to promote the "
 "amazing work you do directly with consumers."
 msgstr ""
+"Ou peut-être que vous contribuez activement à un projet de logiciel libre "
+"qui maintiendra le matériel en opération plus longtemps. Veuillez nous "
+"contacter ! Nous voulons promouvoir le travail incroyable que vous faites "
+"directement avec les personnes consommatrices."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:108
 msgid ""
@@ -2491,10 +2536,15 @@ msgid ""
 "success. We would love to have you join us. Learn more: https://eco.kde.org/"
 "get-involved/"
 msgstr ""
+"D'autres idées sont plus que bienvenues. Une partie du projet consistera à "
+"déterminer ce qui fonctionne et les engagements de personnes comme vous qui "
+"feront de ce projet un succès. Nous serions ravis que vous vous joigniez à "
+"nous. Pour en savoir plus, veuillez consulter le site : https://eco.kde.org/"
+"get-involved/"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:110
 msgid "*Note: This post was updated on Monday, 17 June 2024.*"
-msgstr ""
+msgstr "*Remarque : ce message a été mis à jour le lundi 17 juin 2024.*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:114
 #, fuzzy
