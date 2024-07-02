@@ -13,9 +13,11 @@ In just 8 minutes you too will be ready to start using Selenium AT-SPI.
 
 Working to make your apps accessible to everybody, while reducing its power usage and improving its quality by doing more system testing, may seem as daunting as climbing Mount Everest. Luckily, KDE provides a lift to help you, Selenium AT-SPI.
 
-Check out the following four-part guide to get started with this wonderful tool!
+Check out the following four-part guide to get started with this wonderful tool! Part 1 "An Introduction to Selenium" can be viewed here:
 
 <p align="center"><iframe title="A Selenium Primer - Part 1: An Introduction to Selenium" src="https://tube.kockatoo.org/videos/embed/b03e88c4-6200-472b-b8bb-a9ab0099d3e0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" width="560" height="315" frameborder="0"></iframe></p>
+
+Click to watch [Part 2 "Setting up Selenium"](https://tube.kockatoo.org/w/p/8rDdG3c3UKk55N9VcpmaTR?playlistPosition=2&resume=true), [Part 3 "Identifying Accessibility Issues"](https://tube.kockatoo.org/w/p/8rDdG3c3UKk55N9VcpmaTR?playlistPosition=3&resume=true), and [Part 4 "Writing Selenium Tests"](https://tube.kockatoo.org/w/p/8rDdG3c3UKk55N9VcpmaTR?playlistPosition=4&resume=true).
 
 Selenium AT-SPI, originally based on the Selenium web application for automating testing purposes, has been [ported to Qt](https://planet.kde.org/harald-sitter-2022-12-14-selenium-at-spi-gui-testing/) by Harald Sitter. With this tool, KDE can reach all three of its current goals:
 
