@@ -1,6 +1,7 @@
-github.com/thednp/bootstrap.native v0.0.0-20220121213928-48c5590165ff h1:Qd6AApJOsNnUsvaDPhw3Cd3zYjIBTsObRbODf3KcTgg=
-github.com/thednp/bootstrap.native v0.0.0-20220121213928-48c5590165ff/go.mod h1:apvEEkedEAYkAOjFu4DSnvP3QeFy+8tq7mjzzEfhQCA=
+github.com/PhuNH/hg-companion v0.0.0-20230913110054-b505a89c6dad/go.mod h1:GyFkvdKL0mp4TcR48xZSHjh+yYGrc5pGNwGvPe7uvRQ=
+github.com/thednp/bootstrap.native v0.0.0-20230704154857-7778c4403d89 h1:Jo9lBIgT2wwSM098rgBUYZd1RdQfG5Ti+UhrztQh5jM=
+github.com/thednp/bootstrap.native v0.0.0-20230704154857-7778c4403d89/go.mod h1:apvEEkedEAYkAOjFu4DSnvP3QeFy+8tq7mjzzEfhQCA=
 github.com/twbs/bootstrap v5.3.0-alpha1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 invent.kde.org/websites/hugo-bootstrap v0.0.0-20230310220713-2c58a2e72e20/go.mod h1:ShMW6etO0smOfDUNu1CyVW2WPwGVNZPzmzpzC40w674=
-invent.kde.org/websites/hugo-kde v0.0.0-20230723211723-6da4ef2bc557 h1:0awunvh3BWwKcM8WrTIpSeyUiDrwtaLSgQuszR+uF5Y=
-invent.kde.org/websites/hugo-kde v0.0.0-20230723211723-6da4ef2bc557/go.mod h1:syhJ8MUde9yMFYRqD01yOwj/WaUpLYXFwIAZP4IsiCM=
+invent.kde.org/websites/hugo-kde v0.0.0-20240722015037-37d922aa2b90 h1:rrosMvmDQaasGu6uKbv+XY/yGVEUVZXu6SqKdkdjWzQ=
+invent.kde.org/websites/hugo-kde v0.0.0-20240722015037-37d922aa2b90/go.mod h1:YfwgFZaRVlsOVucPueDz7ygXrKx5vIMjO5/NjkssHpw=
