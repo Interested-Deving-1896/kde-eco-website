@@ -1,5 +1,31 @@
-home.header.sustainable-goal.subtitle:
-  other: Sustainable Software Goal
+home.header:
+  other: Opt Green
+home.header-subtitle:
+  other: Independent, energy-efficient Free & Open Source Software for long-term hardware use.
+home.sustainability-title:
+  other: Be Green (End User)
+home.sustainability-description:
+  other: Opt in to lower energy demands, extended hardware life, device independence, and user control for a healthier digital society.
+home.advocate-title:
+  other: Grow Green (Advocate)
+home.advocate-description:
+  other: Build communities and user support networks to bring the benefits of independent, sustainable software to your hometown.
+home.impact-title:
+  other: Make Green (Dev)
+home.impact-description:
+  other: Develop applications and software features with a focus on efficiency and sustainability for this and future generations.
+home.about-foss-title:
+  other: What makes FOSS sustainable?
+home.about-foss-description:  
+  other : Free & Open Source Software (FOSS) guarantees transparency and user autonomy, by design. These are not features, but inherent qualities to open development and software licensing. As a result, software and hardware are no longer dependent on vendors for support.
+home.about-foss-description-2:  
+  other : FOSS can be studied and improved independently, including in its energy consumption. Premature hardware obsolescence is a thing of the past. FOSS runs on devices that are decades old. Keep your computer in use to the end of the hardware operating life, not the software.
+home.about-kde-title: 
+  other : About KDE and KDE Eco
+home.about-kde-description-kde:
+  other :  "KDE is a world-wide community of software engineers, artists, writers, translators, and creators who are committed to Free Software development. We are a cooperative enterprise: we work together to achieve the common goal of building the world's finest Free & Open Source Software. Everyone is welcome to join and contribute to KDE, including you."
+home.about-kde-description-kde-2:
+  other : Supported by the KDE community since 2021, KDE Eco has the ongoing mission of the development and adoption of sustainable Free & Open Source Software worldwide. As the ecological impact of digitization grows more relevant, we continue to raise awareness about the role of software design in reducing environmental harm. We are proudly a part of a growing number of communities and organizations working to have a positive ecological impact, today.
 home.header.sustainable-goal.description:
  other: Software has a direct affect on energy and resource consumption. Since 2022, KDE has the goal of providing software which does this in a way that reduces software’s environmental impact for us and future generations.
 home.header.feep.subtitle:
@@ -14,6 +40,10 @@ home.header.more:
   other: Learn More
 home.eco-handbook:
   other: KDE Eco Handbook
+home.about-website:
+  other: About This Website
+home.about-website-description:
+  other : 'This website is open-source. Source code and asset licenses can be found in the [KDE Eco Repository](https://invent.kde.org/websites/eco-kde-org). This website was checked by the [greenwebfoundation.org](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde.org) and is labelled "Hosted Green". Website is hosted by: Hetzner Online AG. Supporting evidence for this hoster’s claims: [Sustainability Page](https://www.hetzner.com/unternehmen/umweltschutz).'
 home.eco-handbook.alt:
   other: Plots of real time measurements using KDE’s LabPlot.
 home.okular:
@@ -57,4 +87,4 @@ read-more:
 view-all-posts:
   other: View all posts
 posts:
-  other: News from the blog
+  other: News from the blog'

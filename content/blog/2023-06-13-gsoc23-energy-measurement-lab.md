@@ -4,6 +4,8 @@ title: "KEcoLab: Remote Energy Measurement Lab"
 categories: [Sustainability, Blauer Engel, Energy Efficiency, Sustainable Software Goal, GSoC'23]
 author: Karanjot Singh
 summary: 'In this post I start my journey in Google Summer of Code (GSoC) with KDE Eco by describing progress made on the exciting project of making remote access to the Energy Measurement Lab a reality.'
+featured: true
+thumbnail : /blog/thumbnails/kecolab-blog-post-image-dark.png
 SPDX-License-Identifier: CC-BY-SA-4.0
 authors:
 - SPDX-FileCopyrightText: 2023 Karanjot Singh <drquark@duck.com>

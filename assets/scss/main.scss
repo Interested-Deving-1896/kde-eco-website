@@ -2,14 +2,16 @@
 // SPDX-FileCopyrightText: 2022 Nguyen Hung Phu <phu.nguyen@kdemail.net>
 // SPDX-License-Identifier: LGPL-2.1-or-later
 
-.feature, .hosted-green {
+.feature,
+.hosted-green {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.feature > div, .hosted-green > div {
+.feature > div,
+.hosted-green > div {
   padding: 20px;
 }
 .feature > div:first-child {
@@ -29,7 +31,8 @@
 }
 
 @media (min-width: 800px) {
-  .feature, .hosted-green {
+  .feature,
+  .hosted-green {
     flex-direction: row;
   }
   .feature:nth-child(2n + 1) > div:first-child {
@@ -40,30 +43,77 @@
   }
 }
 
+#home {
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  h2 {
+    font-size: 2.1rem;
+  }
+
+  h4 {
+    font-size: 1.3rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  .container {
+    max-width: 1500px;
+  }
+
+  .card {
+    img {
+      border-radius: 12px 12px 0 0;
+    }
+
+    border: none;
+    background-color: rgba(33, 37, 41, 0.06);
+    border-radius: 12px 12px 12px 12px;
+  }
+
+  .svg-icon {
+    max-width: 3em;
+  }
+}
+
 .jumbotron {
   background-size: cover;
-  height: 700px;
   padding: 6em 10%;
   border-radius: 0;
   display: inline-flex;
   align-items: center;
   background-size: cover;
   overflow-x: hidden !important;
+
+  width: 100vw;
+  height: 34rem;
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  p {
+    font-size: 2rem;
+  }
+
+  @media screen and (max-width: 600px) {
+    height: 35em;
+    h1 {
+      font-size: 3rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+  }
 }
 
-.jumbotron.feep {
-  background-image: url('/images/thomas-kelley-xVptEZzgVfo-unsplash.webp');
-  background-position: center;
-}
-
-.jumbotron.be4foss {
-  background-image: url('/images/karl-pawlowicz-QUHuwyNgSA0-unsplash.webp');
-  background-position: center;
-}
-
-.jumbo-card {
-  background-color: rgba(255, 255, 255, 0.85);
-  border-radius: 10px;
+.jumbotron.background {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(/images/dave-hoefler-UFnHt94r91w-unsplash.jpg);
 }
 
 .tags a {
@@ -87,16 +137,16 @@ html {
   overflow-x: hidden !important;
 }
 
-.app-logo  {
+.app-logo {
   background: transparent !important;
 }
 
-.home-icon{
+.home-icon {
   font-size: 300%;
   color: black;
 }
 
-.feep-image-mobile{
+.feep-image-mobile {
   width: 100vw;
 }
 
@@ -104,126 +154,133 @@ html {
   scroll-behavior: smooth;
 }
 
-@media (prefers-color-scheme: light) {
-  .gitlab {
-    filter: invert(1);
-  }
-}
-
 @media (prefers-color-scheme: dark) {
-  .jumbo-card>h2, .jumbo-card>p {
+  .jumbo-card > h2,
+  .jumbo-card > p {
     color: black !important;
   }
 
-  .icon{
+  .icon {
     color: white;
   }
 
-  .matrix{
+  .svg-icon {
     filter: invert(1);
+  }
+
+  #home {
+    .card {
+      img {
+        border-radius: 12px 12px 0 0;
+      }
+
+      border: none;
+      background-color: rgba(236, 239, 241, 0.06);
+      border-radius: 12px 12px 12px 12px;
+    }
   }
 }
 
 .handbook {
-    #btn-back-to-top {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-    }
+  #btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
 
-    .content {
-        a {
-            word-break: break-all;
-        }
-    }
-
-    .sticky {
-        position: sticky;
-        top: 20px;
-    }
-
+  .content {
     a {
-        word-break: keep-all;
+      word-break: break-all;
     }
+  }
 
-    figure {
-        text-align: center;
-        max-width: 100wv;
-    }
+  .sticky {
+    position: sticky;
+    top: 20px;
+  }
 
+  a {
+    word-break: keep-all;
+  }
+
+  figure {
+    text-align: center;
+    max-width: 100wv;
+  }
+
+  table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  table caption {
+    font-size: 1.5em;
+    margin: 0.5em 0 0.75em;
+  }
+
+  table tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 0.35em;
+  }
+
+  table th,
+  table td {
+    padding: 0.625em;
+    text-align: center;
+  }
+
+  table th {
+    font-size: 0.85em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  @media screen and (max-width: 600px) {
     table {
-        border: 1px solid #ccc;
-        border-collapse: collapse;
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        table-layout: fixed;
+      border: 0;
     }
 
     table caption {
-        font-size: 1.5em;
-        margin: 0.5em 0 0.75em;
+      font-size: 1.3em;
+    }
+
+    table thead {
+      border: none;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
     }
 
     table tr {
-        background-color: #f8f8f8;
-        border: 1px solid #ddd;
-        padding: 0.35em;
+      border-bottom: 3px solid #ddd;
+      display: block;
+      margin-bottom: 0.625em;
     }
 
-    table th,
     table td {
-        padding: 0.625em;
-        text-align: center;
+      border-bottom: 1px solid #ddd;
+      display: block;
+      font-size: 0.8em;
+      text-align: right;
     }
 
-    table th {
-        font-size: 0.85em;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
+    table td::before {
+      float: left;
+      font-weight: bold;
+      text-transform: uppercase;
     }
 
-    @media screen and (max-width: 600px) {
-        table {
-            border: 0;
-        }
-
-        table caption {
-            font-size: 1.3em;
-        }
-
-        table thead {
-            border: none;
-            clip: rect(0 0 0 0);
-            height: 1px;
-            margin: -1px;
-            overflow: hidden;
-            padding: 0;
-            position: absolute;
-            width: 1px;
-        }
-
-        table tr {
-            border-bottom: 3px solid #ddd;
-            display: block;
-            margin-bottom: 0.625em;
-        }
-
-        table td {
-            border-bottom: 1px solid #ddd;
-            display: block;
-            font-size: 0.8em;
-            text-align: right;
-        }
-
-        table td::before {
-            float: left;
-            font-weight: bold;
-            text-transform: uppercase;
-        }
-
-        table td:last-child {
-            border-bottom: 0;
-        }
+    table td:last-child {
+      border-bottom: 0;
     }
+  }
 }

@@ -36,12 +36,6 @@ languages:
     languageName: English
     menu:
       main:
-      - name: Sustainable Goal
-        url: /#sustainable-goal
-        weight: 2
-      - name: FEEP
-        url: /#feep
-        weight: 3
       - name: Donate
         url: https://kde.org/community/donations/
         weight: 10

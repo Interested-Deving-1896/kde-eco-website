@@ -14,252 +14,142 @@
 
 <main id="home">
 
-  <section style="overflow: hidden;" class="mt-0" id="eco">
-    <div class="row">
-      <div class="col-lg-6 jumbotron be4foss">
-        <div class="container p-5 jumbo-card">
-          <h2 class="mt-0">{{ i18n "home.sustainable-goal" }}</h2>
-          <p class="ml-auto mr-auto">{{ i18n "home.header.sustainable-goal.description" }}</p>
-          <div><a href="{{ "/#sustainable-goal" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
-        </div>
-      </div>
-      <div class="col-lg-6 jumbotron feep mb-0">
-        <div class="container p-5  jumbo-card">
-          <h2 class="mt-0">{{ i18n "home.feep" }}</h2>
-          <p class="ml-auto mr-auto">{{ i18n "home.header.feep.description" }}</p>
-          <div><a href="{{ "/#feep" | relLangURL }}" class="btn btn-primary">{{ i18n "home.header.more" }}</a></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section>
+  <section class="jumbotron background text-light mt-0" >
     <div class="container">
-      <div class="row mb-5">
-        <div class="col">
-          <h1 class="font-weight-bold"> {{ .Title }} - {{ .Site.Params.description }} </h1>
-          <p>{{ i18n "kde-eco-description" }}</p>
-          <p>{{ i18n "kde-eco-lets" }}</p>
-        </div>
-      </div>
+      <h1 class="header">{{ i18n "home.header" }}</h1>
+      <p class="subtitle">{{ i18n "home.header-subtitle" }}</p>
     </div>
   </section>
 
-  <section>
-    <div class="container">
-      <div class="row mb-5">
-        <div class="col">
-          <p align="center">
-            <video style="max-width: 750px; width: 100%;" controls="1"><br />
-              <source src="https://cdn.kde.org/promo/Eco/Videos/KDE-eco-video.mp4"><br />
-              Your browser does not support the video tag.<br />
-              </source>
-            </video>
-            <br />
-            <a href="https://spdx.org/licenses/CC-BY-SA-4.0.html">Creative Commons Attribution-ShareAlike 4.0 International Public License</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="container">
-      <div class="row mb-5">
-        <div class="col-lg-6">
-          <h1 class="font-weight-bold">{{ i18n "home.eco-handbook" }}</h1>
-          <p>{{ i18n "kde-eco-handbook-description" }} &nbsp; <a href="https://eco.kde.org/handbook/">{{ i18n "read-more" }}</a> </p>
-        </div>
-        <div class="col mt-3">
-          <a href="https://eco.kde.org/handbook/">
-            <img class="img-fluid" src="/images/labplot_live-measurement.webp" alt="{{ i18n "home.eco-handbook.alt" }}" />
-          </a>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="container">
-      <div class="row mb-5">
-       <div class="col mt-3">
-          <a href="https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/">
-            <img class="img-fluid" src="/images/okular-main_w_logos_cleantitle.webp" alt="{{ i18n "home.okular" }}" />
-          </a>
-        </div>
-        <div class="col-lg-6">
-          <h1 class="font-weight-bold">{{ i18n "home.okular" }}</h1>
-          <p>{{ i18n "home.okular.be" }} &nbsp; <a hreflang="{{ .Site.LanguagePrefix }}" href="https://eco.kde.org/{{ .Site.LanguagePrefix }}/blog/2022-03-16-press-release-okular-blue-angel">{{ i18n "home.okular.pr" }}</a> </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section>
+  <section class="py-4 mb-4 d-flex align-items-center">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6">
-          <a href="/get-involved">
-            <h2 class="fw-bold">{{ i18n "home.engage" | markdownify }}</h2>
-          </a>
-          <h3>{{ i18n "home.engage.joinus" }}</h3>
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="svg-icon" src="/images/noun-sustainability-6505980-black.svg" alt="{{ i18n " home.sustainability-title" }}"/>
+          <h3 class="fw-bold">{{ i18n "home.sustainability-title"}}</h3>
+          <p>{{ i18n "home.sustainability-description"}}</p>
         </div>
-        <div class="col mt-4 py-5 text-center">
-          <a href="https://invent.kde.org/teams/eco">
-            <img class="gitlab" src="/images/gitlab-logo-700.png" alt="{{ i18n "home.engage.repo" }}" style="max-width:3em" />
-            <h3 class="fw-bold">{{ i18n "home.engage.repo" }}</h3>
-          </a>
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="svg-icon" src="/images/noun-advocacy-6506007-black.svg" alt="{{ i18n "home.advocate-title"}}"/>
+          <h3 class="fw-bold">{{ i18n "home.advocate-title"}}</h3>
+          <p>{{ i18n "home.advocate-description"}}</p>
         </div>
-        <div class="col mt-4  py-5 text-center">
-          <a href="https://webchat.kde.org/#/room/#energy-efficiency:kde.org">
-            <img class="matrix" src="/images/matrix.png" alt="{{ i18n "home.engage.matrix" }}" style="max-width:3em" />
-            <h3 class="fw-bold">{{ i18n "home.engage.matrix" }}</h3>
-          </a>
-        </div>
-        <div class="col mt-4 py-5 text-center">
-          <a href="https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency">
-            <i class="icon icon_mail-mark-unread home-icon"> </i>
-            <h3 class="fw-bold">{{ i18n "home.engage.mailinglist" }}</h3>
-          </a>
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="svg-icon" src="/images/noun-impact-6505962-black.svg" alt="{{ i18n "home.impact-title" }}"/>
+          <h3 class="fw-bold">{{ i18n "home.impact-title"}}</h3>
+          <p>{{ i18n "home.impact-description"}}</p>
         </div>
       </div>
     </div>
   </section>
 
-  <section class="section-green py-4">
-    <div class="container">
-      <h2 class="mb-3 h1">{{ i18n "posts" }}</h2>
+  <section class="section-green d-flex align-items-center py-5">
+    <div class="container py-4">
       <div class="row">
-      {{ $pages := (.Site.GetPage "/blog").RegularPagesRecursive }}
-      {{ range .Site.Home.Translations }}
-      {{ $pages = $pages | lang.Merge (.Site.GetPage "/blog").RegularPagesRecursive }}
-      {{ end }}
-      {{ range first 4 (where $pages "Params.hidden" "ne" "true") }}
-        <div class="col-12 col-md-6 mb-4">
-          <div class="text-lighter">{{ partial "i18n_date.html" . }}</div>
-          <h3 class="mt-1 h4">{{ .Title | safeHTML}}</h3>
-          <div class="post-entry mt-3">
-            {{ if .Description }}
-              {{ .Description }}
-            {{else}}
-              {{ .Summary }}
-            {{end}}
-            <a href="{{ .Permalink }}" class="d-block learn-more mt-2">{{i18n "read-more" }}</a>
-          </div>
+        <div class="col-lg-5 d-flex align-items-center">
+          <img src="/images/karl-pawlowicz-QUHuwyNgSA0-unsplash.png" alt={{ i18n "home.about-foss-description" }} class="img-fluid pb-4">
         </div>
-      {{end}}
-      </div>
-      <a href="blog/" class="learn-more mt-3" style="font-weight: bold;">&#x1F4E2; {{ i18n "view-all-posts" }}</a>
-    </div>
-  </section>
-
-  <section id="sustainable-goal">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          {{ with .Site.GetPage "/sustainable-goal" }}
-          <h2 class="fw-bold"><b>{{ i18n "home.sustainable-goal" }}</b></h2>
-          <div class="feature">
-            <div>
-              <p>{{ .Content }}</p>
-              <div class="py-2">
-                <a href="https://community.kde.org/Goals/Sustainable_Software" class="btn btn-primary">{{ i18n "home.header.more" }}</a>
-              </div>
-            </div>
-            <div class="img-fluid">
-              <picture>
-                <source srcset="/images/sustainable-goal.webp" media="(prefers-color-scheme: dark)">
-                <img alt="{{ i18n "home.sustainable-goal.alt" }}" src="/images/sustainable-goal.webp">
-              </picture>
-            </div>
-          </div>
-          {{end}}
+        <div class="col-lg-7 px-5 d-flex flex-column justify-content-center">
+          <h2 class=" m-0 pb-4">{{ i18n "home.about-foss-title" }}</h2>
+          <p>{{ i18n "home.about-foss-description" }}</p>
+          <p>{{ i18n "home.about-foss-description-2" }}</p>
         </div>
       </div>
     </div>
   </section>
 
-  <section id="feep">
+  <section class="section post d-flex align-items-center py-5">
     <div class="container">
-      <div class="row">
-          <div class="col">
-            {{ with .Site.GetPage "/feep" }}
-            <h2 class="fw-bold"><b>{{ i18n "home.feep" }}</b></h2>
-            <div class="d-sm-block d-lg-none">
-              <picture>
-                <source srcset="/images/dave-hoefler-UFnHt94r91w-unsplash-mobile-solidfont.webp"
-                  media="(prefers-color-scheme: dark)">
-                <img class="img-fluid feep-image-mobile" alt="{{ i18n "home.feep.alt" }}"
-                  src="/images/dave-hoefler-UFnHt94r91w-unsplash-mobile-solidfont.webp">
-              </picture>
-            </div>
-            <div class="row p-4">
-              <div class="col-4 d-none d-lg-block">
-                <picture>
-                  <source srcset="/images/dave-hoefler-UFnHt94r91w-unsplash-mobile-solidfont.webp"
-                    media="(prefers-color-scheme: dark)">
-                  <img class="img-fluid feep-image-mobile" alt="{{ i18n "home.feep.alt" }}"
-                    src="/images/dave-hoefler-UFnHt94r91w-unsplash-mobile-solidfont.webp">
-                </picture>
-              </div>
-              <div class="col">
-                {{ .Content }}
-                <div class="py-2">
-                  <a href="https://invent.kde.org/teams/eco/feep" class="btn btn-primary">Gitlab</a>
+      <div class="d-flex justify-content-between align-items-center">
+        <h2 class="text-left ml-4 mt-0 pb-4">Events</h2>
+      </div>
+      <div class="row g-5 mx-0"> 
+        {{ $pages := (.Site.GetPage "/events").RegularPagesRecursive }}
+        {{ range .Site.Home.Translations }}
+        {{ $pages = $pages | lang.Merge (.Site.GetPage "/events").RegularPagesRecursive }}
+        {{ end }}
+        {{ range first 3 (where $pages "Params.hidden" "ne" "true") }}
+        <div class="col-12 col-md-4">
+          <div class="card h-100"> 
+            <img src={{ .Params.thumbnail }} alt="{{.Title}}" class="card-img-top" />
+            <div class="post-entry my-2 p-3"> 
+              <h4 class="mt-1">{{ .Title | safeHTML}}</h4>
+              <div class="d-flex">
+                <div>
+                  <i class="icon icon_view-calendar-month"></i>
+                  {{ partial "i18n_date.html" . }}
+                </div>
+                <div class="px-4">
+                  <i class="icon icon_edit-paste-in-place"></i>
+                  {{ .Params.Location }}
                 </div>
               </div>
             </div>
-            {{end}}
           </div>
         </div>
+        {{end}}
+      </div>
+    </div>
+  </section>
+  
+  <section class="section-green post d-flex align-items-center pt-3 pb-5">
+    <div class="container pb-3">
+      <div class="d-flex justify-content-between align-items-center pb-4">
+        <h2 class="text-left ml-4">Featured blog posts</h2>
+        <a href="/blog" class="btn btn-outline-success mt-4 d-none d-md-block">See all</a>
+      </div>
+      <div class="row g-5 mx-0 ">
+        {{ $pages := (.Site.GetPage "/blog").RegularPagesRecursive }}
+        {{ range .Site.Home.Translations }}
+        {{ $pages = $pages | lang.Merge (.Site.GetPage "/blog").RegularPagesRecursive }}
+        {{ end }}
+        {{ range first 3 (where $pages "Params.featured" "eq" true) }}
+        <div class="col-12 col-md-4">
+          <a href="{{ .Permalink }}">
+            <div class="card h-100"> 
+              <img src={{ .Params.thumbnail }} alt="{{.Title}}" class="card-img-top" />
+              <div class="post-entry my-2 p-3"> 
+                <h4 class="mt-1 h5">{{ .Title | safeHTML}}</h4>
+              </div>
+            </div>
+          </a>
+        </div>
+        {{end}}
+      </div>
+      <div class="text-center pt-5 d-md-none">
+        <a href="/blog" class="btn btn-outline-success w-100">See all</a>
+      </div>
     </div>
   </section>
 
-  <section id="be4foss">
+  <section class="d-flex align-items-center py-5">
     <div class="container">
       <div class="row">
-        <div class="col">
-          {{ with .Site.GetPage "/be4foss" }}
-          <h2 class="fw-bold"><b>{{ i18n "home.be4foss" }}</b></h2>
-          <div class="feature">
-            <div>
-              <p>{{ .Content }}</p>
-            </div>
-            <div class="img-fluid">
-              <picture>
-                <source srcset="/images/be-ecolabel.png" media="(prefers-color-scheme: dark)">
-                <img alt="{{ i18n "home.be4foss.alt" }}" src="/images/be-ecolabel.png">
-              </picture>
-            </div>
-          </div>
-          {{end}}
+        <div class="col-lg-6 ">
+          <img src="/images/kde-for-hero-screenshot.png" alt={{ i18n "home.about-kde-description-kde" }} class="img-fluid pb-4">
+        </div>
+        <div class="col-lg-6 px-5">
+          <h2 class="m-0 pb-4">{{ i18n "home.about-kde-title" }} </h2>
+          <p>{{ i18n "home.about-kde-description-kde" }}</p>
+          <p>{{ i18n "home.about-kde-description-kde-2" }}</p>
         </div>
       </div>
     </div>
   </section>
 
-  <section id="greenweb">
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          {{ with .Site.GetPage "/greenweb" }}
-          <h2 class="fw-bold"><b>{{ i18n "home.greenweb" }}</b></h2>
-          <div class="hosted-green">
-            <div class="img-fluid">
-              <picture>
-                <source srcset="/images/greenwebfoundation.png" media="(prefers-color-scheme: dark)">
-                <img alt="{{ i18n "home.greenweb.alt" }}" src="/images/greenwebfoundation.png">
-              </picture>
-            </div>
-            <div>
-              {{ .Content }}
-            </div>
-          </div>
-          {{end}}
+  <section class="section-green d-flex align-items-center py-5">
+    <div class="container py-5">
+      <div class="row h-100 align-items-center">
+        <div class="col-lg-3 col-md-6 ">
+          <img src="/images/green-web-foundation-image.png" alt={{ i18n "home.about-kde-description-kde" }} class="img-fluid mx-auto pb-4 d-block">
+        </div>
+        <div class="col-lg-8 px-5 col-md-12 d-flex flex-column justify-content-center">
+          <h2 class="m-0 pb-4">{{ i18n "home.about-website" }} </h2>
+          <p> {{ i18n "home.about-website-description" | markdownify  }}</p>
         </div>
       </div>
     </div>
   </section>
-
 </main>
+
 {{ end }}

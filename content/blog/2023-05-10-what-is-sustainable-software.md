@@ -1,9 +1,12 @@
 ---
 date: 2023-05-10
 title: What is Sustainable Software, After All?
-categories: [Sustainability, Blauer Engel, Energy Efficiency, KDE Goals, User Autonomy]
+categories:
+  [Sustainability, Blauer Engel, Energy Efficiency, KDE Goals, User Autonomy]
 author: Cornelius Schumacher
 summary: '"Sustainable Software" is a strategic goal for KDE, focusing on minimizing resource consumption and strengthening user autonomy. The aim is to create software that uses fewer natural resources, reduces energy consumption, and promotes user choice and privacy.'
+featured: true
+thumbnail : /blog/thumbnails/what-sustainable-software-after-all.png
 SPDX-License-Identifier: CC-BY-SA-4.0
 authors:
 - SPDX-FileCopyrightText: 2023 Cornelius Schumacher <schumacher@kde.org>
