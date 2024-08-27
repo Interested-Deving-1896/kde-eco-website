@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-06-26 01:48+0000\n"
+"POT-Creation-Date: 2024-08-27 01:51+0000\n"
 "PO-Revision-Date: 2024-07-02 14:05+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
@@ -26,14 +26,6 @@ msgstr "KDE Eko"
 #: config.yaml:0
 msgid "Building Energy-Efficient Free Software"
 msgstr "Enerji Verimliliği Sağlayan Özgür Yazılımlar Yapmak"
-
-#: config.yaml:0
-msgid "Sustainable Goal"
-msgstr "Sürdürülebilirlik Hedefi"
-
-#: config.yaml:0
-msgid "FEEP"
-msgstr "FEEP"
 
 #: config.yaml:0
 msgid "Donate"
@@ -821,7 +813,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
 #: content/blog/2022-03-05-energy-conservation-day.md:33
-#: content/blog/2024-05-29_introducing-ns4nh.md:112 content/blog/post-1.md:59
+#: content/blog/2024-05-29_introducing-ns4nh.md:114 content/blog/post-1.md:59
 msgid "Funding Notice"
 msgstr "Fonlanma Bildirimi"
 
@@ -840,7 +832,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:144
 #: content/blog/2022-03-05-energy-conservation-day.md:39
-#: content/blog/2024-05-29_introducing-ns4nh.md:118 content/blog/post-1.md:65
+#: content/blog/2024-05-29_introducing-ns4nh.md:120 content/blog/post-1.md:65
 msgid ""
 "<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
 msgstr ""
@@ -848,13 +840,13 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:146
 #: content/blog/2022-03-05-energy-conservation-day.md:41
-#: content/blog/2024-05-29_introducing-ns4nh.md:120 content/blog/post-1.md:67
+#: content/blog/2024-05-29_introducing-ns4nh.md:122 content/blog/post-1.md:67
 msgid "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
 msgstr "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
-#: content/blog/2024-05-29_introducing-ns4nh.md:124 content/blog/post-1.md:71
+#: content/blog/2024-05-29_introducing-ns4nh.md:126 content/blog/post-1.md:71
 msgid "The publisher is responsible for the content of this publication."
 msgstr "Bu yayımın içeriğinden yayımcı sorumludur."
 
@@ -1966,7 +1958,11 @@ msgstr ""
 "KDE Eko yeni bir girişim başlattı: “Yeşili Seç: Sürdürülebilir Donanım için "
 "Sürdürülebilir Yazılım”."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:12
+#: content/blog/2024-05-29_introducing-ns4nh.md:0
+msgid "/blog/thumbnails/opt-green-kde-eco.png"
+msgstr ""
+
+#: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
 "Inspired by the successes of the [\"Blauer Engel Für FOSS\" (BE4FOSS)]"
 "(https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-"
@@ -1990,11 +1986,11 @@ msgstr ""
 "projektfoerderungen-projekttraeger/opt-green-nachhaltige-software-fuer-"
 "nachhaltige))."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:14
+#: content/blog/2024-05-29_introducing-ns4nh.md:16
 msgid "Opt Green: Sustainable Software For Sustainable Hardware"
 msgstr "Yeşili Seç: Sürdürülebilir Donanım için Sürdürülebilir Yazılım"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:16
+#: content/blog/2024-05-29_introducing-ns4nh.md:18
 msgid ""
 "By design, Free Software guarantees [transparency and user autonomy](https://"
 "fsfe.org/freesoftware/index.en.html). This gives *you*, the user, control of "
@@ -2026,7 +2022,7 @@ msgstr ""
 "elveda deyin: Yalın ve verimli özgür yazılımlar, onlarca yıllık aygıtlarda "
 "çalışır!"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:18
+#: content/blog/2024-05-29_introducing-ns4nh.md:20
 msgid ""
 "Independent and sustainable Free Software is good for the users, and good "
 "for the environment."
@@ -2034,7 +2030,7 @@ msgstr ""
 "Bağımsız ve sürdürülebilir Özgür Yazılım, kullanıcılar için olduğu kadar "
 "çevre için de iyidir."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:22
+#: content/blog/2024-05-29_introducing-ns4nh.md:24
 msgid ""
 "![The [\"Think Global, Act Local\" campaign](https://en.wikipedia.org/wiki/"
 "Think_globally,_act_locally) urged people to consider global health while "
@@ -2050,7 +2046,7 @@ msgstr ""
 "Singh’in fotoğrafı CC-BY-4.0 lisansı altında yayınlanmıştır.)](/blog/"
 "images/2024-05-24_ThinkGlobalComputeLocal.png)"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:26
+#: content/blog/2024-05-29_introducing-ns4nh.md:28
 msgid ""
 "Over the next two years, the \"Opt Green\" initiative will bring what KDE "
 "Eco has been doing for sustainable software directly to end users. A "
@@ -2064,7 +2060,7 @@ msgstr ""
 "değil, çevreyle ilgili ilkelerden hareketle yönlendiren kişiler olan “eko-"
 "tüketicilerdir”."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:28
+#: content/blog/2024-05-29_introducing-ns4nh.md:30
 msgid ""
 "Through online and offline campaigns as well as installation workshops, we "
 "will demonstrate the power of Free Software to drive down resource and "
@@ -2076,14 +2072,14 @@ msgstr ""
 "değil donanımın ömrü boyunca kullanımda tutmak için Özgür Yazılım’ın gücünü "
 "göstereceğiz."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:30
+#: content/blog/2024-05-29_introducing-ns4nh.md:32
 msgid ""
 "Our motto: **The most environmentally-friendly device is the one you already "
 "own.**"
 msgstr ""
 "Sloganımız: **En çevre dostu aygıt halihazırda sahip olduğunuz aygıttır.**"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:32
+#: content/blog/2024-05-29_introducing-ns4nh.md:34
 msgid ""
 "The topic of software-driven sustainability is relevant for all Free "
 "Software applications and developers. We'd love to have you join us and "
@@ -2099,11 +2095,11 @@ msgstr ""
 "opt-green) veya [iletişim sayfasına](https://eco.kde.org/get-involved/) göz "
 "atın!"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:34
+#: content/blog/2024-05-29_introducing-ns4nh.md:36
 msgid "Software's Environmental Harm"
 msgstr "Yazılımların çevreye olan zararı"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:36
+#: content/blog/2024-05-29_introducing-ns4nh.md:38
 msgid ""
 "On [14 October 2025](https://learn.microsoft.com/en-us/lifecycle/faq/"
 "windows), the end of support for Windows 10 is [estimated](https://www."
@@ -2142,7 +2138,7 @@ msgstr ""
 "news/Intel-i486-Linux-Possible-Drop) sona erdirilmesini ilk kez ancak 2022 "
 "yılında önerdiğini düşünün. Bu 33 yıllık destek demektir!)"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:38
+#: content/blog/2024-05-29_introducing-ns4nh.md:40
 msgid ""
 "Vendors frequently require buying a new device to support software updates. "
 "All too often, this is driven by economic imperatives rather than "
@@ -2161,7 +2157,7 @@ msgstr ""
 "daha fazla enerji tüketen hale geldi; bu da eski, daha az güçlü aygıtları "
 "işe yaramaz hale getirdi."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:40
+#: content/blog/2024-05-29_introducing-ns4nh.md:42
 msgid ""
 "Already in 2015 Achim Steiner, former Executive Director of the UN "
 "Environment Programme (UNEP), [warned](https://news.un.org/en/"
@@ -2172,7 +2168,7 @@ msgstr ""
 "Steiner, “elektronik atıkların dünya çapında bir tsunami gibi yayıldığı” "
 "konusunda [uyarıda](https://news.un.org/en/story/2015/05/497772) bulunmuştu."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:42
+#: content/blog/2024-05-29_introducing-ns4nh.md:44
 msgid ""
 "In 2016, 44.7 million tonnes of e-waste were generated, estimated to be "
 "equivalent to 4500 Eiffel Towers. If you were to stack those Eiffel Towers "
@@ -2182,7 +2178,7 @@ msgstr ""
 "eşdeğer olduğu tahmin ediliyor. Eyfel Kulelerini üst üste koysanız sonuç "
 "Everest Dağı’nın 17 katı kadar yüksek olur."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:44
+#: content/blog/2024-05-29_introducing-ns4nh.md:46
 msgid ""
 "By 2017, [United Nations University](https://web.archive.org/"
 "web/20220901055133/https://unu.edu/media-relations/releases/ewaste-rises-8-"
@@ -2197,18 +2193,18 @@ msgstr ""
 "circular-vision-for-electronics-time-for-a-global-reboot/) haline geldiğini "
 "belirledi."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:46
+#: content/blog/2024-05-29_introducing-ns4nh.md:48
 msgid ""
 "In 2022, the amount of e-waste reached 59.4 million tonnes, a 33% increase "
 "since 2016."
 msgstr ""
 "2022 yılında e-atık miktarı 2016’ya göre %33 artışla 59,4 milyon tona ulaştı."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:48
+#: content/blog/2024-05-29_introducing-ns4nh.md:50
 msgid "The flow of e-waste continues to rise today."
 msgstr "E-atık akışı günümüzde de artmayı sürdürüyor."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:52
+#: content/blog/2024-05-29_introducing-ns4nh.md:54
 msgid ""
 "![In 2016, 44.7 million metric tons of e-waste was generated. This is "
 "estimated to be equivalent to 4,500 Eiffel Towers, which, when stacked, is "
@@ -2222,7 +2218,7 @@ msgstr ""
 "[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) lisansı altında "
 "yayımlanmıştır. Tasarım, Anita Sengupta.)](/blog/images/mountain.png)"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:56
+#: content/blog/2024-05-29_introducing-ns4nh.md:58
 msgid ""
 "Software is a frequently unacknowledged yet significant factor for "
 "sustainability. Software determines a hardware's energy consumption and "
@@ -2249,7 +2245,7 @@ msgstr ""
 "önüne alındığında, yazılımın, çalışan donanımın kullanımda ve çöp sahası "
 "dışında tutulmasındaki rolü her geçen gün daha da kritik hale geliyor."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:58
+#: content/blog/2024-05-29_introducing-ns4nh.md:60
 msgid ""
 "For consumers, the environmental harm may be out-of-sight and out-of-mind. "
 "Yet the environment is registering its effects, from the CO2 pumped into the "
@@ -2263,7 +2259,7 @@ msgstr ""
 "toprak ve sulara (insanlar ve hayvanlardan bahsetmeye bile gerek yok) kadar "
 "çevre, bunun etkilerini kaydediyor."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:62
+#: content/blog/2024-05-29_introducing-ns4nh.md:64
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper at "
 "Agbogbloshie, Ghana, as another metal scrap worker arrives with more wires "
@@ -2284,7 +2280,7 @@ msgstr ""
 "SA-4.0 lisansı altında yayınlanmıştır.)](/blog/images/sec1_800px-"
 "Agbogbloshie_Ghana_September_2019.webp)"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:66
+#: content/blog/2024-05-29_introducing-ns4nh.md:68
 msgid ""
 "It is particularly devastating when you consider the environmental and "
 "social harm caused by e-waste, especially when e-waste is generated earlier "
@@ -2304,7 +2300,7 @@ msgstr ""
 "satın alımlarını haklı çıkarması için 30 yıldan fazla bir süre bilgisayar "
 "kullanmanız gerekeceğini öngörüyor."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:68
+#: content/blog/2024-05-29_introducing-ns4nh.md:70
 msgid ""
 "Furthermore, the extraction of rare earth metals in production consumes "
 "copious amounts of energy and takes place under miserable social conditions, "
@@ -2320,7 +2316,7 @@ msgstr ""
 "çevreyi kirletiyorlar ve işçilerin sağlığına büyük zararlar veriyor ve hatta "
 "ölümlere neden oluyorlar."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:72
+#: content/blog/2024-05-29_introducing-ns4nh.md:74
 msgid ""
 "![Apple's carbon footprint. From Apple (2019), \"Environmental "
 "Responsibility Report: 2019 Progress Report, covering fiscal year 2018\". "
@@ -2334,11 +2330,11 @@ msgstr ""
 "SA-4.0.html) lisansı altında yayımlanmıştır. Tasarım, Anita Sengupta.)](/"
 "blog/images/apple-report.png)"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:76
+#: content/blog/2024-05-29_introducing-ns4nh.md:78
 msgid "Giving Consumers What They Want"
 msgstr "Tüketicilere istediklerini vermek"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:78
+#: content/blog/2024-05-29_introducing-ns4nh.md:80
 msgid ""
 "Globally, interest in environmental harm and sustainable goods has been "
 "[rising steadily from 2015 to 2021](https://www.worldwildlife.org/"
@@ -2357,7 +2353,7 @@ msgstr ""
 "belirttiğini ortaya çıkardı. 10 tüketiciden biri üreticilerin sayısal "
 "aygıtların onarımını kolaylaştırması gerektiğine inanıyor."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:80
+#: content/blog/2024-05-29_introducing-ns4nh.md:82
 msgid ""
 "Free Software already gives consumers what they want, but most don't know it "
 "yet. Transparency in code makes lightweight, highly performative software "
@@ -2369,7 +2365,7 @@ msgstr ""
 "hafif, yüksek başarımlı yazılımları olanaklı kılarken kullanıcı özerkliği, "
 "uygulamalar çalışmayı durdurduğunda bile onarım hakkını sağlar."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:84
+#: content/blog/2024-05-29_introducing-ns4nh.md:86
 msgid ""
 "![KDE’s popular multi-platform PDF reader and universal document viewer "
 "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
@@ -2381,7 +2377,7 @@ msgstr ""
 "hazırlanıp [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) lisansı "
 "altında yayımlanmıştır.)](/blog/images/sec2_okular-BE-logo.png)"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:88
+#: content/blog/2024-05-29_introducing-ns4nh.md:90
 msgid ""
 "In fact, the [Blue Angel criteria for desktop software](https://www.blauer-"
 "engel.de/en/productworld/resources-and-energy-efficient-software-products) "
@@ -2421,14 +2417,14 @@ msgstr ""
 "categories/selenium/) gibi [öykünme araçları](https://eco.kde.org/categories/"
 "kdeecotest/) geliştirerek bu çalışmayı sürdürdü."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:90
+#: content/blog/2024-05-29_introducing-ns4nh.md:92
 msgid ""
 "Now we want to take what we have achieved and bring it directly to eco-"
 "consumers."
 msgstr ""
 "Artık başardıklarımızı alıp doğrudan çevreci tüketicilere sunmak istiyoruz."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:92
+#: content/blog/2024-05-29_introducing-ns4nh.md:94
 msgid ""
 "Through educational campaigns and workshops, the \"Opt Green\" project aims "
 "to combat e-waste by keeping hardware in use with Free Software. Although "
@@ -2460,7 +2456,7 @@ msgstr ""
 "çalıştayları, kullanıcılara aygıtlarını istedikleri süre boyunca kullanımda "
 "tutabilmeleri için bilgi birikimi sağlayacaktır."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:94
+#: content/blog/2024-05-29_introducing-ns4nh.md:96
 msgid ""
 "Consumers don’t need a new computer to get secure, cutting-edge software; "
 "they just need the right software. Free Software already gives consumers "
@@ -2473,11 +2469,11 @@ msgstr ""
 "halihazırda veriyor ve biz de onların bunu bilmesini sağlamak için çok "
 "çalışacağız."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:96
+#: content/blog/2024-05-29_introducing-ns4nh.md:98
 msgid "Ready To Join Us?"
 msgstr "Bize katılmaya hazır mısınız?"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:98
+#: content/blog/2024-05-29_introducing-ns4nh.md:100
 msgid ""
 "Consumers want sustainable and repairable digital devices. We believe that "
 "providing users the software to keep devices in use and out of the landfill "
@@ -2489,7 +2485,7 @@ msgstr ""
 "sağlamanın Özgür Yazılım ürünlerine olan talebi artıracağına ve uzun vadeli "
 "donanım kullanımına olanak sağlayacağına inanıyoruz."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:100
+#: content/blog/2024-05-29_introducing-ns4nh.md:102
 msgid ""
 "**Do you want to join us in this movement to combat e-waste with Free "
 "Software? See our [contact info](https://eco.kde.org/get-involved/) to get "
@@ -2499,7 +2495,7 @@ msgstr ""
 "ister misiniz? Katılmak için [iletişim bilgilerimize](https://eco.kde.org/"
 "get-involved/) bakın.**"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:102
+#: content/blog/2024-05-29_introducing-ns4nh.md:104
 msgid ""
 "We need volunteers like you to bring the \"Opt Green\" campaign to towns and "
 "cities around the world. We need volunteers like you to design engaging "
@@ -2513,7 +2509,7 @@ msgstr ""
 "gibi gönüllülere gereksinimimiz var. Topluluğunuza sürdürülebilir yazılımlar "
 "getirmek için birlikte çalışalım!"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:104
+#: content/blog/2024-05-29_introducing-ns4nh.md:106
 msgid ""
 "Maybe you are interested in contributing to the development of [measurement "
 "tools](https://invent.kde.org/teams/eco/) like KdeEcoTest and Selenium AT-"
@@ -2528,7 +2524,7 @@ msgstr ""
 "saydamlığını Özgür Yazılım geliştirmenin bir parçası haline getirmek için "
 "bugün işbirliği yapalım!"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:106
+#: content/blog/2024-05-29_introducing-ns4nh.md:108
 msgid ""
 "Or maybe you actively contribute to a Free Software project that will keep "
 "hardware in use for longer. Please be in touch! We want to promote the "
@@ -2539,7 +2535,7 @@ msgstr ""
 "iletişime geçin! Yaptığınız harika işleri doğrudan tüketicilere tanıtmak "
 "istiyoruz."
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:108
+#: content/blog/2024-05-29_introducing-ns4nh.md:110
 msgid ""
 "Additional ideas are more than welcome. Part of the project will be figuring "
 "out what works and engagement by people like you will make this project a "
@@ -2551,11 +2547,11 @@ msgstr ""
 "bulmak olacak. Bize katılmanızı çok isteriz. Daha fazla bilgi için: https://"
 "eco.kde.org/get-involved/"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:110
+#: content/blog/2024-05-29_introducing-ns4nh.md:112
 msgid "*Note: This post was updated on Monday, 17 June 2024.*"
 msgstr "*Not: Bu gönderi 17 June 2024 tarihinde güncellendi.*"
 
-#: content/blog/2024-05-29_introducing-ns4nh.md:114
+#: content/blog/2024-05-29_introducing-ns4nh.md:116
 msgid ""
 "This project is funded by the Federal Environment Agency and the Federal "
 "Ministry for the Environment, Nature Conservation, Nuclear Safety and "
@@ -2891,7 +2887,7 @@ msgstr "İletişim"
 msgid "Email: `joseph [at] kde.org`"
 msgstr "E-posta: `joseph [at] kde.org`"
 
-#: content/sustainable-goal/_index.md:0 i18n/en.yaml:0
+#: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
 msgstr "Sürdürülebilir Yazılım Hedefi"
 
@@ -2919,6 +2915,89 @@ msgstr ""
 "sürdürülebilirliği artırmaya yönelik eylemleri teşvik ederek ve yazılım "
 "sürdürülebilirliğini ölçmek için standartlar/araçlar oluşturarak KDE’de "
 "sürdürülebilirliği öne çıkarmaktır."
+
+#: i18n/en.yaml:0
+msgid "Opt Green"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Independent, energy-efficient Free & Open Source Software for long-term "
+"hardware use."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Be Green (End User)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Opt in to lower energy demands, extended hardware life, device independence, "
+"and user control for a healthier digital society."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Grow Green (Advocate)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Build communities and user support networks to bring the benefits of "
+"independent, sustainable software to your hometown."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Make Green (Dev)"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Develop applications and software features with a focus on efficiency and "
+"sustainability for this and future generations."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "What makes FOSS sustainable?"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Free & Open Source Software (FOSS) guarantees transparency and user "
+"autonomy, by design. These are not features, but inherent qualities to open "
+"development and software licensing. As a result, software and hardware are "
+"no longer dependent on vendors for support."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"FOSS can be studied and improved independently, including in its energy "
+"consumption. Premature hardware obsolescence is a thing of the past. FOSS "
+"runs on devices that are decades old. Keep your computer in use to the end "
+"of the hardware operating life, not the software."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "About KDE and KDE Eco"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"KDE is a world-wide community of software engineers, artists, writers, "
+"translators, and creators who are committed to Free Software development. We "
+"are a cooperative enterprise: we work together to achieve the common goal of "
+"building the world's finest Free & Open Source Software. Everyone is welcome "
+"to join and contribute to KDE, including you."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"Supported by the KDE community since 2021, KDE Eco has the ongoing mission "
+"of the development and adoption of sustainable Free & Open Source Software "
+"worldwide. As the ecological impact of digitization grows more relevant, we "
+"continue to raise awareness about the role of software design in reducing "
+"environmental harm. We are proudly a part of a growing number of communities "
+"and organizations working to have a positive ecological impact, today."
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2966,6 +3045,21 @@ msgstr "Daha Fazla Öğren"
 #: i18n/en.yaml:0
 msgid "KDE Eco Handbook"
 msgstr "KDE Eko El Kitabı"
+
+#: i18n/en.yaml:0
+msgid "About This Website"
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid ""
+"This website is open-source. Source code and asset licenses can be found in "
+"the [KDE Eco Repository](https://invent.kde.org/websites/eco-kde-org). This "
+"website was checked by the [greenwebfoundation.org](https://www."
+"thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde.org) "
+"and is labelled \"Hosted Green\". Website is hosted by: Hetzner Online AG. "
+"Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
+"www.hetzner.com/unternehmen/umweltschutz)."
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -3056,5 +3150,13 @@ msgid "View all posts"
 msgstr "Tüm gönderileri görüntüle"
 
 #: i18n/en.yaml:0
-msgid "News from the blog"
+#, fuzzy
+#| msgid "News from the blog"
+msgid "News from the blog'"
 msgstr "Blogdaki haberler"
+
+#~ msgid "Sustainable Goal"
+#~ msgstr "Sürdürülebilirlik Hedefi"
+
+#~ msgid "FEEP"
+#~ msgstr "FEEP"
