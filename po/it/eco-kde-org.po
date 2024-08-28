@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-27 01:51+0000\n"
-"PO-Revision-Date: 2024-06-29 12:56+0200\n"
+"PO-Revision-Date: 2024-08-27 15:28+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 24.05.1\n"
+"X-Generator: Lokalize 24.08.0\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -2009,7 +2009,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/opt-green-kde-eco.png"
-msgstr ""
+msgstr "/blog/thumbnails/opt-green-kde-eco.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -2983,47 +2983,57 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Opt Green"
-msgstr ""
+msgstr "Scegliere il verde"
 
 #: i18n/en.yaml:0
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
 msgstr ""
+"Software libero e open source indipendente ed efficiente dal punto di vista "
+"energetico per l'utilizzo dell'hardware a lungo termine."
 
 #: i18n/en.yaml:0
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "Essere verde (utente finale)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"Scegli di ridurre il fabbisogno energetico, estendere la durata "
+"dell'hardware, l'indipendenza dei dispositivi e il controllo degli utenti "
+"per una società digitale più sana."
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "Crescere verde (sostenitore)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
 msgstr ""
+"Costruisci comunità e reti di supporto agli utenti per portare i vantaggi di "
+"un software indipendente e sostenibile nella tua città."
 
 #: i18n/en.yaml:0
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "Creare verde (sviluppatore)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"Sviluppa applicazioni e funzionalità software con particolare attenzione "
+"all'efficienza e alla sostenibilità per questa generazione e per quelle "
+"future."
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "Cosa rende il FOSS sostenibile?"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3032,6 +3042,11 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"Il software libero e open source (FOSS) garantisce trasparenza e autonomia "
+"dell'utente, fin dalla progettazione. Queste non sono caratteristiche, ma "
+"qualità intrinseche dello sviluppo aperto e delle licenze software. Di "
+"conseguenza, software e hardware non dipendono più dai fornitori per il "
+"supporto."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3040,10 +3055,15 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"Il FOSS può essere studiato e migliorato in modo indipendente, anche nel "
+"consumo energetico. L'obsolescenza prematura dell'hardware è una cosa del "
+"passato. FOSS funziona su dispositivi vecchi di decenni. Mantieni in uso il "
+"tuo computer fino al termine della vita operativa dell'hardware, non del "
+"software."
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "Informazioni su KDE e KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3053,6 +3073,11 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE è una comunità mondiale di ingegneri del software, artisti, scrittori, "
+"traduttori e creatori impegnati nello sviluppo del Software Libero. Siamo "
+"un'impresa cooperativa: lavoriamo insieme per raggiungere l'obiettivo comune "
+"di creare il miglior software libero e open source al mondo. Tutti sono "
+"invitati a partecipare e contribuire a KDE, incluso te."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3063,6 +3088,13 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"Supportato dalla comunità KDE dal 2021, KDE Eco ha la missione continua di "
+"sviluppare e adottare software libero e open source sostenibile in tutto il "
+"mondo. Man mano che l'impatto ecologico della digitalizzazione diventa "
+"sempre più rilevante, continuiamo ad aumentare la consapevolezza sul ruolo "
+"della progettazione del software nella riduzione dei danni ambientali. Oggi "
+"facciamo orgogliosamente parte di un numero crescente di comunità e "
+"organizzazioni che lavorano per avere un impatto ecologico positivo."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3112,7 +3144,7 @@ msgstr "Manuale di KDE Eco"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr ""
+msgstr "Informazioni su questo sito web"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3124,6 +3156,14 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"Questo sito Web è open source. Il codice sorgente e le licenze delle risorse "
+"possono essere trovati nel [deposito di KDE Eco](https://invent.kde.org/"
+"websites/eco-kde-org). Questo sito web è stato controllato da "
+"[greenwebfoundation.org](https://www.thegreenwebfoundation.org/green-web-"
+"check/?url=https%3A%2F%2Feco.kde.org) ed è etichettato come «Hosted Green» . "
+"Il sito web è ospitato da: Hetzner Online AG. Prove a sostegno delle "
+"affermazioni di questo fornitore: [Pagina sulla sostenibilità](https://www."
+"hetzner.com/unternehmen/umweltschutz)."
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -3215,8 +3255,6 @@ msgid "View all posts"
 msgstr "Visualizza tutti i commenti"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog"
 msgid "News from the blog'"
 msgstr "Notizie dal blog"
 

@@ -2203,13 +2203,5 @@ msgid "View all posts"
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog"
 msgid "News from the blog'"
-msgstr "Novinky z blogu"
-
-#~ msgid "Sustainable Goal"
-#~ msgstr "Udržitelný cíl"
-
-#~ msgid "FEEP"
-#~ msgstr "FEEP"
+msgstr ""

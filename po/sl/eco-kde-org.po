@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-27 01:51+0000\n"
-"PO-Revision-Date: 2024-06-26 11:31+0200\n"
+"PO-Revision-Date: 2024-08-27 09:32+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -1955,7 +1955,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/opt-green-kde-eco.png"
-msgstr ""
+msgstr "/blog/thumbnails/opt-green-kde-eco.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -2909,47 +2909,56 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Opt Green"
-msgstr ""
+msgstr "Opt Green"
 
 #: i18n/en.yaml:0
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
 msgstr ""
+"Neodvisna, energetsko učinkovita prosta in odprtokodna programska oprema za "
+"dolgoročno uporabo strojne opreme."
 
 #: i18n/en.yaml:0
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "Bodi zelen (končni uporabnik)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"Odločite se za manjše energetske zahteve, podaljšano življenjsko dobo "
+"strojne opreme, neodvisnost od naprav in uporabniški nadzor za bolj zdravo "
+"digitalno družbo."
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "Rasti zeleno (Zagovornik)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
 msgstr ""
+"Zgradite skupnosti in omrežja za podporo uporabnikom, da bi prednosti "
+"neodvisne, trajnostne programske opreme prinesli v svoje domače mesto."
 
 #: i18n/en.yaml:0
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "Razvij zeleno (Razvijalec)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"Razvijte aplikacije in zmožnosti programske opreme s poudarkom na "
+"učinkovitosti in trajnosti za to in prihodnje generacije."
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "Kaj naredi FOSS trajnostnega?"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2958,6 +2967,11 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"Prosta in odprtokodna programska oprema (Free and open source software - "
+"FOSS) že po zasnovi zagotavlja preglednost in avtonomijo uporabnika. To niso "
+"lastnosti, ampak inherentne lastnosti odprtega razvoja in licenciranja "
+"programske opreme. Posledično programska in strojna oprema pri podpori nista "
+"več odvisni od prodajalcev."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2966,10 +2980,14 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"FOSS je mogoče preučevati in izboljševati neodvisno, vključno z njegovo "
+"porabo energije. Prezgodnja zastarelost strojne opreme je preteklost. FOSS "
+"deluje na napravah, ki so stare desetletja. Vaš računalnik naj bo v uporabi "
+"do konca življenjske dobe strojne opreme in ne programske opreme."
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "O KDE in KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2979,6 +2997,11 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE je svetovna skupnost programskih inženirjev, umetnikov, pisateljev, "
+"prevajalcev in ustvarjalcev, ki so predani razvoju proste programske opreme. "
+"Smo kooperativno podjetje: delamo skupaj, da bi dosegli skupni cilj "
+"izgradnje najboljše proste in odprtokodne programske opreme na svetu. Vsi so "
+"dobrodošli, vključno z vami, da se pridružite in prispevate k KDE."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2989,6 +3012,12 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"KDE Eco, ki ga od leta 2021 podpira skupnost KDE, ima stalno misijo razvoja "
+"in sprejemanja trajnostne proste in odprtokodne programske opreme po vsem "
+"svetu. Ker ekološki vpliv digitalizacije postaja vse pomembnejši, še naprej "
+"ozaveščamo o vlogi oblikovanja programske opreme pri zmanjševanju okoljske "
+"škode. Ponosno smo del vse večjega števila skupnosti in organizacij, ki si "
+"danes prizadevajo za pozitiven vpliv na okolje."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3036,7 +3065,7 @@ msgstr "Priročnik KDE Eco"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr ""
+msgstr "O tem spletišču"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3048,6 +3077,13 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"To spletno mesto je odprtokodno. Izvorno kodo in licence za sredstva najdete "
+"v [KDE Eco Repository](https://invent.kde.org/websites/eco-kde-org). To "
+"spletno mesto je preveril [greenwebfoundation.org](https://www."
+"thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde.org) in "
+"je označeno kot \"Hosted Green\" . Spletno mesto gosti: Hetzner Online AG. "
+"Podporni dokazi za trditve tega gostitelja: [Trajnostna stran](https://www."
+"hetzner.com/unternehmen/umweltschutz)."
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -3141,8 +3177,6 @@ msgid "View all posts"
 msgstr "Poglej vse objave"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog"
 msgid "News from the blog'"
 msgstr "Novice iz bloga"
 

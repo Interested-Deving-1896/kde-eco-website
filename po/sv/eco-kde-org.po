@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-27 01:51+0000\n"
-"PO-Revision-Date: 2024-07-05 21:56+0200\n"
+"PO-Revision-Date: 2024-08-27 19:11+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@gmail.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 23.08.5\n"
+"X-Generator: Lokalize 24.05.2\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -1951,7 +1951,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/opt-green-kde-eco.png"
-msgstr ""
+msgstr "/blog/thumbnails/opt-green-kde-eco.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -2905,47 +2905,55 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Opt Green"
-msgstr ""
+msgstr "Välj grönt"
 
 #: i18n/en.yaml:0
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
 msgstr ""
+"Oberoende, energieffektiv fri och öppen källkodsprogramvara för långvarig "
+"maskinvaruanvändning."
 
 #: i18n/en.yaml:0
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "Var grön (slutanvändare)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"Gå med för lägre energibehov, förlängd maskinvarulivslängd, enhetsoberoende "
+"och användarkontroll för ett hälsosammare digitalt samhälle."
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "Bli grön (förespråkare)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
 msgstr ""
+"Bygg gemenskaper och supportnätverk för användare som ger fördelarna med "
+"oberoende, hållbar programvara till din hemstad."
 
 #: i18n/en.yaml:0
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "Gör grönt (utvecklare)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"Utveckla program och programvarufunktioner med fokus på effektivitet och "
+"hållbarhet för denna och kommande generationer."
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "Vad gör fri och öppen programvara hållbar?"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2954,6 +2962,10 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"Fri programvara med öppen källkod (FOSS) garanterar transparens och "
+"användarautonomi, genom design. Det är inte funktioner, utan inneboende "
+"egenskaper hos öppen utveckling och programvarulicenser. Som ett resultat är "
+"programvara och maskinvara inte längre beroende av leverantörer för support."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2962,10 +2974,14 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"FOSS kan studeras och förbättras oberoende, inklusive energiförbrukningen. "
+"För tidigt föråldrad av maskinvara är ett minne blott. FOSS körs på datorer "
+"som är flera decennier gamla. Håll datorn i bruk till slutet av maskinvarans "
+"livslängd, inte programvarans."
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "Om KDE och KDE Eko"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2975,6 +2991,12 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE är en världsomspännande gemenskap av programvaruingenjörer, konstnärer, "
+"författare, översättare och kreatörer som är engagerade i utveckling av fri "
+"programvara. Vi är en kooperativ företagsamhet: vi arbetar tillsammans för "
+"att uppnå det gemensamma målet att bygga världens bästa programvara för fri "
+"och öppen källkod. Alla är välkomna att gå med och bidra till KDE, inklusive "
+"du."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2985,6 +3007,13 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"Med stöd av KDE-gemenskapen sedan 2021, har KDE Eko det pågående uppdraget "
+"att utveckla och införa hållbar fri programvara med öppen källkod över hela "
+"världen. När digitaliseringens ekologiska inverkan blir mer relevant "
+"fortsätter vi att öka medvetenheten om programvarudesignens roll för att "
+"minska miljöskador. Vi är stolta att vara en del av ett växande antal "
+"gemenskaper och organisationer som idag arbetar för att ha en positiv "
+"ekologisk inverkan."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3033,7 +3062,7 @@ msgstr "KDE Eko handbok"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr ""
+msgstr "Om webbplatsen"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3045,6 +3074,13 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"Den här webbplatsen har öppen källkod. Källkod och tillgångslicenser finns i "
+"[KDE Ekos arkiv](https://invent.kde.org/websites/eco-kde-org). Webbplatsen "
+"har kontrollerats av [greenwebfoundation.org](https://www."
+"thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde.org) "
+"och är märkt \"Hosted Green\" . Webbplatsen drivs av: Hetzner Online AG. "
+"Stödbevis för denna värds påståenden: [Hållbarhetssida](https://www.hetzner."
+"com/unternehmen/umweltschutz)."
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -3136,10 +3172,8 @@ msgid "View all posts"
 msgstr "Visa alla inlägg"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog"
 msgid "News from the blog'"
-msgstr "Nyheter från bloggen"
+msgstr "Nyheter från bloggen'"
 
 #~ msgid "Sustainable Goal"
 #~ msgstr "Hållbart mål"

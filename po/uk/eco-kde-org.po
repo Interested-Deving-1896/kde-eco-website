@@ -5,9 +5,9 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-27 01:51+0000\n"
-"PO-Revision-Date: 2024-06-27 23:27+0300\n"
+"PO-Revision-Date: 2024-08-27 17:56+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
-"Language-Team: Ukrainian\n"
+"Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1991,7 +1991,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/opt-green-kde-eco.png"
-msgstr ""
+msgstr "/blog/thumbnails/opt-green-kde-eco.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -2980,47 +2980,56 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Opt Green"
-msgstr ""
+msgstr "Вибір зеленого"
 
 #: i18n/en.yaml:0
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
 msgstr ""
+"Незалежне енергоефективне вільне програмне забезпечення із відкритим кодом "
+"для довготривалого користування обладнанням."
 
 #: i18n/en.yaml:0
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "Зелене життя (кінцевим користувачам)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"Виберіть низьке енергоспоживання, довготривале користування обладнанням, "
+"незалежність від пристрою та контроль з боку користувача з метою формування "
+"здорового цифрового суспільства."
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "Зелене зростання (адвокація)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
 msgstr ""
+"Будуйте спільноти і мережі підтримки користувачів з метою надати переваги "
+"незалежного програмного забезпечення для сталого розвитку у вашій громаді."
 
 #: i18n/en.yaml:0
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "Перехід у зелений режим (розробникам)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"Розробляйте програми та можливості у програмному забезпеченні з акцентом на "
+"ефективність та сталий розвиток для поточного і наступних поколінь."
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "Що робить розвиток з FOSS сталим?"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3029,6 +3038,11 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"Вільне програмне забезпечення із відкритим кодом (FOSS) гарантує прозорість "
+"та автономність для користувачів за своєю природою. Це не просто можливості, "
+"а природні якості для відкритої розробки та ліцензування програмного "
+"забезпечення. У результат програмне забезпечення та обладнання стають "
+"незалежними від підтримки виробників."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3037,10 +3051,15 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"FOSS можна вивчати і удосконалювати незалежно, зокрема щодо його "
+"енергоспоживання. Передчасне застарівання обладнання більше не є проблемою. "
+"FOSS працює на пристроях, яким десятки років. Зберігайте можливість "
+"користування вашим обладнанням до вичерпання його апаратного ресурсу, а не "
+"програмного."
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "Про KDE і KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3050,6 +3069,12 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE — всесвітня спільнота інженерів-програмістів, художників, авторів "
+"документації, перекладачів та творчих людей, які роблять свій внесок у "
+"розробку вільного програмного забезпечення. Ми кооперуємося у нашій роботі — "
+"працюємо разом для досягнення спільної мети у побудові найкращого у світі "
+"вільного програмного забезпечення із відкритим кодом. До KDE може долучитися "
+"і зробити свій внесок будь-хто, зокрема ви."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3060,6 +3085,13 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"Маючи підтримку спільноти KDE з 2021 року, KDE Eco має на меті розробку та "
+"впровадження в усьому світі вільного програмного забезпечення для сталого "
+"розвитку з відкритим кодом. Оскільки зростає екологічний вплив "
+"діджиталізації, ми продовжуємо звертати увагу на роль структури програмного "
+"забезпечення у зменшенні шкоди навколишньому середовищу. Ми горді бути "
+"частиною зростання кількості громад та організацій, що працюють над "
+"збільшенням екологічності безпосередньо сьогодні."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3112,7 +3144,7 @@ msgstr "Підручник з KDE Eco"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr ""
+msgstr "Про цей сайт"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3124,6 +3156,14 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"Код цього сайта є відкритим. Початковий код та умови ліцензування ресурсів "
+"можна знайти у [сховищі KDE Eco](https://invent.kde.org/websites/eco-kde-"
+"org). Цей сайт було перевірено [greenwebfoundation.org](https://www."
+"thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde.org) і "
+"відзначено міткою «Hosted Green». Дані сайта зберігає та забезпечує його "
+"роботу Hetzner Online AG. Свідчення тверджень цього надавача послуг: "
+"[сторінка сталого розвитку](https://www.hetzner.com/unternehmen/"
+"umweltschutz)."
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -3218,8 +3258,6 @@ msgid "View all posts"
 msgstr "Переглянути усі дописи"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog"
 msgid "News from the blog'"
 msgstr "Новини з блогу"
 

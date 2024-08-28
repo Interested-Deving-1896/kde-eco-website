@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-27 01:51+0000\n"
-"PO-Revision-Date: 2024-07-02 14:05+0300\n"
+"PO-Revision-Date: 2024-08-27 14:38+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
 "SPDX-License-Identifier: LGPL-3.0-or-later\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 24.07.70\n"
+"X-Generator: Lokalize 24.11.70\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -1960,7 +1960,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/opt-green-kde-eco.png"
-msgstr ""
+msgstr "/blog/thumbnails/opt-green-kde-eco.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -2918,47 +2918,56 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Opt Green"
-msgstr ""
+msgstr "Yeşili Seç"
 
 #: i18n/en.yaml:0
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
 msgstr ""
+"Uzun dönemli donanım kullanımı için bağımsız, enerjiyi hesaplı kullanan, "
+"özgür ve açık kaynaklı yazılımlar."
 
 #: i18n/en.yaml:0
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "Yeşil Ol (Son Kullanıcı)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"Daha sağlıklı bir sayısal toplum için daha düşük enerji talebi, uzatılmış "
+"donanım ömrü, aygıt bağımsızlığı ve kullanıcı denetimi seçeneklerinden "
+"yararlanın."
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "Yeşil Büyü (Savun)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
 msgstr ""
+"Bağımsız, sürdürülebilir yazılımın yararlarını memleketinize getirmek için "
+"topluluklar ve kullanıcı destek ağları oluşturun."
 
 #: i18n/en.yaml:0
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "Yeşil Yap (Geliştir)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"Bu ve gelecek nesiller için verimlilik ve sürdürülebilirliğe odaklanan "
+"uygulamalar ve yazılım özellikleri geliştirin."
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "Özgür ve açık kaynaklı yazılımları sürdürülebilir yapan şey nedir?"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2967,6 +2976,10 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"Özgür ve Açık Kaynaklı Yazılım (FOSS), tasarım gereği saydamlık ve kullanıcı "
+"özerkliğini garanti eder. Bunlar özellikler değil, açık geliştirme ve "
+"yazılım lisanslamanın içsel nitelikleridir. Sonuç olarak, yazılım ve donanım "
+"artık destek için satıcılara bağımlı değildir."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2975,10 +2988,14 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"FOSS, enerji tüketimi de içerilmek üzere bağımsız olarak incelenebilir ve "
+"geliştirilebilir. Donanımın erken eskimesi denen şey artık geçmişte kaldı. "
+"FOSS, onlarca yıllık aygıtlarda çalışır. Bilgisayarınızı donanımın çalışma "
+"ömrünün sonuna kadar kullanın, yazılımın değil."
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "KDE ve KDE Eko hakkında"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2988,6 +3005,12 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE, Özgür Yazılım geliştirmeye kendini adamış yazılım mühendisleri, "
+"sanatçılar, yazarlar, çevirmenler ve yaratıcılardan oluşan dünya çapında bir "
+"topluluktur. Biz bir kooperatif kuruluşuyuz: dünyanın en iyi Özgür ve Açık "
+"Kaynaklı yazılımlarını yapma ortak hedefine ulaşmak için birlikte "
+"çalışıyoruz. Sizi de içermek üzere, herkes KDE’ye katılabilir ve katkıda "
+"bulunabilir."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2998,6 +3021,13 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"KDE topluluğu tarafından 2021’den beri desteklenen KDE Eko, dünya çapında "
+"sürdürülebilir Özgür ve Açık Kaynaklı yazılımların geliştirilmesi ve "
+"benimsenmesi misyonunu sürdürmektedir. Sayısallaşmanın ekolojik etkisi daha "
+"da önemli hale geldikçe, yazılım tasarımının çevresel zararı azaltmadaki "
+"rolü hakkında farkındalığı artırmayı sürdürüyoruz. Bugün, olumlu bir "
+"ekolojik etki yaratmak için çalışan giderek artan sayıda topluluk ve "
+"kuruluşun gururlu bir parçasıyız."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3048,7 +3078,7 @@ msgstr "KDE Eko El Kitabı"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr ""
+msgstr "Bu Web Sitesi Hakkında"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3060,6 +3090,14 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"Bu web sitesi açık kaynaklıdır. Kaynak kodu ve varlık lisansları [KDE Eko "
+"deposunda](https://invent.kde.org/websites/eco-kde-org) bulunabilir. Bu web "
+"sitesi, [greenwebfoundation.org](https://www.thegreenwebfoundation.org/green-"
+"web-check/?url=https%3A%2F%2Feco.kde.org) tarafından denetlenmiş ve “Hosted "
+"Green” (Yeşil Barınma) olarak etiketlenmiştir. Web sitesinin barınması "
+"Hetzner Online AG tarafından yapılmaktadır. Bu barındırıcının öne sürdüğü "
+"görüşler hakkında bilgi için ilgili [sürdürülebilirlik sayfasına](https://"
+"www.hetzner.com/unternehmen/umweltschutz) bakın."
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -3150,8 +3188,6 @@ msgid "View all posts"
 msgstr "Tüm gönderileri görüntüle"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog"
 msgid "News from the blog'"
 msgstr "Blogdaki haberler"
 

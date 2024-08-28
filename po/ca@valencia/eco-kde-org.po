@@ -3,14 +3,14 @@
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# Josep M. Ferrer <txemaq@gmail.com>, 2021, 2022, 2023, 2024.
+# SPDX-FileCopyrightText: 2021, 2022, 2023, 2024 Josep M. Ferrer <txemaq@gmail.com>
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-27 01:51+0000\n"
-"PO-Revision-Date: 2024-06-26 18:34+0200\n"
+"PO-Revision-Date: 2024-08-27 18:34+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 22.12.3\n"
+"X-Generator: Lokalize 24.08.0\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -2021,7 +2021,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/opt-green-kde-eco.png"
-msgstr ""
+msgstr "/blog/thumbnails/opt-green-kde-eco.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -3002,47 +3002,56 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Opt Green"
-msgstr ""
+msgstr "Opteu pel verd"
 
 #: i18n/en.yaml:0
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
 msgstr ""
+"Programari lliure de codi obert independent i eficient energèticament per a "
+"l'ús de maquinari a llarg termini."
 
 #: i18n/en.yaml:0
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "Sigueu verd (usuari final)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"Opteu a reduir la demanda energètica, prolongar la vida útil del maquinari, "
+"la independència del dispositiu i el control de l'usuari per a una societat "
+"digital més saludable."
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "Creixement verd (defensa)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
 msgstr ""
+"Construïu comunitats i xarxes de suport als usuaris per aportar els "
+"beneficis d'un programari independent i sostenible a la vostra ciutat natal."
 
 #: i18n/en.yaml:0
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "Creeu verd (desenvolupament)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"Desenvolupeu aplicacions i funcionalitats de programari amb un enfocament en "
+"l'eficiència i la sostenibilitat per a esta generació i les futures."
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "Què fa que el FOSS siga sostenible?"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3051,6 +3060,11 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"El programari lliure i de codi obert (FOSS) garantix la transparència i "
+"l'autonomia de l'usuari, per disseny. No són característiques, sinó "
+"qualitats inherents al desenvolupament obert i la llicència de programari. "
+"Com a resultat, el programari i el maquinari ja no depenen dels proveïdors "
+"per al suport."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3059,10 +3073,15 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"El FOSS es pot estudiar i millorar de manera independent, fins i tot en el "
+"seu consum energètic. L'obsolescència prematura del maquinari és cosa del "
+"passat. El FOSS funciona amb dispositius que tenen dècades d'antiguitat. "
+"Manteniu l'ordinador en ús fins al final de la vida útil del maquinari, no "
+"del programari."
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "Quant a KDE i KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3072,6 +3091,12 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE és una comunitat mundial d'enginyers de programari, artistes, "
+"escriptors, traductors i creadors que estan compromesos amb el "
+"desenvolupament de programari lliure. Som una empresa cooperativa: treballem "
+"junts per a aconseguir l'objectiu comú de construir el millor programari "
+"lliure i de codi obert del món. Tothom hi és benvingut a unir-se i "
+"contribuir a KDE, incloent-vos."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3082,6 +3107,13 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"Amb el suport de la comunitat KDE des de 2021, KDE Eco té la missió en curs "
+"de desenvolupar i adoptar el programari lliure i de codi obert sostenible a "
+"tot el món. A mesura que l'impacte ecològic de la digitalització crix més, "
+"seguim conscienciant sobre el paper del disseny de programari en la reducció "
+"del dany ambiental. Estem orgullosos de formar part d'un nombre creixent de "
+"comunitats i organitzacions que treballen per a tindre un impacte ecològic "
+"positiu, hui dia."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3130,7 +3162,7 @@ msgstr "Manual de KDE Eco"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr ""
+msgstr "Sobre este lloc web"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3142,6 +3174,14 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"Este lloc web és de codi obert. Les llicències del codi font i dels recursos "
+"es troben al [repositori KDE Eco](https://invent.kde.org/websites/eco-kde-"
+"org). Este lloc web ha sigut verificat per la [greenwebfoundation.org]"
+"(https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F"
+"%2Feco.kde.org) i està etiquetat com a «Hosted Green». El lloc web està "
+"allotjat per: Hetzner Online AG. Proves de confirmació de les afirmacions "
+"d'este proveïdor: [Pàgina de sostenibilitat](https://www.hetzner.com/"
+"unternehmen/umweltschutz)."
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -3233,13 +3273,5 @@ msgid "View all posts"
 msgstr "Visualitza tots els articles"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog"
 msgid "News from the blog'"
 msgstr "Notícies del blog"
-
-#~ msgid "Sustainable Goal"
-#~ msgstr "Objectiu de sostenibilitat"
-
-#~ msgid "FEEP"
-#~ msgstr "FEEP"
