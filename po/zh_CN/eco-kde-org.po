@@ -21,7 +21,7 @@ msgstr ""
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2024-05-29_introducing-ns4nh.md:0 content/get-involved.md:0
 msgid "KDE Eco"
-msgstr ""
+msgstr "KDE Eco"
 
 #: config.yaml:0
 msgid "Building Energy-Efficient Free Software"
@@ -33,7 +33,7 @@ msgstr "捐款"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
-msgstr ""
+msgstr "生态标签"
 
 #: content/BE4FOSS/_index.md:9
 msgid ""
@@ -44,10 +44,15 @@ msgid ""
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
 msgstr ""
+"2020 年，德国环境署（德语：*Umweltbundesamt*）发布了蓝天使生态标签（Blue "
+"Angel ecolabel ，德语：*Blauer Engel*）桌面软件生态认证的奖励标准。从 2021 年"
+"到 2022 年，KDE Eco 下的 BE4FOSS 项目致力于在自由和开放源码软件社区推动资源和"
+"能源效率软件的生态认证。获得蓝天使生态标签分为三个步骤： (1）测量；（2）分"
+"析；（3）认证。"
 
 #: content/BE4FOSS/_index.md:11
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr ""
+msgstr "获得蓝天使生态标签的好处包括"
 
 #: content/BE4FOSS/_index.md:12
 msgid ""
@@ -57,11 +62,11 @@ msgstr ""
 
 #: content/BE4FOSS/_index.md:13
 msgid "Differentiating free software from the alternatives,"
-msgstr ""
+msgstr "将自由软件与其他软件区分开来、"
 
 #: content/BE4FOSS/_index.md:14
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr ""
+msgstr "提高对消费者的吸引力，以及"
 
 #: content/BE4FOSS/_index.md:15
 msgid "Promoting transparency in the ecological footprint of software."
@@ -72,16 +77,18 @@ msgid ""
 "Learn more in the KDE Eco handbook “[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)”."
 msgstr ""
+"了解更多信息，请参阅 KDE Eco 手册“[Applying The Blue Angel Criteria To Free "
+"Software](https://eco.kde.org/handbook/)”。"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid ""
 "KDE Eco 2021 Sprint: Details On The Community Planning For KDE's Ecological "
 "Project"
-msgstr ""
+msgstr "KDE Eco 2021 冲刺： KDE 生态项目社区规划详情"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Sprint 2021"
-msgstr ""
+msgstr "冲刺 2021"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
@@ -89,7 +96,7 @@ msgstr ""
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/post-1.md:0
 msgid "Blauer Engel"
-msgstr ""
+msgstr "Blauer Engel"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Community Lab"
@@ -112,6 +119,8 @@ msgid ""
 "This is a follow-up to the [KDE Eco Sprint announcement posted on The Dot]"
 "(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
 msgstr ""
+"这是 [The Dot 上发布的 KDE Eco Sprint 公告](https://dot.kde."
+"org/2021/12/24/2021-kde-eco-sprint)的后续。"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:14
 msgid ""
@@ -2053,7 +2062,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "关于 KDE 与 KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2112,7 +2121,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr ""
+msgstr "关于此网站"
 
 #: i18n/en.yaml:0
 msgid ""
