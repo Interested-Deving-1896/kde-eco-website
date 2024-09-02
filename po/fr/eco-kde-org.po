@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-08-27 01:51+0000\n"
-"PO-Revision-Date: 2024-07-08 18:28+0200\n"
+"PO-Revision-Date: 2024-08-28 10:23+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: French <French <kde-francophone@kde.org>>\n"
 "Language: fr\n"
@@ -273,7 +273,7 @@ msgstr ""
 "[en préparation](https://invent.kde.org/teams/eco/blue-angel-application/-/"
 "tree/master/applications) depuis un certain temps. Un des objectifs était de "
 "mener à terme la certification de Okular. Nous sommes fiers d'annoncer que, "
-"suite au Sprint, la demande de certification d'Okular a été déposée et est "
+"suite au Sprint, la demande de certification de Okular a été déposée et est "
 "actuellement en cours d'examen pour certification. Nous attendons un retour "
 "dans les prochains 2 à 3 mois de [RAL gGmbH](https://www.ral-umwelt.de/en/"
 "ral-environment/), l'organisme décernant l'éco-label « Blauer Engel ». La "
@@ -327,11 +327,11 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:59
 msgid "![Okular Icon](/blog/images/128-apps-okular.png)"
-msgstr "![Icône d'Okular](/blog/images/128-apps-okular.png)"
+msgstr "![Icône de Okular](/blog/images/128-apps-okular.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:61
 msgid "*Okular Icon*"
-msgstr "*Icône d'Okular*"
+msgstr "*Icône de Okular*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:65
 msgid ""
@@ -1568,7 +1568,7 @@ msgstr "Copie d'écran de Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:18
 msgid "Okular Icon"
-msgstr "Icône d'Okular"
+msgstr "Icône de Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:20
 msgid ""
@@ -1642,7 +1642,7 @@ msgstr ""
 "ainsi qu'avec le département informatique du [Campus Umwelt Birkenfeld]"
 "(https://www.umwelt-campus.de/en/forschung/projekte/green-software-"
 "engineering/news-details/first-blue-angel-for-software), où les chercheurs "
-"ont mesuré la consommation de ressources et d'énergie d'Okular et d'autres "
+"ont mesuré la consommation de ressources et d'énergie de Okular et d'autres "
 "logiciels KDE."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:24
@@ -1726,7 +1726,7 @@ msgstr ""
 "qu'il répond à une liste d'exigences strictes considérées comme critiques "
 "pour l'environnement tout au long du cycle de vie du produit. Ces exigences "
 "comprennent la transparence de la consommation d'énergie lors de "
-"l'utilisation du logiciel - par exemple, dans le cas d'Okular, lors de la "
+"l'utilisation du logiciel - par exemple, dans le cas de Okular, lors de la "
 "lecture ou de l'annotation d'un fichier « PDF » - et la possibilité "
 "d'exécuter l'application sur du matériel âgé d'au moins cinq ans. Les "
 "critères d'attribution de cet éco-label comprennent également une liste "
@@ -1803,7 +1803,7 @@ msgid ""
 "all of us!"
 msgstr ""
 "KDE et la communauté du logiciel libre tiennent à remercier chaleureusement "
-"toutes l'équipes de développement d'Okular pour avoir produit un logiciel "
+"toutes l'équipes de développement de Okular pour avoir produit un logiciel "
 "respectueux de l'environnement pour nous tous !"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:40
@@ -1828,9 +1828,9 @@ msgstr ""
 "repo/) pour Android, ainsi qu'à partir de la [boutique Microsoft](https://"
 "www.microsoft.com/en-us/p/okular/9n41msq1wnm8#activetab=pivot:overviewtab). "
 "En tant que logiciel libre, le code source est librement disponible à "
-"l'adresse suivante sur le [dépôt « GitLab » d'Okular](https://invent.kde.org/"
-"graphics/okular) pour que toute personne puisse l'utiliser, l'étudier, le "
-"partager et l'améliorer."
+"l'adresse suivante sur le [dépôt « GitLab » de Okular](https://invent.kde."
+"org/graphics/okular) pour que toute personne puisse l'utiliser, l'étudier, "
+"le partager et l'améliorer."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:43
 msgid ""
@@ -1966,7 +1966,7 @@ msgstr ""
 "[conférence « EnviroInfo »](https://informatik2022.gi.de/en/enviroinfo-2022) "
 "à Hambourg, en Allemagne. Trois membres de la communauté de KDE - Joseph P. "
 "De Veaugh-Geiss, Alexander Lohnau et Harri Porten - étaient sur scène pour "
-"recevoir ce certificat au nom d'Okular et de la communauté de KDE."
+"recevoir ce certificat au nom de Okular et de la communauté de KDE."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:29
 msgid ""
@@ -1987,7 +1987,7 @@ msgstr ""
 "nationale et internationale dans le domaine de l'informatique appliquée et "
 "de l'informatique pour l'environnement pour rendre le monde une meilleure "
 "place à vivre. La communauté de KDE est honorée d'avoir célébré la réussite "
-"d'Okular lors de l'évènement avec l'Agence allemande pour l'environnement "
+"de Okular lors de l'évènement avec l'Agence allemande pour l'environnement "
 "(Umweltbundesamt), le campus pour l'Environnement de Birkenfeld (Umwelt "
 "Campus de Birkenfeld) et la communauté « EnviroInfo »."
 
@@ -2072,7 +2072,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/opt-green-kde-eco.png"
-msgstr ""
+msgstr "/blog/thumbnails/opt-green-kde-eco.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -2453,7 +2453,7 @@ msgid ""
 "report.png)"
 msgstr ""
 "![L'empreinte carbone d'Apple. De Apple (2019), « Rapport sur la "
-"responsabilité environnemental : rapport d'avanceemnt 2019, couvrant "
+"responsabilité environnemental : rapport d’avancement 2019, couvrant "
 "l'exercice fiscal 2018 ». (Image de KDE publiée sous licence [CC-BY-SA-4.0]"
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html). Conception par Anita "
 "Sengupta.)](/blog/images/apple-report.png)"
@@ -3073,47 +3073,58 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Opt Green"
-msgstr ""
+msgstr "Opt Green"
 
 #: i18n/en.yaml:0
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
 msgstr ""
+"Logiciel libre, « Open Source » indépendant, économe en énergie pour une "
+"utilisation à long terme du matériel."
 
 #: i18n/en.yaml:0
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "Soyez vert (Utilisateur final)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"Optez pour une réduction de la demande d'énergie, une durée de vie prolongée "
+"du matériel, l'indépendance des périphériques et le contrôle de "
+"l'utilisateur pour une société numérique plus saine."
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "Grow Green (Avocat)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
 msgstr ""
+"Construisez des communautés et des réseaux de soutien aux utilisateurs pour "
+"apporter les avantages d'un logiciel indépendant et durable dans votre ville "
+"natale."
 
 #: i18n/en.yaml:0
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "Make Green (Dev)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"Développer des applications et des fonctionnalités logicielles en mettant "
+"l'accent sur l'efficacité et la durabilité pour les générations actuelles et "
+"futures."
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "Qu'est-ce qui rend l'initiative « FOSS » durable ?"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3122,6 +3133,11 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"L'initiative « FOSS » (Free and Open Source Software) garantit la "
+"transparence et l'autonomie des utilisateurs, par sa conception même. Ce ne "
+"sont pas des fonctionnalités, mais des qualités inhérentes au développement "
+"libre et à la licence des logiciels. En conséquence, les logiciels et le "
+"matériel ne dépendent plus des fournisseurs pour l'assistance."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3130,10 +3146,16 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"Les logiciels « FOSS » peuvent être étudiés et améliorés indépendamment, y "
+"compris dans leur consommation d'énergie. L'obsolescence prématurée des "
+"périphériques appartient au passé. les logiciels « FOSS » fonctionnent sur "
+"des périphériques anciens de plusieurs décennies. Veuillez conserver votre "
+"ordinateur en service jusqu'à la fin de la durée de vie du périphérique et "
+"non des logiciels."
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "À propos de KDE et de KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3143,6 +3165,12 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE est une communauté mondiale d'ingénieurs en logiciels, d'artistes, "
+"d'écrivains, de traducteurs et de créateurs engagés dans le développement de "
+"logiciels libres. Nous sommes une entreprise coopérative : nous travaillons "
+"ensemble pour atteindre l'objectif commun de construire les meilleurs "
+"logiciels libres et « Open Source » du monde. Tout le monde est le bienvenu "
+"pour rejoindre et contribuer à KDE, y compris vous."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3153,6 +3181,14 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"Soutenu par la communauté de KDE depuis 2021, KDE Eco a pour mission "
+"permanente, le développement et l'adoption de logiciels libres et « Open "
+"Source » durables dans le monde entier. Alors que l'impact écologique de la "
+"numérisation devient de plus en plus évident, nous continuons notre "
+"sensibilisation sur le rôle de la conception de logiciels dans la réduction "
+"des dommages environnementaux. Nous sommes fiers de faire partie d'un nombre "
+"croissant de communautés et d'organisations travaillant aujourd'hui pour "
+"amener un impact écologique positif."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3205,7 +3241,7 @@ msgstr "Manuel de KDE Eco"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr ""
+msgstr "À propos de ce site Internet"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3217,6 +3253,14 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"Ce site est « Open Source ». Le code source et les licences des produits "
+"sont disponibles dans le [dépôt de KDE Eco](https://invent.kde.org/websites/"
+"eco-kde-org). Ce site a été consulté par la [greenwebfoundation.org](https://"
+"www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde."
+"org) et est labellisé « Hosted Green ». Le site Internet est hébergé par "
+"l'entreprise Hetzner Online AG. Les justificatifs associés pour cet "
+"engagement de l'hébergeur : [Page sur la durabilité](https://www.hetzner.com/"
+"unternehmen/umweltschutz)."
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -3312,10 +3356,8 @@ msgid "View all posts"
 msgstr "Afficher tous les messages"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog"
 msgid "News from the blog'"
-msgstr "Nouvelles provenant du salon"
+msgstr "Nouvelles provenant du forum de discussions"
 
 #~ msgid "Sustainable Goal"
 #~ msgstr "Développement durable"
