@@ -16,6 +16,10 @@ home.impact-description:
   other: Develop applications and software features with a focus on efficiency and sustainability for this and future generations.
 home.about-foss-title:
   other: What makes FOSS sustainable?
+home.featured-blog-posts-title:
+  other: Featured blog posts
+home.events-title:
+  other: Events
 home.about-foss-description:  
   other : Free & Open Source Software (FOSS) guarantees transparency and user autonomy, by design. These are not features, but inherent qualities to open development and software licensing. As a result, software and hardware are no longer dependent on vendors for support.
 home.about-foss-description-2:  
@@ -53,7 +57,7 @@ home.okular.be:
 home.okular.pr:
   other: Read More
 home.engage:
-  other: "**Get Involved**"
+  other: "Get Involved"
 home.engage.joinus:
   other: "Join us in the sustainable software development movement!"
 home.engage.repo:
@@ -80,6 +84,8 @@ home.greenweb.alt:
   other: Image of Green Web Foundation label
 home.funding.alt:
   other: Image of BMUV/UBA
+home.button.see-all:
+  other: See all
 blog.categories:
   other: Categories
 read-more:
