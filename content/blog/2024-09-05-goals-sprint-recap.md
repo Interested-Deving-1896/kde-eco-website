@@ -43,7 +43,7 @@ The first iteration of the new design is now live on [eco.kde.org](https://eco.k
 
 Making use of old hardware by installing sustainable free software on it is a wide field. There are many different variations of devices and what users do with them also varies a lot. What are the factors that might encourage users to reuse old hardware, what is holding them back?
 
-To get a bit more reliable answers to these questions we came up with a concept for a user survey which can be used at events where we present the Opt-Green project. This includes questions about what hardware people have and what is holding them back with installing new software on them.
+To get a bit more reliable answers to these questions we came up with a concept for a user survey which can be used at events where we present the Opt Green project. This includes questions about what hardware people have and what is holding them back from installing new software on it.
 
 ### Where we are today
 
