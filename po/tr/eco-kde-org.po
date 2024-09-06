@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-09-05 01:46+0000\n"
-"PO-Revision-Date: 2024-08-27 14:38+0300\n"
+"PO-Revision-Date: 2024-09-05 14:54+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -2871,11 +2871,11 @@ msgstr "Özgür ve açık kaynaklı yazılımları sürdürülebilir yapan şey 
 
 #: i18n/en.yaml:0
 msgid "Featured blog posts"
-msgstr ""
+msgstr "Öne çıkan blog yazıları"
 
 #: i18n/en.yaml:0
 msgid "Events"
-msgstr ""
+msgstr "Etkinlikler"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3085,7 +3085,7 @@ msgstr "BMUV/UBA görseli"
 
 #: i18n/en.yaml:0
 msgid "See all"
-msgstr ""
+msgstr "Tümünü Gör"
 
 #: i18n/en.yaml:0
 msgid "Categories"

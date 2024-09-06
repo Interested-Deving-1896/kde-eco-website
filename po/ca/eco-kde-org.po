@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-09-05 01:46+0000\n"
-"PO-Revision-Date: 2024-08-27 18:34+0200\n"
+"PO-Revision-Date: 2024-09-05 12:28+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -2952,11 +2952,11 @@ msgstr "Què fa que el FOSS sigui sostenible?"
 
 #: i18n/en.yaml:0
 msgid "Featured blog posts"
-msgstr ""
+msgstr "Articles destacats del blog"
 
 #: i18n/en.yaml:0
 msgid "Events"
-msgstr ""
+msgstr "Esdeveniments"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3167,7 +3167,7 @@ msgstr "Imatge de BMUV/UBA"
 
 #: i18n/en.yaml:0
 msgid "See all"
-msgstr ""
+msgstr "Veure-ho tot"
 
 #: i18n/en.yaml:0
 msgid "Categories"

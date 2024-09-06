@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-09-05 01:46+0000\n"
-"PO-Revision-Date: 2024-08-27 18:34+0200\n"
+"PO-Revision-Date: 2024-09-05 12:28+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
@@ -2953,11 +2953,11 @@ msgstr "Què fa que el FOSS siga sostenible?"
 
 #: i18n/en.yaml:0
 msgid "Featured blog posts"
-msgstr ""
+msgstr "Articles destacats del blog"
 
 #: i18n/en.yaml:0
 msgid "Events"
-msgstr ""
+msgstr "Esdeveniments"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3168,7 +3168,7 @@ msgstr "Imatge de BMUV/UBA"
 
 #: i18n/en.yaml:0
 msgid "See all"
-msgstr ""
+msgstr "Veure-ho tot"
 
 #: i18n/en.yaml:0
 msgid "Categories"
@@ -3185,90 +3185,3 @@ msgstr "Visualitza tots els articles"
 #: i18n/en.yaml:0
 msgid "News from the blog'"
 msgstr "Notícies del blog"
-
-#~ msgid ""
-#~ "Become a part of the sustainable software movement! We need as many "
-#~ "motivated people as possible to drive this forward. Here are some "
-#~ "channels where you can get more information and contribute."
-#~ msgstr ""
-#~ "Formeu part del moviment del programari sostenible! Necessitem tanta gent "
-#~ "motivada com siga possible per a impulsar este repte. Ací hi ha diversos "
-#~ "canals a on podeu obtindre més informació i col·laborar."
-
-#~ msgid "Community & Support"
-#~ msgstr "Comunitat i assistència"
-
-#~ msgid ""
-#~ "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC"
-#~ "+2:00/+1:00) (contact us for details)"
-#~ msgstr ""
-#~ "Trobades mensuals (videoconferència), 2n dimecres a les 19,00 CEST/CET "
-#~ "(hora de Berlín) (per als detalls, contacteu amb nosaltres)"
-
-#~ msgid ""
-#~ "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
-#~ msgstr ""
-#~ "Sala de Matrix (debat): https://webchat.kde.org/#/room/#kde-eco:kde.org"
-
-#~ msgid ""
-#~ "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#~ "kde-eco-discuss"
-#~ msgstr ""
-#~ "Llista de correu (debat): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#~ "kde-eco-discuss"
-
-#~ msgid ""
-#~ "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/"
-#~ "listinfo/kde-eco-announce"
-#~ msgstr ""
-#~ "Llista de correu (anuncis): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#~ "kde-eco-announce"
-
-#~ msgid "Resources"
-#~ msgstr "Recursos"
-
-#~ msgid ""
-#~ "Sustainable Software Goal (Community Wiki): https://community.kde.org/"
-#~ "Goals/Sustainable_Software"
-#~ msgstr ""
-#~ "Objectiu de programari sostenible (Wiki de la comunitat): https://"
-#~ "community.kde.org/Goals/Sustainable_Software"
-
-#~ msgid ""
-#~ "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/"
-#~ "eco/opt-green"
-#~ msgstr ""
-#~ "Projecte «Opció verda» (Opt Green, repositori de GitLab): https://invent."
-#~ "kde.org/teams/eco/opt-green"
-
-#~ msgid ""
-#~ "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/"
-#~ "remote-eco-lab"
-#~ msgstr ""
-#~ "Laboratori eco remot (repositori de GitLab): https://invent.kde.org/teams/"
-#~ "eco/remote-eco-lab"
-
-#~ msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
-#~ msgstr "FEEP (repositori de GitLab): https://invent.kde.org/teams/eco/feep"
-
-#~ msgid ""
-#~ "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
-#~ msgstr ""
-#~ "BE4FOSS (repositori de GitLab): https://invent.kde.org/teams/eco/be4foss"
-
-#~ msgid ""
-#~ "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#~ "eco/blue-angel-application"
-#~ msgstr ""
-#~ "Aplicacions de Blue Angel (repositori de GitLab): https://invent.kde.org/"
-#~ "teams/eco/blue-angel-application"
-
-#~ msgid "Contact"
-#~ msgstr "Contacte"
-
-# skip-rule: t-acc_obe
-#~ msgid "Email: `joseph [at] kde.org`"
-#~ msgstr "Correu: `joseph [at] kde.org`"
-
-#~ msgid "**Get Involved**"
-#~ msgstr "**Com participar**"

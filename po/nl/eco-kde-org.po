@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-09-05 01:46+0000\n"
-"PO-Revision-Date: 2024-08-27 11:13+0200\n"
+"PO-Revision-Date: 2024-09-05 10:05+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 24.05.2\n"
+"X-Generator: Lokalize 24.08.0\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -2911,11 +2911,11 @@ msgstr "Wat maakt FOSS duurzaam?"
 
 #: i18n/en.yaml:0
 msgid "Featured blog posts"
-msgstr ""
+msgstr "Aanbevolen blogberichten"
 
 #: i18n/en.yaml:0
 msgid "Events"
-msgstr ""
+msgstr "Gebeurtenissen"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3125,7 +3125,7 @@ msgstr "Afbeelding van BMUV/UBA"
 
 #: i18n/en.yaml:0
 msgid "See all"
-msgstr ""
+msgstr "Zie alles"
 
 #: i18n/en.yaml:0
 msgid "Categories"

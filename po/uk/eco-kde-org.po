@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-09-05 01:46+0000\n"
-"PO-Revision-Date: 2024-08-27 17:56+0300\n"
+"PO-Revision-Date: 2024-09-05 11:48+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -2932,11 +2932,11 @@ msgstr "Що робить розвиток з FOSS сталим?"
 
 #: i18n/en.yaml:0
 msgid "Featured blog posts"
-msgstr ""
+msgstr "Рекомендовані дописи у блозі"
 
 #: i18n/en.yaml:0
 msgid "Events"
-msgstr ""
+msgstr "Події"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3154,7 +3154,7 @@ msgstr "Зображення BMUV/UBA"
 
 #: i18n/en.yaml:0
 msgid "See all"
-msgstr ""
+msgstr "Переглянути усі"
 
 #: i18n/en.yaml:0
 msgid "Categories"
