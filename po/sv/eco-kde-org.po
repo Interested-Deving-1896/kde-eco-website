@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-09-05 01:46+0000\n"
-"PO-Revision-Date: 2024-08-27 19:11+0200\n"
+"PO-Revision-Date: 2024-09-05 17:25+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@gmail.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -2858,11 +2858,11 @@ msgstr "Vad gör fri och öppen programvara hållbar?"
 
 #: i18n/en.yaml:0
 msgid "Featured blog posts"
-msgstr ""
+msgstr "Utvalda blogginlägg"
 
 #: i18n/en.yaml:0
 msgid "Events"
-msgstr ""
+msgstr "Händelser"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3070,7 +3070,7 @@ msgstr "Bild av BMU/UBA"
 
 #: i18n/en.yaml:0
 msgid "See all"
-msgstr ""
+msgstr "Se alla"
 
 #: i18n/en.yaml:0
 msgid "Categories"
