@@ -1950,7 +1950,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Events"
-msgstr ""
+msgstr "Události"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2140,15 +2140,3 @@ msgstr ""
 #: i18n/en.yaml:0
 msgid "News from the blog'"
 msgstr "Novinky z blogu'"
-
-#~ msgid "Community & Support"
-#~ msgstr "Komunita a podpora"
-
-#~ msgid "Resources"
-#~ msgstr "Zdroje"
-
-#~ msgid "Contact"
-#~ msgstr "Kontakt"
-
-#~ msgid "**Get Involved**"
-#~ msgstr "**Zapojte se**"
