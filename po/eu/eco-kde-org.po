@@ -1,6 +1,6 @@
 # Translation for eco-kde-org.po to Euskara/Basque (eu).
 # Copyright (C) 2024 This file is copyright:
-# This file is distributed under the same license as the websites-eco-kde-org package.
+# This file is distributed under the same license as the original file.
 # KDE euskaratzeko proiektuaren arduraduna <xalba@ni.eus>.
 #
 # Translators:
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Lokalize 24.08.1\n"
 
 #: config.yaml:0 content/_index.md:0
