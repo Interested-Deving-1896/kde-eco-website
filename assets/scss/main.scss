@@ -45,7 +45,7 @@
 
 #home {
   h1 {
-    font-size: 3.5rem;
+    font-size: 3.434rem;
   }
 
   h2 {
@@ -53,7 +53,7 @@
   }
 
   h4 {
-    font-size: 1.3rem;
+    font-size: 1.312rem;
   }
 
   p {
@@ -76,10 +76,15 @@
 
   .event-info {
     font-size: 1rem;
+    opacity: 0.7;
+  }
+
+  .btn-primary {
+    color: white;
   }
 
   .svg-icon {
-    max-width: 3em;
+    max-width: 2.25em;
   }
 }
 
