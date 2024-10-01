@@ -146,4 +146,4 @@ If this doesn't work, we may want to reference [x11vnc](https://github.com/LibVN
 If you are interested in contributing to KEcoLab, you can join the matrix channels [Energy Measurement Lab](https://matrix.to/#/#kde-eco-dev:kde.org) and [KDE Energy Efficiency](https://matrix.to/#/#energy-efficiency:kde.org) and introduce yourself.
 KEcoLab is hosted [here](https://invent.kde.org/teams/eco/remote-eco-lab).
 Thank you to Karan and Joseph as well as the whole KDE e.V. and the wonderful KDE community for helping out with this project.
-You can also reach out to me via [email](mj.akarsh@gmail.com) or on [Matrix](@aakarshmj:matrix.org)
+You can also reach out to me via [email](mj.akarsh@gmail.com) or on [Matrix](https://go.kde.org/matrix/#/@aakarshmj:matrix.org)
