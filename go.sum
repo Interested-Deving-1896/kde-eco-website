@@ -3,5 +3,5 @@ github.com/thednp/bootstrap.native v0.0.0-20230704154857-7778c4403d89 h1:Jo9lBIg
 github.com/thednp/bootstrap.native v0.0.0-20230704154857-7778c4403d89/go.mod h1:apvEEkedEAYkAOjFu4DSnvP3QeFy+8tq7mjzzEfhQCA=
 github.com/twbs/bootstrap v5.3.0-alpha1+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 invent.kde.org/websites/hugo-bootstrap v0.0.0-20230310220713-2c58a2e72e20/go.mod h1:ShMW6etO0smOfDUNu1CyVW2WPwGVNZPzmzpzC40w674=
-invent.kde.org/websites/hugo-kde v0.0.0-20240722015037-37d922aa2b90 h1:rrosMvmDQaasGu6uKbv+XY/yGVEUVZXu6SqKdkdjWzQ=
-invent.kde.org/websites/hugo-kde v0.0.0-20240722015037-37d922aa2b90/go.mod h1:YfwgFZaRVlsOVucPueDz7ygXrKx5vIMjO5/NjkssHpw=
+invent.kde.org/websites/hugo-kde v0.0.0-20240929115927-14ed04d8170b h1:8hPYFbjl6Cn1aZUE2TqIwcnlZph4iTA9ySuUlbfBpSo=
+invent.kde.org/websites/hugo-kde v0.0.0-20240929115927-14ed04d8170b/go.mod h1:YfwgFZaRVlsOVucPueDz7ygXrKx5vIMjO5/NjkssHpw=
