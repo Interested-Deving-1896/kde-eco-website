@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-09-05 01:46+0000\n"
+"POT-Creation-Date: 2024-10-15 01:49+0000\n"
 "PO-Revision-Date: 2023-08-08 00:28+0200\n"
 "Last-Translator: Shinjo Park <kde@peremen.name>\n"
 "Language-Team: Korean <kde-kr@kde.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
-#: content/blog/2024-05-29_introducing-ns4nh.md:0
+#: content/blog/2024-05-29_introducing-ns4nh.md:0 content/get-involved.md:0
 msgid "KDE Eco"
 msgstr "KDE Eco"
 
@@ -1763,14 +1763,14 @@ msgid "Blog"
 msgstr ""
 
 #: content/blog/_index.md:0
+msgid "Keep up with the latest news about the KDE Eco project"
+msgstr ""
+
+#: content/blog/_index.md:0
 #, fuzzy
 #| msgid "KDE Eco"
 msgid "KDE Eco blog"
 msgstr "KDE Eco"
-
-#: content/blog/_index.md:9
-msgid "Keep up with the latest news about the KDE Eco project"
-msgstr ""
 
 #: content/blog/post-1.md:0 content/FEEP/_index.md:0
 msgid "Energy Efficiency"
@@ -1932,6 +1932,133 @@ msgstr ""
 "의 에너지 소모에 큰 영향을 줍니다. 올바른 도구를 사용하여 에너지 소모를 측정"
 "하고 감소시킬 부분을 찾을 수 있습니다. 소프트웨어의 에너지 효율성을 개선하면 "
 "우리 지구의 공유 자원인 에너지를 더 지속 가능한 형태로 사용할 수 있습니다."
+
+#: content/get-involved.md:0 i18n/en.yaml:0
+msgid "Get Involved"
+msgstr "참여하기"
+
+#: content/get-involved.md:0
+#, fuzzy
+#| msgid "Join us for a sustainable software development movement!"
+msgid "Become a part of the sustainable software movement!"
+msgstr "지속 가능한 소프트웨어 개발 운동에 참여하세요!"
+
+#: content/get-involved.md:10
+#, fuzzy
+#| msgid ""
+#| "We need as many motivated people as possible to drive this forward. Here "
+#| "are some channels where you can get more information and contribute."
+msgid ""
+"We need as many motivated people as possible to drive this forward. Here are "
+"some channels where you can get more information and contribute."
+msgstr ""
+"이 의제를 계속 진행할 수 있는 의욕 있는 사람들의 도움이 필요합니다. 아래 채널"
+"을 통해서 정보를 얻고 기여할 수 있습니다."
+
+#: content/get-involved.md:12
+#, fuzzy
+#| msgid "Community Support"
+msgid "Community & Support"
+msgstr "커뮤니티 지원"
+
+#: content/get-involved.md:14
+#, fuzzy
+#| msgid ""
+#| "BigBlueButton : Monthly meet-ups, 2nd Wednesdays 17:00 UTC (contact us "
+#| "for details)"
+msgid ""
+"Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/"
+"+1:00) (contact us for details)"
+msgstr ""
+"BigBlueButton: 월간 미팅, 매월 2번째 수요일 17:00 UTC/목요일 2:00 KST(자세한 "
+"정보는 연락해 주십시오)"
+
+#: content/get-involved.md:15
+#, fuzzy
+#| msgid ""
+#| "Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+msgid ""
+"Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
+msgstr ""
+"Matrix 대화방: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+
+#: content/get-involved.md:16
+#, fuzzy
+#| msgid ""
+#| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+#| "efficiency"
+msgid ""
+"Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
+"eco-discuss"
+msgstr ""
+"메일링 리스트: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+"efficiency"
+
+#: content/get-involved.md:17
+#, fuzzy
+#| msgid ""
+#| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+#| "efficiency"
+msgid ""
+"Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"kde-eco-announce"
+msgstr ""
+"메일링 리스트: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+"efficiency"
+
+#: content/get-involved.md:19
+msgid "Resources"
+msgstr ""
+
+#: content/get-involved.md:21
+msgid ""
+"Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
+"Sustainable_Software"
+msgstr ""
+
+#: content/get-involved.md:22
+#, fuzzy
+#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
+msgid ""
+"\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
+"opt-green"
+msgstr "FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep"
+
+#: content/get-involved.md:23
+#, fuzzy
+#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
+msgid ""
+"Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
+"eco-lab"
+msgstr "FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep"
+
+#: content/get-involved.md:24
+#, fuzzy
+#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
+msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
+msgstr "FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep"
+
+#: content/get-involved.md:25
+#, fuzzy
+#| msgid "BE4FOSS GitLab repository: https://invent.kde.org/joseph/be4foss"
+msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
+msgstr "BE4FOSS GitLab 저장소: https://invent.kde.org/joseph/be4foss"
+
+#: content/get-involved.md:26
+#, fuzzy
+#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
+msgid ""
+"Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
+"eco/blue-angel-application"
+msgstr "FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep"
+
+#: content/get-involved.md:28
+msgid "Contact"
+msgstr "연락"
+
+#: content/get-involved.md:30
+msgid "Email: `joseph [at] kde.org`"
+msgstr "이메일: `joseph [at] kde.org`"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -2129,10 +2256,6 @@ msgid "Read More"
 msgstr ""
 
 #: i18n/en.yaml:0
-msgid "Get Involved"
-msgstr "참여하기"
-
-#: i18n/en.yaml:0
 #, fuzzy
 #| msgid "Join us for a sustainable software development movement!"
 msgid "Join us in the sustainable software development movement!"
@@ -2209,102 +2332,6 @@ msgstr ""
 #: i18n/en.yaml:0
 msgid "News from the blog'"
 msgstr ""
-
-#, fuzzy
-#~| msgid ""
-#~| "We need as many motivated people as possible to drive this forward. Here "
-#~| "are some channels where you can get more information and contribute."
-#~ msgid ""
-#~ "Become a part of the sustainable software movement! We need as many "
-#~ "motivated people as possible to drive this forward. Here are some "
-#~ "channels where you can get more information and contribute."
-#~ msgstr ""
-#~ "이 의제를 계속 진행할 수 있는 의욕 있는 사람들의 도움이 필요합니다. 아래 "
-#~ "채널을 통해서 정보를 얻고 기여할 수 있습니다."
-
-#, fuzzy
-#~| msgid "Community Support"
-#~ msgid "Community & Support"
-#~ msgstr "커뮤니티 지원"
-
-#, fuzzy
-#~| msgid ""
-#~| "BigBlueButton : Monthly meet-ups, 2nd Wednesdays 17:00 UTC (contact us "
-#~| "for details)"
-#~ msgid ""
-#~ "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC"
-#~ "+2:00/+1:00) (contact us for details)"
-#~ msgstr ""
-#~ "BigBlueButton: 월간 미팅, 매월 2번째 수요일 17:00 UTC/목요일 2:00 KST(자세"
-#~ "한 정보는 연락해 주십시오)"
-
-#, fuzzy
-#~| msgid ""
-#~| "Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
-#~ msgid ""
-#~ "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
-#~ msgstr ""
-#~ "Matrix 대화방: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
-
-#, fuzzy
-#~| msgid ""
-#~| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#~| "efficiency"
-#~ msgid ""
-#~ "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#~ "kde-eco-discuss"
-#~ msgstr ""
-#~ "메일링 리스트: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#~ "efficiency"
-
-#, fuzzy
-#~| msgid ""
-#~| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#~| "efficiency"
-#~ msgid ""
-#~ "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/"
-#~ "listinfo/kde-eco-announce"
-#~ msgstr ""
-#~ "메일링 리스트: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#~ "efficiency"
-
-#, fuzzy
-#~| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
-#~ msgid ""
-#~ "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/"
-#~ "eco/opt-green"
-#~ msgstr "FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep"
-
-#, fuzzy
-#~| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
-#~ msgid ""
-#~ "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/"
-#~ "remote-eco-lab"
-#~ msgstr "FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep"
-
-#, fuzzy
-#~| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
-#~ msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
-#~ msgstr "FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep"
-
-#, fuzzy
-#~| msgid "BE4FOSS GitLab repository: https://invent.kde.org/joseph/be4foss"
-#~ msgid ""
-#~ "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
-#~ msgstr "BE4FOSS GitLab 저장소: https://invent.kde.org/joseph/be4foss"
-
-#, fuzzy
-#~| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
-#~ msgid ""
-#~ "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#~ "eco/blue-angel-application"
-#~ msgstr "FEEP GitLab 저장소: https://invent.kde.org/cschumac/feep"
-
-#~ msgid "Contact"
-#~ msgstr "연락"
-
-#~ msgid "Email: `joseph [at] kde.org`"
-#~ msgstr "이메일: `joseph [at] kde.org`"
 
 #~ msgid "**Get Involved**"
 #~ msgstr "**참여하기**"
