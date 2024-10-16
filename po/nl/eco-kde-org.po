@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-15 01:49+0000\n"
-"PO-Revision-Date: 2024-09-05 10:05+0200\n"
+"PO-Revision-Date: 2024-10-15 09:36+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 24.08.0\n"
+"X-Generator: Lokalize 24.08.2\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -2833,24 +2833,16 @@ msgid "Get Involved"
 msgstr "Doe mee"
 
 #: content/get-involved.md:0
-#, fuzzy
-#| msgid "Become A Part Of The Sustainable Software Movement"
 msgid "Become a part of the sustainable software movement!"
-msgstr "Wordt een onderdeel van de duurzame software beweging"
+msgstr "Wordt deel van de duurzame software beweging!"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "Become a part of the sustainable software movement! We need as many "
-#| "motivated people as possible to drive this forward. Here are some "
-#| "channels where you can get more information and contribute."
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
-"Maak deel uit van de duurzame software beweging! We hebben zoveel mogelijk "
-"personen nodig om dit vooruit te brengen. Hier zijn enige kanalen waar u "
-"meer informatie kan krijgen en bijdragen."
+"We hebben zoveel mogelijk personen nodig om dit vooruit te brengen. Hier "
+"zijn enige kanalen waar u meer informatie kan krijgen en bijdragen."
 
 #: content/get-involved.md:12
 msgid "Community & Support"

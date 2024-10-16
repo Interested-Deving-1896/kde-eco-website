@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-15 01:49+0000\n"
-"PO-Revision-Date: 2024-09-05 11:48+0300\n"
+"PO-Revision-Date: 2024-10-15 19:42+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -2851,25 +2851,17 @@ msgid "Get Involved"
 msgstr "Участь у команді"
 
 #: content/get-involved.md:0
-#, fuzzy
-#| msgid "Become A Part Of The Sustainable Software Movement"
 msgid "Become a part of the sustainable software movement!"
-msgstr "Станьте частиною руху стійкого програмного забезпечення"
+msgstr "Станьте частиною руху стійкого програмного забезпечення!"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "Become a part of the sustainable software movement! We need as many "
-#| "motivated people as possible to drive this forward. Here are some "
-#| "channels where you can get more information and contribute."
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
-"Ставайте частиною руху за створення програмного забезпечення для стійкого "
-"розвитку! Нам потрібно якомога більше мотивованих людей для просування ідеї. "
-"Нижче наведено деякі канали, на яких ви можете отримати додаткові відомості "
-"та взяти участь у роботі."
+"Нам потрібно якомога більше мотивованих людей для просування ідеї. Нижче "
+"наведено деякі канали, на яких ви можете отримати додаткові відомості та "
+"взяти участь у роботі."
 
 #: content/get-involved.md:12
 msgid "Community & Support"

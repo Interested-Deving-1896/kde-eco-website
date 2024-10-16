@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-15 01:49+0000\n"
-"PO-Revision-Date: 2024-09-05 17:25+0200\n"
+"PO-Revision-Date: 2024-10-15 20:44+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@gmail.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -2781,24 +2781,16 @@ msgid "Get Involved"
 msgstr "Engagera dig"
 
 #: content/get-involved.md:0
-#, fuzzy
-#| msgid "Become a part of the sustainable software movement"
 msgid "Become a part of the sustainable software movement!"
-msgstr "Bli en del av rörelsen för hållbar programvara"
+msgstr "Bli en del av rörelsen för hållbar programvara."
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "Become a part of the sustainable software movement! We need as many "
-#| "motivated people as possible to drive this forward. Here are some "
-#| "channels where you can get more information and contribute."
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
-"Bli en del av den hållbara programvarurörelsen! Vi behöver så många "
-"motiverade personer som möjligt för att komma framåt. Här är några kanaler "
-"där du kan få mer information och bidra."
+"Vi behöver så många motiverade personer som möjligt för att komma framåt. "
+"Här är några kanaler där du kan få mer information och bidra."
 
 #: content/get-involved.md:12
 msgid "Community & Support"

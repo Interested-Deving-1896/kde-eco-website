@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-15 01:49+0000\n"
-"PO-Revision-Date: 2024-09-05 14:54+0300\n"
+"PO-Revision-Date: 2024-10-15 23:21+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -2792,25 +2792,17 @@ msgid "Get Involved"
 msgstr "Katıl"
 
 #: content/get-involved.md:0
-#, fuzzy
-#| msgid "Join us in the sustainable software development movement!"
 msgid "Become a part of the sustainable software movement!"
-msgstr "Sürdürülebilir yazılım geliştirme hareketinde bize katılın!"
+msgstr "Sürdürülebilir yazılım hareketinin bir parçası olun!"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "Become a part of the sustainable software movement! We need as many "
-#| "motivated people as possible to drive this forward. Here are some "
-#| "channels where you can get more information and contribute."
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
-"Sürdürülebilir yazılım hareketinin bir parçası olun! Bunu ileriye taşımak "
-"için olabildiğince çok motive insana gereksinimimiz var. Daha fazla bilgi "
-"alabileceğiniz ve katkıda bulunabileceğiniz bazı kanalları burada "
-"bulabilirsiniz."
+"Bunu ileriye taşımak için olabildiğince çok motive insana gereksinimimiz "
+"var. Daha fazla bilgi alabileceğiniz ve katkıda bulunabileceğiniz bazı "
+"kanalları burada bulabilirsiniz."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
