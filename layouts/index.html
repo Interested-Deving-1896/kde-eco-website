@@ -25,7 +25,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4 mt-4 py-5 text-center">
-          <img class="svg-icon" src="/images/noun-sustainability-6505980-black.svg" alt="{{ i18n " home.sustainability-title" }}"/>
+          <img class="svg-icon" src="/images/noun-sustainability-6505980-black.svg" alt="{{ i18n "home.sustainability-title" }}"/>
           <h4 class="fw-bold">{{ i18n "home.sustainability-title"}}</h3>
           <p>{{ i18n "home.sustainability-description"}}</p>
         </div>
@@ -50,7 +50,7 @@
           <img class="img-fluid" src="/images/opt-green-brand-scratch-04.png" alt={{ i18n "home.about-foss-description" }} class="img-fluid pb-4">
         </div>
         <div class="col-lg-6  d-flex flex-column justify-content-center">
-          <h2 class=" m-0 pb-4">{{ i18n "home.about-foss-title" }}</h2>
+          <h2 class="m-0 pb-4">{{ i18n "home.about-foss-title" }}</h2>
           <p>{{ i18n "home.about-foss-description" }}</p>
           <p>{{ i18n "home.about-foss-description-2" }}</p>
         </div>
@@ -98,7 +98,7 @@
       </div>
       <div class="col-md-2 col-12 mb-4 mb-md-0 mt-4 py-md-5 text-center">
         <a href="https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-discuss">
-          <i class="icon icon_mail-mark-unread home-icon"></i>
+          <img class="svg-icon" src="/images/mail-mark-unread.png" alt="{{ i18n "home.engage.mailinglist" }}" style="max-width:3em" />
           <h3>{{ i18n "home.engage.mailinglist" }}</h3>
         </a>
       </div>
@@ -120,17 +120,18 @@
         {{ range first 3 (where $pages "Params.hidden" "ne" "true") }}
         <div class="col-12 col-md-4">
           <div class="card h-100"> 
-            <img src={{ .Params.thumbnail }} alt="{{.Title}}" class="card-img-top" />
+            <img class="card-image" src={{ .Params.thumbnail }} alt="{{.Title}}" class="card-img-top" />
             <div class="post-entry my-2 p-3"> 
               <h4 class="mt-1">{{ .Title | safeHTML}}</h4>
               <div class="d-flex">
                 <div class="d-flex flex-column flex-lg-row">
                   <div class="mt-2 mt-md-0 pe-md-3 event-info">
-                    <i class="icon icon_view-calendar-month"></i>
+                    <img class="info-icon" src="/images/noun-calendar-6945157.png" alt={{ partial "i18n_date.html" . }}
+                    />
                     {{ partial "i18n_date.html" . }}
                   </div>
                   <div class="mt-2 mt-md-0 event-info">
-                    <i class="icon icon_edit-paste-in-place"></i>
+                    <img class="info-icon" src="/images/noun-location-4775289.png" alt="{{ .Params.Location }}"  />
                     {{ .Params.Location }}
                   </div>
                 </div>
