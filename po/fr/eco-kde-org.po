@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-15 01:49+0000\n"
-"PO-Revision-Date: 2024-09-09 18:56+0200\n"
+"PO-Revision-Date: 2024-10-16 17:52+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: French <French <kde-francophone@kde.org>>\n"
 "Language: fr\n"
@@ -2945,25 +2945,19 @@ msgid "Get Involved"
 msgstr "Impliquez-vous"
 
 #: content/get-involved.md:0
-#, fuzzy
-#| msgid "Become a part of the sustainable software movement"
 msgid "Become a part of the sustainable software movement!"
-msgstr "Devenir une partie du mouvement pour des logiciels durables"
+msgstr ""
+"Devenez une personne impliquée dans le mouvement pour des logiciels "
+"durables !"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "Become a part of the sustainable software movement! We need as many "
-#| "motivated people as possible to drive this forward. Here are some "
-#| "channels where you can get more information and contribute."
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
-"Faites partie du mouvement des logiciels durables ! Nous avons besoin "
-"d'autant de personnes motivées que possible pour faire avancer les choses. "
-"Voici quelques canaux où vous pouvez obtenir plus d'informations et "
-"contribuer."
+"Nous avons besoin d'autant de personnes motivées que possible pour faire "
+"avancer les choses. Voici quelques canaux où vous pouvez obtenir plus "
+"d'informations et contribuer."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
