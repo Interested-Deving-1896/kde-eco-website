@@ -3,4 +3,5 @@ SPDX-FileCopyrightText: 2021 Nguyen Hung Phu <phuhnguyen@disroot.org>
 SPDX-License-Identifier: LGPL-3.0-or-later
 */}}
 
-{{ return partial "fn/i18n_time" (dict "time" .Params.date "format" "28 June 2024") }}
+{{- partial "fn/i18n_time" (dict "time" .Page.Params.date "format" "%d %B %Y") -}}
+
