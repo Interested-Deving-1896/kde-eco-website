@@ -100,8 +100,6 @@
   .card p {
     color: black;
   }
-
-
 }
 
 .home-jumbotron {
@@ -193,17 +191,22 @@ html {
     filter: invert(1);
   }
 
-  #home {
-    .card {
-      img {
-        border-radius: 12px 12px 0 0;
-      }
+  .card {
+    img {
+      border-radius: 12px 12px 0 0;
+    }
 
-      border: none;
-      background-color: rgba(236, 239, 241, 0.06);
-      border-radius: 12px 12px 12px 12px;
+    border: none;
+    background-color: rgba(236, 239, 241, 0.06);
+    border-radius: 12px 12px 12px 12px;
+  }
+
+  #be-green { 
+    .card p {
+      filter: invert(1);
     }
   }
+  
 }
 
 .handbook {
