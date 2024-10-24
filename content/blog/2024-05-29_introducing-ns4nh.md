@@ -5,7 +5,7 @@ categories: [KDE Eco, Sustainable Software, Sustainable Hardware]
 author: Joseph P. De Veaugh-Geiss
 summary: 'KDE Eco has begun a new initiative "Opt Green: Sustainable Software For Sustainable Hardware".'
 featured: true
-thumbnail : /blog/thumbnails/opt-green-kde-eco.png
+thumbnail : /blog/thumbnails/blog-opt-green-optimized.png
 SPDX-License-Identifier: CC-BY-SA-4.0
 authors:
 - SPDX-FileCopyrightText: 2024 Joseph P. De Veaugh-Geiss <joseph@kde.org>
