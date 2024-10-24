@@ -93,4 +93,128 @@ read-more:
 view-all-posts:
   other: View all posts
 posts:
-  other: News from the blog'
+  other: News from the blog
+
+be-green.header:
+  other: Be Green
+be-green.header-subtitle:
+  other : Install Free & Open Source Software 
+be-green.opt-free.title:
+  other: Opt Free with FOSS Apps
+be-green.opt-free.description:
+  other: Install sustainable apps on any computer and operating system. With transparent, user-focused applications that support open formats, you have full control, now and in the future.
+be-green.set-free.title:
+  other: Set Free with Old Hardware
+be-green.set-free.description:
+  other: The most environmentally-friendly device is the one you already own. Vendors control and kill support for aging hardware, by design. Free & Open Source Software can set those devices free.
+be-green.be-free.title:
+  other: Be Free with New Hardware
+be-green.be-free.description:
+  other: Buying a computer with independent software pre-installed means your new hardware can remain in use for as long as you want. No more planned obsolescence and update-driven e-waste.
+
+be-green.opt-free-section.title:
+  other: Opt Free with FOSS Apps
+be-green.opt-free-section.description:
+  other: Using Free & Open Source software applications gives users flexibility. You can use older hardware for longer when you have control over software's demands on resources. Switch programs when needed and choose software that is more sustainable for users and for the environment.
+be-green.opt-free-section.button:
+  other: See All
+
+be-green.opt-free-section.creators.title:
+  other: KDE for Creators
+be-green.opt-free-section.creators.description:
+  other: Creative software tools tailored for artists, designers, and media creators.
+
+be-green.opt-free-section.gamers.title:
+  other: KDE for Gamers
+be-green.opt-free-section.gamers.description:
+  other: Powerful gaming applications for an optimized and immersive gaming experience.
+
+be-green.opt-free-section.students.title:
+  other: KDE for Students
+be-green.opt-free-section.students.description:
+  other: Educational software that provides flexible and user-friendly tools for students.
+
+
+be-green.set-free-section.title:
+  other: Set Free Old Hardware
+be-green.set-free-section.description:
+  other: Installing a Free & Open Source operating system takes just 3 steps and the time needed to enjoy a couple cups of tea. Details about each step can be found at the wiki.
+be-green.set-free-section.download-title:
+  other: Download a FOSS Operating System
+be-green.set-free-section.download-description:
+  other: Download the FOSS operating system you want to install. For devices less than 10 years old, Fedora Linux with KDE spin is our recommendation.
+be-green.set-free-section.flash-title:
+  other: Flash Operating System to a USB Stick
+be-green.set-free-section.flash-description:
+  other: With one of several easy-to-use tools, flash the operating system to a USB stick. This will overwrite all data on the USB stick, so make sure to back up the files you want to keep.
+be-green.set-free-section.boot-title:
+  other: Boot and Install on Computer
+be-green.set-free-section.boot-description:
+  other: Boot your computer from the USB stick – you will need to know the correct keyboard combination beforehand. After booting, click "Install" and follow the simple guide. Voila! You have set your computer free. Don't forget to back up any data on your device you want to keep.
+be-green.set-free-section.button:
+  other: Learn More
+
+
+be-green.be-free-section.title:
+  other: Be Free with New Hardware
+be-green.be-free-section.description:
+  other: KDE partners with several desktop and laptop providers to give the best experience out-of-the-box. Because these devices support Free & Open Source Software, you can use these devices however you want, for as long as you want. Moreover, support for repairability is a focus for the recommended devices featured here!
+be-green.be-free-section.slimbook-title:
+  other: Slimbook
+be-green.be-free-section.slimbook-description:
+  other: With a FOSS operating system pre-installed and a large catalog of spare parts, your Slimbook can remain in use for years to come.
+be-green.be-free-section.slimbook-button:
+  other: Learn more
+be-green.be-free-section.framework-title:
+  other: Framework
+be-green.be-free-section.framework-description:
+  other: By designing their hardware to be modular and customizable, a Framework computer is as easy to repair as snapping in a new part.
+be-green.be-free-section.framework-button:
+  other: Learn more
+
+make-green.measure.title:
+  other: Measure Your Software's Energy Use
+make-green.measure.description:
+  other: Free & Open Source Software has always been about transparency – let's extend that transparency to software's energy demands.
+make-green.measure.button:
+  other: Learn More
+
+make-green.read.title:
+  other: Read the KDE Eco Handbook
+make-green.read.description:
+  other: '"Applying The Blue Angel Criteria To Free Software" details how to eco-certify software and why it matters.'
+make-green.prepare.title:
+  other: Prepare Scripts to Measure Energy Use
+make-green.prepare.description:
+  other: Energy consumption measurements require a scripted and replicable workflow of actions.
+
+make-green.measure-section.title:
+  other: Measure Your Software's Energy Use
+make-green.measure-section.description:
+  other: Setting up a lab is as easy as buying an external power meter and following the lab setup guide in the KDE Eco handbook. KEcoLab makes the process even easier by enabling developers to remotely measure the energy consumption of their software using GitLab's CI/CD pipeline. What's more, at the end of the measurement process you will have an energy consumption report ready for Blue Angel eco certification.
+make-green.measure-section.button:
+  other: View Repository
+
+make-green.handbook.title:
+  other: Use the KDE Eco Handbook
+make-green.handbook.description:
+  other: The handbook "Applying The Blue Angel Criteria To Free Software" gives an overview of the environmental harm driven by software and how the Blue Angel ecolabel — the official environmental label of the German government — provides a benchmark for sustainable software design. Learn how Free & Open Source Software's values of transparency and user autonomy foster sustainability, as well as how to set up a dedicated lab to measure your software's energy consumption.
+make-green.handbook.button:
+  other: Read More
+
+make-green.script-section.title:
+  other: Prepare Scripts to Measure Energy Use
+make-green.script-section.description:
+  other: Emulate user behavior for easy replication of your measurements. That's good science! KdeEcoTest and KdeEcoTestCreator are Python-based tools designed for reproducing computer actions by simulating keyboard and mouse activity. The tools work on GNU/Linux and Microsoft Windows.
+make-green.script-section.button:
+  other: View Repository
+
+
+make-green.past-projects-section.title:
+  other: Past Projects
+make-green.past-projects-section.sustainable-goal.title:
+  other: KDE's Sustainable Software Goal
+make-green.past-projects-section.feep.title:
+  other: FOSS Energy Efficiency Project (FEEP)
+make-green.past-projects-section.be4foss.title:
+  other: Blauer Engel For FOSS (BE4FOSS)
