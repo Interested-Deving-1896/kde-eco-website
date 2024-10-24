@@ -1,0 +1,149 @@
+{{ define "main" }}
+
+<main id="be-green">
+
+  <section class="home-jumbotron background text-light mt-0" >
+    <div class="container">
+	<h1 class="header">{{ i18n "be-green.header" }}</h1>
+	<p class="subtitle">{{ i18n "be-green.header-subtitle" }}</p>
+    </div>
+  </section>
+
+  <section class="py-4 mb-4 d-flex align-items-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="icon" src="/be-green/images/cursor-icon.png" alt="{{ i18n "be-green.opt-free.title"}}"/>
+          <h4 class="fw-bold">{{ i18n "be-green.opt-free.title"}}</h3>
+          <p>{{ i18n "be-green.opt-free.description"}}</p>
+		  <a>{{ i18n "be-green.opt-free.button" }}</a>
+        </div>
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="icon" src="/be-green/images/old-hardware-icon.png" alt="{{ i18n "be-green.set-free.title"}}"/>
+          <h4 class="fw-bold">{{ i18n "be-green.set-free.title"}}</h4>
+		  <p>{{ i18n "be-green.set-free.description"}}</p>
+
+        </div>
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="icon" src="/be-green/images/new-hardware-icon.png" alt="{{ i18n "be-green.be-free.title" }}"/>
+          <h4 class="fw-bold">{{ i18n "be-green.be-free.title"}}</h4>
+          <p>{{ i18n "be-green.be-free.description"}}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+
+  <section class="section-green post d-flex align-items-center pt-3 pb-5">
+	<div class="container pb-3 ">
+	  <div class="d-flex justify-content-between align-items-center pb-4 px-4">
+		<h2 class="text-left ml-4">{{ i18n "be-green.opt-free-section.title" }}</h2>
+		<a href="https://kde.org/for" class="btn btn-primary mt-4 d-none d-md-block mx-2">{{ i18n "be-green.opt-free-section.button" }}</a>
+	  </div>
+	  <p class="px-4 pb-4">{{ i18n "be-green.opt-free-section.description" }}</p>
+	  <div class="row g-5 mx-0">
+		<div class="col-12 col-md-4">
+		  <a href="https://kde.org/for/creators/">
+			<div class="card h-100">
+			  <img src="/be-green/images/kde-for-creators-optimized.png" alt="KDE for Creators" class="card-img-top" />
+			  <div class="post-entry my-2 p-3">
+				<h4 class="mt-1 h5">{{ i18n "be-green.opt-free-section.creators.title" }}</h4>
+				<p>{{ i18n "be-green.opt-free-section.creators.description" }}</p>
+			  </div>
+			</div>
+		  </a>
+		</div>
+		<div class="col-12 col-md-4">
+		  <a href="https://kde.org/for/gamers/">
+			<div class="card h-100">
+			  <img src="/be-green/images/kde-for-gamers-optimized.png" alt="KDE for Gamers" class="card-img-top" />
+			  <div class="post-entry my-2 p-3">
+				<h4 class="mt-1 h5">{{ i18n "be-green.opt-free-section.gamers.title" }}</h4>
+				<p>{{ i18n "be-green.opt-free-section.gamers.description" }}</p>
+			  </div>
+			</div>
+		  </a>
+		</div>
+		<div class="col-12 col-md-4">
+		  <a href="https://kde.org/for/students/">
+			<div class="card h-100">
+			  <img src="/be-green/images/kde-for-students-optimized.png" alt="KDE for Students" class="card-img-top" />
+			  <div class="post-entry my-2 p-3">
+				<h4 class="mt-1 h5">{{ i18n "be-green.opt-free-section.students.title" }}</h4>
+				<p>{{ i18n "be-green.opt-free-section.students.description" }}</p>
+			  </div>
+			</div>
+		  </a>
+		</div>
+	  </div>
+	  <div class="text-center pt-5 d-md-none">
+		<a href="/blog" class="btn btn-outline-success w-100">{{ i18n "be-green.opt-free-section.button" }}</a>
+	  </div>
+	</div>
+  </section>
+  
+  
+  <section class=" post d-flex align-items-center pt-3 pb-5">
+  <div class="container pb-3">
+    <div class="row align-items-center">
+      <div class="col-md-6">
+        <img src="/be-green/images/install-foss-image-optimized.png" alt="{{ i18n "be-green.set-free-section.title" }}" class="img-fluid" />
+      </div>
+      <div class="col-md-6">
+        <h2 class="text-left">{{ i18n "be-green.set-free-section.title" }}</h2>
+        <p>{{ i18n "be-green.set-free-section.description" }}</p>
+        <ol>
+          <li>
+            <h4>{{ i18n "be-green.set-free-section.download-title" }}</h4>
+            <p>{{ i18n "be-green.set-free-section.download-description" }}</p>
+          </li>
+          <li>
+            <h4>{{ i18n "be-green.set-free-section.flash-title" }}</h4>
+            <p>{{ i18n "be-green.set-free-section.flash-description" }}</p>
+          </li>
+          <li>
+            <h4>{{ i18n "be-green.set-free-section.boot-title" }}</h4>
+            <p>{{ i18n "be-green.set-free-section.boot-description" }}</p>
+          </li>
+        </ol>
+        <a href="https://kde.org/distributions/" target="_blank" rel="noopener" class="btn btn-success m-4">{{ i18n "be-green.set-free-section.button" }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section-green post d-flex align-items-center pt-3 pb-5">
+	<div class="container pb-3">
+	  <div class="row align-items-center">
+		<div class="col-12">
+		  <h2 class="text-left">{{ i18n "be-green.be-free-section.title" }}</h2>
+		  <p>{{ i18n "be-green.be-free-section.description" }}</p>
+		</div>
+	  </div>
+	  <div class="row g-4 mt-4">
+		<div class="col-12 col-md-6">
+		  <div class="card h-100">
+			<img src="/be-green/images/slimbook-optimized.png" alt="{{ i18n "be-green.be-free-section.slimbook-title" }}" class="card-img-top" />
+			<div class="card-body">
+			  <h4 class="card-title">{{ i18n "be-green.be-free-section.slimbook-title" }}</h4>
+			  <p class="card-text">{{ i18n "be-green.be-free-section.slimbook-description" }}</p>
+			  <a href="https://slimbook.com/" class="btn btn-success">{{ i18n "be-green.be-free-section.slimbook-button" }}</a>
+			</div>
+		  </div>
+		</div>
+		<div class="col-12 col-md-6">
+		  <div class="card h-100">
+			<img src="/be-green/images/framework-optimized.png" alt="{{ i18n "be-green.be-free-section.framework-title" }}" class="card-img-top" />
+			<div class="card-body">
+			  <h4 class="card-title">{{ i18n "be-green.be-free-section.framework-title" }}</h4>
+			  <p class="card-text">{{ i18n "be-green.be-free-section.framework-description" }}</p>
+			  <a href="https://frame.work"  class="btn btn-success">{{ i18n "be-green.be-free-section.framework-button" }}</a>
+			</div>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  </section>
+  
+
+{{ end }}

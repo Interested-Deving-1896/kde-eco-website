@@ -43,6 +43,28 @@
   }
 }
 
+.card {
+
+  border: none;
+  background-color: rgba(33, 37, 41, 0.06);
+  border-radius: 12px 12px 12px 12px;
+
+  .card-image {
+    border-radius: 12px 12px 0 0;
+  }
+
+  .event-info {
+    font-size: 1rem;
+    opacity: 0.7;
+  }
+
+  .info-icon {
+    height: 1rem;
+    padding: 1px;
+    margin-bottom: 3px;
+  }
+}
+
 #home {
   h1 {
     font-size: 3.434rem;
@@ -64,28 +86,6 @@
     max-width: 1500px;
   }
 
-  .card {
-
-    border: none;
-    background-color: rgba(33, 37, 41, 0.06);
-    border-radius: 12px 12px 12px 12px;
-
-    .card-image {
-      border-radius: 12px 12px 0 0;
-    }
-
-    .event-info {
-      font-size: 1rem;
-      opacity: 0.7;
-    }
-
-    .info-icon {
-      height: 1rem;
-      padding: 1px;
-      margin-bottom: 3px;
-    }
-  }
-
   .btn-primary {
     color: white;
   }
@@ -93,6 +93,17 @@
   .svg-icon {
     max-width: 2.25em;
   }
+}
+
+#be-green { 
+  .card p {
+    color: black;
+  }
+
+  .icon {
+    max-height: 5em;
+  }
+
 }
 
 .home-jumbotron {
