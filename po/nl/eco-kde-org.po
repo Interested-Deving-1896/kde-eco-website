@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-25 01:50+0000\n"
-"PO-Revision-Date: 2024-10-15 09:36+0200\n"
+"PO-Revision-Date: 2024-10-25 11:56+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -1988,10 +1988,8 @@ msgstr ""
 "duurzame hardware\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "/blog/thumbnails/opt-green-kde-eco.png"
 msgid "/blog/thumbnails/blog-opt-green-optimized.png"
-msgstr "/blog/thumbnails/opt-green-kde-eco.png"
+msgstr "/blog/thumbnails/blog-opt-green-optimized.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -3241,26 +3239,20 @@ msgid "View all posts"
 msgstr "Alle berichten bekijken"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog'"
 msgid "News from the blog"
-msgstr "Nieuws uit het blog'"
+msgstr "Nieuws het het blog"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Opt Green"
 msgid "Be Green"
-msgstr "Opt Green"
+msgstr "Wees groen"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Blauer Engel for Free and Open Source Software"
 msgid "Install Free & Open Source Software"
-msgstr "Blauer Engel voor vrije en open-source software"
+msgstr "Installeer vrije en open-source software"
 
 #: i18n/en.yaml:0
 msgid "Opt Free with FOSS Apps"
-msgstr ""
+msgstr "Opt Free met FOSS-toepassingen"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3268,24 +3260,31 @@ msgid ""
 "transparent, user-focused applications that support open formats, you have "
 "full control, now and in the future."
 msgstr ""
+"Installeer duurzame toepassingen op elke computer en besturingssysteem. Met "
+"transparante, gebruiker-gerichte toepassingen die open formaten "
+"ondersteunen, hebt u volledige controle, nu en in de toekomst."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
-msgstr ""
+msgstr "Set Free met oude hardware"
 
 #: i18n/en.yaml:0
 msgid "Vendors control and kill support for aging hardware, by design."
 msgstr ""
+"Leveranciers controleren en vermoorden ondersteuning voor verouderende "
+"hardware, by design."
 
 #: i18n/en.yaml:0
 msgid "Be Free with New Hardware"
-msgstr ""
+msgstr "Be Free met nieuwe hardware"
 
 #: i18n/en.yaml:0
 msgid ""
 "Switch programs when needed for software that is sustainable for users and "
 "the environment."
 msgstr ""
+"Schakel om naar programma's wanneer nodig voor software die duurzaam is voor "
+"gebruikers en de omgeving."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3294,65 +3293,78 @@ msgid ""
 "demands on resources. Switch programs when needed and choose software that "
 "is more sustainable for users and for the environment."
 msgstr ""
+"Vrije & Open-source software toepassingen gebruiken geeft gebruikers "
+"flexibiliteit. U kunt oudere hardware langer gebruiken wanneer u de controle "
+"hebt over de eisen van software op hulpbronnen. Schakel om naar programma's "
+"wanneer nodig en kies software die duurzamer voor gebruikers en voor de "
+"omgeving is."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "See all"
 msgid "See All"
 msgstr "Zie alles"
 
 #: i18n/en.yaml:0
 msgid "KDE for Creators"
-msgstr ""
+msgstr "KDE voor creatievelingen"
 
 #: i18n/en.yaml:0
 msgid ""
 "Creative software tools tailored for artists, designers, and media creators."
 msgstr ""
+"Creatieve software hulpmiddelen gericht op artiesten, ontwerpers en makers "
+"van media."
 
 #: i18n/en.yaml:0
 msgid "KDE for Gamers"
-msgstr ""
+msgstr "KDE voor gamers"
 
 #: i18n/en.yaml:0
 msgid ""
 "Powerful gaming applications for an optimized and immersive gaming "
 "experience."
 msgstr ""
+"Krachtige toepassingen games voor een geoptimaliseerde en meeslepende game-"
+"ervaring."
 
 #: i18n/en.yaml:0
 msgid "KDE for Students"
-msgstr ""
+msgstr "KDE voor studenten"
 
 #: i18n/en.yaml:0
 msgid ""
 "Educational software that provides flexible and user-friendly tools for "
 "students."
 msgstr ""
+"Onderwijskundige software die flexibele en gebruikersvriendelijke "
+"hulpmiddelen levert voor studenten."
 
 #: i18n/en.yaml:0
 msgid "Set Free Your Old Hardware"
-msgstr ""
+msgstr "Set Free uw oude hardware"
 
 #: i18n/en.yaml:0
 msgid ""
 "Installing a Free & Open Source operating system takes just 3 steps and the "
 "time needed to enjoy a couple cups of tea."
 msgstr ""
+"Vrije & Open-source besturingssystemen kosten slechts 3 stappen en de tijd "
+"nodig om van een paar koppen thee te genieten."
 
 #: i18n/en.yaml:0
 msgid "Download a FOSS Operating System"
-msgstr ""
+msgstr "Download een FOSS besturingssysteem"
 
 #: i18n/en.yaml:0
 msgid ""
 "Download the FOSS operating system you want to install. For devices less "
 "than 10 years old, Fedora Linux with KDE spin is our recommendation."
 msgstr ""
+"Download het FOSS besturingssysteem dat u wilt installeren. Voor apparaten "
+"minder dan 10 jaar oud, Fedora Linux met KDE spin is onze aanbeveling."
 
 #: i18n/en.yaml:0
 msgid "Flash Operating System to a USB Stick"
-msgstr ""
+msgstr "Zet het besturingssysteem op een USB-stick"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3360,10 +3372,14 @@ msgid ""
 "stick. This will overwrite all data on the USB stick, so make sure to back "
 "up the files you want to keep."
 msgstr ""
+"Met een van de verschillende gemakkelijk-te-gebruiken hulpmiddelen, zet het "
+"besturingssysteem op een USB-stick. Dit zal alle gegevens op de USB-stick "
+"overschrijven, ga dus na om een reservekopie te maken van de bestanden die u "
+"wilt behouden."
 
 #: i18n/en.yaml:0
 msgid "Boot and Install on Computer"
-msgstr ""
+msgstr "Start op (boot) en installeer op de computer"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3372,6 +3388,10 @@ msgid ""
 "Voila! You have set your computer free. Make sure you have backed up any "
 "data you want to keep first."
 msgstr ""
+"Start (boot) uw computer vanaf de USB – u moet de juiste "
+"toetsenbordcombinatie van tevoren weten. Klik op \"Installeren\" en volg de "
+"instructies. Voila! U hebt uw computer vrij gemaakt. Verzeker u ervan dat u "
+"eerst een reservekopie hebt gemaakt van elk gegeven dat u wilt behouden."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3380,64 +3400,76 @@ msgid ""
 "can use them however you want, for as long as you want. Support for "
 "repairability is a focus for the recommended devices featured here!"
 msgstr ""
+"Partners van KDE met verschillende hardware leveranciers om de beste erving "
+"uit-de-doos te geven. Omdat deze apparaten vrije & open-source software "
+"ondersteunen, kunt u ze hoe u dat wilt gebruiken, voor zolang u dat wilt. "
+"Ondersteuning voor te repareren is een aandachtspunt voor de aanbevolen hier "
+"aanbevolen apparaten!"
 
 #: i18n/en.yaml:0
 msgid "Slimbook"
-msgstr ""
+msgstr "Slimbook"
 
 #: i18n/en.yaml:0
 msgid ""
 "With a FOSS operating system pre-installed and a large catalog of spare "
 "parts, your Slimbook can remain in use for years to come."
 msgstr ""
+"Met een FOSS-besturingssysteem voorgeïnstalleerd en een grote catalogus van "
+"reserve onderdelen, zal uw Slimbook de komende jaren in gebruik blijven."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn More"
 msgid "Learn more"
 msgstr "Meer informatie"
 
 #: i18n/en.yaml:0
 msgid "Framework"
-msgstr ""
+msgstr "Raamwerk"
 
 #: i18n/en.yaml:0
 msgid ""
 "By designing hardware to be modular and customizable, a Framework computer "
 "is as easy to repair as snapping in a new part."
 msgstr ""
+"Door hardware te ontwerpen op modulair en aanpasbaar te ontwerpen, is een "
+"framework-computer net zo gemakkelijk te repareren als een nieuw onderdeel "
+"inpluggen."
 
 #: i18n/en.yaml:0
 msgid "Measure Your Software's Energy Use"
-msgstr ""
+msgstr "Meet het energiegebruik van uw software"
 
 #: i18n/en.yaml:0
 msgid ""
 "Free & Open Source Software has always been about transparency – let's "
 "extend that transparency to software's energy demands."
 msgstr ""
+"Vrije & open-source software is altijd gegaan over transparantie – laten we "
+"die transparantie uitbreiden naar de energievraag van software."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Read the KDE Eco Handbook"
-msgstr "KDE Eco-handboek"
+msgstr "Lees het KDE Eco-handboek"
 
 #: i18n/en.yaml:0
 msgid ""
 "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
 "certify software and why it matters."
 msgstr ""
+"\"De Blue Angel criteria toepassen op vrije software\" geeft details over "
+"hoe een eco-certificaat aan software te geven en waarom dat ter zake is."
 
 #: i18n/en.yaml:0
 msgid "Prepare Scripts to Measure Energy Use"
-msgstr ""
+msgstr "Bereid scripts voor om energiegebruik te meten"
 
 #: i18n/en.yaml:0
 msgid ""
 "Energy consumption measurements require a scripted and replicable workflow "
 "of actions."
 msgstr ""
+"Metingen van energieconsumptie vereisen een script en herhaalbare "
+"werkmethodes van acties."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3448,18 +3480,21 @@ msgid ""
 "measurement process you will have an energy consumption report ready for "
 "Blue Angel eco certification."
 msgstr ""
+"Een lab opzetten is net zo gemakkelijk als het kopen van een externe "
+"energiemeter en het volgen van de opzetgids van het lab in het KDE Eco "
+"handboek. KEcoLab maakt het proces zelfs gemakkelijker door ontwikkelaars in "
+"staat te stellen om op afstand de energieconsumptie van hun software te "
+"meten met gebruik van de CI/CD-pijplijn van GitLab. Wat nog mooier is, aan "
+"het einde van het meetproces zult u een energieconsumptierapport hebben "
+"gereed voor Blue Angel eco-certificatie."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Repositories"
 msgid "View Repository"
-msgstr "Opslagruimten"
+msgstr "Bekijk opslagruimten"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Use the KDE Eco Handbook"
-msgstr "KDE Eco-handboek"
+msgstr "Gebruik het KDE Eco-handboek"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3471,6 +3506,13 @@ msgid ""
 "sustainability, as well as how to set up a dedicated lab to measure your "
 "software's energy consumption."
 msgstr ""
+"Het handboek \"Applying The Blue Angel Criteria To Free Software\" geeft een "
+"overzicht van de schade aan het milieu gedreven door software en hoe het "
+"Blue Angel ecolabel—het officiële milieulabel van de Duitse regering — een "
+"maatstaf voor duurzame ontwikkeling van software levert. Kom te weten hoe "
+"Vrije Software & Open-source waarden van transparantie en "
+"gebruikersautonomie onderhoudbaarheid voedt, evenals hoe een daarop gericht "
+"lab om uw energieconsumptie te meten."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3479,14 +3521,17 @@ msgid ""
 "for reproducing computer actions by simulating keyboard and mouse activity. "
 "The tools work on GNU/Linux and Microsoft Windows."
 msgstr ""
+"Emuleer gebruikersgedrag voor gemakkelijke herhaling van uw metingen. Dat is "
+"goede wetenschap! KdeEcoTest en KdeEcoTestCreator zijn op Python gebaseerde "
+"hulpmiddelen ontwikkelt voor het reproduceren van computeracties door het "
+"simuleren van toetsenbord- en muis-activiteiten. De hulpmiddelen werken op "
+"GNU/Linux en Microsoft Windows."
 
 #: i18n/en.yaml:0
 msgid "Past Projects"
-msgstr ""
+msgstr "Projecten uit het verleden"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "KDE's Sustainable Software Goal"
 msgstr "Het doel van KDE voor duurzame software"
 

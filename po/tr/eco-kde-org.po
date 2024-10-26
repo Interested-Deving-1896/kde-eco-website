@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-25 01:50+0000\n"
-"PO-Revision-Date: 2024-10-15 23:21+0300\n"
+"PO-Revision-Date: 2024-10-25 14:34+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -1959,10 +1959,8 @@ msgstr ""
 "Sürdürülebilir Yazılım”."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "/blog/thumbnails/opt-green-kde-eco.png"
 msgid "/blog/thumbnails/blog-opt-green-optimized.png"
-msgstr "/blog/thumbnails/opt-green-kde-eco.png"
+msgstr "/blog/thumbnails/blog-opt-green-optimized.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -3200,26 +3198,20 @@ msgid "View all posts"
 msgstr "Tüm gönderileri görüntüle"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog'"
 msgid "News from the blog"
 msgstr "Blogdaki haberler"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Opt Green"
 msgid "Be Green"
-msgstr "Yeşili Seç"
+msgstr "Yeşil Ol"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Blauer Engel for Free and Open Source Software"
 msgid "Install Free & Open Source Software"
-msgstr "Özgür ve Açık Kaynak Yazılım için Blauer Engel"
+msgstr "Özgür ve Açık Kaynak Yazılımlar Kurun"
 
 #: i18n/en.yaml:0
 msgid "Opt Free with FOSS Apps"
-msgstr ""
+msgstr "FOSS Uygulamalarla Özgürlüğü Seç"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3227,24 +3219,31 @@ msgid ""
 "transparent, user-focused applications that support open formats, you have "
 "full control, now and in the future."
 msgstr ""
+"Herhangi bir bilgisayar veya işletim sistemine sürdürülebilir uygulamalar "
+"kurun. Açık biçimleri destekleyen saydam, kullanıcı odaklı uygulamalarla "
+"denetim sizin elinizde; hem şimdi hem de gelecekte."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
-msgstr ""
+msgstr "Eski Donanımı Özgür Kıl"
 
 #: i18n/en.yaml:0
 msgid "Vendors control and kill support for aging hardware, by design."
 msgstr ""
+"Üreticiler, bilerek ve isteyerek eskiyen donanımlar için desteği "
+"kaldırıyorlar."
 
 #: i18n/en.yaml:0
 msgid "Be Free with New Hardware"
-msgstr ""
+msgstr "Yeni Donanımla Özgür Ol"
 
 #: i18n/en.yaml:0
 msgid ""
 "Switch programs when needed for software that is sustainable for users and "
 "the environment."
 msgstr ""
+"Gerektiğinde kullanıcılar ve çevre için sürdürülebilir olan programlara "
+"geçiş yapın."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3253,65 +3252,77 @@ msgid ""
 "demands on resources. Switch programs when needed and choose software that "
 "is more sustainable for users and for the environment."
 msgstr ""
+"Özgür ve açık kaynaklı yazılımlar kullanmak, kullanıcılara esneklik tanır. "
+"Yazılımların özkaynaklar üzerindeki taleplerini denetleyebildiğinizde eski "
+"donanımları çok daha uzun süre kullanabilirsiniz. Gerektiğinde başka "
+"programlara geçiş yapabilir ve kullanıcılar ve çevre için daha "
+"sürdürülebilir uygulamalar seçebilirsiniz."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "See all"
 msgid "See All"
 msgstr "Tümünü Gör"
 
 #: i18n/en.yaml:0
 msgid "KDE for Creators"
-msgstr ""
+msgstr "Yaratıcılar için KDE"
 
 #: i18n/en.yaml:0
 msgid ""
 "Creative software tools tailored for artists, designers, and media creators."
 msgstr ""
+"Sanatçılara, tasarımcılara ve ortam üreticilerine özel yaratıcı yazılım "
+"araçları."
 
 #: i18n/en.yaml:0
 msgid "KDE for Gamers"
-msgstr ""
+msgstr "Oyuncular için KDE"
 
 #: i18n/en.yaml:0
 msgid ""
 "Powerful gaming applications for an optimized and immersive gaming "
 "experience."
 msgstr ""
+"Eniyilenmiş ve içine çeken bir oyun deneyimi için güçlü oyun yazılımları ve "
+"altyapısı."
 
 #: i18n/en.yaml:0
 msgid "KDE for Students"
-msgstr ""
+msgstr "Öğrenciler için KDE"
 
 #: i18n/en.yaml:0
 msgid ""
 "Educational software that provides flexible and user-friendly tools for "
 "students."
 msgstr ""
+"Öğrenciler için esnek ve kullanıcı dostu araçlar sağlayan eğitim yazılımları."
 
 #: i18n/en.yaml:0
 msgid "Set Free Your Old Hardware"
-msgstr ""
+msgstr "Eski Donanımını Özgür Kıl"
 
 #: i18n/en.yaml:0
 msgid ""
 "Installing a Free & Open Source operating system takes just 3 steps and the "
 "time needed to enjoy a couple cups of tea."
 msgstr ""
+"Özgür ve açık kaynaklı bir işletim sistemi kurmak yalnızca üç adımdan oluşur "
+"ve siz çayınızı demleyene kadar biter bile!"
 
 #: i18n/en.yaml:0
 msgid "Download a FOSS Operating System"
-msgstr ""
+msgstr "Bir FOSS işletim sistemi indirin"
 
 #: i18n/en.yaml:0
 msgid ""
 "Download the FOSS operating system you want to install. For devices less "
 "than 10 years old, Fedora Linux with KDE spin is our recommendation."
 msgstr ""
+"Kurmak istediğiniz FOSS işletim sistemini indirin. 10 yıldan daha yeni "
+"aygıtlar için Fedora’nın KDE sürümünü öneriyoruz."
 
 #: i18n/en.yaml:0
 msgid "Flash Operating System to a USB Stick"
-msgstr ""
+msgstr "İşletim sistemini bir USB belleğe flaşlayın"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3319,10 +3330,13 @@ msgid ""
 "stick. This will overwrite all data on the USB stick, so make sure to back "
 "up the files you want to keep."
 msgstr ""
+"Kullanımı kolay araçlarla işletim sistemini bir USB belleğe flaşlayın. Bu, "
+"USB bellekteki tüm verinin üzerine yazar; üzerinde verileriniz varsa "
+"yedeğini almayı unutmayın."
 
 #: i18n/en.yaml:0
 msgid "Boot and Install on Computer"
-msgstr ""
+msgstr "Bilgisayarınıza kurun ve önyükleyin"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3331,6 +3345,11 @@ msgid ""
 "Voila! You have set your computer free. Make sure you have backed up any "
 "data you want to keep first."
 msgstr ""
+"Bilgisayarınızı USB’den önyükleyin — bunun için gerekli klavye kısayolunu "
+"öğrenmeniz gerekebilir. “Kur” (Install) seçeneğini seçin ve yönergeleri "
+"izleyin. İşte bu kadar! Artık bilgisayarınızı özgürleştirdiniz. Bu işlemlere "
+"başlamadan önce bilgisayarınızda daha önceden olan verilerinizi "
+"yedeklediğinizden emin olun."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3339,64 +3358,78 @@ msgid ""
 "can use them however you want, for as long as you want. Support for "
 "repairability is a focus for the recommended devices featured here!"
 msgstr ""
+"KDE, paketi açar açmaz size en iyi deneyimi sunabilmek için çeşitli donanım "
+"sağlayıcılarıyla ortaklıklar kurar. Bu aygıtlar özgür ve açık kaynaklı "
+"yazılımları desteklediğinden, onları istediğiniz kadar ve istediğiniz sürece "
+"kullanabilirsiniz. Burada tanıtılan aygıtlar için onarılabilirlik önemli bir "
+"odak noktasıdır!"
 
 #: i18n/en.yaml:0
 msgid "Slimbook"
-msgstr ""
+msgstr "Slimbook"
 
 #: i18n/en.yaml:0
 msgid ""
 "With a FOSS operating system pre-installed and a large catalog of spare "
 "parts, your Slimbook can remain in use for years to come."
 msgstr ""
+"FOSS bir işletim sistemi kurulu gelen ve geniş bir yedek parça kataloğuna "
+"sahip Slimbook, size yıllarca hizmet edebilir."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn More"
 msgid "Learn more"
 msgstr "Daha Fazla Öğren"
 
 #: i18n/en.yaml:0
 msgid "Framework"
-msgstr ""
+msgstr "Framework"
 
 #: i18n/en.yaml:0
 msgid ""
 "By designing hardware to be modular and customizable, a Framework computer "
 "is as easy to repair as snapping in a new part."
 msgstr ""
+"Donanımı olabildiğince modüler ve özelleştirilebilir olarak tasarlanan "
+"Framework bilgisayarları onarmak, eski parçayı çıkarıp yenisini takmak kadar "
+"kolaydır."
 
 #: i18n/en.yaml:0
 msgid "Measure Your Software's Energy Use"
-msgstr ""
+msgstr "Yazılımınızın Enerji Tüketimini Ölçün"
 
 #: i18n/en.yaml:0
 msgid ""
 "Free & Open Source Software has always been about transparency – let's "
 "extend that transparency to software's energy demands."
 msgstr ""
+"Özgür ve açık kaynaklı yazılımlar her zaman saydamlık üzerine kuruludur — bu "
+"saydamlığı, yazılımların enerji taleplerini de kapsayacak biçimde "
+"genişletelim."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Read the KDE Eco Handbook"
-msgstr "KDE Eko El Kitabı"
+msgstr "KDE Eko El Kitabı’nı Oku"
 
 #: i18n/en.yaml:0
 msgid ""
 "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
 "certify software and why it matters."
 msgstr ""
+"“Applying The Blue Angel Criteria To Free Software”, yazılımların nasıl eko "
+"sertifikasyondan geçirilebileceğini ve bunun neden önemli olduğunu ayrıntılı "
+"bir biçimde açıklar."
 
 #: i18n/en.yaml:0
 msgid "Prepare Scripts to Measure Energy Use"
-msgstr ""
+msgstr "Enerji Kullanımını Ölçmek için Betikler Hazırlayın"
 
 #: i18n/en.yaml:0
 msgid ""
 "Energy consumption measurements require a scripted and replicable workflow "
 "of actions."
 msgstr ""
+"Enerji tüketimi ölçümü, bir sıraya konulabilir ve yinelenebilir iş akışı "
+"gerektirir."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3407,18 +3440,20 @@ msgid ""
 "measurement process you will have an energy consumption report ready for "
 "Blue Angel eco certification."
 msgstr ""
+"Bir laboratuvar kurmak, dış bir güçölçer satın almak ve KDE Eko el "
+"kitabındaki laboratuvar kurulum kılavuzunu takip etmek kadar kolaydır. "
+"KEcoLab, geliştiricilerin GitLab’ın CI/CD işlem hattını kullanarak "
+"yazılımlarının enerji tüketimini uzaktan ölçmelerini sağlayarak süreci daha "
+"da kolaylaştırır. Dahası, ölçüm sürecinin sonunda Mavi Melek eko sertifikası "
+"için hazır bir enerji tüketim raporuna sahip olacaksınız."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Repositories"
 msgid "View Repository"
-msgstr "Depolar"
+msgstr "Depoyu Gör"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Use the KDE Eco Handbook"
-msgstr "KDE Eko El Kitabı"
+msgstr "KDE Eko El Kitabı’nı Kullan"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3430,6 +3465,13 @@ msgid ""
 "sustainability, as well as how to set up a dedicated lab to measure your "
 "software's energy consumption."
 msgstr ""
+"“Applying The Blue Angel Criteria To Free Software” el kitabı, yazılımın "
+"çevreye verdiği zarar ve Alman hükümetinin resmi çevre etiketi olan Mavi "
+"Melek eko etiketinin sürdürülebilir yazılım tasarımı için nasıl bir ölçüt "
+"sağladığı hakkında genel bir bakış sunmaktadır. Özgür ve açık kaynak kodlu "
+"yazılımların saydamlık ve kullanıcı özerkliği değerlerinin "
+"sürdürülebilirliği nasıl desteklediğini ve yazılımınızın enerji tüketimini "
+"ölçmek için özel bir laboratuvarın nasıl kurulacağını öğrenin."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3438,14 +3480,17 @@ msgid ""
 "for reproducing computer actions by simulating keyboard and mouse activity. "
 "The tools work on GNU/Linux and Microsoft Windows."
 msgstr ""
+"Ölçümlerinizi kolayca yinelemek için kullanıcı davranışına öykünün. İşte iyi "
+"bilimin yolu budur! KdeEcoTest ve KdeEcoTestCreator, klavye ve fare "
+"etkinliğini benzeştirerek bilgisayar eylemlerini yeniden üretmek için "
+"tasarlanmış Python tabanlı araçlardır. Araçlar GNU/Linux ve Microsoft "
+"Windows üzerinde çalışmaktadır."
 
 #: i18n/en.yaml:0
 msgid "Past Projects"
-msgstr ""
+msgstr "Geçmiş Projeler"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "KDE's Sustainable Software Goal"
 msgstr "KDE’nin Sürdürülebilir Yazılım Hedefi"
 

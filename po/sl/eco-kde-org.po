@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-25 01:50+0000\n"
-"PO-Revision-Date: 2024-10-15 06:56+0200\n"
+"PO-Revision-Date: 2024-10-25 09:59+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -1954,10 +1954,8 @@ msgstr ""
 "trajnostno strojno opremo\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "/blog/thumbnails/opt-green-kde-eco.png"
 msgid "/blog/thumbnails/blog-opt-green-optimized.png"
-msgstr "/blog/thumbnails/opt-green-kde-eco.png"
+msgstr "/blog/thumbnails/blog-opt-green-optimized.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -3189,26 +3187,20 @@ msgid "View all posts"
 msgstr "Poglej vse objave"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog'"
 msgid "News from the blog"
 msgstr "Novice iz bloga"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Opt Green"
 msgid "Be Green"
-msgstr "Opt Green"
+msgstr "Be Green"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Blauer Engel for Free and Open Source Software"
 msgid "Install Free & Open Source Software"
-msgstr "Modri angel za prosto in odprtokodno programsko opremo"
+msgstr "Namestite prosto in odprtokodno programsko opremo"
 
 #: i18n/en.yaml:0
 msgid "Opt Free with FOSS Apps"
-msgstr ""
+msgstr "Odločite se prosto z aplikacijami FOSS"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3216,24 +3208,31 @@ msgid ""
 "transparent, user-focused applications that support open formats, you have "
 "full control, now and in the future."
 msgstr ""
+"Namestite trajnostne aplikacije na kateri koli računalnik in operacijski "
+"sistem. S preglednimi, na uporabnika osredotočenimi aplikacijami, ki "
+"podpirajo odprte formate, imate popoln nadzor zdaj in v prihodnosti."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
-msgstr ""
+msgstr "Osvobodite se s staro strojno opremo"
 
 #: i18n/en.yaml:0
 msgid "Vendors control and kill support for aging hardware, by design."
 msgstr ""
+"Prodajalci nadzirajo in odtegujejo podporo za starajočo se strojno opremo že "
+"po zasnovi."
 
 #: i18n/en.yaml:0
 msgid "Be Free with New Hardware"
-msgstr ""
+msgstr "Bodite svobodni z novo strojno opremo"
 
 #: i18n/en.yaml:0
 msgid ""
 "Switch programs when needed for software that is sustainable for users and "
 "the environment."
 msgstr ""
+"Po potrebi zamenjajte programe za programsko opremo, ki je trajnostna za "
+"uporabnike in okolje."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3242,65 +3241,77 @@ msgid ""
 "demands on resources. Switch programs when needed and choose software that "
 "is more sustainable for users and for the environment."
 msgstr ""
+"Uporaba prostih in odprtokodnih programskih aplikacij omogoča uporabnikom "
+"prilagodljivost. Starejšo strojno opremo lahko uporabljate dlje, če imate "
+"nadzor nad zahtevami programske opreme glede virov. Po potrebi zamenjajte "
+"programe in izberite programsko opremo, ki je bolj trajnostna za uporabnike "
+"in okolje."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "See all"
 msgid "See All"
-msgstr "Poglej vse"
+msgstr "Poglejte vse"
 
 #: i18n/en.yaml:0
 msgid "KDE for Creators"
-msgstr ""
+msgstr "KDE za ustvarjalce"
 
 #: i18n/en.yaml:0
 msgid ""
 "Creative software tools tailored for artists, designers, and media creators."
 msgstr ""
+"Kreativna programska orodja, prilagojena umetnikom, oblikovalcem in "
+"ustvarjalcem medijev."
 
 #: i18n/en.yaml:0
 msgid "KDE for Gamers"
-msgstr ""
+msgstr "KDE za igričarje"
 
 #: i18n/en.yaml:0
 msgid ""
 "Powerful gaming applications for an optimized and immersive gaming "
 "experience."
 msgstr ""
+"Zmogljive igralne aplikacije za optimizirano in poglobljeno igralno izkušnjo."
 
 #: i18n/en.yaml:0
 msgid "KDE for Students"
-msgstr ""
+msgstr "KDE za študente"
 
 #: i18n/en.yaml:0
 msgid ""
 "Educational software that provides flexible and user-friendly tools for "
 "students."
 msgstr ""
+"Izobraževalna programska oprema, ki študentom nudi prilagodljiva in "
+"uporabniku prijazna orodja."
 
 #: i18n/en.yaml:0
 msgid "Set Free Your Old Hardware"
-msgstr ""
+msgstr "Osvobodite svojo staro strojno opremo"
 
 #: i18n/en.yaml:0
 msgid ""
 "Installing a Free & Open Source operating system takes just 3 steps and the "
 "time needed to enjoy a couple cups of tea."
 msgstr ""
+"Namestitev prostega in odprtokodnega operacijskega sistema traja le 3 korake "
+"in čas, potreben za uživanje v nekaj skodelicah čaja."
 
 #: i18n/en.yaml:0
 msgid "Download a FOSS Operating System"
-msgstr ""
+msgstr "Prenesite operacijski sistem FOSS"
 
 #: i18n/en.yaml:0
 msgid ""
 "Download the FOSS operating system you want to install. For devices less "
 "than 10 years old, Fedora Linux with KDE spin is our recommendation."
 msgstr ""
+"Prenesite operacijski sistem FOSS, ki ga želite namestiti. Za naprave mlajše "
+"od 10 let, priporočamo Fedora Linux s spinom KDE."
 
 #: i18n/en.yaml:0
 msgid "Flash Operating System to a USB Stick"
-msgstr ""
+msgstr "Zapišite operacijski sistem na USB ključ"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3308,10 +3319,13 @@ msgid ""
 "stick. This will overwrite all data on the USB stick, so make sure to back "
 "up the files you want to keep."
 msgstr ""
+"Z enim od številnih orodij, ki so preprosta za uporabo, prenesite "
+"operacijski sistem na ključ USB. S tem boste prepisali vse podatke na "
+"ključku USB, zato varnostno kopirajte datoteke, ki jih želite obdržati."
 
 #: i18n/en.yaml:0
 msgid "Boot and Install on Computer"
-msgstr ""
+msgstr "Zaženite in namestite na računalnik"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3320,6 +3334,10 @@ msgid ""
 "Voila! You have set your computer free. Make sure you have backed up any "
 "data you want to keep first."
 msgstr ""
+"Zaženite računalnik z USB-ja – vnaprej boste morali poznati pravilno "
+"kombinacijo tipkovnice. Kliknite \"Namesti (Install)\" in sledite navodilom. "
+"Voila! Svoj računalnik ste osvobodili. A najprej se prepričajte, da ste "
+"varnostno kopirali vse podatke, ki jih želite obdržati."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3328,64 +3346,75 @@ msgid ""
 "can use them however you want, for as long as you want. Support for "
 "repairability is a focus for the recommended devices featured here!"
 msgstr ""
+"KDE sodeluje z več ponudniki strojne opreme, da zagotovi najboljšo izkušnjo "
+"takoj po dobavi. Ker te naprave podpirajo prosto in odprtokodno programsko "
+"opremo, jih lahko uporabljate, kakor želite, kolikor dolgo želite. Podpora "
+"za popravljivost je v središču priporočenih naprav, predstavljenih tukaj!"
 
 #: i18n/en.yaml:0
 msgid "Slimbook"
-msgstr ""
+msgstr "Slimbook"
 
 #: i18n/en.yaml:0
 msgid ""
 "With a FOSS operating system pre-installed and a large catalog of spare "
 "parts, your Slimbook can remain in use for years to come."
 msgstr ""
+"Z vnaprej nameščenim operacijskim sistemom FOSS in velikim katalogom "
+"rezervnih delov lahko vaš Slimbook ostane v uporabi še leta."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn More"
 msgid "Learn more"
 msgstr "Poučite se več"
 
 #: i18n/en.yaml:0
 msgid "Framework"
-msgstr ""
+msgstr "Ogrodje"
 
 #: i18n/en.yaml:0
 msgid ""
 "By designing hardware to be modular and customizable, a Framework computer "
 "is as easy to repair as snapping in a new part."
 msgstr ""
+"Ker je strojna oprema zasnovana tako, da je modularna in prilagodljiva, je "
+"računalnik Framework tako enostavno popraviti, kot če bi vtaknili nov del."
 
 #: i18n/en.yaml:0
 msgid "Measure Your Software's Energy Use"
-msgstr ""
+msgstr "Izmerite porabo energije vaše programske opreme"
 
 #: i18n/en.yaml:0
 msgid ""
 "Free & Open Source Software has always been about transparency – let's "
 "extend that transparency to software's energy demands."
 msgstr ""
+"Prosta in odprtokodna programska oprema je bila vedno povezana s "
+"preglednostjo – razširimo to preglednost na energetske zahteve programske "
+"opreme."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Read the KDE Eco Handbook"
-msgstr "Priročnik KDE Eco"
+msgstr "Preberite priročnik KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
 "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
 "certify software and why it matters."
 msgstr ""
+"\"Uporaba meril modrega angela za prosto programsko opremo\" podrobno "
+"opisuje, kako okoljsko certificirati programsko opremo in zakaj je to "
+"pomembno."
 
 #: i18n/en.yaml:0
 msgid "Prepare Scripts to Measure Energy Use"
-msgstr ""
+msgstr "Pripravite skripte za merjenje porabe energije"
 
 #: i18n/en.yaml:0
 msgid ""
 "Energy consumption measurements require a scripted and replicable workflow "
 "of actions."
 msgstr ""
+"Meritve porabe energije zahtevajo skriptiran in ponovljiv delovni tok dejanj."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3396,18 +3425,20 @@ msgid ""
 "measurement process you will have an energy consumption report ready for "
 "Blue Angel eco certification."
 msgstr ""
+"Nastavitev laboratorija je čisto preprosta z nakupom zunanjega merilnika "
+"moči in sledenju navodilom za namestitev laboratorija v priročniku KDE Eco. "
+"KEcoLab še olajša postopek, saj razvijalcem omogoča oddaljeno merjenje "
+"porabe energije njihove programske opreme z uporabo GitLabovega CI/CD "
+"cevovoda. Še več, na koncu postopka merjenja boste imeli pripravljeno "
+"poročilo o porabi energije za ekološki certifikat Blue Angel."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Repositories"
 msgid "View Repository"
-msgstr "Repozitoriji"
+msgstr "Poglej repozitorij"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Use the KDE Eco Handbook"
-msgstr "Priročnik KDE Eco"
+msgstr "Uporabite priročnik KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3419,6 +3450,14 @@ msgid ""
 "sustainability, as well as how to set up a dedicated lab to measure your "
 "software's energy consumption."
 msgstr ""
+"Priročnik »Uporaba meril modrega angela za prosto programsko opremo - "
+"Applying The Blue Angel Criteria To Free Software« ponuja pregled okoljske "
+"škode, ki jo povzroča programska oprema, in kako oznaka za okolje modri "
+"angel – uradna okoljska oznaka nemške vlade – zagotavlja merilo za "
+"trajnostno zasnovo programske opreme. Naučite se, kako vrednote preglednosti "
+"in avtonomije uporabnika proste in odprtokodne programske opreme spodbujajo "
+"trajnost ter kako vzpostaviti namenski laboratorij za merjenje porabe "
+"energije vaše programske opreme."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3427,16 +3466,19 @@ msgid ""
 "for reproducing computer actions by simulating keyboard and mouse activity. "
 "The tools work on GNU/Linux and Microsoft Windows."
 msgstr ""
+"Posnemajte vedenje uporabnika za enostavno replikacijo svojih meritev. To je "
+"dobra znanost! KdeEcoTest in KdeEcoTestCreator sta orodji, ki temeljita na "
+"Pythonu, zasnovani za reprodukcijo računalniških dejanj s simulacijo "
+"dejavnosti tipkovnice in miške. Orodja delujejo na GNU/Linuxu in Microsoft "
+"Windows."
 
 #: i18n/en.yaml:0
 msgid "Past Projects"
-msgstr ""
+msgstr "Pretekli projekti"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "KDE's Sustainable Software Goal"
-msgstr "Cilj KDE-jeve trajnostne programske opreme"
+msgstr "Cilj KDE trajnostna programska oprema"
 
 #~ msgid "**Get Involved**"
 #~ msgstr "**Bodite vpleteni**"

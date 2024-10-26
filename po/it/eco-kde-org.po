@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-10-25 01:50+0000\n"
-"PO-Revision-Date: 2024-10-15 14:00+0200\n"
+"PO-Revision-Date: 2024-10-25 20:45+0200\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "Language: it\n"
@@ -2008,10 +2008,8 @@ msgstr ""
 "hardware sostenibile»."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
-#, fuzzy
-#| msgid "/blog/thumbnails/opt-green-kde-eco.png"
 msgid "/blog/thumbnails/blog-opt-green-optimized.png"
-msgstr "/blog/thumbnails/opt-green-kde-eco.png"
+msgstr "/blog/thumbnails/blog-opt-green-optimized.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -3268,26 +3266,20 @@ msgid "View all posts"
 msgstr "Visualizza tutti i commenti"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog'"
 msgid "News from the blog"
 msgstr "Notizie dal blog"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Opt Green"
 msgid "Be Green"
-msgstr "Scegliere il verde"
+msgstr "Sii verde"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Blauer Engel for Free and Open Source Software"
 msgid "Install Free & Open Source Software"
-msgstr "Blauer Engel per software libero e open source"
+msgstr "Installa software libero e open source"
 
 #: i18n/en.yaml:0
 msgid "Opt Free with FOSS Apps"
-msgstr ""
+msgstr "Scegli liberamente con le applicazioni FOSS"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3295,24 +3287,31 @@ msgid ""
 "transparent, user-focused applications that support open formats, you have "
 "full control, now and in the future."
 msgstr ""
+"Installa applicazioni sostenibili su qualsiasi computer e sistema operativo. "
+"Con applicazioni trasparenti e incentrate sull'utente che supportano formati "
+"aperti, hai il pieno controllo, ora e in futuro."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
-msgstr ""
+msgstr "Liberati del vecchio hardware"
 
 #: i18n/en.yaml:0
 msgid "Vendors control and kill support for aging hardware, by design."
 msgstr ""
+"I fornitori controllano e interrompono volutamente il supporto per "
+"l'hardware obsoleto."
 
 #: i18n/en.yaml:0
 msgid "Be Free with New Hardware"
-msgstr ""
+msgstr "Sii libero con il nuovo hardware"
 
 #: i18n/en.yaml:0
 msgid ""
 "Switch programs when needed for software that is sustainable for users and "
 "the environment."
 msgstr ""
+"Quando necessario, passa a un software che sia sostenibile per gli utenti e "
+"per l'ambiente."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3321,65 +3320,77 @@ msgid ""
 "demands on resources. Switch programs when needed and choose software that "
 "is more sustainable for users and for the environment."
 msgstr ""
+"L'utilizzo di applicazioni software Free e Open Source offre flessibilità "
+"agli utenti. Puoi utilizzare hardware più datato per più tempo quando hai il "
+"controllo sulle richieste di risorse del software. Cambia programma quando "
+"necessario e scegli software più sostenibile per gli utenti e per l'ambiente."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "See all"
 msgid "See All"
 msgstr "Vedi tutti"
 
 #: i18n/en.yaml:0
 msgid "KDE for Creators"
-msgstr ""
+msgstr "KDE for Creators"
 
 #: i18n/en.yaml:0
 msgid ""
 "Creative software tools tailored for artists, designers, and media creators."
 msgstr ""
+"Strumenti software creativi pensati su misura per artisti, designer e "
+"creatori di contenuti multimediali."
 
 #: i18n/en.yaml:0
 msgid "KDE for Gamers"
-msgstr ""
+msgstr "KDE for Gamers"
 
 #: i18n/en.yaml:0
 msgid ""
 "Powerful gaming applications for an optimized and immersive gaming "
 "experience."
 msgstr ""
+"Applicazioni di gioco potenti per un'esperienza di gioco ottimizzata e "
+"immersiva."
 
 #: i18n/en.yaml:0
 msgid "KDE for Students"
-msgstr ""
+msgstr "KDE for Students"
 
 #: i18n/en.yaml:0
 msgid ""
 "Educational software that provides flexible and user-friendly tools for "
 "students."
 msgstr ""
+"Software didattico che fornisce strumenti flessibili e intuitivi per gli "
+"studenti."
 
 #: i18n/en.yaml:0
 msgid "Set Free Your Old Hardware"
-msgstr ""
+msgstr "Liberati del vecchio hardware"
 
 #: i18n/en.yaml:0
 msgid ""
 "Installing a Free & Open Source operating system takes just 3 steps and the "
 "time needed to enjoy a couple cups of tea."
 msgstr ""
+"Installare un sistema operativo libero e open source richiede solo 3 "
+"passaggi e il tempo necessario per sorseggiare un paio di tazze di tè."
 
 #: i18n/en.yaml:0
 msgid "Download a FOSS Operating System"
-msgstr ""
+msgstr "Scarica un sistema operativo FOSS"
 
 #: i18n/en.yaml:0
 msgid ""
 "Download the FOSS operating system you want to install. For devices less "
 "than 10 years old, Fedora Linux with KDE spin is our recommendation."
 msgstr ""
+"Scarica il sistema operativo FOSS che vuoi installare. Per i dispositivi con "
+"meno di 10 anni, consigliamo Fedora Linux al sapore KDE."
 
 #: i18n/en.yaml:0
 msgid "Flash Operating System to a USB Stick"
-msgstr ""
+msgstr "Scrivi il sistema operativo su una chiavetta USB"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3387,10 +3398,14 @@ msgid ""
 "stick. This will overwrite all data on the USB stick, so make sure to back "
 "up the files you want to keep."
 msgstr ""
+"Con uno dei tanti strumenti facili da usare, scrivi il sistema operativo su "
+"una chiavetta USB. Questo sovrascriverà tutti i dati sulla chiavetta USB, "
+"quindi assicurati di eseguire una copia di sicurezza dei file che vuoi "
+"conservare."
 
 #: i18n/en.yaml:0
 msgid "Boot and Install on Computer"
-msgstr ""
+msgstr "Avviare installa sul computer"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3399,6 +3414,10 @@ msgid ""
 "Voila! You have set your computer free. Make sure you have backed up any "
 "data you want to keep first."
 msgstr ""
+"Avvia il computer da USB: dovrai conoscere in anticipo la combinazione di "
+"tasti corretta. Fai clic su «Installa» e segui le istruzioni. Ecco fatto! "
+"Hai liberato il computer. Assicurati prima di aver eseguito una copia di "
+"sicurezza di tutti i dati che vuoi conservare."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3410,23 +3429,24 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Slimbook"
-msgstr ""
+msgstr "Slimbook"
 
 #: i18n/en.yaml:0
 msgid ""
 "With a FOSS operating system pre-installed and a large catalog of spare "
 "parts, your Slimbook can remain in use for years to come."
 msgstr ""
+"Grazie al sistema operativo FOSS preinstallato e a un ampio catalogo di "
+"parti di ricambio, il tuo Slimbook potrà continuare a funzionare per molti "
+"anni."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn More"
 msgid "Learn more"
 msgstr "Ulteriori informazioni"
 
 #: i18n/en.yaml:0
 msgid "Framework"
-msgstr ""
+msgstr "Framework"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3436,7 +3456,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Measure Your Software's Energy Use"
-msgstr ""
+msgstr "Misura il consumo energetico del tuo software"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3445,10 +3465,8 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Read the KDE Eco Handbook"
-msgstr "Manuale di KDE Eco"
+msgstr "Leggi il manuale di KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3458,13 +3476,15 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Prepare Scripts to Measure Energy Use"
-msgstr ""
+msgstr "Preparare gli script per misurare l'uso dell'energia"
 
 #: i18n/en.yaml:0
 msgid ""
 "Energy consumption measurements require a scripted and replicable workflow "
 "of actions."
 msgstr ""
+"Le misurazioni del consumo energetico richiedono un flusso di lavoro di "
+"azioni programmato e replicabile."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3477,16 +3497,12 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Repositories"
 msgid "View Repository"
-msgstr "Depositi"
+msgstr "Visualizza deposito"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Use the KDE Eco Handbook"
-msgstr "Manuale di KDE Eco"
+msgstr "Utilizza il manuale di KDE Eco"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3509,11 +3525,9 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Past Projects"
-msgstr ""
+msgstr "Progetti passati"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE’s Sustainable Software Goal"
 msgid "KDE's Sustainable Software Goal"
 msgstr "Obiettivo del software sostenibile di KDE"
 
