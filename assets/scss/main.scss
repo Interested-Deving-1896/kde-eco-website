@@ -167,6 +167,12 @@ body {
 
 /* Global Styles */
 
+body {
+  @media (prefers-color-scheme: dark) {
+    background-color: #272927;
+  }
+}
+
 .section-green {
   background-color: #266b24;
   color: white;
@@ -183,6 +189,10 @@ body {
 
 .section-gray {
   background-color: #f4f2ec;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: #2e302e;
+  }
 }
 
 .tags a {
