@@ -1,0 +1,123 @@
+{{ define "main" }}
+
+<main id="home">
+
+  <section class="home-jumbotron background text-light mt-0" >
+    <div class="container">
+      <h1 class="header">{{ i18n "home.header" }}</h1>
+      <p class="subtitle">{{ i18n "home.header-subtitle" }}</p>
+    </div>
+  </section>
+
+  <section class="py-4 mb-4 d-flex align-items-center">
+	<div class="container">
+	  <div class="row">
+		<div class="col-md-4 mt-4 py-5 text-center">
+		  <img class="svg-icon" src="/make-green/images/measure-icon.png" alt="{{ i18n "make-green.measure.title" }}" />
+		  <h4 class="fw-bold">{{ i18n "make-green.measure.title" }}</h4>
+		  <p>{{ i18n "make-green.measure.description" }}</p>
+		  <a class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+		</div>
+		<div class="col-md-4 mt-4 py-5 text-center">
+		  <img class="svg-icon" src="/make-green/images/kde-eco-handbook-icon.png" alt="{{ i18n "make-green.read.title" }}" />
+		  <h4 class="fw-bold">{{ i18n "make-green.read.title" }}</h4>
+		  <p>{{ i18n "make-green.read.description" }}</p>
+		  <a class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+		</div>
+		<div class="col-md-4 mt-4 py-5 text-center">
+		  <img class="svg-icon" src="/make-green/images/prepare-scripts-icon.png" alt="{{ i18n "make-green.prepare.title" }}" />
+		  <h4 class="fw-bold">{{ i18n "make-green.prepare.title" }}</h4>
+		  <p>{{ i18n "make-green.prepare.description" }}</p>
+		  <a class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+		</div>
+	  </div>
+	</div>
+  </section>
+
+  <section class="section-green py-4 mb-4 d-flex align-items-center">
+	<div class="container">
+	  <div class="row align-items-center">
+		<div class="col-md-6">
+		  <img src="/make-green/images/measure-image-optimized.png" alt="{{ i18n "make-green.measure-section.title" }}" class="img-fluid" />
+		</div>
+		<div class="col-md-6">
+		  <h2 class="text-left">{{ i18n "make-green.measure-section.title" }}</h2>
+		  <p>{{ i18n "make-green.measure-section.description" }}</p>
+		  <a href="https://invent.kde.org/teams/eco/remote-eco-lab" class="btn btn-success">{{ i18n "make-green.measure-section.button" }}</a>
+		</div>
+	  </div>
+	</div>
+  </section>
+
+  <section class="py-4 mb-4 d-flex align-items-center">
+	<div class="container">
+	  <div class="row align-items-center">
+		<div class="col-md-6">
+		  <h2 class="text-left">{{ i18n "make-green.handbook.title" }}</h2>
+		  <p>{{ i18n "make-green.handbook.description" }}</p>
+		  <a href="https://eco.kde.org/handbook" class="btn btn-success">{{ i18n "make-green.handbook.button" }}</a>
+		</div>
+		<div class="col-md-6">
+		  <img src="/make-green/images/handbook-image-optimized.png" alt="{{ i18n "make-green.handbook.title" }}" class="img-fluid" />
+		</div>
+	  </div>
+	</div>
+  </section>
+
+  <section class="section-green py-4 mb-4 d-flex align-items-center">
+	<div class="container">
+	  <div class="row align-items-center">
+		<div class="col-md-6">
+		  <img src="/make-green/images/prepare-scripts-image-optimized.png" alt="{{ i18n "make-green.script-section.title" }}" class="img-fluid" />
+		</div>
+		<div class="col-md-6">
+		  <h2 class="text-left">{{ i18n "make-green.script-section.title" }}</h2>
+		  <p>{{ i18n "make-green.script-section.description" }}</p>
+		  <a href="https://invent.kde.org/teams/eco/feep/-/tree/master/tools/KdeEcoTest" class="btn btn-success">{{ i18n "make-green.script-section.button" }}</a>
+		</div>
+	  </div>
+	</div>
+  </section>
+  
+  <section class="py-4 mb-4 d-flex align-items-center">
+	<div class="container">
+	  <div class="row">
+		<div class="col-12">
+		  <h2 class="text-left">{{ i18n "make-green.past-projects-section.title" }}</h2>
+		</div>
+	  </div>
+	  <div class="row g-4 mt-4">
+		<div class="col-12 col-md-4">
+		  <a href="https://community.kde.org/Goals/Sustainable_Software">
+			<div class="card h-100">
+			  <img src="/make-green/images/past-projects-sustainable-software-goal-optimized.png" alt="{{ i18n "make-green.past-projects-section.sustainable-goal.title" }}" class="card-img-top" />
+			  <div class="card-body">
+				<h4 class="card-title">{{ i18n "make-green.past-projects-section.sustainable-goal.title" }}</h4>
+			  </div>
+			</div>
+		  </a>
+		</div>
+		<div class="col-12 col-md-4">
+		  <a href="https://invent.kde.org/teams/eco/feep">
+			<div class="card h-100">
+			  <img src="/make-green/images/past-projects-feep-optimized.png" alt="{{ i18n "make-green.past-projects-section.feep.title" }}" class="card-img-top" />
+			  <div class="card-body">
+				<h4 class="card-title">{{ i18n "make-green.past-projects-section.feep.title" }}</h4>
+			  </div>
+			</div>
+		  </a>
+		</div>
+		<div class="col-12 col-md-4">
+		  <a href="https://invent.kde.org/teams/eco/be4foss">
+			<div class="card h-100">
+			  <img src="/make-green/images/past-projects-be4foss-optimized.png" alt="{{ i18n "make-green.past-projects-section.be4foss.title" }}" class="card-img-top" />
+			  <div class="card-body">
+				<h4 class="card-title">{{ i18n "make-green.past-projects-section.be4foss.title" }}</h4>
+			  </div>
+			</div>
+		  </a>
+		</div>
+	  </div>
+	</div>
+  </section>
+{{ end }}
