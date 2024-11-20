@@ -2,49 +2,99 @@
 // SPDX-FileCopyrightText: 2022 Nguyen Hung Phu <phu.nguyen@kdemail.net>
 // SPDX-License-Identifier: LGPL-2.1-or-later
 
-.feature,
-.hosted-green {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+/* Typography Styles */
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
+
+h1 {
+  font-family: "Noto Sans Mono", monospace;
+  font-weight: 500;
+  font-size: 3.4375rem; /* 55px */
+  line-height: 1.2;
 }
 
-.feature > div,
-.hosted-green > div {
-  padding: 20px;
-}
-.feature > div:first-child {
-  flex-basis: 75%;
-}
-
-.feature > div:last-child {
-  flex-basis: 25%;
+h2 {
+  font-family: "Noto Sans Mono", monospace;
+  font-weight: 500;
+  font-size: 2.125rem; /* 34px */
+  line-height: 1.2;
 }
 
-.feature > div.party {
-  flex-basis: 75%;
+h4 {
+  font-family: "Noto Sans Mono", monospace;
+  font-weight: 500;
+  font-size: 1.3125rem; /* 21px */
+  line-height: 1.2;
 }
 
-.hosted-green > div:first-child {
-  flex-basis: 35%;
+h6 {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 700;
+  font-size: 1rem; /* 16px */
+  line-height: 1.2;
 }
 
-@media (min-width: 800px) {
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400; /* Regular */
+  font-size: 1rem; /* 16px */
+  line-height: 1.2;
+}
+
+/* Home Page Styles */
+
+#home {
+  .container {
+    max-width: 1500px;
+  }
+
+  .btn-primary {
+    color: white;
+  }
+
   .feature,
   .hosted-green {
-    flex-direction: row;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
-  .feature:nth-child(2n + 1) > div:first-child {
-    order: 1;
+
+  .feature > div,
+  .hosted-green > div {
+    padding: 20px;
   }
-  .feature:nth-child(2n + 1) > div:last-child {
-    order: 0;
+  .feature > div:first-child {
+    flex-basis: 75%;
+  }
+
+  .feature > div:last-child {
+    flex-basis: 25%;
+  }
+
+  .feature > div.party {
+    flex-basis: 75%;
+  }
+
+  .hosted-green > div:first-child {
+    flex-basis: 35%;
+  }
+
+  @media (min-width: 800px) {
+    .feature,
+    .hosted-green {
+      flex-direction: row;
+    }
+    .feature:nth-child(2n + 1) > div:first-child {
+      order: 1;
+    }
+    .feature:nth-child(2n + 1) > div:last-child {
+      order: 0;
+    }
   }
 }
 
 .card {
-
   border: none;
   background-color: rgba(33, 37, 41, 0.06);
   border-radius: 12px 12px 12px 12px;
@@ -65,52 +115,6 @@
   }
 }
 
-#home {
-  h1 {
-    font-size: 3.434rem;
-  }
-
-  h2 {
-    font-size: 2.1rem;
-  }
-
-  h4 {
-    font-size: 1.312rem;
-  }
-
-  p {
-    font-size: 1rem;
-  }
-
-  .container {
-    max-width: 1500px;
-  }
-
-  .btn-primary {
-    color: white;
-  }
-
-}
-
-#make-green {
-  .card-title  {
-    margin: 0;
-    padding: 0.2em;
-  }
-
-  
-}
-
-.icon {
-  max-height: 5em;
-}
-
-#be-green { 
-  .card p {
-    color: black;
-  }
-}
-
 .home-jumbotron {
   background-size: cover;
   padding: 6em 10%;
@@ -122,14 +126,6 @@
 
   width: 100vw;
   height: 34rem;
-
-  h1 {
-    font-size: 5rem;
-  }
-
-  p {
-    font-size: 2rem;
-  }
 
   @media screen and (max-width: 600px) {
     height: 35em;
@@ -146,6 +142,47 @@
 .home-jumbotron.background {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url(/images/dave-hoefler-UFnHt94r91w-unsplash.jpg);
+}
+
+/* Make Green Page Styles */
+
+#make-green {
+  .card-title {
+    margin: 0;
+    padding: 0.2em;
+  }
+
+  .icon {
+    max-height: 5em;
+  }
+}
+
+/* Make Green Page Styles */
+
+#be-green {
+  .card p {
+    color: black;
+  }
+}
+
+/* Global Styles */
+
+.section-green {
+  background-color: #266b24;
+  color: white;
+
+  a {
+    color: white;
+  }
+
+  .svg-icon,
+  .info-icon {
+    filter: invert(1);
+  }
+}
+
+.section-gray {
+  background-color: #f4f2ec;
 }
 
 .tags a {
@@ -196,7 +233,8 @@ html {
     color: white;
   }
 
-  .svg-icon, .info-icon {
+  .svg-icon,
+  .info-icon {
     filter: invert(1);
   }
 
@@ -210,12 +248,11 @@ html {
     border-radius: 12px 12px 12px 12px;
   }
 
-  #be-green { 
+  #be-green {
     .card p {
       filter: invert(1);
     }
   }
-  
 }
 
 .handbook {
