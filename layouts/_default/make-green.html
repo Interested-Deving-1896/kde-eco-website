@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<main id="home">
+<main id="make-green">
 
   <section class="home-jumbotron background text-light mt-0" >
     <div class="container">
@@ -13,67 +13,67 @@
 	<div class="container">
 	  <div class="row">
 		<div class="col-md-4 mt-4 py-5 text-center">
-		  <img class="svg-icon" src="/make-green/images/measure-icon.png" alt="{{ i18n "make-green.measure.title" }}" />
+		  <img src="/make-green/images/measure-icon.png" alt="{{ i18n "make-green.measure.title" }}" />
 		  <h4 class="fw-bold">{{ i18n "make-green.measure.title" }}</h4>
 		  <p>{{ i18n "make-green.measure.description" }}</p>
-		  <a class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+		  <a class="btn btn-link" >{{ i18n "home.learn-more" }}</a>
 		</div>
 		<div class="col-md-4 mt-4 py-5 text-center">
-		  <img class="svg-icon" src="/make-green/images/kde-eco-handbook-icon.png" alt="{{ i18n "make-green.read.title" }}" />
+		  <img src="/make-green/images/kde-eco-handbook-icon.png" alt="{{ i18n "make-green.read.title" }}" />
 		  <h4 class="fw-bold">{{ i18n "make-green.read.title" }}</h4>
 		  <p>{{ i18n "make-green.read.description" }}</p>
-		  <a class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+		  <a class="btn btn-link" href="#handbook">{{ i18n "home.learn-more" }}</a>
 		</div>
 		<div class="col-md-4 mt-4 py-5 text-center">
-		  <img class="svg-icon" src="/make-green/images/prepare-scripts-icon.png" alt="{{ i18n "make-green.prepare.title" }}" />
+		  <img class="py-3" src="/make-green/images/prepare-scripts-icon.png" alt="{{ i18n "make-green.prepare.title" }}" />
 		  <h4 class="fw-bold">{{ i18n "make-green.prepare.title" }}</h4>
-		  <p>{{ i18n "make-green.prepare.description" }}</p>
-		  <a class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+		  <p >{{ i18n "make-green.prepare.description" }}</p>
+		  <a class="btn btn-link" href="#scripts">{{ i18n "home.learn-more" }}</a>
 		</div>
 	  </div>
 	</div>
   </section>
 
-  <section class="section-green py-4 mb-4 d-flex align-items-center">
-	<div class="container">
-	  <div class="row align-items-center">
+  <section id="measure" class="section-green py-4 d-flex align-items-center">
+	<div class="container py-4">
+	  <div class="row gx-3 gy-3 align-items-center">
 		<div class="col-md-6">
 		  <img src="/make-green/images/measure-image-optimized.png" alt="{{ i18n "make-green.measure-section.title" }}" class="img-fluid" />
 		</div>
 		<div class="col-md-6">
 		  <h2 class="text-left">{{ i18n "make-green.measure-section.title" }}</h2>
 		  <p>{{ i18n "make-green.measure-section.description" }}</p>
-		  <a href="https://invent.kde.org/teams/eco/remote-eco-lab" class="btn btn-success">{{ i18n "make-green.measure-section.button" }}</a>
+		  <a href="https://invent.kde.org/teams/eco/remote-eco-lab" class="btn btn-success w-100 my-2">{{ i18n "make-green.measure-section.button" }}</a>
 		</div>
 	  </div>
 	</div>
   </section>
 
-  <section class="py-4 mb-4 d-flex align-items-center">
-	<div class="container">
-	  <div class="row align-items-center">
-		<div class="col-md-6">
-		  <h2 class="text-left">{{ i18n "make-green.handbook.title" }}</h2>
-		  <p>{{ i18n "make-green.handbook.description" }}</p>
-		  <a href="https://eco.kde.org/handbook" class="btn btn-success">{{ i18n "make-green.handbook.button" }}</a>
-		</div>
-		<div class="col-md-6">
+  <section id="handbook" class="py-4 d-flex align-items-center">
+	<div class="container py-4">
+	  <div class="row gx-3 gy-3 align-items-center">
+		<div class="col-md-6 order-1 order-md-2 text-center text-md-end">
 		  <img src="/make-green/images/handbook-image-optimized.png" alt="{{ i18n "make-green.handbook.title" }}" class="img-fluid" />
 		</div>
+		<div class="col-md-6 order-2 order-md-1">
+		  <h2 class="text-left">{{ i18n "make-green.handbook.title" }}</h2>
+		  <p>{{ i18n "make-green.handbook.description" }}</p>
+		  <a href="https://eco.kde.org/handbook" class="btn btn-success w-100 my-2">{{ i18n "make-green.handbook.button" }}</a>
+		</div>
 	  </div>
 	</div>
   </section>
-
-  <section class="section-green py-4 mb-4 d-flex align-items-center">
-	<div class="container">
-	  <div class="row align-items-center">
-		<div class="col-md-6">
+  
+  <section id="scripts" class="section-green py-5 d-flex align-items-center">
+	<div class="container py-4">
+	  <div class="row gx-3 gy-3 align-items-center">
+		<div class="col-md-6 col-lg-5">
 		  <img src="/make-green/images/prepare-scripts-image-optimized.png" alt="{{ i18n "make-green.script-section.title" }}" class="img-fluid" />
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-6 col-lg-7">
 		  <h2 class="text-left">{{ i18n "make-green.script-section.title" }}</h2>
 		  <p>{{ i18n "make-green.script-section.description" }}</p>
-		  <a href="https://invent.kde.org/teams/eco/feep/-/tree/master/tools/KdeEcoTest" class="btn btn-success">{{ i18n "make-green.script-section.button" }}</a>
+		  <a href="https://invent.kde.org/teams/eco/feep/-/tree/master/tools/KdeEcoTest" class="btn btn-success w-100 my-2">{{ i18n "make-green.script-section.button" }}</a>
 		</div>
 	  </div>
 	</div>
