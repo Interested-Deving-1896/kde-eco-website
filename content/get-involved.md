@@ -2,6 +2,9 @@
 title: Get Involved
 subtitle: Become a part of the sustainable software movement! 
 name: KDE Eco
+menu:
+  main:
+    weight: 5
 userbase: KDE Eco
 ---
 We need as many motivated people as possible to drive this forward. Here are some channels where you can get more information and contribute.
