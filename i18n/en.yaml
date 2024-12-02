@@ -168,7 +168,7 @@ make-green.header:
 make-green.header-subtitle:
   other: Develop Energy-Efficient Free & Open Source Software 
 make-green.measure.title:
-  other: Measure Your Software's Energy Use
+  other: Measure Software Energy Use
 make-green.measure.description:
   other: Free & Open Source Software has always been about transparency – let's extend that transparency to software's energy demands.
 home.learn-more:

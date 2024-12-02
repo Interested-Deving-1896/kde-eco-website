@@ -152,9 +152,6 @@ body {
     padding: 0.2em;
   }
 
-  .icon {
-    max-height: 5em;
-  }
 }
 
 /* Make Green Page Styles */
@@ -168,6 +165,10 @@ body {
 /* Global Styles */
 .subtitle {
   font-size: 1.75rem;
+}
+
+.icon {
+  height: 5em;
 }
 
 body {
