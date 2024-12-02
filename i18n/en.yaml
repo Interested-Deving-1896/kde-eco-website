@@ -102,7 +102,7 @@ be-green.header-subtitle:
 be-green.opt-free.title:
   other: Opt Free with FOSS Apps
 be-green.opt-free.description:
-  other: Install sustainable apps on any computer and operating system. With transparent, user-focused applications that support open formats, you have full control, now and in the future.
+  other: Install sustainable apps on any computer and operating system.
 be-green.set-free.title:
   other: Set Free with Old Hardware
 be-green.set-free.description:
@@ -163,6 +163,10 @@ be-green.be-free-section.framework-description:
   other: By designing hardware to be modular and customizable, a Framework computer is as easy to repair as snapping in a new part.
 be-green.be-free-section.framework-button:
   other: Learn more
+make-green.header:
+  other: Make Green
+make-green.header-subtitle:
+  other: Develop Energy-Efficient Free & Open Source Software 
 make-green.measure.title:
   other: Measure Your Software's Energy Use
 make-green.measure.description:
