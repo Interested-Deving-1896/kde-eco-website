@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-20 01:52+0000\n"
+"POT-Creation-Date: 2024-12-03 01:51+0000\n"
 "PO-Revision-Date: 2024-10-18 11:30+0200\n"
 "Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -28,6 +28,10 @@ msgstr ""
 #: config.yaml:0
 msgid "Donate"
 msgstr "Přispějte"
+
+#: content/be-green/_index.md:0 i18n/en.yaml:0
+msgid "Be Green"
+msgstr ""
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
@@ -2223,10 +2227,6 @@ msgstr ""
 #| msgid "News from the blog'"
 msgid "News from the blog"
 msgstr "Novinky z blogu'"
-
-#: i18n/en.yaml:0
-msgid "Be Green"
-msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Install Free & Open Source Software"

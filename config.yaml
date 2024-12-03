@@ -19,6 +19,7 @@ i18n:
       - content/blog/post-1.md
       globs:
       - content/BE4FOSS/*.md
+      - content/be-green/*.md
       - content/FEEP/*.md
       - content/sustainable-goal/*.md
   genToOtherDir: true

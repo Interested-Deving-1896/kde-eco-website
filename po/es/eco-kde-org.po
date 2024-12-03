@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-20 01:52+0000\n"
+"POT-Creation-Date: 2024-12-03 01:51+0000\n"
 "PO-Revision-Date: 2024-11-10 12:10+0100\n"
 "Last-Translator: David Marzal <mundolibre@tutanota.com>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
@@ -29,6 +29,10 @@ msgstr "Creando software libre energéticamente eficiente"
 #: config.yaml:0
 msgid "Donate"
 msgstr "Hacer un donativo"
+
+#: content/be-green/_index.md:0 i18n/en.yaml:0
+msgid "Be Green"
+msgstr "Be Green"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
@@ -3029,10 +3033,6 @@ msgstr "Ver todas las publicaciones"
 #: i18n/en.yaml:0
 msgid "News from the blog"
 msgstr "Noticias del blog"
-
-#: i18n/en.yaml:0
-msgid "Be Green"
-msgstr "Be Green"
 
 #: i18n/en.yaml:0
 msgid "Install Free & Open Source Software"
