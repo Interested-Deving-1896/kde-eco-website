@@ -20,6 +20,7 @@ i18n:
       globs:
       - content/BE4FOSS/*.md
       - content/be-green/*.md
+      - content/make-green/*.md
       - content/FEEP/*.md
       - content/sustainable-goal/*.md
   genToOtherDir: true
