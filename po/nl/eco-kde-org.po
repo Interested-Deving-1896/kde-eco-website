@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-11-20 01:52+0000\n"
+"POT-Creation-Date: 2024-12-03 01:51+0000\n"
 "PO-Revision-Date: 2024-11-21 00:19+0100\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
@@ -28,6 +28,10 @@ msgstr "Energie-efficiënte vrije software bouwen"
 #: config.yaml:0
 msgid "Donate"
 msgstr "Doneren"
+
+#: content/be-green/_index.md:0 i18n/en.yaml:0
+msgid "Be Green"
+msgstr "Wees groen"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
@@ -3241,10 +3245,6 @@ msgstr "Alle berichten bekijken"
 #: i18n/en.yaml:0
 msgid "News from the blog"
 msgstr "Nieuws het het blog"
-
-#: i18n/en.yaml:0
-msgid "Be Green"
-msgstr "Wees groen"
 
 #: i18n/en.yaml:0
 msgid "Install Free & Open Source Software"
