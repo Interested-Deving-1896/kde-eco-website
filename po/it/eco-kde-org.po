@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-03 01:51+0000\n"
+"POT-Creation-Date: 2024-12-04 01:52+0000\n"
 "PO-Revision-Date: 2024-11-21 00:55+0100\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -2864,7 +2864,7 @@ msgstr "Partecipa"
 msgid "Become a part of the sustainable software movement!"
 msgstr "Entra a far parte del movimento del software sostenibile!"
 
-#: content/get-involved.md:7
+#: content/get-involved.md:10
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
@@ -2873,11 +2873,11 @@ msgstr ""
 "avanti. Ecco alcuni canali dove puoi ottenere maggiori informazioni e "
 "contribuire."
 
-#: content/get-involved.md:9
+#: content/get-involved.md:12
 msgid "Community & Support"
 msgstr "Supporto e comunità"
 
-#: content/get-involved.md:11
+#: content/get-involved.md:14
 msgid ""
 "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/"
 "+1:00) (contact us for details)"
@@ -2885,13 +2885,13 @@ msgstr ""
 "Incontro mensile (videoconferenza): 2° mercoledì 19:00 CEST/CET (UTC+2:00/"
 "+1:00) (contattaci per i dettagli)"
 
-#: content/get-involved.md:12
+#: content/get-involved.md:15
 msgid ""
 "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgstr ""
 "Stanza Matrix (discussione): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 
-#: content/get-involved.md:13
+#: content/get-involved.md:16
 msgid ""
 "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
 "eco-discuss"
@@ -2899,7 +2899,7 @@ msgstr ""
 "Lista di distribuzione (discussione): https://mail.kde.org/cgi-bin/mailman/"
 "listinfo/kde-eco-discuss"
 
-#: content/get-involved.md:14
+#: content/get-involved.md:17
 msgid ""
 "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "kde-eco-announce"
@@ -2907,11 +2907,11 @@ msgstr ""
 "Lista di distribuzione (annunci): https://mail.kde.org/cgi-bin/mailman/"
 "listinfo/kde-eco-announce"
 
-#: content/get-involved.md:16
+#: content/get-involved.md:19
 msgid "Resources"
 msgstr "Risorse"
 
-#: content/get-involved.md:18
+#: content/get-involved.md:21
 msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
@@ -2919,7 +2919,7 @@ msgstr ""
 "Obiettivo del software sostenibile (wiki della comunità): https://community."
 "kde.org/Goals/Sustainable_Software"
 
-#: content/get-involved.md:19
+#: content/get-involved.md:22
 msgid ""
 "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
 "opt-green"
@@ -2927,7 +2927,7 @@ msgstr ""
 "Progetto «Opt Green» (deposito GitLab): https://invent.kde.org/teams/eco/opt-"
 "green"
 
-#: content/get-involved.md:20
+#: content/get-involved.md:23
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
@@ -2935,15 +2935,15 @@ msgstr ""
 "Remote Eco Lab (deposito GitLab): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
 
-#: content/get-involved.md:21
+#: content/get-involved.md:24
 msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
 msgstr "FEEP (deposito GitLab): https://invent.kde.org/teams/eco/feep"
 
-#: content/get-involved.md:22
+#: content/get-involved.md:25
 msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgstr "BE4FOSS (deposito GitLab): https://invent.kde.org/teams/eco/be4foss"
 
-#: content/get-involved.md:23
+#: content/get-involved.md:26
 msgid ""
 "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
 "eco/blue-angel-application"
@@ -2951,13 +2951,25 @@ msgstr ""
 "Applicazioni Blue Angel (deposito GitLab): https://invent.kde.org/teams/eco/"
 "blue-angel-application"
 
-#: content/get-involved.md:25
+#: content/get-involved.md:28
 msgid "Contact"
 msgstr "Contatto"
 
-#: content/get-involved.md:27
+#: content/get-involved.md:30
 msgid "Email: `joseph [at] kde.org`"
 msgstr "Email: `joseph [at] kde.org`"
+
+#: content/make-green/_index.md:0 i18n/en.yaml:0
+#, fuzzy
+#| msgid "Be Green"
+msgid "Make Green"
+msgstr "Sii verde"
+
+#: content/make-green/_index.md:0
+#, fuzzy
+#| msgid "Make Green (Dev)"
+msgid "Make green"
+msgstr "Creare verde (sviluppatore)"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -3282,14 +3294,8 @@ msgid "Opt Free with FOSS Apps"
 msgstr "Scegli liberamente con le applicazioni FOSS"
 
 #: i18n/en.yaml:0
-msgid ""
-"Install sustainable apps on any computer and operating system. With "
-"transparent, user-focused applications that support open formats, you have "
-"full control, now and in the future."
+msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
-"Installa applicazioni sostenibili su qualsiasi computer e sistema operativo. "
-"Con applicazioni trasparenti e incentrate sull'utente che supportano formati "
-"aperti, hai il pieno controllo, ora e in futuro."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
@@ -3462,7 +3468,15 @@ msgstr ""
 "Framework è facile da riparare quanto sostituire un pezzo nuovo."
 
 #: i18n/en.yaml:0
-msgid "Measure Your Software's Energy Use"
+#, fuzzy
+#| msgid "Building Energy-Efficient Free Software"
+msgid "Develop Energy-Efficient Free & Open Source Software"
+msgstr "Creazione di software gratuito a basso consumo energetico"
+
+#: i18n/en.yaml:0
+#, fuzzy
+#| msgid "Measure Your Software's Energy Use"
+msgid "Measure Software Energy Use"
 msgstr "Misura il consumo energetico del tuo software"
 
 #: i18n/en.yaml:0
@@ -3496,6 +3510,10 @@ msgid ""
 msgstr ""
 "Le misurazioni del consumo energetico richiedono un flusso di lavoro di "
 "azioni programmato e replicabile."
+
+#: i18n/en.yaml:0
+msgid "Measure Your Software's Energy Use"
+msgstr "Misura il consumo energetico del tuo software"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3561,6 +3579,15 @@ msgstr "Progetti passati"
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
 msgstr "Obiettivo del software sostenibile di KDE"
+
+#~ msgid ""
+#~ "Install sustainable apps on any computer and operating system. With "
+#~ "transparent, user-focused applications that support open formats, you "
+#~ "have full control, now and in the future."
+#~ msgstr ""
+#~ "Installa applicazioni sostenibili su qualsiasi computer e sistema "
+#~ "operativo. Con applicazioni trasparenti e incentrate sull'utente che "
+#~ "supportano formati aperti, hai il pieno controllo, ora e in futuro."
 
 #~ msgid "**Get Involved**"
 #~ msgstr "**Partecipa**"

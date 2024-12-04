@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-03 01:51+0000\n"
+"POT-Creation-Date: 2024-12-04 01:52+0000\n"
 "PO-Revision-Date: 2024-07-25 21:44+0200\n"
 "Last-Translator: Frank Steinmetzger <dev-kde@felsenfleischer.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -2221,7 +2221,7 @@ msgid "Become a part of the sustainable software movement!"
 msgstr ""
 "Machen Sie mit bei der Bewegung für eine nachhaltige Softwareentwicklung!"
 
-#: content/get-involved.md:7
+#: content/get-involved.md:10
 #, fuzzy
 #| msgid ""
 #| "We need as many motivated people as possible to drive this forward. Here "
@@ -2234,13 +2234,13 @@ msgstr ""
 "voranzutreiben. Hier sind einige Kanäle, über die Sie weitere Informationen "
 "erhalten und sich engagieren können."
 
-#: content/get-involved.md:9
+#: content/get-involved.md:12
 #, fuzzy
 #| msgid "Community Support"
 msgid "Community & Support"
 msgstr "Community Support"
 
-#: content/get-involved.md:11
+#: content/get-involved.md:14
 #, fuzzy
 #| msgid ""
 #| "BigBlueButton : Monthly meet-ups, 2nd Wednesdays 17:00 UTC (contact us "
@@ -2252,7 +2252,7 @@ msgstr ""
 "BigBlueButton: Monatliche Treffen, 2. Mittwoch 19:00 CET/CEST (kontaktieren "
 "Sie uns für Details)"
 
-#: content/get-involved.md:12
+#: content/get-involved.md:15
 #, fuzzy
 #| msgid ""
 #| "Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
@@ -2260,7 +2260,7 @@ msgid ""
 "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgstr "Matrix-Raum: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
 
-#: content/get-involved.md:13
+#: content/get-involved.md:16
 #, fuzzy
 #| msgid ""
 #| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
@@ -2271,7 +2271,7 @@ msgid ""
 msgstr ""
 "Mailingliste: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency"
 
-#: content/get-involved.md:14
+#: content/get-involved.md:17
 #, fuzzy
 #| msgid ""
 #| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
@@ -2282,17 +2282,17 @@ msgid ""
 msgstr ""
 "Mailingliste: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency"
 
-#: content/get-involved.md:16
+#: content/get-involved.md:19
 msgid "Resources"
 msgstr ""
 
-#: content/get-involved.md:18
+#: content/get-involved.md:21
 msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 msgstr ""
 
-#: content/get-involved.md:19
+#: content/get-involved.md:22
 #, fuzzy
 #| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid ""
@@ -2300,7 +2300,7 @@ msgid ""
 "opt-green"
 msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
 
-#: content/get-involved.md:20
+#: content/get-involved.md:23
 #, fuzzy
 #| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid ""
@@ -2308,19 +2308,19 @@ msgid ""
 "eco-lab"
 msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
 
-#: content/get-involved.md:21
+#: content/get-involved.md:24
 #, fuzzy
 #| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
 msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
 
-#: content/get-involved.md:22
+#: content/get-involved.md:25
 #, fuzzy
 #| msgid "BE4FOSS GitLab repository: https://invent.kde.org/joseph/be4foss"
 msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgstr "BE4FOSS-GitLab-Repository: https://invent.kde.org/teams/eco/be4foss"
 
-#: content/get-involved.md:23
+#: content/get-involved.md:26
 #, fuzzy
 #| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid ""
@@ -2328,13 +2328,21 @@ msgid ""
 "eco/blue-angel-application"
 msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
 
-#: content/get-involved.md:25
+#: content/get-involved.md:28
 msgid "Contact"
 msgstr "Kontakt"
 
-#: content/get-involved.md:27
+#: content/get-involved.md:30
 msgid "Email: `joseph [at] kde.org`"
 msgstr "Email: `joseph [at] kde.org`"
+
+#: content/make-green/_index.md:0 i18n/en.yaml:0
+msgid "Make Green"
+msgstr ""
+
+#: content/make-green/_index.md:0
+msgid "Make green"
+msgstr ""
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -2622,10 +2630,7 @@ msgid "Opt Free with FOSS Apps"
 msgstr ""
 
 #: i18n/en.yaml:0
-msgid ""
-"Install sustainable apps on any computer and operating system. With "
-"transparent, user-focused applications that support open formats, you have "
-"full control, now and in the future."
+msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -2765,7 +2770,13 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-msgid "Measure Your Software's Energy Use"
+#, fuzzy
+#| msgid "Building Energy-Efficient Free Software"
+msgid "Develop Energy-Efficient Free & Open Source Software"
+msgstr "Freie Software energieeffizient entwickeln"
+
+#: i18n/en.yaml:0
+msgid "Measure Software Energy Use"
 msgstr ""
 
 #: i18n/en.yaml:0
@@ -2794,6 +2805,10 @@ msgstr ""
 msgid ""
 "Energy consumption measurements require a scripted and replicable workflow "
 "of actions."
+msgstr ""
+
+#: i18n/en.yaml:0
+msgid "Measure Your Software's Energy Use"
 msgstr ""
 
 #: i18n/en.yaml:0
