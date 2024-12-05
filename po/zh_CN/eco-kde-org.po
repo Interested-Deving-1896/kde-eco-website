@@ -2394,10 +2394,8 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Building Energy-Efficient Free Software"
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr "构建高能效的自由（开源）软件"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Measure Software Energy Use"

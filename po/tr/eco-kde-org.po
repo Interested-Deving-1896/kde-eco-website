@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-12-04 01:52+0000\n"
-"PO-Revision-Date: 2024-11-21 21:01+0300\n"
+"PO-Revision-Date: 2024-12-04 18:10+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -2894,16 +2894,12 @@ msgid "Email: `joseph [at] kde.org`"
 msgstr "E-posta: `joseph [at] kde.org`"
 
 #: content/make-green/_index.md:0 i18n/en.yaml:0
-#, fuzzy
-#| msgid "Be Green"
 msgid "Make Green"
-msgstr "Yeşil Ol"
+msgstr "Yeşil Yap"
 
 #: content/make-green/_index.md:0
-#, fuzzy
-#| msgid "Make Green (Dev)"
 msgid "Make green"
-msgstr "Yeşil Yap (Geliştir)"
+msgstr "Yeşil Yap"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -3228,6 +3224,8 @@ msgstr "FOSS Uygulamalarla Özgürlüğü Seç"
 #: i18n/en.yaml:0
 msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
+"Herhangi bir bilgisayar veya işletim sistemine sürdürülebilir uygulamalar "
+"kurun."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
@@ -3400,16 +3398,13 @@ msgstr ""
 "kolaydır."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Building Energy-Efficient Free Software"
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr "Enerji Verimliliği Sağlayan Özgür Yazılımlar Yapmak"
+msgstr ""
+"Enerji Verimliliği Sağlayan Özgür ve Açık Kaynaklı Yazılımlar Geliştirin"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "Measure Software Energy Use"
-msgstr "Yazılımınızın Enerji Tüketimini Ölçün"
+msgstr "Yazılımın Enerji Tüketimini Ölçün"
 
 #: i18n/en.yaml:0
 msgid ""

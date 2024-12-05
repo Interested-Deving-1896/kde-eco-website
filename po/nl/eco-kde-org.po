@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-12-04 01:52+0000\n"
-"PO-Revision-Date: 2024-11-21 00:19+0100\n"
+"PO-Revision-Date: 2024-12-04 11:09+0100\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -2936,16 +2936,12 @@ msgid "Email: `joseph [at] kde.org`"
 msgstr "E-mail: `joseph [at] kde.org`"
 
 #: content/make-green/_index.md:0 i18n/en.yaml:0
-#, fuzzy
-#| msgid "Be Green"
 msgid "Make Green"
-msgstr "Wees groen"
+msgstr "Maak Groen"
 
 #: content/make-green/_index.md:0
-#, fuzzy
-#| msgid "Make Green (Dev)"
 msgid "Make green"
-msgstr "Maak Groen (Ontw)"
+msgstr "Maak groen"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -3269,6 +3265,7 @@ msgstr "Opt Free met FOSS-toepassingen"
 #: i18n/en.yaml:0
 msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
+"Installeer duurzame toepassingen op elke computer en besturingssysteem."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
@@ -3442,16 +3439,12 @@ msgstr ""
 "inpluggen."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Building Energy-Efficient Free Software"
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr "Energie-efficiënte vrije software bouwen"
+msgstr "Ontwikkel energie-efficiënte vrije en open-source software"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "Measure Software Energy Use"
-msgstr "Meet het energiegebruik van uw software"
+msgstr "Meet het energiegebruik van software"
 
 #: i18n/en.yaml:0
 msgid ""

@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-12-04 01:52+0000\n"
-"PO-Revision-Date: 2024-11-20 06:39+0100\n"
+"PO-Revision-Date: 2024-12-04 06:58+0100\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -2886,16 +2886,12 @@ msgid "Email: `joseph [at] kde.org`"
 msgstr "E-pošta: `joseph [at] kde.org`"
 
 #: content/make-green/_index.md:0 i18n/en.yaml:0
-#, fuzzy
-#| msgid "Be Green"
 msgid "Make Green"
-msgstr "Be Green"
+msgstr "Naredi zeleno"
 
 #: content/make-green/_index.md:0
-#, fuzzy
-#| msgid "Make Green (Dev)"
 msgid "Make green"
-msgstr "Razvij zeleno (Razvijalec)"
+msgstr "Naredi zeleno"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -3217,6 +3213,8 @@ msgstr "Odločite se prosto z aplikacijami FOSS"
 #: i18n/en.yaml:0
 msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
+"Namestite trajnostne aplikacije v kateri koli računalnik in operacijski "
+"sistem."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
@@ -3386,16 +3384,12 @@ msgstr ""
 "računalnik Framework tako enostavno popraviti, kot če bi vtaknili nov del."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Building Energy-Efficient Free Software"
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr "Izdelava energetsko učinkovitega prostega programja"
+msgstr "Razvijte energetsko učinkovito prosto in odprtokodno programsko opremo"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "Measure Software Energy Use"
-msgstr "Izmerite porabo energije vaše programske opreme"
+msgstr "Izmerite porabo energije programske opreme"
 
 #: i18n/en.yaml:0
 msgid ""

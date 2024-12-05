@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-12-04 01:52+0000\n"
-"PO-Revision-Date: 2024-11-20 10:23+0100\n"
+"PO-Revision-Date: 2024-12-04 10:21+0100\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -2977,16 +2977,12 @@ msgid "Email: `joseph [at] kde.org`"
 msgstr "Correu: `joseph [at] kde.org`"
 
 #: content/make-green/_index.md:0 i18n/en.yaml:0
-#, fuzzy
-#| msgid "Be Green"
 msgid "Make Green"
-msgstr "Sigueu verds"
+msgstr "Creeu verd"
 
 #: content/make-green/_index.md:0
-#, fuzzy
-#| msgid "Make Green (Dev)"
 msgid "Make green"
-msgstr "Creeu verd (desenvolupament)"
+msgstr "Creeu verd"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -3312,6 +3308,7 @@ msgstr "Opteu per la llibertat amb aplicacions FOSS"
 #: i18n/en.yaml:0
 msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
+"Instal·leu aplicacions sostenibles en qualsevol ordinador i sistema operatiu."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
@@ -3486,16 +3483,12 @@ msgstr ""
 "ordinador Framework és tan fàcil de reparar com encaixar una part nova."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Building Energy-Efficient Free Software"
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr "Construcció de programari lliure energèticament eficient"
+msgstr "Desenvolupament de programari lliure i obert energèticament eficient"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "Measure Software Energy Use"
-msgstr "Mesureu l'ús energètic del vostre programari"
+msgstr "Mesureu l'ús energètic del programari"
 
 #: i18n/en.yaml:0
 msgid ""
