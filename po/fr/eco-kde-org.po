@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-12-04 01:52+0000\n"
-"PO-Revision-Date: 2024-11-21 09:35+0100\n"
+"PO-Revision-Date: 2024-12-05 10:37+0100\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: French <French <kde-francophone@kde.org>>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 24.08.3\n"
+"X-Generator: Lokalize 24.11.90\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -3052,16 +3052,12 @@ msgid "Email: `joseph [at] kde.org`"
 msgstr "Courriel : « joseph [at] kde.org »"
 
 #: content/make-green/_index.md:0 i18n/en.yaml:0
-#, fuzzy
-#| msgid "Be Green"
 msgid "Make Green"
 msgstr "Soyez plus vert"
 
 #: content/make-green/_index.md:0
-#, fuzzy
-#| msgid "Make Green (Dev)"
 msgid "Make green"
-msgstr "Make Green (Dev)"
+msgstr "Soyez plus vert"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -3398,6 +3394,8 @@ msgstr "Optez pour les logiciels libres avec les applications « FOSS »"
 #: i18n/en.yaml:0
 msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
+"Installez des applications durables sur n'importe quel ordinateur et système "
+"d'exploitation."
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
@@ -3572,16 +3570,12 @@ msgstr ""
 "développement est aussi facile à réparer qu'à insérer une nouvelle pièce."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Building Energy-Efficient Free Software"
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr "Création de logiciels économes en énergie"
+msgstr "Développer des logiciels économes en énergie et « Open source »"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "Measure Software Energy Use"
-msgstr "Mesurez la consommation d'énergie de votre logiciel"
+msgstr "Mesurer la consommation d'énergie de vos logiciels"
 
 #: i18n/en.yaml:0
 msgid ""
