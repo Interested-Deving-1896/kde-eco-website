@@ -5,5 +5,6 @@ title: "Umweltfestival"
 thumbnail: "/events/images/event-umweltfestival-optimized.png"
 date: "2024-04-28"
 location: "Berlin, DE"
+featured: true
 lang: "en"
 ---
