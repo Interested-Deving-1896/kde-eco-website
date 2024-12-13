@@ -1,0 +1,44 @@
+{{ define "main" }}
+<main role="main" style="max-width: 100% !important;">
+  <article class="post-content">
+    {{ partial "jumbotron" . }}
+
+    <div class="content-width">
+      {{ with .Content }}
+        {{ . }}
+      {{ end }}
+
+      {{ if not .Params.nosubpage }}
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+          {{ range where .Pages "Params.hidden" "ne" "true" }}
+      
+          <div class="col">
+            <div class="card h-100"> 
+              <img class="card-img-top" src={{ .Params.thumbnail }} alt="{{.Title}}" />
+              <div class="card-body"> 
+                <h4 class="card-title mt-1">{{ .Title | safeHTML}}</h4>
+                <div class="d-flex">
+                  <div class="d-flex flex-column flex-lg-row">
+                    <div class="mt-2 mt-md-0 pe-md-3 event-info">
+                      <img class="info-icon" src="/images/noun-calendar-6945157.png" alt={{ partial "i18n_date.html" . }}
+                      />
+                      {{ partial "i18n_date.html" . }}
+                    </div>
+                    <div class="mt-2 mt-md-0 event-info">
+                      <img class="info-icon" src="/images/noun-location-4775289.png" alt="{{ .Params.Location }}"  />
+                      {{ .Params.Location }}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+		  
+        </div>
+
+      </div>
+    {{ end }}
+  </article>
+</main>
+{{ end }}
