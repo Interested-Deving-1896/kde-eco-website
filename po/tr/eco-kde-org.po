@@ -3100,7 +3100,7 @@ msgstr "KDE Eko El Kitabı"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
-msgstr "Bu Web Sitesi Hakkında"
+msgstr "Bu web sitesi hakkında"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3219,7 +3219,7 @@ msgstr "Özgür ve Açık Kaynak Yazılımlar Kurun"
 
 #: i18n/en.yaml:0
 msgid "Opt Free with FOSS Apps"
-msgstr "FOSS Uygulamalarla Özgürlüğü Seç"
+msgstr "FOSS Uygulamalarla Özgürlüğü Seçin"
 
 #: i18n/en.yaml:0
 msgid "Install sustainable apps on any computer and operating system."
@@ -3229,7 +3229,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
-msgstr "Eski Donanımı Özgür Kıl"
+msgstr "Eski Donanımları Özgür Kılın"
 
 #: i18n/en.yaml:0
 msgid "Vendors control and kill support for aging hardware, by design."
@@ -3239,7 +3239,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Be Free with New Hardware"
-msgstr "Yeni Donanımla Özgür Ol"
+msgstr "Yeni Donanımınızla Özgür Olun"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3417,7 +3417,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Read the KDE Eco Handbook"
-msgstr "KDE Eko El Kitabı’nı Oku"
+msgstr "KDE Eko El Kitabı’nı Okuyun"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3466,7 +3466,7 @@ msgstr "Depoyu Gör"
 
 #: i18n/en.yaml:0
 msgid "Use the KDE Eco Handbook"
-msgstr "KDE Eko El Kitabı’nı Kullan"
+msgstr "KDE Eko El Kitabı’nı Kullanın"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3501,26 +3501,8 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Past Projects"
-msgstr "Geçmiş Projeler"
+msgstr "Geçmiş projeler"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
 msgstr "KDE’nin Sürdürülebilir Yazılım Hedefi"
-
-#~ msgid ""
-#~ "Install sustainable apps on any computer and operating system. With "
-#~ "transparent, user-focused applications that support open formats, you "
-#~ "have full control, now and in the future."
-#~ msgstr ""
-#~ "Herhangi bir bilgisayar veya işletim sistemine sürdürülebilir uygulamalar "
-#~ "kurun. Açık biçimleri destekleyen saydam, kullanıcı odaklı uygulamalarla "
-#~ "denetim sizin elinizde; hem şimdi hem de gelecekte."
-
-#~ msgid "**Get Involved**"
-#~ msgstr "**Bize Katılın**"
-
-#~ msgid "Sustainable Goal"
-#~ msgstr "Sürdürülebilirlik Hedefi"
-
-#~ msgid "FEEP"
-#~ msgstr "FEEP"
