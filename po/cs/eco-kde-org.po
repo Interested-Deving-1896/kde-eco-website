@@ -2231,10 +2231,8 @@ msgid "View all posts"
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "News from the blog'"
 msgid "News from the blog"
-msgstr "Novinky z blogu'"
+msgstr "Novinky z blogu"
 
 #: i18n/en.yaml:0
 msgid "Install Free & Open Source Software"
@@ -2275,8 +2273,6 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "See all"
 msgid "See All"
 msgstr "Zobrazit vše"
 
@@ -2362,7 +2358,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Slimbook"
-msgstr ""
+msgstr "Slimbook"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2378,7 +2374,7 @@ msgstr "Chcete se dozvědět více?"
 
 #: i18n/en.yaml:0
 msgid "Framework"
-msgstr ""
+msgstr "Framework"
 
 #: i18n/en.yaml:0
 msgid ""
