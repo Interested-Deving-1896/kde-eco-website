@@ -2367,10 +2367,8 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn More"
 msgid "Learn more"
-msgstr "Chcete se dozvědět více?"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Framework"
@@ -2397,10 +2395,8 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Read the KDE Eco Handbook"
-msgstr "Příručka ke KDE Eco"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2433,16 +2429,12 @@ msgid ""
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Repositories"
 msgid "View Repository"
-msgstr "Repozitáře"
+msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Use the KDE Eco Handbook"
-msgstr "Příručka ke KDE Eco"
+msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2468,7 +2460,5 @@ msgid "Past Projects"
 msgstr ""
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Sustainable Software"
 msgid "KDE's Sustainable Software Goal"
-msgstr "Udržitelný software"
+msgstr ""
