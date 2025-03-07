@@ -87,19 +87,19 @@
       </div>
       <div class="col-md-2 col-12 mt-4 text-center">
         <a href="https://invent.kde.org/teams/eco">
-          <img class="svg-icon" src="/images/gitlab-logo-700.webp" alt="{{ i18n "home.engage.repo" }}" style="max-width:3em" />
+          <img class="svg-icon" src="/images/gitlab-logo-700.webp" alt="{{ i18n "home.engage.repo" }}" loading="lazy" style="max-width:3em" />
           <p class="p-4">{{ i18n "home.engage.repo" }}</p>
         </a>
       </div>
       <div class="col-md-2 col-12 mt-4 text-center">
         <a href="https://webchat.kde.org/#/room/#energy-efficiency:kde.org">
-          <img class="svg-icon" src="/images/matrix.png" alt="{{ i18n "home.engage.matrix" }}" style="max-width:3em" />
+          <img class="svg-icon" src="/images/matrix.png" alt="{{ i18n "home.engage.matrix" }}" loading="lazy" style="max-width:3em" />
           <p class="p-4">{{ i18n "home.engage.matrix" }}</p>
         </a>
       </div>
       <div class="col-md-2 col-12 mb-4 mb-md-0 mt-4 text-center">
         <a href="https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-discuss">
-          <img class="svg-icon" src="/images/mail-mark-unread.webp" alt="{{ i18n "home.engage.mailinglist" }}" style="max-width:3em" />
+          <img class="svg-icon" src="/images/mail-mark-unread.webp" alt="{{ i18n "home.engage.mailinglist" }}" loading="lazy" style="max-width:3em" />
           <p class="p-4">{{ i18n "home.engage.mailinglist" }}</p>
         </a>
       </div>
@@ -121,18 +121,18 @@
         {{ range first 3 (where $pages "Params.featured" true) }}
         <div class="col-12 col-md-4">
           <div class="card h-100"> 
-            <img class="card-image" src={{ .Params.thumbnail }} alt="{{.Title}}" class="card-img-top" />
+            <img class="card-image" src={{ .Params.thumbnail }} alt="{{.Title}}" class="card-img-top" loading="lazy" />
             <div class="post-entry my-2 p-3"> 
               <h4 class="mt-1">{{ .Title | safeHTML}}</h4>
               <div class="d-flex">
                 <div class="d-flex flex-column flex-lg-row">
                   <div class="mt-2 mt-md-0 pe-md-3 event-info">
-                    <img class="info-icon" src="/images/noun-calendar-6945157.webp" alt={{ partial "i18n_date.html" . }}
+                    <img class="info-icon" src="/images/noun-calendar-6945157.webp" loading="lazy" alt={{ partial "i18n_date.html" . }}
                     />
                     {{ partial "i18n_date.html" . }}
                   </div>
                   <div class="mt-2 mt-md-0 event-info">
-                    <img class="info-icon" src="/images/noun-location-4775289.webp" alt="{{ .Params.Location }}"  />
+                    <img class="info-icon" src="/images/noun-location-4775289.webp" loading="lazy" alt="{{ .Params.Location }}"  />
                     {{ .Params.Location }}
                   </div>
                 </div>
@@ -160,7 +160,7 @@
         <div class="col-12 col-md-4">
           <a href="{{ .Permalink }}">
             <div class="card h-100"> 
-              <img src={{ .Params.thumbnail }} alt="{{.Title}}" class="card-img-top" />
+              <img src={{ .Params.thumbnail }} alt="{{.Title}}" class="card-img-top" loading="lazy" />
               <div class="post-entry my-2 p-3"> 
                 <h4 class="mt-1 h5">{{ .Title | safeHTML}}</h4>
               </div>
@@ -179,7 +179,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-7 ">
-          <img src="/images/about-kde-image-optimized.webp" alt={{ i18n "home.about-kde-description-kde" }} class="img-fluid pb-4">
+          <img src="/images/about-kde-image-optimized.webp" alt={{ i18n "home.about-kde-description-kde" }} loading="lazy" class="img-fluid pb-4">
         </div>
         <div class="col-lg-5 px-5">
           <h2 class="m-0 pb-4">{{ i18n "home.about-kde-title" }} </h2>
