@@ -69,8 +69,8 @@ outputs:
   - HTML
 params:
   images:
-  - /logo-42x42.webp
-  logo: /logo-42x42.webp
+  - /KDE-eco-logo-only.svg
+  logo: /KDE-eco-logo-only.svg
   madeByKDE: false
   matomo: 35
   repoName: eco-kde-org
