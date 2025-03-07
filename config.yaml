@@ -69,8 +69,8 @@ outputs:
   - HTML
 params:
   images:
-  - /logo-150x150.png
-  logo: /logo-150x150.png
+  - /logo-42x42.webp
+  logo: /logo-42x42.webp
   madeByKDE: false
   matomo: 35
   repoName: eco-kde-org
