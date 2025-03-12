@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-04 01:52+0000\n"
+"POT-Creation-Date: 2025-03-12 01:59+0000\n"
 "PO-Revision-Date: 2025-01-13 20:18+0100\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@gmail.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -3225,11 +3225,8 @@ msgstr "Var fri med ny maskinvara"
 
 #: i18n/en.yaml:0
 msgid ""
-"Switch programs when needed for software that is sustainable for users and "
-"the environment."
+"Hardware made for independent software can be used as long as one wants."
 msgstr ""
-"Byt program vid behov till programvara som är hållbar för användare och "
-"miljö."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3483,6 +3480,13 @@ msgstr "Tidigare projekt"
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
 msgstr "KDE:s mål för hållbar programvara"
+
+#~ msgid ""
+#~ "Switch programs when needed for software that is sustainable for users "
+#~ "and the environment."
+#~ msgstr ""
+#~ "Byt program vid behov till programvara som är hållbar för användare och "
+#~ "miljö."
 
 #~ msgid "**Get Involved**"
 #~ msgstr "**Engagera dig**"

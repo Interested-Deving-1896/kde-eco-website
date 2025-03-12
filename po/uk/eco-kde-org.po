@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-04 01:52+0000\n"
+"POT-Creation-Date: 2025-03-12 01:59+0000\n"
 "PO-Revision-Date: 2024-12-04 09:37+0200\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -3313,11 +3313,8 @@ msgstr "Будьте вільними із новим обладнанням"
 
 #: i18n/en.yaml:0
 msgid ""
-"Switch programs when needed for software that is sustainable for users and "
-"the environment."
+"Hardware made for independent software can be used as long as one wants."
 msgstr ""
-"Якщо виникне потреба, перейдіть на програми, які є стабільними для "
-"користувачів та середовища."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3580,6 +3577,13 @@ msgstr "Попередні проєкти"
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
 msgstr "Мета щодо створення стійкого програмного забезпечення KDE"
+
+#~ msgid ""
+#~ "Switch programs when needed for software that is sustainable for users "
+#~ "and the environment."
+#~ msgstr ""
+#~ "Якщо виникне потреба, перейдіть на програми, які є стабільними для "
+#~ "користувачів та середовища."
 
 #~ msgid ""
 #~ "Install sustainable apps on any computer and operating system. With "

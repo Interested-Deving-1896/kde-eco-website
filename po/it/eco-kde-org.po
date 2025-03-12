@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-04 01:52+0000\n"
+"POT-Creation-Date: 2025-03-12 01:59+0000\n"
 "PO-Revision-Date: 2024-12-05 03:39+0100\n"
 "Last-Translator: Vincenzo Reale <smart2128vr@gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -3310,11 +3310,8 @@ msgstr "Sii libero con il nuovo hardware"
 
 #: i18n/en.yaml:0
 msgid ""
-"Switch programs when needed for software that is sustainable for users and "
-"the environment."
+"Hardware made for independent software can be used as long as one wants."
 msgstr ""
-"Quando necessario, passa a un software che sia sostenibile per gli utenti e "
-"per l'ambiente."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3572,6 +3569,13 @@ msgstr "Progetti passati"
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
 msgstr "Obiettivo del software sostenibile di KDE"
+
+#~ msgid ""
+#~ "Switch programs when needed for software that is sustainable for users "
+#~ "and the environment."
+#~ msgstr ""
+#~ "Quando necessario, passa a un software che sia sostenibile per gli utenti "
+#~ "e per l'ambiente."
 
 #~ msgid ""
 #~ "Install sustainable apps on any computer and operating system. With "

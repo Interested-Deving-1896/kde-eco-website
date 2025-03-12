@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-04 01:52+0000\n"
+"POT-Creation-Date: 2025-03-12 01:59+0000\n"
 "PO-Revision-Date: 2024-10-18 11:30+0200\n"
 "Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -2260,8 +2260,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid ""
-"Switch programs when needed for software that is sustainable for users and "
-"the environment."
+"Hardware made for independent software can be used as long as one wants."
 msgstr ""
 
 #: i18n/en.yaml:0

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2024-12-04 01:52+0000\n"
+"POT-Creation-Date: 2025-03-12 01:59+0000\n"
 "PO-Revision-Date: 2025-03-06 14:21+0100\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -3231,11 +3231,8 @@ msgstr "Bodite svobodni z novo strojno opremo"
 
 #: i18n/en.yaml:0
 msgid ""
-"Switch programs when needed for software that is sustainable for users and "
-"the environment."
+"Hardware made for independent software can be used as long as one wants."
 msgstr ""
-"Po potrebi zamenjajte programe za programsko opremo, ki je trajnostna za "
-"uporabnike in okolje."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3491,6 +3488,13 @@ msgstr "Pretekli projekti"
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
 msgstr "Cilj KDE trajnostna programska oprema"
+
+#~ msgid ""
+#~ "Switch programs when needed for software that is sustainable for users "
+#~ "and the environment."
+#~ msgstr ""
+#~ "Po potrebi zamenjajte programe za programsko opremo, ki je trajnostna za "
+#~ "uporabnike in okolje."
 
 #~ msgid ""
 #~ "Install sustainable apps on any computer and operating system. With "
