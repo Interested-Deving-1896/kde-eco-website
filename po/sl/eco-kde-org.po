@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-12 01:59+0000\n"
-"PO-Revision-Date: 2025-03-06 14:21+0100\n"
+"PO-Revision-Date: 2025-03-12 07:25+0100\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n"
 "%100==4 ? 3 : 0);\n"
-"X-Generator: Lokalize 24.12.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -3233,6 +3233,8 @@ msgstr "Bodite svobodni z novo strojno opremo"
 msgid ""
 "Hardware made for independent software can be used as long as one wants."
 msgstr ""
+"Strojno opremo, narejeno za neodvisno programsko opremo, je mogoče "
+"uporabljati, kolikor dolgo želite."
 
 #: i18n/en.yaml:0
 msgid ""

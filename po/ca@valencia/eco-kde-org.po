@@ -1,16 +1,16 @@
 # Translation of eco-kde-org.po to Catalan (Valencian)
-# Copyright (C) 2021-2024 This_file_is_part_of_KDE
+# Copyright (C) 2021-2025 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# SPDX-FileCopyrightText: 2021, 2022, 2023, 2024 Josep M. Ferrer <txemaq@gmail.com>
+# SPDX-FileCopyrightText: 2021, 2022, 2023, 2024, 2025 Josep M. Ferrer <txemaq@gmail.com>
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-12 01:59+0000\n"
-"PO-Revision-Date: 2024-12-04 10:21+0100\n"
+"PO-Revision-Date: 2025-03-12 09:20+0100\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
@@ -3329,6 +3329,8 @@ msgstr "Sigueu lliures amb maquinari nou"
 msgid ""
 "Hardware made for independent software can be used as long as one wants."
 msgstr ""
+"El maquinari fet per a programari independent es pot utilitzar sempre que es "
+"vullga."
 
 #: i18n/en.yaml:0
 msgid ""
@@ -3586,10 +3588,3 @@ msgstr "Projectes anteriors"
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
 msgstr "Objectiu de programari sostenible de KDE"
-
-#~ msgid ""
-#~ "Switch programs when needed for software that is sustainable for users "
-#~ "and the environment."
-#~ msgstr ""
-#~ "Canvieu els programes quan siga necessari per a un programari sostenible "
-#~ "per als usuaris i el medi ambient."
