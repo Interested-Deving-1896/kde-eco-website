@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-12 01:59+0000\n"
-"PO-Revision-Date: 2025-01-11 17:43+0300\n"
+"PO-Revision-Date: 2025-03-13 13:48+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
 "SPDX-License-Identifier: LGPL-3.0-or-later\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 25.03.70\n"
+"X-Generator: Lokalize 25.07.70\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -3245,6 +3245,8 @@ msgstr "Yeni Donanımınızla Özgür Olun"
 msgid ""
 "Hardware made for independent software can be used as long as one wants."
 msgstr ""
+"Bağımsız yazılımlar için yapılmış donanımlar istenildiği kadar "
+"kullanılabilir."
 
 #: i18n/en.yaml:0
 msgid ""
