@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-12 01:59+0000\n"
-"PO-Revision-Date: 2025-01-28 15:36+0100\n"
+"PO-Revision-Date: 2025-03-13 07:22+0100\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: French <French <kde-francophone@kde.org>>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 24.12.1\n"
+"X-Generator: Lokalize 24.12.3\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -3415,6 +3415,8 @@ msgstr "Soyez libre avec du nouveau matériel"
 msgid ""
 "Hardware made for independent software can be used as long as one wants."
 msgstr ""
+"Le matériel conçu pour des logiciels indépendants peut être utilisé aussi "
+"longtemps que l'on veut."
 
 #: i18n/en.yaml:0
 msgid ""

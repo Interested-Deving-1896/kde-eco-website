@@ -1,11 +1,11 @@
 #
-# SPDX-FileCopyrightText: 2021, 2022, 2023, 2024 Freek de Kruijf <freekdekruijf@kde.nl>
+# SPDX-FileCopyrightText: 2021, 2022, 2023, 2024, 2025 Freek de Kruijf <freekdekruijf@kde.nl>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-03-12 01:59+0000\n"
-"PO-Revision-Date: 2024-12-04 11:09+0100\n"
+"PO-Revision-Date: 2025-03-14 11:36+0100\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 24.08.3\n"
+"X-Generator: Lokalize 24.12.3\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -3285,6 +3285,8 @@ msgstr "Be Free met nieuwe hardware"
 msgid ""
 "Hardware made for independent software can be used as long as one wants."
 msgstr ""
+"Hardware gemaakt voor onafhankelijke software kan gebruikt worden zolang als "
+"men wilt."
 
 #: i18n/en.yaml:0
 msgid ""
