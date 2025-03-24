@@ -1,4 +1,3 @@
-```markdown
 ---
 date: 2025-03-16
 title: "Halfway Highlights: My Season of KDE Journey"
@@ -6,22 +5,16 @@ categories:  [SoK, Sustainability, KDE Eco, KEco Lab]
 author: Utkarsh Umre
 summary: My Season of KDE journey so far: tasks completed, hurdles faced, and KDE Eco Remote Eco Lab work
 ---
-```
 
 # Halfway Highlights: My Season of KDE Journey
----
+
 
 Hi everyone!
 I’m excited to share my experience so far as a mentee in the Season of KDE program. For those unfamiliar, Season of KDE is an amazing initiative by the KDE community that allows students and newcomers like me to contribute to open-source projects under the guidance of experienced mentors. This year, I’m working on the KDE Eco project, specifically creating comprehensive documentation—both written and video—for the KDE Eco Remote Eco Lab. This midterm blog post is a chance for me to reflect on what I’ve accomplished, the challenges I’ve encountered, and my plans moving forward.
 
----
-
 ### What is the KDE Eco Remote Eco Lab?
 
 The KDE Eco Remote Eco Lab is a project within the KDE Eco initiative, which is part of the KDE community's efforts to promote sustainability through energy-efficient free software. Specifically, the Remote Eco Lab provides a way for developers to measure the energy consumption of their software remotely, using a specialized lab located in Berlin. This lab was initially established with support from KDAB, a company involved in software development and KDE-related projects. My role is to develop clear and accessible documentation to help users understand how to set up, use, and benefit from this tool. This includes written guides and video tutorials, both of which I’m thrilled to be working on!
-
----
-
 
 ### What I’ve Done So Far
 
@@ -34,10 +27,6 @@ Since starting the program, I’ve been diving into the project and making stead
 
 These steps have helped me build a solid foundation for the documentation, and I’m proud of the progress I’ve made!
 
-
----
-
-
 ### Challenges I’ve Faced
 
 
@@ -48,11 +37,6 @@ My work on the KDE Eco Remote Eco Lab hasn’t been without hiccups. Initially, 
 
 While these challenges slowed me down at times, they’ve also been valuable learning opportunities. I’m growing more confident with each step!
 
-
-
----
-
-
 ### Outlook for the Future
 
 
@@ -60,16 +44,8 @@ While these challenges slowed me down at times, they’ve also been valuable lea
 I’m honestly so excited to keep going with the KDE Eco Remote Eco Lab project. My big focus right now is the video documentation—I’ve been messing around with my script, getting some awesome feedback from my mentors, and I’m almost ready to hit record. I’m hoping to have a handful of tutorials done by the time Season of KDE wraps up. I’ll be using OBS Studio to capture everything and Kdenlive to edit it into something that’s easy to follow and actually looks good. My teammates are busy crushing it on the written guides, and I can’t wait to see how it all comes together. Oh, and guess what? I just found out my talk got picked for the KDE India Conference 2025, happening April 4-6 in Gandhinagar! I’ll be sharing my KDE Eco adventure and what I’ve been up to as a Season of KDE mentee. It’s a little nerve-wracking but mostly thrilling, and I’m pumped to prep for it while juggling my video stuff!
 
 
-
-
----
-
-
 ### Final Thoughts
-
 
 Participating in Season of KDE has been an incredible experience so far. I’m not only sharpening my technical and creative skills but also getting a front-row seat to the collaborative spirit of the KDE community. I’m grateful to my mentor for their guidance and to the community for this opportunity. I can’t wait to see how the project evolves and to share my final update in the next blog post!
 
-
-                       
-                                             Thanks for reading!
+**Thanks for reading!**
