@@ -1,4 +1,4 @@
-``---
+---
 date: 2025-04-01
 title: "Halfway Highlights: My Season of KDE Journey"
 categories:  [SoK, Sustainability, KDE Eco, KEco Lab]
