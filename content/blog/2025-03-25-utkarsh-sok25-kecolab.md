@@ -1,4 +1,4 @@
----
+``---
 date: 2025-04-01
 title: "Halfway Highlights: My Season of KDE Journey"
 categories:  [SoK, Sustainability, KDE Eco, KEco Lab]
@@ -29,13 +29,7 @@ I initially created a simple script to guide myself while making the video. As I
 
 To finalize how we’re going to present the concept of reiterating until an energy drop is visible in our software, I’ve created a small POC video. This video effectively demonstrates how, after reviewing your software reports, you can make the needed tweaks and then recheck the results using Kecolab to decrease energy consumption and contribute to sustainability. Below is the POC video I discussed.
 
-<!-- ![Video Tutorial](content/blog/videos/poc.mp4) -->
-
-
-<video width="400" height="225" controls>
-  <source src="content/blog/videos/poc.mp4" type="video/mp4">
-</video>
-
+![Video Tutorial](content/blog/videos/poc.mp4)
 
 
 These steps have helped me build a solid foundation for the documentation, and I’m proud of the progress I’ve made!
