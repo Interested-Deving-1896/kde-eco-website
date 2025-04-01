@@ -1,6 +1,6 @@
 ---
 date: 2025-03-24
-title: "Mid-Season Update: Season of KDE ‘25"
+title: "Preparing KEcoLab Technical Documentation in Season of KDE ‘25"
 categories:  [SoK, Sustainability, KDE Eco, KEco Lab]
 author: Roopa Dharshini
 summary: My task updates and experience during Season of KDE 2025 so far.
