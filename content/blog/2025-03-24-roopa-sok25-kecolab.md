@@ -44,7 +44,7 @@ Season of KDE is a mentorship program that happens every year between January an
 
 Applying to SoK was not easy for me. I ran into my first challenge when I tried to create a new KDE Invent account. I thought there were some technical issues with the website, so I tried every day to create an account (you are limited to one account creation chance per 24-hour period). After a long wait, I reached out to SoK admin Johnny for help, and he assisted me in creating an account. I was really scared to submit my proposal because there was only one week before the submission deadline, but I trusted my skills and submitted it. So, keep in mind that “it is never too late to apply."
 
-The second challenge was team collaboration. Similar to me, there were 2 other contributors selected for this project. I was really new to KDE; at first it was hard to communicate with my other contributors; later on, we started to work really well.  That’s all the challenges I faced during my contributions. Challenges are never an end point; they are a stepping stone to move further.
+The second challenge was team collaboration. Similar to me, there were 2 other contributors selected for this project. I was brand new to KDE. At first it was hard to communicate with my other contributors, but later on we started to work really well together. Those are the main challenges I faced during my contributions to SoK. Challenges are never an end point; they are a stepping stone to move further.
 
 ## Thank You Note!
 
