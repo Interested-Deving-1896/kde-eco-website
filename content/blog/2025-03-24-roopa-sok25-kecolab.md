@@ -6,7 +6,6 @@ author: Roopa Dharshini
 summary: My experience writing documentation for KDE's measurement lab.
 ---
 
-# Mid-Season Update: Season of KDE ‘25
 
 **Hey everyone!!**
 
