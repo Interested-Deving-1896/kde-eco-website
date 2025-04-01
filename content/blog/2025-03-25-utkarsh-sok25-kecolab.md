@@ -27,7 +27,7 @@ Second, work on written documentation. In the KDE Eco Remote Eco Lab project, we
  
 I initially created a simple script to guide myself while making the video. As I progressed, I developed it into a much more detailed version to give others a clear understanding of the video’s structure and flow. The mentors appreciated the detailed script and gave me their approval, as it provided them with a clear idea of how the video would take shape. You can refer to that detailed script [here](https://docs.google.com/document/d/1-1aQqItJiLs3Tpd_XHhKh5eMQ-FouFXGVf-O8F8Gh7g/edit?tab=t.0).
 
-To finalize how we’re going to present the concept of reiterating until an energy drop is visible in our software, I’ve created a small POC video. This video effectively demonstrates how, after reviewing your software reports, you can make the needed tweaks and then recheck the results using Kecolab to decrease energy consumption and contribute to sustainability. Below is the POC video I discussed.
+To finalize how we’re going to present the concept of reiterating until an energy drop is visible in our software, I’ve created a small proof-of-concept video. This video effectively demonstrates how, after reviewing your software reports, you can make the needed tweaks and then re-check the results using KEcoLab to decrease energy consumption and contribute to sustainability.
 
 ![Video Tutorial](content/blog/videos/poc.mp4)
 
