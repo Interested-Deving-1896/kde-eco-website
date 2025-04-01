@@ -9,7 +9,7 @@ summary: "My Season of KDE journey: tasks completed, hurdles faced, and KDE Eco 
 
 
 Hi everyone!
-I’m excited to share my experience so far as a mentee in the Season of KDE program. For those unfamiliar, Season of KDE is an amazing initiative by the KDE community that allows students and newcomers like me to contribute to open-source projects under the guidance of experienced mentors. This year, I’m working on the KDE Eco project, specifically creating comprehensive documentation—both written and video—for the KDE Eco Remote Eco Lab. This midterm blog post is a chance for me to reflect on what I’ve accomplished, the challenges I’ve encountered, and my plans moving forward.
+I’m excited to share my experience so far as a mentee in the Season of KDE program. For those unfamiliar, Season of KDE is an amazing initiative by the KDE community that allows students and newcomers like me to contribute to open-source projects under the guidance of experienced mentors. This year, I’m working on the KDE Eco project, specifically creating comprehensive documentation—both written and video—for the KDE Eco Remote Eco Lab. This blog post is a chance for me to reflect on what I’ve accomplished, the challenges I’ve encountered, and my plans moving forward.
 
 ### What is the KEcoLab?
 
