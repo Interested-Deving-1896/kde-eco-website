@@ -48,6 +48,6 @@ The second challenge was team collaboration. Similar to me, there were 2 other c
 
 ## Thank You Note!
 
-Challenges make the journey worthful. Without any challenges, I wouldn’t have known the perks of contributing to SoK. I take a moment here to thank my wonderful mentors (Joseph, Kieryn, Aakarsh, and Karan) for guiding me throughout this journey. Also, my fellow contributors to the project for collaborating with me to achieve what we proposed successfully.
+Challenges make the journey worthwhile. Without any challenges, I wouldn’t have known the perks of contributing to KDE in SoK. I take a moment here to thank my wonderful mentors Kieryn, Aakarsh, Karanjot, and Joseph for guiding me throughout this journey. Also, I want to thank my fellow contributors to the project Shubhanshu and Utkarsh for collaborating with me to achieve what we proposed successfully. Finally, I am thankful to the KDE e.V. and the KDE community for supporting us new contributors to the amazing KDE project.
 
 **Thank you!**
