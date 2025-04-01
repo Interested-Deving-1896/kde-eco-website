@@ -29,7 +29,11 @@ I initially created a simple script to guide myself while making the video. As I
 
 To finalize how we’re going to present the concept of reiterating until an energy drop is visible in our software, I’ve created a small proof-of-concept video. This video effectively demonstrates how, after reviewing your software reports, you can make the needed tweaks and then re-check the results using KEcoLab to decrease energy consumption and contribute to sustainability.
 
-![Video Tutorial](content/blog/videos/poc.mp4)
+{{< video src="/blog/videos/kecolab-proof-of-concept.mp4" controls=true autoplay=false loop=false >}}
+
+{{< container class="text-center" >}}
+Video: Proof of concept for the KEcoLab video documentation. (Video from Utkarsh Umre published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)
+{{< /container >}}
 
 
 These steps have helped me build a solid foundation for the documentation, and I’m proud of the progress I’ve made!
