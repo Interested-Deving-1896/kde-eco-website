@@ -13,7 +13,7 @@ I’m excited to share my experience so far as a mentee in the Season of KDE pro
 
 ### What is the KEcoLab?
 
-The KDE Eco Remote Eco Lab is a project within the KDE Eco initiative, which is part of the KDE community's efforts to promote sustainability through energy-efficient free software. Specifically, the Remote Eco Lab provides a way for developers to measure the energy consumption of their software remotely, using a specialized lab located in Berlin. This lab was initially established with support from KDAB, a company involved in software development and KDE-related projects. My role is to develop clear and accessible documentation to help users understand how to set up, use, and benefit from this tool. This includes written guides and video tutorials, both of which I’m thrilled to be working on!
+The KDE Eco Remote Eco Lab is a project within the KDE Eco initiative, which is part of the KDE community's efforts to promote sustainability through energy-efficient free software. Specifically, the Remote Eco Lab provides a way for developers to measure the energy consumption of their software remotely, using a specialized lab located in Berlin. This lab was established with support from KDAB. My role is to develop clear and accessible documentation to help users understand how to set up, use, and benefit from this tool. This includes written guides and video tutorials. I’m thrilled to be working on the video part of the project!
 
 ### What I’ve Done So Far
 
