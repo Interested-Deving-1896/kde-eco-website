@@ -29,7 +29,6 @@ I got to work creating an outline for the entire technical documentation. Usage 
 After this, I wrote various texts for the technical documentation (CI/CD pipeline, Home Page) of the KEcoLab project. There was a change in the audience for our documentation: initially we focused on the users of KEcoLab, but later we decided to write documentation for both the people who wish to contribute and provide new changes to KEcoLab as well as those who use KEcoLab for their software measurements. This change had us writing in-depth technical documentation for developers who wish to change the code for better efficiency. The CI/CD pipeline is essential for the energy measurement automation in KEcoLab. Writing detailed CI/CD pipeline documentation that explains its use, structure, and job execution was challenging, yet rewarding.
 
 
-### Week 5 - 6
 
 
   
