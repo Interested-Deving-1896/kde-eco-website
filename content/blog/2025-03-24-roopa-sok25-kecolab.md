@@ -17,9 +17,7 @@ For my proposal I crafted a detailed timeline for each week. With this detailed 
 
 ![Technical documentation tool](images/2025-03-31-roopa-sok25-proposal.png)
 
-I started my first week of contribution by understanding the project's codebase; it's working; studying KECoLab's handbook and existing documentation; setting up a GitLab wiki in the forked repository; and discussing the GitLab wiki's Merge Request (MR) feature. 
-
-Discussed about various technical documentation tools with the mentors, initially we planned to continue with GitLab but later due to the flexibility of KDE community wiki, we proceeded with KDE community wiki as our documentation tool to host KEcoLab documentations.
+I started by first week working to understanding the project's codebase, studying KECoLab's handbook and existing documentation, setting up a GitLab wiki in the forked repository, and discussing the GitLab wiki's Merge Request (MR) feature. I explored and discussed various technical documentation tools with the mentors. Initially, we had planned to continue with GitLab, but later due to the flexibility of KDE's community wiki, we proceeded with that as our preferred documentation tool.
 
 ![Usage scenario script documentaion](images/2025-03-31-roopa-sok25-usage-scenario.png)
 
