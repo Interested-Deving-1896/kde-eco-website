@@ -35,6 +35,7 @@ To finalize how we’re going to present the concept of reiterating until an ene
 Video: Proof of concept for the KEcoLab video documentation. (Video from Utkarsh Umre published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)
 {{< /container >}}
 
+While that’s in progress, I’ve been digging deeper into the Remote Eco Lab itself—especially the energy consumption reports it generates, which are key for developers aiming to optimize their software. At the same time, I’m learning [Kdenlive](https://apps.kde.org/kdenlive/), an KDE's video editing tool, to bring the script to life. It’s been a fun challenge to master, and I’m excited to create tutorials that will help users get the most out of KEcoLab.
 
 These steps have helped me build a solid foundation for the documentation, and I’m proud of the progress I’ve made!
 
