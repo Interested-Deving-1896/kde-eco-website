@@ -9,7 +9,7 @@ summary: My experience writing documentation for KDE's measurement lab.
 
 **Hey everyone!!**
 
-Welcome to my mid-season blog. I am Roopa Dharshini, a mentee at Season of KDE 2025 for the KEcoLab project. In this blog, I will explain my journey towards the Season of KDE mentorship program and my works. Let’s start my journey with a small description of the KDE mentorship program.
+Welcome to my blog post. I am Roopa Dharshini, a mentee in Season of KDE 2025 for the KEcoLab project. In this blog, I will explain my work in the SoK mentorship program.
 
 ## My Works
 
