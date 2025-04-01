@@ -34,6 +34,13 @@ I got to work creating an outline for the entire technical documentation. Usage 
 
 After this, I wrote various texts for the technical documentation (CI/CD pipeline, Home Page) of the KEcoLab project. There was a change in the audience for our documentation: initially we focused on the users of KEcoLab, but later we decided to write documentation for both the people who wish to contribute and provide new changes to KEcoLab as well as those who use KEcoLab for their software measurements. This change had us writing in-depth technical documentation for developers who wish to change the code for better efficiency. The CI/CD pipeline is essential for the energy measurement automation in KEcoLab. Writing detailed CI/CD pipeline documentation that explains its use, structure, and job execution was challenging, yet rewarding.
 
+### Final Documentation Links
+
+1. [User Guide documentation for KEcoLab Users](https://community.kde.org/KEcoLab/User_Docs/User_Guide)
+2. [Usage Scenario Script documentation](https://community.kde.org/KEcoLab/User_Docs/Usage_Scenario_Script)
+3. [Accessing result documentation for users](https://community.kde.org/KEcoLab/User_Docs/Result)
+4. [CI/CD pipeline documentation for contributors](https://community.kde.org/KEcoLab/Developer_Docs/CI_CD_Pipeline)
+5. [Contribution guidelines](https://community.kde.org/KEcoLab/Developer_Docs/Contribution_Guide)
 
 ## How did I apply to Season of KDE?
 
