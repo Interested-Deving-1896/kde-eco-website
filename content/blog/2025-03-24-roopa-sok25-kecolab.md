@@ -13,7 +13,7 @@ Welcome to my blog post. I am Roopa Dharshini, a mentee in Season of KDE 2025 fo
 
 ## Getting Started With SoK
 
-Before starting the contribution period, I crafted a detailed timeline for each week. With the help of my detailed timeline, I was able to complete all the work I proposed within the end of the mentorship program.
+For my proposal I crafted a detailed timeline for each week. With this detailed plan and with the help of my wonderful fellow contributors and mentors, I was able to complete all the work before the end of the mentorship program.
 
 ### Week 1 - 2
 ![Technical documentation tool](images/2025-03-31-roopa-sok25-proposal.png)
