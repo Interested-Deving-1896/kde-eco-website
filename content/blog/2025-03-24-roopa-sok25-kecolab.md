@@ -11,7 +11,7 @@ summary: My experience writing documentation for KDE's measurement lab.
 
 Welcome to my blog post. I am Roopa Dharshini, a mentee in Season of KDE 2025 for the KEcoLab project. In this blog, I will explain my work in the SoK mentorship program.
 
-## My Works
+## Getting Started With SoK
 
 Before starting the contribution period, I crafted a detailed timeline for each week. With the help of my detailed timeline, I was able to complete all the work I proposed within the end of the mentorship program.
 
