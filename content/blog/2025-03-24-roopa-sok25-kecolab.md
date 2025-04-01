@@ -15,7 +15,6 @@ Welcome to my blog post. I am Roopa Dharshini, a mentee in Season of KDE 2025 fo
 
 For my proposal I crafted a detailed timeline for each week. With this detailed plan and with the help of my wonderful fellow contributors and mentors, I was able to complete all the work before the end of the mentorship program.
 
-### Week 1 - 2
 ![Technical documentation tool](images/2025-03-31-roopa-sok25-proposal.png)
 
 I started my first week of contribution by understanding the project's codebase; it's working; studying KECoLab's handbook and existing documentation; setting up a GitLab wiki in the forked repository; and discussing the GitLab wiki's Merge Request (MR) feature. 
