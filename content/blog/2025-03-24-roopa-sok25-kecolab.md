@@ -38,7 +38,7 @@ After this, I wrote various texts for the technical documentation (CI/CD pipelin
 
 ![Accepted Proposal](images/2025-03-24-roopa-sok25-proposal.png)
 
-Season of KDE is a mentorship program that happens every year between January and March. It is a three-month mentorship where you will be assigned to a project you propose. You can write a proposal to work on the issue/project they listed on the KDE Ideas page. You can tag the mentors in the issue; they will review your proposal and check whether you are suitable or not. You can checkout [my proposal](https://invent.kde.org/teams/mentor-programs/2025/-/issues/10) for the KEcoLab project. Once they review your approach method, they will mark your proposal as accepted. And that’s how I got into it! 
+Season of KDE is a mentorship program that happens every year between January and March. It is a three-month mentorship where mentees will be guided through a project they propose. You start by writing a proposal and timeline to work on from the projects listed on the KDE Ideas page. You tag the mentors in the issue, and they will review your proposal and check whether you are suitable or not. You can checkout [my proposal](https://invent.kde.org/teams/mentor-programs/2025/-/issues/10) for the KEcoLab project. After review, mentors will hopefully mark your proposal as accepted. And that’s how I got into it! 
 
 ## Challenges I faced
 
