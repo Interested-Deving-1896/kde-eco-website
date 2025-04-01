@@ -59,7 +59,7 @@ I’m honestly so excited to keep going with the KDE Eco Remote Eco Lab project.
 
 ### Final Thoughts
 
-Participating in Season of KDE has been an incredible experience so far. I’m not only sharpening my technical and creative skills but also getting a front-row seat to the collaborative spirit of the KDE community. I’m grateful to my mentor for their guidance and to the community for this opportunity. I can’t wait to see how the project evolves and to share my final update in the next blog post!
+Participating in Season of KDE has been an incredible experience so far. I’m not only sharpening my technical and creative skills but also getting a front-row seat to the collaborative spirit of the KDE community. I’m grateful to my mentors Aakarsh, Kieryn, Karanjot, and Joseph for their guidance and to the community for this opportunity. I can’t wait to see how the project evolves and to share my final update in the next blog post!
 
 ### Interested In Contributing?
 KEcoLab is hosted [here](https://invent.kde.org/websites/eco-kde-org/-/tree/master). If you are interested in contributing, you can join the Matrix channels [Measurement Lab Development](https://go.kde.org/matrix/#/#kde-eco-dev:kde.org) and [KDE Eco](https://go.kde.org/matrix/#/#kde-eco:kde.org) and introduce yourself. Thank you to the Season of KDE 2025 admin and mentorship team, the KDE [e.V.](https://ev.kde.org/), and the incredible KDE community for supporting this project.
