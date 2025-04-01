@@ -45,7 +45,7 @@ After this, I wrote various texts for the technical documentation (CI/CD pipelin
 ## How did I apply to Season of KDE?
 
 {{< container class="text-center" >}}
-![Accepted Proposal (screenshot from Roopa Dharshini published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/mages/2025-03-24-roopa-sok25-proposal.png)
+![Accepted Proposal (screenshot from Roopa Dharshini published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/images/2025-03-24-roopa-sok25-proposal.png)
 {{< /container >}}
 
 Season of KDE is a mentorship program that happens every year between January and March. It is a three-month mentorship where mentees will be guided through a project they propose. You start by writing a proposal and timeline to work on from the projects listed on the KDE Ideas page. You tag the mentors in the issue, and they will review your proposal and check whether you are suitable or not. You can checkout [my proposal](https://invent.kde.org/teams/mentor-programs/2025/-/issues/10) for the KEcoLab project. After review, mentors will hopefully mark your proposal as accepted. And that’s how I got into it! 
