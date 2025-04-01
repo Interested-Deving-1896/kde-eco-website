@@ -1,5 +1,5 @@
 ---
-date: 2025-03-24
+date: 2025-04-01
 title: "Preparing KEcoLab Technical Documentation in Season of KDE ‘25"
 categories:  [SoK, Sustainability, KDE Eco, KEco Lab]
 author: Roopa Dharshini
