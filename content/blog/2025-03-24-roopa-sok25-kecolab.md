@@ -33,7 +33,6 @@ After this, I wrote various texts for the technical documentation (CI/CD pipelin
 
   
 
-With the help of wonderful teammates (fellow contributors) and mentors, I completed our tasks for SoK 2025 on time. 
 
 ## How did I apply to Season of KDE?
 
