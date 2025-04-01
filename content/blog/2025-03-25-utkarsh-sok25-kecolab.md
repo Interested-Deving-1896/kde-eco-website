@@ -1,7 +1,7 @@
 ---
 date: 2025-04-01
 title: "SoK25 Highlights: My Season of KDE Journey With KEcoLab"
-categories:  [SoK, Sustainability, KDE Eco, KEco Lab]
+categories:  [SoK, Sustainability, KDE Eco, KEcoLab]
 author: Utkarsh Umre
 summary: "My Season of KDE journey so far: tasks completed, hurdles faced, and KDE Eco Remote Eco Lab work"
 ---
