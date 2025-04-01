@@ -6,7 +6,6 @@ author: Utkarsh Umre
 summary: "My Season of KDE journey: tasks completed, hurdles faced, and KDE Eco Remote Eco Lab work."
 ---
 
-# Halfway Highlights: My Season of KDE Journey
 
 
 Hi everyone!
