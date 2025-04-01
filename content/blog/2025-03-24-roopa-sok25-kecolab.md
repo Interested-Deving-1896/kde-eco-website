@@ -21,7 +21,7 @@ I started by first week working to understanding the project's codebase, studyin
 
 ![Usage scenario script documentaion](images/2025-03-31-roopa-sok25-usage-scenario.png)
 
-During the second week, I created an outline for the entire technical documentation. Usage Scenarios scripts are the essential parts for executing the automation pipeline in KEcolab. So, we started our documentation process with usage scenario scripts, drafted a small page with it's importance, essential scripts, and its structure. This documentaion is structured in a way, even non-technical person can be able to follow the guidelines and create their own scripts.
+I got to work creating an outline for the entire technical documentation. Usage scenarios scripts are essential for executing the automation pipeline in KEcolab. So, my fellow mentees and I started our documentation process with usage scenario scripting: we drafted a short page describing it's importance, provided some scripts, and detailed their structure. This documentation is structured in a way that even non-technical contributors are able to follow the guidelines and create their own scripts.
 
 ### Week 3 - 4
 
