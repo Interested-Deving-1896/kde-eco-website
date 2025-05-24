@@ -3436,9 +3436,9 @@ msgid ""
 "data you want to keep first."
 msgstr ""
 "Arranqueul'ordinador des de l'USB: cal conéixer prèviament la combinació de "
-"teclat correcta. Feu clic en «Instal·lar» i seguiu les instruccions. Voila! "
-"Heu alliberat el vostre ordinador. Assegureu-vos que abans heu fet una còpia "
-"de seguretat de les dades que voleu conservar."
+"teclat correcta. Cliqueu damunt «Instal·lar» i seguiu les instruccions. "
+"Voila! Heu alliberat el vostre ordinador. Assegureu-vos que abans heu fet "
+"una còpia de seguretat de les dades que voleu conservar."
 
 # skip-rule: kct-box
 #: i18n/en.yaml:0
