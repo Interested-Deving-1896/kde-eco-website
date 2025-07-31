@@ -207,3 +207,8 @@ make-green.past-projects-section.feep.title:
   other: FOSS Energy Efficiency Project (FEEP)
 make-green.past-projects-section.be4foss.title:
   other: Blauer Engel For FOSS (BE4FOSS)
+endof10.text:
+  other: "Continue using your old computer after the end of Windows 10 support this October."
+endof10.visit:
+  other: "Visit endof10.org"
+
