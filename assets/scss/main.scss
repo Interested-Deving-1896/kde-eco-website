@@ -151,7 +151,6 @@ body {
     margin: 0;
     padding: 0.2em;
   }
-
 }
 
 /* Make Green Page Styles */
@@ -369,6 +368,42 @@ html {
 
     table td:last-child {
       border-bottom: 0;
+    }
+  }
+}
+
+.endof10 {
+  background: radial-gradient(at center top, #3477c8 0%, #13417b 75%);
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    max-width: 800px;
+    color: #f6f5f4 !important;
+    font-weight: 300;
+    font-variation-settings: "wght" 300;
+    text-align: left;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    strong {
+      display: block;
+      font-weight: 500;
+      font-variation-settings: "wght" 500;
+    }
+
+    svg {
+      fill: #fff;
+      width: 64px;
+      height: auto;
+      margin: 1rem;
     }
   }
 }
