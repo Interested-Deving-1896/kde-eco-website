@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-08-07 19:49+0000\n"
-"PO-Revision-Date: 2025-05-15 14:40+0200\n"
+"PO-Revision-Date: 2025-08-09 16:30+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: French <French <kde-francophone@kde.org>>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 25.04.1\n"
+"X-Generator: Lokalize 25.07.90\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -3683,10 +3683,12 @@ msgid ""
 "Continue using your old computer after the end of Windows 10 support this "
 "October."
 msgstr ""
+"Continuez à utiliser votre ancien ordinateur après la fin du support de "
+"Windows 10 en Octobre."
 
 #: i18n/en.yaml:0
 msgid "Visit endof10.org"
-msgstr ""
+msgstr "Visiter le site « endof10.org »"
 
 #~ msgid ""
 #~ "Switch programs when needed for software that is sustainable for users "
