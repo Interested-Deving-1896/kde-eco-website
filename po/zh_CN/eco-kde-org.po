@@ -25,7 +25,7 @@ msgstr "KDE Eco"
 
 #: config.yaml:0
 msgid "Building Energy-Efficient Free Software"
-msgstr "构建高能效的自由（开源）软件"
+msgstr "打造节能环保的自由软件"
 
 #: config.yaml:0
 msgid "Donate"
@@ -33,11 +33,11 @@ msgstr "捐款"
 
 #: content/be-green/_index.md:0 i18n/en.yaml:0
 msgid "Be Green"
-msgstr ""
+msgstr "绿色生活"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
-msgstr "生态标签"
+msgstr "节能环保标签"
 
 #: content/BE4FOSS/_index.md:9
 msgid ""
@@ -48,33 +48,33 @@ msgid ""
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
 msgstr ""
-"2020 年，德国环境署（德语：*Umweltbundesamt*）发布了蓝天使生态标签（Blue "
-"Angel ecolabel ，德语：*Blauer Engel*）桌面软件生态认证的奖励标准。从 2021 年"
-"到 2022 年，KDE Eco 下的 BE4FOSS 项目致力于在自由和开放源码软件社区推动资源和"
-"能源效率软件的生态认证。获得蓝天使生态标签分为三个步骤： (1）测量；（2）分"
-"析；（3）认证。"
+"2020 年，德国环境署 (德语：*Umweltbundesamt*) 发布了为桌面软件颁发蓝天使 "
+"(Blue Angel) 生态标签 (德语：*Blauer Engel*) 的生态认证标准。2021 至 2022 "
+"年，KDE Eco 旗下的 BE4FOSS 项目致力于推进开源软件社区中对资源和能源节约型软件"
+"的生态认证工作。获得蓝天使生态标签需经历三个步骤：(1) 测量、(2) 分析、(3) 认"
+"证。"
 
 #: content/BE4FOSS/_index.md:11
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr "获得蓝天使生态标签的好处包括"
+msgstr "获得蓝天使生态标签的好处包括："
 
 #: content/BE4FOSS/_index.md:12
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design,"
-msgstr ""
+msgstr "达到环境友好软件设计的高标准的社会认可，"
 
 #: content/BE4FOSS/_index.md:13
 msgid "Differentiating free software from the alternatives,"
-msgstr "将自由软件与其他软件区分开来、"
+msgstr "更好地区分自由软件与其他竞品的性质，"
 
 #: content/BE4FOSS/_index.md:14
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr "提高对消费者的吸引力，以及"
+msgstr "提高对消费者的吸引力，"
 
 #: content/BE4FOSS/_index.md:15
 msgid "Promoting transparency in the ecological footprint of software."
-msgstr ""
+msgstr "以及提高软件生态足迹的透明度。"
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
@@ -89,11 +89,11 @@ msgstr ""
 msgid ""
 "KDE Eco 2021 Sprint: Details On The Community Planning For KDE's Ecological "
 "Project"
-msgstr "KDE Eco 2021 冲刺： KDE 生态项目社区规划详情"
+msgstr "KDE Eco 2021 开发冲刺活动： KDE Eco 项目的社区工作规划详情"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Sprint 2021"
-msgstr "冲刺 2021"
+msgstr "2021 年开发冲刺活动"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
@@ -101,11 +101,11 @@ msgstr "冲刺 2021"
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/post-1.md:0
 msgid "Blauer Engel"
-msgstr "Blauer Engel"
+msgstr "Blauer Engel (蓝天使)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Community Lab"
-msgstr ""
+msgstr "社区实验室"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-05-energy-conservation-day.md:0
@@ -113,19 +113,19 @@ msgstr ""
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/2024-05-29_introducing-ns4nh.md:0 content/blog/post-1.md:0
 msgid "Joseph P. De Veaugh-Geiss"
-msgstr ""
+msgstr "Joseph P. De Veaugh-Geiss"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Follow-up to the KDE Eco Sprint announcement posted on The Dot."
-msgstr ""
+msgstr "KDE Eco 开发冲刺活动公告的后续内容已发表在 KDE Dot 新闻网站。"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:12
 msgid ""
 "This is a follow-up to the [KDE Eco Sprint announcement posted on The Dot]"
 "(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
 msgstr ""
-"这是 [The Dot 上发布的 KDE Eco Sprint 公告](https://dot.kde."
-"org/2021/12/24/2021-kde-eco-sprint)的后续。"
+"在 [KDE Dot 新闻网站上发表的 KDE Eco 开发冲刺活动公告](https://dot.kde."
+"org/2021/12/24/2021-kde-eco-sprint) 的后续报道。"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:14
 msgid ""
@@ -135,15 +135,20 @@ msgid ""
 "Nevertheless, the community deployed its usual resourcefulness, and we met "
 "online instead."
 msgstr ""
+"2021 年 12 月 11 日，KDE Eco 举办了众多计划中的开发冲刺活动中的第一场，有 7 "
+"人参加。这场开发冲刺活动原本计划以线下形式举行，以建立一个社区测量实验室，但"
+"新冠疫情打乱了我们的计划。社区针对当时的情况临机应变，改为在线上举行。"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:18
 msgid ""
 "![KDE Eco 2021 Sprint On KDE News](/blog/images/dot-sprint-2021_small.png)"
 msgstr ""
+"![KDE Eco 2021 开发冲刺活动在 KDE News 网站的报道](/blog/images/dot-"
+"sprint-2021_small.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:20
 msgid "*KDE Eco 2021 Sprint Announcement On KDE News*"
-msgstr ""
+msgstr "*KDE Eco 2021 开发冲刺活动在 KDE News 网站的报道*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:24
 msgid ""
@@ -1344,7 +1349,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
-msgstr ""
+msgstr "绿色选择 (Optr Green)：KDE Eco 的全新可持续软件项目"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "Sustainable Software"
@@ -1748,15 +1753,15 @@ msgstr ""
 
 #: content/blog/_index.md:0
 msgid "Blog"
-msgstr ""
+msgstr "博客"
 
 #: content/blog/_index.md:0
 msgid "Keep up with the latest news about the KDE Eco project"
-msgstr ""
+msgstr "查看 KDE Eco 项目的最新新闻"
 
 #: content/blog/_index.md:0
 msgid "KDE Eco blog"
-msgstr ""
+msgstr "KDE Eco 博客"
 
 #: content/blog/post-1.md:0 content/FEEP/_index.md:0
 msgid "Energy Efficiency"
@@ -1909,7 +1914,7 @@ msgstr "参与贡献"
 
 #: content/get-involved.md:0
 msgid "Become a part of the sustainable software movement!"
-msgstr ""
+msgstr "加入可持续软件运动！"
 
 #: content/get-involved.md:10
 msgid ""
@@ -1990,11 +1995,11 @@ msgstr ""
 
 #: content/make-green/_index.md:0 i18n/en.yaml:0
 msgid "Make Green"
-msgstr ""
+msgstr "绿色开发"
 
 #: content/make-green/_index.md:0
 msgid "Make green"
-msgstr ""
+msgstr "绿色开发"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -2018,55 +2023,58 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Opt Green"
-msgstr ""
+msgstr "绿色选择"
 
 #: i18n/en.yaml:0
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
-msgstr ""
+msgstr "独立自主、节能环保、长期支持老旧硬件的自由开源软件。"
 
 #: i18n/en.yaml:0
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "绿色生活 (最终用户)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"选择降低能源需求、延长硬件寿命、实现设备独立性以及用户自主控制，以构建更健康"
+"的数字社会。"
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "绿色倡议 (推广)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
-msgstr ""
+msgstr "构建社区和用户支持网络，将独立自主的、可持续软件的好处带给您的家乡。"
 
 #: i18n/en.yaml:0
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "绿色开发 (开发者)"
 
 #: i18n/en.yaml:0
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"开发应用程序和软件功能时，要注重能效和可持续发展，为当下也为子孙后代服务。"
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "自由开源软件的可持续性"
 
 #: i18n/en.yaml:0
 msgid "Featured blog posts"
-msgstr ""
+msgstr "精选博客文章"
 
 #: i18n/en.yaml:0
 msgid "Events"
-msgstr ""
+msgstr "活动"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2075,6 +2083,9 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"自由开源软件 (FOSS) 从设计之初便保证了透明度和用户自主权。这些并非附加特性，"
+"而是根植于开源开发模式和自由软件许可证的固有品质。自由开源的软件和硬件不需要"
+"依赖供应商提供支持。"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2083,6 +2094,9 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"自由开源软件可供任何人进行独立研究和改进，包括其能耗方面。迫使硬件的提前报废"
+"的做法不会影响自由开源软件。自由开源软件在几十年前的老设备上照样可以运行，让"
+"您的老设备可以一直用到硬件真正寿终正寝，不受软件停止支持的影响。"
 
 #: i18n/en.yaml:0
 msgid "About KDE and KDE Eco"
@@ -2096,6 +2110,9 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE 是一个由软件工程师、艺术家、作家、翻译人员和创作者组成的全球社区，致力于"
+"自由软件的开发。这是一个合作性的事业：为了打造世界上最出色的自由及开源软件这"
+"一共同的目标而一起努力。我们欢迎所有人加入 KDE 并做出贡献，当然也包括您。"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2106,6 +2123,10 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"自 2021 年以来，KDE 社区一直在支持 KDE Eco 项目，它的使命是在全球范围内开发和"
+"推广可持续的自由开源软件。随着数字化对生态的影响日益凸显，我们不断宣传软件设"
+"计在减少环境危害方面的作用。我们是众多以当下的实际行动贡献积极生态影响的社区"
+"和组织中的一员，我们为此感到骄傲。"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2137,7 +2158,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Learn More"
-msgstr ""
+msgstr "了解详情"
 
 #: i18n/en.yaml:0
 msgid "KDE Eco Handbook"
@@ -2157,6 +2178,12 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"此网站为开源网站，其源代码和资产的许可证可在 [KDE Eco 代码仓库](https://"
+"invent.kde.org/websites/eco-kde-org) 中找到。该网站已通过[greenwebfoundation."
+"org](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F"
+"%2Feco.kde.org) 的检查，并被标注为“绿色托管”。网站托管方为：Hetzner Online "
+"AG。该托管方的可持续性声明支持证据可在其 [可持续发展页面](https://www."
+"hetzner.com/unternehmen/umweltschutz) 中找到。"
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
@@ -2164,33 +2191,35 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
-msgstr ""
+msgstr "Okular 获得蓝天使生态标签认证"
 
 #: i18n/en.yaml:0
 msgid ""
 "In 2022, KDE’s popular multi-platform PDF reader and universal document "
 "viewer Okular became the first ever eco-certified computer program!"
 msgstr ""
+"2022 年，KDE 广受欢迎的多平台 PDF 阅读器和通用文档查看器 Okular 成为了有史以"
+"来首个获得蓝天使生态标签认证的计算机程序！"
 
 #: i18n/en.yaml:0
 msgid "Read More"
-msgstr ""
+msgstr "了解更多"
 
 #: i18n/en.yaml:0
 msgid "Join us in the sustainable software development movement!"
-msgstr ""
+msgstr "加入我们，一起投身可持续软件开发运动吧！"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
-msgstr ""
+msgstr "代码仓库"
 
 #: i18n/en.yaml:0
 msgid "Chat"
-msgstr ""
+msgstr "聊天室"
 
 #: i18n/en.yaml:0
 msgid "Mailing List"
-msgstr ""
+msgstr "邮件列表"
 
 #: i18n/en.yaml:0
 msgid "KDE’s Sustainable Software Goal"
@@ -2230,27 +2259,27 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "See all"
-msgstr ""
+msgstr "查看全部"
 
 #: i18n/en.yaml:0
 msgid "Categories"
-msgstr ""
+msgstr "类别"
 
 #: i18n/en.yaml:0
 msgid "Read more"
-msgstr ""
+msgstr "了解更多"
 
 #: i18n/en.yaml:0
 msgid "View all posts"
-msgstr ""
+msgstr "查看所有文章"
 
 #: i18n/en.yaml:0
 msgid "News from the blog"
-msgstr ""
+msgstr "博客资讯"
 
 #: i18n/en.yaml:0
 msgid "Install Free & Open Source Software"
-msgstr ""
+msgstr "安装自由开源软件"
 
 #: i18n/en.yaml:0
 msgid "Opt Free with FOSS Apps"
@@ -2287,11 +2316,11 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "See All"
-msgstr ""
+msgstr "查看全部"
 
 #: i18n/en.yaml:0
 msgid "KDE for Creators"
-msgstr ""
+msgstr "KDE 为创作者服务"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2300,7 +2329,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "KDE for Gamers"
-msgstr ""
+msgstr "KDE 为游戏玩家服务"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2310,7 +2339,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "KDE for Students"
-msgstr ""
+msgstr "KDE 为学生服务"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2381,7 +2410,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Learn more"
-msgstr ""
+msgstr "了解详情"
 
 #: i18n/en.yaml:0
 msgid "Framework"
@@ -2395,7 +2424,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr ""
+msgstr "开发高能效的自由开源软件"
 
 #: i18n/en.yaml:0
 msgid "Measure Software Energy Use"
@@ -2443,11 +2472,11 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "View Repository"
-msgstr ""
+msgstr "查看代码仓库"
 
 #: i18n/en.yaml:0
 msgid "Use the KDE Eco Handbook"
-msgstr ""
+msgstr "使用 KDE Eco 手册"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2475,7 +2504,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Past Projects"
-msgstr ""
+msgstr "过去的项目"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
@@ -2489,4 +2518,4 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Visit endof10.org"
-msgstr ""
+msgstr "访问“Win 10 末日 (End of 10)”活动网站"
