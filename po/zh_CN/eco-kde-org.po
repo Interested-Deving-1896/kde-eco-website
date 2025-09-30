@@ -1921,77 +1921,93 @@ msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
+"我们需要尽可能多的积极主动的人来推动可持续软件运动。以下是您可以获取更多信息"
+"并做出贡献的一些渠道。"
 
 #: content/get-involved.md:12
 msgid "Community & Support"
-msgstr ""
+msgstr "社区和支持"
 
 #: content/get-involved.md:14
 msgid ""
 "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/"
 "+1:00) (contact us for details)"
 msgstr ""
+"每月会议 (视频会议)：每月的第二个星期三，19:00 CEST/CET (UTC+2:00/+1:00) (详"
+"情请联系我们)"
 
 #: content/get-involved.md:15
 msgid ""
 "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
-msgstr ""
+msgstr "Matrix 聊天室 (讨论)：https://webchat.kde.org/#/room/#kde-eco:kde.org"
 
 #: content/get-involved.md:16
 msgid ""
 "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
 "eco-discuss"
 msgstr ""
+"邮件列表 (讨论)：https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-"
+"discuss"
 
 #: content/get-involved.md:17
 msgid ""
 "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "kde-eco-announce"
 msgstr ""
+"邮件列表 (公告)：https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-"
+"announce"
 
 #: content/get-involved.md:19
 msgid "Resources"
-msgstr ""
+msgstr "资源"
 
 #: content/get-involved.md:21
 msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 msgstr ""
+"可持续软件目标 (社区百科)：https://community.kde.org/Goals/"
+"Sustainable_Software"
 
 #: content/get-involved.md:22
 msgid ""
 "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
 "opt-green"
 msgstr ""
+"绿色选择 (Opt Green) 项目 (GitLab 代码仓库)：https://invent.kde.org/teams/"
+"eco/opt-green"
 
 #: content/get-involved.md:23
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
 msgstr ""
+"Remote Eco Lab (GitLab 代码仓库)：https://invent.kde.org/teams/eco/remote-"
+"eco-lab"
 
 #: content/get-involved.md:24
 msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
-msgstr ""
+msgstr "FEEP (GitLab 代码仓库)：https://invent.kde.org/teams/eco/feep"
 
 #: content/get-involved.md:25
 msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
-msgstr ""
+msgstr "BE4FOSS (GitLab 代码仓库)：https://invent.kde.org/teams/eco/be4foss"
 
 #: content/get-involved.md:26
 msgid ""
 "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
 "eco/blue-angel-application"
 msgstr ""
+"Blue Angel 应用程序 (GitLab 代码仓库)：https://invent.kde.org/teams/eco/blue-"
+"angel-application"
 
 #: content/get-involved.md:28
 msgid "Contact"
-msgstr ""
+msgstr "联系我们"
 
 #: content/get-involved.md:30
 msgid "Email: `joseph [at] kde.org`"
-msgstr ""
+msgstr "Email: `joseph [at] kde.org`"
 
 #: content/make-green/_index.md:0 i18n/en.yaml:0
 msgid "Make Green"
@@ -2134,20 +2150,22 @@ msgid ""
 "KDE has the goal of providing software which does this in a way that reduces "
 "software’s environmental impact for us and future generations."
 msgstr ""
+"软件对能源和资源的消耗有着直接的影响。自 2022 年以来，KDE 的目标是提供能够以"
+"减少软件对环境影响的方式运行的软件，造福我们及子孙后代。"
 
 #: i18n/en.yaml:0
 msgid "Free and open source software Energy Efficiency Project"
-msgstr ""
+msgstr "自由开源软件能源效率项目"
 
 #: i18n/en.yaml:0
 msgid ""
 "How can you measure software’s energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
-msgstr ""
+msgstr "如何衡量软件的能耗？这有什么意义？我们正在努力让自由软件更具可持续性。"
 
 #: i18n/en.yaml:0
 msgid "Blauer Engel for Free and Open Source Software"
-msgstr ""
+msgstr "自由开源软件蓝天使生态标识认证"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2155,6 +2173,8 @@ msgid ""
 "transferred to software? What criteria is relevant? We need more pioneers to "
 "find out how we can make software sustainable."
 msgstr ""
+"生态标签在实物产品上已经得到了广泛应用，但如何将其应用于软件呢？哪些标准是相"
+"关的？我们需要更多的先驱者来探索如何使软件具有可持续性。"
 
 #: i18n/en.yaml:0
 msgid "Learn More"
@@ -2162,7 +2182,7 @@ msgstr "了解详情"
 
 #: i18n/en.yaml:0
 msgid "KDE Eco Handbook"
-msgstr ""
+msgstr "KDE Eco 手册"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
@@ -2187,7 +2207,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Plots of real time measurements using KDE’s LabPlot."
-msgstr ""
+msgstr "使用 KDE 的 LabPlot 绘制的实时测量数据图表。"
 
 #: i18n/en.yaml:0
 msgid "Okular Awarded Blue Angel Ecolabel"
@@ -2223,39 +2243,39 @@ msgstr "邮件列表"
 
 #: i18n/en.yaml:0
 msgid "KDE’s Sustainable Software Goal"
-msgstr ""
+msgstr "KDE 的可持续软件目标"
 
 #: i18n/en.yaml:0
 msgid "Image of computer directory with globe"
-msgstr ""
+msgstr "带有地球仪的电脑文件夹图片"
 
 #: i18n/en.yaml:0
 msgid "FOSS Energy Efficiency Project (FEEP)"
-msgstr ""
+msgstr "自由开源软件能效项目 (FEEP)"
 
 #: i18n/en.yaml:0
 msgid "Image of globe with computer mouse"
-msgstr ""
+msgstr "带有地球仪的电脑鼠标的图片"
 
 #: i18n/en.yaml:0
 msgid "Blauer Engel For FOSS (BE4FOSS)"
-msgstr ""
+msgstr "自由开源软件蓝天使生态标识 (BE4FOSS)"
 
 #: i18n/en.yaml:0
 msgid "Image of Blauer Engel ecolabel"
-msgstr ""
+msgstr "蓝天使生态标识图像"
 
 #: i18n/en.yaml:0
 msgid "This Website Is Hosted Green"
-msgstr ""
+msgstr "此网站符合绿色托管标准"
 
 #: i18n/en.yaml:0
 msgid "Image of Green Web Foundation label"
-msgstr ""
+msgstr "绿色网络基础标签图像"
 
 #: i18n/en.yaml:0
 msgid "Image of BMUV/UBA"
-msgstr ""
+msgstr "BMUV/UBA 图像"
 
 #: i18n/en.yaml:0
 msgid "See all"
@@ -2283,28 +2303,28 @@ msgstr "安装自由开源软件"
 
 #: i18n/en.yaml:0
 msgid "Opt Free with FOSS Apps"
-msgstr ""
+msgstr "选择自由软件"
 
 #: i18n/en.yaml:0
 msgid "Install sustainable apps on any computer and operating system."
-msgstr ""
+msgstr "在任意计算机和操作系统上安装可持续发展的自由开源应用程序。"
 
 #: i18n/en.yaml:0
 msgid "Set Free with Old Hardware"
-msgstr ""
+msgstr "解放老旧硬件"
 
 #: i18n/en.yaml:0
 msgid "Vendors control and kill support for aging hardware, by design."
-msgstr ""
+msgstr "从不再提供支持的企业手中解放老旧硬件。"
 
 #: i18n/en.yaml:0
 msgid "Be Free with New Hardware"
-msgstr ""
+msgstr "购买自由硬件"
 
 #: i18n/en.yaml:0
 msgid ""
 "Hardware made for independent software can be used as long as one wants."
-msgstr ""
+msgstr "购买可以长期使用的兼容自由开源软件的硬件。"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2313,6 +2333,9 @@ msgid ""
 "demands on resources. Switch programs when needed and choose software that "
 "is more sustainable for users and for the environment."
 msgstr ""
+"使用自由开源的应用程序能给用户带来更多灵活性。自由开源软件让您对自己使用的软"
+"件的资源需求更有掌控力，可以更长时间地使用旧硬件。自由开源软件不会人为设置障"
+"碍，让您可以随心所欲地更换使用的软件，并选择对用户和环境都更可持续的软件。"
 
 #: i18n/en.yaml:0
 msgid "See All"
@@ -2325,7 +2348,7 @@ msgstr "KDE 为创作者服务"
 #: i18n/en.yaml:0
 msgid ""
 "Creative software tools tailored for artists, designers, and media creators."
-msgstr ""
+msgstr "专为画师、设计师和媒体创作者打造的创意工具。"
 
 #: i18n/en.yaml:0
 msgid "KDE for Gamers"
@@ -2335,7 +2358,7 @@ msgstr "KDE 为游戏玩家服务"
 msgid ""
 "Powerful gaming applications for an optimized and immersive gaming "
 "experience."
-msgstr ""
+msgstr "好玩有趣、没有干扰、运行轻快的游戏应用程序。"
 
 #: i18n/en.yaml:0
 msgid "KDE for Students"
@@ -2345,31 +2368,33 @@ msgstr "KDE 为学生服务"
 msgid ""
 "Educational software that provides flexible and user-friendly tools for "
 "students."
-msgstr ""
+msgstr "为学生提供灵活好用的教学工具。"
 
 #: i18n/en.yaml:0
 msgid "Set Free Your Old Hardware"
-msgstr ""
+msgstr "解放老旧硬件"
 
 #: i18n/en.yaml:0
 msgid ""
 "Installing a Free & Open Source operating system takes just 3 steps and the "
 "time needed to enjoy a couple cups of tea."
-msgstr ""
+msgstr "安装一款自由开源的操作系统只需三步，所需时间仅相当于喝上几杯茶。"
 
 #: i18n/en.yaml:0
 msgid "Download a FOSS Operating System"
-msgstr ""
+msgstr "下载一款自由开源操作系统"
 
 #: i18n/en.yaml:0
 msgid ""
 "Download the FOSS operating system you want to install. For devices less "
 "than 10 years old, Fedora Linux with KDE spin is our recommendation."
 msgstr ""
+"下载任意一款您喜欢的自由开源软件 (FOSS) 操作系统。对于使用时间不足 10 年的设"
+"备，我们推荐安装带有 KDE 桌面环境的 Fedora Linux 发行版。"
 
 #: i18n/en.yaml:0
 msgid "Flash Operating System to a USB Stick"
-msgstr ""
+msgstr "烧录操作系统镜像到 U 盘"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2377,10 +2402,12 @@ msgid ""
 "stick. This will overwrite all data on the USB stick, so make sure to back "
 "up the files you want to keep."
 msgstr ""
+"任选一款 U 盘烧录工具，将操作系统镜像烧录到 U 盘上。这会覆盖 U 盘上的所有数"
+"据，所以请记得备份您想要保留的文件。"
 
 #: i18n/en.yaml:0
 msgid "Boot and Install on Computer"
-msgstr ""
+msgstr "启动到 U 盘系统并安装"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2389,6 +2416,9 @@ msgid ""
 "Voila! You have set your computer free. Make sure you have backed up any "
 "data you want to keep first."
 msgstr ""
+"从 U 盘启动电脑——每台电脑的具体键位不同，请自行确定在开机时需要按的键位。点"
+"击“安装”并按照屏幕提示操作即可。不费多少功夫，您已经解放了您的电脑。请务必先"
+"备份好您想要保留的所有数据。"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2397,16 +2427,20 @@ msgid ""
 "can use them however you want, for as long as you want. Support for "
 "repairability is a focus for the recommended devices featured here!"
 msgstr ""
+"KDE 与多家硬件供应商合作，致力于为用户提供开箱即用的最佳体验。由于这些设备支"
+"持自由开源软件，您可以随心所欲地使用它们，想用多久就用多久。这里推荐的设备还"
+"特别注重可维修性。"
 
 #: i18n/en.yaml:0
 msgid "Slimbook"
-msgstr ""
+msgstr "Slimbook"
 
 #: i18n/en.yaml:0
 msgid ""
 "With a FOSS operating system pre-installed and a large catalog of spare "
 "parts, your Slimbook can remain in use for years to come."
 msgstr ""
+"Slimbook 预装了自由开源操作系统，且准备了大量备件，确保它可以持续使用多年。"
 
 #: i18n/en.yaml:0
 msgid "Learn more"
@@ -2414,13 +2448,14 @@ msgstr "了解详情"
 
 #: i18n/en.yaml:0
 msgid "Framework"
-msgstr ""
+msgstr "Framework"
 
 #: i18n/en.yaml:0
 msgid ""
 "By designing hardware to be modular and customizable, a Framework computer "
 "is as easy to repair as snapping in a new part."
 msgstr ""
+"通过将硬件设计成可定制的模块化形式，Framework 电脑可以轻松更换硬件和维修。"
 
 #: i18n/en.yaml:0
 msgid "Develop Energy-Efficient Free & Open Source Software"
@@ -2428,37 +2463,40 @@ msgstr "开发高能效的自由开源软件"
 
 #: i18n/en.yaml:0
 msgid "Measure Software Energy Use"
-msgstr ""
+msgstr "测量软件能耗"
 
 #: i18n/en.yaml:0
 msgid ""
 "Free & Open Source Software has always been about transparency – let's "
 "extend that transparency to software's energy demands."
 msgstr ""
+"自由开源软件向来注重透明度——让我们将这种透明度延伸至软件的能源需求方面。"
 
 #: i18n/en.yaml:0
 msgid "Read the KDE Eco Handbook"
-msgstr ""
+msgstr "查看 KDE Eco 手册"
 
 #: i18n/en.yaml:0
 msgid ""
 "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
 "certify software and why it matters."
 msgstr ""
+"《Applying The Blue Angel Criteria To Free Software》手册详细介绍了如何对软件"
+"进行生态认证以及其重要性。"
 
 #: i18n/en.yaml:0
 msgid "Prepare Scripts to Measure Energy Use"
-msgstr ""
+msgstr "准备测量能耗用的脚本"
 
 #: i18n/en.yaml:0
 msgid ""
 "Energy consumption measurements require a scripted and replicable workflow "
 "of actions."
-msgstr ""
+msgstr "能耗测量需要一套有脚本可循且可重复的操作流程。"
 
 #: i18n/en.yaml:0
 msgid "Measure Your Software's Energy Use"
-msgstr ""
+msgstr "测量软件能耗"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2469,6 +2507,10 @@ msgid ""
 "measurement process you will have an energy consumption report ready for "
 "Blue Angel eco certification."
 msgstr ""
+"搭建实验室并不复杂，只需购买一个外接功率计并按照 KDE Eco 手册中的实验室搭建指"
+"南操作即可。KEcoLab 进一步简化了此过程，它能让开发者通过 GitLab 的 CI/CD 管道"
+"远程测量软件的能耗。而且在测量过程结束时，您将获得一份可用于蓝天使生态认证的"
+"能耗报告。"
 
 #: i18n/en.yaml:0
 msgid "View Repository"
@@ -2501,6 +2543,9 @@ msgid ""
 "for reproducing computer actions by simulating keyboard and mouse activity. "
 "The tools work on GNU/Linux and Microsoft Windows."
 msgstr ""
+"模拟用户行为，轻松复制您的测量结果。科学测量才是正道！KdeEcoTest 和 "
+"KdeEcoTestCreator 是两款基于 Python 的工具，旨在通过模拟键盘和鼠标操作来重现"
+"用户对计算机操作。这些工具可在 GNU/Linux 和 Microsoft Windows 系统上运行。"
 
 #: i18n/en.yaml:0
 msgid "Past Projects"
@@ -2508,13 +2553,13 @@ msgstr "过去的项目"
 
 #: i18n/en.yaml:0
 msgid "KDE's Sustainable Software Goal"
-msgstr ""
+msgstr "KDE 的可持续软件目标"
 
 #: i18n/en.yaml:0
 msgid ""
 "Continue using your old computer after the end of Windows 10 support this "
 "October."
-msgstr ""
+msgstr "即使 Windows 10 在今年 10 月停止支持，您仍可在旧电脑上运行最新软件。"
 
 #: i18n/en.yaml:0
 msgid "Visit endof10.org"
