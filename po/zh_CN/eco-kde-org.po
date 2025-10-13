@@ -160,7 +160,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
 msgid "Did you know?"
-msgstr ""
+msgstr "你知道吗？"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:28
 msgid ""
@@ -2543,7 +2543,7 @@ msgid ""
 "for reproducing computer actions by simulating keyboard and mouse activity. "
 "The tools work on GNU/Linux and Microsoft Windows."
 msgstr ""
-"模拟用户行为，轻松复制您的测量结果。科学测量才是正道！KdeEcoTest 和 "
+"模拟用户行为，轻松复现您的测量结果。科学测量才是正道！KdeEcoTest 和 "
 "KdeEcoTestCreator 是两款基于 Python 的工具，旨在通过模拟键盘和鼠标操作来重现"
 "用户对计算机操作。这些工具可在 GNU/Linux 和 Microsoft Windows 系统上运行。"
 
