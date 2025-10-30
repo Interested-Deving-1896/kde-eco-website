@@ -1,21 +1,22 @@
-# SPDX-FileCopyrightText: 2024 Nicole Teale <nteale77@gmail.com>
 # SPDX-FileCopyrightText: 2022 Frederik Schwarzer <schwarzer@kde.org>
-# SPDX-FileCopyrightText: 2024 joseph <joseph@kde.com>
 # SPDX-FileCopyrightText: 2024 Frank Steinmetzger <dev-kde@felsenfleischer.de>
+# SPDX-FileCopyrightText: 2024 joseph <joseph@kde.com>
+# SPDX-FileCopyrightText: 2024 Nicole Teale <nteale77@gmail.com>
+# SPDX-FileCopyrightText: 2025 Philipp Kiemle <l10n@prly.mozmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-08-07 19:49+0000\n"
-"PO-Revision-Date: 2024-07-25 21:44+0200\n"
-"Last-Translator: joseph <joseph@kde.com>\n"
+"PO-Revision-Date: 2025-10-19 16:46+0200\n"
+"Last-Translator: Philipp Kiemle <l10n.daphipz@fastmail.de>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 24.05.2\n"
+"X-Generator: Lokalize 25.08.1\n"
 
 #: config.yaml:0 content/_index.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -50,10 +51,8 @@ msgid ""
 msgstr ""
 
 #: content/BE4FOSS/_index.md:11
-#, fuzzy
-#| msgid "The benefits of obtaining the ecolabel include:"
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr "Die Zertifizierung bringt einige Vorteile mit sich:"
+msgstr "Die „Blauer Engel“-Zertifizierung bringt einige Vorteile mit sich:"
 
 #: content/BE4FOSS/_index.md:12
 #, fuzzy
@@ -80,10 +79,8 @@ msgid "Increasing the appeal of adoption for consumers, and"
 msgstr "Erhöhung der Attraktivität der Anwendung für Benutzer*innen"
 
 #: content/BE4FOSS/_index.md:15
-#, fuzzy
-#| msgid "Promoting transparency in the ecological footprint of software"
 msgid "Promoting transparency in the ecological footprint of software."
-msgstr "Förderung der Transparenz des ökologischen Fußabdrucks von Software"
+msgstr "Förderung der Transparenz des ökologischen Fußabdrucks von Software."
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
@@ -99,7 +96,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Sprint 2021"
-msgstr ""
+msgstr "Sprint 2021"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
@@ -107,7 +104,7 @@ msgstr ""
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/post-1.md:0
 msgid "Blauer Engel"
-msgstr ""
+msgstr "Blauer Engel"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #, fuzzy
@@ -121,7 +118,7 @@ msgstr "Kommunizieren"
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/2024-05-29_introducing-ns4nh.md:0 content/blog/post-1.md:0
 msgid "Joseph P. De Veaugh-Geiss"
-msgstr ""
+msgstr "Joseph P. De Veaugh-Geiss"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Follow-up to the KDE Eco Sprint announcement posted on The Dot."
@@ -177,7 +174,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:36
 msgid "Creating a KDE Eco team"
-msgstr ""
+msgstr "Gründung eines KDE-Eco-Teams"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:38
 msgid ""
@@ -256,11 +253,11 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:59
 msgid "![Okular Icon](/blog/images/128-apps-okular.png)"
-msgstr ""
+msgstr "![Okular-Icon](/blog/images/128-apps-okular.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:61
 msgid "*Okular Icon*"
-msgstr ""
+msgstr "*Okular-Icon*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:65
 msgid ""
@@ -347,11 +344,11 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:81
 msgid "![KMail Welcome Screen](/blog/images/kmailwelcome.png)"
-msgstr ""
+msgstr "![KMail-Willkommensbildschirm](/blog/images/kmailwelcome.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:83
 msgid "*KMail Welcome Screen*"
-msgstr ""
+msgstr "*KMail-Willkommensbildschirm*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:87
 msgid ""
@@ -426,7 +423,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:101
 msgid "Data output"
-msgstr ""
+msgstr "Datenausgabe"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:103
 msgid ""
@@ -539,7 +536,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:130
 msgid "Future collaboration:"
-msgstr ""
+msgstr "Zukünftige Zusammenarbeit:"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:131
 msgid ""
@@ -560,7 +557,7 @@ msgstr ""
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:134
 msgid "Conclusion"
-msgstr ""
+msgstr "Fazit"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:136
 msgid ""
@@ -598,12 +595,13 @@ msgstr ""
 msgid ""
 "<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
 msgstr ""
+"<img src=\"/blog/images/bmuv.png\" alt=\"BMUV-Logo\" width=\"340px\"/>\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:146
 #: content/blog/2022-03-05-energy-conservation-day.md:41
 #: content/blog/2024-05-29_introducing-ns4nh.md:122 content/blog/post-1.md:67
 msgid "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
-msgstr ""
+msgstr "<img src=\"/blog/images/uba.jpg\" alt=\"UBA-Logo\" width=\"250px\"/>\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
@@ -625,15 +623,15 @@ msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "SOK22"
-msgstr ""
+msgstr "SOK22"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Automation Tools"
-msgstr ""
+msgstr "Automatisierungs-Tools"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Karanjot Singh"
-msgstr ""
+msgstr "Karanjot Singh"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid ""
@@ -650,7 +648,7 @@ msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:16
 msgid "About Me"
-msgstr ""
+msgstr "Über mich"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:18
 msgid ""
@@ -799,34 +797,24 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:71
-#, fuzzy
-#| msgid "**Measure** in dedicated labs, such as at KDAB Berlin"
 msgid "**MEASURE** in dedicated labs, such as at KDAB Berlin"
-msgstr "**Messen** in Laboren, wie z. B. bei KDAB Berlin"
+msgstr "**MESSUNG** in speziellen Laboren, wie z. B. bei KDAB Berlin"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:72
-#, fuzzy
-#| msgid ""
-#| "**Analyze** using statistical tools such as OSCAR (Open source Software "
-#| "Consumption Analysis in R)"
 msgid ""
 "**ANALYZE** using statistical tools such as OSCAR (Open-source Software "
 "Consumption Analysis in R)"
 msgstr ""
-"**Analysieren** mit statistischen Tools wie OSCAR (Open source Software "
+"**ANALYSE** mit statistischen Tools wie OSCAR (Open source Software "
 "Consumption Analysis in R)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:73
-#, fuzzy
-#| msgid ""
-#| "**Certify** by submitting the report on the fulfillment of the Blauer "
-#| "Engel criteria"
 msgid ""
 "**CERTIFY** by submitting the report on the fulfilment of the Blauer Engel "
 "criteria"
 msgstr ""
-"**Zertifizieren** durch Einreichung des Nachweises über die Erfüllung der "
-"Kriterien des Blauen Engels"
+"**ZERTIFIZIERUNG** durch Einreichen des Nachweises über die Erfüllung der "
+"„Blauer Engel“-Kriterien"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:75
 msgid ""
@@ -956,18 +944,18 @@ msgstr ""
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 msgid "Energy Conservation"
-msgstr ""
+msgstr "Energiesparen"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 #: content/blog/post-1.md:0
 msgid "Free Software"
-msgstr ""
+msgstr "Freie Software"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Sustainability"
-msgstr ""
+msgstr "Nachhaltigkeit"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 msgid ""
@@ -1002,7 +990,7 @@ msgstr ""
 
 #: content/blog/2022-03-05-energy-conservation-day.md:19
 msgid "![](/blog/images/tag-des-energiesparens.jpg)"
-msgstr ""
+msgstr "![](/blog/images/tag-des-energiesparens.jpg)"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:21
 msgid ""
@@ -1028,7 +1016,7 @@ msgstr ""
 
 #: content/blog/2022-03-05-energy-conservation-day.md:27
 msgid "You can be part of that."
-msgstr ""
+msgstr "Sie können Teil davon sein."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:29
 msgid ""
@@ -1070,7 +1058,7 @@ msgstr ""
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Okular"
-msgstr ""
+msgstr "Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid "Global Ecolabelling Network"
@@ -1082,11 +1070,11 @@ msgstr ""
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:16
 msgid "Okular screenshot"
-msgstr ""
+msgstr "Okular-Screenshot"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:18
 msgid "Okular Icon"
-msgstr ""
+msgstr "Okular-Icon"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:20
 msgid ""
@@ -1175,10 +1163,8 @@ msgid ""
 msgstr ""
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:30
-#, fuzzy
-#| msgid "Image of Blauer Engel ecolabel"
 msgid "Blue Angel Ecolabel"
-msgstr "Logo des „Blauer Engel“-Umweltzeichens"
+msgstr "„Blauer Engel“-Umweltzeichen"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:32
 msgid ""
@@ -1564,9 +1550,9 @@ msgstr ""
 "Dadurch werden noch mehr Millionen und Abermillionen funktionierende Geräte "
 "überflüssig gemacht. Wenn Nutzende keine Kontrolle über die Software haben, "
 "auf die sie sich verlassen, besteht für sie ein Sicherheitsrisiko, wenn der "
-"Software-Support endet ... es sei denn, sie kaufen einen neuen Computer. "
-"(Zum Vergleich: Erst im Jahr 2022 schlug Linus Torvalds erstmals vor, die "
-"[Linux-Kernel-Unterstützung](https://www.phoronix.com/news/Intel-i486-Linux-"
+"Software-Support endet … es sei denn, sie kaufen einen neuen Computer. (Zum "
+"Vergleich: Erst im Jahr 2022 schlug Linus Torvalds erstmals vor, die [Linux-"
+"Kernel-Unterstützung](https://www.phoronix.com/news/Intel-i486-Linux-"
 "Possible-Drop) für Intel 486-Prozessoren aus dem Jahr 1989 einzustellen. Das "
 "sind 33 Jahre Unterstützung!)"
 
@@ -1764,7 +1750,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:78
 msgid "Giving Consumers What They Want"
-msgstr "Den Konsumenten geben, was sie wollen"
+msgstr "Den Verbrauchern geben, was sie möchten"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:80
 msgid ""
@@ -1902,10 +1888,10 @@ msgid ""
 "what they want today, and we will be working hard to make sure they know "
 "that."
 msgstr ""
-"Konsumenten brauchen keinen neuen Computer, um sichere und aktuelle Software "
-"zu erhalten; sie brauchen nur die richtige Software. Freie Software bietet "
-"Nutzenden bereits heute, was sie sich wünschen, und wir werden hart daran "
-"arbeiten, dass sie das auch erfahren."
+"Verbraucher benötigen keinen neuen Computer, um sichere und aktuelle "
+"Software zu erhalten; sie benötigen nur die richtige Software. Freie "
+"Software bietet Nutzenden bereits heute, was sie sich wünschen, und wir "
+"werden hart daran arbeiten, dass sie das auch erfahren."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:98
 msgid "Ready To Join Us?"
@@ -1942,10 +1928,10 @@ msgid ""
 "like you to report on the project in magazines and newspapers. Let's work "
 "together to bring sustainable software to your community!"
 msgstr ""
-"Wir brauchen Freiwillige wie Sie, um die „Opt Green“-Kampagne in Städte auf "
-"der ganzen Welt zu bringen. Wir brauchen Freiwillige wie Sie, um "
+"Wir benötigen Freiwillige wie Sie, um die „Opt Green“-Kampagne in Städte auf "
+"der ganzen Welt zu bringen. Wir benötigen Freiwillige wie Sie, um "
 "ansprechende Leitfäden und ansprechendes Material für die weltweite "
-"Verbreitung zu entwerfen. Wir brauchen Freiwillige wie Sie, um in Magazinen "
+"Verbreitung zu entwerfen. Wir benötigen Freiwillige wie Sie, um in Magazinen "
 "und Zeitungen über das Projekt zu berichten. Lassen Sie uns gemeinsam daran "
 "arbeiten, nachhaltige Software in Ihre Gemeinde zu bringen!"
 
@@ -2016,10 +2002,8 @@ msgid "Keep up with the latest news about the KDE Eco project"
 msgstr "Bleiben Sie auf dem Laufenden über das KDE Eco-Projekt"
 
 #: content/blog/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco"
 msgid "KDE Eco blog"
-msgstr "KDE Eco"
+msgstr "KDE Eco Blog"
 
 #: content/blog/post-1.md:0 content/FEEP/_index.md:0
 msgid "Energy Efficiency"
@@ -2201,72 +2185,51 @@ msgid "Get Involved"
 msgstr "Machen Sie mit"
 
 #: content/get-involved.md:0
-#, fuzzy
-#| msgid "Join us for a sustainable software development movement!"
 msgid "Become a part of the sustainable software movement!"
-msgstr ""
-"Machen Sie mit bei der Bewegung für eine nachhaltige Softwareentwicklung!"
+msgstr "Werden Sie Teil der Bewegung für nachhaltige Software!"
 
 #: content/get-involved.md:10
-#, fuzzy
-#| msgid ""
-#| "We need as many motivated people as possible to drive this forward. Here "
-#| "are some channels where you can get more information and contribute."
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
-"Wir brauchen so viele motivierte Menschen wie möglich, um das Projekt "
+"Wir benötigen so viele motivierte Menschen wie möglich, um das Projekt "
 "voranzutreiben. Hier sind einige Kanäle, über die Sie weitere Informationen "
 "erhalten und sich engagieren können."
 
 #: content/get-involved.md:12
-#, fuzzy
-#| msgid "Community Support"
 msgid "Community & Support"
-msgstr "Community Support"
+msgstr "Gemeinschaft & Unterstützung"
 
 #: content/get-involved.md:14
-#, fuzzy
-#| msgid ""
-#| "BigBlueButton : Monthly meet-ups, 2nd Wednesdays 17:00 UTC (contact us "
-#| "for details)"
 msgid ""
 "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/"
 "+1:00) (contact us for details)"
 msgstr ""
-"BigBlueButton: Monatliche Treffen, 2. Mittwoch 19:00 CET/CEST (kontaktieren "
-"Sie uns für Details)"
+"Monatliche Treffen (Videokonferenz): 2. Mittwoch im Monat um 19:00 CET/CEST "
+"(UTC+2:00/+1:00) (kontaktieren Sie uns für Details)"
 
 #: content/get-involved.md:15
-#, fuzzy
-#| msgid ""
-#| "Matrix Room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
 msgid ""
 "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
-msgstr "Matrix-Raum: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+msgstr ""
+"Matrix-Raum (Diskussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 
 #: content/get-involved.md:16
-#, fuzzy
-#| msgid ""
-#| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#| "efficiency"
 msgid ""
 "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
 "eco-discuss"
 msgstr ""
-"Mailingliste: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency"
+"Mailingliste (Diskussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
+"eco-discuss"
 
 #: content/get-involved.md:17
-#, fuzzy
-#| msgid ""
-#| "Mailing list: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#| "efficiency"
 msgid ""
 "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "kde-eco-announce"
 msgstr ""
-"Mailingliste: https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency"
+"Mailingliste (Ankündigungen): https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"kde-eco-announce"
 
 #: content/get-involved.md:19
 msgid "Resources"
@@ -2281,20 +2244,20 @@ msgstr ""
 "Goals/ Sustainable_Software"
 
 #: content/get-involved.md:22
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid ""
 "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
 "opt-green"
-msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
+msgstr ""
+"„Opt Green“-Projekt (GitLab-Repository): https://invent.kde.org/teams/eco/"
+"opt-green"
 
 #: content/get-involved.md:23
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
-msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
+msgstr ""
+"Remote Eco Lab (GitLab-Repository): https://invent.kde.org/teams/eco/remote-"
+"eco-lab"
 
 #: content/get-involved.md:24
 #, fuzzy
@@ -2303,18 +2266,17 @@ msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
 msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
 
 #: content/get-involved.md:25
-#, fuzzy
-#| msgid "BE4FOSS GitLab repository: https://invent.kde.org/joseph/be4foss"
 msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
-msgstr "BE4FOSS-GitLab-Repository: https://invent.kde.org/teams/eco/be4foss"
+msgstr ""
+"„BE4FOSS“ (GitLab-Repository): https://invent.kde.org/teams/eco/be4foss"
 
 #: content/get-involved.md:26
-#, fuzzy
-#| msgid "FEEP GitLab repository: https://invent.kde.org/cschumac/feep"
 msgid ""
 "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
 "eco/blue-angel-application"
-msgstr "FEEP-GitLab-Repository: https://invent.kde.org/teams/eco/feep"
+msgstr ""
+"Blue Angel Applications (GitLab-Repository): https://invent.kde.org/teams/"
+"eco/blue-angel-application"
 
 #: content/get-involved.md:28
 msgid "Contact"
@@ -2385,7 +2347,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Grow Green (Advocate)"
-msgstr "Grow Green ((Multiplikator*in)"
+msgstr "Grow Green (Multiplikator*in)"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2497,10 +2459,6 @@ msgid "Free and open source software Energy Efficiency Project"
 msgstr "Projekt für Energieeffizienz in Freier und Open-Source-Software"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid ""
-#| "How can you measure software's energy consumption? And does it make a "
-#| "difference? We are working to make free software more sustainable."
 msgid ""
 "How can you measure software’s energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
@@ -2520,20 +2478,16 @@ msgid ""
 msgstr ""
 "Nachhaltigkeitslabels für Produkte sind bereits weit verbreitet. Aber wie "
 "lassen sich diese auf Software übertragen? Welche Kriterien sind relevant? "
-"Wir brauchen mehr Pionier*innen, um herauszufinden, wie wir Software "
+"Wir benötigen mehr Pionier*innen, um herauszufinden, wie wir Software "
 "nachhaltig gestalten können."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn more"
 msgid "Learn More"
 msgstr "Mehr erfahren"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco"
 msgid "KDE Eco Handbook"
-msgstr "KDE Eco"
+msgstr "KDE Eco Handbuch"
 
 #: i18n/en.yaml:0
 msgid "About This Website"
@@ -2552,7 +2506,7 @@ msgstr ""
 "Diese Website ist Open-Source. Der Quellcode und die Lizenzen für die Assets "
 "sind im [KDE Eco Repository](https://invent.kde.org/websites/eco-kde-org) zu "
 "finden. Diese Website wurde von [greenwebfoundation.org](https://www."
-"thegreenwebfoundation.org/green-web-check/url=https%3A%2F%2Feco.kde.org) "
+"thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde.org) "
 "überprüft und ist als „Grün gehostet\" gekennzeichnet. Die Website wird von "
 "Hetzner Online AG gehostet. Belege für die Angaben dieses Hosters finden Sie "
 "auf der [Seite](https://www.hetzner.com/unternehmen/umweltschutz) zum Thema "
@@ -2563,10 +2517,8 @@ msgid "Plots of real time measurements using KDE’s LabPlot."
 msgstr "Diagramme von Echtzeitmessungen mit KDEs LabPlot."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Image of Blauer Engel ecolabel"
 msgid "Okular Awarded Blue Angel Ecolabel"
-msgstr "Logo des „Blauer Engel“-Umweltzeichens"
+msgstr "Okular mit „Blauer Engel“-Umweltzeichen ausgezeichnet"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2582,11 +2534,8 @@ msgid "Read More"
 msgstr "Erfahren Sie mehr"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Join us for a sustainable software development movement!"
 msgid "Join us in the sustainable software development movement!"
-msgstr ""
-"Machen Sie mit bei der Bewegung für eine nachhaltige Softwareentwicklung!"
+msgstr "Werden Sie Teil der Bewegung für nachhaltige Softwareentwicklung!"
 
 #: i18n/en.yaml:0
 msgid "Repositories"
@@ -2633,10 +2582,8 @@ msgid "Image of Green Web Foundation label"
 msgstr "Bild des Labels der Green Web Foundation"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Image of BMU/UBA"
 msgid "Image of BMUV/UBA"
-msgstr "Logo des BMU/UBA"
+msgstr "Bild des BMUV/UBA"
 
 #: i18n/en.yaml:0
 msgid "See all"
@@ -2647,10 +2594,8 @@ msgid "Categories"
 msgstr "Kategorien"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn more"
 msgid "Read more"
-msgstr "Mehr erfahren"
+msgstr "Weiterlesen"
 
 #: i18n/en.yaml:0
 msgid "View all posts"
@@ -2661,10 +2606,8 @@ msgid "News from the blog"
 msgstr "Neues aus dem Blog"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Blauer Engel for Free and Open Source Software"
 msgid "Install Free & Open Source Software"
-msgstr "Blauer Engel für Freie und Open-Source-Software"
+msgstr "Freie & Open Source Software installieren"
 
 #: i18n/en.yaml:0
 msgid "Opt Free with FOSS Apps"
@@ -2811,8 +2754,8 @@ msgid ""
 msgstr ""
 "KDE arbeitet mit verschiedenen Hardwareanbietern zusammen, um von Anfang an "
 "das beste Erlebnis zu bieten. Da diese Geräte Freie und Open-Source-Software "
-"unterstützen, können Sie sie so nutzen, wie Sie wollen und so lange Sie "
-"wollen. Die Unterstützung der Reparierbarkeit ist ein Schwerpunkt der hier "
+"unterstützen, können Sie sie so nutzen, wie Sie möchten und so lange Sie "
+"möchten. Die Unterstützung der Reparierbarkeit ist ein Schwerpunkt der hier "
 "vorgestellten, empfohlenen Geräte!"
 
 #: i18n/en.yaml:0
@@ -2828,8 +2771,6 @@ msgstr ""
 "Ersatzteilen kann Ihr Slimbook jahrelang genutzt werden."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Learn more"
 msgid "Learn more"
 msgstr "Mehr erfahren"
 
@@ -2846,10 +2787,8 @@ msgstr ""
 "Framework-Computers möglich – einfach ein neues Teil einsetzen"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "Building Energy-Efficient Free Software"
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr "Freie Software energieeffizient entwickeln"
+msgstr "Energieeffiziente Freie & Open Source Software entwickeln"
 
 #: i18n/en.yaml:0
 msgid "Measure Software Energy Use"
@@ -2864,10 +2803,8 @@ msgstr ""
 "diese Transparenz auf den Energieverbrauch von Software ausweiten."
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco"
 msgid "Read the KDE Eco Handbook"
-msgstr "KDE Eco"
+msgstr "Lesen Sie das KDE Eco Handbuch"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2915,10 +2852,8 @@ msgid "View Repository"
 msgstr "Repository ansehen"
 
 #: i18n/en.yaml:0
-#, fuzzy
-#| msgid "KDE Eco"
 msgid "Use the KDE Eco Handbook"
-msgstr "KDE Eco"
+msgstr "Nutzen Sie das KDE Eco Handbuch"
 
 #: i18n/en.yaml:0
 msgid ""
@@ -2971,7 +2906,7 @@ msgstr ""
 
 #: i18n/en.yaml:0
 msgid "Visit endof10.org"
-msgstr ""
+msgstr "endof10.org besuchen"
 
 #~ msgid "**Get Involved**"
 #~ msgstr "**Mitmachen**"
