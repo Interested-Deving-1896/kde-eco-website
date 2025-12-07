@@ -11,7 +11,7 @@ authors:
 
 KDE's Okular is the [first software](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/) which got awarded with the [Blue Angel label for resource and energy-efficient software products](https://www.blauer-engel.de/en/certification/basic-award-criteria#UZ215-2020). The certification was based on the first version of the criteria for this product criteria which were introduced in 2020. Now the criteria have been updated. What has changed and what does that mean for KDE?
 
-The revised criteria are available as [version 4](https://produktinfo.blauer-engel.de/uploads/criteriafile/de/DE-UZ%20215-202001-de%20Kriterien-V4.pdf) on the [Blue Angel web site](https://www.blauer-engel.de/en). Only the German version is currently available; the English version will follow shortly.
+The revised criteria are available as [version 4](https://produktinfo.blauer-engel.de/uploads/criteriafile/de/171/DE-UZ%20215-202001-de%20Kriterien-V4.pdf) (in German) on the [Blue Angel web site](https://www.blauer-engel.de/en). There also is an [English version](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/171/DE-UZ%20215-202406-en-Criteria-V4.pdf) available.
 
 ## New software categories
 
