@@ -3059,8 +3059,8 @@ msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
-"Desenvolupeu aplicacions i funcionalitats de programari amb un enfocament en "
-"l'eficiència i la sostenibilitat per a esta generació i les futures."
+"Desenvolupeu aplicacions i característiques de programari amb un enfocament "
+"en l'eficiència i la sostenibilitat per a esta generació i les futures."
 
 #: i18n/en.yaml:0
 msgid "What makes FOSS sustainable?"
