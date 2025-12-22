@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-11-17 09:01+0000\n"
+"POT-Creation-Date: 2025-12-22 02:01+0000\n"
 "PO-Revision-Date: 2025-12-02 09:51+0100\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
@@ -34,7 +34,8 @@ msgstr "Construcció de programari lliure energèticament eficient"
 msgid "Donate"
 msgstr "Donació"
 
-#: content/be-green/_index.md:0 i18n/en.yaml:0
+#. be-green.header
+#: content/be-green/_index.md:0 i18n/en.yaml:99
 msgid "Be Green"
 msgstr "Sigueu verds"
 
@@ -2872,7 +2873,8 @@ msgstr ""
 "col·labora amb un ús més sostenible de l'energia com un dels recursos "
 "compartits del nostre planeta."
 
-#: content/get-involved.md:0 i18n/en.yaml:0
+#. home.engage
+#: content/get-involved.md:0 i18n/en.yaml:60
 msgid "Get Involved"
 msgstr "Com participar"
 
@@ -2976,7 +2978,8 @@ msgstr "Contacte"
 msgid "Email: `joseph [at] kde.org`"
 msgstr "Correu: `joseph [at] kde.org`"
 
-#: content/make-green/_index.md:0 i18n/en.yaml:0
+#. make-green.header
+#: content/make-green/_index.md:0 i18n/en.yaml:167
 msgid "Make Green"
 msgstr "Creeu verd"
 
@@ -3013,11 +3016,13 @@ msgstr ""
 "sostenibilitat i creant estàndards/eines per a quantificar la sostenibilitat "
 "del programari."
 
-#: i18n/en.yaml:0
+#. home.header
+#: i18n/en.yaml:2
 msgid "Opt Green"
 msgstr "Opteu pel verd"
 
-#: i18n/en.yaml:0
+#. home.header-subtitle
+#: i18n/en.yaml:4
 msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
@@ -3025,11 +3030,13 @@ msgstr ""
 "Programari lliure de codi obert independent i eficient energèticament per a "
 "l'ús de maquinari a llarg termini."
 
-#: i18n/en.yaml:0
+#. home.sustainability-title
+#: i18n/en.yaml:6
 msgid "Be Green (End User)"
 msgstr "Sigueu verds (usuari final)"
 
-#: i18n/en.yaml:0
+#. home.sustainability-description
+#: i18n/en.yaml:8
 msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
@@ -3038,11 +3045,13 @@ msgstr ""
 "la independència del dispositiu i el control de l'usuari per a una societat "
 "digital més saludable."
 
-#: i18n/en.yaml:0
+#. home.advocate-title
+#: i18n/en.yaml:10
 msgid "Grow Green (Advocate)"
 msgstr "Creixement verd (defensa)"
 
-#: i18n/en.yaml:0
+#. home.advocate-description
+#: i18n/en.yaml:12
 msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
@@ -3050,11 +3059,13 @@ msgstr ""
 "Construïu comunitats i xarxes de suport als usuaris per a aportar els "
 "beneficis d'un programari independent i sostenible a la vostra ciutat natal."
 
-#: i18n/en.yaml:0
+#. home.impact-title
+#: i18n/en.yaml:14
 msgid "Make Green (Dev)"
 msgstr "Creeu verd (desenvolupament)"
 
-#: i18n/en.yaml:0
+#. home.impact-description
+#: i18n/en.yaml:16
 msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
@@ -3062,19 +3073,23 @@ msgstr ""
 "Desenvolupeu aplicacions i característiques de programari amb un enfocament "
 "en l'eficiència i la sostenibilitat per a esta generació i les futures."
 
-#: i18n/en.yaml:0
+#. home.about-foss-title
+#: i18n/en.yaml:18
 msgid "What makes FOSS sustainable?"
 msgstr "Què fa que el FOSS siga sostenible?"
 
-#: i18n/en.yaml:0
+#. home.featured-blog-posts-title
+#: i18n/en.yaml:20
 msgid "Featured blog posts"
 msgstr "Articles destacats del blog"
 
-#: i18n/en.yaml:0
+#. home.events-title
+#: i18n/en.yaml:22
 msgid "Events"
 msgstr "Esdeveniments"
 
-#: i18n/en.yaml:0
+#. home.about-foss-description
+#: i18n/en.yaml:24
 msgid ""
 "Free & Open Source Software (FOSS) guarantees transparency and user "
 "autonomy, by design. These are not features, but inherent qualities to open "
@@ -3087,7 +3102,8 @@ msgstr ""
 "Com a resultat, el programari i el maquinari ja no depenen dels proveïdors "
 "per al suport."
 
-#: i18n/en.yaml:0
+#. home.about-foss-description-2
+#: i18n/en.yaml:26
 msgid ""
 "FOSS can be studied and improved independently, including in its energy "
 "consumption. Premature hardware obsolescence is a thing of the past. FOSS "
@@ -3100,11 +3116,13 @@ msgstr ""
 "Manteniu l'ordinador en ús fins al final de la vida útil del maquinari, no "
 "del programari."
 
-#: i18n/en.yaml:0
+#. home.about-kde-title
+#: i18n/en.yaml:28
 msgid "About KDE and KDE Eco"
 msgstr "Quant a KDE i KDE Eco"
 
-#: i18n/en.yaml:0
+#. home.about-kde-description-kde
+#: i18n/en.yaml:30
 msgid ""
 "KDE is a world-wide community of software engineers, artists, writers, "
 "translators, and creators who are committed to Free Software development. We "
@@ -3119,7 +3137,8 @@ msgstr ""
 "lliure i de codi obert del món. Tothom hi és benvingut a unir-se i "
 "contribuir a KDE, incloent-vos-hi."
 
-#: i18n/en.yaml:0
+#. home.about-kde-description-kde-2
+#: i18n/en.yaml:32
 msgid ""
 "Supported by the KDE community since 2021, KDE Eco has the ongoing mission "
 "of the development and adoption of sustainable Free & Open Source Software "
@@ -3136,7 +3155,8 @@ msgstr ""
 "comunitats i organitzacions que treballen per a tindre un impacte ecològic "
 "positiu, hui dia."
 
-#: i18n/en.yaml:0
+#. home.header.sustainable-goal.description
+#: i18n/en.yaml:34
 msgid ""
 "Software has a direct affect on energy and resource consumption. Since 2022, "
 "KDE has the goal of providing software which does this in a way that reduces "
@@ -3147,11 +3167,13 @@ msgstr ""
 "manera que reduïsca l'impacte ambiental del programari per a nosaltres i per "
 "a les generacions futures."
 
-#: i18n/en.yaml:0
+#. home.header.feep.subtitle
+#: i18n/en.yaml:36
 msgid "Free and open source software Energy Efficiency Project"
 msgstr "Projecte d'eficiència energètica de programari de codi lliure i obert"
 
-#: i18n/en.yaml:0
+#. home.header.feep.description
+#: i18n/en.yaml:38
 msgid ""
 "How can you measure software’s energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
@@ -3159,11 +3181,13 @@ msgstr ""
 "Com es pot mesurar el consum d'energia del programari? I açò marca una "
 "diferència? Estem treballant per a fer més sostenible el programari lliure."
 
-#: i18n/en.yaml:0
+#. home.header.be4foss.subtitle
+#: i18n/en.yaml:40
 msgid "Blauer Engel for Free and Open Source Software"
 msgstr "Blauer Engel per a programari de codi lliure i obert"
 
-#: i18n/en.yaml:0
+#. home.header.be4foss.description
+#: i18n/en.yaml:42
 msgid ""
 "Eco-labels for products are used widely already. But how can they be "
 "transferred to software? What criteria is relevant? We need more pioneers to "
@@ -3173,19 +3197,23 @@ msgstr ""
 "poden transferir cap al programari? Quins criteris són importants? "
 "Necessitem més pioners per a esbrinar com podem fer programari sostenible."
 
-#: i18n/en.yaml:0
+#. home.header.more
+#: i18n/en.yaml:44 i18n/en.yaml:149 i18n/en.yaml:175
 msgid "Learn More"
 msgstr "Apreneu-ne més"
 
-#: i18n/en.yaml:0
+#. home.eco-handbook
+#: i18n/en.yaml:46
 msgid "KDE Eco Handbook"
 msgstr "Manual de KDE Eco"
 
-#: i18n/en.yaml:0
+#. home.about-website
+#: i18n/en.yaml:48
 msgid "About This Website"
 msgstr "Sobre este lloc web"
 
-#: i18n/en.yaml:0
+#. home.about-website-description
+#: i18n/en.yaml:50
 msgid ""
 "This website is open-source. Source code and asset licenses can be found in "
 "the [KDE Eco Repository](https://invent.kde.org/websites/eco-kde-org). This "
@@ -3204,15 +3232,18 @@ msgstr ""
 "d'este proveïdor: [Pàgina de sostenibilitat](https://www.hetzner.com/"
 "unternehmen/umweltschutz)."
 
-#: i18n/en.yaml:0
+#. home.eco-handbook.alt
+#: i18n/en.yaml:52
 msgid "Plots of real time measurements using KDE’s LabPlot."
 msgstr "Diagrames de mesures en temps real utilitzant LabPlot de KDE."
 
-#: i18n/en.yaml:0
+#. home.okular
+#: i18n/en.yaml:54
 msgid "Okular Awarded Blue Angel Ecolabel"
 msgstr "Okular ha rebut l'ecoetiqueta Blue Angel"
 
-#: i18n/en.yaml:0
+#. home.okular.be
+#: i18n/en.yaml:56
 msgid ""
 "In 2022, KDE’s popular multi-platform PDF reader and universal document "
 "viewer Okular became the first ever eco-certified computer program!"
@@ -3221,117 +3252,144 @@ msgstr ""
 "multiplataforma de KDE, Okular, ha esdevingut el primer programa d'ordinador "
 "eco-certificat!"
 
-#: i18n/en.yaml:0
+#. home.okular.pr
+#: i18n/en.yaml:58 i18n/en.yaml:195
 msgid "Read More"
 msgstr "Llegiu més"
 
-#: i18n/en.yaml:0
+#. home.engage.joinus
+#: i18n/en.yaml:62
 msgid "Join us in the sustainable software development movement!"
 msgstr "Uniu-vos al moviment de desenvolupament de programari sostenible!"
 
-#: i18n/en.yaml:0
+#. home.engage.repo
+#: i18n/en.yaml:64
 msgid "Repositories"
 msgstr "Repositoris"
 
-#: i18n/en.yaml:0
+#. home.engage.matrix
+#: i18n/en.yaml:66
 msgid "Chat"
 msgstr "Xat"
 
-#: i18n/en.yaml:0
+#. home.engage.mailinglist
+#: i18n/en.yaml:68
 msgid "Mailing List"
 msgstr "Llista de correu"
 
-#: i18n/en.yaml:0
+#. home.sustainable-goal
+#: i18n/en.yaml:70
 msgid "KDE’s Sustainable Software Goal"
 msgstr "Objectiu de programari sostenible de KDE"
 
-#: i18n/en.yaml:0
+#. home.sustainable-goal.alt
+#: i18n/en.yaml:72
 msgid "Image of computer directory with globe"
 msgstr "Imatge d'un directori d'ordinador amb un globus"
 
-#: i18n/en.yaml:0
+#. home.feep
+#: i18n/en.yaml:74 i18n/en.yaml:207
 msgid "FOSS Energy Efficiency Project (FEEP)"
 msgstr "FOSS Energy Efficiency Project (FEEP)"
 
-#: i18n/en.yaml:0
+#. home.feep.alt
+#: i18n/en.yaml:76
 msgid "Image of globe with computer mouse"
 msgstr "Imatge d'un globus amb un ratolí d'ordinador"
 
-#: i18n/en.yaml:0
+#. home.be4foss
+#: i18n/en.yaml:78 i18n/en.yaml:209
 msgid "Blauer Engel For FOSS (BE4FOSS)"
 msgstr "Blauer Engel For FOSS (BE4FOSS)"
 
-#: i18n/en.yaml:0
+#. home.be4foss.alt
+#: i18n/en.yaml:80
 msgid "Image of Blauer Engel ecolabel"
 msgstr "Imatge de l'ecoetiqueta Blauer Engel"
 
-#: i18n/en.yaml:0
+#. home.greenweb
+#: i18n/en.yaml:82
 msgid "This Website Is Hosted Green"
 msgstr "Este lloc web està allotjat en un servidor eco"
 
-#: i18n/en.yaml:0
+#. home.greenweb.alt
+#: i18n/en.yaml:84
 msgid "Image of Green Web Foundation label"
 msgstr "Imatge de l'etiqueta de la Green Web Foundation"
 
-#: i18n/en.yaml:0
+#. home.funding.alt
+#: i18n/en.yaml:86
 msgid "Image of BMUV/UBA"
 msgstr "Imatge de BMUV/UBA"
 
-#: i18n/en.yaml:0
+#. home.button.see-all
+#: i18n/en.yaml:88
 msgid "See all"
 msgstr "Veure-ho tot"
 
-#: i18n/en.yaml:0
+#. blog.categories
+#: i18n/en.yaml:90
 msgid "Categories"
 msgstr "Categories"
 
-#: i18n/en.yaml:0
+#. read-more
+#: i18n/en.yaml:92
 msgid "Read more"
 msgstr "Llegiu més"
 
-#: i18n/en.yaml:0
+#. view-all-posts
+#: i18n/en.yaml:94
 msgid "View all posts"
 msgstr "Visualitza tots els articles"
 
-#: i18n/en.yaml:0
+#. posts
+#: i18n/en.yaml:96
 msgid "News from the blog"
 msgstr "Notícies del blog"
 
-#: i18n/en.yaml:0
+#. be-green.header-subtitle
+#: i18n/en.yaml:101
 msgid "Install Free & Open Source Software"
 msgstr "Instal·leu programari de codi lliure i obert"
 
-#: i18n/en.yaml:0
+#. be-green.opt-free.title
+#: i18n/en.yaml:103 i18n/en.yaml:115
 msgid "Opt Free with FOSS Apps"
 msgstr "Opteu per la llibertat amb aplicacions FOSS"
 
-#: i18n/en.yaml:0
+#. be-green.opt-free.description
+#: i18n/en.yaml:105
 msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
 "Instal·leu aplicacions sostenibles en qualsevol ordinador i sistema operatiu."
 
-#: i18n/en.yaml:0
+#. be-green.set-free.title
+#: i18n/en.yaml:107
 msgid "Set Free with Old Hardware"
 msgstr "Allibereu-vos amb maquinari antic"
 
-#: i18n/en.yaml:0
+#. be-green.set-free.description
+#: i18n/en.yaml:109
 msgid "Vendors control and kill support for aging hardware, by design."
 msgstr ""
 "Els proveïdors controlen i abandonen el suport del maquinari envellit, per "
 "disseny."
 
-#: i18n/en.yaml:0
+#. be-green.be-free.title
+#: i18n/en.yaml:111 i18n/en.yaml:151
 msgid "Be Free with New Hardware"
 msgstr "Sigueu lliures amb maquinari nou"
 
-#: i18n/en.yaml:0
+#. be-green.be-free.description
+#: i18n/en.yaml:113
 msgid ""
 "Hardware made for independent software can be used as long as one wants."
 msgstr ""
 "El maquinari fet per a programari independent es pot utilitzar sempre que es "
 "vullga."
 
-#: i18n/en.yaml:0
+#. be-green.opt-free-section.description
+#: i18n/en.yaml:117
 msgid ""
 "Using Free & Open Source software applications gives users flexibility. You "
 "can use older hardware for longer when you have control over software's "
@@ -3344,26 +3402,31 @@ msgstr ""
 "quan siga necessari i trieu un programari més sostenible per als usuaris i "
 "per al medi ambient."
 
-#: i18n/en.yaml:0
+#. be-green.opt-free-section.button
+#: i18n/en.yaml:119
 msgid "See All"
 msgstr "Veure-ho tot"
 
-#: i18n/en.yaml:0
+#. be-green.opt-free-section.creators.title
+#: i18n/en.yaml:121
 msgid "KDE for Creators"
 msgstr "KDE per a creadors"
 
-#: i18n/en.yaml:0
+#. be-green.opt-free-section.creators.description
+#: i18n/en.yaml:123
 msgid ""
 "Creative software tools tailored for artists, designers, and media creators."
 msgstr ""
 "Eines de programari creatiu adaptades als artistes, dissenyadors i creadors "
 "multimèdia."
 
-#: i18n/en.yaml:0
+#. be-green.opt-free-section.gamers.title
+#: i18n/en.yaml:125
 msgid "KDE for Gamers"
 msgstr "KDE per a jugadors"
 
-#: i18n/en.yaml:0
+#. be-green.opt-free-section.gamers.description
+#: i18n/en.yaml:127
 msgid ""
 "Powerful gaming applications for an optimized and immersive gaming "
 "experience."
@@ -3371,11 +3434,13 @@ msgstr ""
 "Aplicacions potents de jocs per a una experiència de joc optimitzada i "
 "immersiva."
 
-#: i18n/en.yaml:0
+#. be-green.opt-free-section.students.title
+#: i18n/en.yaml:129
 msgid "KDE for Students"
 msgstr "KDE per a estudiants"
 
-#: i18n/en.yaml:0
+#. be-green.opt-free-section.students.description
+#: i18n/en.yaml:131
 msgid ""
 "Educational software that provides flexible and user-friendly tools for "
 "students."
@@ -3383,12 +3448,14 @@ msgstr ""
 "Programari educatiu que proporciona eines flexibles i fàcils d'utilitzar per "
 "als estudiants."
 
-#: i18n/en.yaml:0
+#. be-green.set-free-section.title
+#: i18n/en.yaml:133
 msgid "Set Free Your Old Hardware"
 msgstr "Allibereu el vostre maquinari antic"
 
 # skip-rule: da-te
-#: i18n/en.yaml:0
+#. be-green.set-free-section.description
+#: i18n/en.yaml:135
 msgid ""
 "Installing a Free & Open Source operating system takes just 3 steps and the "
 "time needed to enjoy a couple cups of tea."
@@ -3396,11 +3463,13 @@ msgstr ""
 "La instal·lació d'un sistema operatiu de codi obert i lliure té només 3 "
 "passos i el temps necessari per a gaudir d'un parell de tasses de te."
 
-#: i18n/en.yaml:0
+#. be-green.set-free-section.download-title
+#: i18n/en.yaml:137
 msgid "Download a FOSS Operating System"
 msgstr "Baixeu un sistema operatiu FOSS"
 
-#: i18n/en.yaml:0
+#. be-green.set-free-section.download-description
+#: i18n/en.yaml:139
 msgid ""
 "Download the FOSS operating system you want to install. For devices less "
 "than 10 years old, Fedora Linux with KDE spin is our recommendation."
@@ -3408,11 +3477,13 @@ msgstr ""
 "Baixeu el sistema operatiu FOSS que voleu instal·lar. Per a dispositius de "
 "menys de 10 anys, Fedora Linux amb KDE spin és la nostra recomanació."
 
-#: i18n/en.yaml:0
+#. be-green.set-free-section.flash-title
+#: i18n/en.yaml:141
 msgid "Flash Operating System to a USB Stick"
 msgstr "Graveu el sistema operatiu a una memòria USB"
 
-#: i18n/en.yaml:0
+#. be-green.set-free-section.flash-description
+#: i18n/en.yaml:143
 msgid ""
 "With one of several easy-to-use tools, flash the operating system to a USB "
 "stick. This will overwrite all data on the USB stick, so make sure to back "
@@ -3423,11 +3494,13 @@ msgstr ""
 "així que assegureu-vos de fer una còpia de seguretat dels fitxers que voleu "
 "conservar."
 
-#: i18n/en.yaml:0
+#. be-green.set-free-section.boot-title
+#: i18n/en.yaml:145
 msgid "Boot and Install on Computer"
 msgstr "Arranqueui instal·leu a l'ordinador"
 
-#: i18n/en.yaml:0
+#. be-green.set-free-section.boot-description
+#: i18n/en.yaml:147
 msgid ""
 "Boot your computer from USB – you will need to know the correct keyboard "
 "combination beforehand. Click \"Install\" and follow the instructions. "
@@ -3440,7 +3513,8 @@ msgstr ""
 "una còpia de seguretat de les dades que voleu conservar."
 
 # skip-rule: kct-box
-#: i18n/en.yaml:0
+#. be-green.be-free-section.description
+#: i18n/en.yaml:153
 msgid ""
 "KDE partners with several hardware providers to give the best experience out-"
 "of-the-box. Because these devices support Free & Open Source Software, you "
@@ -3453,11 +3527,13 @@ msgstr ""
 "El suport perquè siguen reparables és un enfocament per als dispositius "
 "recomanats ací!"
 
-#: i18n/en.yaml:0
+#. be-green.be-free-section.slimbook-title
+#: i18n/en.yaml:155
 msgid "Slimbook"
 msgstr "Slimbook"
 
-#: i18n/en.yaml:0
+#. be-green.be-free-section.slimbook-description
+#: i18n/en.yaml:157
 msgid ""
 "With a FOSS operating system pre-installed and a large catalog of spare "
 "parts, your Slimbook can remain in use for years to come."
@@ -3465,15 +3541,18 @@ msgstr ""
 "Amb un sistema operatiu FOSS preinstal·lat i un gran catàleg de peces de "
 "recanvi, el vostre Slimbook pot romandre en ús durant els pròxims anys."
 
-#: i18n/en.yaml:0
+#. be-green.be-free-section.slimbook-button
+#: i18n/en.yaml:159 i18n/en.yaml:165
 msgid "Learn more"
 msgstr "Aprendre'n més"
 
-#: i18n/en.yaml:0
+#. be-green.be-free-section.framework-title
+#: i18n/en.yaml:161
 msgid "Framework"
 msgstr "Framework"
 
-#: i18n/en.yaml:0
+#. be-green.be-free-section.framework-description
+#: i18n/en.yaml:163
 msgid ""
 "By designing hardware to be modular and customizable, a Framework computer "
 "is as easy to repair as snapping in a new part."
@@ -3481,15 +3560,18 @@ msgstr ""
 "En dissenyar el maquinari perquè siga modular i personalitzable, un "
 "ordinador Framework és tan fàcil de reparar com encaixar una part nova."
 
-#: i18n/en.yaml:0
+#. make-green.header-subtitle
+#: i18n/en.yaml:169
 msgid "Develop Energy-Efficient Free & Open Source Software"
 msgstr "Desenvolupament de programari lliure i obert energèticament eficient"
 
-#: i18n/en.yaml:0
+#. make-green.measure.title
+#: i18n/en.yaml:171
 msgid "Measure Software Energy Use"
 msgstr "Mesureu l'ús energètic del programari"
 
-#: i18n/en.yaml:0
+#. make-green.measure.description
+#: i18n/en.yaml:173
 msgid ""
 "Free & Open Source Software has always been about transparency – let's "
 "extend that transparency to software's energy demands."
@@ -3497,11 +3579,13 @@ msgstr ""
 "El programari lliure de codi obert sempre ha sigut transparent, ampliem esta "
 "transparència a les demandes energètiques del programari."
 
-#: i18n/en.yaml:0
+#. make-green.read.title
+#: i18n/en.yaml:177
 msgid "Read the KDE Eco Handbook"
 msgstr "Llegiu el Manual de KDE Eco"
 
-#: i18n/en.yaml:0
+#. make-green.read.description
+#: i18n/en.yaml:179
 msgid ""
 "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
 "certify software and why it matters."
@@ -3509,11 +3593,13 @@ msgstr ""
 "«Applying The Blue Angel Criteria To Free Software» detalla com "
 "ecocertificar el programari i per què és important."
 
-#: i18n/en.yaml:0
+#. make-green.prepare.title
+#: i18n/en.yaml:181 i18n/en.yaml:197
 msgid "Prepare Scripts to Measure Energy Use"
 msgstr "Prepareu scripts per a mesurar l'ús d'energia"
 
-#: i18n/en.yaml:0
+#. make-green.prepare.description
+#: i18n/en.yaml:183
 msgid ""
 "Energy consumption measurements require a scripted and replicable workflow "
 "of actions."
@@ -3521,11 +3607,13 @@ msgstr ""
 "Les mesures de consum d'energia requerixen un flux de treball d'accions "
 "programades amb scripts i reproduïbles."
 
-#: i18n/en.yaml:0
+#. make-green.measure-section.title
+#: i18n/en.yaml:185
 msgid "Measure Your Software's Energy Use"
 msgstr "Mesureu l'ús energètic del vostre programari"
 
-#: i18n/en.yaml:0
+#. make-green.measure-section.description
+#: i18n/en.yaml:187
 msgid ""
 "Setting up a lab is as easy as buying an external power meter and following "
 "the lab setup guide in the KDE Eco handbook. KEcoLab makes the process even "
@@ -3541,15 +3629,18 @@ msgstr ""
 "de CI/CD de GitLab. A més, al final del procés de mesurament tindreu un "
 "informe de consum energètic llest per a l'ecocertificació de Blue Angel."
 
-#: i18n/en.yaml:0
+#. make-green.measure-section.button
+#: i18n/en.yaml:189 i18n/en.yaml:201
 msgid "View Repository"
 msgstr "Veure el repositori"
 
-#: i18n/en.yaml:0
+#. make-green.handbook.title
+#: i18n/en.yaml:191
 msgid "Use the KDE Eco Handbook"
 msgstr "Utilitzeu el Manual de KDE Eco"
 
-#: i18n/en.yaml:0
+#. make-green.handbook.description
+#: i18n/en.yaml:193
 msgid ""
 "The handbook \"Applying The Blue Angel Criteria To Free Software\" gives an "
 "overview of the environmental harm driven by software and how the Blue Angel "
@@ -3567,7 +3658,8 @@ msgstr ""
 "lliure i obert fomenten la sostenibilitat, així com configurar un laboratori "
 "dedicat a mesurar el consum d'energia del programari."
 
-#: i18n/en.yaml:0
+#. make-green.script-section.description
+#: i18n/en.yaml:199
 msgid ""
 "Emulate user behavior for easy replication of your measurements. That's good "
 "science! KdeEcoTest and KdeEcoTestCreator are Python-based tools designed "
@@ -3580,15 +3672,18 @@ msgstr ""
 "l'activitat de teclat i ratolí. Les eines funcionen amb GNU/Linux i "
 "Microsoft Windows."
 
-#: i18n/en.yaml:0
+#. make-green.past-projects-section.title
+#: i18n/en.yaml:203
 msgid "Past Projects"
 msgstr "Projectes anteriors"
 
-#: i18n/en.yaml:0
+#. make-green.past-projects-section.sustainable-goal.title
+#: i18n/en.yaml:205
 msgid "KDE's Sustainable Software Goal"
 msgstr "Objectiu de programari sostenible de KDE"
 
-#: i18n/en.yaml:0
+#. endof10.text
+#: i18n/en.yaml:211
 msgid ""
 "Continue using your old computer after the end of Windows 10 support this "
 "October."
@@ -3596,6 +3691,7 @@ msgstr ""
 "Continueu utilitzant el vostre ordinador antic després del final del suport "
 "de Windows 10 este Octubre."
 
-#: i18n/en.yaml:0
+#. endof10.visit
+#: i18n/en.yaml:213
 msgid "Visit endof10.org"
 msgstr "Visiteu endof10.org"
