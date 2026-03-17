@@ -58,7 +58,7 @@ I am achieving this by:
  1. An intro video about what Selenium is and how it is useful in achieving KDE's goals.
 
  2. Setting up Selenium.
- 3. Using the [`accerciser`](https://help.gnome.org/users/accerciser/stable/introduction.html.en) utility to discover accessibility elements.
+ 3. Using the [`accerciser`](https://gitlab.gnome.org/GNOME/accerciser) utility to discover accessibility elements.
  4. Writing accessibility code and tests to show how to access elements.
 
 {{< container class="text-center" >}}
