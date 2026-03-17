@@ -28,7 +28,7 @@ KDE Eco has been working on KEcoLab, a project from Karanjot Singh to make KDE's
 
 #### Writing Tests In Selenium
 
-Selenium AT-SPI is a Selenium-based tool used in KDE for automated tests of GUI applications. It works by identifying accessibility elements for a particular action. To know more about how Selenium AT-SPI functions internally, you can check out [this blog post](https://planet.kde.org/harald-sitter-2022-12-14-selenium-at-spi-gui-testing/).
+Selenium AT-SPI is a Selenium-based tool used in KDE for automated tests of GUI applications. It works by identifying accessibility elements for a particular action.
 
 Writing a Selenium test is comprised of the following steps:
 - Identifying QML elements where the action needs to be performed.
