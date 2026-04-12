@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: eco-kde-org_www\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-12-22 02:01+0000\n"
-"PO-Revision-Date: 2021-11-20 11:29+0100\n"
+"PO-Revision-Date: 2026-04-10 12:00+0200\n"
 "Last-Translator: Roman Paholik <wizzardsk@gmail.com>\n"
 "Language-Team: Slovak <kde-sk@linux.sk>\n"
 "Language: sk\n"
@@ -23,7 +23,7 @@ msgstr "KDE Eco"
 
 #: config.yaml:0
 msgid "Building Energy-Efficient Free Software"
-msgstr ""
+msgstr "Tvorba energeticky efektívneho slobodného softvéru"
 
 #: config.yaml:0
 msgid "Donate"
@@ -32,11 +32,11 @@ msgstr "Venovať peniaze"
 #. be-green.header
 #: content/be-green/_index.md:0 i18n/en.yaml:99
 msgid "Be Green"
-msgstr ""
+msgstr "Budte zeleni"
 
 #: content/BE4FOSS/_index.md:0
 msgid "Eco Label"
-msgstr ""
+msgstr "Ekoznacka"
 
 #: content/BE4FOSS/_index.md:9
 msgid ""
@@ -47,44 +47,57 @@ msgid ""
 "efficient software in FOSS communities. Obtaining the Blue Angel ecolabel "
 "occurs in 3 steps: (1) Measure, (2) Analyze, and (3) Certify."
 msgstr ""
+"V roku 2020 nemecky Spolkovy urad pre zivotne prostredie (nemecky: "
+"*Umweltbundesamt*) zverejnil kriteria pre udelenie ekocertifikacie "
+"desktopoveho softveru ekoznackou Blue Angel (nemecky: *Blauer Engel*). V "
+"rokoch 2021-2022 projekt BE4FOSS v ramci KDE Eco pracoval na rozvoji "
+"ekocertifikacie pre zdrojovo a energeticky efektivny softver v komunitach "
+"slobodneho softveru. Ziskanie ekoznacky Blue Angel prebieha v 3 krokoch: (1) "
+"Meranie, (2) Analyza a (3) Certifikacia."
 
 #: content/BE4FOSS/_index.md:11
 msgid "Benefits of obtaining the Blue Angel ecolabel include:"
-msgstr ""
+msgstr "Vyhody ziskania ekoznacky Blue Angel zahrnu:"
 
 #: content/BE4FOSS/_index.md:12
 msgid ""
 "Recognition of reaching high standards for environmentally-friendly software "
 "design,"
 msgstr ""
+"Uznanie dosiahnutia vysokych standardov pre environmentalne privetivy dizajn "
+"softveru,"
 
 #: content/BE4FOSS/_index.md:13
 msgid "Differentiating free software from the alternatives,"
-msgstr ""
+msgstr "Odlisenie slobodneho softveru od alternativ,"
 
 #: content/BE4FOSS/_index.md:14
 msgid "Increasing the appeal of adoption for consumers, and"
-msgstr ""
+msgstr "Zvysenie atraktivity pre spotrebitelov a"
 
 #: content/BE4FOSS/_index.md:15
 msgid "Promoting transparency in the ecological footprint of software."
-msgstr ""
+msgstr "Podpora transparentnosti v ekologickej stope softveru."
 
 #: content/BE4FOSS/_index.md:17
 msgid ""
 "Learn more in the KDE Eco handbook “[Applying The Blue Angel Criteria To "
 "Free Software](https://eco.kde.org/handbook/)”."
 msgstr ""
+"Viac sa dozviete v prirucke KDE Eco \"[Applying The Blue Angel Criteria To "
+"Free Software](https://eco.kde.org/handbook/)\"."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid ""
 "KDE Eco 2021 Sprint: Details On The Community Planning For KDE's Ecological "
 "Project"
 msgstr ""
+"KDE Eco 2021 Sprint: Podrobnosti o komunitnom planovani ekologickeho "
+"projektu KDE"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Sprint 2021"
-msgstr ""
+msgstr "Sprint 2021"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
@@ -92,11 +105,11 @@ msgstr ""
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/post-1.md:0
 msgid "Blauer Engel"
-msgstr ""
+msgstr "Blauer Engel"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Community Lab"
-msgstr ""
+msgstr "Komunitne laboratorium"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2022-03-05-energy-conservation-day.md:0
@@ -104,17 +117,19 @@ msgstr ""
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 #: content/blog/2024-05-29_introducing-ns4nh.md:0 content/blog/post-1.md:0
 msgid "Joseph P. De Veaugh-Geiss"
-msgstr ""
+msgstr "Joseph P. De Veaugh-Geiss"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 msgid "Follow-up to the KDE Eco Sprint announcement posted on The Dot."
-msgstr ""
+msgstr "Nadvaznost na oznamenie KDE Eco Sprintu zverejnene na The Dot."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:12
 msgid ""
 "This is a follow-up to the [KDE Eco Sprint announcement posted on The Dot]"
 "(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
 msgstr ""
+"Toto je nadvaznost na [oznamenie KDE Eco Sprintu zverejnene na The Dot]"
+"(https://dot.kde.org/2021/12/24/2021-kde-eco-sprint)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:14
 msgid ""
@@ -124,15 +139,20 @@ msgid ""
 "Nevertheless, the community deployed its usual resourcefulness, and we met "
 "online instead."
 msgstr ""
+"Dna 11. decembra 2021 uskutocnilo KDE Eco prvy z mnohych planovanych "
+"Sprintov so 7 ucastnikmi. Sprint mal byt povodne osobnym podujatim na "
+"zriadenie komunitneho meracieho laboratoria, ale koronavirus mal ine plany. "
+"Komunita vsak prejavila svoju obvyklu vynaliezavost a stretli sme sa online."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:18
 msgid ""
 "![KDE Eco 2021 Sprint On KDE News](/blog/images/dot-sprint-2021_small.png)"
 msgstr ""
+"![KDE Eco 2021 Sprint na KDE News](/blog/images/dot-sprint-2021_small.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:20
 msgid "*KDE Eco 2021 Sprint Announcement On KDE News*"
-msgstr ""
+msgstr "*Oznamenie KDE Eco 2021 Sprint na KDE News*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:24
 msgid ""
@@ -141,26 +161,34 @@ msgid ""
 "invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
 "meetups/2021-12-11_sprint01_protocol.md) for further details."
 msgstr ""
+"V tomto podrobnom prispevku poskytnem detailny prehlad hlavnych tem "
+"diskutovanych na Sprinte a ich vysledkov; podrobnosti najdete aj v "
+"[zapisnici](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2021-12-11_sprint01_protocol.md)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
 msgid "Did you know?"
-msgstr ""
+msgstr "Vedeli ste?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:28
 msgid ""
 "Discussions similar to these occur monthly at our community meetups on the "
 "2nd Wednesday of the month from 19h-20h CET/CEST (Berlin Time)."
 msgstr ""
+"Podobne diskusie prebiehaju mesacne na nasich komunitnych stretnutiach kazdu "
+"2. stredu v mesiaci od 19:00 do 20:00 CET/CEST (berlinsky cas)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:32
 msgid ""
 "<font size=\"6\"> **[Join us!](https://eco.kde.org/get-involved/) We would "
 "love to see you there.** </font>"
 msgstr ""
+"<font size=\"6\"> **[Pridajte sa k nam!](https://eco.kde.org/get-involved/) "
+"Radi vas uvidime.** </font>"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:36
 msgid "Creating a KDE Eco team"
-msgstr ""
+msgstr "Vytvorenie timu KDE Eco"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:38
 msgid ""
@@ -176,6 +204,16 @@ msgid ""
 "repositories can be found at [https://invent.kde.org/teams/eco](https://"
 "invent.kde.org/teams/eco)."
 msgstr ""
+"KDE Eco sa v sucasnosti sklada z troch suvisiacich projektov: (i) Free and "
+"open source Energy Efficiency Project (FEEP), (ii) Blauer Engel For FOSS "
+"(BE4FOSS) a (iii) Blauer Engel Applications. Kazdy projekt ma svoj vlastny "
+"zamer: FEEP sa zaobera meranim spotreby energie slobodneho softveru, BE4FOSS "
+"sa zameriava na organizaciu komunity a sirenie informacii o ekoznacke Blauer "
+"Engel a repozitar Blauer Engel Applications obsahuje vsetky dokumenty "
+"suvisiace s certifikaciou KDE/slobodneho softveru ekoznackou. Do Sprintu "
+"boli tri repozitare projektov umiestnene v roznych osobnych mennych "
+"priestoroch. Teraz sa vsetky tri repozitare nachadzaju na [https://invent."
+"kde.org/teams/eco](https://invent.kde.org/teams/eco)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:40
 msgid ""
@@ -184,18 +222,22 @@ msgid ""
 "appropriate for community projects. Feel free to check out the activities of "
 "each project at the above team space!"
 msgstr ""
+"Umiestnenie projektov pod jeden tim jasnejsie prepaja tieto a pripadne "
+"buduce projekty. Navyse, neosobny menny priestor je vhodnejsi pre komunitne "
+"projekty. Nevahajte a pozrite si aktivity kazdeho projektu v uvedenom "
+"timovom priestore!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:45
 msgid "![Teams KDE Eco](/blog/images/teams-kde-eco.png)"
-msgstr ""
+msgstr "![Timy KDE Eco](/blog/images/teams-kde-eco.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:47
 msgid "*Teams > KDE Eco*"
-msgstr ""
+msgstr "*Timy > KDE Eco*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:51
 msgid "Completing the Blauer Engel application for Okular"
-msgstr ""
+msgstr "Dokoncenie ziadosti o Blauer Engel pre Okular"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:53
 msgid ""
@@ -213,6 +255,17 @@ msgid ""
 "the awarding body for the Blauer Engel, within 2-3 months. KMail's "
 "submission will follow soon."
 msgstr ""
+"Existuju tri aplikacie KDE, ktorych spotreba energie uz bola merana: [Okular]"
+"(https://invent.kde.org/teams/eco/feep/-/tree/master/measurements/okular), "
+"[KMail](https://invent.kde.org/teams/eco/feep/-/tree/master/measurements/"
+"kmail) a [Krita](https://invent.kde.org/teams/eco/feep/-/tree/master/"
+"measurements/krita). Z nich ziadosti o Blauer Engel pre Okular a KMail boli "
+"[v priprave](https://invent.kde.org/teams/eco/blue-angel-application/-/tree/"
+"master/applications) uz nejaky cas a jednym z cielov bolo dokoncit ziadost "
+"pre Okular. S hrdostou oznamujeme, ze po Sprinte bola ziadost Okularu podana "
+"a momentalne sa preskumava na certifikaciu. Ocakavame spatnu vazbu od [RAL "
+"gGmbH](https://www.ral-umwelt.de/en/ral-environment/), certifikacneho organu "
+"pre Blauer Engel, do 2-3 mesiacov. Podanie KMail bude nasledovat coskoro."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:55
 msgid ""
@@ -236,14 +289,26 @@ msgid ""
 "its users and their communities. With FOSS, the community drives the "
 "direction of development!"
 msgstr ""
+"Pocas skupinoveho preskumania ziadosti Okularu ucastnici vzniesli mnohe "
+"zaujimave body. Jeden bod napriklad vznikol pri diskusii o kriteriach "
+"transparentnosti Blauer Engel ([Oddiel 3.1.3.2](https://produktinfo.blauer-"
+"engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13."
+"pdf)). Malte Reissig z vyskumnej skupiny IASS poukkazal na to, ako moze "
+"otvoreny vyvoj pozitivne ovplyvnit niektore z dalsich poziadaviek kriterii "
+"pre udelenie (pozri [tuto diskusiu](https://invent.kde.org/teams/eco/blue-"
+"angel-application/-/issues/57)), ako su dlhodoba udrzatelnost a autonomia "
+"pouzivatelov softveroveho produktu. To znamena, ze pouzivatelia slobodneho "
+"softveru nielen pasivne softver pouzivaju, ale su povzbudzovani a schopni "
+"vyjadrit priania pre buduci vyvoj aplikacii a mozu sa aktivne podielat na "
+"planovani milnikov. S FOSS komunita urcuje smer vyvoja!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:59
 msgid "![Okular Icon](/blog/images/128-apps-okular.png)"
-msgstr ""
+msgstr "![Ikona Okular](/blog/images/128-apps-okular.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:61
 msgid "*Okular Icon*"
-msgstr ""
+msgstr "*Ikona Okular*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:65
 msgid ""
@@ -260,6 +325,17 @@ msgid ""
 "infrastructure may affect the fulfillment of the Blauer Engel requirements, "
 "such as uninstallability, modularity, etc."
 msgstr ""
+"Dalsi bod suvisel s distribuciou slobodneho softveru a vyzvami, ktore "
+"predstavuje pre splnenie kriterii Blauer Engel. Kedze slobodny softver "
+"zvycajne distribuuje softver decentralizovanym sposobom, pre akukolovek "
+"jednu aplikaciu existuje mnozstvo vydani a distribucnych kanalov. Zvazte "
+"[Okular](https://okular.kde.org/download/), ktory je balikovany nielen pre "
+"[Flatpak](https://flathub.org/apps/details/org.kde.okular), ale aj "
+"[Microsoft Store](https://www.microsoft.com/en-us/p/okular/9n41msq1wnm8), "
+"nehovoriac o pocetnych GNU/Linux distribuciach (napr. [OpenSuse](https://"
+"software.opensuse.org/package/okular), [Debian](https://packages.debian.org/"
+"bookworm/okular)). Rozdiely v balikovacej infrastrukture mozu ovplyvnit "
+"splnenie poziadaviek Blauer Engel, ako su odinstalovatelnost, modularita atd."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:67
 msgid ""
@@ -273,6 +349,15 @@ msgid ""
 "bring them into the KDE community -- see, e.g., [this discussion](https://"
 "invent.kde.org/teams/eco/blue-angel-application/-/issues/56)."
 msgstr ""
+"Spolocnosti vydavajuce proprietarny softver, zvycajne s centralizovanym "
+"nasadenim svojich produktov, tieto problemy nemaju. V tomto kontexte jedna z "
+"moznosti, o ktorej skupina diskutovala, je certifikacia iba zdrojoveho kodu "
+"programu, cim sa zostane neutralny voci rozdielom v tom, ako je softverovy "
+"produkt balikovany a distribuovany. Dalsou moznostou je certifikacia "
+"distribucne specifickych vydani, napriklad pre Microsoft Store. V "
+"skutocnosti by sa to mohlo pouzit na marketingove ucely na oslovenie novych "
+"pouzivatelov a ich zaclenenie do komunity KDE -- pozri napr. [tuto diskusiu]"
+"(https://invent.kde.org/teams/eco/blue-angel-application/-/issues/56)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:69
 msgid ""
@@ -282,11 +367,16 @@ msgid ""
 "efficiency:kde.org) or via the [issue trackers](https://invent.kde.org/"
 "groups/teams/eco/-/issues) at our GitLab repositories!"
 msgstr ""
+"Radi by sme vedeli, co si myslite. Pridajte sa do konverzacie na nasom "
+"[mailing liste](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
+"efficiency) alebo v [Matrix miestnosti](https://webchat.kde.org/#/room/"
+"#energy-efficiency:kde.org) alebo cez [sledovace problemov](https://invent."
+"kde.org/groups/teams/eco/-/issues) v nasich GitLab repozitaroch!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:71
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Standard Usage Scenarios"
-msgstr ""
+msgstr "Standardne scenare pouzivania"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:73
 msgid ""
@@ -295,6 +385,9 @@ msgid ""
 "Standard Usage Scenarios are central to measuring the energy consumption of "
 "a piece of software."
 msgstr ""
+"*Standardny scenar pouzivania* (SUS) odzrkadluje typicke funkcie aplikacie, "
+"pricom sa zohladnuje frekvencia tychto funkcii. Standardne scenare "
+"pouzivania su klucove pre meranie spotreby energie softveru."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:75
 msgid ""
@@ -307,6 +400,13 @@ msgid ""
 "defining a SUS: idle action is both realistic and can show nothing is "
 "happening when nothing is *supposed* to be happening."
 msgstr ""
+"Pri preskumani zaznamov akcii SUS pre Okular pre ziadost o Blauer Engel boli "
+"vznesene dva dolezite body, ktore zlepsia implementaciu SUS pri merani v "
+"laboratoriu. Jednym bolo pozorovanie o potrebe dokumentovat nielen akcie, "
+"ale aj objekty akcii (napr. pri pouzivani citacky PDF, ktore PDF sa otvara), "
+"pretoze to moze ovplyvnit spotrebu energie. Druhym bolo, ze zahrnutie "
+"necinnosti je dolezite pri definovani SUS: necinnost je realisticka a moze "
+"ukazat, ze sa nic nedeje, ked sa nic nema diat."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:77
 msgid ""
@@ -327,14 +427,28 @@ msgid ""
 "today's world, and this is currently planned for the revised Blauer Engel "
 "award criteria for software."
 msgstr ""
+"Na virtualnom stretnuti boli vznesene aj dalsie otazky. Nicolas Fella, "
+"softverovy inzinier v KDAB Berlin, vyjadril zaujem o porovnanie dvoch "
+"chatovacich klientov, co presunulo konverzaciu k definovaniu jednotlivych "
+"scenarov pri porovnavani dvoch aplikacii s podobnym pouzivanim. Jednotlivy "
+"SUS obmedzi, ktore softverove funkcie mozno testovat, ale vysledky merani "
+"budu priamo porovnatelne. Pre klient-server softver, ako su chatove alebo e-"
+"mailove klienty, je tu navyse otazka sietovej zlozky, ktora by pre "
+"kontrolovane testovanie vyzadovala zriadenie a meranie spotreby energie "
+"servera. Byvaly prezident KDE e.V. a dlhorocny prispievatel do KDE "
+"[Cornelius Schumacher](https://en.wikipedia.org/wiki/Cornelius_Schumacher) "
+"poukazal na to, ze pri [meraniach KMail](https://invent.kde.org/teams/eco/"
+"blue-angel-application/-/tree/master/applications/kmail) sa merala iba "
+"vypoctova praca na lokalnom pocitaci. Meranie nelokalnych vypoctov v klient-"
+"server softveri je dnes relevantnejsie nez kedykolvek predtym."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:81
 msgid "![KMail Welcome Screen](/blog/images/kmailwelcome.png)"
-msgstr ""
+msgstr "![Uvitacia obrazovka KMail](/blog/images/kmailwelcome.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:83
 msgid "*KMail Welcome Screen*"
-msgstr ""
+msgstr "*Uvitacia obrazovka KMail*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:87
 msgid ""
@@ -348,6 +462,13 @@ msgid ""
 "in such a way that creation of an action log can also be automated. Would "
 "anyone in the community like to help tackle these challenges?"
 msgstr ""
+"Dalsou diskutovanou temou bolo definovanie akcii SUS abstraktne s cielom "
+"automatizovat implementaciu scenarov pouzivania roznymi nastrojmi "
+"(*Actiona*, *xdotool*, *KXmlGui* atd.). Dolezitym bodom bolo, ze rozne "
+"emulacne nastroje robia rozne veci, co moze predstavovat vyzvy pre "
+"automatizaciu procesu. Napriklad pri pouziti *KXmlGui* na emulaciu nie je "
+"mozne pisat text, a preto moze byt stale potrebny nastroj ako *xdotool*. "
+"Chcel by niekto z komunity pomoct riesit tieto vyzvy?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:89
 msgid ""
@@ -356,6 +477,10 @@ msgid ""
 "low-end hardware. What are [your ideas](https://invent.kde.org/teams/eco/"
 "be4foss/-/issues/31)?"
 msgstr ""
+"Skupina dalej diskutovala o tom, ako by sa scenare pouzivania mohli tiez "
+"preucelovat na testovanie odozvy a vseobecneho vykonu na starsom alebo menej "
+"vykonnom hardveri. Ake su [vase napady](https://invent.kde.org/teams/eco/"
+"be4foss/-/issues/31)?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:91
 msgid ""
@@ -366,10 +491,16 @@ msgid ""
 "your SUS at our [GitLab repository](https://invent.kde.org/teams/eco/"
 "be4foss/-/tree/master/standard-usage-scenarios)!"
 msgstr ""
+"Vedeli ste, ze planujeme meracie maratony na meranie spotreby energie FOSS/"
+"KDE aplikacii na zaciatku roka 2022? Pre ktore aplikacie by ste chceli "
+"vidiet pripravene standardne scenare pouzivania? Podelte sa o svoje napady s "
+"nami [tu](https://invent.kde.org/teams/eco/be4foss/-/issues/28) alebo "
+"poslite svoj SUS do nasho [GitLab repozitara](https://invent.kde.org/teams/"
+"eco/be4foss/-/tree/master/standard-usage-scenarios)!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:93
 msgid "Replicable reference system"
-msgstr ""
+msgstr "Replikovatelny referencny system"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:95
 msgid ""
@@ -387,6 +518,15 @@ msgid ""
 "depend on what the data is to be used for, and this will differ for "
 "researchers, developers, eco-label auditors, companies, etc."
 msgstr ""
+"Standardne scenare pouzivania sa spustaju na referencnom systeme a dolezitou "
+"otazkou bolo, ako mat replikovatelny referencny system. Existuje niekolko "
+"systemovych vrstiev na zvazenie: Hardver (CPU, disk, RAM atd.); OS a sluzby "
+"OS, ako spravca aktivit v Plasme; a konfiguracia testovanej aplikacie a "
+"pripadnych suvisiacich aplikacii (napr. Akonadi pre PIM aplikacie). Na "
+"jednej strane je nevyhnutne mat kontrolovane prostredie; na druhej strane je "
+"ziaduce mat merania, ktore odrazaju skutocne vypoctove prostredia. Nakoniec, "
+"ci mat kontrolovane alebo prirodzene vypoctove prostredia bude zavisiet od "
+"toho, na co sa udaje maju pouzit."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:97
 msgid ""
@@ -399,6 +539,14 @@ msgid ""
 "files. If you have other ideas let us know about them [here](https://invent."
 "kde.org/teams/eco/feep/-/issues/3)!"
 msgstr ""
+"Napriklad pre vyvojarov, ktori maju zaujem o jednotkove testy energetickej "
+"efektivnosti alebo ziskanie pecate Blauer Engel, bude nevyhnutne mat jasne "
+"specifikovane prostredia. Ake su pohodlne a rychle sposoby, ako dostat "
+"system do znameho stavu? Diskutovalo sa o troch napadoch: (i) vytvaranie "
+"snimok suboroveho systemu (napr. [Snapper](https://github.com/openSUSE/"
+"snapper)), (ii) vymazanie vyrovnavacej pamate systemu a (iii) nahradenie "
+"konfiguracnych suborov. Ak mate dalsie napady, dajte nam vediet [tu](https://"
+"invent.kde.org/teams/eco/feep/-/issues/3)!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:99
 msgid ""
@@ -406,10 +554,13 @@ msgid ""
 "log hardware performance and electrical power usage while people use their "
 "personal computers. Any volunteers?"
 msgstr ""
+"Pre realne prostredia bol jeden navrh, potencialne kontroverzny, "
+"zaznamenavat vykon hardveru a spotrebu elektrickej energie, kym ludia "
+"pouzivaju svoje osobne pocitace. Nejaki dobrovolnici?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:101
 msgid "Data output"
-msgstr ""
+msgstr "Vystup udajov"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:103
 msgid ""
@@ -421,6 +572,12 @@ msgid ""
 "g., timestamp loggers in xdotool scripts), it is necessary to consider what "
 "the data should look like before measuring in the lab."
 msgstr ""
+"Pri merani spotreby energie v laboratoriu, najma pre ekocertifikaciu Blauer "
+"Engel, sa mozu generovat tri typy datovych suborov: (i) zaznam akcii, (ii) "
+"udaje o vykone hardveru (CPU, RAM atd.) a (iii) spotreba elektrickej "
+"energie. Kedze v niektorych pripadoch bude vystup udajov treba definovat "
+"samostatne, je potrebne zvazit, ako by mali udaje vyzerat pred meranim v "
+"laboratoriu."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:105
 msgid ""
@@ -438,10 +595,17 @@ msgid ""
 "measurements and analysis, which is currently [in progress](https://invent."
 "kde.org/teams/eco/be4foss/-/blob/master/devices-tools-overview.md)."
 msgstr ""
+"V suvislosti s udajmi bolo vznesenych niekolko otazok: Mali by sa vystupne "
+"udaje standardizovat na harmonizaciu vystupu napriec meracimi kampanami, "
+"alebo staci jednoducho zverejnit zozbierane udaje v pristupnom formate "
+"(napriklad ako subory .csv, ako v [repozitari FEEP](https://invent.kde.org/"
+"teams/eco/feep/-/tree/master/measurements))? Aka presnost casovych znaciek "
+"je potrebna (napr. sekundy vs. zlomky sekund)? Tieto otazky zatial zostavaju "
+"otvorene."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:107
 msgid "Power meter devices"
-msgstr ""
+msgstr "Zariadenia na meranie spotreby"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:109
 msgid ""
@@ -456,12 +620,20 @@ msgid ""
 "professional power meters with budget ones to see how they compare. Would "
 "anyone in the community be interested in doing this?"
 msgstr ""
+"Kriteria Blauer Engel odkazuju na dva merace spotreby (PM) konkretne: "
+"Janitza UMG 604 a Gude Expert Power Control 1202. Tieto zariadenia nie su "
+"lacne. V roku 2020 dlhorocny prispievatel KDE Volker Krause hackol 8-eurovy "
+"napajaci konektor a [napisal o tom](https://volkerkrause.eu/2020/10/17/kde-"
+"cheap-power-measurement-tools.html). To viedlo k myslienke pouzivania "
+"lacnych meracov spotreby v nizkorozpoctovych domacich laboratoriach. Mal by "
+"niekto z komunity zaujem porovnat vysledky?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:113
 msgid ""
 "![Example Measurement](/blog/images/power-usage-while-moving-mouse-cursor."
 "png)"
 msgstr ""
+"![Priklad merania](/blog/images/power-usage-while-moving-mouse-cursor.png)"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:115
 msgid ""
@@ -470,6 +642,10 @@ msgid ""
 "interval, no filter): mouse cursor being moved between samples 100 and 150, "
 "with a peak while hovering a task bar entry.\"*"
 msgstr ""
+"*Z [blogoveho prispevku](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html) Volkera Krauseho: \"Priklad merania (200 ms "
+"vzorkovaci interval, bez filtra): pohyb kurzora mysi medzi vzorkami 100 a "
+"150, s pikom pri prechode nad polozkou panela uloh.\"*"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:119
 msgid ""
@@ -478,10 +654,14 @@ msgid ""
 "davidhurka/usb-spi-power-sensors) to provide a higher resolution alternative "
 "to power meters measuring at the wall outlet."
 msgstr ""
+"Dalsi sposob merania spotreby energie prisiel od prispievatela KDE Davida "
+"Hurku, ktory ma [navrh na USB SPI senzory spotreby](https://invent.kde.org/"
+"davidhurka/usb-spi-power-sensors) na poskytnutie alternativy s vyssim "
+"rozlisenim."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:121
 msgid "Open issues for measurement labs"
-msgstr ""
+msgstr "Otvorene otazky pre meracie laboratoria"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:123
 msgid ""
@@ -489,18 +669,26 @@ msgid ""
 "measurements. Although final decisions were not made in every case, many of "
 "these open issues will be important to consider going forward."
 msgstr ""
+"Diskutovalo sa o niekolkych dalsich otazkach suvisiacich so spotrebou "
+"energie a meranim v laboratoriu. Hoci sa v kazdom pripade neprijali konecne "
+"rozhodnutia, mnohe z tychto otvorenych otazok bude dolezite zvazit v "
+"buducnosti."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:125
 msgid ""
 "Idea of a marketing-friendly tool to draw attention to the energy "
 "consumption of software."
 msgstr ""
+"Napad na marketingovo privetivy nastroj na upozornenie na spotrebu energie "
+"softveru."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:126
 msgid ""
 "For instance, an 'Eco' button for energy efficiency/carbon footprint meter "
 "(cf. travel carbon footprint in Itinerary app)."
 msgstr ""
+"Napriklad tlacidlo 'Eco' na meranie energetickej efektivnosti/uhlikovej "
+"stopy (porov. uhlikova stopa cestovania v aplikacii Itinerary)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:127
 msgid ""
@@ -508,21 +696,26 @@ msgid ""
 "github.com/fenrus75/powertop), though open issues remain (when is it safe to "
 "enable to avoid data loss, machine freezes?)."
 msgstr ""
+"Upozornujeme, ze podobnu funkciu uz poskytuje [PowerTop](https://github.com/"
+"fenrus75/powertop), hoci zostavaju otvorene otazky (kedy je bezpecne ho "
+"povolit, aby sa predislo strate udajov, zamrznutiu pocitaca?)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:128
 msgid ""
 "When do the drawbacks outweigh the benefits of support for older hardware?"
-msgstr ""
+msgstr "Kedy nevyhody prevazuju nad vyhodami podpory starsieho hardveru?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:129
 msgid ""
 "Let's invite researchers working on this to discuss with the KDE Eco "
 "community."
 msgstr ""
+"Pozvime vyskumnikov pracujucich na tejto teme, aby diskutovali s komunitou "
+"KDE Eco."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:130
 msgid "Future collaboration:"
-msgstr ""
+msgstr "Buduca spolupraca:"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:131
 msgid ""
@@ -533,6 +726,8 @@ msgid ""
 "[here](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
 "meetups/2022-01-12_community-meetup_protocol.md).)"
 msgstr ""
+"Spolocny Sprint s pribuznymi projektmi (napr. [SoftAWERE](https://"
+"sdialliance.org/steering-groups/softawere))?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:132
 msgid ""
@@ -540,10 +735,14 @@ msgid ""
 "(https://bits-und-baeume.org/en), [Forum InformatikerInnen für Frieden und "
 "gesellschaftliche Verantwortung](https://www.fiff.de/), etc.)?"
 msgstr ""
+"Diskutovat o vyssie uvedenych temach a dalsich s inymi pribuznymi komunitami "
+"([Bits & Baeume](https://bits-und-baeume.org/en), [Forum InformatikerInnen "
+"fuer Frieden und gesellschaftliche Verantwortung](https://www.fiff.de/) "
+"atd.)?"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:134
 msgid "Conclusion"
-msgstr ""
+msgstr "Zaver"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:136
 msgid ""
@@ -559,12 +758,16 @@ msgid ""
 "(although only the publisher is responsible for the content of this "
 "publication)."
 msgstr ""
+"Online Sprint bol skvelou prilezitostou spojit komunitu a posunut projekt "
+"KDE Eco vpred. Uspech takychto podujati zavisi predovsetkym od komunity, "
+"takze nam dovolte poslat uprimne podakovanie vsetkym, ktori sa zapojili do "
+"konverzacie. Tesime sa na rast komunity v roku 2022!"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
 #: content/blog/2022-03-05-energy-conservation-day.md:33
 #: content/blog/2024-05-29_introducing-ns4nh.md:114 content/blog/post-1.md:59
 msgid "Funding Notice"
-msgstr ""
+msgstr "Oznamenie o financovani"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:140 content/blog/post-1.md:61
 msgid ""
@@ -574,6 +777,11 @@ msgid ""
 "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
 "German Bundestag."
 msgstr ""
+"Projekt BE4FOSS bol financovany Spolkovym uradom pre zivotne prostredie a "
+"Spolkovym ministerstvom pre zivotne prostredie, ochranu prirody, jadrovu "
+"bezpecnost a ochranu spotrebitelov (BMUV<sup><a id=\"fnr.1\" class=\"footref"
+"\" href=\"#fn.1\">1</a></sup>). Financne prostriedky su poskytovane na "
+"zaklade rozhodnutia Nemeckeho spolkoveho snemu."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:144
 #: content/blog/2022-03-05-energy-conservation-day.md:39
@@ -581,18 +789,19 @@ msgstr ""
 msgid ""
 "<img src=\"/blog/images/bmuv.png\" alt=\"BMUV logo\" width=\"340px\"/>\n"
 msgstr ""
+"<img src=\"/blog/images/bmuv.png\" alt=\"Logo BMUV\" width=\"340px\"/>\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:146
 #: content/blog/2022-03-05-energy-conservation-day.md:41
 #: content/blog/2024-05-29_introducing-ns4nh.md:122 content/blog/post-1.md:67
 msgid "<img src=\"/blog/images/uba.jpg\" alt=\"UBA logo\" width=\"250px\"/>\n"
-msgstr ""
+msgstr "<img src=\"/blog/images/uba.jpg\" alt=\"Logo UBA\" width=\"250px\"/>\n"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
 #: content/blog/2024-05-29_introducing-ns4nh.md:126 content/blog/post-1.md:71
 msgid "The publisher is responsible for the content of this publication."
-msgstr ""
+msgstr "Za obsah tejto publikacie je zodpovedny vydavatel."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:152
 #: content/blog/2022-03-05-energy-conservation-day.md:47
@@ -601,28 +810,32 @@ msgid ""
 "<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> Official BMUV and UBA-Logos "
 "are sent only by request at: verbaendefoerderung@uba.de"
 msgstr ""
+"<sup><a id=\"fn.1\" href=\"#fnr.1\">1</a></sup> Oficialne loga BMUV a UBA sa "
+"zasielaju iba na poziadanie na: verbaendefoerderung@uba.de"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Season of KDE 2022 With KDE Eco"
-msgstr ""
+msgstr "Season of KDE 2022 s KDE Eco"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "SOK22"
-msgstr ""
+msgstr "SOK22"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Automation Tools"
-msgstr ""
+msgstr "Automatizacne nastroje"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid "Karanjot Singh"
-msgstr ""
+msgstr "Karanjot Singh"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:0
 msgid ""
 "My experience testing automation tools and preparing usage scenarios as a "
 "Season of KDE student with KDE Eco."
 msgstr ""
+"Moje skusenosti s testovanim automatizacnych nastrojov a pripravou scenarov "
+"pouzivania ako student Season of KDE s KDE Eco."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:14
 msgid ""
@@ -630,10 +843,13 @@ msgid ""
 "amazing community through their annual program [Season of KDE](https://"
 "season.kde.org)."
 msgstr ""
+"Som velmi vdacny timu KDE za pozvanie stat sa sucastou tejto uzasnej "
+"komunity prostrednictvom ich kazdarocneho programu [Season of KDE](https://"
+"season.kde.org)."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:16
 msgid "About Me"
-msgstr ""
+msgstr "O mne"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:18
 msgid ""
@@ -647,10 +863,15 @@ msgid ""
 "building things for socially-useful causes. I also believe that contributing "
 "to FOSS is the best way to gain experience in software development."
 msgstr ""
+"Som Karanjot Singh. Som student prveho rocnika pocitacoveho inzinierstva na "
+"Jaypee Institute of Information Technology, Noida, India. Pracoval som ako "
+"vyvojar s roznymi programami slobodneho a otvorenozdrojoveho softveru. Som "
+"velmi nadchnuty slobodnym softverom, riesenim problemov a zlepsovanim "
+"efektivity procesov."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:20
 msgid "What I Will Be Working On"
-msgstr ""
+msgstr "Na com budem pracovat"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:22
 msgid ""
@@ -668,14 +889,20 @@ msgid ""
 "feep/-/blob/master/tools/presentation_Visual_Workflow_Automation_Tools/"
 "Visual_Workflow_Automation_Tools.pdf). Below is my SoK’22 Timeline:"
 msgstr ""
+"V ramci priekopnickeho projektu udrzatelnosti ma [KDE Eco](https://eco.kde."
+"org/) za ciel merat a znizovat spotrebu energie KDE/slobodneho softveru. To "
+"vyzaduje emulaciu spravania pouzivatelov, co sa da dosiahnut planovanim a "
+"skriptovanim standardnych scenarov pouzivania. Budem skriptovat standardne "
+"scenare pouzivania pre rozne aplikacie so zameranim na bezne pouzivane "
+"textove editory."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:26
 msgid "![Season of KDE 2022 Timeline](/blog/images/SoK_22Timeline.png)"
-msgstr ""
+msgstr "![Casovy plan Season of KDE 2022](/blog/images/SoK_22Timeline.png)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:31
 msgid "Motivation Behind Working On The KDE Eco Project"
-msgstr ""
+msgstr "Motivacia za pracou na projekte KDE Eco"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:33
 msgid ""
@@ -688,32 +915,37 @@ msgid ""
 "that purpose. I also believe that KDE Eco assists me in my journey to become "
 "a better software developer."
 msgstr ""
+"Myslim, ze KDE Eco je velmi dobra iniciativa pre vyvoj zdrojovo a "
+"energeticky efektivneho slobodneho softveru. Vzdy chcem byt sucastou "
+"niecoho, co prispieva buducim generaciam, a KDE Eco tento ucel splna."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:35
 msgid "What I Have Learnt So Far"
-msgstr ""
+msgstr "Co som sa doteraz naucil"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:39
 msgid "When I was beginning with this project, I had three questions."
-msgstr ""
+msgstr "Ked som s tymto projektom zacinal, mal som tri otazky."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:41
 msgid "*How can we know when software is resource and energy-efficient?*"
-msgstr ""
+msgstr "*Ako mozeme vediet, kedy je softver zdrojovo a energeticky efektivny?*"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:43
 msgid "*How can we measure software’s energy consumption?*"
-msgstr ""
+msgstr "*Ako mozeme merat spotrebu energie softveru?*"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:45
 msgid "*And does it make a difference?*"
-msgstr ""
+msgstr "*A je v tom rozdiel?*"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:47
 msgid ""
 "These questions may come into anyone’s mind when thinking about the idea of "
 "software efficiency."
 msgstr ""
+"Tieto otazky mozu napadnut kazdemu, kto premysla o myslienke efektivity "
+"softveru."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:49
 msgid ""
@@ -723,10 +955,14 @@ msgid ""
 "to your doorstep. But the technologies and infrastructure behind it are "
 "determined by software engineers who make all of this work."
 msgstr ""
+"Ked pouzivate softver, vidite len rozhranie, s ktorym komunikujete. "
+"Jednoducho povedzte telefonu, co chcete, a veci sa magicky objavia. Ale "
+"technologie a infrastruktura za tym su urcovane softverovymi inziniermi, "
+"ktori toto vsetko realizuju."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:53
 msgid "![UI vs. Complex Processes](/blog/images/UIvsProcesses.png)"
-msgstr ""
+msgstr "![Rozhranie vs. zlozite procesy](/blog/images/UIvsProcesses.png)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:57
 msgid ""
@@ -735,6 +971,11 @@ msgid ""
 "much energy their software requires and could choose the application that "
 "might be better for the environment? This would be great!!!"
 msgstr ""
+"Len si predstavte: Co ak by sme analyzovali spotrebu energie za bezne "
+"pouzivanym softverom a urobili ju transparentnejsou? Co ak by sa "
+"pouzivatelia mohli dozvediet, kolko energie ich softver vyzaduje, a mohli by "
+"si vybrat aplikaciu, ktora moze byt lepsia pre zivotne prostredie? To by "
+"bolo skele!!!"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:59
 msgid ""
@@ -743,6 +984,10 @@ msgid ""
 "feep)) and Blauer Engel For FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
 "be4foss)) are working hard on these issues."
 msgstr ""
+"Inicitivy [KDE Eco](https://invent.kde.org/teams/eco) Free and open source "
+"Energy Efficiency Project ([FEEP](https://invent.kde.org/teams/eco/feep)) a "
+"Blauer Engel For FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/be4foss)) "
+"tvrdo pracuju na tychto otazkach."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:61
 msgid ""
@@ -752,10 +997,15 @@ msgid ""
 "drive down energy consumption. This increased efficiency contributes to a "
 "more sustainable use of energy as one of the shared resources of our planet."
 msgstr ""
+"Ako konstatuje [FEEP](https://eco.kde.org/#feep), dizajn a implementacia "
+"softveru ma vyznamny vplyv na spotrebu energie systemov, ktorych je "
+"sucastou. So spravnymi nastrojmi je mozne kvantifikovat a znizit spotrebu "
+"energie. Tato zvysena efektivnost prispieva k udrzatelnejsiemu vyuzivaniu "
+"energie ako jedneho zo zdielanych zdrojov nasej planety."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:65
 msgid "![3 Steps of Eco Certification](/blog/images/3StepsToBEECO.png)"
-msgstr ""
+msgstr "![3 kroky ekocertifikacie](/blog/images/3StepsToBEECO.png)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:69
 msgid ""
@@ -765,22 +1015,29 @@ msgid ""
 "eco.kde.org/#be4foss), obtaining the Blauer Engel label occurs in 3 steps: "
 "(1) Measure, (2) Analyze, (3) Certify."
 msgstr ""
+"BE4FOSS podporuje FEEP zbieranim a sirenim informacii suvisiacich s "
+"ekocertifikaciou Blauer Engel (BE), oficialnou environmentalnou znackou "
+"udelenou nemeckou vladou. Ako je uvedene na [webovej stranke KDE Eco]"
+"(https://eco.kde.org/#be4foss), ziskanie znacky Blauer Engel prebieha v 3 "
+"krokoch: (1) Meranie, (2) Analyza, (3) Certifikacia."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:71
 msgid "**MEASURE** in dedicated labs, such as at KDAB Berlin"
-msgstr ""
+msgstr "**MERANIE** v dedickovanych laboratoriach, ako napriklad v KDAB Berlin"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:72
 msgid ""
 "**ANALYZE** using statistical tools such as OSCAR (Open-source Software "
 "Consumption Analysis in R)"
 msgstr ""
+"**ANALYZA** pomocou statistickych nastrojov ako OSCAR (Open-source Software "
+"Consumption Analysis in R)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:73
 msgid ""
 "**CERTIFY** by submitting the report on the fulfilment of the Blauer Engel "
 "criteria"
-msgstr ""
+msgstr "**CERTIFIKACIA** podanim spravy o splneni kriterii Blauer Engel"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:75
 msgid ""
@@ -788,10 +1045,13 @@ msgid ""
 "editors so that the usage scenarios may be used in Step 1 for obtaining BE "
 "eco-certification."
 msgstr ""
+"V SoK'22 budem pripravovat standardne scenare pouzivania pre rozne textove "
+"editory, aby sa scenare pouzivania mohli pouzit v kroku 1 na ziskanie "
+"ekocertifikacie BE."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:77
 msgid "What I Have Done & Will Be Doing In The Coming Weeks"
-msgstr ""
+msgstr "Co som urobil a budem robit v nasledujucich tyzdnoch"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:79
 msgid ""
@@ -799,6 +1059,10 @@ msgid ""
 "particular ``Actiona``, ``xdotool``, and ``GNU Xnee``, to decide which of "
 "these tools would be best for implementing Standard Usage Scenarios."
 msgstr ""
+"Pocas poslednych troch tyzdnov som testoval rozne automatizacne nastroje, "
+"najma ``Actiona``, ``xdotool`` a ``GNU Xnee``, aby som rozhodol, ktory z "
+"tychto nastrojov by bol najlepsi na implementaciu standardnych scenarov "
+"pouzivania."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:81
 msgid ""
@@ -806,6 +1070,9 @@ msgid ""
 "documentation so that this information will also be beneficial for anyone "
 "wanting to contribute to KDE Eco."
 msgstr ""
+"Pri pouzivani [``Actiona``](https://github.com/Jmgr/actiona) som napisal "
+"dokumentaciu, aby tieto informacie boli prospesne aj pre kohokoolvek, kto "
+"chce prispiet do KDE Eco."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:83
 msgid ""
@@ -816,6 +1083,9 @@ msgid ""
 "done an extensive check. Nevertheless, xdotool gives more control over the "
 "system and even with some issues, this is the tool that I found most helpful."
 msgstr ""
+"Pri skusani [``xdotool``](https://github.com/jordansissel/xdotool) som "
+"narazil na problem s unikanim pamate. Napriek niektorym problemom je toto "
+"nastroj, ktory som nasiel najuzitocnejsi."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:85
 msgid ""
@@ -824,6 +1094,10 @@ msgid ""
 "Also, it provides a replayer that one can use to automate tasks at whatever "
 "speed one wants."
 msgstr ""
+"Testoval som aj [``GNU Xnee``](https://xnee.wordpress.com/), ktory sa mi "
+"zdal zaujimvy, pretoze zaznamenava vystup a uklada ho do separatneho suboru. "
+"Tiez poskytuje prehravac, ktory mozno pouzit na automatizaciu uloh "
+"pozadovanou rychlostou."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:87
 msgid ""
@@ -837,10 +1111,15 @@ msgid ""
 "be4foss/-/issues/31) for testing responsiveness and performance on older or "
 "lower-end hardware."
 msgstr ""
+"Nakoniec som sa rozhodol pripravit vsetky scenare pouzivania pomocou "
+"xdotool, aspon spociatku, kedze vacsina textovych editorov pouziva funkcie "
+"klavesnice namiesto aktivity mysi, co ulaahci prisposobenie skriptu roznym "
+"systemom."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:91
 msgid "![Preparing Standard Usage Scenarios](/blog/images/PreparingSUS.png)"
 msgstr ""
+"![Priprava standardnych scenarov pouzivania](/blog/images/PreparingSUS.png)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:95
 msgid ""
@@ -857,6 +1136,10 @@ msgid ""
 "I will put aside time for this attempt to fix the problem with the help of "
 "the GCompris team."
 msgstr ""
+"V nasledujucich tyzdnoch budem tiez pracovat na oprave znameho problemu pre "
+"Actiona. Problem je, ze Actiona emuluje spravanie pouzivatela ukladanim "
+"pozicie kliknuti na zaklade suradnic pixelov, co moze sazit prenos skriptu "
+"na iny system."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:97
 msgid ""
@@ -864,10 +1147,13 @@ msgid ""
 "(currently GCompris using Actiona) can be found [here](https://invent.kde."
 "org/teams/eco/be4foss/-/tree/master/standard-usage-scenarios)."
 msgstr ""
+"GitLab repozitar obsahujuci rozpracovane standardne scenare pouzivania "
+"(momentalne GCompris s Actiona) najdete [tu](https://invent.kde.org/teams/"
+"eco/be4foss/-/tree/master/standard-usage-scenarios)."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:99
 msgid "Community Bonding ( SoK’22 )"
-msgstr ""
+msgstr "Budovanie komunity (SoK'22)"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:101
 msgid ""
@@ -890,6 +1176,8 @@ msgid ""
 "Nicolas Fella, who is currently working with xdotool for his Master's thesis "
 "on the energy consumption of software."
 msgstr ""
+"Som vdacny svojmu mentorovi Josephovi P. De Veaugh-Geissovi za to, ze si "
+"nasiel cas a pomoohl mi poskytnutim zdrojov a vedenia pocas projektu."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:109
 msgid ""
@@ -899,35 +1187,41 @@ msgid ""
 "[GitLab issue](https://invent.kde.org/teams/eco/be4foss/-/issues/32) at the "
 "BE4FOSS repository where we can discuss further."
 msgstr ""
+"Dakujem, ze ste si nasli cas na precitanie tejto aktualizacie. Ak chce "
+"niekto nadviazat na tu prezentovane napady, existuje [GitLab issue](https://"
+"invent.kde.org/teams/eco/be4foss/-/issues/32) v repozitari BE4FOSS, kde "
+"mozeme dalej diskutovat."
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:111
 msgid "I am also available on KDE's Matrix instance at drquark:kde.org."
-msgstr ""
+msgstr "Som tiez dostupny na instancii Matrix KDE na drquark:kde.org."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 msgid "Celebrate Energy Conservation Day With KDE Eco"
-msgstr ""
+msgstr "Oslavte Den setrenia energiou s KDE Eco"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 msgid "Energy Conservation"
-msgstr ""
+msgstr "Setrenie energiou"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 #: content/blog/post-1.md:0
 msgid "Free Software"
-msgstr ""
+msgstr "Slobodny softver"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Sustainability"
-msgstr ""
+msgstr "Udrzatelnost"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:0
 msgid ""
 "March 5th is Energy Conservation Day. Celebrate with Free Software and KDE "
 "Eco!"
 msgstr ""
+"5. marca je Den setrenia energiou. Oslavte ho so slobodnym softverom a KDE "
+"Eco!"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:13
 msgid ""
@@ -936,6 +1230,10 @@ msgid ""
 "But it is also the most worthy of pursuing, as ultimately many of the "
 "current sources of energy we depend on are finite."
 msgstr ""
+"Medzi vyzvami, ktorym ludstvo celi v zapase o napajanie modernej "
+"civilizacie, patri setrenie energiou medzi tie tazsie dosiahnutelne. Je to "
+"vsak aj ciel najhodnejsi nasledovania, pretoze mnohhe zo sucasnych zdrojov "
+"energie, na ktorych zavisime, su konecne."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:15
 msgid ""
@@ -953,10 +1251,16 @@ msgid ""
 "applications and frameworks, to continue support for otherwise unsupported "
 "devices, and deploy exactly what people want and need."
 msgstr ""
+"Preto je znizovanie mnozstva energie, ktoru spotrebovavame, prioritou pre "
+"[KDE Eco](https://eco.kde.org/). Vsetky projekty [KDE](https://kde.org) su "
+"slobodny softver a slobodny softver znamena transparentnost a autonomiu "
+"pouzivatelov. Obe dokopy davaju KDE Eco a vyvojarom slobodneho softveru "
+"prostriedky na vyvoj energeticky uspornych vylepseni pre aplikacie a "
+"frameworky."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:19
 msgid "![](/blog/images/tag-des-energiesparens.jpg)"
-msgstr ""
+msgstr "![](/blog/images/tag-des-energiesparens.jpg)"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:21
 msgid ""
@@ -965,6 +1269,11 @@ msgid ""
 "inviting you to [join us](https://eco.kde.org/get-involved/) at KDE Eco! "
 "([Image: CC0](https://creativecommons.org/publicdomain/zero/1.0/))*"
 msgstr ""
+"*Nemecko vyhlasilo 5. marec za [Den setrenia energiou](https://www.bmuv.de/"
+"service/veranstaltungen/veranstaltung/tag-des-energiesparens). Dnes vas "
+"pozyvame, aby ste sa [pridali k nam](https://eco.kde.org/get-involved/) v "
+"KDE Eco! ([Obrazok: CC0](https://creativecommons.org/publicdomain/"
+"zero/1.0/))*"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:25
 msgid ""
@@ -979,10 +1288,15 @@ msgid ""
 "a species we will use fewer shared resources while keeping humanity's "
 "digital civilization running."
 msgstr ""
+"Je jasne, ze setrenie energiou pre maly pocet softverovych produktov "
+"nezaznamena ziadny vyrazny rozdiel. Ale predstavte si, ze zacneme trend; "
+"predstavte si setrenie aj malych mnozstiev energie v kazdej aplikacii, hre a "
+"frameworku; v stovkach tisicov programov beziacich na milionoch zariadeni s "
+"nepretrzitou podporou."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:27
 msgid "You can be part of that."
-msgstr ""
+msgstr "Mozete byt sucastou toho."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:29
 msgid ""
@@ -995,10 +1309,16 @@ msgid ""
 "(https://matrix.to/#/#energy-efficiency:kde.org) to talk live to other "
 "members of the project."
 msgstr ""
+"Nemecko vyhlasilo 5. marec za [Den setrenia energiou](https://www.bmuv.de/"
+"service/veranstaltungen/veranstaltung/tag-des-energiesparens) a dnes vas "
+"pozyvame, aby ste sa pridali k nam. Ci uz ste pouzivatel, ktory sa zaujima o "
+"uhlikovu stopu svojho pocitacoveho vyuzitia, alebo projekt, ktory chce "
+"zlepsit efektivnost svojho softveru, [navstivte nasu webovu stranku](https://"
+"eco.kde.org/) a zistite, ako sa zucastnit na KDE Eco."
 
 #: content/blog/2022-03-05-energy-conservation-day.md:31
 msgid "See you on Energy Conservation Day!"
-msgstr ""
+msgstr "Vidime sa na Dni setrenia energiou!"
 
 #: content/blog/2022-03-05-energy-conservation-day.md:35
 msgid ""
@@ -1009,17 +1329,27 @@ msgid ""
 "Conservation Day). The funds are made available by resolution of the German "
 "Bundestag."
 msgstr ""
+"Projekt BE4FOSS bol financovany Spolkovym uradom pre zivotne prostredie a "
+"Spolkovym ministerstvom pre zivotne prostredie, ochranu prirody, jadrovu "
+"bezpecnost a ochranu spotrebitelov (BMUV<sup><a id=\"fnr.1\" class=\"footref"
+"\" href=\"#fn.1\">1</a></sup>), ktori organizuju *Tag des Energiesparens* "
+"(Den setrenia energiou). Financne prostriedky su poskytovane na zaklade "
+"rozhodnutia Nemeckeho spolkoveho snemu."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid ""
 "First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular"
 msgstr ""
+"Prvy ekocertifikovany pocitacovy program vobec: Popularny PDF citac Okular "
+"od KDE"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid ""
 "The multi-platform Free and Open-Source Software product is now officially "
 "recognized for sustainable software design"
 msgstr ""
+"Multiplatformovy produkt slobodneho a otvorenozdrojoveho softveru je teraz "
+"oficialne uznany za udrzatelny dizajn softveru"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
@@ -1028,19 +1358,19 @@ msgstr "Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid "Global Ecolabelling Network"
-msgstr ""
+msgstr "Global Ecolabelling Network"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid "Press release to announce Okular receiving the Blue Angel eco-label."
-msgstr ""
+msgstr "Tlacova sprava oznamujuca udelenie ekoznacky Blue Angel pre Okular."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:16
 msgid "Okular screenshot"
-msgstr ""
+msgstr "Snimka obrazovky Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:18
 msgid "Okular Icon"
-msgstr ""
+msgstr "Ikona Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:20
 msgid ""
@@ -1059,6 +1389,16 @@ msgid ""
 "globalecolabelling.net/)! This network, of which Blue Angel is a member, "
 "represents over 50 countries."
 msgstr ""
+"[Okular](https://okular.kde.org/), popularny multiplatformovy PDF citac a "
+"univerzalny prezerac dokumentov od KDE, bol oficialne uznany za udrzatelny "
+"dizajn softveru, ako sa odrazaju v nedavnych [kriteriach pre ekocertifikaciu "
+"softveru](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
+"%20215-202001-en-Criteria-2020-02-13.pdf). Vo februari 2022 bol Okularu "
+"[udelena ekoznacka Blue Angel](https://www.blauer-engel.de/en/productworld/"
+"resources-and-energy-efficient-software-products), oficialna environmentalna "
+"znacka udelovana nemeckou vladou. Blue Angel, zavedeny v roku 1978, je "
+"najstarsia environmentalna znacka na svete a Okular je prvym softverovym "
+"produktom certifikovanym touto pecatou."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:22
 msgid ""
@@ -1081,6 +1421,13 @@ msgid ""
 "angel-for-software), where researchers measured the resource and energy-"
 "consumption of Okular and other KDE software."
 msgstr ""
+"KDE je celosvetova komunita softverovych inzinierov, umelcov, pisatelov, "
+"prekladatelov a tvorcov, ktori su oddani vyvoju slobodneho softveru. S "
+"dlhodobou [misiou](https://community.kde.org/KDE/Mission) a orientacnou "
+"[viziou](https://community.kde.org/KDE/Vision) KDE, ako aj s talentom a "
+"schopnostami clenov jeho komunity, nie je prekvapenim, ze KDE je "
+"priekopnikom medzi skupinou ludi a organizacii, ktore presadzuju diskusiu o "
+"udrzatelnom softveri."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:24
 msgid ""
@@ -1094,6 +1441,12 @@ msgid ""
 "signatures and sign documents yourself, as well as include annotated text "
 "and comments directly embedded into the document."
 msgstr ""
+"KDE bolo zalozene v roku 1996 a udrzuje mnozstvo produktov slobodneho a "
+"otvorenozdrojoveho softveru, vratane desktopoveho prostredia Plasma; "
+"dizajnovej aplikacie pre maliiarov a grafickych umelcov Krita; sady "
+"vzdelavacich aktivit GCompris pre deti; Kdenlive, profesionalneho softveru "
+"na editaciu videa; a samozrejme Okular, nepostradadtelneho pocitacoveho "
+"programu na prezeranie vsetkych typov dokumentov."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:26
 msgid ""
@@ -1110,6 +1463,12 @@ msgid ""
 "directly related to sustainability by organizations such as the German "
 "Environment Agency (*Umweltbundesamt*), who developed the award criteria."
 msgstr ""
+"Kriteria Blue Angel pre softver, so zameranim na transparentnost v zdrojovej "
+"a energetickej efektivnosti, zivotnost hardveru a autonomiu pouzivatelov, "
+"poskytuju vynikajuci referency bod na zacatie diskusie o udrzatelnosti "
+"softveru. A tak v roku 2021 KDE zacalo [KDE Eco](https://eco.kde.org/), "
+"projekt s cielom dostat KDE a slobodny softver na celo udrzatelneho dizajnu "
+"softveru."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:28
 msgid ""
@@ -1127,10 +1486,15 @@ msgid ""
 "include a list of user autonomy requirements which reduce the environmental "
 "impact of software."
 msgstr ""
+"Blue Angel sa udeluje celemu radu produktov a sluzieb, od papierovych "
+"produktov po stavebne materialy az po tlaciarne. V roku 2020 nemecky "
+"Spolkovy urad pre zivotne prostredie rozsiiril kriteria o softverove "
+"produkty, co bolo prvym v svete environmentalnych certifikacii, ktore "
+"prepojilo transparentnost a autonomiu pouzivatelov s udrzatelnostou."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:30
 msgid "Blue Angel Ecolabel"
-msgstr ""
+msgstr "Ekoznacka Blue Angel"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:32
 msgid ""
@@ -1151,6 +1515,9 @@ msgid ""
 "Software license, users and communities are able to influence the factors "
 "determining the resource consumption of their software!"
 msgstr ""
+"Vsetky tieto kriteria bezproblemo odruzaju hodnoty KDE a sirsieho hnutia "
+"slobodneho softveru. So slobodnym a otvorenozdrojovym softverom je "
+"transparentnost zarucena a kontrola je odovzdana pouzivatelom."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:34
 msgid ""
@@ -1162,6 +1529,9 @@ msgid ""
 "energy and resource consumption, extending the potential hardware operating "
 "life of devices, and enabling user autonomy."
 msgstr ""
+"Okular bol vydany pod licenciou GPLv2+ a je slobodny a otvorenozdrojovy "
+"softver, a tak uz splnal mnohe z kriterii autonomie pouzivatelov potrebnych "
+"na ziskanie pecate Blue Angel."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:36
 msgid ""
@@ -1169,6 +1539,9 @@ msgid ""
 "to the Okular developers for making environmentally-friendly software for "
 "all of us!"
 msgstr ""
+"KDE a komunita slobodneho softveru by radi poslali srdecne podakovanie "
+"vyvojarom Okularu za tvorbu environmentalne prievetiveho softveru pre nas "
+"vsetkych!"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:40
 msgid ""
@@ -1183,6 +1556,9 @@ msgid ""
 "code is also readily available at [Okular's GitLab repository](https://"
 "invent.kde.org/graphics/okular) for all to use, study, share, and improve."
 msgstr ""
+"Okular funguje na Linuxe, Windowse, Androide a Plasma Mobile a je k "
+"dispozicii na [stiahnutie](https://okular.kde.org/download/) pre vsetky GNU/"
+"Linux distribucie."
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:43
 msgid ""
@@ -1194,20 +1570,26 @@ msgid ""
 "Software part of our future so we can live up to our responsibility for this "
 "and future generations!"
 msgstr ""
+"Dnes sa udrzatelnost musi zvazovat holisticky: sloboda a otvorenost v "
+"softveri, autonomia pouzivatelov a kontrola nad vlastnym digitalnym zivotom "
+"a transparentnost v spotrebe zdrojov nasej digitalnej infrastruktury su toho "
+"sucastou. Pridajte sa k nam v [KDE Eco](https://eco.kde.org/get-involved/)."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid ""
 "Blue Angel Award Ceremony At EnviroInfo Conference: Okular Officially "
 "Receives Eco-Label, First Ever For Software Product"
 msgstr ""
+"Slavnostne odovzdavanie Blue Angel na konferencii EnviroInfo: Okular "
+"oficialne ziskava ekoznacku, historicky prvu pre softverovy produkt"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Award Ceremony"
-msgstr ""
+msgstr "Slavnostne odovzdavanie"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "EnviroInfo Conference"
-msgstr ""
+msgstr "Konferencia EnviroInfo"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid ""
@@ -1218,6 +1600,10 @@ msgid ""
 "[Updated on Friday, 7 October 2022 for Okular's celebration at Akademy 2022 "
 "with KDE Eco cake.]"
 msgstr ""
+"V stredu 28. septembra Okular oslavil, ze sa stal prvym softverovym "
+"produktom s ekocertifikaciou Blue Angel, spolocne s nemeckym Spolkovym "
+"uradom pre zivotne prostredie, Umwelt Campus Birkenfeld a ucastnikmi "
+"konferencie EnviroInfo."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:12
 msgid ""
@@ -1225,6 +1611,9 @@ msgid ""
 "[\"Update: Celebrating At Akademy 2022 (1 October)\"]({{< ref \"#akademy\" "
 ">}}).*"
 msgstr ""
+"*Poznamka: Tento prispevok bol aktualizovany v piatok 7. oktobra 2022. "
+"Pozrite si sekciu [\"Aktualizacia: Oslava na Akademy 2022 (1. oktober)\"]"
+"({{< ref \"#akademy\" >}}).*"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:14
 msgid ""
@@ -1234,6 +1623,9 @@ msgid ""
 "officially celebrated for becoming the first software product to receive the "
 "Blue Angel eco-label."
 msgstr ""
+"V stredu 28. septembra 2022 bol [Okular](https://okular.kde.org/), slobodny "
+"a otvorenozdrojovy pokrocily citac dokumentov, oficialne oslaveny za to, ze "
+"sa stal prvym softverovym produktom, ktory ziskal ekoznacku Blue Angel."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:16
 msgid ""
@@ -1246,12 +1638,19 @@ msgid ""
 "currently only eco-certified computer program within the 30 organizations of "
 "the Global Ecolabelling Network, which represents over 50 countries."
 msgstr ""
+"Ako bolo oznamene v marci (viac si precitajte [tu](https://eco.kde.org/"
+"blog/2022-03-16-press-release-okular-blue-angel/)), Okular bol uznany za "
+"udrzatelny dizajn softveru. S touto cenou je Okular prvym a momentalne "
+"jedinym ekocertifikovanym pocitacovym programom v ramci 30 organizacii "
+"Global Ecolabelling Network, ktora zastupuje viac ako 50 krajin."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:20
 msgid ""
 "![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/"
 "blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 msgstr ""
+"![Joseph, Harri a Alexander na podiu na slavnostnom odovzdavani Blue Angel.]"
+"(/blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:22
 msgid ""
@@ -1260,6 +1659,8 @@ msgid ""
 "Bornschein from the German Environment Agency with Joseph P. De Veaugh-"
 "Geiss, Alexander Lohnau, and Harri Porten from the KDE community.*"
 msgstr ""
+"*Okular od KDE prijima ekocertifikaciu Blue Angel od nemeckeho Spolkoveho "
+"uradu pre zivotne prostredie.*"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:27
 msgid ""
@@ -1269,6 +1670,11 @@ msgid ""
 "Lohnau, and Harri Porten -- were on stage to receive the award on behalf of "
 "Okular and the KDE community."
 msgstr ""
+"Slavnostne odovzdavanie sa uskutocnilo na 36. rocniku [konferencie "
+"EnviroInfo](https://informatik2022.gi.de/en/enviroinfo-2022) v Hamburgu, "
+"Nemecko. Traja clenovia komunity KDE -- Joseph P. De Veaugh-Geiss, Alexander "
+"Lohnau a Harri Porten -- boli na podiu, aby prevzali cenu v mene Okularu a "
+"komunity KDE."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:29
 msgid ""
@@ -1282,16 +1688,21 @@ msgid ""
 "Agency ('Umweltbundesamt'), the Environmental Campus Birkenfeld ('Umwelt "
 "Campus Birkenfeld'), and the larger EnviroInfo community."
 msgstr ""
+"EnviroInfo je medzinarodna a interdisciplinarna konferencia so zameranim na "
+"environmentalne otazky v informacnych a komunikacnych technologiach. "
+"Komunita KDE je pocestena, ze mohla oslavit uspech Okularu na tomto podujati."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:31
 msgid ""
 "Congratulations to Okular and KDE for official recognition of the "
 "outstanding work you are doing!"
 msgstr ""
+"Gratulujeme Okularu a KDE za oficialne uznanie vynikajucej prace, ktoru "
+"vykonavate!"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
 msgid "Update: Celebrating At Akademy 2022 (1 October)"
-msgstr ""
+msgstr "Aktualizacia: Oslava na Akademy 2022 (1. oktober)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
@@ -1299,6 +1710,9 @@ msgid ""
 "Akademy 2022 attendees gathered to celebrate Okular's achievement in the "
 "outdoor gardens at Universitat Politècnica de Catalunya."
 msgstr ""
+"V sobotu 1. oktobra, hned po panelovej diskusii KDE Eco, sa ucastnici "
+"Akademy 2022 zhromazdili, aby oslavili uspech Okularu v zahradach "
+"Universitat Politecnica de Catalunya."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:37
 msgid ""
@@ -1307,6 +1721,10 @@ msgid ""
 "community coming together, smiling, and enjoying the delicious, sugar-free "
 "KDE Eco cake made especially for the occasion."
 msgstr ""
+"Bol to prekrasny den. Este krajsie bolo vidiet [prispievatelov Okularu]"
+"(https://invent.kde.org/graphics/okular/-/graphs/master) a sirsiu komunitu "
+"KDE, ako sa stretavaju, usmiievaju a uzivaju si lahodny KDE Eco kolac "
+"pripraveny specialne na tuto prilezitost."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:39
 msgid ""
@@ -1314,37 +1732,42 @@ msgid ""
 "about the celebration and follow us at our [BE4FOSS Mastodon](https://"
 "mastodon.social/web/@BE4FOSS) account."
 msgstr ""
+"Pozrite si [toot](https://mastodon.social/web/@BE4FOSS/109093579604779746) o "
+"oslave a sledujte nas na nasom [BE4FOSS Mastodon](https://mastodon.social/"
+"web/@BE4FOSS) ucte."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:43
 msgid "![KDE Eco cake](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
-msgstr ""
+msgstr "![KDE Eco kolac](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:45
 msgid ""
 "*Celebrating Okular and the Blue Angel with KDE Eco cake at Akademy 2022!*"
-msgstr ""
+msgstr "*Oslava Okularu a Blue Angel s KDE Eco kolacom na Akademy 2022!*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
-msgstr ""
+msgstr "Opt Green: Novy projekt udrzatelneho softveru KDE Eco"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "Sustainable Software"
-msgstr ""
+msgstr "Udrzatelny softver"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "Sustainable Hardware"
-msgstr ""
+msgstr "Udrzatelny hardver"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid ""
 "KDE Eco has begun a new initiative \"Opt Green: Sustainable Software For "
 "Sustainable Hardware\"."
 msgstr ""
+"KDE Eco zacalo novu iniciativu \"Opt Green: Udrzatelny softver pre "
+"udrzatelny hardver\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/blog-opt-green-optimized.png"
-msgstr ""
+msgstr "/blog/thumbnails/blog-opt-green-optimized.png"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:14
 msgid ""
@@ -1359,10 +1782,12 @@ msgid ""
 "projektfoerderungen-projekttraeger/opt-green-nachhaltige-software-fuer-"
 "nachhaltige))."
 msgstr ""
+"KDE Eco zacalo novu iniciativu \"Opt Green: Udrzatelny softver pre "
+"udrzatelny hardver\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:16
 msgid "Opt Green: Sustainable Software For Sustainable Hardware"
-msgstr ""
+msgstr "Opt Green: Udrzatelny softver pre udrzatelny hardver"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:18
 msgid ""
@@ -1380,12 +1805,19 @@ msgid ""
 "goodbye to premature hardware obsolescence: lean, efficient Free Software "
 "runs on devices which are decades old!"
 msgstr ""
+"Slobodny softver zo svojej podstaty zarucuje [transparentnost a autonomiu "
+"pouzivatelov](https://fsfe.org/freesoftware/index.en.html). To dava *vam*, "
+"pouzivatelovi, kontrolu nad *vasim* hardverom odstranenim nepotrebnych "
+"zavislosti od dodavatelov. So slobodnym softverom mozete svoje zariadenia "
+"pouzivat ako chcete, ako dlho chcete."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:20
 msgid ""
 "Independent and sustainable Free Software is good for the users, and good "
 "for the environment."
 msgstr ""
+"Nezavisly a udrzatelny slobodny softver je dobry pre pouzivatelov a dobry "
+"pre zivotne prostredie."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:24
 msgid ""
@@ -1396,6 +1828,9 @@ msgid ""
 "a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](/blog/"
 "images/2024-05-24_ThinkGlobalComputeLocal.png)"
 msgstr ""
+"![Kampan \"Myslite globalne, konajte lokalne\" nabada ludi, aby zvazovali "
+"globalne zdravie a pritom konali vo svojich lokalnych komunitach.](/blog/"
+"images/2024-05-24_ThinkGlobalComputeLocal.png)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:28
 msgid ""
@@ -1405,6 +1840,8 @@ msgid ""
 "driven by principles related to the environment, and not just price or "
 "convenience: the \"eco-consumers\"."
 msgstr ""
+"Pocas nasledujucich dvoch rokov iniciativa \"Opt Green\" prinesie to, co KDE "
+"Eco robilo pre udrzatelny softver, priamo ku koncovym pouzivatelom."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:30
 msgid ""
@@ -1413,12 +1850,17 @@ msgid ""
 "energy consumption, and keep devices in use for the lifespan of the "
 "hardware, not the software."
 msgstr ""
+"Prostrednictvom online a offline kampani a tiez instalacnych workshopov "
+"predvedieme silu slobodneho softveru na znizenie spotreby zdrojov a energie "
+"a udrzanie zariadeni v pouzivani pocas celej zivotnosti hardveru, nie "
+"softveru."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:32
 msgid ""
 "Our motto: **The most environmentally-friendly device is the one you already "
 "own.**"
 msgstr ""
+"Nase motto: **Najekologickejsie zariadenie je to, ktore uz vlastnite.**"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:34
 msgid ""
@@ -1429,10 +1871,14 @@ msgid ""
 "teams/eco/opt-green) or the [contact page](https://eco.kde.org/get-"
 "involved/) to get involved today!"
 msgstr ""
+"Tema udrzatelnosti riadenej softverom je relevantna pre vsetky aplikacie a "
+"vyvojarov slobodneho softveru. Radi by sme vas privitali, aby ste sa k nam "
+"pridali. Pozrite si [stranku kontaktov](https://eco.kde.org/get-involved/) a "
+"zapojte sa uz dnes!"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:36
 msgid "Software's Environmental Harm"
-msgstr ""
+msgstr "Skody softveru na zivotnom prostredi"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:38
 msgid ""
@@ -1454,6 +1900,13 @@ msgid ""
 "phoronix.com/news/Intel-i486-Linux-Possible-Drop) for Intel 486 processors "
 "from 1989. That's 33 years of support!)"
 msgstr ""
+"Dna [14. oktobra 2025](https://learn.microsoft.com/en-us/lifecycle/faq/"
+"windows) koniec podpory pre Windows 10 podla [odhadov](https://www.canalys."
+"com/insights/end-of-windows-10-support-could-turn-240-million-pcs-into-e-"
+"waste) urobi elektronicky odpad z [240 milionov pocitacov](https://www."
+"reuters.com/technology/microsoft-ending-support-windows-10-could-send-240-"
+"mln-pcs-landfills-report-2023-12-21/), ktore nesplnaju podmienky na upgrade "
+"na Windows 11."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:40
 msgid ""
@@ -1465,6 +1918,9 @@ msgid ""
 "bewertungsgrundlagen-fuer) has frequently become less efficient and more "
 "energy-intensive, which has rendered older, less powerful devices useless."
 msgstr ""
+"Dodavatelia casto vyzaduju kupenie noveho zariadenia na podporu aktualizacii "
+"softveru. Privilis casto je to podnecovane ekonomickymi imperativmi, nie "
+"technologickymi poziadavkami."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:42
 msgid ""
@@ -1473,6 +1929,10 @@ msgid ""
 "story/2015/05/497772) of the \"tsunami of electronic waste rolling out over "
 "the world\"."
 msgstr ""
+"Uz v roku 2015 Achim Steiner, byvaly vykonny riaditel programu OSN pre "
+"zivotne prostredie (UNEP), [varoval](https://news.un.org/en/"
+"story/2015/05/497772) pred \"tsunami elektronickeho odpadu, ktora sa vali "
+"cez svet\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:44
 msgid ""
@@ -1480,6 +1940,8 @@ msgid ""
 "equivalent to 4500 Eiffel Towers. If you were to stack those Eiffel Towers "
 "on top of each other, the result would be 17 times higher than Mount Everest."
 msgstr ""
+"V roku 2016 bolo vygenerovanych 44,7 miliona ton elektronickeho odpadu, co "
+"sa odhaduje na ekvivalent 4500 Eiffelovych viez."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:46
 msgid ""
@@ -1489,16 +1951,23 @@ msgid ""
 "growing waste stream](https://www.weforum.org/reports/a-new-circular-vision-"
 "for-electronics-time-for-a-global-reboot/) in the world."
 msgstr ""
+"V roku 2017 [Univerzita OSN](https://web.archive.org/web/20220901055133/"
+"https://unu.edu/media-relations/releases/ewaste-rises-8-percent-by-weight-"
+"in-2-years.html) urcila elektronicky odpad za [najrychlejsie rastuci tok "
+"odpadu](https://www.weforum.org/reports/a-new-circular-vision-for-"
+"electronics-time-for-a-global-reboot/) na svete."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:48
 msgid ""
 "In 2022, the amount of e-waste reached 59.4 million tonnes, a 33% increase "
 "since 2016."
 msgstr ""
+"V roku 2022 mnozstvo elektronickeho odpadu dosiahlo 59,4 miliona ton, co je "
+"33% narast od roku 2016."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:50
 msgid "The flow of e-waste continues to rise today."
-msgstr ""
+msgstr "Tok elektronickeho odpadu pokracuje v raste aj dnes."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:54
 msgid ""
@@ -1508,6 +1977,8 @@ msgid ""
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by "
 "Anita Sengupta.)](/blog/images/mountain.png)"
 msgstr ""
+"V roku 2016 bolo vygenerovanych 44,7 miliona ton elektronickeho odpadu, co "
+"sa odhaduje na ekvivalent 4500 Eiffelovych viez."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:58
 msgid ""
@@ -1523,6 +1994,9 @@ msgid ""
 "yewtu.be/watch?v=Nxem6yTRC4M), the role of software in keeping functioning "
 "hardware in use and out of the landfill grows more critical every day."
 msgstr ""
+"Softver je casto neuznavany, ale vyznamny faktor udrzatelnosti. Softver "
+"urcuje spotrebu energie hardveru a minimalne systemove poziadavky. Urcuje, "
+"ako dlho moze zariadenie zostat bezpecne v pouzivani."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:60
 msgid ""
@@ -1532,6 +2006,8 @@ msgid ""
 "of life, and the air, soil, and waters around them&mdash;not to mention the "
 "people and animals."
 msgstr ""
+"Pre spotrebitelov mozu byt skody na zivotnom prostredi mimo ich zretelov. "
+"Zivotne prostredie vsak registruje ich dosledky."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:64
 msgid ""
@@ -1545,6 +2021,9 @@ msgid ""
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/images/"
 "sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 msgstr ""
+"![Mlady muz je zachyteny pri paleni elektrickych drotov na ziskanie medi v "
+"Agbogbloshie, Ghana.](/blog/images/sec1_800px-"
+"Agbogbloshie_Ghana_September_2019.webp)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:68
 msgid ""
@@ -1557,6 +2036,9 @@ msgid ""
 "over 30 years before efficiency gains in newly-produced devices justify "
 "their purchase."
 msgstr ""
+"Je to zvlast devastujuce, ak zvazite skody na zivotnom prostredi a "
+"spolocnosti sposobene elektronickym odpadom, najma ked sa elektronicky odpad "
+"generuje skorsie, nez je nutne, kvoli predcasnej zastaranosti."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:70
 msgid ""
@@ -1567,6 +2049,9 @@ msgid ""
 "environment as toxic waste and cause enormous damage to workers' health or "
 "even death."
 msgstr ""
+"Navyse, tazba vzacnych zemnych kovov pri vyrobe spotrebovava obrovske "
+"mnozstva energie a prebieha v biednnych socialnych podmienkach, casto na "
+"globalnom juhu."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:74
 msgid ""
@@ -1575,11 +2060,11 @@ msgid ""
 "(Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/licenses/"
 "CC-BY-SA-4.0.html) license. Design by Anita Sengupta.)](/blog/images/apple-"
 "report.png)"
-msgstr ""
+msgstr "![Uhlikova stopa spolocnosti Apple.](/blog/images/apple-report.png)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:78
 msgid "Giving Consumers What They Want"
-msgstr ""
+msgstr "Dajme spotrebitelom, co chcu"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:80
 msgid ""
@@ -1593,6 +2078,9 @@ msgid ""
 "eurobarometer/api/deliverable/download/file?deliverableId=72255) believe "
 "manufacturers should be required to make it easier to repair digital devices."
 msgstr ""
+"Globalny zaujem o skody na zivotnom prostredi a udrzatelne tovary [stabilne "
+"rastie od roku 2015 do roku 2021](https://www.worldwildlife.org/publications/"
+"an-eco-wakening-measuring-awareness-engagement-and-action-for-nature)."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:82
 msgid ""
@@ -1601,6 +2089,9 @@ msgid ""
 "possible, even on much older devices, while user autonomy ensures the right "
 "to repair when applications stop functioning."
 msgstr ""
+"Slobodny softver uz dava spotrebitelom, co chcu, ale vacsina o tom este "
+"nevie. Transparentnost v kode umoznuje lahky, vykonny softver aj na ovela "
+"starsiich zariadeniach."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:86
 msgid ""
@@ -1609,6 +2100,9 @@ msgid ""
 "published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
 "license.)](/blog/images/sec2_okular-BE-logo.png)"
 msgstr ""
+"![Popularny multiplatformovy PDF citac a univerzalny prezerac dokumentov "
+"Okular od KDE ziskal ekoznacku Blue Angel v roku 2022.](/blog/images/"
+"sec2_okular-BE-logo.png)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:90
 msgid ""
@@ -1631,12 +2125,18 @@ msgid ""
 "measure software's energy consumption in KDE's [KEcoLab](https://eco.kde.org/"
 "categories/kecolab/)."
 msgstr ""
+"Kriteria [Blue Angel pre desktopovy softver](https://www.blauer-engel.de/en/"
+"productworld/resources-and-energy-efficient-software-products) su na cele v "
+"uznavani kritickej ulohy transparentnosti a autonomie pouzivatelov v "
+"udrzatelnom dizajne softveru."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:92
 msgid ""
 "Now we want to take what we have achieved and bring it directly to eco-"
 "consumers."
 msgstr ""
+"Teraz chceme vziat to, co sme dosiahli, a priniest to priamo k eko-"
+"spotrebitelom."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:94
 msgid ""
@@ -1654,6 +2154,9 @@ msgid ""
 "Free Software communities. Installation workshops will give users the know-"
 "how to keep their devices in use for as long as they want."
 msgstr ""
+"Prostrednictvom vzdelavacich kampani a workshopov sa projekt \"Opt Green\" "
+"snazi bojovat proti elektronickemu odpadu udrzovanim hardveru v pouzivani "
+"pomocou slobodneho softveru."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:96
 msgid ""
@@ -1662,10 +2165,14 @@ msgid ""
 "what they want today, and we will be working hard to make sure they know "
 "that."
 msgstr ""
+"Spotrebitelia nepotrebuju novy pocitac na ziskanie bezpecneho, "
+"najmodernejsieho softveru; potrebuju len ten spravny softver. Slobodny "
+"softver uz dava spotrebitelom, co dnes chcu, a my budeme tvrdo pracovat na "
+"tom, aby o tom vedeli."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:98
 msgid "Ready To Join Us?"
-msgstr ""
+msgstr "Ste pripraveni pridast sa k nam?"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:100
 msgid ""
@@ -1674,6 +2181,9 @@ msgid ""
 "will drive demand for Free Software products and enable long-term hardware "
 "use."
 msgstr ""
+"Spotrebitelia chcu udrzatelne a opravitelne digitalne zariadenia. Verime, ze "
+"poskytnutie softveru pouzivatelom na udrzanie zariadeni v pouzivani a mimo "
+"sklaadky zvysi dopyt po produktoch slobodneho softveru."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:102
 msgid ""
@@ -1681,6 +2191,9 @@ msgid ""
 "Software? See our [contact info](https://eco.kde.org/get-involved/) to get "
 "involved.**"
 msgstr ""
+"**Chcete sa k nam pridat v tomto hnuti na boj proti elektronickemu odpadu "
+"pomocou slobodneho softveru? Pozrite si nase [kontaktne informacie](https://"
+"eco.kde.org/get-involved/) a zapojte sa.**"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:104
 msgid ""
@@ -1690,6 +2203,10 @@ msgid ""
 "like you to report on the project in magazines and newspapers. Let's work "
 "together to bring sustainable software to your community!"
 msgstr ""
+"Potrebujeme dobrovolnikov ako vy, aby priniesli kampan \"Opt Green\" do "
+"miest a obci po celom svete. Potrebujeme dobrovolnikov na navrhovanie "
+"putavych sprievodcov a krasnych materialov na globalnu distribuciu. Pracujme "
+"spolocne na prineseni udrzatelneho softveru do vasej komunity!"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:106
 msgid ""
@@ -1699,6 +2216,11 @@ msgid ""
 "software application's energy consumption? Let's collaborate to make energy "
 "transparency a part of Free Software development today!"
 msgstr ""
+"Mozno vas zaujima prispievanie k vyvoju [meracich nastrojov](https://invent."
+"kde.org/teams/eco/) ako KdeEcoTest a Selenium AT-SPI alebo zlepsovanie "
+"automatizacie KEcoLab? Alebo pouzitie takychto nastrojov na meranie spotreby "
+"energie vasej softverovej aplikacie? Spolupracujme na tom, aby sa "
+"transparentnost spotreby energie stala sucastou vyvoja slobodneho softveru!"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:108
 msgid ""
@@ -1706,6 +2228,9 @@ msgid ""
 "hardware in use for longer. Please be in touch! We want to promote the "
 "amazing work you do directly with consumers."
 msgstr ""
+"Alebo mozno aktivne prispievate do projektu slobodneho softveru, ktory udrzi "
+"hardver v pouzivani dlhsie. Prosim, kontaktujte nas! Chceme propagovat "
+"uzasnu pracu, ktoru robite, priamo spotrebitelom."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:110
 msgid ""
@@ -1714,10 +2239,14 @@ msgid ""
 "success. We would love to have you join us. Learn more: https://eco.kde.org/"
 "get-involved/"
 msgstr ""
+"Dalsie napady su viac nez vitane. Sucastou projektu bude zistovanie, co "
+"funguje, a zapojenie ludi ako vy urobi tento projekt uspesnym. Radi by sme "
+"vas privitali. Viac informacii: https://eco.kde.org/get-involved/"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:112
 msgid "*Note: This post was updated on Monday, 17 June 2024.*"
 msgstr ""
+"*Poznamka: Tento prispevok bol aktualizovany v pondelok 17. juna 2024.*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:116
 msgid ""
@@ -1727,14 +2256,19 @@ msgid ""
 "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
 "German Bundestag."
 msgstr ""
+"Tento projekt je financovany Spolkovym uradom pre zivotne prostredie a "
+"Spolkovym ministerstvom pre zivotne prostredie, ochranu prirody, jadrovu "
+"bezpecnost a ochranu spotrebitelov (BMUV<sup><a id=\"fnr.1\" class=\"footref"
+"\" href=\"#fn.1\">1</a></sup>). Financne prostriedky su poskytovane na "
+"zaklade rozhodnutia Nemeckeho spolkoveho snemu."
 
 #: content/blog/_index.md:0
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: content/blog/_index.md:0
 msgid "Keep up with the latest news about the KDE Eco project"
-msgstr ""
+msgstr "Sledujte najnovsie spravy o projekte KDE Eco"
 
 #: content/blog/_index.md:0
 msgid "KDE Eco blog"
@@ -1742,29 +2276,31 @@ msgstr "KDE Eco"
 
 #: content/blog/post-1.md:0 content/FEEP/_index.md:0
 msgid "Energy Efficiency"
-msgstr ""
+msgstr "Energeticka efektivnost"
 
 #: content/blog/post-1.md:0
 msgid "Resource-Efficient Software & Blauer Engel Eco-Certification"
-msgstr ""
+msgstr "Zdrojovo efektivny softver a ekocertifikacia Blauer Engel"
 
 #: content/blog/post-1.md:0
 msgid "Hardware Operating Life"
-msgstr ""
+msgstr "Zivotnost hardveru"
 
 #: content/blog/post-1.md:0
 msgid "Software efficiency is resource efficiency!"
-msgstr ""
+msgstr "Efektivnost softveru je efektivnost zdrojov!"
 
 #: content/blog/post-1.md:15
 msgid ""
 "Often overlooked is the fact that the resource consumption of hardware is "
 "determined by the software running on it."
 msgstr ""
+"Casto sa prehliad fakt, ze spotreba zdrojov hardveru je urcovana softverom, "
+"ktory na nom bezi."
 
 #: content/blog/post-1.md:17
 msgid "*How much energy does hardware use?*"
-msgstr ""
+msgstr "*Kolko energie spotrebuje hardver?*"
 
 #: content/blog/post-1.md:19
 msgid ""
@@ -1773,10 +2309,14 @@ msgid ""
 "(https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
 "Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf)."
 msgstr ""
+"Pozrite sa na softver: ten isty stroj vykonavajuci tu istu ulohu s dvoma "
+"roznymi aplikaciami moze mat [drasticky rozne energeticke naroky](https://"
+"www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
+"Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf)."
 
 #: content/blog/post-1.md:21
 msgid "*How long is the operating life of a piece of hardware?*"
-msgstr ""
+msgstr "*Aka dlha je zivotnost hardveru?*"
 
 #: content/blog/post-1.md:23
 msgid ""
@@ -1784,12 +2324,17 @@ msgid ""
 "hardware results in new devices being manufactured and sold, while perfectly "
 "functioning devices are discarded."
 msgstr ""
+"Opat je softver kriticky. Nafukovanie softveru vyzadujuce stale vykonnejsi "
+"hardver vedie k vyrobe a predaju novych zariadeni, zatial co dokonale "
+"funkcne zariadenia sa vyhadz."
 
 #: content/blog/post-1.md:27
 msgid ""
 "![WEEE Man At The Eden Project](/blog/images/geograph-2637892-by-James-T-M-"
 "Towill_800x600.jpg \"WEEE Man At The Eden Project\")"
 msgstr ""
+"![WEEE Man v The Eden Project](/blog/images/geograph-2637892-by-James-T-M-"
+"Towill_800x600.jpg \"WEEE Man v The Eden Project\")"
 
 #: content/blog/post-1.md:29
 msgid ""
@@ -1798,6 +2343,11 @@ msgid ""
 "citizen in their lifetime - equating to 3.3 tonnes.\" ([source](https://web."
 "archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*"
 msgstr ""
+"*\"Sedemmetrovy WEEE (Waste Electrical and Electronic Equipment) Man je "
+"vyrobeny z elektrickych a elektronickych zariadeni vyhodennch priemernym "
+"obcaanom Velkkej Britanie za jeho zivot - co sa rovna 3,3 tonam.\" ([zdroj]"
+"(https://web.archive.org/web/20180901075137/https://www.geograph.org.uk/"
+"photo/2637892))*"
 
 #: content/blog/post-1.md:33
 msgid ""
@@ -1810,6 +2360,9 @@ msgid ""
 "efficiently. Continuing support for older, but perfectly functioning, "
 "devices. And so on."
 msgstr ""
+"Takze ked premyslate, co robit, kym klimaticka kriza pokracuje, kde zacat a "
+"ako, my v [KDE Eco](https://eco.kde.org/) si myslime, ze softver -- najma "
+"slobodny softver -- je dobry zaciatok."
 
 #: content/blog/post-1.md:35
 msgid ""
@@ -1819,16 +2372,20 @@ msgid ""
 "millions, or even billions, of computer users worldwide, and it quickly adds "
 "up."
 msgstr ""
+"Kazda z tychto volieb ma naklady a/alebo prinosy. Napriklad, cim viac "
+"(nepotrebnych) procesov ma aplikacia beziacich na pozadi, tym viac zdrojov "
+"hardver potrebuje."
 
 #: content/blog/post-1.md:37
 msgid ""
 "The opposite is also true: reduce the demands from software and one reduces "
 "the demands on our resources."
 msgstr ""
+"Plati to aj naopak: znizite naroky softveru a znizite naroky na nase zdroje."
 
 #: content/blog/post-1.md:39
 msgid "In other words, software efficiency means resource efficiency!"
-msgstr ""
+msgstr "Inymi slovami, efektivnost softveru znamena efektivnost zdrojov!"
 
 #: content/blog/post-1.md:41
 msgid ""
@@ -1842,12 +2399,19 @@ msgid ""
 "potential operating life of hardware, and user autonomy ... all of which fit "
 "seamlessly with Free and Open Source Software (FOSS)."
 msgstr ""
+"Nedavno bola vzajomna zavislost medzi softverovym inzinierstvom a "
+"udrzatelnostou oficialne uznana [nemeckym Spolkovym uradom pre zivotne "
+"prostredie](https://www.umweltbundesamt.de/en) (*Umweltbundesamt*, alebo "
+"UBA). V roku 2020 UBA zverejnil [kriteria](https://produktinfo.blauer-engel."
+"de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13.pdf) "
+"pre desktopovy softver na ziskanie ekocertifikacie s oznacenim Blauer Engel."
 
 #: content/blog/post-1.md:45
 msgid ""
 "![KDE Eco logo with vegetation](/blog/images/KDE-eco-logo-name_vegetation."
 "jpg)"
 msgstr ""
+"![Logo KDE Eco s vegetaciou](/blog/images/KDE-eco-logo-name_vegetation.jpg)"
 
 #: content/blog/post-1.md:49
 msgid ""
@@ -1860,12 +2424,19 @@ msgid ""
 "Both projects are part of the pioneering [KDE Eco](https://invent.kde.org/"
 "teams/eco) initiative!"
 msgstr ""
+"Projekt Blauer Engel 4 FOSS ([BE4FOSS](https://invent.kde.org/teams/eco/"
+"be4foss)) od KDE e.V. sa snazi zberat, zhrnovat a sirit informacie suvisiace "
+"s ekocertifikaciou Blauer Engel a zdrojovou efektivnostou, ako suvissia s "
+"vyvojom slobodneho softveru. Oba projekty su sucastou priekopnickej "
+"iniciatiivy [KDE Eco](https://invent.kde.org/teams/eco)!"
 
 #: content/blog/post-1.md:53
 msgid ""
 "<font size=\"6\"> **[Join us in building energy-efficient, Free Software!]"
 "(https://eco.kde.org/get-involved/)** </font>"
 msgstr ""
+"<font size=\"6\"> **[Pridajte sa k nam!](https://eco.kde.org/get-involved/) "
+"Radi vas uvidime.** </font>"
 
 #: content/blog/post-1.md:57
 msgid ""
@@ -1874,6 +2445,10 @@ msgid ""
 "to the Remote Rhein Ruhr Stage at CCC 2021. You can watch the talk [here]"
 "(https://streaming.media.ccc.de/rc3/relive/319).*"
 msgstr ""
+"*Toto je upravena verzia abstraktu [podaneho](https://web.archive.org/"
+"web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) na "
+"Remote Rhein Ruhr Stage na CCC 2021. Prednasku si mozete pozriet [tu]"
+"(https://streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
 msgid ""
@@ -1884,6 +2459,10 @@ msgid ""
 "consumption. This increased efficiency contributes to a more sustainable use "
 "of energy as one of the shared resources of our planet."
 msgstr ""
+"FEEP vyvija nastroje na zlepsenie energetickej efektivity vo vyvoji "
+"slobodneho a otvorenozdrojoveho softveru. Dizajn a implementacia softveru ma "
+"vyznamny vplyv na spotrebu energie systemov, ktorych je sucastou. So "
+"spravnymi nastrojmi je mozne kvantifikovat a znizit spotrebu energie."
 
 #. home.engage
 #: content/get-involved.md:0 i18n/en.yaml:60
@@ -1892,40 +2471,49 @@ msgstr "Zapojiť sa"
 
 #: content/get-involved.md:0
 msgid "Become a part of the sustainable software movement!"
-msgstr ""
+msgstr "Stante sa sucastou hnutia udrzatelneho softveru!"
 
 #: content/get-involved.md:10
 msgid ""
 "We need as many motivated people as possible to drive this forward. Here are "
 "some channels where you can get more information and contribute."
 msgstr ""
+"Potrebujeme co najviac motivovanych ludi na posunutie tohto vpred. Tu su "
+"niektore kanaly, kde mozete ziskat viac informacii a prispiet."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
-msgstr ""
+msgstr "Komunita a podpora"
 
 #: content/get-involved.md:14
 msgid ""
 "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/"
 "+1:00) (contact us for details)"
 msgstr ""
+"Mesacne stretnutie (videokonferencia): 2. stredy 19:00 CEST/CET (UTC+2:00/"
+"+1:00) (kontaktujte nas pre podrobnosti)"
 
 #: content/get-involved.md:15
 msgid ""
 "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgstr ""
+"Matrix miestnost (diskusia): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 
 #: content/get-involved.md:16
 msgid ""
 "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
 "eco-discuss"
 msgstr ""
+"Mailing list (diskusia): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
+"eco-discuss"
 
 #: content/get-involved.md:17
 msgid ""
 "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/"
 "kde-eco-announce"
 msgstr ""
+"Mailing list (oznamenia): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
+"eco-announce"
 
 #: content/get-involved.md:19
 msgid "Resources"
@@ -1936,32 +2524,40 @@ msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 msgstr ""
+"Ciel udrzatelneho softveru (komunitna wiki): https://community.kde.org/Goals/"
+"Sustainable_Software"
 
 #: content/get-involved.md:22
 msgid ""
 "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
 "opt-green"
 msgstr ""
+"Projekt \"Opt Green\" (GitLab repozitar): https://invent.kde.org/teams/eco/"
+"opt-green"
 
 #: content/get-involved.md:23
 msgid ""
 "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-"
 "eco-lab"
 msgstr ""
+"Remote Eco Lab (GitLab repozitar): https://invent.kde.org/teams/eco/remote-"
+"eco-lab"
 
 #: content/get-involved.md:24
 msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
-msgstr ""
+msgstr "FEEP (GitLab repozitar): https://invent.kde.org/teams/eco/feep"
 
 #: content/get-involved.md:25
 msgid "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
-msgstr ""
+msgstr "BE4FOSS (GitLab repozitar): https://invent.kde.org/teams/eco/be4foss"
 
 #: content/get-involved.md:26
 msgid ""
 "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
 "eco/blue-angel-application"
 msgstr ""
+"Blue Angel Applications (GitLab repozitar): https://invent.kde.org/teams/eco/"
+"blue-angel-application"
 
 #: content/get-involved.md:28
 msgid "Contact"
@@ -1969,20 +2565,20 @@ msgstr "Kontakt"
 
 #: content/get-involved.md:30
 msgid "Email: `joseph [at] kde.org`"
-msgstr ""
+msgstr "E-mail: `joseph [at] kde.org`"
 
 #. make-green.header
 #: content/make-green/_index.md:0 i18n/en.yaml:167
 msgid "Make Green"
-msgstr ""
+msgstr "Tvorte zeleno"
 
 #: content/make-green/_index.md:0
 msgid "Make green"
-msgstr ""
+msgstr "Tvorte zeleno"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
-msgstr ""
+msgstr "Ciel udrzatelneho softveru"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -1991,6 +2587,10 @@ msgid ""
 "preserves environment and society for us and future generations. KDE can "
 "deliver Sustainable Software."
 msgstr ""
+"Softver ma vplyv na nasu buducnost. Ovplyvnuje spotrebu energie a zdrojov. "
+"KDE moze dodavat softver, ktory to robi sposobom, ktory zachovava zivotne "
+"prostredie a spolocnost pre nas a buduce generacie. KDE moze dodavat "
+"udrzatelny softver."
 
 #: content/sustainable-goal/_index.md:11
 msgid ""
@@ -1999,11 +2599,15 @@ msgid ""
 "sustainably designed, stimulating actions to increase sustainability, and "
 "creating standards/tools to quantify software sustainability."
 msgstr ""
+"Ciel udrzatelneho softveru je o propagacii udrzatelnosti v KDE zosladenim "
+"existujucich aktivit, zdoraznenim, kde je nas softver uz udrzatelne "
+"navrhnuty, stimulaciou akcii na zvysenie udrzatelnosti a vytvaranim "
+"standardov/nastrojov na kvantifikaciu udrzatelnosti softveru."
 
 #. home.header
 #: i18n/en.yaml:2
 msgid "Opt Green"
-msgstr ""
+msgstr "Opt Green"
 
 #. home.header-subtitle
 #: i18n/en.yaml:4
@@ -2011,11 +2615,13 @@ msgid ""
 "Independent, energy-efficient Free & Open Source Software for long-term "
 "hardware use."
 msgstr ""
+"Nezavisly, energeticky efektivny slobodny a otvorenozdrojovy softver pre "
+"dlhodobe pouzivanie hardveru."
 
 #. home.sustainability-title
 #: i18n/en.yaml:6
 msgid "Be Green (End User)"
-msgstr ""
+msgstr "Budte zeleni (koncovy pouzivatel)"
 
 #. home.sustainability-description
 #: i18n/en.yaml:8
@@ -2023,11 +2629,14 @@ msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
+"Zapojte sa do znizenych energetickych narokov, predlzenej zivotnosti "
+"hardveru, nezavislosti zariadeni a kontroly pouzivatelov pre zdravsiu "
+"digitalnu spolocnost."
 
 #. home.advocate-title
 #: i18n/en.yaml:10
 msgid "Grow Green (Advocate)"
-msgstr ""
+msgstr "Rastite zeleno (zastanca)"
 
 #. home.advocate-description
 #: i18n/en.yaml:12
@@ -2035,11 +2644,13 @@ msgid ""
 "Build communities and user support networks to bring the benefits of "
 "independent, sustainable software to your hometown."
 msgstr ""
+"Budujte komunity a siete podpory pouzivatelov na prinesenie vyhod "
+"nezavisleho, udrzatelneho softveru do vasho rodneho mesta."
 
 #. home.impact-title
 #: i18n/en.yaml:14
 msgid "Make Green (Dev)"
-msgstr ""
+msgstr "Tvorte zeleno (vyvojar)"
 
 #. home.impact-description
 #: i18n/en.yaml:16
@@ -2047,16 +2658,18 @@ msgid ""
 "Develop applications and software features with a focus on efficiency and "
 "sustainability for this and future generations."
 msgstr ""
+"Vyvijajte aplikacie a softverove funkcie so zameranim na efektivnost a "
+"udrzatelnost pre tuto a buduce generacie."
 
 #. home.about-foss-title
 #: i18n/en.yaml:18
 msgid "What makes FOSS sustainable?"
-msgstr ""
+msgstr "Co robi FOSS udrzatelnym?"
 
 #. home.featured-blog-posts-title
 #: i18n/en.yaml:20
 msgid "Featured blog posts"
-msgstr ""
+msgstr "Odporucane blogove prispevky"
 
 #. home.events-title
 #: i18n/en.yaml:22
@@ -2071,6 +2684,10 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
+"Slobodny a otvorenozdrojovy softver (FOSS) zarucuje transparentnost a "
+"autonomiu pouzivatelov, zo svojej podstaty. To nie su funkcie, ale "
+"vlastnosti otvoreeneho vyvoja a licencovania softveru. V dosledku toho "
+"softver a hardver uz nie su zavisls od dodavatelov pre podporu."
 
 #. home.about-foss-description-2
 #: i18n/en.yaml:26
@@ -2080,11 +2697,15 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
+"FOSS sa da studovat a zlepsovat nezavisle, vratane jeho spotreby energie. "
+"Predcasna zastaralost hardveru je minulostou. FOSS bezi na zariadeniach, "
+"ktore su desatrocia stare. Udrzujte svoj pocitac v pouzivani do konca "
+"zivotnosti hardveru, nie softveru."
 
 #. home.about-kde-title
 #: i18n/en.yaml:28
 msgid "About KDE and KDE Eco"
-msgstr ""
+msgstr "O KDE a KDE Eco"
 
 #. home.about-kde-description-kde
 #: i18n/en.yaml:30
@@ -2095,6 +2716,11 @@ msgid ""
 "building the world's finest Free & Open Source Software. Everyone is welcome "
 "to join and contribute to KDE, including you."
 msgstr ""
+"KDE je celosvetova komunita softverovych inzinierov, umelcov, pisatelov, "
+"prekladatelov a tvorcov oddanych vyvoju slobodneho softveru. Sme "
+"kooperativny podnik: pracujeme spolocne na dosiahnuti spolocneho ciela "
+"budovania najlepsieho slobodneho a otvorenozdrojoveho softveru na svete. "
+"Kazdy je vitany pridat sa a prispievat do KDE, vratane vas."
 
 #. home.about-kde-description-kde-2
 #: i18n/en.yaml:32
@@ -2106,6 +2732,8 @@ msgid ""
 "environmental harm. We are proudly a part of a growing number of communities "
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
+"Podporovane komunitou KDE od roku 2021, KDE Eco ma prebiehajucu misiu vyvoja "
+"a adopcie udrzatelneho slobodneho a otvorenozdrojoveho softveru celosvetovo."
 
 #. home.header.sustainable-goal.description
 #: i18n/en.yaml:34
@@ -2114,23 +2742,27 @@ msgid ""
 "KDE has the goal of providing software which does this in a way that reduces "
 "software’s environmental impact for us and future generations."
 msgstr ""
+"Softver ma priamy vplyv na spotrebu energie a zdrojov. Od roku 2022 ma KDE "
+"ciel poskytovat softver, ktory to robi sposobom, ktory znizuje "
+"environmentalny dopad softveru pre nas a buduce generacie."
 
 #. home.header.feep.subtitle
 #: i18n/en.yaml:36
 msgid "Free and open source software Energy Efficiency Project"
 msgstr ""
+"Projekt energetickej efektivity slobodneho a otvorenozdrojoveho softveru"
 
 #. home.header.feep.description
 #: i18n/en.yaml:38
 msgid ""
 "How can you measure software’s energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
-msgstr ""
+msgstr "*A je v tom rozdiel?*"
 
 #. home.header.be4foss.subtitle
 #: i18n/en.yaml:40
 msgid "Blauer Engel for Free and Open Source Software"
-msgstr ""
+msgstr "Blauer Engel pre slobodny a otvorenozdrojovy softver"
 
 #. home.header.be4foss.description
 #: i18n/en.yaml:42
@@ -2139,6 +2771,9 @@ msgid ""
 "transferred to software? What criteria is relevant? We need more pioneers to "
 "find out how we can make software sustainable."
 msgstr ""
+"Ekoznacky pre produkty su uz siroko pouzivane. Ale ako sa daju preniest na "
+"softver? Ake kriteria su relevantne? Potrebujeme viac priekopnikov, aby sme "
+"zistili, ako mozeme urobit softver udrzatelnym."
 
 #. home.header.more
 #: i18n/en.yaml:44 i18n/en.yaml:149 i18n/en.yaml:175
@@ -2153,7 +2788,7 @@ msgstr "KDE Eco"
 #. home.about-website
 #: i18n/en.yaml:48
 msgid "About This Website"
-msgstr ""
+msgstr "O tejto webovej stranke"
 
 #. home.about-website-description
 #: i18n/en.yaml:50
@@ -2166,16 +2801,21 @@ msgid ""
 "Supporting evidence for this hoster’s claims: [Sustainability Page](https://"
 "www.hetzner.com/unternehmen/umweltschutz)."
 msgstr ""
+"Tato webova stranka je open-source. Zdrojovy kod a licencie aktiv najdete v "
+"[KDE Eco repozitari](https://invent.kde.org/websites/eco-kde-org). Tato "
+"webova stranka bola skontrolovana [greenwebfoundation.org](https://www."
+"thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde.org) a "
+"je oznacena ako \"Hosted Green\"."
 
 #. home.eco-handbook.alt
 #: i18n/en.yaml:52
 msgid "Plots of real time measurements using KDE’s LabPlot."
-msgstr ""
+msgstr "Grafy merani v realnom case pomocou LabPlot od KDE."
 
 #. home.okular
 #: i18n/en.yaml:54
 msgid "Okular Awarded Blue Angel Ecolabel"
-msgstr ""
+msgstr "Okular ziskal ekoznacku Blue Angel"
 
 #. home.okular.be
 #: i18n/en.yaml:56
@@ -2183,26 +2823,29 @@ msgid ""
 "In 2022, KDE’s popular multi-platform PDF reader and universal document "
 "viewer Okular became the first ever eco-certified computer program!"
 msgstr ""
+"V roku 2022 sa popularny multiplatformovy PDF citac a univerzalny prezerac "
+"dokumentov Okular od KDE stal prvym ekocertifikovanym pocitacovym programom "
+"vobec!"
 
 #. home.okular.pr
 #: i18n/en.yaml:58 i18n/en.yaml:195
 msgid "Read More"
-msgstr ""
+msgstr "Citat viac"
 
 #. home.engage.joinus
 #: i18n/en.yaml:62
 msgid "Join us in the sustainable software development movement!"
-msgstr ""
+msgstr "Pridajte sa k nam v hnuti vyvoja udrzatelneho softveru!"
 
 #. home.engage.repo
 #: i18n/en.yaml:64
 msgid "Repositories"
-msgstr ""
+msgstr "Repozitare"
 
 #. home.engage.matrix
 #: i18n/en.yaml:66
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 #. home.engage.mailinglist
 #: i18n/en.yaml:68
@@ -2212,52 +2855,52 @@ msgstr "Mailing List"
 #. home.sustainable-goal
 #: i18n/en.yaml:70
 msgid "KDE’s Sustainable Software Goal"
-msgstr ""
+msgstr "Ciel udrzatelneho softveru KDE"
 
 #. home.sustainable-goal.alt
 #: i18n/en.yaml:72
 msgid "Image of computer directory with globe"
-msgstr ""
+msgstr "Obrazok adresara pocitaca s globusom"
 
 #. home.feep
 #: i18n/en.yaml:74 i18n/en.yaml:207
 msgid "FOSS Energy Efficiency Project (FEEP)"
-msgstr ""
+msgstr "Projekt energetickej efektivity FOSS (FEEP)"
 
 #. home.feep.alt
 #: i18n/en.yaml:76
 msgid "Image of globe with computer mouse"
-msgstr ""
+msgstr "Obrazok globusu s pocitacovou mysou"
 
 #. home.be4foss
 #: i18n/en.yaml:78 i18n/en.yaml:209
 msgid "Blauer Engel For FOSS (BE4FOSS)"
-msgstr ""
+msgstr "Blauer Engel pre FOSS (BE4FOSS)"
 
 #. home.be4foss.alt
 #: i18n/en.yaml:80
 msgid "Image of Blauer Engel ecolabel"
-msgstr ""
+msgstr "Obrazok ekoznacky Blauer Engel"
 
 #. home.greenweb
 #: i18n/en.yaml:82
 msgid "This Website Is Hosted Green"
-msgstr ""
+msgstr "Tato webova stranka je hostovana zeleno"
 
 #. home.greenweb.alt
 #: i18n/en.yaml:84
 msgid "Image of Green Web Foundation label"
-msgstr ""
+msgstr "Obrazok oznacenia Green Web Foundation"
 
 #. home.funding.alt
 #: i18n/en.yaml:86
 msgid "Image of BMUV/UBA"
-msgstr ""
+msgstr "Obrazok BMUV/UBA"
 
 #. home.button.see-all
 #: i18n/en.yaml:88
 msgid "See all"
-msgstr ""
+msgstr "Zobrazit vsetko"
 
 #. blog.categories
 #: i18n/en.yaml:90
@@ -2272,48 +2915,53 @@ msgstr "Čítať viac"
 #. view-all-posts
 #: i18n/en.yaml:94
 msgid "View all posts"
-msgstr ""
+msgstr "Zobrazit vsetky prispevky"
 
 #. posts
 #: i18n/en.yaml:96
 msgid "News from the blog"
-msgstr ""
+msgstr "Spravy z blogu"
 
 #. be-green.header-subtitle
 #: i18n/en.yaml:101
 msgid "Install Free & Open Source Software"
-msgstr ""
+msgstr "Nainstalujte slobodny a otvorenozdrojovy softver"
 
 #. be-green.opt-free.title
 #: i18n/en.yaml:103 i18n/en.yaml:115
 msgid "Opt Free with FOSS Apps"
-msgstr ""
+msgstr "Slobodne s aplikaciami FOSS"
 
 #. be-green.opt-free.description
 #: i18n/en.yaml:105
 msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
+"Nainstalujte udrzatelne aplikacie na akykolvek pocitac a operacny system."
 
 #. be-green.set-free.title
 #: i18n/en.yaml:107
 msgid "Set Free with Old Hardware"
-msgstr ""
+msgstr "Oslobodte stary hardver"
 
 #. be-green.set-free.description
 #: i18n/en.yaml:109
 msgid "Vendors control and kill support for aging hardware, by design."
 msgstr ""
+"Dodavatelia kontroluju a ukoncuju podporu pre starnuci hardver, zo svojej "
+"podstaty."
 
 #. be-green.be-free.title
 #: i18n/en.yaml:111 i18n/en.yaml:151
 msgid "Be Free with New Hardware"
-msgstr ""
+msgstr "Budte slobodni s novym hardverom"
 
 #. be-green.be-free.description
 #: i18n/en.yaml:113
 msgid ""
 "Hardware made for independent software can be used as long as one wants."
 msgstr ""
+"Hardver vyrobeny pre nezavisly softver sa da pouzivat tak dlho, ako clovek "
+"chce."
 
 #. be-green.opt-free-section.description
 #: i18n/en.yaml:117
@@ -2323,39 +2971,44 @@ msgid ""
 "demands on resources. Switch programs when needed and choose software that "
 "is more sustainable for users and for the environment."
 msgstr ""
+"Pouzivanie slobodnych a otvorenozdrojovych softverovych aplikacii dava "
+"pouzivatelom flexibilitu. Starsi hardver mozete pouzivat dlhsie, ked mate "
+"kontrolu nad narokmi softveru na zdroje."
 
 #. be-green.opt-free-section.button
 #: i18n/en.yaml:119
 msgid "See All"
-msgstr ""
+msgstr "Zobrazit vsetko"
 
 #. be-green.opt-free-section.creators.title
 #: i18n/en.yaml:121
 msgid "KDE for Creators"
-msgstr ""
+msgstr "KDE pre tvorcov"
 
 #. be-green.opt-free-section.creators.description
 #: i18n/en.yaml:123
 msgid ""
 "Creative software tools tailored for artists, designers, and media creators."
 msgstr ""
+"Kreativne softverove nastroje prisposobene pre umelcov, dizajnerov a tvorcov "
+"medii."
 
 #. be-green.opt-free-section.gamers.title
 #: i18n/en.yaml:125
 msgid "KDE for Gamers"
-msgstr ""
+msgstr "KDE pre hracov"
 
 #. be-green.opt-free-section.gamers.description
 #: i18n/en.yaml:127
 msgid ""
 "Powerful gaming applications for an optimized and immersive gaming "
 "experience."
-msgstr ""
+msgstr "Vykonue herne aplikacie pre optimalizovany a pohlcujuci herny zazitok."
 
 #. be-green.opt-free-section.students.title
 #: i18n/en.yaml:129
 msgid "KDE for Students"
-msgstr ""
+msgstr "KDE pre studentov"
 
 #. be-green.opt-free-section.students.description
 #: i18n/en.yaml:131
@@ -2363,11 +3016,13 @@ msgid ""
 "Educational software that provides flexible and user-friendly tools for "
 "students."
 msgstr ""
+"Vzdelavaci softver poskytujuci flexibilne a pouzivatelsky privetiive "
+"nastroje pre studentov."
 
 #. be-green.set-free-section.title
 #: i18n/en.yaml:133
 msgid "Set Free Your Old Hardware"
-msgstr ""
+msgstr "Oslobodte svoj stary hardver"
 
 #. be-green.set-free-section.description
 #: i18n/en.yaml:135
@@ -2375,11 +3030,13 @@ msgid ""
 "Installing a Free & Open Source operating system takes just 3 steps and the "
 "time needed to enjoy a couple cups of tea."
 msgstr ""
+"Instalacia slobodneho a otvorenozdrojoveho operacneho systemu trva iba 3 "
+"kroky a cas potrebny na vychutnanie si niekolkych salok caju."
 
 #. be-green.set-free-section.download-title
 #: i18n/en.yaml:137
 msgid "Download a FOSS Operating System"
-msgstr ""
+msgstr "Stiahnite slobodny a otvorenozdrojovy operacny system"
 
 #. be-green.set-free-section.download-description
 #: i18n/en.yaml:139
@@ -2387,11 +3044,14 @@ msgid ""
 "Download the FOSS operating system you want to install. For devices less "
 "than 10 years old, Fedora Linux with KDE spin is our recommendation."
 msgstr ""
+"Stiahnite si slobodny a otvorenozdrojovy operacny system, ktory chcete "
+"nainstalovat. Pre zariadenia mladsie ako 10 rokov je nasim odporucanim "
+"Fedora Linux s KDE spin."
 
 #. be-green.set-free-section.flash-title
 #: i18n/en.yaml:141
 msgid "Flash Operating System to a USB Stick"
-msgstr ""
+msgstr "Nahrajte operacny system na USB kluc"
 
 #. be-green.set-free-section.flash-description
 #: i18n/en.yaml:143
@@ -2400,11 +3060,14 @@ msgid ""
 "stick. This will overwrite all data on the USB stick, so make sure to back "
 "up the files you want to keep."
 msgstr ""
+"Pomocou jedneho z niekolkych jednoduchych nastrojov nahrajte operacny system "
+"na USB kluc. Tymto sa prepisu vsetky udaje na USB kluci, takze si zaloohujte "
+"subory, ktore si chcete ponechat."
 
 #. be-green.set-free-section.boot-title
 #: i18n/en.yaml:145
 msgid "Boot and Install on Computer"
-msgstr ""
+msgstr "Spustite a nainstalujte na pocitaci"
 
 #. be-green.set-free-section.boot-description
 #: i18n/en.yaml:147
@@ -2414,6 +3077,9 @@ msgid ""
 "Voila! You have set your computer free. Make sure you have backed up any "
 "data you want to keep first."
 msgstr ""
+"Spustite pocitac z USB -- budete musiet vopred poznat spravnu kombinaciu "
+"klaves. Kliknite na \"Instalovat\" a postupujte podla pokynov. Voila! "
+"Oslobodili ste svoj pocitac."
 
 #. be-green.be-free-section.description
 #: i18n/en.yaml:153
@@ -2423,11 +3089,15 @@ msgid ""
 "can use them however you want, for as long as you want. Support for "
 "repairability is a focus for the recommended devices featured here!"
 msgstr ""
+"KDE spolupracuje s niekolkymi dodavatelmi hardveru na poskytnutie "
+"najlepsieho zazitku hned po vybaleni. Kedze tieto zariadenia podporuju "
+"slobodny a otvorenozdrojovy softver, mozete ich pouzivat ako chcete, ako "
+"dlho chcete."
 
 #. be-green.be-free-section.slimbook-title
 #: i18n/en.yaml:155
 msgid "Slimbook"
-msgstr ""
+msgstr "Slimbook"
 
 #. be-green.be-free-section.slimbook-description
 #: i18n/en.yaml:157
@@ -2435,6 +3105,9 @@ msgid ""
 "With a FOSS operating system pre-installed and a large catalog of spare "
 "parts, your Slimbook can remain in use for years to come."
 msgstr ""
+"S predinstalovaanym slobodnym a otvorenozdrojovym operacnym systemom a "
+"velkym katalogom nahradnych dielov moze vas Slimbook zostat v pouzivani na "
+"roky dopredu."
 
 #. be-green.be-free-section.slimbook-button
 #: i18n/en.yaml:159 i18n/en.yaml:165
@@ -2452,16 +3125,18 @@ msgid ""
 "By designing hardware to be modular and customizable, a Framework computer "
 "is as easy to repair as snapping in a new part."
 msgstr ""
+"Dizajnovanim hardveru ako modularneho a prisposobitelneho je oprava pocitaca "
+"Framework rovnako jednoducha ako zaklapnutie novej casti."
 
 #. make-green.header-subtitle
 #: i18n/en.yaml:169
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr ""
+msgstr "Vyvijajte energeticky efektivny slobodny a otvorenozdrojovy softver"
 
 #. make-green.measure.title
 #: i18n/en.yaml:171
 msgid "Measure Software Energy Use"
-msgstr ""
+msgstr "Merajte spotrebu energie softveru"
 
 #. make-green.measure.description
 #: i18n/en.yaml:173
@@ -2469,6 +3144,8 @@ msgid ""
 "Free & Open Source Software has always been about transparency – let's "
 "extend that transparency to software's energy demands."
 msgstr ""
+"Slobodny a otvorenozdrojovy softver bol vzdy o transparentnosti -- rozsirme "
+"tuto transparentnost na energeticke naroky softveru."
 
 #. make-green.read.title
 #: i18n/en.yaml:177
@@ -2481,11 +3158,13 @@ msgid ""
 "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
 "certify software and why it matters."
 msgstr ""
+"\"Applying The Blue Angel Criteria To Free Software\" podrobne opisuje, ako "
+"ekocertifikovat softver a preco je to dolezite."
 
 #. make-green.prepare.title
 #: i18n/en.yaml:181 i18n/en.yaml:197
 msgid "Prepare Scripts to Measure Energy Use"
-msgstr ""
+msgstr "Pripravte skripty na meranie spotreby energie"
 
 #. make-green.prepare.description
 #: i18n/en.yaml:183
@@ -2493,11 +3172,13 @@ msgid ""
 "Energy consumption measurements require a scripted and replicable workflow "
 "of actions."
 msgstr ""
+"Merania spotreby energie vyzaduju skriptovany a replikovatelny pracovny "
+"postup akcii."
 
 #. make-green.measure-section.title
 #: i18n/en.yaml:185
 msgid "Measure Your Software's Energy Use"
-msgstr ""
+msgstr "Merajte spotrebu energie vasho softveru"
 
 #. make-green.measure-section.description
 #: i18n/en.yaml:187
@@ -2509,11 +3190,15 @@ msgid ""
 "measurement process you will have an energy consumption report ready for "
 "Blue Angel eco certification."
 msgstr ""
+"Zriadenie laboratoria je take jednoduche, ako kupit externy merac spotreby a "
+"nasledovat sprievodcu nastavenim laboratoria v prirucke KDE Eco. KEcoLab "
+"proces este viac zjednodusuje umoznenim vyvojarom dalkovo merat spotrebu "
+"energie ich softveru pomocou CI/CD pipeline GitLab."
 
 #. make-green.measure-section.button
 #: i18n/en.yaml:189 i18n/en.yaml:201
 msgid "View Repository"
-msgstr ""
+msgstr "Zobrazit repozitar"
 
 #. make-green.handbook.title
 #: i18n/en.yaml:191
@@ -2531,6 +3216,10 @@ msgid ""
 "sustainability, as well as how to set up a dedicated lab to measure your "
 "software's energy consumption."
 msgstr ""
+"Prirucka \"Applying The Blue Angel Criteria To Free Software\" podava "
+"prehlad o skodach na zivotnom prostredi sposobenych softverom a o tom, ako "
+"ekoznacka Blue Angel -- oficialna environmentalna znacka nemeckej vlady -- "
+"poskytuje referency bod pre udrzatelny dizajn softveru."
 
 #. make-green.script-section.description
 #: i18n/en.yaml:199
@@ -2540,16 +3229,20 @@ msgid ""
 "for reproducing computer actions by simulating keyboard and mouse activity. "
 "The tools work on GNU/Linux and Microsoft Windows."
 msgstr ""
+"Emulujte spravanie pouzivatela pre jednoduchu replikaciu vasich merani. To "
+"je dobra veda! KdeEcoTest a KdeEcoTestCreator su nastroje na baze Pythonu "
+"urcene na reprodukciu pocitacovych akcii simulovanim aktivity klavesnice a "
+"mysi."
 
 #. make-green.past-projects-section.title
 #: i18n/en.yaml:203
 msgid "Past Projects"
-msgstr ""
+msgstr "Minule projekty"
 
 #. make-green.past-projects-section.sustainable-goal.title
 #: i18n/en.yaml:205
 msgid "KDE's Sustainable Software Goal"
-msgstr ""
+msgstr "Ciel udrzatelneho softveru KDE"
 
 #. endof10.text
 #: i18n/en.yaml:211
@@ -2557,11 +3250,13 @@ msgid ""
 "Continue using your old computer after the end of Windows 10 support this "
 "October."
 msgstr ""
+"Pokracujte v pouzivani svojho stareho pocitaca po skonceni podpory Windows "
+"10 v oktobri."
 
 #. endof10.visit
 #: i18n/en.yaml:213
 msgid "Visit endof10.org"
-msgstr ""
+msgstr "Navstivte endof10.org"
 
 #~ msgid "**Get Involved**"
 #~ msgstr "Zapojiť sa"
