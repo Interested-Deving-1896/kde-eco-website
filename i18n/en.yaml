@@ -207,6 +207,40 @@ make-green.past-projects-section.feep.title:
   other: FOSS Energy Efficiency Project (FEEP)
 make-green.past-projects-section.be4foss.title:
   other: Blauer Engel For FOSS (BE4FOSS)
+grow-green.header:
+  other: Grow Green
+grow-green.header-subtitle:
+  other: Advocate for Energy-Efficient Free & Open Source Software
+grow-green.handbook.title:
+  other: Use the Opt Green Handbook
+grow-green.handbook.description:
+  other: Learn why FOSS is more ecologically sustainable and how to host an install party.
+grow-green.flyer.title:
+  other: Distribute the Sustainable Software Flyer
+grow-green.flyer.description:
+  other: Spread the word about independent, sustainable FOSS and long-term hardware use.
+grow-green.install-party.title:
+  other: Host Install Parties in Your Community
+grow-green.install-party.description:
+  other: Join initiatives like End of 10 and DI.Day to bring FOSS to your community.
+grow-green.handbook-section.title:
+  other: Use the Opt Green Handbook
+grow-green.handbook-section.description:
+  other: Free & Open Source Software (FOSS) makes it possible to keep hardware in use for longer. That is not only good for your wallet, but it also reduces unnecessary e-waste and harmful CO2 emissions in the production and transportation of new devices. In the Opt Green handbook, you can find out why sustainable software makes for sustainable hardware and how you can help new users get started with Free & Open Source Software.
+grow-green.handbook-section.button:
+  other: Read More
+grow-green.flyer-section.title:
+  other: Distribute the Sustainable Software Flyer
+grow-green.flyer-section.description:
+  other: 'The "Environmentally-Friendly Software?" leaflet provides an overview of the environmental harm driven by e-waste and hardware manufacturing – and how to combat it with Free & Open Source Software (FOSS). The leaflet is released under a Creative Commons licence, which means you can print and distribute it in your community now. Let your neighbors know why the most environmentally-friendly device is the one they already own!'
+grow-green.flyer-section.button:
+  other: Get Flyer
+grow-green.install-party-section.title:
+  other: Host Install Parties in Your Community
+grow-green.install-party-section.description:
+  other: Through initiatives like End Of 10 and Digital Independence Day (DI.Day), enthusiasts in repair collectives, FabLabs, MakerSpaces, Linux User Groups, and independent computer shops around the globe are helping new users get started with Free & Open Source Software (FOSS). You too can get involved and host an install party in your community. Learn more at the End Of 10 and DI.Day websites.
+grow-green.install-party-section.button:
+  other: Read More
 endof10.text:
   other: "Continue using your old computer after the end of Windows 10 support this October."
 endof10.visit:
