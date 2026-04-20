@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+<main id="grow-green">
+
+  <section class="home-jumbotron background text-light mt-0">
+    <div class="container">
+      <h1 class="header">{{ i18n "grow-green.header" }}</h1>
+      <p class="subtitle">{{ i18n "grow-green.header-subtitle" }}</p>
+    </div>
+  </section>
+
+  <section class="py-4 mb-4 d-flex align-items-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="icon" src="/grow-green/images/use-the-opt-green-handbook-icon.png" alt="{{ i18n "grow-green.handbook.title" }}"/>
+          <h4 class="fw-bold">{{ i18n "grow-green.handbook.title" }}</h4>
+          <p>{{ i18n "grow-green.handbook.description" }}</p>
+          <a href="#handbook" class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+        </div>
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="icon" src="/grow-green/images/distribute-icon.png" alt="{{ i18n "grow-green.flyer.title" }}"/>
+          <h4 class="fw-bold">{{ i18n "grow-green.flyer.title" }}</h4>
+          <p>{{ i18n "grow-green.flyer.description" }}</p>
+          <a href="#flyer" class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+        </div>
+        <div class="col-md-4 mt-4 py-5 text-center">
+          <img class="icon" src="/grow-green/images/install-parties-icon.png" alt="{{ i18n "grow-green.install-party.title" }}"/>
+          <h4 class="fw-bold">{{ i18n "grow-green.install-party.title" }}</h4>
+          <p>{{ i18n "grow-green.install-party.description" }}</p>
+          <a href="#install-party" class="btn btn-link">{{ i18n "home.learn-more" }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="handbook" class="section-gray post d-flex align-items-center pt-3 pb-5">
+    <div class="container pb-3">
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <img src="/grow-green/images/opt-green-image.png" alt="{{ i18n "grow-green.handbook-section.title" }}" class="img-fluid" />
+        </div>
+        <div class="col-md-6">
+          <h2 class="text-left">{{ i18n "grow-green.handbook-section.title" }}</h2>
+          <p>{{ i18n "grow-green.handbook-section.description" }}</p>
+          <a href="/handbook" class="btn btn-success mt-3">{{ i18n "grow-green.handbook-section.button" }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="flyer" class="section post d-flex align-items-center pt-3 pb-5">
+    <div class="container pb-3">
+      <div class="row align-items-center">
+        <div class="col-md-6 order-md-last">
+          <img src="/grow-green/images/distribute-sustainable-flyter.png" alt="{{ i18n "grow-green.flyer-section.title" }}" class="img-fluid" />
+        </div>
+        <div class="col-md-6">
+          <h2 class="text-left">{{ i18n "grow-green.flyer-section.title" }}</h2>
+          <p>{{ i18n "grow-green.flyer-section.description" }}</p>
+          <a href="https://eco.kde.org/assets/flyer/" class="btn btn-success mt-3">{{ i18n "grow-green.flyer-section.button" }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="install-party" class="section-gray post d-flex align-items-center pt-3 pb-5">
+    <div class="container pb-3">
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <img src="/grow-green/images/install-parties.png" alt="{{ i18n "grow-green.install-party-section.title" }}" class="img-fluid" />
+        </div>
+        <div class="col-md-6">
+          <h2 class="text-left">{{ i18n "grow-green.install-party-section.title" }}</h2>
+          <p>{{ i18n "grow-green.install-party-section.description" }}</p>
+          <a href="https://endof10.org/" class="btn btn-success mt-3">{{ i18n "grow-green.install-party-section.button" }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+{{ end }}
