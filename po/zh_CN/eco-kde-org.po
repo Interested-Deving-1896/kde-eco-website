@@ -158,6 +158,9 @@ msgid ""
 "invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
 "meetups/2021-12-11_sprint01_protocol.md) for further details."
 msgstr ""
+"在这条长篇帖子上，我将详细概述在代码冲刺讨论的主要问题及其结果。 另请参考 "
+"[minutes](https://invent.kde.org/teams/eco/be4foss/-/blob/master/community-"
+"meetups/2021-12-11_sprint01_protocol.md) 了解详情。"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:26
 msgid "Did you know?"
@@ -168,16 +171,20 @@ msgid ""
 "Discussions similar to these occur monthly at our community meetups on the "
 "2nd Wednesday of the month from 19h-20h CET/CEST (Berlin Time)."
 msgstr ""
+"类似的讨论在每月第二个星期三从 19 点至 20 点 CET/CEST (柏林时间) 举行的社区会"
+"议上进行。"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:32
 msgid ""
 "<font size=\"6\"> **[Join us!](https://eco.kde.org/get-involved/) We would "
 "love to see you there.** </font>"
 msgstr ""
+"<font size=\"6\"> **[加入我们！](https://eco.kde.org/get-involved/) 我们希望"
+"看到您在那里。** </font>"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:36
 msgid "Creating a KDE Eco team"
-msgstr ""
+msgstr "创建 KDE Eco 团队"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:38
 msgid ""
@@ -193,6 +200,13 @@ msgid ""
 "repositories can be found at [https://invent.kde.org/teams/eco](https://"
 "invent.kde.org/teams/eco)."
 msgstr ""
+"KDE Eco 目前由三个相关项目组成： (一) 自由开源能效项目 (FEEP) ， (二) Blauer "
+"Engel For FOSS (BE4FOSS) ，和 (三) Blauer Engel Applications。每个项目都有自"
+"己的重点：FEEP 负责测量自由软件的能耗，BE4FOSS 侧重于社区组织和传播关于 "
+"Blauer Engel 生态标签的信息，Blauer Engel Applications 存储库托管所有与 KDE/"
+"Free Software 与生态标签认证相关的文档。直到代码冲刺，项目的三个仓库都存放在"
+"各种个人命名空间中。 现在，所有三个仓库都可以在 [https://invent.kde.org/"
+"teams/eco](https://invent.kde.org/teams/eco) 找到。"
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:40
 msgid ""
