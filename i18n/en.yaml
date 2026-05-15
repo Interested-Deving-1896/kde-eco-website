@@ -240,7 +240,7 @@ grow-green.install-party-section.title:
 grow-green.install-party-section.description:
   other: With initiatives like End Of 10 and Digital Independence Day (DI.Day), enthusiasts around the world in repair collectives, independent computer shops, Linux User Groups, FabLabs, and MakerSpaces are helping new users get started with Free & Open Source Software (FOSS). You too can get involved and host an install party in your community. Learn more at the End Of 10 and [DI.Day](https://di.day/) websites.
 grow-green.install-party-section.button:
-  other: Read More
+  other: End Of 10
 endof10.text:
   other: "Continue using your old computer after the end of Windows 10 support this October."
 endof10.visit:
