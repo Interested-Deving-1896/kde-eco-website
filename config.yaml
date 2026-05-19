@@ -24,6 +24,8 @@ i18n:
       - content/FEEP/*.md
       - content/sustainable-goal/*.md
       - content/grow-green/*.md
+      - content/be4foss-handbook/*.md
+      - content/opt-green-handbook/*.md
   genToOtherDir: true
   others:
   - description

@@ -1,6 +1,9 @@
 ---
 Title: Handbook
 Description: KDE Demo Handbook
-layout: handbook.html
+layout: handbook
+aliases:
+  - /handbook
+  - /handbook/
 resources:
 ---
