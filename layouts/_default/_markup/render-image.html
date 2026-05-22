@@ -1,4 +1,12 @@
+{{/* Look up image dimensions to prevent layout shift. Docs: https://gohugo.io/render-hooks/images/ */}}
+{{ $img := .Page.Resources.GetMatch .Destination }}
+{{ if not $img }}{{ $img = .Page.CurrentSection.Resources.GetMatch .Destination }}{{ end }}
 <figure>
-	<img src="{{ .Destination | safeURL }}" loading="lazy" class="img-fluid" alt="{{ .Text }}">
-	<figcaption> <b>Figure : </b>{{ .Text | safeHTML }}</figcaption>
+  {{ if $img }}
+    <img src="{{ .Destination | safeURL }}" loading="lazy" class="img-fluid" alt="{{ .Text }}" width="{{ $img.Width }}" height="{{ $img.Height }}">
+  {{ else }}
+    <img src="{{ .Destination | safeURL }}" loading="lazy" class="img-fluid" alt="{{ .Text }}">
+  {{ end }}
+  <figcaption><b>Figure : </b>{{ .Text | safeHTML }}</figcaption>
 </figure>
+
