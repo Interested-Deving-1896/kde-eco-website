@@ -205,49 +205,6 @@ Changing our software and using our hardware more sustainably may seem like a sm
 > "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has."
 
 Structural change happens when dedicated, passionate people organize to confront pressing societal issues. With decades of experience successfully bringing global communities together to work toward common goals, Free & Open Source Software can be a powerful force for combatting the environmental impact of digitization. We know how to organize&mdash;now, it's a matter of turning plans into practice, goals into reality. Let's unite to combat software-driven environmental harm. Let's foster a culture of digital sustainability in our communities and beyond.
-## Appendix: Common Misconceptions
-
-In this section, we'll debunk five of the most common misconceptions about FOSS:
-
-1. "Anyone can modify the application I am using."
-2. "You never know where the software came from."
-3. "FOSS is less secure."
-4. "I need to be a developer to benefit from FOSS."
-5. "FOSS is free of cost because it is developed by volunteers."
-
-All of these statements are incorrect, and the following explanations will reveal more about how FOSS works as a software, as an ecosystem, and as a business.
-
-**Misconception 1: Anyone can modify the application I am using.**
-
-The misconception is the idea that any and all code changes actually end up in the software you download and use. This is not the case. A core team of developers manages FOSS development, whether it is an application or desktop environment or some other component of the operating system. Anyone can make changes and propose them to the core developer team, who will review them and decide to either accept or reject them. This process does not mean FOSS is free from poorly written or malicious code, it just means that not all proposed changes to the code are automatically included in the software released by the core developers&mdash;and then run on your computer.
-
-To make an analogy with cooking: When a famous chef publishes a recipe, anyone can modify the recipe themselves when preparing the dish. These changes may make the recipe better, or they may make it worse. In fact, some modifications may be so good that a person thinks they should be included in the original recipe, and so they submit their suggestions to the original chef. Whether or not these changes are included in future versions of the recipe, however, depends entirely on the original chef, and not the one who suggested the changes. In short, anyone can suggest any modifications they want, but that does not mean those changes will be added to the original recipe&mdash;or end up on your plate.
-
-**Misconception 2: You never know where the software came from.**
-
-It's true that anyone can modify FOSS and release their changes to the public, but the misconception here is that modified software is indistiguishable from the original. FOSS is typically branded and identifiable. For example, a trademark will legally protect the logo, symbols, names, and such associated with the software. While the source code is licensed to permit users certain rights&mdash;to use, study, share, and improve the underlying code&mdash;trademarks provide legal restrictions for developers for the brand. Code that's been modified from the original (or "forked") may be rebranded, and such re-branding happens all the time. But a trademark means the forked software cannot be released with the same brand as the original; legally, it must be identifiable as modified software, so you can see exactly where it came from.
-
-Using the cooking analogy: Even if any cook may change a recipe when preparing a dish, they cannot publish it under the name of the original chef. That is, you can modify the recipe for your own use, in some cases even publish your changes, but you cannot claim that those changes are from the original chef.
-
-**Misconception 3: FOSS is less secure.**
-
-This is perhaps one of the most common misconceptions about FOSS, and the opposite is actually true. Though FOSS can still contain bugs or malicious code (all code can), the transparency of the code means those weaknesses are easier to spot; and crucially, once problematic code is discovered, it's easier to fix. In fact, the German Federal Office for Information Security (German: *Bundesamt für Sicherheit in der Informationstechnik* or BSI for short) highlighted the [security advantages of FOSS](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software_node.html). They state: "The use of [FOSS] per se does not guarantee a secure system. It does, however, offer significant strategic advantages in this process."
-
-Once again, using the cooking analogy: It's more difficult to add harmful or unwanted elements to a recipe when the ingredient list is visible to all. Moreover, if such ingredients are found, a cook can easily adapt the recipe and remove them to make the dish safe to consume again. Transparency cannot guarantee that a recipe has no undesirable ingredients, but it has real advantages for finding and removing them.
-
-**Misconception 4: I need to be a developer to benefit from FOSS.**
-
-You do not need to be a software engineer to use FOSS and gain its benefits. You can download and install it, and be assured that necessary updates will come your way when they're ready. Essentially you can be a FOSS customer, and that's enough. If you wanted to, however, you could learn the programming language of your favorite software and submit code for review yourself. Many do, every hour of every day. In fact, there are millions of programmers around the world developing FOSS. Some are paid for their work, some do it on a volunteer basis; some get paid for it and still volunteer outside their working hours. Even if you aren't a developer, others are&mdash;you may even know some&mdash;and they're out there adding new features, squashing bugs, fixing security vulnerabilities, etc. But you certainly don't have to do any of this in order to enjoy Free & Open Source Software.
-
-Using the cooking analogy: You don't need to be a cook to enjoy the results of a good recipe. If you can't cook, you probably know someone who does, and they'll share dinner with you (as long as you chip in for the groceries!). If you don't know someone, you can always hire a personal chef to prepare the food you enjoy it just the way you want. Having access to the recipe makes that possible. It's important to add that you can, and should, support the teams behind the software you use and enjoy. You can donate your money, or your time&mdash;volunteers are vital to FOSS projects, offering all kinds of non-coding skills such as design, outreach, translation, promotion, and much more.
-
-In Part III of this handbook, you'll learn how to run install events and support new users with FOSS. Helping new users get started is a great way to contribute back to the software you use and love.
-
-**Misconception 5: FOSS is free of cost because it is developed by volunteers.**
-
-This is not true, not at all. FOSS is not necessarily free of cost, nor is it developed only by volunteers. FOSS is developed by both paid software engineers and volunteers, and contributors come from all around the world. The word "Free" in Free & Open Source Software does not refer to price, but the user freedoms guaranteed by the FOSS license. People still need to make a living. How one makes money depends on the business model, and there are [many different business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) in the FOSS ecosystem. Some programmers sell their software, for example in app stores; some businesses sell professional services to support the software they develop; other organizations sell merchandise; while some development projects sell nothing at all, instead relying on donations (small and large) from users. As long as the software code is released under a FOSS license, it is still Free & Open Source Software, regardless of how much money is made. 
-
-The cooking analogy has its limits. One important difference to note: Even if a recipe can be shared with an unlimited number of people, an individual cook can only share the results (that is, the dish being served) with a limited number of people. By contrast, software code and its result&mdash;the app you download and use&mdash;can be shared an infinite number of times with an infinite number of people. Changes made to the code base by a mere one-time contributor (perhaps you!) can be scaled up to millions, even hundreds of millions, of software users!
 # Part II: Digital Sustainability
 
 What does the environmental impact of software have to do with Free & Open Source Software? Before we explore this topic in detail, let's first take a look at what FOSS is exactly, and how it differs from its counterpart, proprietary software.
@@ -398,6 +355,49 @@ Although Windows 10 computers may still turn on and be "usable" after support en
 There are better ways to solve software-driven hardware obsolescence than buying a new computer. The one we recommend is to install new software, one that continues to receive security updates: FOSS! In fact, the German Federal Office for Information Security [recommended Linux](https://www.heise.de/en/news/BSI-warns-Windows-10-is-becoming-insecure-Quick-change-required-10486647.html) as one way to keep those abandoned Windows 10 devices securely in use.
 
 Maintaining and testing software is certainly a lot more complex than simply having Free & Open Source code. Nonetheless, only FOSS permits software to be repaired (i.e., patched) independently of the vendors, which is why KDE Eco refers to FOSS as repairable software. In fact, along with other organizations such as [Software Freedom Conservancy](https://sfconservancy.org/blog/2022/may/02/copyright-assignment-project/), [Free Software Foundation](https://www.fsf.org/campaigns/fight-to-repair), and [Free Software Foundation Europe](https://fsfe.org/activities/upcyclingandroid/openletter.en.html), we consider software licensing a critical part of the larger [Right to Repair](https://en.wikipedia.org/wiki/Right_to_repair) movement.
+## Appendix: Common Misconceptions
+
+In this section, we'll debunk five of the most common misconceptions about FOSS:
+
+1. "Anyone can modify the application I am using."
+2. "You never know where the software came from."
+3. "FOSS is less secure."
+4. "I need to be a developer to benefit from FOSS."
+5. "FOSS is free of cost because it is developed by volunteers."
+
+All of these statements are incorrect, and the following explanations will reveal more about how FOSS works as a software, as an ecosystem, and as a business.
+
+**Misconception 1: Anyone can modify the application I am using.**
+
+The misconception is the idea that any and all code changes actually end up in the software you download and use. This is not the case. A core team of developers manages FOSS development, whether it is an application or desktop environment or some other component of the operating system. Anyone can make changes and propose them to the core developer team, who will review them and decide to either accept or reject them. This process does not mean FOSS is free from poorly written or malicious code, it just means that not all proposed changes to the code are automatically included in the software released by the core developers&mdash;and then run on your computer.
+
+To make an analogy with cooking: When a famous chef publishes a recipe, anyone can modify the recipe themselves when preparing the dish. These changes may make the recipe better, or they may make it worse. In fact, some modifications may be so good that a person thinks they should be included in the original recipe, and so they submit their suggestions to the original chef. Whether or not these changes are included in future versions of the recipe, however, depends entirely on the original chef, and not the one who suggested the changes. In short, anyone can suggest any modifications they want, but that does not mean those changes will be added to the original recipe&mdash;or end up on your plate.
+
+**Misconception 2: You never know where the software came from.**
+
+It's true that anyone can modify FOSS and release their changes to the public, but the misconception here is that modified software is indistiguishable from the original. FOSS is typically branded and identifiable. For example, a trademark will legally protect the logo, symbols, names, and such associated with the software. While the source code is licensed to permit users certain rights&mdash;to use, study, share, and improve the underlying code&mdash;trademarks provide legal restrictions for developers for the brand. Code that's been modified from the original (or "forked") may be rebranded, and such re-branding happens all the time. But a trademark means the forked software cannot be released with the same brand as the original; legally, it must be identifiable as modified software, so you can see exactly where it came from.
+
+Using the cooking analogy: Even if any cook may change a recipe when preparing a dish, they cannot publish it under the name of the original chef. That is, you can modify the recipe for your own use, in some cases even publish your changes, but you cannot claim that those changes are from the original chef.
+
+**Misconception 3: FOSS is less secure.**
+
+This is perhaps one of the most common misconceptions about FOSS, and the opposite is actually true. Though FOSS can still contain bugs or malicious code (all code can), the transparency of the code means those weaknesses are easier to spot; and crucially, once problematic code is discovered, it's easier to fix. In fact, the German Federal Office for Information Security (German: *Bundesamt für Sicherheit in der Informationstechnik* or BSI for short) highlighted the [security advantages of FOSS](https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-Software/freie-software_node.html). They state: "The use of [FOSS] per se does not guarantee a secure system. It does, however, offer significant strategic advantages in this process."
+
+Once again, using the cooking analogy: It's more difficult to add harmful or unwanted elements to a recipe when the ingredient list is visible to all. Moreover, if such ingredients are found, a cook can easily adapt the recipe and remove them to make the dish safe to consume again. Transparency cannot guarantee that a recipe has no undesirable ingredients, but it has real advantages for finding and removing them.
+
+**Misconception 4: I need to be a developer to benefit from FOSS.**
+
+You do not need to be a software engineer to use FOSS and gain its benefits. You can download and install it, and be assured that necessary updates will come your way when they're ready. Essentially you can be a FOSS customer, and that's enough. If you wanted to, however, you could learn the programming language of your favorite software and submit code for review yourself. Many do, every hour of every day. In fact, there are millions of programmers around the world developing FOSS. Some are paid for their work, some do it on a volunteer basis; some get paid for it and still volunteer outside their working hours. Even if you aren't a developer, others are&mdash;you may even know some&mdash;and they're out there adding new features, squashing bugs, fixing security vulnerabilities, etc. But you certainly don't have to do any of this in order to enjoy Free & Open Source Software.
+
+Using the cooking analogy: You don't need to be a cook to enjoy the results of a good recipe. If you can't cook, you probably know someone who does, and they'll share dinner with you (as long as you chip in for the groceries!). If you don't know someone, you can always hire a personal chef to prepare the food you enjoy it just the way you want. Having access to the recipe makes that possible. It's important to add that you can, and should, support the teams behind the software you use and enjoy. You can donate your money, or your time&mdash;volunteers are vital to FOSS projects, offering all kinds of non-coding skills such as design, outreach, translation, promotion, and much more.
+
+In Part III of this handbook, you'll learn how to run install events and support new users with FOSS. Helping new users get started is a great way to contribute back to the software you use and love.
+
+**Misconception 5: FOSS is free of cost because it is developed by volunteers.**
+
+This is not true, not at all. FOSS is not necessarily free of cost, nor is it developed only by volunteers. FOSS is developed by both paid software engineers and volunteers, and contributors come from all around the world. The word "Free" in Free & Open Source Software does not refer to price, but the user freedoms guaranteed by the FOSS license. People still need to make a living. How one makes money depends on the business model, and there are [many different business models](https://en.wikipedia.org/wiki/Business_models_for_open-source_software) in the FOSS ecosystem. Some programmers sell their software, for example in app stores; some businesses sell professional services to support the software they develop; other organizations sell merchandise; while some development projects sell nothing at all, instead relying on donations (small and large) from users. As long as the software code is released under a FOSS license, it is still Free & Open Source Software, regardless of how much money is made. 
+
+The cooking analogy has its limits. One important difference to note: Even if a recipe can be shared with an unlimited number of people, an individual cook can only share the results (that is, the dish being served) with a limited number of people. By contrast, software code and its result&mdash;the app you download and use&mdash;can be shared an infinite number of times with an infinite number of people. Changes made to the code base by a mere one-time contributor (perhaps you!) can be scaled up to millions, even hundreds of millions, of software users!
 # Part III: Upgrading Devices With FOSS
 
 Hopefully by now you're convinced to use FOSS yourself and to help others install a FOSS operating system and apps on their computers. This way, you and others can use your devices to the end of the hardware operating life and not discard functioning computers when proprietary software support ends.
@@ -734,7 +734,7 @@ Here are some general resources for resolving some problems that may arise. This
 * [Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig.org/troubleshooting-common-linux-issues-a-guide-for-new-users/)
 # Funding Notice
 
-The *Opt Green* project from KDE Eco was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN). The funds are made available by resolution of the German Bundestag. TODO-UPDATE-BMUKN-LOGO
+The *Opt Green* project from KDE Eco was funded by the Federal Environment Agency and the Federal Ministry for the Environment, Climate Action, Nature Conservation and Nuclear Safety (BMUKN). The funds are made available by resolution of the German Bundestag.
 
 ![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)
 
