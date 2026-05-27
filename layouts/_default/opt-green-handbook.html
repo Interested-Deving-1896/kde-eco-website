@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{- $pdf := index (os.ReadDir "static/opt-green-handbook") 0 -}}
+{{- $pdf := index (os.ReadDir "static/handbook/opt-green-handbook") 0 -}}
 <main id="top" role="main">
 	<section class="section-blue mt-0">
 		<div class="container p-5 row mx-auto">
@@ -11,7 +11,7 @@
 
 			</div>
 			<div class="col m-auto">
-				<a href="/opt-green-handbook/{{ $pdf.Name }}"
+				<a href="/handbook/opt-green-handbook/{{ $pdf.Name }}"
 					download="KDE Eco - Opting Green.pdf">
 					<button type="button" class="btn btn-outline-success btn-lg">Download PDF</button>
 				</a>
