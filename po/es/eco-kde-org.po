@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2025-12-22 02:01+0000\n"
-"PO-Revision-Date: 2026-06-03 17:20+0100\n"
+"PO-Revision-Date: 2026-06-04 22:37+0100\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -1868,11 +1868,11 @@ msgid ""
 "currently only eco-certified computer program within the 30 organizations of "
 "the Global Ecolabelling Network, which represents over 50 countries."
 msgstr ""
-"Tal y como se anunció en marzo (leer más [aquí](https://eco.kde.org/"
+"Tal y como se anunció en marzo (puedes leer más [aquí](https://eco.kde.org/"
 "blog/2022-03-16-press-release-okular-blue-angel/)), Okular ha sido "
 "reconocido por su diseño de software sostenible, tal y como se refleja en "
-"los recientes criterios del premio Blue Angel para la eco-certificación de "
-"software. Introducido en 1978, el Blue Angel es la primera ecoetiqueta del "
+"los recientes criterios del premio Blue Angel para la ecocertificación de "
+"software. Introducido en 1978, la Blue Angel es la primera ecoetiqueta del "
 "mundo y la etiqueta medioambiental oficial concedida por el gobierno alemán. "
 "Con este premio, Okular es el primer y único programa informático con "
 "ecocertificación dentro de las 30 organizaciones de la Global Ecolabelling "
@@ -1883,7 +1883,7 @@ msgid ""
 "![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/"
 "blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 msgstr ""
-"![Joseph, Harri y Alexander en el escenario de la ceremonia de entrega del "
+"![Joseph, Harri y Alexander en el escenario de la ceremonia de entrega de la "
 "Blue Angel.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:22
@@ -1894,7 +1894,7 @@ msgid ""
 "Geiss, Alexander Lohnau, and Harri Porten from the KDE community.*"
 msgstr ""
 "*Okular de KDE recibe la ecocertificación Blue Angel de la Agencia Alemana "
-"de Medio Ambiente ('Umweltbundesamt'). De izquierda a derecha: Mathias "
+"de Medio Ambiente («Umweltbundesamt»). De izquierda a derecha: Mathias "
 "Bornschein, de la Agencia Alemana de Medio Ambiente, con Joseph P. De Veaugh-"
 "Geiss, Alexander Lohnau y Harri Porten, de la comunidad KDE.*"
 
@@ -1940,12 +1940,12 @@ msgid ""
 "Congratulations to Okular and KDE for official recognition of the "
 "outstanding work you are doing!"
 msgstr ""
-"Enhorabuena a Okular y a KDE por el reconocimiento oficial del trabajo que "
-"estáis haciendo."
+"¡Enhorabuena a Okular y a KDE por el reconocimiento oficial del trabajo que "
+"estáis haciendo!"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:33
 msgid "Update: Celebrating At Akademy 2022 (1 October)"
-msgstr "Actualización: Celebrando en la Akademy 2022 (1 de octubre) "
+msgstr "Actualización: Celebración en la Akademy 2022 (1 de octubre)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:35
 msgid ""
@@ -1966,8 +1966,8 @@ msgid ""
 msgstr ""
 "Fue un día precioso. Más bonito aún fue ver a los [colaboradores de Okular]"
 "(https://invent.kde.org/graphics/okular/-/graphs/master) y la comunidad KDE "
-"en general reunirse, sonreír y disfrutar de la deliciosa tarta eco de KDE, "
-"sin azúcar, hecha especialmente para la ocasión."
+"en general reunirse, sonreír y disfrutar de la deliciosa tarta sin azúcar de "
+"KDE Eco, hecha especialmente para la ocasión."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:39
 msgid ""
@@ -1987,7 +1987,7 @@ msgstr "![Tarta KDE Eco](/blog/images/2022-10-01_akademy_kde-eco-cake.webp)"
 msgid ""
 "*Celebrating Okular and the Blue Angel with KDE Eco cake at Akademy 2022!*"
 msgstr ""
-"*¡Celebrando Okular y el Blue Angel con la tarta KDE Eco en la Akademy 2022!*"
+"*¡Celebrando Okular y la Blue Angel con la tarta KDE Eco en la Akademy 2022!*"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
@@ -2090,6 +2090,13 @@ msgid ""
 "a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](/blog/"
 "images/2024-05-24_ThinkGlobalComputeLocal.png)"
 msgstr ""
+"![La [campaña «Piensa globalmente, actúa localmente»](https://es.wikipedia."
+"org/wiki/Piensa_globalmente,_act%C3%BAa_localmente) instó a las personas a "
+"tener en cuenta la salud global al tomar medidas en sus comunidades locales. "
+"Este nuevo proyecto insta a las personas a hacer lo mismo, pero con la "
+"informática. (Imagen de Karanjot Singh publicada bajo la licencia [CC-BY-4.0]"
+"(https://spdx.org/licenses/CC-BY-4.0.html).)](/blog/"
+"images/2024-05-24_ThinkGlobalComputeLocal.png)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:28
 msgid ""
@@ -2099,6 +2106,11 @@ msgid ""
 "driven by principles related to the environment, and not just price or "
 "convenience: the \"eco-consumers\"."
 msgstr ""
+"Durante los próximos dos años, la iniciativa «Opt Green» llevará "
+"directamente al usuario final las iniciativas de KDE Eco en materia de "
+"software sostenible. Un grupo objetivo clave para este proyecto son aquellos "
+"consumidores cuyo comportamiento se rige por principios medioambientales, y "
+"no solo por el precio o la comodidad: los «ecoconsumidores»."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:30
 msgid ""
@@ -2107,6 +2119,10 @@ msgid ""
 "energy consumption, and keep devices in use for the lifespan of the "
 "hardware, not the software."
 msgstr ""
+"Mediante campañas en línea y sin conexión, así como en talleres de "
+"instalación, demostraremos el poder del Software Libre para reducir el "
+"consumo de recursos y de energía, y para mantener los dispositivos en uso "
+"durante la vida útil del hardware, no del software."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:32
 msgid ""
@@ -2123,6 +2139,13 @@ msgid ""
 "teams/eco/opt-green) or the [contact page](https://eco.kde.org/get-"
 "involved/) to get involved today!"
 msgstr ""
+"El tema de la sostenibilidad impulsada por el software es relevante para "
+"todas las aplicaciones y desarrolladores de Software Libre. Nos encantaría "
+"que te unieras a nosotros y te convirtieras en nuestro aliado para combatir "
+"el daño ambiental causado por el software. Echa un vistazo al [repositorio "
+"Invent](https://invent.kde.org/teams/eco/opt-green) del proyecto o a la "
+"[página de contacto](https://eco.kde.org/get-involved/) para participar hoy "
+"mismo."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:36
 msgid "Software's Environmental Harm"
@@ -2148,6 +2171,24 @@ msgid ""
 "phoronix.com/news/Intel-i486-Linux-Possible-Drop) for Intel 486 processors "
 "from 1989. That's 33 years of support!)"
 msgstr ""
+"El [14 de octubre de 2025](https://learn.microsoft.com/en-us/lifecycle/faq/"
+"windows), se [estima](https://www.canalys.com/insights/end-of-windows-10-"
+"support-could-turn-240-million-pcs-into-e-waste) que el fin del soporte para "
+"Windows 10 hará que [240 millones de computadoras](https://www.reuters.com/"
+"technology/microsoft-ending-support-windows-10-could-send-240-mln-pcs-"
+"landfills-report-2023-12-21/) se conviertan en residuos electrónicos que no "
+"podrán actualizarse a Windows 11. Además, se prevé que el soporte de macOS "
+"para los equipos Apple con procesadores Intel —los últimos se vendieron en "
+"2020— [finalice](https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-"
+"intel-macs-are-still-getting-fewer-updates-than-they-used-to/) (como muy "
+"pronto) un año después, en 2026, dejando obsoletos todavía más millones de "
+"dispositivos funcionales. Cuando los usuarios no tienen control sobre el "
+"software del que dependen, quedan expuestos a riesgos de seguridad cuando "
+"finaliza el soporte… a menos, claro está, que compren un equipo nuevo. (En "
+"comparación, considera que Linus Torvalds no sugirió por primera vez "
+"[finalizar el soporte del kernel de Linux](https://www.phoronix.com/news/"
+"Intel-i486-Linux-Possible-Drop) para los procesadores Intel 486 de 1989 "
+"hasta 2022. ¡Eso son 33 años de soporte!)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:40
 msgid ""
@@ -2226,6 +2267,12 @@ msgid ""
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by "
 "Anita Sengupta.)](/blog/images/mountain.png)"
 msgstr ""
+"![En 2016, se generaron 44,7 millones de toneladas métricas de residuos "
+"electrónicos. Se estima que esto equivale a 4500 torres Eiffel, que, "
+"apiladas, alcanzan una altura 17 veces mayor que la del monte Everest. "
+"(Imagen de KDE publicada bajo una licencia [CC-BY-SA-4.0](https://spdx.org/"
+"licenses/CC-BY-SA-4.0.html). Diseño de Anita Sengupta.)](/blog/images/"
+"mountain.png)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:58
 msgid ""
@@ -2241,6 +2288,18 @@ msgid ""
 "yewtu.be/watch?v=Nxem6yTRC4M), the role of software in keeping functioning "
 "hardware in use and out of the landfill grows more critical every day."
 msgstr ""
+"El software es un factor crucial para la sostenibilidad, aunque a menudo se "
+"pasa por alto. Determina el consumo energético y los requisitos mínimos del "
+"sistema de un hardware. También determina cuánto tiempo se puede usar un "
+"dispositivo con seguridad. Con el software presente en [dispositivos "
+"cotidianos](https://www.schneier.com/blog/archives/2018/10/security_in_a_w."
+"html), desde [cafeteras](https://arstechnica.com/gadgets/2014/03/keurigs-"
+"next-generation-of-coffee-machines-will-have-drm-lockdown/) hasta teléfonos "
+"inteligentes, pasando por [trenes](https://arstechnica.com/tech-"
+"policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-"
+"competitors-hackers-find/) y [drones](https://yewtu.be/watch?v=Nxem6yTRC4M), "
+"su papel para mantener el hardware en funcionamiento y evitar que acabe en "
+"el vertedero se vuelve más crítico cada día."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:60
 msgid ""
@@ -2250,6 +2309,11 @@ msgid ""
 "of life, and the air, soil, and waters around them&mdash;not to mention the "
 "people and animals."
 msgstr ""
+"Para los consumidores, el daño ambiental puede pasar desapercibido. Sin "
+"embargo, el medio ambiente está registrando sus efectos, desde el CO2 que se "
+"emite a la atmósfera hasta los vertederos que reciben nuestros dispositivos "
+"desechados al final de su vida útil, así como el aire, el suelo y las aguas "
+"que los rodean, sin mencionar a las personas y a los animales."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:64
 msgid ""
@@ -2263,6 +2327,16 @@ msgid ""
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](/blog/images/"
 "sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 msgstr ""
+"![En la foto se ve a un joven quemando cables eléctricos para recuperar "
+"cobre en Agbogbloshie, Ghana, mientras otro trabajador de una chatarrería "
+"llega con más cables para quemar. Un artículo de 2018 publicado en el "
+"«International Journal of Cancer» informa de una [relación](https://"
+"onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31902) entre la proximidad a los "
+"lugares donde se queman residuos electrónicos y el linfoma infantil. "
+"([Imagen](https://en.wikipedia.org/wiki/File:Agbogbloshie,_Ghana_-"
+"_September_2019.jpg) por Muntaka Chasant, publicada bajo una licencia [CC-BY-"
+"SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html).)](/blog/images/"
+"sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:68
 msgid ""
@@ -2275,6 +2349,15 @@ msgid ""
 "over 30 years before efficiency gains in newly-produced devices justify "
 "their purchase."
 msgstr ""
+"Resulta especialmente devastador cuando se considera el daño ambiental y "
+"social que causan los residuos electrónicos, sobre todo cuando se generan "
+"antes de tiempo debido a la obsolescencia prematura. La producción y el "
+"transporte de un dispositivo representan entre el 50 y el 80 % o más de su "
+"huella de carbono a lo largo de su ciclo de vida. Un [informe alemán sobre "
+"el medio ambiente](http://www.uba.de/uba-info-medien/4316.html) estima que "
+"sería necesario usar una computadora durante más de 30 años antes de que las "
+"mejoras en la eficiencia de los dispositivos de nueva fabricación "
+"justifiquen su compra."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:70
 msgid ""
@@ -2285,6 +2368,13 @@ msgid ""
 "environment as toxic waste and cause enormous damage to workers' health or "
 "even death."
 msgstr ""
+"Además, la extracción de metales de tierras raras en la producción consume "
+"enormes cantidades de energía y se lleva a cabo en condiciones sociales "
+"precarias, a menudo en el Sur Global. Para su eliminación, los dispositivos "
+"se suelen devolver al Sur Global para su tratamiento al final de su vida "
+"útil, donde contaminan el medio ambiente como residuos tóxicos y causan "
+"graves daños a la salud de los trabajadores, llegando incluso a provocarles "
+"la muerte."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:74
 msgid ""
@@ -2294,6 +2384,11 @@ msgid ""
 "CC-BY-SA-4.0.html) license. Design by Anita Sengupta.)](/blog/images/apple-"
 "report.png)"
 msgstr ""
+"![Huella de carbono de Apple. De Apple (2019), «Informe de Responsabilidad "
+"Ambiental: Informe de Progreso de 2019, que abarca el año fiscal 2018». "
+"(Imagen de KDE publicada bajo una licencia [CC-BY-SA-4.0](https://spdx.org/"
+"licenses/CC-BY-SA-4.0.html). Diseño de Anita Sengupta.)](/blog/images/apple-"
+"report.png)"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:78
 msgid "Giving Consumers What They Want"
@@ -2482,7 +2577,7 @@ msgstr "Blog"
 
 #: content/blog/_index.md:0
 msgid "Keep up with the latest news about the KDE Eco project"
-msgstr "Manténgase al día con las últimas noticias sobre el proyecto KDE Eco"
+msgstr "Sigue al día con las últimas noticias sobre el proyecto KDE Eco"
 
 #: content/blog/_index.md:0
 msgid "KDE Eco blog"
@@ -2499,19 +2594,19 @@ msgstr ""
 
 #: content/blog/post-1.md:0
 msgid "Hardware Operating Life"
-msgstr "Vida Útil del Hardware"
+msgstr "Vida útil del hardware"
 
 #: content/blog/post-1.md:0
 msgid "Software efficiency is resource efficiency!"
-msgstr "La eficiencia del software es la eficiencia de los recursos!"
+msgstr "¡La eficiencia del software es la eficiencia de los recursos!"
 
 #: content/blog/post-1.md:15
 msgid ""
 "Often overlooked is the fact that the resource consumption of hardware is "
 "determined by the software running on it."
 msgstr ""
-"A menudo se pasa por alto el hecho de que el consumo de recursos del "
-"hardware viene determinado por el software que se ejecuta en él."
+"A menudo se pasa por alto el hecho de que el consumo de recursos de hardware "
+"viene determinado por el software que se ejecuta en él."
 
 #: content/blog/post-1.md:17
 msgid "*How much energy does hardware use?*"
@@ -2524,7 +2619,7 @@ msgid ""
 "(https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
 "Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf)."
 msgstr ""
-"Fíjese en el software: la misma máquina haciendo la misma tarea pero con dos "
+"Fíjate en el software: la misma máquina haciendo la misma tarea pero con dos "
 "aplicaciones diferentes puede tener [demandas de energía drásticamente "
 "diferentes](https://www.umwelt-campus.de/fileadmin/Umwelt-Campus/"
 "Greensoft/2018-12-12_texte_105-2018_ressourceneffiziente-software_0_1_.pdf)."
@@ -2558,10 +2653,10 @@ msgid ""
 "citizen in their lifetime - equating to 3.3 tonnes.\" ([source](https://web."
 "archive.org/web/20180901075137/https://www.geograph.org.uk/photo/2637892))*"
 msgstr ""
-"*\"El Hombre de los RAEE (Residuos de Aparatos Eléctricos y Electrónicos), "
-"de siete metros de altura, está formado por los aparatos eléctricos y "
+"*«El hombre de RAEE (Residuos de Aparatos Eléctricos y Electrónicos), de "
+"siete metros de altura, está formado por los aparatos eléctricos y "
 "electrónicos que el ciudadano medio del Reino Unido tira a lo largo de su "
-"vida, lo que equivale a 3,3 toneladas.\" ([Fuente](https://web.archive.org/"
+"vida, lo que equivale a 3,3 toneladas.» ([Fuente](https://web.archive.org/"
 "web/20180901075137/https://www.geograph.org.uk/photo/2637892)).*"
 
 #: content/blog/post-1.md:33
@@ -2575,15 +2670,15 @@ msgid ""
 "efficiently. Continuing support for older, but perfectly functioning, "
 "devices. And so on."
 msgstr ""
-"Así que al pensar en qué hacer mientras la crisis climática continúa, por "
+"Así que, al pensar en qué hacer mientras la crisis climática continúa, por "
 "dónde empezar y cómo, en [KDE Eco](https://eco.kde.org/) pensamos que el "
-"software -- especialmente el Software Libre -- es un buen punto de partida. "
+"software (especialmente el Software Libre) es un buen punto de partida. "
 "Software Libre significa que los usuarios y sus comunidades tienen la "
 "libertad de controlar el software que utilizan, y no al revés. Estas "
 "libertades proporcionan una elección real. Elección de qué instalar o "
 "desinstalar. Opciones para modificar el software para que funcione de forma "
-"más eficiente. Soporte continuo para dispositivos más antiguos, pero que "
-"funcionan perfectamente. Y así sucesivamente."
+"más eficiente. Compatibilidad continua con dispositivos más antiguos, pero "
+"que funcionan perfectamente. Y así sucesivamente."
 
 #: content/blog/post-1.md:35
 msgid ""
@@ -2594,18 +2689,18 @@ msgid ""
 "up."
 msgstr ""
 "Cada una de estas opciones tiene un coste y/o un beneficio. Por ejemplo, "
-"cuantos más procesos (innecesarios) que una aplicación tiene en segundo "
-"plano, más recursos necesitará el hardware. Multiplique estos costes por "
-"cientos de millones, o incluso miles de millones, de usuarios de ordenadores "
-"en todo el mundo, y se acumula rápidamente."
+"cuantos más procesos (innecesarios) tenga una aplicación en segundo plano, "
+"más recursos necesitará el hardware. Multiplica estos costes por cientos de "
+"millones, o incluso miles de millones, de usuarios de computadoras de todo "
+"el mundo, y se acumulará rápidamente."
 
 #: content/blog/post-1.md:37
 msgid ""
 "The opposite is also true: reduce the demands from software and one reduces "
 "the demands on our resources."
 msgstr ""
-"Lo contrario también es cierto: si se reducen las demandas de software, se "
-"reducen la demanda de nuestros recursos."
+"Lo contrario también es cierto: si se reducen las demandas del software, se "
+"reducen las demandas de nuestros recursos."
 
 #: content/blog/post-1.md:39
 msgid "In other words, software efficiency means resource efficiency!"
@@ -2628,13 +2723,13 @@ msgstr ""
 "Recientemente, la interdependencia entre la ingeniería de software y la "
 "sostenibilidad fue reconocida oficialmente por la [Agencia Alemana del Medio "
 "Ambiente](https://www.umweltbundesamt.de/en) (*Umweltbundesamt*, o UBA). En "
-"2020, UBA publicó los [criterios de adjudicación](https://produktinfo.blauer-"
-"engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-2020-02-13."
-"pdf) para obtener la ecocertificación con la etiqueta *Blauer Engel* para "
-"software de escritorio. Las categorías para la certificación incluyen la "
-"eficiencia energética, la prolongación de la vida útil del hardware y la "
-"autonomía del usuario, encajando todas a la perfección con el software libre "
-"de código abierto."
+"2020, la UBA publicó los [criterios de adjudicación](https://produktinfo."
+"blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-"
+"Criteria-2020-02-13.pdf) para obtener la ecocertificación con la etiqueta "
+"*Blauer Engel* para software de escritorio. Las categorías para la "
+"certificación incluyen la eficiencia energética, la prolongación de la vida "
+"útil del hardware y la autonomía del usuario, encajando todas a la "
+"perfección con el Software Libre de código abierto."
 
 #: content/blog/post-1.md:45
 msgid ""
@@ -2659,7 +2754,7 @@ msgstr ""
 "relacionada con la ecocertificación Blauer Engel y la eficiencia de los "
 "recursos en relación con el desarrollo de FOSS. Medir el consumo de energía "
 "del Software Libre es el enfoque del Proyecto de Eficiencia Energética de "
-"software libre y código abierto([FEEP](https://invent.kde.org/teams/eco/"
+"software libre y código abierto ([FEEP](https://invent.kde.org/teams/eco/"
 "feep)). ¡Ambos proyectos son parte de la iniciativa pionera [KDE Eco]"
 "(https://invent.kde.org/teams/eco)!"
 
@@ -2668,9 +2763,8 @@ msgid ""
 "<font size=\"6\"> **[Join us in building energy-efficient, Free Software!]"
 "(https://eco.kde.org/get-involved/)** </font>"
 msgstr ""
-"<font size=\"6\"> **[[¡Únete a nosotros en la construcción de un software "
-"libre energéticamente eficiente!](https://eco.kde.org/get-involved/)** </"
-"font>"
+"<font size=\"6\"> **[[¡Únete a nosotros en la creación de Software Libre "
+"energéticamente eficiente!](https://eco.kde.org/get-involved/)** </font>"
 
 #: content/blog/post-1.md:57
 msgid ""
@@ -2681,7 +2775,7 @@ msgid ""
 msgstr ""
 "*Esta es una versión modificada del resumen [presentado](https://web.archive."
 "org/web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) "
-"al escenario remoto de Rhein Ruhr en el CCC 2021. Puede ver la charla [aquí]"
+"al Remote Rhein Ruhr Stage en el CCC 2021. Puedes ver la charla [aquí]"
 "(https://streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
@@ -2704,11 +2798,11 @@ msgstr ""
 #. home.engage
 #: content/get-involved.md:0 i18n/en.yaml:60
 msgid "Get Involved"
-msgstr "Implicarse"
+msgstr "Participa"
 
 #: content/get-involved.md:0
 msgid "Become a part of the sustainable software movement!"
-msgstr "¡Forme parte del movimiento de software sostenible!"
+msgstr "¡Forma parte del movimiento de software sostenible!"
 
 #: content/get-involved.md:10
 msgid ""
@@ -2716,8 +2810,8 @@ msgid ""
 "some channels where you can get more information and contribute."
 msgstr ""
 "Necesitamos el mayor número posible de personas motivadas para impulsarlo. "
-"Aquí tiene algunos canales en los que puede obtener más información y "
-"contribuir."
+"Aquí tienes algunos canales en los que puedes obtener más información y "
+"colaborar."
 
 #: content/get-involved.md:12
 msgid "Community & Support"
@@ -2729,7 +2823,7 @@ msgid ""
 "+1:00) (contact us for details)"
 msgstr ""
 "Reunión mensual (videoconferencia): 2.º miércoles del mes a las 19:00 CEST/"
-"CET (UTC+2:00/+1:00) (contáctenos para más detalles)"
+"CET (UTC+2:00/+1:00) (ponte en contacto con nosotros para más detalles)"
 
 #: content/get-involved.md:15
 msgid ""
@@ -2762,7 +2856,7 @@ msgid ""
 "Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/"
 "Sustainable_Software"
 msgstr ""
-"Objetivo de software sostenible (wiki de la comunidad): https://community."
+"Objetivo del software sostenible (wiki de la comunidad): https://community."
 "kde.org/Goals/Sustainable_Software"
 
 #: content/get-involved.md:22
@@ -2770,7 +2864,7 @@ msgid ""
 "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
 "opt-green"
 msgstr ""
-"Proyecto \"Opt Green\" (repositorio de GitLab): https://invent.kde.org/teams/"
+"Proyecto «Opt Green» (repositorio de GitLab): https://invent.kde.org/teams/"
 "eco/opt-green"
 
 #: content/get-involved.md:23
@@ -2817,7 +2911,7 @@ msgstr "Make Green"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
-msgstr "Objetivo de software sostenible"
+msgstr "Objetivo del software sostenible"
 
 #: content/sustainable-goal/_index.md:9
 msgid ""
@@ -2856,7 +2950,7 @@ msgid ""
 "hardware use."
 msgstr ""
 "Software libre y de código abierto independiente y energéticamente eficiente "
-"para para un uso de hardware a largo plazo."
+"para un uso del hardware a largo plazo."
 
 #. home.sustainability-title
 #: i18n/en.yaml:6
@@ -2869,14 +2963,14 @@ msgid ""
 "Opt in to lower energy demands, extended hardware life, device independence, "
 "and user control for a healthier digital society."
 msgstr ""
-"Opte por una menor demanda energética, mayor vida útil del hardware, "
+"Optar por una menor demanda energética, mayor vida útil del hardware, "
 "independencia de los dispositivos y el control del usuario para una sociedad "
 "digital más sana."
 
 #. home.advocate-title
 #: i18n/en.yaml:10
 msgid "Grow Green (Advocate)"
-msgstr "Grow Green (Defensor)"
+msgstr "Grow Green (defensor)"
 
 #. home.advocate-description
 #: i18n/en.yaml:12
@@ -2924,7 +3018,7 @@ msgid ""
 "development and software licensing. As a result, software and hardware are "
 "no longer dependent on vendors for support."
 msgstr ""
-"El software libre y de código abierto (FOSS) garantiza por diseño, la "
+"El software libre y de código abierto (FOSS) garantiza por diseño la "
 "transparencia y la autonomía del usuario. No se trata de características, "
 "sino de cualidades inherentes al desarrollo abierto y a las licencias de "
 "software. Como resultado, el software y el hardware ya no dependen de los "
@@ -2938,11 +3032,11 @@ msgid ""
 "runs on devices that are decades old. Keep your computer in use to the end "
 "of the hardware operating life, not the software."
 msgstr ""
-"El software FOSS puede estudiarse y mejorarse de forma independiente, "
-"incluso en su consumo energético. La obsolescencia prematura del hardware es "
-"cosa del pasado. El software libre funciona en dispositivos que tienen "
-"décadas de antigüedad. Mantenga su ordenador en uso hasta el final de la "
-"vida operativa del hardware, no del software."
+"El software libre de código abierto puede estudiarse y mejorarse de forma "
+"independiente, incluso en su consumo energético. La obsolescencia prematura "
+"del hardware es cosa del pasado. El software libre funciona en dispositivos "
+"que tienen décadas de antigüedad. Mantén tu equipo en uso hasta el final de "
+"la vida operativa del hardware, no del software."
 
 #. home.about-kde-title
 #: i18n/en.yaml:28
@@ -2976,12 +3070,13 @@ msgid ""
 "and organizations working to have a positive ecological impact, today."
 msgstr ""
 "Apoyado por la comunidad KDE desde 2021, KDE Eco tiene la misión constante "
-"de desarrollo y adopción de Software Libre y de Código Abierto sostenible en "
-"todo el mundo. A medida que el impacto ecológico de la digitalización se "
-"hace más relevante, continuamos concienciando sobre el papel del diseño de "
-"software en la reducción del daño medioambiental. Estamos orgullosos de "
-"formar parte de un número creciente de comunidades y organizaciones que "
-"trabajan para tener un impacto ecológico positivo."
+"del desarrollo y la adopción de Software Libre y de Código Abierto "
+"sostenible en todo el mundo. A medida que el impacto ecológico de la "
+"digitalización se hace más relevante, continuamos concienciando sobre el "
+"papel del diseño de software en la reducción del daño medioambiental. "
+"Estamos orgullosos de formar parte de un número creciente de comunidades y "
+"organizaciones que trabajan para tener un impacto ecológico positivo en la "
+"actualidad."
 
 #. home.header.sustainable-goal.description
 #: i18n/en.yaml:34
@@ -2992,13 +3087,14 @@ msgid ""
 msgstr ""
 "El software tiene un efecto directo sobre el consumo de energía y recursos. "
 "Desde 2022, KDE tiene el objetivo de proporcionar software que lo haga de "
-"una manera que reduzca el impacto ambiental para nosotros y las generaciones "
-"futuras."
+"una manera que reduzca el impacto ambiental para nosotros y para las "
+"generaciones futuras."
 
 #. home.header.feep.subtitle
 #: i18n/en.yaml:36
 msgid "Free and open source software Energy Efficiency Project"
-msgstr "Proyecto de Eficiencia Energética de software libre y código abierto"
+msgstr ""
+"Proyecto de Eficiencia Energética del software libre y de código abierto"
 
 #. home.header.feep.description
 #: i18n/en.yaml:38
@@ -3006,7 +3102,7 @@ msgid ""
 "How can you measure software’s energy consumption? And does it make a "
 "difference? We are working to make free software more sustainable."
 msgstr ""
-"¿Cómo puede medir el consumo de energía del software? ¿Supone alguna "
+"¿Cómo se puede medir el consumo de energía del software? ¿Supone alguna "
 "diferencia? Estamos trabajando para que el software libre sea más sostenible."
 
 #. home.header.be4foss.subtitle
@@ -3021,10 +3117,10 @@ msgid ""
 "transferred to software? What criteria is relevant? We need more pioneers to "
 "find out how we can make software sustainable."
 msgstr ""
-"Las ecoetiquetas para productos ya se utilizan ampliamente. Pero ¿cómo se "
-"pueden trasladar a los programas informáticos? ¿Qué criterios son "
-"relevantes? Necesitamos más pioneros para descubrir cómo podemos hacer que "
-"el software sea sostenible."
+"Las ecoetiquetas para productos ya se usan ampliamente. Pero ¿cómo se pueden "
+"trasladar a los programas informáticos? ¿Qué criterios son relevantes? "
+"Necesitamos más pioneros para descubrir cómo podemos hacer que el software "
+"sea sostenible."
 
 #. home.header.more
 #: i18n/en.yaml:44 i18n/en.yaml:149 i18n/en.yaml:175
@@ -3057,14 +3153,14 @@ msgstr ""
 "kde.org/websites/eco-kde-org). Este sitio web ha sido verificado por "
 "[greenwebfoundation.org](https://www.thegreenwebfoundation.org/green-web-"
 "check/?url=https%3A%2F%2Feco.kde.org) y está etiquetado como «Hosted Green». "
-"El sitio web está alojado en: Hetzner Online AG.Pruebas de estas "
+"El sitio web está alojado en: Hetzner Online AG. Pruebas de estas "
 "afirmaciones de alojamiento: [Página de sostenibilidad] (https://www.hetzner."
 "com/unternehmen/umweltschutz)."
 
 #. home.eco-handbook.alt
 #: i18n/en.yaml:52
 msgid "Plots of real time measurements using KDE’s LabPlot."
-msgstr "Gráficos de mediciones en tiempo real utilizando LabPlot de KDE."
+msgstr "Gráficos de mediciones en tiempo real mediante LabPlot de KDE."
 
 #. home.okular
 #: i18n/en.yaml:54
@@ -3078,7 +3174,7 @@ msgid ""
 "viewer Okular became the first ever eco-certified computer program!"
 msgstr ""
 "En 2022, ¡el popular lector de PDF universal y multiplataforma Okular se "
-"convirtió en el primer programa de ordenador certificado con la ecoetiqueta!"
+"convirtió en el primer programa informático ecocertificado!"
 
 #. home.okular.pr
 #: i18n/en.yaml:58 i18n/en.yaml:195
@@ -3145,7 +3241,7 @@ msgstr ""
 #. home.greenweb.alt
 #: i18n/en.yaml:84
 msgid "Image of Green Web Foundation label"
-msgstr "Imagen de la *Green Web Foundation label*"
+msgstr "Imagen de la etiqueta *Green Web Foundation*"
 
 #. home.funding.alt
 #: i18n/en.yaml:86
@@ -3185,18 +3281,18 @@ msgstr "Instalar software libre y de código abierto"
 #. be-green.opt-free.title
 #: i18n/en.yaml:103 i18n/en.yaml:115
 msgid "Opt Free with FOSS Apps"
-msgstr "Opte por el software libre"
+msgstr "Opta por la libertad con aplicaciones de software libre"
 
 #. be-green.opt-free.description
 #: i18n/en.yaml:105
 msgid "Install sustainable apps on any computer and operating system."
 msgstr ""
-"Instale aplicaciones sostenibles en cualquier equipo y sistema operativo."
+"Instala aplicaciones sostenibles en cualquier equipo y sistema operativo."
 
 #. be-green.set-free.title
 #: i18n/en.yaml:107
 msgid "Set Free with Old Hardware"
-msgstr "Sea libre con hardware antiguo"
+msgstr "Libérate con el hardware antiguo"
 
 #. be-green.set-free.description
 #: i18n/en.yaml:109
@@ -3208,7 +3304,7 @@ msgstr ""
 #. be-green.be-free.title
 #: i18n/en.yaml:111 i18n/en.yaml:151
 msgid "Be Free with New Hardware"
-msgstr "Sea libre con nuevo hardware"
+msgstr "Sé libre con el nuevo hardware"
 
 #. be-green.be-free.description
 #: i18n/en.yaml:113
@@ -3227,10 +3323,10 @@ msgid ""
 "is more sustainable for users and for the environment."
 msgstr ""
 "El uso de aplicaciones de software libre y de código abierto brinda "
-"flexibilidad a los usuarios. Puede utilizar hardware antiguo durante más "
-"tiempo si tiene control sobre las demandas de recursos del software. Cambie "
-"de programa cuando sea necesario y elija software que sea más sostenible "
-"para los usuarios y para el medio ambiente."
+"flexibilidad al usuario. Puedes usar hardware antiguo durante más tiempo si "
+"tienes control sobre las demandas de recursos del software. Cambia de "
+"programa cuando sea necesario y elige software que sea más sostenible para "
+"el usuario y para el entorno."
 
 #. be-green.opt-free-section.button
 #: i18n/en.yaml:119
@@ -3280,7 +3376,7 @@ msgstr ""
 #. be-green.set-free-section.title
 #: i18n/en.yaml:133
 msgid "Set Free Your Old Hardware"
-msgstr "Libere su hardware antiguo"
+msgstr "Libera tu hardware antiguo"
 
 #. be-green.set-free-section.description
 #: i18n/en.yaml:135
@@ -3294,7 +3390,7 @@ msgstr ""
 #. be-green.set-free-section.download-title
 #: i18n/en.yaml:137
 msgid "Download a FOSS Operating System"
-msgstr "Descargar un sistema operativo FOSS"
+msgstr "Descarga un sistema operativo FOSS"
 
 #. be-green.set-free-section.download-description
 #: i18n/en.yaml:139
@@ -3302,13 +3398,13 @@ msgid ""
 "Download the FOSS operating system you want to install. For devices less "
 "than 10 years old, Fedora Linux with KDE spin is our recommendation."
 msgstr ""
-"Descargue el sistema operativo FOSS que desea instalar. Para dispositivos "
+"Descarga el sistema operativo FOSS que prefieras instalar. Para dispositivos "
 "con menos de 10 años de antigüedad, recomendamos Fedora Linux con KDE."
 
 #. be-green.set-free-section.flash-title
 #: i18n/en.yaml:141
 msgid "Flash Operating System to a USB Stick"
-msgstr "Grabar el sistema operativo a una memoria USB"
+msgstr "Graba el sistema operativo en una memoria USB"
 
 #. be-green.set-free-section.flash-description
 #: i18n/en.yaml:143
@@ -3317,15 +3413,15 @@ msgid ""
 "stick. This will overwrite all data on the USB stick, so make sure to back "
 "up the files you want to keep."
 msgstr ""
-"Con una de las diversas herramientas fáciles de usar, grabe el sistema "
+"Con una de las distintas herramientas fáciles de usar, graba el sistema "
 "operativo en una memoria USB. Esto sobrescribirá todos los datos de la "
-"memoria USB, así que asegúrese de hacer una copia de seguridad de los "
-"archivos que desea conservar."
+"memoria USB, así que asegúrate de hacer una copia de seguridad de los "
+"archivos que quieras conservar."
 
 #. be-green.set-free-section.boot-title
 #: i18n/en.yaml:145
 msgid "Boot and Install on Computer"
-msgstr "Arrancar e instalar en la computadora"
+msgstr "Arranca e instala en la computadora"
 
 #. be-green.set-free-section.boot-description
 #: i18n/en.yaml:147
@@ -3335,11 +3431,10 @@ msgid ""
 "Voila! You have set your computer free. Make sure you have backed up any "
 "data you want to keep first."
 msgstr ""
-"Arranque su computadora desde el USB. Deberá conocer la combinación de "
-"teclado correcta de antemano. Haga clic en \"Instalar\" y siga las "
-"instrucciones. ¡Listo! Ha liberado su computadora. Asegúrese de haber "
-"realizado una copia de seguridad de todos los datos que desea conservar "
-"primero."
+"Arranca tu computadora desde el USB. Tendrás que conocer la combinación de "
+"teclas correcta de antemano. Pulsa en «Instalar» y sigue las instrucciones. "
+"¡Listo! Acabas de liberar a tu computadora. Asegúrate de haber hecho una "
+"copia de seguridad de todos los datos que querías conservar primero."
 
 #. be-green.be-free-section.description
 #: i18n/en.yaml:153
@@ -3351,9 +3446,9 @@ msgid ""
 msgstr ""
 "KDE se asocia con varios proveedores de hardware para brindar la mejor "
 "experiencia desde el primer momento. Debido a que estos dispositivos son "
-"compatibles con software libre y de código abierto, puede usarlos como "
-"desee, durante el tiempo que desee. ¡El soporte para reparabilidad es una "
-"prioridad para los dispositivos recomendados que se muestran aquí!"
+"compatibles con software libre y de código abierto, puedes usarlos como "
+"quieras, durante el tiempo que quieras. ¡El soporte para reparabilidad es "
+"una prioridad para los dispositivos que recomendados aquí!"
 
 #. be-green.be-free-section.slimbook-title
 #: i18n/en.yaml:155
@@ -3367,7 +3462,7 @@ msgid ""
 "parts, your Slimbook can remain in use for years to come."
 msgstr ""
 "Con un sistema operativo FOSS preinstalado y un amplio catálogo de "
-"repuestos, su Slimbook podrá seguir utilizándose durante años."
+"repuestos, podrás seguir usando tu Slimbook durante años."
 
 #. be-green.be-free-section.slimbook-button
 #: i18n/en.yaml:159 i18n/en.yaml:165
@@ -3385,18 +3480,18 @@ msgid ""
 "By designing hardware to be modular and customizable, a Framework computer "
 "is as easy to repair as snapping in a new part."
 msgstr ""
-"Al diseñar el hardware para que sea modular y personalizable, una "
-"computadora Framework es tan fácil de reparar como colocar una pieza nueva."
+"Al diseñar el hardware para que sea modular y personalizable, un equipo "
+"Framework es tan fácil de reparar como colocar una pieza nueva."
 
 #. make-green.header-subtitle
 #: i18n/en.yaml:169
 msgid "Develop Energy-Efficient Free & Open Source Software"
-msgstr "Desarrolle software de código abierto energéticamente eficiente"
+msgstr "Desarrolla software de código abierto energéticamente eficiente"
 
 #. make-green.measure.title
 #: i18n/en.yaml:171
 msgid "Measure Software Energy Use"
-msgstr "Mida el consumo de energía del software"
+msgstr "Mide el consumo de energía del software"
 
 #. make-green.measure.description
 #: i18n/en.yaml:173
@@ -3411,7 +3506,7 @@ msgstr ""
 #. make-green.read.title
 #: i18n/en.yaml:177
 msgid "Read the KDE Eco Handbook"
-msgstr "Lea el manual de KDE Eco"
+msgstr "Lee el manual de KDE Eco"
 
 #. make-green.read.description
 #: i18n/en.yaml:179
@@ -3419,13 +3514,13 @@ msgid ""
 "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
 "certify software and why it matters."
 msgstr ""
-"\"Aplicación de los criterios del Ángel Azul al software libre\" detalla "
+"La «Aplicación de los criterios del Ángel Azul al software libre» detalla "
 "cómo certificar ecológicamente el software y por qué es importante."
 
 #. make-green.prepare.title
 #: i18n/en.yaml:181 i18n/en.yaml:197
 msgid "Prepare Scripts to Measure Energy Use"
-msgstr "Prepare scripts para medir el uso de energía"
+msgstr "Prepara scripts para medir el uso de energía"
 
 #. make-green.prepare.description
 #: i18n/en.yaml:183
@@ -3439,7 +3534,7 @@ msgstr ""
 #. make-green.measure-section.title
 #: i18n/en.yaml:185
 msgid "Measure Your Software's Energy Use"
-msgstr "Mida el consumo de energía de su software"
+msgstr "Mide el consumo de energía de tu software"
 
 #. make-green.measure-section.description
 #: i18n/en.yaml:187
@@ -3452,17 +3547,17 @@ msgid ""
 "Blue Angel eco certification."
 msgstr ""
 "Configurar un laboratorio es tan fácil como comprar un medidor de energía "
-"externo y seguir la guía de configuración de laboratorio del manual KDE Eco. "
-"KEcoLab hace que el proceso sea aún más fácil al permitir que los "
+"externo y seguir la guía de configuración del laboratorio del manual de KDE "
+"Eco. KEcoLab hace que el proceso sea aún más fácil al permitir que los "
 "desarrolladores midan de forma remota el consumo de energía de su software "
 "mediante el flujo de trabajo CI/CD de GitLab. Además, al final del proceso "
-"de medición, tendrá un informe de consumo de energía listo para la "
+"de medición, tendrás un informe de consumo de energía listo para la "
 "certificación ecológica Blue Angel."
 
 #. make-green.measure-section.button
 #: i18n/en.yaml:189 i18n/en.yaml:201
 msgid "View Repository"
-msgstr "Ver repositorio"
+msgstr "Ver el repositorio"
 
 #. make-green.handbook.title
 #: i18n/en.yaml:191
