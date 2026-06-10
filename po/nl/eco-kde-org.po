@@ -1,11 +1,11 @@
 #
-# SPDX-FileCopyrightText: 2021, 2022, 2023, 2024, 2025 Freek de Kruijf <freekdekruijf@kde.nl>
+# SPDX-FileCopyrightText: 2021-2026 Freek de Kruijf <freekdekruijf@kde.nl>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-09 02:07+0000\n"
-"PO-Revision-Date: 2025-08-08 13:47+0200\n"
+"PO-Revision-Date: 2026-06-09 18:25+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 25.04.3\n"
+"X-Generator: Lokalize 26.04.1\n"
 
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -36,79 +36,54 @@ msgid "Be Green"
 msgstr "Wees groen"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Handbook"
-msgstr "KDE Eco-handboek"
+msgstr "Handboek"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Demo Handbook"
-msgstr "KDE Eco-handboek"
+msgstr "KDE Demo-handboek"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid ""
-#| "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
-#| "certify software and why it matters."
 msgid "Applying The Blue Angel Criteria To Free Software"
-msgstr ""
-"\"De Blue Angel criteria toepassen op vrije software\" geeft details over "
-"hoe een eco-certificaat aan software te geven en waarom dat ter zake is."
+msgstr "De Blue Angel criteria toepassen op vrije software"
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "A Handbook To Certifying Software As Sustainable (February 2023)"
-msgstr ""
+msgstr "een handboek om Software als duurzaam te certificeren (februari 2023)"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "en"
-msgstr ""
+msgstr "en"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "\\ "
-msgstr ""
+msgstr "\\ "
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "\\thepage"
-msgstr ""
+msgstr "\\thepage"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Chat"
 msgid "ht"
-msgstr "Chat"
+msgstr "ht"
 
 #: content/be4foss-handbook/handbook_web.md:20
 msgid "Introduction: What’s This All About?"
-msgstr ""
+msgstr "Introductie: Waar gaat dit over?"
 
 #: content/be4foss-handbook/handbook_web.md:22
-#, fuzzy
-#| msgid ""
-#| "The handbook \"Applying The Blue Angel Criteria To Free Software\" gives "
-#| "an overview of the environmental harm driven by software and how the Blue "
-#| "Angel ecolabel — the official environmental label of the German "
-#| "government — provides a benchmark for sustainable software design. Learn "
-#| "how Free & Open Source Software's values of transparency and user "
-#| "autonomy foster sustainability, as well as how to set up a dedicated lab "
-#| "to measure your software's energy consumption."
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software, and how the Blue Angel ecolabel&mdash;the official environmental "
 "label of the German government&mdash;provides a benchmark for sustainable "
 "software design."
 msgstr ""
-"Het handboek \"Applying The Blue Angel Criteria To Free Software\" geeft een "
-"overzicht van de schade aan het milieu gedreven door software en hoe het "
-"Blue Angel ecolabel—het officiële milieulabel van de Duitse regering — een "
-"maatstaf voor duurzame ontwikkeling van software levert. Kom te weten hoe "
-"Vrije Software & Open-source waarden van transparantie en "
-"gebruikersautonomie onderhoudbaarheid voedt, evenals hoe een daarop gericht "
-"lab om uw energieconsumptie te meten."
+"Dit handboek geeft een kort overzicht van de milieuschade veroorzaakt door "
+"software, en hoe het Blauwe Engel-ecolabel – het officiële milieulabel van "
+"de Duitse overheid – een maatstaf vormt voor duurzaam softwareontwerp."
 
 #: content/be4foss-handbook/handbook_web.md:24
 msgid ""
@@ -132,19 +107,19 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:28
 msgid "The book is divided into three parts:"
-msgstr ""
+msgstr "Het boek is opgedeeld in drie delen:"
 
 #: content/be4foss-handbook/handbook_web.md:30
 #: content/be4foss-handbook/handbook_web.md:37
 #: content/opt-green-handbook/handbook_web.md:62
 #: content/opt-green-handbook/handbook_web.md:71
 msgid "Part I: Environmental Impact Of Software"
-msgstr ""
+msgstr "Deel I: De milieu-impact van software"
 
 #: content/be4foss-handbook/handbook_web.md:31
 #: content/be4foss-handbook/handbook_web.md:190
 msgid "Part II: Eco-Certifying Desktop Software"
-msgstr ""
+msgstr "Deel II: Eco-certificering van bureaubladsoftware"
 
 #: content/be4foss-handbook/handbook_web.md:32
 #: content/be4foss-handbook/handbook_web.md:323
@@ -647,10 +622,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:117
-#, fuzzy
-#| msgid "Free Software"
 msgid "Look To The Software"
-msgstr "Vrije software"
+msgstr "Kijk naar de software"
 
 #: content/be4foss-handbook/handbook_web.md:119
 msgid ""
@@ -665,17 +638,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:121
-#, fuzzy
-#| msgid ""
-#| "![A young man is pictured burning electrical wires to recover copper at "
-#| "Agbogbloshie, Ghana, as another metal scrap worker arrives with more "
-#| "wires to be burned. A 2018 article in the \"International Journal of "
-#| "Cancer\" reports a [correlation](https://onlinelibrary.wiley.com/doi/"
-#| "abs/10.1002/ijc.31902) between proximity to e-waste burn sites and "
-#| "childhood lymphoma. ([Image](https://en.wikipedia.org/wiki/File:"
-#| "Agbogbloshie,_Ghana_-_September_2019.jpg) by Muntaka Chasant, published "
-#| "under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) "
-#| "license.)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper at "
 "Agbogbloshie, Ghana, as another metal scrap worker arrives with more wires "
@@ -685,14 +647,10 @@ msgid ""
 msgstr ""
 "![Een jonge man is afgebeeld die elektrische draden verbrandt om koper "
 "herwinnen in Agbogbloshie, Ghana, op het moment dat een andere "
-"metaalafvalverwerker arriveert met meer te verbranden draden. Een artikel "
-"uit 2018 in het \"International Journal of Cancer\" rapporteert een "
-"[correlatie](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31902) "
-"tussen nabijheid van verbrandingssites van e-afval en kinderlymfoom. ([Image]"
-"(https://en.wikipedia.org/wiki/File:Agbogbloshie,_Ghana_-_September_2019."
-"jpg) by Muntaka Chasant, gepubliceerd onder een [CC-BY-SA-4.0](https://spdx."
-"org/licenses/CC-BY-SA-4.0.html) licentie.)](/blog/images/sec1_800px-"
-"Agbogbloshie_Ghana_September_2019.webp)"
+"metaalafvalverwerker arriveert met meer te verbranden draden. (Afbeelding "
+"door Muntaka Chasant, gepubliceerd onder een [CC-BY-SA-4.0](https://spdx.org/"
+"licenses/CC-BY-SA-4.0.html) licentie.)](images/sec1_800px-"
+"Agbogbloshie_Ghana_September_2019.jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:123
 msgid ""
@@ -1051,12 +1009,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:192
-#, fuzzy
-#| msgid ""
-#| "![KDE’s popular multi-platform PDF reader and universal document viewer "
-#| "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
-#| "published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
-#| "license.)](/blog/images/sec2_okular-BE-logo.png)"
 msgid ""
 "![KDE’s popular multi-platform PDF reader and universal document viewer "
 "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
@@ -1066,7 +1018,7 @@ msgstr ""
 "![De populaire multi-platform PDF lezer van KDE en de universele "
 "documentviewer Okular kreeg het Blue Angel ecolabel in 2022 toegekend. "
 "(Afbeelding van KDE gepubliceerd onder een [CC-BY-4.0](https://spdx.org/"
-"licenses/CC-BY-4.0.html) licentie.)](/blog/images/sec2_okular-BE-logo.png)"
+"licenses/CC-BY-4.0.html) licentie.)](/images/sec2_okular-BE-logo.png)"
 
 #: content/be4foss-handbook/handbook_web.md:194
 msgid ""
@@ -1417,18 +1369,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:272
-#, fuzzy
-#| msgid ""
-#| "KDE was founded in 1996 and maintains numerous Free and Open-Source "
-#| "Software products, including the Plasma desktop environment; the design "
-#| "app for painters and graphic artists, Krita; the GCompris suite of "
-#| "educational activities for children; Kdenlive, a professional video-"
-#| "editing software product; and, of course, Okular, an essential computer "
-#| "program that lets you view all sorts of documents, including PDFs, "
-#| "comics, scientific and academic papers, and technical drawings. Okular "
-#| "also lets you check digital signatures and sign documents yourself, as "
-#| "well as include annotated text and comments directly embedded into the "
-#| "document."
 msgid ""
 "Okular is just one software product maintained by KDE, a world-wide "
 "community of software engineers, artists, writers, translators, and creators "
@@ -1439,33 +1379,17 @@ msgid ""
 "product; and of course Okular, a document viewer for PDFs, comics, "
 "scientific and academic papers, and technical drawings."
 msgstr ""
-"KDE is opgericht in 1996 en onderhoudt talrijke Vrije en Open-Source "
-"Software producten, inclusief de Plasma bureaubladomgeving; de "
-"ontwerptoepassing voor schilders en grafische artiesten, Krita; de GCompris "
-"suite met onderwijskundige activiteiten voor kinderen; Kdenlive, een "
-"professioneel video-editing softwareproduct; en, natuurlijk, Okular, een "
-"essentieel computerprogramma dat u allerlei soorten documenten, inclusief "
-"PDF's, strips, wetenschappelijke en academische papers en technische "
-"tekeningen. Okular laat u ook digitale handtekeningen controleren en zelf "
-"documenten ondertekenen, evenals invoegen van geannoteerde tekst en "
-"commentaar direct ingebed in het document."
+"Okular is slechts één softwareproduct dat wordt onderhouden door KDE, een "
+"wereldwijde gemeenschap van softwareontwikkelaars, kunstenaars, schrijvers, "
+"vertalers en makers die zich inzetten voor de ontwikkeling van vrije "
+"software. KDE onderhoudt tal van FOSS-producten, waaronder de Plasma-"
+"bureaubladomgeving; de ontwerp-toepassing voor schilders en grafische "
+"vormgevers, Krita; de GCompris-suite met educatieve activiteiten voor "
+"kinderen; Kdenlive, een professioneel videobewerkingsprogramma; en "
+"natuurlijk Okular, een documentviewer voor pdf's, strips, wetenschappelijke "
+"en academische artikelen en technische tekeningen."
 
 #: content/be4foss-handbook/handbook_web.md:274
-#, fuzzy
-#| msgid ""
-#| "The Blue Angel award criteria for software, with its focus on "
-#| "transparency in resource and energy-efficiency, hardware operating life, "
-#| "and user autonomy, provide an excellent benchmark to begin a discussion "
-#| "on software sustainability and push development in this area forward. And "
-#| "so, in 2021 KDE started [KDE Eco](https://eco.kde.org/), a project with "
-#| "the goal of putting KDE and Free Software at the forefront of sustainable "
-#| "software design. Sustainability is not a new goal for Free and Open-"
-#| "Source Software (FOSS). The [four freedoms](http://fsfe.org/freesoftware/"
-#| "freesoftware.en.html) have always put Free Software at the forefront of "
-#| "sustainable software design. What *is* new is that FOSS values are now "
-#| "recognized as being directly related to sustainability by organizations "
-#| "such as the German Environment Agency (*Umweltbundesamt*), who developed "
-#| "the award criteria."
 msgid ""
 "With KDE’s long-standing mission and guiding vision since its founding in "
 "1996, as well as the talent and capabilities of its community members, KDE "
@@ -1480,38 +1404,26 @@ msgid ""
 "the sustainability criteria set by the German Environment Agency through the "
 "Blue Angel ecolabel."
 msgstr ""
-"De Blue Angel gunningscriteria voor software, met zijn focus op "
-"transparantie in hulpbron en energie-efficiëntie, leeftijd van werkende "
-"hardware en gebruiker-autonomie, bieden een excellente benchmark om te een "
-"discussie over software onderhoudbaarheid en ontwikkeling op dit gebied "
-"verder te brengen te beginnen. En dus, in 2021 starte KDE [KDE Eco](https://"
-"eco.kde.org/), een project met het doel KDE en Vrije Software aan het "
-"voorfront van duurzaam software ontwerp te brengen. Duurzaamheid is geen "
-"nieuw doel voor Vrije en Open-Source Software (FOSS). De [vier vrijheden]"
-"(http://fsfe.org/freesoftware/freesoftware.en.html) hebben altijd Vrije "
-"Software aan het voorfront van duurzaam software ontwerp. Wat nieuw *is* is "
-"dat FOSS waarden nu erkent worden als direct gerelateerd aan duurzaamheid "
-"door organisaties zoals de German Environment Agency (*Umweltbundesamt*), "
-"die de gunningscriteria heeft ontwikkeld."
+"Met de aloude missie en leidende visie van KDE sinds de oprichting in 1996, "
+"en het talent en de capaciteiten van de leden van de gemeenschap, is KDE een "
+"pionier in het bevorderen van duurzame software. In 2021 startte KDE KDE "
+"Eco, een project met als doel KDE en vrije software in de voorhoede van "
+"duurzaam softwareontwerp te plaatsen. Duurzaamheid is niet nieuw voor vrije "
+"en open source software (FOSS) – de vier vrijheden hebben vrije software "
+"altijd al duurzaam gemaakt. Maar nu krijgen de twee pijlers van FOSS – "
+"transparantie en gebruikersautonomie – bredere erkenning voor hun impact op "
+"duurzaamheid en zijn ze opgenomen in de duurzaamheidscriteria van het Duitse "
+"Milieuagentschap via het Blauwe Engel-ecolabel."
 
 #: content/be4foss-handbook/handbook_web.md:276
-#, fuzzy
-#| msgid ""
-#| "![Apple's carbon footprint. From Apple (2019), \"Environmental "
-#| "Responsibility Report: 2019 Progress Report, covering fiscal year 2018\". "
-#| "(Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/"
-#| "licenses/CC-BY-SA-4.0.html) license. Design by Anita Sengupta.)](/blog/"
-#| "images/apple-report.png)"
 msgid ""
 "![Logo of the KDE Eco initiative. (Image from KDE published under a [CC-BY-"
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by Lana "
 "Lutz.)](images/sec2_kde-eco-logo-domain.png)"
 msgstr ""
-"![Koolstofvoetafdruk van Apple. Uit Apple (2019), \"Environmental "
-"Responsibility Report: 2019 Progress Report, die het fiscale jaar 2018 dekt"
-"\". (Afbeelding van KDE gepubliceerd onder een [CC-BY-SA-4.0](https://spdx."
-"org/licenses/CC-BY-SA-4.0.html) licentie. Ontworpen door Anita Sengupta.)](/"
-"blog/images/apple-report.png)"
+"![Logo van het KDE Eco-initiatief. (Afbeelding van KDE gepubliceerd onder "
+"een [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) licentie. "
+"Ontwerp van Lana Lutz.)](images/sec2_kde-eco-logo-domein.png)"
 
 #: content/be4foss-handbook/handbook_web.md:278
 msgid ""
@@ -1529,25 +1441,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:280
-#, fuzzy
-#| msgid ""
-#| "All of these criteria reflect KDE's values and those of the larger FOSS "
-#| "movement seamlessly. With Free and Open-Source Software, transparency is "
-#| "guaranteed and control is handed over to the users, instead of being held "
-#| "back by vendors or service providers. This allows users to decide what "
-#| "they want from the software they use and, all too often overlooked, the "
-#| "hardware as well. For instance, users may drive down the energy "
-#| "consumption of their programs with no loss in functionality as they can "
-#| "install only what they need, no more and no less; and avoid advertising "
-#| "and data-mining options, which would run unnecessary processes in the "
-#| "background driving up the consumption of resources. As for FOSS "
-#| "developers, they typically continue to support hardware that the industry "
-#| "would be eager to obsolete, providing users with up-to-date and secure "
-#| "software for devices that might otherwise be discarded as e-waste and end "
-#| "up polluting landfills. In short, as a consequence of the user freedoms "
-#| "and transparency guaranteed by a Free Software license, users and "
-#| "communities are able to influence the factors determining the resource "
-#| "consumption of their software!"
 msgid ""
 "The Blue Angel award criteria reflect KDE’s values and those of the larger "
 "FOSS movement seamlessly. Free & Open Source Software guarantees "
@@ -1564,35 +1457,24 @@ msgid ""
 "and secure software for devices that might otherwise be discarded as e-waste "
 "and end up polluting landfills."
 msgstr ""
-"Al deze criteria reflecteren naadloos de waarden van KDE en die van de "
-"grotere FOSS beweging. Met Vrije en Open-Source Software, is transparantie "
-"gegarandeerd en control is overhandigd aan de gebruikers, in plaats van "
-"achtergehouden te worden door verkopers of serviceleveranciers. Dit biedt "
-"gebruikers om te bepalen wat ze willen van de software die ze gebruiken en, "
-"al te vaak aan voorbijgezien, evenals de hardware. Gebruikers kunnen de "
-"energieconsumptie van hun programma's omlaag brengen zonder verlies in "
-"functionaliteit evenals dat ze alleen wat ze nodig hebben kunnen "
-"installeren, niet meer en niet minder; en adverteren en data-mining opties "
-"vermijden, die onnodige processen in de achtergrond laten werken die de "
-"consumptie van hulpbronnen opdrijven. Voor FOSS ontwikkelaars geldt dat ze "
-"typisch doorgaan met ondersteuning van hardware die de industrie graag wil "
-"verouderen, en aan gebruikers software leveren die bij-de-tijd en veilig is "
-"voor apparaten die anders weggegooid zouden worden als e-waste en eindigen "
-"met vervuilen van afvalbergen. Kortom, als een gevolg van vrijheid van de "
-"gebruiker en transparantie gegarandeerd door een Vrije Software licentie, "
-"zijn gebruikers en gemeenschappen in staat de factoren te beïnvloeden die de "
-"consumptie van hulpbronnen bepalen van hun software!"
+"De criteria voor de Blauwe Engel-onderscheiding weerspiegelen naadloos de "
+"waarden van KDE en die van de bredere FOSS-beweging. Vrije en open source "
+"software garandeert transparantie en geeft gebruikers de controle, in plaats "
+"van hen te verplichten met bepaalde leveranciers of serviceproviders samen "
+"te werken. Hierdoor kunnen gebruikers zelf bepalen wat ze van de software "
+"verwachten en daardoor ook beslissingen nemen over de hardware die ze "
+"gebruiken. Gebruikers kunnen het energieverbruik van hun programma's "
+"verminderen met weinig of geen verlies aan functionaliteit, door alleen te "
+"installeren wat ze nodig hebben, niet meer en niet minder; ze kunnen ook "
+"opdringerige reclame of datamining-opties vermijden die processen op de "
+"achtergrond uitvoeren en zo extra resources op het apparaat en in het "
+"netwerk verbruiken. FOSS-ontwikkelaars blijven doorgaans hardware "
+"ondersteunen die de industrie graag zou willen afschrijven, waardoor "
+"gebruikers beschikken over actuele en veilige software voor apparaten die "
+"anders als elektronisch afval zouden worden weggegooid en op stortplaatsen "
+"zouden belanden."
 
 #: content/be4foss-handbook/handbook_web.md:282
-#, fuzzy
-#| msgid ""
-#| "Released under the GPLv2+ license, Okular is Free and Open-Source "
-#| "Software, and so was also already fulfilling many of the user autonomy "
-#| "criteria necessary to obtain the Blue Angel seal of approval. Further "
-#| "work was carried out to make Okular fully compliant with all of the Blue "
-#| "Angel criteria, and become officially recognized as providing "
-#| "transparency in energy and resource consumption, extending the potential "
-#| "hardware operating life of devices, and enabling user autonomy."
 msgid ""
 "Released under the GPLv2+ license, Okular is FOSS and therefore already "
 "fulfilling many of the user autonomy criteria necessary to obtain the Blue "
@@ -1601,31 +1483,19 @@ msgid ""
 "providing transparency in energy and resource consumption, and supporting "
 "the potential extension of the hardware operating life of devices."
 msgstr ""
-"Uitgegeven onder de GPLv2+ licentie, is Okular Vrije en Open-Source "
-"Software, en deed zo al aan vele van de criteria  voor gebruikersautonomie "
-"nodig om het Blue Angel zegel voor toekenning te verkrijgen. Verder werk is "
-"gedaan om Okular volledig te laten voldoen aan alle criteria van Blue Angel, "
-"en officieel werd erkent als transparantie leveren in energie- en "
-"hulpbronconsumptie, waarmee het potentiële leeftijd van hardware apparaten "
-"en gebruikersautonomie uitbreidt."
+"Okular is uitgebracht onder de GPLv2+-licentie, is FOSS en voldoet daarom al "
+"aan veel van de criteria voor gebruikersautonomie die nodig zijn om het Blue "
+"Angel-keurmerk te verkrijgen. Er is verder gewerkt om Okular volledig te "
+"laten voldoen aan de criteria voor de onderscheiding door functies voor "
+"gebruikersautonomie te documenteren, transparantie te bieden in energie- en "
+"grondstoffenverbruik en de potentiële verlenging van de levensduur van de "
+"hardware van apparaten te ondersteunen."
 
 #: content/be4foss-handbook/handbook_web.md:284
 msgid "![Icon for KDE’s popular application Okular.](images/sec2_okular.png)"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:286
-#, fuzzy
-#| msgid ""
-#| "Okular works on Linux, Windows, Android and Plasma Mobile, and is "
-#| "available to [download](https://okular.kde.org/download/) for all GNU/"
-#| "Linux distributions, as a standalone package from [Flathub](https://"
-#| "flathub.org/apps/search/okular) and the [Snap Store](https://snapcraft.io/"
-#| "search?q=okular), through the [KDE F-Droid release repository](https://"
-#| "cdn.kde.org/android/stable-releases/fdroid/repo/) for Android, as well as "
-#| "from the [Microsoft Store](https://www.microsoft.com/en-us/p/"
-#| "okular/9n41msq1wnm8#activetab=pivot:overviewtab). Being FOSS, the source "
-#| "code is also readily available at [Okular's GitLab repository](https://"
-#| "invent.kde.org/graphics/okular) for all to use, study, share, and improve."
 msgid ""
 "Okular lets you check digital signatures and sign documents yourself, as "
 "well as include annotated text and comments directly embedded into the "
@@ -1637,17 +1507,15 @@ msgid ""
 "org/graphics/okular) for all to use, study, share, improve, and most of all, "
 "enjoy."
 msgstr ""
-"Okular werkt op Linux, Windows, Android en Plasma Mobile en is beschikbaar "
-"voor [download](https://okular.kde.org/download/) voor alle GNU/Linux "
-"distributies, als een alleenstaand pakket uit [Flathub](https://flathub.org/"
-"apps/search/okular) en de [Snap Store](https://snapcraft.io/search?"
-"q=okular), via de [KDE F-Droid uitgave-opslagruimte](https://cdn.kde.org/"
-"android/stable-releases/fdroid/repo/) voor Android, evenals uit de "
-"[Microsoft Store](https://www.microsoft.com/en-us/p/"
-"okular/9n41msq1wnm8#activetab=pivot:overviewtab). Omdat het FOSS is, is de "
-"broncode ook gemakkelijk beschikbaar op [de GitLab opslagruimte van Okular]"
-"(https://invent.kde.org/graphics/okular) voor iedereen te gebruiken, studie, "
-"delen en verbeteren."
+"Okular stelt u in staat om digitale handtekeningen te controleren en zelf "
+"documenten te ondertekenen, en ook om geannoteerde tekst en opmerkingen "
+"direct in het document in te sluiten. Okular werkt op Linux, Windows, "
+"Android en Plasma Mobile en is beschikbaar om te downloaden voor alle GNU/"
+"Linux-distributies, als een zelfstandig pakket via Flathub en de Snap Store, "
+"via de KDE F-Droid release repository voor Android, en via de Microsoft "
+"Store. De broncode is ook direct beschikbaar op [Okular's GitLab repository]"
+"(https://invent.kde.org/graphics/okular) zodat iedereen deze kan gebruiken, "
+"bestuderen, delen, verbeteren en vooral van kan genieten."
 
 #: content/be4foss-handbook/handbook_web.md:288
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:36
@@ -1797,16 +1665,12 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:329
-#, fuzzy
-#| msgid "Energy Efficiency"
 msgid "(A) Resource & Energy Efficiency"
-msgstr "Energie-efficiëntie"
+msgstr "(A) hulpbron- & Energie-efficiëntie"
 
 #: content/be4foss-handbook/handbook_web.md:331
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "(B) Potential Hardware Operating Life"
-msgstr "Werkzame leeftijd van hardware"
+msgstr "(B) Potentiële werkzame leeftijd van hardware"
 
 #: content/be4foss-handbook/handbook_web.md:333
 #: content/be4foss-handbook/handbook_web.md:1046
@@ -1860,10 +1724,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:347
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "(A) How To Measure Your Software"
-msgstr "Meet het energiegebruik van uw software"
+msgstr "(A) Hoe uw software te meten"
 
 #: content/be4foss-handbook/handbook_web.md:349
 msgid ""
@@ -1915,10 +1777,8 @@ msgid "The laboratory setup requires 1 power meter and at least 2 computers:"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:365
-#, fuzzy
-#| msgid "Power meter devices"
 msgid "*Power Meter*"
-msgstr "Apparaten voor energiegebruik"
+msgstr "*Energiemeter*"
 
 #: content/be4foss-handbook/handbook_web.md:367
 msgid ""
@@ -2028,24 +1888,17 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:397
-#, fuzzy
-#| msgid ""
-#| "![Apple's carbon footprint. From Apple (2019), \"Environmental "
-#| "Responsibility Report: 2019 Progress Report, covering fiscal year 2018\". "
-#| "(Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/"
-#| "licenses/CC-BY-SA-4.0.html) license. Design by Anita Sengupta.)](/blog/"
-#| "images/apple-report.png)"
 msgid ""
 "![Overview of laboratory setup: System Under Test (SUT), Power Meter (PM), "
 "and Data Aggregator and Evaluator (DAE). (Image from KDE published under a "
 "[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design "
 "by Lana Lutz.)](images/sec3_lab-setup_modified.png)"
 msgstr ""
-"![Koolstofvoetafdruk van Apple. Uit Apple (2019), \"Environmental "
-"Responsibility Report: 2019 Progress Report, die het fiscale jaar 2018 dekt"
-"\". (Afbeelding van KDE gepubliceerd onder een [CC-BY-SA-4.0](https://spdx."
-"org/licenses/CC-BY-SA-4.0.html) licentie. Ontworpen door Anita Sengupta.)](/"
-"blog/images/apple-report.png)"
+"![Overzicht van de laboratoriumopstelling: Systeem onder test (SUT), "
+"energiemeter (PM), en gegevensverzamelaar en -evaluator (DAE). (Afbeelding "
+"van KDE, gepubliceerd onder een [CC-BY-SA-4.0](https://spdx.org/licenses/CC-"
+"BY-SA-4.0.html) licentie. Ontwerp door Lana Lutz.)](images/sec3_lab-"
+"setup_modified.png)"
 
 #: content/be4foss-handbook/handbook_web.md:399
 msgid "System Under Test (SUT)"
@@ -2091,10 +1944,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:413
-#, fuzzy
-#| msgid "Standard Usage Scenarios"
 msgid "Preparing The Standard Usage Scenario (SUS)"
-msgstr "Standaard scenario's voor gebruik"
+msgstr "Voorbereiden van het standaard scenario's voor gebruik (SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:415
 msgid "Preparing the SUS requires the following:"
@@ -2129,24 +1980,16 @@ msgid "Running the SUS for at least 5 minutes."
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:427
-#, fuzzy
-#| msgid ""
-#| "![Apple's carbon footprint. From Apple (2019), \"Environmental "
-#| "Responsibility Report: 2019 Progress Report, covering fiscal year 2018\". "
-#| "(Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/"
-#| "licenses/CC-BY-SA-4.0.html) license. Design by Anita Sengupta.)](/blog/"
-#| "images/apple-report.png)"
 msgid ""
 "![Steps for preparing Standard Usage Scenario (SUS) scripts to measure the "
 "energy consumption of software. (Image from KDE published under a [CC-BY-"
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by Lana "
 "Lutz.)](images/sec3_PreparingSUS.png)"
 msgstr ""
-"![Koolstofvoetafdruk van Apple. Uit Apple (2019), \"Environmental "
-"Responsibility Report: 2019 Progress Report, die het fiscale jaar 2018 dekt"
-"\". (Afbeelding van KDE gepubliceerd onder een [CC-BY-SA-4.0](https://spdx."
-"org/licenses/CC-BY-SA-4.0.html) licentie. Ontworpen door Anita Sengupta.)](/"
-"blog/images/apple-report.png)"
+"![Stappen voor het voorbereiden van standaard scenario voor gebruik (SUS)-"
+"scripts om het energieverbruik van software te meten. (Afbeelding van KDE, "
+"gepubliceerd onder een [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0."
+"html) licentie. Ontwerp door Lana Lutz.)](images/sec3_PreparingSUS.png)"
 
 #: content/be4foss-handbook/handbook_web.md:429
 msgid ""
@@ -2175,10 +2018,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:435
-#, fuzzy
-#| msgid "Automation Tools"
 msgid "More Emulation Tools"
-msgstr "Automatiseringshulpmiddelen"
+msgstr "Meer emulatiehulpmiddelen"
 
 #: content/be4foss-handbook/handbook_web.md:437
 msgid ""
@@ -2366,10 +2207,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:504
-#, fuzzy
-#| msgid "Standard Usage Scenarios"
 msgid "Standard Usage Scenario: *OS + Application In Use*"
-msgstr "Standaard scenario's voor gebruik"
+msgstr "Standaard scenario's voor gebruik: *OS + toepassing in gebruik*"
 
 #: content/be4foss-handbook/handbook_web.md:506
 msgid ""
@@ -2649,10 +2488,8 @@ msgid "2022-05-21 18:59:13 ;"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:577
-#, fuzzy
-#| msgid "Energy Conservation"
 msgid "Energy Consumption Data"
-msgstr "Energiebesparing"
+msgstr "Energiegebruiksgegevens"
 
 #: content/be4foss-handbook/handbook_web.md:579
 msgid ""
@@ -3523,16 +3360,13 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:811
 #: content/be4foss-handbook/handbook_web.md:847
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "For examples of the above for Okular, see KDE’s [Blue Angel Applications]"
 "(https://invent.kde.org/teams/eco/blue-angel-application) repository:"
 msgstr ""
-"Blue Angel toepassingen (GitLab opslagruimte): https://invent.kde.org/teams/"
-"eco/blue-angel-application"
+"Voor voorbeelden van het bovenstaande voor Okular, zie de [Blue Angel "
+"toepassingen] opslagruimte van KDE (https://invent.kde.org/teams/eco/blue-"
+"angel-application):"
 
 #: content/be4foss-handbook/handbook_web.md:813
 msgid ""
@@ -4055,10 +3889,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1009
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "(B) Hardware Operating Life"
-msgstr "Werkzame leeftijd van hardware"
+msgstr "(B) Werkzame leeftijd van hardware"
 
 #: content/be4foss-handbook/handbook_web.md:1011
 msgid ""
@@ -4142,26 +3974,20 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1050
-#, fuzzy
-#| msgid "Data output"
 msgid "Data Formats"
-msgstr "Gegevensuitvoer"
+msgstr "Gegevensformaten"
 
 #: content/be4foss-handbook/handbook_web.md:1051
 msgid "Transparency"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1052
-#, fuzzy
-#| msgid "Community & Support"
 msgid "Continuity Of Support"
-msgstr "Gemeenschap & ondersteuning"
+msgstr "Continuïteit van ondersteuning"
 
 #: content/be4foss-handbook/handbook_web.md:1053
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Uninstallability"
-msgstr "Onderhoudbaarheid"
+msgstr "Niet te installeren"
 
 #: content/be4foss-handbook/handbook_web.md:1054
 msgid "Offline Capability"
@@ -4267,10 +4093,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1091
-#, fuzzy
-#| msgid "Community & Support"
 msgid "2.3 Continuity Of Support"
-msgstr "Gemeenschap & ondersteuning"
+msgstr "2.3 Continuïteit van ondersteuning"
 
 #: content/be4foss-handbook/handbook_web.md:1093
 msgid "Details about continuity of support to document include:"
@@ -4476,17 +4300,14 @@ msgid "Submitting To RAL"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1165
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "For examples of all of the above documentation, see KDE’s [Blue Angel "
 "Applications](https://invent.kde.org/teams/eco/blue-angel-application) "
 "repository."
 msgstr ""
-"Blue Angel toepassingen (GitLab opslagruimte): https://invent.kde.org/teams/"
-"eco/blue-angel-application"
+"Voor voorbeelden van alle bovenstaande documentatie, zie de [Blue Angel "
+"Applications](https://invent.kde.org/teams/eco/blue-angel-application) "
+"opslagruimte van KDE."
 
 #: content/be4foss-handbook/handbook_web.md:1167
 msgid ""
@@ -4508,10 +4329,8 @@ msgid "Example Submission Documents"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1173
-#, fuzzy
-#| msgid "Completing the Blauer Engel application for Okular"
 msgid "Below are examples of Blue Angel documentation for Okular."
-msgstr "De toepassing Blauer Engel voor Okular voltooien"
+msgstr "Hieronder vindt u voorbeelden van Blue Angel-documentatie voor Okular."
 
 #: content/be4foss-handbook/handbook_web.md:1175
 msgid ""
@@ -4570,10 +4389,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1191
-#, fuzzy
-#| msgid "Sustainable Software Goal"
 msgid "Notable Sustainable Software Initiatives"
-msgstr "Duurzame software doel"
+msgstr "Opmerkelijke initiatieven op het gebied van duurzame software"
 
 #: content/be4foss-handbook/handbook_web.md:1193
 msgid ""
@@ -4646,10 +4463,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1217
-#, fuzzy
-#| msgid "About Me"
 msgid "About"
-msgstr "Info over mijzelf"
+msgstr "Info over"
 
 #: content/be4foss-handbook/handbook_web.md:1219
 #: content/opt-green-handbook/handbook_web.md:22
@@ -4698,13 +4513,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1229
-#, fuzzy
-#| msgid ""
-#| "We would love to know what you think. Please join the conversation on our "
-#| "[mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#| "efficiency) or [Matrix room](https://webchat.kde.org/#/room/#energy-"
-#| "efficiency:kde.org) or via the [issue trackers](https://invent.kde.org/"
-#| "groups/teams/eco/-/issues) at our GitLab repositories!"
 msgid ""
 "People who are interested in contributing to KDE Eco are encouraged to join "
 "the [mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
@@ -4713,11 +4521,13 @@ msgid ""
 "Eco sprints and in-person or online meetups. Learn more at out [website]"
 "(https://eco.kde.org/get-involved/)."
 msgstr ""
-"We zouden graag willen weten wat u denkt. Doe mee met de conversatie op onze "
-"[e-maillijst](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-"efficiency) of [Matrix room](https://webchat.kde.org/#/room/#energy-"
-"efficiency:kde.org) of via de [problemenvolger](https://invent.kde.org/"
-"groups/teams/eco/-/issues) op onze GitLab opslagruimten!"
+"Mensen die willen bijdragen aan KDE Eco worden aangemoedigd om zich aan te "
+"melden voor de [mailinglijst](https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"energy-efficiency) of de [Matrix-room](https://webchat.kde.org/#/room/"
+"#energy-efficiency:kde.org). Bijdragers worden ook uitgenodigd om deel te "
+"nemen aan een van de KDE Eco-sprints en fysieke of online bijeenkomsten. "
+"Meer informatie is te vinden op onze [website](https://eco.kde.org/get-"
+"involved/)."
 
 #: content/be4foss-handbook/handbook_web.md:1231
 msgid ""
@@ -4752,24 +4562,17 @@ msgid "Funding Notice"
 msgstr "Financieringsopmerking"
 
 #: content/be4foss-handbook/handbook_web.md:1239
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The *Blauer Engel Für FOSS* project was funded by the Federal German "
 "Environment Agency (UBA) and the Federal Ministry for the Environment, "
 "Nature Conservation, Nuclear Safety and Consumer Protection (BMUV). The "
 "funds are made available by resolution of the German Bundestag."
 msgstr ""
-"Het project BE4FOSS kreeg fondsen van de Federale Omgevingsagency en het "
-"Federale Ministerie voor de omgeving, Natuurbeheer, Nucleaire veiligheid en "
-"Consumentenbescherming (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-"\"#fn.1\">1</sup>). De fondsen zijn beschikbaar gesteld door een resolutie "
-"van de Duitse Bondsdag."
+"Het project *Blauer Engel Für FOSS* werd gefinancierd door het Duitse "
+"federale milieuagentschap (UBA) en het federale ministerie voor milieu, "
+"natuurbehoud, nucleaire veiligheid en consumentenbescherming (BMUV). De "
+"financiering werd beschikbaar gesteld door een besluit van de Duitse "
+"Bondsdag."
 
 #: content/be4foss-handbook/handbook_web.md:1241
 #: content/opt-green-handbook/handbook_web.md:739
@@ -7673,8 +7476,6 @@ msgstr "E-mail: `joseph [at] kde.org`"
 
 #. grow-green.header
 #: content/grow-green/_index.md:0 i18n/en.yaml:211
-#, fuzzy
-#| msgid "Be Green"
 msgid "Grow Green"
 msgstr "Wees groen"
 
@@ -7689,32 +7490,24 @@ msgstr "Maak groen"
 
 #: content/opt-green-handbook/_index.md:0
 #: content/opt-green-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Opt Green"
 msgid "Opting Green"
-msgstr "Opt Green"
+msgstr "Kiezen voor groen"
 
 #: content/opt-green-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Opt Green Handbook"
-msgstr "KDE Eco-handboek"
+msgstr "Handboek van KDE Kiezen voor groen"
 
 #: content/opt-green-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Opt Green: Sustainable Software For Sustainable Hardware"
 msgid "How Sustainable Software Makes for Sustainable Hardware"
-msgstr "Opt Green: duurzame software voor duurzame hardware"
+msgstr "Hoe duurzame software leidt tot duurzame hardware"
 
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "htb"
-msgstr ""
+msgstr "htb"
 
 #: content/opt-green-handbook/handbook_web.md:20
-#, fuzzy
-#| msgid "About This Website"
 msgid "About This Handbook"
-msgstr "Over deze Website"
+msgstr "Over dit handboek"
 
 #: content/opt-green-handbook/handbook_web.md:24
 msgid ""
@@ -7759,7 +7552,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:34
 msgid "No Generative AI or LLMs"
-msgstr ""
+msgstr "Geen generatieve AI of LLM's"
 
 #: content/opt-green-handbook/handbook_web.md:36
 msgid ""
@@ -7813,13 +7606,15 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:54
 msgid "Introduction: What's This All About?"
-msgstr ""
+msgstr "Introductie: Waar gaat dit over?"
 
 #: content/opt-green-handbook/handbook_web.md:56
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software and how Free & Open Source Software (FOSS) provides a solution."
 msgstr ""
+"Dit handboek geeft een kort overzicht van de milieuschade veroorzaakt door "
+"software en hoe vrije en open source software (FOSS) een oplossing biedt."
 
 #: content/opt-green-handbook/handbook_web.md:58
 msgid ""
@@ -7840,10 +7635,8 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:63
 #: content/opt-green-handbook/handbook_web.md:208
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Part II: Digital Sustainability"
-msgstr "Onderhoudbaarheid"
+msgstr "Deel II: Digitale duurzaamheid"
 
 #: content/opt-green-handbook/handbook_web.md:64
 #: content/opt-green-handbook/handbook_web.md:401
@@ -7892,14 +7685,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:77
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid "**The most environmentally-friendly device is …**"
-msgstr ""
-"Ons motto: **Het meest milieuvriendelijke apparaat is diegene die u al bezit."
-"**"
+msgstr "**Het meest milieuvriendelijke apparaat is …**"
 
 #: content/opt-green-handbook/handbook_web.md:79
 msgid "Think about it for a minute."
@@ -7951,17 +7738,6 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:89
-#, fuzzy
-#| msgid ""
-#| "![A young man is pictured burning electrical wires to recover copper at "
-#| "Agbogbloshie, Ghana, as another metal scrap worker arrives with more "
-#| "wires to be burned. A 2018 article in the \"International Journal of "
-#| "Cancer\" reports a [correlation](https://onlinelibrary.wiley.com/doi/"
-#| "abs/10.1002/ijc.31902) between proximity to e-waste burn sites and "
-#| "childhood lymphoma. ([Image](https://en.wikipedia.org/wiki/File:"
-#| "Agbogbloshie,_Ghana_-_September_2019.jpg) by Muntaka Chasant, published "
-#| "under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) "
-#| "license.)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper from e-"
 "waste at Agbogbloshie, Ghana, as another metal scrap worker arrives with "
@@ -7969,16 +7745,12 @@ msgid ""
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](images/"
 "sec1_800px-Agbogbloshie_Ghana_September_2019.jpg)"
 msgstr ""
-"![Een jonge man is afgebeeld die elektrische draden verbrandt om koper "
-"herwinnen in Agbogbloshie, Ghana, op het moment dat een andere "
-"metaalafvalverwerker arriveert met meer te verbranden draden. Een artikel "
-"uit 2018 in het \"International Journal of Cancer\" rapporteert een "
-"[correlatie](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31902) "
-"tussen nabijheid van verbrandingssites van e-afval en kinderlymfoom. ([Image]"
-"(https://en.wikipedia.org/wiki/File:Agbogbloshie,_Ghana_-_September_2019."
-"jpg) by Muntaka Chasant, gepubliceerd onder een [CC-BY-SA-4.0](https://spdx."
-"org/licenses/CC-BY-SA-4.0.html) licentie.)](/blog/images/sec1_800px-"
-"Agbogbloshie_Ghana_September_2019.webp)"
+"![Een jonge man is afgebeeld die elektrische draden verbrandt om koper te "
+"herwinnen uit e-afval in Agbogbloshie, Ghana, op het moment dat een andere "
+"metaalafvalverwerker arriveert met meer te verbranden draden. (Afbeelding "
+"door Muntaka Chasant, gepubliceerd onder een [CC-BY-SA-4.0](https://spdx.org/"
+"licenses/CC-BY-SA-4.0.html) licentie.)](images/sec1_800px-"
+"Agbogbloshie_Ghana_September_2019.jpg)"
 
 #: content/opt-green-handbook/handbook_web.md:91
 msgid ""
@@ -8119,13 +7891,6 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:117
-#, fuzzy
-#| msgid ""
-#| "![In 2016, 44.7 million metric tons of e-waste was generated. This is "
-#| "estimated to be equivalent to 4,500 Eiffel Towers, which, when stacked, "
-#| "is 17 times higher than Mount Everest. (Image from KDE published under a "
-#| "[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. "
-#| "Design by Anita Sengupta.)](/blog/images/mountain.png)"
 msgid ""
 "![62 billion kg of e-waste was generated in 2022. This is equivalent to 1.55 "
 "million trucks wrapped all the way around the Earth's equator. The amount "
@@ -8133,11 +7898,12 @@ msgid ""
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by Anita "
 "Sengupta.)](images/sec1_e-waste-trucks-on-equator-illustration.png)"
 msgstr ""
-"![In 2016 is 44,7 miljoen ton e-afval gegenereerd. Dit is geschat het "
-"equivalent te zijn van 4.500 Eiffeltorens, die, bij opstapelen, 17 keer "
-"hoger is dan de Mount Everest. (Afbeelding van KDE gepubliceerd onder een "
-"[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) licentie. "
-"Ontworpen door Anita Sengupta.)](/blog/images/mountain.png)"
+"![In 2022 werd 62 miljard kg elektronisch afval gegenereerd. Dit is gelijk "
+"aan 1,55 miljoen vrachtwagens die helemaal rond de evenaar van de aarde "
+"zouden lopen. De hoeveelheid neemt elk jaar toe. (Afbeelding van KDE, "
+"gepubliceerd onder een [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0."
+"html) licentie. Ontwerp door Anita Sengupta.)](images/sec1_e-waste-trucks-on-"
+"equator-illustration.png)"
 
 #: content/opt-green-handbook/handbook_web.md:119
 msgid ""
@@ -8299,16 +8065,12 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:145
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid ""
 "Our response: **The most environmentally-friendly device is the one you "
 "already own!**"
 msgstr ""
-"Ons motto: **Het meest milieuvriendelijke apparaat is diegene die u al bezit."
-"**"
+"Ons antwoord: **Het meest milieuvriendelijke apparaat is diegene die u al "
+"bezit!**"
 
 #: content/opt-green-handbook/handbook_web.md:147
 msgid ""
@@ -8326,10 +8088,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:151
-#, fuzzy
-#| msgid "Free Software"
 msgid "Hardware, Meet Software"
-msgstr "Vrije software"
+msgstr "Hardware, maak kennis met software"
 
 #: content/opt-green-handbook/handbook_web.md:153
 msgid ""
@@ -8380,10 +8140,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:163
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "Hardware Demands"
-msgstr "Werkzame leeftijd van hardware"
+msgstr "Hardware-eisen"
 
 #: content/opt-green-handbook/handbook_web.md:165
 msgid ""
@@ -8649,10 +8407,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:212
-#, fuzzy
-#| msgid "Install Free & Open Source Software"
 msgid "What Is Free & Open Source Software (FOSS)?"
-msgstr "Installeer vrije en open-source software"
+msgstr "Wat is vrije en open-source software (FOSS)?"
 
 #: content/opt-green-handbook/handbook_web.md:214
 msgid ""
@@ -9230,15 +8986,9 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:353
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid ""
 "**The most environmentally-friendly device is the one you already own.**"
-msgstr ""
-"Ons motto: **Het meest milieuvriendelijke apparaat is diegene die u al bezit."
-"**"
+msgstr "**Het meest milieuvriendelijke apparaat is diegene die u al bezit.**"
 
 #: content/opt-green-handbook/handbook_web.md:355
 msgid ""
@@ -10457,10 +10207,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:619
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Installing A FOSS Operating System"
-msgstr "Download een FOSS besturingssysteem"
+msgstr "Een FOSS besturingssysteem installeren"
 
 #: content/opt-green-handbook/handbook_web.md:621
 msgid ""
@@ -10471,6 +10219,8 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:623
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
+"Dit is vrijwillige hulp om nieuwe gebruikers te tonen hoe ze zichzelf kunnen "
+"helpen."
 
 #: content/opt-green-handbook/handbook_web.md:624
 msgid "No contract is being established."
@@ -10572,10 +10322,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:648
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Using The FOSS Operating System"
-msgstr "Download een FOSS besturingssysteem"
+msgstr "Het FOSS-besturingssysteem gebruiken"
 
 #: content/opt-green-handbook/handbook_web.md:650
 msgid ""
@@ -10769,10 +10517,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:695
-#, fuzzy
-#| msgid "Resources"
 msgid "Additional Resources"
-msgstr "Hulpbronnen"
+msgstr "Aanvullende hulpbronnen"
 
 #: content/opt-green-handbook/handbook_web.md:697
 msgid "Organizing An Install Event"
@@ -10874,22 +10620,16 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:722
-#, fuzzy
-#| msgid ""
-#| "![KDE’s popular multi-platform PDF reader and universal document viewer "
-#| "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
-#| "published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
-#| "license.)](/blog/images/sec2_okular-BE-logo.png)"
 msgid ""
 "![Plasma Mobile is an open-source user interface for mobile devices "
 "developed by the KDE community. (Image from KDE released under a [CC-BY-4.0]"
 "(https://spdx.org/licenses/CC-BY-4.0.html) license.)](images/"
 "sec3_plasmaphone.png)"
 msgstr ""
-"![De populaire multi-platform PDF lezer van KDE en de universele "
-"documentviewer Okular kreeg het Blue Angel ecolabel in 2022 toegekend. "
-"(Afbeelding van KDE gepubliceerd onder een [CC-BY-4.0](https://spdx.org/"
-"licenses/CC-BY-4.0.html) licentie.)](/blog/images/sec2_okular-BE-logo.png)"
+"![Plasma Mobile is een open-source gebruikersinterface voor mobiele "
+"apparaten ontwikkeld door de KDE-community. (Afbeelding van KDE, uitgebracht "
+"onder een [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) licentie.)]"
+"(images/sec3_plasmaphone.png)"
 
 #: content/opt-green-handbook/handbook_web.md:724
 msgid "Troubleshooting"
@@ -10949,24 +10689,16 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:737
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The *Opt Green* project from KDE Eco was funded by the Federal Environment "
 "Agency and the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety (BMUKN). The funds are made available by "
 "resolution of the German Bundestag."
 msgstr ""
-"Het project BE4FOSS kreeg fondsen van de Federale Omgevingsagency en het "
-"Federale Ministerie voor de omgeving, Natuurbeheer, Nucleaire veiligheid en "
-"Consumentenbescherming (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-"\"#fn.1\">1</sup>). De fondsen zijn beschikbaar gesteld door een resolutie "
-"van de Duitse Bondsdag."
+"Het *Opt Green*-project van KDE Eco werd gefinancierd door het Federaal "
+"Milieuagentschap en het Federaal Ministerie voor Milieu, Klimaatactie, "
+"Natuurbehoud en Kernveiligheid (BMUKN). De middelen werden beschikbaar "
+"gesteld door een besluit van de Duitse Bondsdag."
 
 #: content/opt-green-handbook/handbook_web.md:741
 msgid ""
@@ -11669,17 +11401,13 @@ msgstr "Het doel van KDE voor duurzame software"
 
 #. grow-green.header-subtitle
 #: i18n/en.yaml:213
-#, fuzzy
-#| msgid "Develop Energy-Efficient Free & Open Source Software"
 msgid "Advocate for Energy-Efficient Free & Open Source Software"
-msgstr "Ontwikkel energie-efficiënte vrije en open-source software"
+msgstr "Pleitbezorger voor energie-efficiënte vrije en open-source software"
 
 #. grow-green.handbook.title
 #: i18n/en.yaml:215 i18n/en.yaml:227
-#, fuzzy
-#| msgid "Read the KDE Eco Handbook"
 msgid "Read The Opt Green Support Handbook"
-msgstr "Lees het KDE Eco-handboek"
+msgstr "Lees het Kies green-ondersteuningshandboek"
 
 #. grow-green.handbook.description
 #: i18n/en.yaml:217
@@ -11689,10 +11417,8 @@ msgstr ""
 
 #. grow-green.flyer.title
 #: i18n/en.yaml:219 i18n/en.yaml:233
-#, fuzzy
-#| msgid "KDE's Sustainable Software Goal"
 msgid "Distribute The Sustainable Software Flyer"
-msgstr "Het doel van KDE voor duurzame software"
+msgstr "Verspreid de flyer over duurzame software"
 
 #. grow-green.flyer.description
 #: i18n/en.yaml:221

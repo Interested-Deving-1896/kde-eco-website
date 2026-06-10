@@ -1,11 +1,11 @@
 #
-# SPDX-FileCopyrightText: 2023, 2024, 2025, 2026 Emir SARI <emir_sari@icloud.com>
+# SPDX-FileCopyrightText: 2023-2026 Emir SARI <emir_sari@icloud.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-09 02:07+0000\n"
-"PO-Revision-Date: 2026-05-02 19:38+0300\n"
+"PO-Revision-Date: 2026-06-09 19:35+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
 "SPDX-License-Identifier: LGPL-3.0-or-later\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 25.12.3\n"
+"X-Generator: Lokalize 26.04.0\n"
 
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -38,52 +38,41 @@ msgid "Be Green"
 msgstr "Yeşil Ol"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Handbook"
-msgstr "KDE Eko El Kitabı"
+msgstr "El Kitabı"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Demo Handbook"
-msgstr "KDE Eko El Kitabı"
+msgstr "KDE Demo El Kitabı"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid ""
-#| "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
-#| "certify software and why it matters."
 msgid "Applying The Blue Angel Criteria To Free Software"
-msgstr ""
-"“Applying The Blue Angel Criteria To Free Software”, yazılımların nasıl eko "
-"sertifikasyondan geçirilebileceğini ve bunun neden önemli olduğunu ayrıntılı "
-"bir biçimde açıklar."
+msgstr "Mavi Melek Kriterlerini Özgür Yazılıma Uygulamak"
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "A Handbook To Certifying Software As Sustainable (February 2023)"
 msgstr ""
+"Yazılımları sürdürülebilir olarak sertifikalamak için bir el kitabı (Şubat "
+"2023)"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "en"
-msgstr ""
+msgstr "tr"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "\\ "
-msgstr ""
+msgstr "\\ "
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "\\thepage"
-msgstr ""
+msgstr "\\thepage"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Chat"
 msgid "ht"
-msgstr "Sohbet"
+msgstr "ht"
 
 #: content/be4foss-handbook/handbook_web.md:20
 msgid "Introduction: What’s This All About?"

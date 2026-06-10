@@ -1,11 +1,11 @@
 #
-# Yuri Chornoivan <yurchor@ukr.net>, 2021, 2022, 2023, 2024, 2025.
+# Yuri Chornoivan <yurchor@ukr.net>, 2021, 2022, 2023, 2024, 2025, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-09 02:07+0000\n"
-"PO-Revision-Date: 2025-08-08 14:44+0300\n"
+"PO-Revision-Date: 2026-06-09 18:20+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -37,82 +37,58 @@ msgid "Be Green"
 msgstr "Будьте зеленими"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Handbook"
-msgstr "Підручник з KDE Eco"
+msgstr "Підручник"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Demo Handbook"
-msgstr "Підручник з KDE Eco"
+msgstr "Демонстраційний підручник з KDE"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid ""
-#| "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
-#| "certify software and why it matters."
 msgid "Applying The Blue Angel Criteria To Free Software"
-msgstr ""
-"У настановах «Applying The Blue Angel Criteria To Free Software» наведено "
-"подробиці щодо екосертифікації програмного забезпечення та її значення."
+msgstr "Застосування критеріїв Blue Angel до вільного програмного забезпечення"
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "A Handbook To Certifying Software As Sustainable (February 2023)"
 msgstr ""
+"Підручник з сертифікації програмного забезпечення як програмного "
+"забезпечення для сталого розвитку (лютий 2023 року)"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "en"
-msgstr ""
+msgstr "uk"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "\\ "
-msgstr ""
+msgstr "\\ "
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "\\thepage"
-msgstr ""
+msgstr "\\thepage"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Chat"
 msgid "ht"
-msgstr "Спілкування"
+msgstr "ht"
 
 #: content/be4foss-handbook/handbook_web.md:20
 msgid "Introduction: What’s This All About?"
-msgstr ""
+msgstr "Вступ: про що це все?"
 
 #: content/be4foss-handbook/handbook_web.md:22
-#, fuzzy
-#| msgid ""
-#| "The handbook \"Applying The Blue Angel Criteria To Free Software\" gives "
-#| "an overview of the environmental harm driven by software and how the Blue "
-#| "Angel ecolabel — the official environmental label of the German "
-#| "government — provides a benchmark for sustainable software design. Learn "
-#| "how Free & Open Source Software's values of transparency and user "
-#| "autonomy foster sustainability, as well as how to set up a dedicated lab "
-#| "to measure your software's energy consumption."
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software, and how the Blue Angel ecolabel&mdash;the official environmental "
 "label of the German government&mdash;provides a benchmark for sustainable "
 "software design."
 msgstr ""
-"У підручнику «Applying The Blue Angel Criteria To Free Software» наведено "
-"огляд шкоди навколишньому середовищу, якого може завдати програмне "
-"забезпечення, та того, як екомітка Blue Angel — офіційна мітка захисту "
-"навколишнього середовища уряду Німеччини — надає у ваше розпорядження "
-"інструменти виміру дизайну програмного забезпечення для сталого розвитку. "
-"Дізнайтеся про те, як цінності вільного програмного забезпечення з відкритим "
-"кодом, які полягають у прозорості та підтримання автономії користувачів "
-"сприяють сталому розвитку, а також дізнайтеся про те, як створити "
-"лабораторію для вимірювання споживання енергії вашим програмним "
-"забезпеченням."
+"У підручнику наведено короткий огляд шкоди навколишньому середовищу, якого "
+"може завдати програмне забезпечення, та того, як екомітка Blue Angel — "
+"офіційна мітка захисту навколишнього середовища уряду Німеччини — надає у "
+"ваше розпорядження інструменти виміру дизайну програмного забезпечення для "
+"сталого розвитку."
 
 #: content/be4foss-handbook/handbook_web.md:24
 msgid ""
@@ -136,24 +112,25 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:28
 msgid "The book is divided into three parts:"
-msgstr ""
+msgstr "Книгу поділено та три частини:"
 
 #: content/be4foss-handbook/handbook_web.md:30
 #: content/be4foss-handbook/handbook_web.md:37
 #: content/opt-green-handbook/handbook_web.md:62
 #: content/opt-green-handbook/handbook_web.md:71
 msgid "Part I: Environmental Impact Of Software"
-msgstr ""
+msgstr "Частина I: Вплив програмного забезпечення на навколишнє середовища"
 
 #: content/be4foss-handbook/handbook_web.md:31
 #: content/be4foss-handbook/handbook_web.md:190
 msgid "Part II: Eco-Certifying Desktop Software"
 msgstr ""
+"Частина II: Екосертифікація програмного забезпечення для робочих станцій"
 
 #: content/be4foss-handbook/handbook_web.md:32
 #: content/be4foss-handbook/handbook_web.md:323
 msgid "Part III: Fulfilling The Blue Angel Award Criteria"
-msgstr ""
+msgstr "Частина III: Виконання критерії нагородження Blue Angel"
 
 #: content/be4foss-handbook/handbook_web.md:34
 msgid ""
@@ -235,7 +212,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:49
 msgid "But does it really?"
-msgstr ""
+msgstr "Але чи насправді все це актуальне?"
 
 #: content/be4foss-handbook/handbook_web.md:51
 msgid ""
@@ -651,10 +628,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:117
-#, fuzzy
-#| msgid "Free Software"
 msgid "Look To The Software"
-msgstr "Вільне програмне забезпечення"
+msgstr "Погляд на програмне забезпечення"
 
 #: content/be4foss-handbook/handbook_web.md:119
 msgid ""
@@ -669,17 +644,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:121
-#, fuzzy
-#| msgid ""
-#| "![A young man is pictured burning electrical wires to recover copper at "
-#| "Agbogbloshie, Ghana, as another metal scrap worker arrives with more "
-#| "wires to be burned. A 2018 article in the \"International Journal of "
-#| "Cancer\" reports a [correlation](https://onlinelibrary.wiley.com/doi/"
-#| "abs/10.1002/ijc.31902) between proximity to e-waste burn sites and "
-#| "childhood lymphoma. ([Image](https://en.wikipedia.org/wiki/File:"
-#| "Agbogbloshie,_Ghana_-_September_2019.jpg) by Muntaka Chasant, published "
-#| "under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) "
-#| "license.)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper at "
 "Agbogbloshie, Ghana, as another metal scrap worker arrives with more wires "
@@ -689,14 +653,10 @@ msgid ""
 msgstr ""
 "![Зображено молодого чоловіка, який спалює електричні дроти, щоб отримати "
 "мідь в Агбогблоші, Гана, а інший робітник, який займається металобрухтом, "
-"тримає дроти, які потрібно спалити. Стаття 2018 року в «Міжнародному журналі "
-"раку» повідомляє про [кореляцію](https://onlinelibrary.wiley.com/doi/"
-"abs/10.1002/ijc.31902) між близькістю до місць спалювання електронних "
-"відходів і дитячою лімфомою. ([Знімок](https://en.wikipedia.org/wiki/File:"
-"Agbogbloshie,_Ghana_-_September_2019.jpg) від Мунтаки Часанта, оприлюднено "
+"тримає дроти, які потрібно спалити. (Знімок від Мунтаки Часанта, оприлюднено "
 "за умов дотримання ліцензії [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-"
 "SA-4.0.html).)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019."
-"webp)"
+"jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:123
 msgid ""
@@ -1055,12 +1015,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:192
-#, fuzzy
-#| msgid ""
-#| "![KDE’s popular multi-platform PDF reader and universal document viewer "
-#| "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
-#| "published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
-#| "license.)](/blog/images/sec2_okular-BE-logo.png)"
 msgid ""
 "![KDE’s popular multi-platform PDF reader and universal document viewer "
 "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
@@ -1070,8 +1024,8 @@ msgstr ""
 "![Популярну багатоплатформову програму для читання PDF та універсальний "
 "переглядач документів від KDE, Okular, було нагороджено екоміткою Blue Angel "
 "у 2022 році. (Зображення від KDE, оприлюднено за умов дотримання ліцензії "
-"[CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](/blog/images/"
-"sec2_okular-BE-logo.png)"
+"[CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](images/sec2_okular-"
+"BE-logo.png)"
 
 #: content/be4foss-handbook/handbook_web.md:194
 msgid ""
@@ -1422,18 +1376,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:272
-#, fuzzy
-#| msgid ""
-#| "KDE was founded in 1996 and maintains numerous Free and Open-Source "
-#| "Software products, including the Plasma desktop environment; the design "
-#| "app for painters and graphic artists, Krita; the GCompris suite of "
-#| "educational activities for children; Kdenlive, a professional video-"
-#| "editing software product; and, of course, Okular, an essential computer "
-#| "program that lets you view all sorts of documents, including PDFs, "
-#| "comics, scientific and academic papers, and technical drawings. Okular "
-#| "also lets you check digital signatures and sign documents yourself, as "
-#| "well as include annotated text and comments directly embedded into the "
-#| "document."
 msgid ""
 "Okular is just one software product maintained by KDE, a world-wide "
 "community of software engineers, artists, writers, translators, and creators "
@@ -1444,32 +1386,8 @@ msgid ""
 "product; and of course Okular, a document viewer for PDFs, comics, "
 "scientific and academic papers, and technical drawings."
 msgstr ""
-"KDE було засновано у 1996 році. Спільнота супроводжує декілька вільних "
-"програмних продуктів із відкритим кодом, зокрема стільничне середовище "
-"«Плазма»; програму для дизайнерів і художників Krita; набір освітніх вправ "
-"для дітей GCompris; продукт для професійного редагування відео Kdenlive і, "
-"звичайно ж, Okular, базову комп'ютерну програму для перегляду усіх типів "
-"документів, зокрема PDF, коміксів, наукових та навчальних матеріалів та "
-"технічних креслень. Крім того, за допомогою Okular можна перевіряти цифрові "
-"підписи та підписувати документи самостійно, а також анотувати вміст "
-"текстовими та графічними коментарями, які буде вбудовано до документа."
 
 #: content/be4foss-handbook/handbook_web.md:274
-#, fuzzy
-#| msgid ""
-#| "The Blue Angel award criteria for software, with its focus on "
-#| "transparency in resource and energy-efficiency, hardware operating life, "
-#| "and user autonomy, provide an excellent benchmark to begin a discussion "
-#| "on software sustainability and push development in this area forward. And "
-#| "so, in 2021 KDE started [KDE Eco](https://eco.kde.org/), a project with "
-#| "the goal of putting KDE and Free Software at the forefront of sustainable "
-#| "software design. Sustainability is not a new goal for Free and Open-"
-#| "Source Software (FOSS). The [four freedoms](http://fsfe.org/freesoftware/"
-#| "freesoftware.en.html) have always put Free Software at the forefront of "
-#| "sustainable software design. What *is* new is that FOSS values are now "
-#| "recognized as being directly related to sustainability by organizations "
-#| "such as the German Environment Agency (*Umweltbundesamt*), who developed "
-#| "the award criteria."
 msgid ""
 "With KDE’s long-standing mission and guiding vision since its founding in "
 "1996, as well as the talent and capabilities of its community members, KDE "
@@ -1484,40 +1402,13 @@ msgid ""
 "the sustainability criteria set by the German Environment Agency through the "
 "Blue Angel ecolabel."
 msgstr ""
-"Критерії присвоєння Blue Angel програмному забезпеченню, із їхнім акцентом "
-"на прозорості щодо ресурсо- та енергоефективності, строку придатності "
-"обладнання та автономності користувача, є чудовим мірилом, яке надає змогу "
-"розпочати обговорення узгодженості програмного забезпечення зі сталим "
-"розвитком людства та просунути розробку у цьому напрямку. Тому у 2021 "
-"роціKDE започатковано [KDE Eco](https://eco.kde.org/), проєкт, метою якого є "
-"просування KDE та вільного програмного забезпечення не передній фронт "
-"дизайну програм для сталого розвитку. Забезпечення сталого розвитку не є "
-"новою метою у світі вільного програмного забезпечення з відкритим кодом "
-"(FOSS). [Чотири свободи](http://fsfe.org/freesoftware/freesoftware.en.html) "
-"завжди просували вільне програмне забезпечення на передову дизайну для "
-"сталого розвитку. Новим *є* те, що цінності FOSS тепер визнаються як "
-"безпосередньо пов'язані із сталим розвитком організаціями, подібними до "
-"німецької Агенції із навколишнього середовища (*Umweltbundesamt*), якою було "
-"розроблено критерії присвоєння екоміток."
 
 #: content/be4foss-handbook/handbook_web.md:276
-#, fuzzy
-#| msgid ""
-#| "![Apple's carbon footprint. From Apple (2019), \"Environmental "
-#| "Responsibility Report: 2019 Progress Report, covering fiscal year 2018\". "
-#| "(Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/"
-#| "licenses/CC-BY-SA-4.0.html) license. Design by Anita Sengupta.)](/blog/"
-#| "images/apple-report.png)"
 msgid ""
 "![Logo of the KDE Eco initiative. (Image from KDE published under a [CC-BY-"
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by Lana "
 "Lutz.)](images/sec2_kde-eco-logo-domain.png)"
 msgstr ""
-"![Вуглецевий слід Apple. З даних Apple (2019), «Звіт щодо відповідальності "
-"за навколишнє середовище: Звіт щодо поступу у 2019 році, що містить дані "
-"фіскального року 2018». (Зображення від KDE, оприлюднено за умов дотримання "
-"ліцензії [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html). Дизайн "
-"від Аніти Сенгупти.)](/blog/images/apple-report.png)"
 
 #: content/be4foss-handbook/handbook_web.md:278
 msgid ""
@@ -1535,25 +1426,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:280
-#, fuzzy
-#| msgid ""
-#| "All of these criteria reflect KDE's values and those of the larger FOSS "
-#| "movement seamlessly. With Free and Open-Source Software, transparency is "
-#| "guaranteed and control is handed over to the users, instead of being held "
-#| "back by vendors or service providers. This allows users to decide what "
-#| "they want from the software they use and, all too often overlooked, the "
-#| "hardware as well. For instance, users may drive down the energy "
-#| "consumption of their programs with no loss in functionality as they can "
-#| "install only what they need, no more and no less; and avoid advertising "
-#| "and data-mining options, which would run unnecessary processes in the "
-#| "background driving up the consumption of resources. As for FOSS "
-#| "developers, they typically continue to support hardware that the industry "
-#| "would be eager to obsolete, providing users with up-to-date and secure "
-#| "software for devices that might otherwise be discarded as e-waste and end "
-#| "up polluting landfills. In short, as a consequence of the user freedoms "
-#| "and transparency guaranteed by a Free Software license, users and "
-#| "communities are able to influence the factors determining the resource "
-#| "consumption of their software!"
 msgid ""
 "The Blue Angel award criteria reflect KDE’s values and those of the larger "
 "FOSS movement seamlessly. Free & Open Source Software guarantees "
@@ -1570,34 +1442,27 @@ msgid ""
 "and secure software for devices that might otherwise be discarded as e-waste "
 "and end up polluting landfills."
 msgstr ""
-"Усі ці критерії точно відповідають цінностям KDE та цінностям ширшого руху "
-"FOSS. У межах вільного програмного забезпечення із відкритим кодом "
-"гарантовано прозорість та контроль з боку користувачів, а не продавців або "
-"надавачів послуг із супроводу програмного забезпечення. Це надає змогу "
-"користувачам визначати потрібні їм параметри програмного забезпечення та, "
-"чим часто нехтують, параметри обладнання. Наприклад, користувачі можуть "
-"знизити енергоспоживання програм без втрати функціональних можливостей, "
-"встановивши лише потрібні їм компоненти, не більше і не менше; та уникнути "
-"реклами та аналізу даних, які запускають непотрібні фонові процеси, "
-"споживаючи зайві ресурси. Що стосується розробників FOSS, то вони, типово, "
-"продовжують супровід обладнання, яке промислові гіганти вважають застарілим, "
-"надаючи користувачам сучасне і безпечне програмне забезпечення для "
-"пристроїв, які за інших умов було б утилізовано як застарілі, і які б просто "
-"вирушили на смітник. Якщо коротко, наслідком свободи і прозорості для "
-"користувача, які гарантовано ліцензуванням вільного програмного "
-"забезпечення, є те, що користвач і спільноти можуть впливати на фактори, які "
-"визначають споживання ресурсів їхнім програмним забезпеченням!"
+"Критерії нагородження «Блакитний ангел» точно збігаються цінностями KDE та "
+"ширшого руху FOSS. Усі ці критерії точно відповідають цінностям KDE та "
+"цінностям ширшого руху FOSS. У межах вільного програмного забезпечення із "
+"відкритим кодом гарантовано прозорість та контроль з боку користувачів, а не "
+"продавців або надавачів послуг із супроводу програмного забезпечення. Це "
+"надає змогу користувачам визначати потрібні їм параметри програмного "
+"забезпечення та, чим часто нехтують, параметри обладнання. Наприклад, "
+"користувачі можуть знизити енергоспоживання програм без втрати "
+"функціональних можливостей, встановивши лише потрібні їм компоненти, не "
+"більше і не менше; та уникнути реклами та аналізу даних, які запускають "
+"непотрібні фонові процеси, споживаючи зайві ресурси. Що стосується "
+"розробників FOSS, то вони, типово, продовжують супровід обладнання, яке "
+"промислові гіганти вважають застарілим, надаючи користувачам сучасне і "
+"безпечне програмне забезпечення для пристроїв, які за інших умов було б "
+"утилізовано як застарілі, і які б просто вирушили на смітник. Якщо коротко, "
+"наслідком свободи і прозорості для користувача, які гарантовано "
+"ліцензуванням вільного програмного забезпечення, є те, що користувач і "
+"спільноти можуть впливати на фактори, які визначають споживання ресурсів "
+"їхнім програмним забезпеченням!"
 
 #: content/be4foss-handbook/handbook_web.md:282
-#, fuzzy
-#| msgid ""
-#| "Released under the GPLv2+ license, Okular is Free and Open-Source "
-#| "Software, and so was also already fulfilling many of the user autonomy "
-#| "criteria necessary to obtain the Blue Angel seal of approval. Further "
-#| "work was carried out to make Okular fully compliant with all of the Blue "
-#| "Angel criteria, and become officially recognized as providing "
-#| "transparency in energy and resource consumption, extending the potential "
-#| "hardware operating life of devices, and enabling user autonomy."
 msgid ""
 "Released under the GPLv2+ license, Okular is FOSS and therefore already "
 "fulfilling many of the user autonomy criteria necessary to obtain the Blue "
@@ -1606,31 +1471,12 @@ msgid ""
 "providing transparency in energy and resource consumption, and supporting "
 "the potential extension of the hardware operating life of devices."
 msgstr ""
-"Випущений за умов дотримання GPLv2+, Okular є вільним програмним "
-"забезпеченням із відкритим кодом, і отже, вже виконує багато із обов'язкових "
-"критеріїв автономності користувача для отримання мітки Blue Angel. Було "
-"виконано певну роботу із забезпечення повної сумісності Okular із усіма "
-"критеріями Blue Angel. Тепер програму офіційно визнано як таку, що забезпечу "
-"прозорість у енерго- і ресурсоспоживанні, продовжує потенційний строк "
-"експлуатації пристроїв та уможливлює автономність користувача."
 
 #: content/be4foss-handbook/handbook_web.md:284
 msgid "![Icon for KDE’s popular application Okular.](images/sec2_okular.png)"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:286
-#, fuzzy
-#| msgid ""
-#| "Okular works on Linux, Windows, Android and Plasma Mobile, and is "
-#| "available to [download](https://okular.kde.org/download/) for all GNU/"
-#| "Linux distributions, as a standalone package from [Flathub](https://"
-#| "flathub.org/apps/search/okular) and the [Snap Store](https://snapcraft.io/"
-#| "search?q=okular), through the [KDE F-Droid release repository](https://"
-#| "cdn.kde.org/android/stable-releases/fdroid/repo/) for Android, as well as "
-#| "from the [Microsoft Store](https://www.microsoft.com/en-us/p/"
-#| "okular/9n41msq1wnm8#activetab=pivot:overviewtab). Being FOSS, the source "
-#| "code is also readily available at [Okular's GitLab repository](https://"
-#| "invent.kde.org/graphics/okular) for all to use, study, share, and improve."
 msgid ""
 "Okular lets you check digital signatures and sign documents yourself, as "
 "well as include annotated text and comments directly embedded into the "
@@ -1642,16 +1488,6 @@ msgid ""
 "org/graphics/okular) for all to use, study, share, improve, and most of all, "
 "enjoy."
 msgstr ""
-"Okular працює у Linux, Windows, Android та Plasma Mobile. Пакунки з "
-"програмою можна [отримати](https://okular.kde.org/download/) для усіх "
-"дистрибутивів GNU/Linux, як окремий пакунок з [Flathub](https://flathub.org/"
-"apps/search/okular) та [Snap Store](https://snapcraft.io/search?q=okular), "
-"зі [сховища випусків KDE F-Droid](https://cdn.kde.org/android/stable-"
-"releases/fdroid/repo/) for Android, а також із [Microsoft Store](https://www."
-"microsoft.com/en-us/p/okular/9n41msq1wnm8#activetab=pivot:overviewtab). "
-"Оскільки це вільне програмне забезпечення із відкритим кодом, початковий код "
-"також можна отримати зі [сховища GitLab Okular](https://invent.kde.org/"
-"graphics/okular) для використання, вивчення, оприлюднення та удосконалення."
 
 #: content/be4foss-handbook/handbook_web.md:288
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:36
@@ -1801,16 +1637,12 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:329
-#, fuzzy
-#| msgid "Energy Efficiency"
 msgid "(A) Resource & Energy Efficiency"
-msgstr "Енергоефективність"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:331
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "(B) Potential Hardware Operating Life"
-msgstr "Експлуатаційний ресурс обладнання"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:333
 #: content/be4foss-handbook/handbook_web.md:1046
@@ -1864,10 +1696,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:347
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "(A) How To Measure Your Software"
-msgstr "Виміряйте споживання енергії вашим програмним забезпеченням"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:349
 msgid ""
@@ -1919,10 +1749,8 @@ msgid "The laboratory setup requires 1 power meter and at least 2 computers:"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:365
-#, fuzzy
-#| msgid "Power meter devices"
 msgid "*Power Meter*"
-msgstr "Пристрої вимірювання потужності"
+msgstr "*Вимірювання потужності*"
 
 #: content/be4foss-handbook/handbook_web.md:367
 msgid ""
@@ -2032,24 +1860,12 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:397
-#, fuzzy
-#| msgid ""
-#| "![Apple's carbon footprint. From Apple (2019), \"Environmental "
-#| "Responsibility Report: 2019 Progress Report, covering fiscal year 2018\". "
-#| "(Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/"
-#| "licenses/CC-BY-SA-4.0.html) license. Design by Anita Sengupta.)](/blog/"
-#| "images/apple-report.png)"
 msgid ""
 "![Overview of laboratory setup: System Under Test (SUT), Power Meter (PM), "
 "and Data Aggregator and Evaluator (DAE). (Image from KDE published under a "
 "[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design "
 "by Lana Lutz.)](images/sec3_lab-setup_modified.png)"
 msgstr ""
-"![Вуглецевий слід Apple. З даних Apple (2019), «Звіт щодо відповідальності "
-"за навколишнє середовище: Звіт щодо поступу у 2019 році, що містить дані "
-"фіскального року 2018». (Зображення від KDE, оприлюднено за умов дотримання "
-"ліцензії [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html). Дизайн "
-"від Аніти Сенгупти.)](/blog/images/apple-report.png)"
 
 #: content/be4foss-handbook/handbook_web.md:399
 msgid "System Under Test (SUT)"
@@ -2095,10 +1911,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:413
-#, fuzzy
-#| msgid "Standard Usage Scenarios"
 msgid "Preparing The Standard Usage Scenario (SUS)"
-msgstr "Стандартні сценарії користування"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:415
 msgid "Preparing the SUS requires the following:"
@@ -2133,24 +1947,12 @@ msgid "Running the SUS for at least 5 minutes."
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:427
-#, fuzzy
-#| msgid ""
-#| "![Apple's carbon footprint. From Apple (2019), \"Environmental "
-#| "Responsibility Report: 2019 Progress Report, covering fiscal year 2018\". "
-#| "(Image from KDE published under a [CC-BY-SA-4.0](https://spdx.org/"
-#| "licenses/CC-BY-SA-4.0.html) license. Design by Anita Sengupta.)](/blog/"
-#| "images/apple-report.png)"
 msgid ""
 "![Steps for preparing Standard Usage Scenario (SUS) scripts to measure the "
 "energy consumption of software. (Image from KDE published under a [CC-BY-"
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by Lana "
 "Lutz.)](images/sec3_PreparingSUS.png)"
 msgstr ""
-"![Вуглецевий слід Apple. З даних Apple (2019), «Звіт щодо відповідальності "
-"за навколишнє середовище: Звіт щодо поступу у 2019 році, що містить дані "
-"фіскального року 2018». (Зображення від KDE, оприлюднено за умов дотримання "
-"ліцензії [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html). Дизайн "
-"від Аніти Сенгупти.)](/blog/images/apple-report.png)"
 
 #: content/be4foss-handbook/handbook_web.md:429
 msgid ""
@@ -2179,10 +1981,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:435
-#, fuzzy
-#| msgid "Automation Tools"
 msgid "More Emulation Tools"
-msgstr "Засоби автоматизації"
+msgstr "Додаткові інструменти імітації"
 
 #: content/be4foss-handbook/handbook_web.md:437
 msgid ""
@@ -2291,7 +2091,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:470
 msgid "The options are as follows:"
-msgstr ""
+msgstr "Параметри є такими:"
 
 #: content/be4foss-handbook/handbook_web.md:472
 msgid "`-s cdmn`"
@@ -2303,7 +2103,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:476
 msgid "`-i1`"
-msgstr ""
+msgstr "`-i1`"
 
 #: content/be4foss-handbook/handbook_web.md:478
 msgid "sampling interval of 1 second"
@@ -2311,7 +2111,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:480
 msgid "`-P`"
-msgstr ""
+msgstr "`-P`"
 
 #: content/be4foss-handbook/handbook_web.md:482
 msgid ""
@@ -2321,7 +2121,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:484
 msgid "`--sep 59`"
-msgstr ""
+msgstr "`--sep 59`"
 
 #: content/be4foss-handbook/handbook_web.md:486
 msgid "semicolon separator"
@@ -2370,10 +2170,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:504
-#, fuzzy
-#| msgid "Standard Usage Scenarios"
 msgid "Standard Usage Scenario: *OS + Application In Use*"
-msgstr "Стандартні сценарії користування"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:506
 msgid ""
@@ -2453,7 +2251,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:534
 msgid "CSV Files"
-msgstr ""
+msgstr "Файли CSV"
 
 #: content/be4foss-handbook/handbook_web.md:536
 msgid ""
@@ -2518,12 +2316,12 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:557
 #: content/be4foss-handbook/handbook_web.md:558
 msgid "YYYY-MM-DD HH:MM:SS ;"
-msgstr ""
+msgstr "YYYY-MM-DD HH:MM:SS ;"
 
 #: content/be4foss-handbook/handbook_web.md:554
 #: content/be4foss-handbook/handbook_web.md:564
 msgid "startTestrun ;"
-msgstr ""
+msgstr "startTestrun ;"
 
 #: content/be4foss-handbook/handbook_web.md:555
 #: content/be4foss-handbook/handbook_web.md:556
@@ -2541,24 +2339,24 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid ";"
-msgstr ""
+msgstr ";"
 
 #: content/be4foss-handbook/handbook_web.md:555
 msgid "action1"
-msgstr ""
+msgstr "action1"
 
 #: content/be4foss-handbook/handbook_web.md:556
 msgid "action2"
-msgstr ""
+msgstr "action2"
 
 #: content/be4foss-handbook/handbook_web.md:557
 msgid "action3"
-msgstr ""
+msgstr "action3"
 
 #: content/be4foss-handbook/handbook_web.md:558
 #: content/be4foss-handbook/handbook_web.md:575
 msgid "stopTestrun ;"
-msgstr ""
+msgstr "stopTestrun ;"
 
 #: content/be4foss-handbook/handbook_web.md:560
 msgid ""
@@ -2569,80 +2367,80 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:564
 msgid "2022-05-21 18:54:36 ;"
-msgstr ""
+msgstr "2022-05-21 18:54:36 ;"
 
 #: content/be4foss-handbook/handbook_web.md:565
 msgid "2022-05-21 18:55:41 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:41 ;"
 
 #: content/be4foss-handbook/handbook_web.md:565
 msgid "go to line 100"
-msgstr ""
+msgstr "go to line 100"
 
 #: content/be4foss-handbook/handbook_web.md:566
 msgid "2022-05-21 18:55:46 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:46 ;"
 
 #: content/be4foss-handbook/handbook_web.md:566
 msgid "toggle comment"
-msgstr ""
+msgstr "toggle comment"
 
 #: content/be4foss-handbook/handbook_web.md:567
 msgid "2022-05-21 18:55:50 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:50 ;"
 
 #: content/be4foss-handbook/handbook_web.md:567
 msgid "find kconfig"
-msgstr ""
+msgstr "find kconfig"
 
 #: content/be4foss-handbook/handbook_web.md:568
 msgid "2022-05-21 18:55:55 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:55 ;"
 
 #: content/be4foss-handbook/handbook_web.md:568
 msgid "move between searches 6 times"
-msgstr ""
+msgstr "move between searches 6 times"
 
 #: content/be4foss-handbook/handbook_web.md:569
 #: content/be4foss-handbook/handbook_web.md:570
 msgid "2022-05-21 18:56:05 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:05 ;"
 
 #: content/be4foss-handbook/handbook_web.md:569
 msgid "close find bar"
-msgstr ""
+msgstr "close find bar"
 
 #: content/be4foss-handbook/handbook_web.md:570
 msgid "standby 30 sec"
-msgstr ""
+msgstr "standby 30 sec"
 
 #: content/be4foss-handbook/handbook_web.md:571
 msgid "2022-05-21 18:56:35 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:35 ;"
 
 #: content/be4foss-handbook/handbook_web.md:571
 msgid "go to line 200"
-msgstr ""
+msgstr "go to line 200"
 
 #: content/be4foss-handbook/handbook_web.md:572
 msgid "2022-05-21 18:56:40 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:40 ;"
 
 #: content/be4foss-handbook/handbook_web.md:572
 msgid "select 10 lines"
-msgstr ""
+msgstr "select 10 lines"
 
 #: content/be4foss-handbook/handbook_web.md:573
 msgid "2022-05-21 18:56:43 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:43 ;"
 
 #: content/be4foss-handbook/handbook_web.md:573
 msgid "delete selected text"
-msgstr ""
+msgstr "delete selected text"
 
 #: content/be4foss-handbook/handbook_web.md:574
 msgid "[…] ;"
-msgstr ""
+msgstr "[…] ;"
 
 #: content/be4foss-handbook/handbook_web.md:574
 msgid "[…]"
@@ -2653,10 +2451,8 @@ msgid "2022-05-21 18:59:13 ;"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:577
-#, fuzzy
-#| msgid "Energy Conservation"
 msgid "Energy Consumption Data"
-msgstr "Заощадження енергії"
+msgstr "Дані щодо споживання енергії"
 
 #: content/be4foss-handbook/handbook_web.md:579
 msgid ""
@@ -2672,12 +2468,12 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid "Zeit ;"
-msgstr ""
+msgstr "Zeit ;"
 
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid "Wert 1-avg[W]"
-msgstr ""
+msgstr "Wert 1-avg[W]"
 
 #: content/be4foss-handbook/handbook_web.md:583
 #: content/be4foss-handbook/handbook_web.md:616
@@ -2690,45 +2486,45 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "1 ;"
-msgstr ""
+msgstr "1 ;"
 
 #: content/be4foss-handbook/handbook_web.md:583
 #: content/be4foss-handbook/handbook_web.md:584
 #: content/be4foss-handbook/handbook_web.md:585
 #: content/be4foss-handbook/handbook_web.md:586
 msgid "DD.MM.YY, HH:MM:SS ;"
-msgstr ""
+msgstr "DD.MM.YY, HH:MM:SS ;"
 
 #: content/be4foss-handbook/handbook_web.md:583
 msgid "value1"
-msgstr ""
+msgstr "value1"
 
 #: content/be4foss-handbook/handbook_web.md:584
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "2 ;"
-msgstr ""
+msgstr "2 ;"
 
 #: content/be4foss-handbook/handbook_web.md:584
 msgid "value2"
-msgstr ""
+msgstr "value2"
 
 #: content/be4foss-handbook/handbook_web.md:585
 msgid "3 ;"
-msgstr ""
+msgstr "3 ;"
 
 #: content/be4foss-handbook/handbook_web.md:585
 msgid "value3"
-msgstr ""
+msgstr "value3"
 
 #: content/be4foss-handbook/handbook_web.md:586
 #: content/be4foss-handbook/handbook_web.md:651
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "4 ;"
-msgstr ""
+msgstr "4 ;"
 
 #: content/be4foss-handbook/handbook_web.md:586
 msgid "value4"
-msgstr ""
+msgstr "value4"
 
 #: content/be4foss-handbook/handbook_web.md:588
 msgid ""
@@ -2934,15 +2730,15 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "Date-Time ;"
-msgstr ""
+msgstr "Date-Time ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "cpu ;"
-msgstr ""
+msgstr "cpu ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "mem ;"
-msgstr ""
+msgstr "mem ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "net_rec ;"
@@ -3388,7 +3184,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:770
 msgid "Translations"
-msgstr ""
+msgstr "Переклади"
 
 #: content/be4foss-handbook/handbook_web.md:772
 msgid ""
@@ -3527,16 +3323,10 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:811
 #: content/be4foss-handbook/handbook_web.md:847
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "For examples of the above for Okular, see KDE’s [Blue Angel Applications]"
 "(https://invent.kde.org/teams/eco/blue-angel-application) repository:"
 msgstr ""
-"Програми Blue Angel (Сховище GitLab): https://invent.kde.org/teams/eco/blue-"
-"angel-application"
 
 #: content/be4foss-handbook/handbook_web.md:813
 msgid ""
@@ -3709,7 +3499,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:864
 msgid "(0) *Prerequisite*"
-msgstr ""
+msgstr "(0) *Prerequisite*"
 
 #: content/be4foss-handbook/handbook_web.md:866
 msgid ""
@@ -3799,7 +3589,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:900
 msgid "Copy"
-msgstr ""
+msgstr "Copy"
 
 #: content/be4foss-handbook/handbook_web.md:906
 msgid "into the template input field."
@@ -3812,7 +3602,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:910
 #: content/be4foss-handbook/handbook_web.md:966
 msgid "Click “Save”."
-msgstr ""
+msgstr "Натисніть «Зберегти»."
 
 #: content/be4foss-handbook/handbook_web.md:912
 msgid "The device will restart; connect to it again."
@@ -3826,7 +3616,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:916
 msgid "(4) *Calibration*"
-msgstr ""
+msgstr "(4) *Калібрування*"
 
 #: content/be4foss-handbook/handbook_web.md:920
 msgid ""
@@ -4059,10 +3849,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1009
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "(B) Hardware Operating Life"
-msgstr "Експлуатаційний ресурс обладнання"
+msgstr "(Б) Експлуатаційний ресурс обладнання"
 
 #: content/be4foss-handbook/handbook_web.md:1011
 msgid ""
@@ -4146,26 +3934,20 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1050
-#, fuzzy
-#| msgid "Data output"
 msgid "Data Formats"
-msgstr "Виведення даних"
+msgstr "Формати даних"
 
 #: content/be4foss-handbook/handbook_web.md:1051
 msgid "Transparency"
-msgstr ""
+msgstr "Прозорість"
 
 #: content/be4foss-handbook/handbook_web.md:1052
-#, fuzzy
-#| msgid "Community & Support"
 msgid "Continuity Of Support"
-msgstr "Підтримка і спільнота"
+msgstr "Неперервна підтримка"
 
 #: content/be4foss-handbook/handbook_web.md:1053
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Uninstallability"
-msgstr "Сталість"
+msgstr "Неможливість вилучення"
 
 #: content/be4foss-handbook/handbook_web.md:1054
 msgid "Offline Capability"
@@ -4181,7 +3963,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1057
 msgid "Documentation"
-msgstr ""
+msgstr "Документація"
 
 #: content/be4foss-handbook/handbook_web.md:1059
 msgid ""
@@ -4210,7 +3992,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1065
 msgid "2.1 Data Formats"
-msgstr ""
+msgstr "2.1 Формати даних"
 
 #: content/be4foss-handbook/handbook_web.md:1067
 msgid "The main information to include in documentation:"
@@ -4271,10 +4053,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1091
-#, fuzzy
-#| msgid "Community & Support"
 msgid "2.3 Continuity Of Support"
-msgstr "Підтримка і спільнота"
+msgstr "2.3 Неперервна підтримка"
 
 #: content/be4foss-handbook/handbook_web.md:1093
 msgid "Details about continuity of support to document include:"
@@ -4316,7 +4096,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1107
 msgid "2.4 Uninstallability"
-msgstr ""
+msgstr "2.4 Неможливість вилучення"
 
 #: content/be4foss-handbook/handbook_web.md:1109
 msgid ""
@@ -4414,7 +4194,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1141
 msgid "2.8 Documentation"
-msgstr ""
+msgstr "2.8 Документація"
 
 #: content/be4foss-handbook/handbook_web.md:1143
 msgid "This includes the following:"
@@ -4480,17 +4260,11 @@ msgid "Submitting To RAL"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1165
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "For examples of all of the above documentation, see KDE’s [Blue Angel "
 "Applications](https://invent.kde.org/teams/eco/blue-angel-application) "
 "repository."
 msgstr ""
-"Програми Blue Angel (Сховище GitLab): https://invent.kde.org/teams/eco/blue-"
-"angel-application"
 
 #: content/be4foss-handbook/handbook_web.md:1167
 msgid ""
@@ -4512,10 +4286,8 @@ msgid "Example Submission Documents"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1173
-#, fuzzy
-#| msgid "Completing the Blauer Engel application for Okular"
 msgid "Below are examples of Blue Angel documentation for Okular."
-msgstr "Подання запиту щодо надання Blauer Engel для Okular"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1175
 msgid ""
@@ -4574,10 +4346,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1191
-#, fuzzy
-#| msgid "Sustainable Software Goal"
 msgid "Notable Sustainable Software Initiatives"
-msgstr "Мета щодо створення програмного забезпечення для стійкого розвитку"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1193
 msgid ""
@@ -4650,15 +4420,13 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1217
-#, fuzzy
-#| msgid "About Me"
 msgid "About"
-msgstr "Про себе"
+msgstr "Про нас"
 
 #: content/be4foss-handbook/handbook_web.md:1219
 #: content/opt-green-handbook/handbook_web.md:22
 msgid "Authors"
-msgstr ""
+msgstr "Автори"
 
 #: content/be4foss-handbook/handbook_web.md:1221
 msgid ""
@@ -4687,7 +4455,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:1225
 #: content/opt-green-handbook/handbook_web.md:26
 msgid "Acknowledgments"
-msgstr ""
+msgstr "Подяки"
 
 #: content/be4foss-handbook/handbook_web.md:1227
 msgid ""
@@ -4702,13 +4470,6 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1229
-#, fuzzy
-#| msgid ""
-#| "We would love to know what you think. Please join the conversation on our "
-#| "[mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#| "efficiency) or [Matrix room](https://webchat.kde.org/#/room/#energy-"
-#| "efficiency:kde.org) or via the [issue trackers](https://invent.kde.org/"
-#| "groups/teams/eco/-/issues) at our GitLab repositories!"
 msgid ""
 "People who are interested in contributing to KDE Eco are encouraged to join "
 "the [mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
@@ -4717,11 +4478,6 @@ msgid ""
 "Eco sprints and in-person or online meetups. Learn more at out [website]"
 "(https://eco.kde.org/get-involved/)."
 msgstr ""
-"Нам цікаві ваші думки. Будь ласка, долучайтеся до спілкування у наших "
-"[списках листування](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-"efficiency) або [кімнаті Matrix](https://webchat.kde.org/#/room/#energy-"
-"efficiency:kde.org) або у [системі стеження за вадами](https://invent.kde."
-"org/groups/teams/eco/-/issues) наших сховищ GitLab!"
 
 #: content/be4foss-handbook/handbook_web.md:1231
 msgid ""
@@ -4736,7 +4492,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:1233
 #: content/opt-green-handbook/handbook_web.md:49
 msgid "License"
-msgstr ""
+msgstr "Ліцензування"
 
 #: content/be4foss-handbook/handbook_web.md:1235
 msgid ""
@@ -4756,35 +4512,31 @@ msgid "Funding Notice"
 msgstr "Зауваження щодо фінансування"
 
 #: content/be4foss-handbook/handbook_web.md:1239
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The *Blauer Engel Für FOSS* project was funded by the Federal German "
 "Environment Agency (UBA) and the Federal Ministry for the Environment, "
 "Nature Conservation, Nuclear Safety and Consumer Protection (BMUV). The "
 "funds are made available by resolution of the German Bundestag."
 msgstr ""
-"Проєкт BE4FOSS було профінансовано Федеральною Агенцією з навколишнього "
-"середовища та Федеральним міністерством навколишнього середовища, збереження "
-"природи, ядерної безпеки та захисту споживачів (BMUV<sup><a id=\"fnr.1\" "
-"class=\"footref\" href=\"#fn.1\">1</sup>). Доступ до фінансування було "
-"затверджено Бундестагом ФРН."
+"Проєкт *Blauer Engel Für FOSS* було профінансовано Федеральною Агенцією з "
+"навколишнього середовища Німеччини (UBA) та Федеральним міністерством "
+"навколишнього середовища, збереження природи, ядерної безпеки та захисту "
+"споживачів (BMUV). Доступ до фінансування було затверджено Бундестагом ФРН."
 
 #: content/be4foss-handbook/handbook_web.md:1241
 #: content/opt-green-handbook/handbook_web.md:739
 msgid "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 msgstr ""
+"![Логотип Федеральної Агенції з навколишнього середовища Німеччини.](images/"
+"sec4_uba.jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:1243
 msgid ""
 "![Logo of the Federal Ministry for the Environment, Nature Conservation, "
 "Nuclear Safety and Consumer Protection.](images/sec4_bmuv.png)"
 msgstr ""
+"![Логотип Федерального міністерства з навколишнього середовища, збереження "
+"природи, ядерної безпеки та захисту споживачів.](images/sec4_bmuv.png)"
 
 #: content/be4foss-handbook/handbook_web.md:1245
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
@@ -7694,10 +7446,8 @@ msgstr "Ел. пошта: `joseph [at] kde.org`"
 
 #. grow-green.header
 #: content/grow-green/_index.md:0 i18n/en.yaml:211
-#, fuzzy
-#| msgid "Be Green"
 msgid "Grow Green"
-msgstr "Будьте зеленими"
+msgstr "Зелене зростання"
 
 #. make-green.header
 #: content/make-green/_index.md:0 i18n/en.yaml:167
@@ -7710,34 +7460,24 @@ msgstr "Перехід у зелений режим"
 
 #: content/opt-green-handbook/_index.md:0
 #: content/opt-green-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Opt Green"
 msgid "Opting Green"
-msgstr "Вибір зеленого"
+msgstr "Зелений вибір"
 
 #: content/opt-green-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Opt Green Handbook"
-msgstr "Підручник з KDE Eco"
+msgstr "Підручник «Зелений вибір KDE»"
 
 #: content/opt-green-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Opt Green: Sustainable Software For Sustainable Hardware"
 msgid "How Sustainable Software Makes for Sustainable Hardware"
 msgstr ""
-"Вибирай зелене: програмне забезпечення стійкого розвитку для обладнання "
-"стійкого розвитку"
 
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "htb"
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:20
-#, fuzzy
-#| msgid "About This Website"
 msgid "About This Handbook"
-msgstr "Про цей сайт"
+msgstr "Про цей підручник"
 
 #: content/opt-green-handbook/handbook_web.md:24
 msgid ""
@@ -7863,10 +7603,8 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:63
 #: content/opt-green-handbook/handbook_web.md:208
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Part II: Digital Sustainability"
-msgstr "Сталість"
+msgstr "Частина II: Цифрова сталість"
 
 #: content/opt-green-handbook/handbook_web.md:64
 #: content/opt-green-handbook/handbook_web.md:401
@@ -7899,7 +7637,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:70
 msgid "Let's get started!"
-msgstr ""
+msgstr "Почнімо!"
 
 #: content/opt-green-handbook/handbook_web.md:73
 msgid ""
@@ -7907,6 +7645,9 @@ msgid ""
 "org/licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste."
 "jpg)-->\n"
 msgstr ""
+"<!--![Photograph of e-waste. (Image published under a [CC0-1.0](https://spdx."
+"org/licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste."
+"jpg)-->\n"
 
 #: content/opt-green-handbook/handbook_web.md:75
 msgid ""
@@ -7915,14 +7656,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:77
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid "**The most environmentally-friendly device is …**"
-msgstr ""
-"Наш девіз: **Найкращим для навколишнього середовища пристроєм є пристрій, "
-"яким ви вже володієте.**"
+msgstr "**Найкращим для навколишнього середовища пристроєм є…**"
 
 #: content/opt-green-handbook/handbook_web.md:79
 msgid "Think about it for a minute."
@@ -7974,17 +7709,6 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:89
-#, fuzzy
-#| msgid ""
-#| "![A young man is pictured burning electrical wires to recover copper at "
-#| "Agbogbloshie, Ghana, as another metal scrap worker arrives with more "
-#| "wires to be burned. A 2018 article in the \"International Journal of "
-#| "Cancer\" reports a [correlation](https://onlinelibrary.wiley.com/doi/"
-#| "abs/10.1002/ijc.31902) between proximity to e-waste burn sites and "
-#| "childhood lymphoma. ([Image](https://en.wikipedia.org/wiki/File:"
-#| "Agbogbloshie,_Ghana_-_September_2019.jpg) by Muntaka Chasant, published "
-#| "under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) "
-#| "license.)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper from e-"
 "waste at Agbogbloshie, Ghana, as another metal scrap worker arrives with "
@@ -7992,16 +7716,6 @@ msgid ""
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](images/"
 "sec1_800px-Agbogbloshie_Ghana_September_2019.jpg)"
 msgstr ""
-"![Зображено молодого чоловіка, який спалює електричні дроти, щоб отримати "
-"мідь в Агбогблоші, Гана, а інший робітник, який займається металобрухтом, "
-"тримає дроти, які потрібно спалити. Стаття 2018 року в «Міжнародному журналі "
-"раку» повідомляє про [кореляцію](https://onlinelibrary.wiley.com/doi/"
-"abs/10.1002/ijc.31902) між близькістю до місць спалювання електронних "
-"відходів і дитячою лімфомою. ([Знімок](https://en.wikipedia.org/wiki/File:"
-"Agbogbloshie,_Ghana_-_September_2019.jpg) від Мунтаки Часанта, оприлюднено "
-"за умов дотримання ліцензії [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-"
-"SA-4.0.html).)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019."
-"webp)"
 
 #: content/opt-green-handbook/handbook_web.md:91
 msgid ""
@@ -8142,13 +7856,6 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:117
-#, fuzzy
-#| msgid ""
-#| "![In 2016, 44.7 million metric tons of e-waste was generated. This is "
-#| "estimated to be equivalent to 4,500 Eiffel Towers, which, when stacked, "
-#| "is 17 times higher than Mount Everest. (Image from KDE published under a "
-#| "[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. "
-#| "Design by Anita Sengupta.)](/blog/images/mountain.png)"
 msgid ""
 "![62 billion kg of e-waste was generated in 2022. This is equivalent to 1.55 "
 "million trucks wrapped all the way around the Earth's equator. The amount "
@@ -8156,12 +7863,6 @@ msgid ""
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by Anita "
 "Sengupta.)](images/sec1_e-waste-trucks-on-equator-illustration.png)"
 msgstr ""
-"![У 2016 році було створено 44,7 мільйона тонн електронних відходів, що, за "
-"оцінками, еквівалентно 4500 Ейфелевим вежам. Якщо поставити Ейфелеві вежі "
-"одна на одну, результат буде в 17 разів вищий, ніж гора Еверест. (Зображення "
-"від KDE, оприлюднено за умов дотримання ліцензії [CC-BY-SA-4.0](https://spdx."
-"org/licenses/CC-BY-SA-4.0.html). Дизайн від Аніти Сенгупти.)](/blog/images/"
-"mountain.png)"
 
 #: content/opt-green-handbook/handbook_web.md:119
 msgid ""
@@ -8290,6 +7991,15 @@ msgid ""
 "generation-mix). So, ok, half of all energy in ICT is consumed in device "
 "production, but what exactly is the carbon footprint? \\cmt{CHECK}-->\n"
 msgstr ""
+"<!--In a 2019 report from the International Energy Agency, the ICT sector is "
+"estimated to consume [2000 TWH of energy](https://dl.acm.org/doi/"
+"pdf/10.1145/3613207), half of which, 1000 TWH, comes from manufacturing "
+"alone. It is worth underscoring here that energy consumption is not the same "
+"as carbon emissions. Carbon emissions depend on the particular mix of fuels "
+"used for generating electricity, referred to as the [electricity or power "
+"generation mix](https://www.planete-energies.com/en/medias/close/what-power-"
+"generation-mix). So, ok, half of all energy in ICT is consumed in device "
+"production, but what exactly is the carbon footprint? \\cmt{CHECK}-->\n"
 
 #: content/opt-green-handbook/handbook_web.md:139
 msgid ""
@@ -8323,16 +8033,10 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:145
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid ""
 "Our response: **The most environmentally-friendly device is the one you "
 "already own!**"
 msgstr ""
-"Наш девіз: **Найкращим для навколишнього середовища пристроєм є пристрій, "
-"яким ви вже володієте.**"
 
 #: content/opt-green-handbook/handbook_web.md:147
 msgid ""
@@ -8350,10 +8054,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:151
-#, fuzzy
-#| msgid "Free Software"
 msgid "Hardware, Meet Software"
-msgstr "Вільне програмне забезпечення"
+msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:153
 msgid ""
@@ -8404,10 +8106,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:163
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "Hardware Demands"
-msgstr "Експлуатаційний ресурс обладнання"
+msgstr "Вимоги до обладнання"
 
 #: content/opt-green-handbook/handbook_web.md:165
 msgid ""
@@ -8673,10 +8373,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:212
-#, fuzzy
-#| msgid "Install Free & Open Source Software"
 msgid "What Is Free & Open Source Software (FOSS)?"
-msgstr "Встановіть вільне програмне забезпечення з відкритим кодом"
+msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:214
 msgid ""
@@ -9254,15 +8952,11 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:353
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid ""
 "**The most environmentally-friendly device is the one you already own.**"
 msgstr ""
-"Наш девіз: **Найкращим для навколишнього середовища пристроєм є пристрій, "
-"яким ви вже володієте.**"
+"**Найкращим для навколишнього середовища пристроєм є пристрій, яким ви вже "
+"володієте.**"
 
 #: content/opt-green-handbook/handbook_web.md:355
 msgid ""
@@ -9809,7 +9503,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:470
 msgid "\"Simple by default, powerful when needed.\""
-msgstr ""
+msgstr "«Типово проста, але потужна, якщо потрібно.»"
 
 #: content/opt-green-handbook/handbook_web.md:472
 msgid ""
@@ -9923,6 +9617,10 @@ msgid ""
 "join/start-your-own/)\" and \"[Linux Repair Café](https://www.repaircafe.org/"
 "linux-repair-cafe/)\" webpages."
 msgstr ""
+"[Repair Cafe International](https://www.repaircafe.org/en/visit/) містить "
+"дуже корисну інформацію на сторінках «[Start Your Own](https://www."
+"repaircafe.org/en/join/start-your-own/)» і «[Linux Repair Café](https://www."
+"repaircafe.org/linux-repair-cafe/)»."
 
 #: content/opt-green-handbook/handbook_web.md:497
 msgid ""
@@ -9931,6 +9629,10 @@ msgid ""
 "Community Repair Groups](https://therestartproject.org/end-of-windows-10-"
 "toolkit-for-repair-groups/)\"."
 msgstr ""
+"[Проєкт «Перезапуск»](https://therestartproject.org/repair-options/find-your-"
+"repair-community/) приготував сторінку «[End of Windows 10: A Toolkit for "
+"Community Repair Groups](https://therestartproject.org/end-of-windows-10-"
+"toolkit-for-repair-groups/)»."
 
 #: content/opt-green-handbook/handbook_web.md:499
 msgid ""
@@ -10481,10 +10183,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:619
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Installing A FOSS Operating System"
-msgstr "Отримайте операційну систему FOSS"
+msgstr "Встановлення операційної системи FOSS"
 
 #: content/opt-green-handbook/handbook_web.md:621
 msgid ""
@@ -10495,14 +10195,16 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:623
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
+"Це добровільна допомога з метою показати новим користувачам, як вони можуть "
+"допомгти собі самі."
 
 #: content/opt-green-handbook/handbook_web.md:624
 msgid "No contract is being established."
-msgstr ""
+msgstr "Ніяких контрактів не укладається."
 
 #: content/opt-green-handbook/handbook_web.md:625
 msgid "Devices and data can break when you touch them."
-msgstr ""
+msgstr "Пристрої і дані може бути пошкоджено, якщо з ними працюють."
 
 #: content/opt-green-handbook/handbook_web.md:626
 msgid ""
@@ -10596,10 +10298,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:648
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Using The FOSS Operating System"
-msgstr "Отримайте операційну систему FOSS"
+msgstr "Користування операційною системою FOSS"
 
 #: content/opt-green-handbook/handbook_web.md:650
 msgid ""
@@ -10793,10 +10493,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:695
-#, fuzzy
-#| msgid "Resources"
 msgid "Additional Resources"
-msgstr "Ресурси"
+msgstr "Додаткові ресурси"
 
 #: content/opt-green-handbook/handbook_web.md:697
 msgid "Organizing An Install Event"
@@ -10898,27 +10596,16 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:722
-#, fuzzy
-#| msgid ""
-#| "![KDE’s popular multi-platform PDF reader and universal document viewer "
-#| "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
-#| "published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
-#| "license.)](/blog/images/sec2_okular-BE-logo.png)"
 msgid ""
 "![Plasma Mobile is an open-source user interface for mobile devices "
 "developed by the KDE community. (Image from KDE released under a [CC-BY-4.0]"
 "(https://spdx.org/licenses/CC-BY-4.0.html) license.)](images/"
 "sec3_plasmaphone.png)"
 msgstr ""
-"![Популярну багатоплатформову програму для читання PDF та універсальний "
-"переглядач документів від KDE, Okular, було нагороджено екоміткою Blue Angel "
-"у 2022 році. (Зображення від KDE, оприлюднено за умов дотримання ліцензії "
-"[CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](/blog/images/"
-"sec2_okular-BE-logo.png)"
 
 #: content/opt-green-handbook/handbook_web.md:724
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Вирішення проблем"
 
 #: content/opt-green-handbook/handbook_web.md:726
 msgid ""
@@ -10974,24 +10661,12 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:737
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The *Opt Green* project from KDE Eco was funded by the Federal Environment "
 "Agency and the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety (BMUKN). The funds are made available by "
 "resolution of the German Bundestag."
 msgstr ""
-"Проєкт BE4FOSS було профінансовано Федеральною Агенцією з навколишнього "
-"середовища та Федеральним міністерством навколишнього середовища, збереження "
-"природи, ядерної безпеки та захисту споживачів (BMUV<sup><a id=\"fnr.1\" "
-"class=\"footref\" href=\"#fn.1\">1</sup>). Доступ до фінансування було "
-"затверджено Бундестагом ФРН."
 
 #: content/opt-green-handbook/handbook_web.md:741
 msgid ""
@@ -11711,31 +11386,28 @@ msgstr "Мета щодо створення стійкого програмно
 
 #. grow-green.header-subtitle
 #: i18n/en.yaml:213
-#, fuzzy
-#| msgid "Develop Energy-Efficient Free & Open Source Software"
 msgid "Advocate for Energy-Efficient Free & Open Source Software"
 msgstr ""
-"Створення енергоефективного вільного і відкритого програмного забезпечення"
 
 #. grow-green.handbook.title
 #: i18n/en.yaml:215 i18n/en.yaml:227
-#, fuzzy
-#| msgid "Read the KDE Eco Handbook"
 msgid "Read The Opt Green Support Handbook"
-msgstr "Ознайомтеся із підручником з KDE Eco"
+msgstr "Ознайомтеся з підручником «Підтримка зеленого вибору»"
 
 #. grow-green.handbook.description
 #: i18n/en.yaml:217
 msgid ""
 "Learn about sustainable software and how to support new users with FOSS."
 msgstr ""
+"Дізнайтеся більше про програмне забезпечення для сталого розвитку та способи "
+"підтримки нових користувачів за допомогою вільного програмного забезпечення "
+"з відкритим кодом."
 
 #. grow-green.flyer.title
 #: i18n/en.yaml:219 i18n/en.yaml:233
-#, fuzzy
-#| msgid "KDE's Sustainable Software Goal"
 msgid "Distribute The Sustainable Software Flyer"
-msgstr "Мета щодо створення стійкого програмного забезпечення KDE"
+msgstr ""
+"Листівка щодо розповсюдження програмного забезпечення для стійкого розвитку"
 
 #. grow-green.flyer.description
 #: i18n/en.yaml:221
@@ -11743,11 +11415,13 @@ msgid ""
 "Spread the word about independent, sustainable FOSS and long-term hardware "
 "use."
 msgstr ""
+"Поширюйте інформацію про незалежне вільне програмне забезпечення для сталого "
+"розвитку та довготермінового використання обладнання."
 
 #. grow-green.install-party.title
 #: i18n/en.yaml:223 i18n/en.yaml:239
 msgid "Host Install Parties In Your Community"
-msgstr ""
+msgstr "Прихистіть вечірки встановлення у вашій спільноті"
 
 #. grow-green.install-party.description
 #: i18n/en.yaml:225
@@ -11796,7 +11470,7 @@ msgstr ""
 #. grow-green.install-party-section.button
 #: i18n/en.yaml:243
 msgid "End Of 10"
-msgstr ""
+msgstr "Кінець 10"
 
 #. endof10.text
 #: i18n/en.yaml:245
