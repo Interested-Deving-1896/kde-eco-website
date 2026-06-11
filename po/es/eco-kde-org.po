@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-09 02:07+0000\n"
-"PO-Revision-Date: 2026-06-05 17:07+0100\n"
+"PO-Revision-Date: 2026-06-10 17:51+0100\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 26.04.1\n"
+"X-Generator: Lokalize 26.04.2\n"
 
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -40,10 +40,8 @@ msgid "Be Green"
 msgstr "Sé verde"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Handbook"
-msgstr "Manual de KDE Eco"
+msgstr "Manual"
 
 #: content/be4foss-handbook/_index.md:0
 #, fuzzy
@@ -73,7 +71,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "\\ "
-msgstr ""
+msgstr "\\ "
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
@@ -81,10 +79,8 @@ msgid "\\thepage"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Chat"
 msgid "ht"
-msgstr "Chat"
+msgstr "ht"
 
 #: content/be4foss-handbook/handbook_web.md:20
 msgid "Introduction: What’s This All About?"
@@ -137,7 +133,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:28
 msgid "The book is divided into three parts:"
-msgstr ""
+msgstr "El libro está dividido en tres partes:"
 
 #: content/be4foss-handbook/handbook_web.md:30
 #: content/be4foss-handbook/handbook_web.md:37
@@ -7813,12 +7809,15 @@ msgstr ""
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 msgstr ""
+"[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:45
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux)"
 msgstr ""
+"[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
+"werkstatt/linux)"
 
 #: content/opt-green-handbook/handbook_web.md:47
 msgid ""
@@ -8779,7 +8778,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:237
 msgid "What Is Source Code?"
-msgstr ""
+msgstr "¿Qué es el código fuente?"
 
 #: content/opt-green-handbook/handbook_web.md:239
 msgid ""
@@ -11779,7 +11778,7 @@ msgstr ""
 #. grow-green.install-party-section.button
 #: i18n/en.yaml:243
 msgid "End Of 10"
-msgstr ""
+msgstr "Fin de 10"
 
 #. endof10.text
 #: i18n/en.yaml:245

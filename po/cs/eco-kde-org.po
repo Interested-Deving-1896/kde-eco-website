@@ -36,10 +36,8 @@ msgid "Be Green"
 msgstr ""
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Handbook"
-msgstr "Příručka ke KDE Eco"
+msgstr "Příručka"
 
 #: content/be4foss-handbook/_index.md:0
 #, fuzzy
@@ -2221,7 +2219,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:534
 msgid "CSV Files"
-msgstr ""
+msgstr "Soubory CSV"
 
 #: content/be4foss-handbook/handbook_web.md:536
 msgid ""
@@ -2309,7 +2307,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid ";"
-msgstr ""
+msgstr ";"
 
 #: content/be4foss-handbook/handbook_web.md:555
 msgid "action1"
@@ -2539,7 +2537,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:597
 #: content/be4foss-handbook/handbook_web.md:598
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #: content/be4foss-handbook/handbook_web.md:596
 msgid "1661611924744885 ;"
@@ -2765,7 +2763,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: content/be4foss-handbook/handbook_web.md:651
 msgid "27.08.2022 16:47:11 ;"
@@ -2801,7 +2799,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "48"
-msgstr ""
+msgstr "48"
 
 #: content/be4foss-handbook/handbook_web.md:657
 msgid "27.08.2022 16:47:17 ;"
@@ -3156,7 +3154,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:770
 msgid "Translations"
-msgstr ""
+msgstr "Překlady"
 
 #: content/be4foss-handbook/handbook_web.md:772
 msgid ""
@@ -3561,7 +3559,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:900
 msgid "Copy"
-msgstr ""
+msgstr "Kopírovat"
 
 #: content/be4foss-handbook/handbook_web.md:906
 msgid "into the template input field."
@@ -3911,9 +3909,12 @@ msgstr ""
 msgid "Data Formats"
 msgstr "Datový výstup"
 
+# Přechod sklouznutí má posunovače, kde vlevo (žádný výběr) znamená průhlednost a vpravo (výběr 100 %) znamená neprůhlednost.
+#
+# Opačně to nedává smysl.
 #: content/be4foss-handbook/handbook_web.md:1051
 msgid "Transparency"
-msgstr ""
+msgstr "Průhlednost"
 
 #: content/be4foss-handbook/handbook_web.md:1052
 #, fuzzy
@@ -3941,7 +3942,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1057
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentace"
 
 #: content/be4foss-handbook/handbook_web.md:1059
 msgid ""
@@ -4402,15 +4403,13 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1217
-#, fuzzy
-#| msgid "About Me"
 msgid "About"
-msgstr "O mně"
+msgstr "O aplikaci"
 
 #: content/be4foss-handbook/handbook_web.md:1219
 #: content/opt-green-handbook/handbook_web.md:22
 msgid "Authors"
-msgstr ""
+msgstr "Autoři"
 
 #: content/be4foss-handbook/handbook_web.md:1221
 msgid ""
@@ -5490,6 +5489,8 @@ msgstr ""
 msgid ""
 "First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular"
 msgstr ""
+"Vůbec první ekologicky certifikovaný počítačový program: Populární KDE "
+"čtečka PDF Okular"
 
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:0
 msgid ""
@@ -9587,7 +9588,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:724
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Řešení problémů"
 
 #: content/opt-green-handbook/handbook_web.md:726
 msgid ""
@@ -10326,4 +10327,4 @@ msgstr ""
 #. endof10.visit
 #: i18n/en.yaml:247
 msgid "Visit endof10.org"
-msgstr ""
+msgstr "Navštivte endof10.org"

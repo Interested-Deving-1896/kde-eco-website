@@ -38,26 +38,16 @@ msgid "Be Green"
 msgstr "绿色生活"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Handbook"
-msgstr "KDE Eco 手册"
+msgstr ""
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Demo Handbook"
-msgstr "KDE Eco 手册"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid ""
-#| "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
-#| "certify software and why it matters."
 msgid "Applying The Blue Angel Criteria To Free Software"
 msgstr ""
-"《Applying The Blue Angel Criteria To Free Software》手册详细介绍了如何对软件"
-"进行生态认证以及其重要性。"
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "A Handbook To Certifying Software As Sustainable (February 2023)"
@@ -79,36 +69,20 @@ msgid "\\thepage"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Chat"
 msgid "ht"
-msgstr "聊天室"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:20
 msgid "Introduction: What’s This All About?"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:22
-#, fuzzy
-#| msgid ""
-#| "The handbook \"Applying The Blue Angel Criteria To Free Software\" gives "
-#| "an overview of the environmental harm driven by software and how the Blue "
-#| "Angel ecolabel — the official environmental label of the German "
-#| "government — provides a benchmark for sustainable software design. Learn "
-#| "how Free & Open Source Software's values of transparency and user "
-#| "autonomy foster sustainability, as well as how to set up a dedicated lab "
-#| "to measure your software's energy consumption."
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software, and how the Blue Angel ecolabel&mdash;the official environmental "
 "label of the German government&mdash;provides a benchmark for sustainable "
 "software design."
 msgstr ""
-"《Applying The Blue Angel Criteria To Free Software (自由软件蓝天使标准应用指"
-"南)》手册对软件可能造成的环境危害进行了概述，并介绍了 Blue Angel (蓝天使，德"
-"国政府的官方环保标签) 为可持续软件设计制订的评估基准。该手册还介绍了自由开源"
-"软件的透明度和用户自主权对于可持续发展的促进作用，还有如何建立一个专门用于测"
-"评软件能耗的实验室的指引。"
 
 #: content/be4foss-handbook/handbook_web.md:24
 msgid ""
@@ -1623,10 +1597,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:329
-#, fuzzy
-#| msgid "Free and open source software Energy Efficiency Project"
 msgid "(A) Resource & Energy Efficiency"
-msgstr "自由开源软件能源效率项目"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:331
 msgid "(B) Potential Hardware Operating Life"
@@ -1684,10 +1656,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:347
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "(A) How To Measure Your Software"
-msgstr "测量软件能耗"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:349
 msgid ""
@@ -3313,16 +3283,10 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:811
 #: content/be4foss-handbook/handbook_web.md:847
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "For examples of the above for Okular, see KDE’s [Blue Angel Applications]"
 "(https://invent.kde.org/teams/eco/blue-angel-application) repository:"
 msgstr ""
-"Blue Angel 应用程序 (GitLab 代码仓库)：https://invent.kde.org/teams/eco/blue-"
-"angel-application"
 
 #: content/be4foss-handbook/handbook_web.md:813
 msgid ""
@@ -3938,10 +3902,8 @@ msgid "Transparency"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1052
-#, fuzzy
-#| msgid "Community & Support"
 msgid "Continuity Of Support"
-msgstr "社区和支持"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1053
 msgid "Uninstallability"
@@ -4051,10 +4013,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1091
-#, fuzzy
-#| msgid "Community & Support"
 msgid "2.3 Continuity Of Support"
-msgstr "社区和支持"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1093
 msgid "Details about continuity of support to document include:"
@@ -4260,17 +4220,11 @@ msgid "Submitting To RAL"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1165
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "For examples of all of the above documentation, see KDE’s [Blue Angel "
 "Applications](https://invent.kde.org/teams/eco/blue-angel-application) "
 "repository."
 msgstr ""
-"Blue Angel 应用程序 (GitLab 代码仓库)：https://invent.kde.org/teams/eco/blue-"
-"angel-application"
 
 #: content/be4foss-handbook/handbook_web.md:1167
 msgid ""
@@ -4352,10 +4306,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1191
-#, fuzzy
-#| msgid "KDE's Sustainable Software Goal"
 msgid "Notable Sustainable Software Initiatives"
-msgstr "KDE 的可持续软件目标"
+msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1193
 msgid ""
@@ -4520,22 +4472,12 @@ msgid "Funding Notice"
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1239
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The *Blauer Engel Für FOSS* project was funded by the Federal German "
 "Environment Agency (UBA) and the Federal Ministry for the Environment, "
 "Nature Conservation, Nuclear Safety and Consumer Protection (BMUV). The "
 "funds are made available by resolution of the German Bundestag."
 msgstr ""
-"BE4FOSS 工程由下列组织提供资金支持：德国联邦环境局、德国联邦环境部、德国自然"
-"保护组织、德国核能安全和消费者保护组织 (BMUV<sup><a id=\"fnr.1\" class="
-"\"footref\" href=\"#fn.1\">1</a></sup>)。这些资金由德国联邦议院决议提供。"
 
 #: content/be4foss-handbook/handbook_web.md:1241
 #: content/opt-green-handbook/handbook_web.md:739
@@ -6528,10 +6470,8 @@ msgstr "Email: `joseph [at] kde.org`"
 
 #. grow-green.header
 #: content/grow-green/_index.md:0 i18n/en.yaml:211
-#, fuzzy
-#| msgid "Be Green"
 msgid "Grow Green"
-msgstr "绿色生活"
+msgstr ""
 
 #. make-green.header
 #: content/make-green/_index.md:0 i18n/en.yaml:167
@@ -6544,16 +6484,12 @@ msgstr "绿色开发"
 
 #: content/opt-green-handbook/_index.md:0
 #: content/opt-green-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Opt Green"
 msgid "Opting Green"
-msgstr "绿色选择"
+msgstr ""
 
 #: content/opt-green-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Opt Green Handbook"
-msgstr "KDE Eco 手册"
+msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "How Sustainable Software Makes for Sustainable Hardware"
@@ -6564,10 +6500,8 @@ msgid "htb"
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:20
-#, fuzzy
-#| msgid "About This Website"
 msgid "About This Handbook"
-msgstr "关于此网站"
+msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:24
 msgid ""
@@ -7451,10 +7385,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:212
-#, fuzzy
-#| msgid "Install Free & Open Source Software"
 msgid "What Is Free & Open Source Software (FOSS)?"
-msgstr "安装自由开源软件"
+msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:214
 msgid ""
@@ -9253,10 +9185,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:619
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Installing A FOSS Operating System"
-msgstr "下载一款自由开源操作系统"
+msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:621
 msgid ""
@@ -9368,10 +9298,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:648
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Using The FOSS Operating System"
-msgstr "下载一款自由开源操作系统"
+msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:650
 msgid ""
@@ -9565,10 +9493,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:695
-#, fuzzy
-#| msgid "Resources"
 msgid "Additional Resources"
-msgstr "资源"
+msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:697
 msgid "Organizing An Install Event"
@@ -9735,22 +9661,12 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:737
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The *Opt Green* project from KDE Eco was funded by the Federal Environment "
 "Agency and the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety (BMUKN). The funds are made available by "
 "resolution of the German Bundestag."
 msgstr ""
-"BE4FOSS 工程由下列组织提供资金支持：德国联邦环境局、德国联邦环境部、德国自然"
-"保护组织、德国核能安全和消费者保护组织 (BMUV<sup><a id=\"fnr.1\" class="
-"\"footref\" href=\"#fn.1\">1</a></sup>)。这些资金由德国联邦议院决议提供。"
 
 #: content/opt-green-handbook/handbook_web.md:741
 msgid ""
@@ -10389,17 +10305,13 @@ msgstr "KDE 的可持续软件目标"
 
 #. grow-green.header-subtitle
 #: i18n/en.yaml:213
-#, fuzzy
-#| msgid "Develop Energy-Efficient Free & Open Source Software"
 msgid "Advocate for Energy-Efficient Free & Open Source Software"
-msgstr "开发高能效的自由开源软件"
+msgstr ""
 
 #. grow-green.handbook.title
 #: i18n/en.yaml:215 i18n/en.yaml:227
-#, fuzzy
-#| msgid "Read the KDE Eco Handbook"
 msgid "Read The Opt Green Support Handbook"
-msgstr "查看 KDE Eco 手册"
+msgstr ""
 
 #. grow-green.handbook.description
 #: i18n/en.yaml:217
@@ -10409,10 +10321,8 @@ msgstr ""
 
 #. grow-green.flyer.title
 #: i18n/en.yaml:219 i18n/en.yaml:233
-#, fuzzy
-#| msgid "KDE's Sustainable Software Goal"
 msgid "Distribute The Sustainable Software Flyer"
-msgstr "KDE 的可持续软件目标"
+msgstr ""
 
 #. grow-green.flyer.description
 #: i18n/en.yaml:221

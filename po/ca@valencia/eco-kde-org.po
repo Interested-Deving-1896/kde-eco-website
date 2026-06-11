@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-09 02:07+0000\n"
-"PO-Revision-Date: 2026-06-09 14:24+0200\n"
+"PO-Revision-Date: 2026-06-09 19:00+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
@@ -77,7 +77,7 @@ msgstr "ht"
 
 #: content/be4foss-handbook/handbook_web.md:20
 msgid "Introduction: What’s This All About?"
-msgstr ""
+msgstr "Introducció: Sobre què va tot açò?"
 
 #: content/be4foss-handbook/handbook_web.md:22
 msgid ""
@@ -120,17 +120,17 @@ msgstr "El llibre està dividit en tres parts:"
 #: content/opt-green-handbook/handbook_web.md:62
 #: content/opt-green-handbook/handbook_web.md:71
 msgid "Part I: Environmental Impact Of Software"
-msgstr ""
+msgstr "Part I: Impacte ambiental del programari"
 
 #: content/be4foss-handbook/handbook_web.md:31
 #: content/be4foss-handbook/handbook_web.md:190
 msgid "Part II: Eco-Certifying Desktop Software"
-msgstr ""
+msgstr "Part II: Ecocertificació de programari d'escriptori"
 
 #: content/be4foss-handbook/handbook_web.md:32
 #: content/be4foss-handbook/handbook_web.md:323
 msgid "Part III: Fulfilling The Blue Angel Award Criteria"
-msgstr ""
+msgstr "Part III: Acompliment dels criteris de concessió de la Blue Angel"
 
 #: content/be4foss-handbook/handbook_web.md:34
 msgid ""
@@ -215,7 +215,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:49
 msgid "But does it really?"
-msgstr ""
+msgstr "Però, n'esteu segur?"
 
 #: content/be4foss-handbook/handbook_web.md:51
 msgid ""
@@ -286,7 +286,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:63
 #: content/opt-green-handbook/handbook_web.md:95
 msgid "Material Footprint Of Digital Technology"
-msgstr ""
+msgstr "Petjada material de la tecnologia digital"
 
 #: content/be4foss-handbook/handbook_web.md:65
 msgid ""
@@ -541,7 +541,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:103
 msgid "A “Tsunami Of E-Waste”"
-msgstr ""
+msgstr "Un «tsunami de brossa electrònica»"
 
 #: content/be4foss-handbook/handbook_web.md:105
 msgid ""
@@ -632,7 +632,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:117
 msgid "Look To The Software"
-msgstr "Investigació del programari"
+msgstr "Una mirada al programari"
 
 #: content/be4foss-handbook/handbook_web.md:119
 msgid ""
@@ -1004,7 +1004,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:318
 #: content/opt-green-handbook/handbook_web.md:38
 msgid "A Note On Sources"
-msgstr ""
+msgstr "Una nota sobre les fonts"
 
 #: content/be4foss-handbook/handbook_web.md:187
 msgid ""
@@ -1075,7 +1075,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:204
 msgid "The Blue Angel For Desktop Software"
-msgstr ""
+msgstr "La Blue Angel per al programari d'escriptori"
 
 #: content/be4foss-handbook/handbook_web.md:206
 msgid ""
@@ -1147,7 +1147,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:218
 msgid "The ABCs Of The Award Criteria"
-msgstr ""
+msgstr "L'ABC dels criteris de concessió"
 
 #: content/be4foss-handbook/handbook_web.md:220
 msgid ""
@@ -1425,21 +1425,7 @@ msgstr ""
 "l'autonomia dels usuaris, tenen un reconeixement més gran pels seus impactes "
 "en la sostenibilitat, i es van incorporar als criteris de sostenibilitat "
 "establits per l'Agència Alemanya de Medi Ambient a través de l'etiqueta "
-"ecològica Blue Angel.Els criteris de la concessió Blue Angel per al "
-"programari, amb el seu enfocament en la transparència en els recursos i "
-"l'eficiència energètica, la vida útil del maquinari i l'autonomia de "
-"l'usuari, proporcionen un punt de referència excel·lent per a iniciar un "
-"debat sobre la sostenibilitat del programari i impulsar el desenvolupament "
-"en esta àrea. I així, el 2021, KDE va començar [KDE Eco](https://eco.kde."
-"org/), un projecte amb l'objectiu de posar el programari lliure i KDE a "
-"l'avantguarda del disseny de programari sostenible. La sostenibilitat no és "
-"un objectiu nou per al programari lliure i codi font obert (FOSS). Les "
-"[quatre llibertats](http://fsfe.org/freesoftware/freesoftware.en.html) "
-"sempre han posat el programari lliure a l'avantguarda del disseny de "
-"programari sostenible. La novetat *és* que els valors del FOSS ara es "
-"reconeixen com a directament relacionats amb la sostenibilitat per "
-"organitzacions com l'Agència Alemanya del Medi Ambient (*Umweltbundesamt*), "
-"la qual va desenvolupar els criteris de concessió."
+"ecològica Blue Angel."
 
 #: content/be4foss-handbook/handbook_web.md:276
 msgid ""
@@ -1483,8 +1469,8 @@ msgid ""
 "and secure software for devices that might otherwise be discarded as e-waste "
 "and end up polluting landfills."
 msgstr ""
-"Els criteris de concessió de l'Àngel Blau reflectixen els valors de KDE i "
-"els del moviment FOSS més gran sense problemes. El programari lliure de codi "
+"Els criteris de concessió de Blue Angel reflectixen els valors de KDE i els "
+"del moviment FOSS més gran sense problemes. El programari lliure de codi "
 "obert garantix la transparència i el control en mans dels usuaris, en lloc "
 "d'obligar-los a treballar amb determinats fabricants o proveïdors de "
 "serveis. Açò permet als usuaris decidir què volen del programari que "
@@ -1519,6 +1505,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:284
 msgid "![Icon for KDE’s popular application Okular.](images/sec2_okular.png)"
 msgstr ""
+"![Icona de la popular aplicació Okular de KDE.](images/sec2_okular.png)"
 
 #: content/be4foss-handbook/handbook_web.md:286
 msgid ""
@@ -1563,7 +1550,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:292
 msgid "Benefits Of Blue Angel"
-msgstr ""
+msgstr "Beneficis de la Blue Angel"
 
 #: content/be4foss-handbook/handbook_web.md:294
 msgid ""
@@ -1629,7 +1616,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:312
 msgid "So what does the market say?"
-msgstr ""
+msgstr "Què diu el mercat?"
 
 #: content/be4foss-handbook/handbook_web.md:314
 msgid ""
@@ -1795,7 +1782,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:361
 msgid "Overview Of Laboratory Setup"
-msgstr ""
+msgstr "Vista general de la configuració del laboratori"
 
 #: content/be4foss-handbook/handbook_web.md:363
 msgid "The laboratory setup requires 1 power meter and at least 2 computers:"
@@ -1820,7 +1807,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:369
 msgid "*Computer 1: Data Aggregator & Evaluator*"
-msgstr ""
+msgstr "*Ordinador 1: Agregador i avaluador de dades*"
 
 #: content/be4foss-handbook/handbook_web.md:371
 msgid ""
@@ -1853,10 +1840,11 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:379
 msgid "![Screenshot of the Gude Power Meter.](images/sec3_gude-pm.jpg)"
 msgstr ""
+"![Captura de pantalla del mesurador d'energia Gude.](images/sec3_gude-pm.jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:381
 msgid "*Computer 2: System Under Test*"
-msgstr ""
+msgstr "*Ordinador 2: Sistema a provar*"
 
 #: content/be4foss-handbook/handbook_web.md:383
 msgid ""
@@ -1878,7 +1866,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:387
 msgid "Note the following:"
-msgstr ""
+msgstr "Cal tindre en compte el següent:"
 
 #: content/be4foss-handbook/handbook_web.md:389
 msgid ""
@@ -1927,7 +1915,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:399
 msgid "System Under Test (SUT)"
-msgstr ""
+msgstr "Sistema a provar (SUT, System Under Test)"
 
 #: content/be4foss-handbook/handbook_web.md:401
 msgid ""
@@ -2083,20 +2071,25 @@ msgid ""
 "<https://github.com/swaywm/wlr-protocols/blob/master/unstable/wlr-virtual-"
 "pointer-unstable-v1.xml>"
 msgstr ""
+"<https://github.com/swaywm/wlr-protocols/blob/master/unstable/wlr-virtual-"
+"pointer-unstable-v1.xml>"
 
 #: content/be4foss-handbook/handbook_web.md:445
 msgid ""
 "<https://api.kde.org/frameworks/kwayland/html/"
 "classKWayland_1_1Client_1_1FakeInput.html>"
 msgstr ""
+"<https://api.kde.org/frameworks/kwayland/html/"
+"classKWayland_1_1Client_1_1FakeInput.html>"
 
 #: content/be4foss-handbook/handbook_web.md:447
 msgid "[libinput user devices](https://lwn.net/Articles/801767/)"
 msgstr ""
+"[dispositus d'usuari de la «libinput»](https://lwn.net/Articles/801767/)"
 
 #: content/be4foss-handbook/handbook_web.md:449
 msgid "Measurement Process"
-msgstr ""
+msgstr "Procés de mesura"
 
 #: content/be4foss-handbook/handbook_web.md:451
 msgid ""
@@ -2109,7 +2102,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:453
 msgid "Some general comments:"
-msgstr ""
+msgstr "Alguns comentaris generals:"
 
 #: content/be4foss-handbook/handbook_web.md:455
 msgid "Times between the PM and DAE must be synchronized."
@@ -2149,33 +2142,37 @@ msgid ""
 "traffic. Use the following command to obtain this hardware performance data:"
 msgstr ""
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:468
 msgid "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<FILENAME>.csv`"
-msgstr ""
+msgstr "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<FILENAME>.csv`"
 
 #: content/be4foss-handbook/handbook_web.md:470
 msgid "The options are as follows:"
-msgstr ""
+msgstr "Les opcions són les següents:"
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:472
 msgid "`-s cdmn`"
-msgstr ""
+msgstr "`-s cdmn`"
 
 #: content/be4foss-handbook/handbook_web.md:474
 msgid "collect CPU, Disk, memory, and network data"
-msgstr ""
+msgstr "arreplega dades de CPU, disc, memòria i xarxa"
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:476
 msgid "`-i1`"
-msgstr ""
+msgstr "`-i1`"
 
 #: content/be4foss-handbook/handbook_web.md:478
 msgid "sampling interval of 1 second"
-msgstr ""
+msgstr "interval de mostreig d'1 segon"
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:480
 msgid "`-P`"
-msgstr ""
+msgstr "`-P`"
 
 #: content/be4foss-handbook/handbook_web.md:482
 msgid ""
@@ -2183,21 +2180,23 @@ msgid ""
 "line per sampling interval)"
 msgstr ""
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:484
 msgid "`--sep 59`"
-msgstr ""
+msgstr "`--sep 59`"
 
 #: content/be4foss-handbook/handbook_web.md:486
 msgid "semicolon separator"
-msgstr ""
+msgstr "separador de punt i coma"
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:488
 msgid "`-f </PATH/TO/FILE>.csv`"
-msgstr ""
+msgstr "`-f </CAMÍ/A/FITXER>.csv`"
 
 #: content/be4foss-handbook/handbook_web.md:490
 msgid "save file at specified path"
-msgstr ""
+msgstr "guarda el fitxer en el camí especificat"
 
 #: content/be4foss-handbook/handbook_web.md:492
 msgid "Measuring Baseline, Idle Mode, And Standard Usage Scenarios"
@@ -2249,7 +2248,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:508
 msgid "<a name=\"sec:labplot\"></a> Monitoring Output With Labplot"
-msgstr ""
+msgstr "<a name=\"sec:labplot\"></a> Monitoratge de l'eixida amb el Labplot"
 
 #: content/be4foss-handbook/handbook_web.md:510
 msgid ""
@@ -2279,7 +2278,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:520
 msgid "If everything looks good, click OK."
-msgstr ""
+msgstr "Si tot pareix correcte, cliqueu damunt «D'acord»."
 
 #: content/be4foss-handbook/handbook_web.md:522
 msgid ""
@@ -2289,7 +2288,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:524
 msgid "Analysis Of The Results With OSCAR"
-msgstr ""
+msgstr "Anàlisi dels resultats amb OSCAR"
 
 #: content/be4foss-handbook/handbook_web.md:526
 msgid ""
@@ -2302,10 +2301,11 @@ msgstr ""
 msgid ""
 "[Source Code](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 msgstr ""
+"[Codi font](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 
 #: content/be4foss-handbook/handbook_web.md:530
 msgid "[Running instance](https://oscar.umwelt-campus.de/)"
-msgstr ""
+msgstr "[Instància en execució](https://oscar.umwelt-campus.de/)"
 
 #: content/be4foss-handbook/handbook_web.md:532
 msgid ""
@@ -2315,7 +2315,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:534
 msgid "CSV Files"
-msgstr ""
+msgstr "Fitxers CSV"
 
 #: content/be4foss-handbook/handbook_web.md:536
 msgid ""
@@ -2363,7 +2363,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:548
 msgid "Log File Of Actions"
-msgstr ""
+msgstr "Fitxer de registre d'accions"
 
 #: content/be4foss-handbook/handbook_web.md:550
 msgid ""
@@ -2746,7 +2746,7 @@ msgstr "28.20000"
 
 #: content/be4foss-handbook/handbook_web.md:619
 msgid "Performance Data (Raw)"
-msgstr ""
+msgstr "Dades de rendiment (en brut)"
 
 #: content/be4foss-handbook/handbook_web.md:621
 msgid ""
@@ -2799,27 +2799,27 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:639
 msgid "[CPU]Totl = Processor"
-msgstr ""
+msgstr "[CPU]Totl = Processador"
 
 #: content/be4foss-handbook/handbook_web.md:640
 msgid "[MEM]Used = Main memory - used kilobytes"
-msgstr ""
+msgstr "[MEM]Used = Memòria principal – kilobytes utilitzats"
 
 #: content/be4foss-handbook/handbook_web.md:641
 msgid "[NET]RxKBTot = Network - Kilobytes received/s"
-msgstr ""
+msgstr "[NET]RxKBTot = Xarxa – kilobytes rebuts/s"
 
 #: content/be4foss-handbook/handbook_web.md:642
 msgid "[NET]TxKBTot = Network - Kilobytes transmitted/s"
-msgstr ""
+msgstr "[NET]TxKBTot = Xarxa – kilobytes transmesos/s"
 
 #: content/be4foss-handbook/handbook_web.md:643
 msgid "[DSK]ReadKBTot = Disk - Kilobytes read/s"
-msgstr ""
+msgstr "[DSK]ReadKBTot = Disc – kilobytes llegits/s"
 
 #: content/be4foss-handbook/handbook_web.md:644
 msgid "[DSK]WriteKBTot = Disk - kilobytes written/s."
-msgstr ""
+msgstr "[DSK]WriteKBTot = Disc – kilobytes escrits/s."
 
 #: content/be4foss-handbook/handbook_web.md:646
 msgid ""
@@ -2828,38 +2828,46 @@ msgid ""
 "increments."
 msgstr ""
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "Date-Time ;"
-msgstr ""
+msgstr "Date-Time ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "cpu ;"
-msgstr ""
+msgstr "cpu ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "mem ;"
-msgstr ""
+msgstr "mem ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "net_rec ;"
-msgstr ""
+msgstr "net_rec ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "net_trn ;"
-msgstr ""
+msgstr "net_trn ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "dsc_rd ;"
-msgstr ""
+msgstr "dsc_rd ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "dsc_wr"
-msgstr ""
+msgstr "dsc_wr"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:650
 msgid "27.08.2022 16:47:10 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:10 ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
 #: content/be4foss-handbook/handbook_web.md:652
@@ -2871,8 +2879,9 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:658
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "7131968 ;"
-msgstr ""
+msgstr "7131968 ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
 #: content/be4foss-handbook/handbook_web.md:652
@@ -2884,7 +2893,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:658
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "0 ;"
-msgstr ""
+msgstr "0 ;"
 
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
@@ -2893,63 +2902,72 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "0"
-msgstr ""
+msgstr "0"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:651
 msgid "27.08.2022 16:47:11 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:11 ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:652
 msgid "27.08.2022 16:47:12 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:12 ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:653
 msgid "27.08.2022 16:47:13 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:13 ;"
 
 #: content/be4foss-handbook/handbook_web.md:653
 msgid "120"
-msgstr ""
+msgstr "120"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:654
 msgid "27.08.2022 16:47:14 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:14 ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:655
 msgid "27.08.2022 16:47:15 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:15 ;"
 
 #: content/be4foss-handbook/handbook_web.md:655
 msgid "56"
-msgstr ""
+msgstr "56"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "27.08.2022 16:47:16 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:16 ;"
 
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "48"
-msgstr ""
+msgstr "48"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:657
 msgid "27.08.2022 16:47:17 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:17 ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "27.08.2022 16:47:18 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:18 ;"
 
+# skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "27.08.2022 16:47:19 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:19 ;"
 
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "132"
-msgstr ""
+msgstr "132"
 
 #: content/be4foss-handbook/handbook_web.md:661
 msgid "Uploading Data"
-msgstr ""
+msgstr "Pujada de dades"
 
 #: content/be4foss-handbook/handbook_web.md:663
 msgid ""
@@ -2995,6 +3013,8 @@ msgid ""
 "![First obtain the measurement data (German: *Erfassung Messdaten*) in a "
 "laboratory.](images/sec3_oscar_1_landing.png)"
 msgstr ""
+"![Primer obtingueu les dades de mesura (alemany: *Erfassung Messdaten*) en "
+"un laboratori.](images/sec3_oscar_1_landing.png)"
 
 #: content/be4foss-handbook/handbook_web.md:679
 msgid ""
@@ -3059,6 +3079,8 @@ msgid ""
 "![Uploading the measurement data (German: *Upload Messdaten*).](images/"
 "sec3_oscar_2_upload.png)"
 msgstr ""
+"![Pujada de les dades de mesura (alemany: *Upload Messdaten*).](images/"
+"sec3_oscar_2_upload.png)"
 
 #: content/be4foss-handbook/handbook_web.md:701
 msgid ""
@@ -3122,6 +3144,8 @@ msgid ""
 "![Specifying the format of the timestamps (German: *Formatierung "
 "Zeitstempel*).](images/sec3_oscar_3_timestamp.png)"
 msgstr ""
+"![Especificació del format de les marques de temps (Alemany: *Formatierung "
+"Zeitstempel*).](images/sec3_oscar_3_timestamp.png)"
 
 #: content/be4foss-handbook/handbook_web.md:721
 msgid ""
@@ -3216,6 +3240,8 @@ msgid ""
 "![Specifying the format for the energy consumption data (German: "
 "*Elektrische Leistung*).](images/sec3_oscar_5_energy.png)"
 msgstr ""
+"![Especificació del format per a les dades de consum d'energia (alemany: "
+"*Elektrische Leistung*).](images/sec3_oscar_5_energy.png)"
 
 #: content/be4foss-handbook/handbook_web.md:751
 msgid ""
@@ -3244,47 +3270,62 @@ msgid ""
 "NA for unused columns, e.g., “Auslastung Auslagerungsdatei” here."
 msgstr ""
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:759
 msgid "*Zeitstempel*: Datetime (i.e., ‘Date-Time’)"
-msgstr ""
+msgstr "*Zeitstempel*: Data i hora (és a dir, ‘Date-Time')"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:760
 msgid "*CPU-Auslastung*: CPU (i.e., ‘X.CPU.Totl’)"
-msgstr ""
+msgstr "*CPU-Auslastung*: CPU (és a dir, ‘X.CPU.Totl')"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:761
 msgid "*RAM-Auslastung*: RAM (i.e., ‘X.MEM.Used’)"
-msgstr ""
+msgstr "*RAM-Auslastung*: RAM (és a dir, ‘X.MEM.Used')"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:762
 msgid "*Über Netzwerk gesendet*: Network transmitted (i.e., ‘X.NET.TxKBTot’)"
 msgstr ""
+"*Über Netzwerk gesendet*: Transmissió de xarxa (és a dir, ‘X.NET.TxKBTot')"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:763
 msgid "*Über Netzwerk empfangen*: Network received (i.e., ‘X.NET.RxKBTot’)"
 msgstr ""
+"*Über Netzwerk empfangen*: Recepció de xarxa (és a dir, ‘X.NET.RxKBTot')"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:764
 msgid "*Von Festplatte gelesen*: Disk read (i.e., ‘X.DSK.ReadKBTot’)"
 msgstr ""
+"*Von Festplatte gelesen*: Lectura de disc (és a dir, ‘X.DSK.ReadKBTot')"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:765
 msgid "*Auf Festplatte geschrieben*: Disk written (i.e., ‘X.DSK.WriteKBTot’)"
 msgstr ""
+"*Auf Festplatte geschrieben*: Escriptura de disc (és a dir, ‘X.DSK."
+"WriteKBTot')"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:766
 msgid "*Auslastung Auslagerungsdatei*: Swap (here, ‘N/A’)"
-msgstr ""
+msgstr "*Auslastung Auslagerungsdatei*: Memòria d'intercanvi (ací, ‘N/A')"
 
 #: content/be4foss-handbook/handbook_web.md:768
 msgid ""
 "![Specifying the format for the hardware performance data (German: *Hardware-"
 "Auslastung*).](images/sec3_oscar_6_hw.png)"
 msgstr ""
+"!Especificació del format de les dades de rendiment del maquinari (alemany: "
+"*Hardware-Auslastung*).](images/sec3_oscar_6_hw.png)"
 
 #: content/be4foss-handbook/handbook_web.md:770
 msgid "Translations"
-msgstr ""
+msgstr "Traduccions"
 
 #: content/be4foss-handbook/handbook_web.md:772
 msgid ""
@@ -3294,109 +3335,139 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:774
 msgid "*Messungen*: Measurements (e.g., Idle Mode or SUS)"
-msgstr ""
+msgstr "*Messungen*: Mesures (p. ex., Mode inactiu o SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:775
 msgid "*Aktionen*: Actions (i.e., log file of actions taken)"
 msgstr ""
+"*Aktionen*: Accions (és a dir, fitxer de registre de les accions preses)"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:776
 msgid ""
 "*Elektrische Leistung*: ‘Electrical power’ (i.e., energy consumption "
 "measurements)"
 msgstr ""
+"*Elektrische Leistung*: ‘Energia elèctrica' (és a dir, mesures de consum "
+"d'energia)"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:777
 msgid ""
 "*Hardware-Auslastung*: ‘Hardware load’ (i.e., hardware performance "
 "measurements)"
 msgstr ""
+"*Hardware-Auslastung*: ‘Càrrega del maquinari (és a dir, mesures de "
+"rendiment del maquinari)"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:778
 msgid ""
 "*Dauer der Einzelmessungen (s)*: ‘Duration of the individual measurements "
 "(s)’ (i.e., specify how long each iteration was in seconds)"
 msgstr ""
+"*Dauer der Einzelmessungen (s)*: ‘Duració de les mesures individuals "
+"(s)' (és a dir, especifica quant de temps ha sigut cada iteració, en segons)"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:779
 msgid "*Art der Messung*: ‘Type of measurement’"
-msgstr ""
+msgstr "*Art der Messung*: ‘Tipus de mesura'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:780
 msgid "*Leerlauf*: ‘Idle’ (i.e., Idle mode)"
-msgstr ""
+msgstr "*Leerlauf*: ‘Idle' (és a dir, Mode inactiu)"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:781
 msgid "*Nutzungsszenario*: ‘Usage scenario’ (i.e., SUS)"
-msgstr ""
+msgstr "*Nutzungsszenario*: ‘Escenari d'ús' (és a dir, SUS)"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:783
 msgid "*Formatierung Messdaten*: ‘Formatting measurement data’"
-msgstr ""
+msgstr "*Formatierung Messdaten*: ‘Format de les dades de mesura'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:784
 msgid "*Formatierung Zeitstempel*: ‘Formatting timestamp’"
-msgstr ""
+msgstr "*Formatierung Zeitstempel*: ‘Format de la marca de temps'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:786
 msgid "*Trennzeichen* ‘Separator’"
-msgstr ""
+msgstr "*Trennzeichen*: ‘Separador'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:787
 msgid "*Textqualifizierer*: ‘String delimiter’"
-msgstr ""
+msgstr "*Textqualifizierer*: ‘Delimitador de cadena'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:788
 msgid "*Dezimaltrennzeichen*: ‘Decimal separator’"
-msgstr ""
+msgstr "*Dezimaltrennzeichen*: ‘Separador decimal'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:789
 msgid "*Erste Zeile enthält Überschriften*: ‘First line contains headings’"
 msgstr ""
+"*Erste Zeile enthält Überschriften*: ‘La primera línia conté capçaleres'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:790
 msgid "*Anzahl zu überspringender Zeilen*: ‘Number of lines to skip’"
-msgstr ""
+msgstr "*Anzahl zu überspringender Zeilen*: ‘Nombre de línies a ometre'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:791
 msgid "*Zeichensatz (Encoding)*: ‘Character set (encoding)’"
-msgstr ""
+msgstr "*Zeichensatz (Encoding)*: ‘Joc de caràcters (codificació)'"
 
 #: content/be4foss-handbook/handbook_web.md:793
 msgid "*Spalten*: Columns"
-msgstr ""
+msgstr "*Spalten*: Columnes"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:794
 msgid "*Zeitstempel*: ‘Datetime’"
-msgstr ""
+msgstr "*Zeitstempel*: ‘Data i hora'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:795
 msgid "*CPU-Auslastung*: ‘CPU utilization’"
-msgstr ""
+msgstr "*CPU-Auslastung*: ‘Ús de la CPU'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:796
 msgid "*RAM-Auslastung*: ‘RAM utilization’"
-msgstr ""
+msgstr "*RAM-Auslastung*: ‘Ús de la RAM'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:797
 msgid "*Über Netzwerk gesendet*: ‘Sent via network’"
-msgstr ""
+msgstr "*Über Netzwerk gesendet*: ‘Enviat mitjançant xarxa'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:798
 msgid "*Über Netzwerk empfangen*: ‘Received via network’"
-msgstr ""
+msgstr "*Über Netzwerk empfangen*: ‘Rebut mitjançant xarxa'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:799
 msgid "*Von Festplatte gelesen*: ‘Read from disk’"
-msgstr ""
+msgstr "*Von Festplatte gelesen*: ‘Llegit del disc'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:800
 msgid "*Auf Festplatte geschrieben*: ‘Written to disk’"
-msgstr ""
+msgstr "*Auf Festplatte geschrieben*: ‘Llegit al disc'"
 
+# skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:801
 msgid "*Auslastung Auslagerungsdatei*: ‘Swap file utlization’"
-msgstr ""
+msgstr "*Auslastung Auslagerungsdatei*: ‘Ús del fitxer d'intercanvi'"
 
 #: content/be4foss-handbook/handbook_web.md:803
 msgid "Step 3: Generating The Reports (Idle, SUS)"
@@ -3414,6 +3485,8 @@ msgid ""
 "![Generating the report (German: *Bericht erzeugen*).](images/"
 "sec3_oscar_7_report.png)"
 msgstr ""
+"![Generació de l'informe (alemany: *Bericht erzeugen*).](images/"
+"sec3_oscar_7_report.png)"
 
 #: content/be4foss-handbook/handbook_web.md:809
 msgid ""
@@ -3437,6 +3510,9 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
 "idle.pdf)"
 msgstr ""
+"[Informe OSCAR: Mode inactiu](https://invent.kde.org/teams/eco/blue-angel-"
+"application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
+"idle.pdf)"
 
 #: content/be4foss-handbook/handbook_web.md:814
 msgid ""
@@ -3444,10 +3520,13 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
 "scenario.pdf)"
 msgstr ""
+"[Informe OSCAR: SUS](https://invent.kde.org/teams/eco/blue-angel-"
+"application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
+"scenario.pdf)"
 
 #: content/be4foss-handbook/handbook_web.md:816
 msgid "Preparing The Documentation For Blue Angel"
-msgstr ""
+msgstr "Preparació de la documentació per a la Blue Angel"
 
 #: content/be4foss-handbook/handbook_web.md:818
 msgid ""
@@ -3551,6 +3630,8 @@ msgid ""
 "[Annex 1](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
 "master/applications/okular/de-uz-215-eng-annex-1-okular.docx)"
 msgstr ""
+"[Annex 1](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
+"master/applications/okular/de-uz-215-eng-annex-1-okular.docx)"
 
 #: content/be4foss-handbook/handbook_web.md:850
 #: content/be4foss-handbook/handbook_web.md:1044
@@ -3558,10 +3639,13 @@ msgid ""
 "[Annex 2](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
 "master/applications/okular/de-uz-215-eng-annex-2-okular.xlsx)"
 msgstr ""
+"[Annex 2](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
+"master/applications/okular/de-uz-215-eng-annex-2-okular.xlsx)"
 
 #: content/be4foss-handbook/handbook_web.md:852
 msgid "<a name=\"sec:gosundPM\"></a> Alternative: Gosund SP111 Setup"
 msgstr ""
+"<a name=\"sec:gosundPM\"></a> Alternativa: Configuració de Gosund SP111"
 
 #: content/be4foss-handbook/handbook_web.md:854
 msgid ""
@@ -3578,12 +3662,18 @@ msgid ""
 "web/20221002125057/https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
 "measurement-tools.html)"
 msgstr ""
+"[«*Mesura barata d'energia elèctrica*»](https://web.archive.org/"
+"web/20221002125057/https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html)"
 
 #: content/be4foss-handbook/handbook_web.md:858
 msgid ""
 "[“*KDE Eco Sprint July 2022*”](https://web.archive.org/web/20220819231538/"
 "https://www.volkerkrause.eu/2022/07/23/kde-eco-sprint-july-2022.html)"
 msgstr ""
+"[«*Esprint de KDE Eco de juliol 2022*»](https://web.archive.org/"
+"web/20220819231538/https://www.volkerkrause.eu/2022/07/23/kde-eco-sprint-"
+"july-2022.html)"
 
 #: content/be4foss-handbook/handbook_web.md:860
 msgid ""
@@ -3602,7 +3692,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:864
 msgid "(0) *Prerequisite*"
-msgstr ""
+msgstr "(0) *Prerequisit*"
 
 #: content/be4foss-handbook/handbook_web.md:866
 msgid ""
@@ -3612,7 +3702,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:868
 msgid "(1) *Firmware Reset*"
-msgstr ""
+msgstr "(1) *Reinici del microprogramari*"
 
 #: content/be4foss-handbook/handbook_web.md:870
 msgid ""
@@ -3628,7 +3718,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:874
 msgid "Press the button for 40 seconds."
-msgstr ""
+msgstr "Premeu el botó durant 40 segons."
 
 #: content/be4foss-handbook/handbook_web.md:876
 msgid "The device will restart and you should be able to continue at (2)."
@@ -3636,7 +3726,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:878
 msgid "(2) *WiFi Setup*"
-msgstr ""
+msgstr "(2) *Configuració de la WiFi*"
 
 #: content/be4foss-handbook/handbook_web.md:880
 msgid ""
@@ -3646,7 +3736,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:882
 msgid "Open http://192.168.4.1 in a browser."
-msgstr ""
+msgstr "Obriu http://192.168.4.1 en un navegador."
 
 #: content/be4foss-handbook/handbook_web.md:884
 msgid ""
@@ -3684,7 +3774,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:896
 msgid "Click “Configuration”."
-msgstr ""
+msgstr "Cliqueu damunt «Configuració»."
 
 #: content/be4foss-handbook/handbook_web.md:898
 msgid "Click “Configure Other”."
@@ -3705,7 +3795,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:910
 #: content/be4foss-handbook/handbook_web.md:966
 msgid "Click “Save”."
-msgstr ""
+msgstr "Cliqueu damunt «Guarda»."
 
 #: content/be4foss-handbook/handbook_web.md:912
 msgid "The device will restart; connect to it again."
@@ -3719,7 +3809,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:916
 msgid "(4) *Calibration*"
-msgstr ""
+msgstr "(4) *Calibratge*"
 
 #: content/be4foss-handbook/handbook_web.md:920
 msgid ""
@@ -3838,17 +3928,21 @@ msgid ""
 "You need two terminals to verify that MQTT communication works as intended."
 msgstr ""
 
+# skip-rule: t-acc_obe, t-apo_ini
 #: content/be4foss-handbook/handbook_web.md:976
 msgid "In terminal 1, run `mosquitto_sub -t 'stat/<topic>/STATUS10'`"
-msgstr ""
+msgstr "Al terminal 1, executeu `mosquitto_sub -t 'stat/<topic>/STATUS10'`"
 
+# skip-rule: t-acc_obe, t-apo_ini, t-apo_fin
 #: content/be4foss-handbook/handbook_web.md:977
 msgid "In terminal 2, run `mosquitto_pub -t 'cmnd/<topic>/STATUS' -m '10'`"
 msgstr ""
+"Al terminal 2, executeu `mosquitto_pub -t 'cmnd/<topic>/STATUS' -m '10'`"
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:979
 msgid "Replace `<topic>` with the value noted down in step (6)."
-msgstr ""
+msgstr "Substituïu `<topic>` pel valor anotat al pas (6)."
 
 #: content/be4foss-handbook/handbook_web.md:981
 msgid ""
@@ -3865,6 +3959,8 @@ msgid ""
 "See [these scripts](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
 "measurement-tools.html)."
 msgstr ""
+"Vegeu [estos scripts](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html)."
 
 #: content/be4foss-handbook/handbook_web.md:987
 msgid "(9) *Switching WiFi Networks*"
@@ -3980,51 +4076,51 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1017
 msgid "*Reference System Year* &mdash; e.g., 2015"
-msgstr ""
+msgstr "*Any de referència del sistema* &mdash; p. ex., 2015"
 
 #: content/be4foss-handbook/handbook_web.md:1019
 msgid "*Model* &mdash; e.g., Fujitsu Esprimo 920"
-msgstr ""
+msgstr "*Model* &mdash; p. ex., Fujitsu Esprimo 920"
 
 #: content/be4foss-handbook/handbook_web.md:1021
 msgid "*Processor* &mdash; e.g., Intel Core i5-4570"
-msgstr ""
+msgstr "*Processador* &mdash; p. ex., Intel Core i5-4570"
 
 #: content/be4foss-handbook/handbook_web.md:1023
 msgid "*Cores* &mdash; e.g., 4"
-msgstr ""
+msgstr "*Nuclis* &mdash; p. ex., 4"
 
 #: content/be4foss-handbook/handbook_web.md:1025
 msgid "*Clock Speed* &mdash; e.g., 3,6 GHz"
-msgstr ""
+msgstr "*Velocitat de rellotge* &mdash; p. ex., 3,6 GHz"
 
 #: content/be4foss-handbook/handbook_web.md:1027
 msgid "*RAM* &mdash; e.g., 4 GB"
-msgstr ""
+msgstr "*RAM* &mdash; p. ex., 4 GB"
 
 #: content/be4foss-handbook/handbook_web.md:1029
 msgid "*Hard Disk (SSD/HDD)* &mdash; e.g., 500 GB"
-msgstr ""
+msgstr "*Disc dur (SSD/HDD)* &mdash; p. ex., 500 GB"
 
 #: content/be4foss-handbook/handbook_web.md:1031
 msgid "*Graphics Card* &mdash; e.g., Intel Ivybridge Desktop"
-msgstr ""
+msgstr "*Targeta gràfica* &mdash; p. ex., Intel Ivybridge Desktop"
 
 #: content/be4foss-handbook/handbook_web.md:1033
 msgid "*Network* &mdash; e.g., Realtek Ethernet"
-msgstr ""
+msgstr "*Xarxa* &mdash; p. ex., Realtek Ethernet"
 
 #: content/be4foss-handbook/handbook_web.md:1035
 msgid "*Cache* &mdash; e.g., 6144 KB"
-msgstr ""
+msgstr "*Memòria cau* &mdash; p. ex., 6144 KB"
 
 #: content/be4foss-handbook/handbook_web.md:1037
 msgid "*Mainboard* &mdash; e.g., Fujitsu D3171-A1"
-msgstr ""
+msgstr "*Placa base* &mdash; p. ex., Fujitsu D3171-A1"
 
 #: content/be4foss-handbook/handbook_web.md:1039
 msgid "*Operating System* &mdash; e.g., Ubuntu 18.04"
-msgstr ""
+msgstr "*Sistema operatiu* &mdash; p. ex., Ubuntu 18.04"
 
 #: content/be4foss-handbook/handbook_web.md:1041
 msgid "Again, examples for Okular can be found at the following links:"
@@ -4054,7 +4150,7 @@ msgstr "Possibilitat de desinstal·lació"
 
 #: content/be4foss-handbook/handbook_web.md:1054
 msgid "Offline Capability"
-msgstr "Capacitats fora de línia"
+msgstr "Capacitat fora de línia"
 
 #: content/be4foss-handbook/handbook_web.md:1055
 msgid "Modularity"
@@ -4139,14 +4235,15 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:1082
 msgid "[KDE PIM API documentation](https://api.kde.org/kdepim/index.html)"
 msgstr ""
+"[Documentació de l'API de KDE PIM](https://api.kde.org/kdepim/index.html)"
 
 #: content/be4foss-handbook/handbook_web.md:1084
 msgid "[Source code](https://invent.kde.org/pim/kmail)"
-msgstr ""
+msgstr "[Codi font](https://invent.kde.org/pim/kmail)"
 
 #: content/be4foss-handbook/handbook_web.md:1086
 msgid "[License](https://invent.kde.org/pim/kmail/-/blob/master/LICENSES)"
-msgstr ""
+msgstr "[Llicència](https://invent.kde.org/pim/kmail/-/blob/master/LICENSES)"
 
 #: content/be4foss-handbook/handbook_web.md:1088
 msgid ""
@@ -4199,7 +4296,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1107
 msgid "2.4 Uninstallability"
-msgstr ""
+msgstr "2.4 Possibilitat de desinstal·lació"
 
 #: content/be4foss-handbook/handbook_web.md:1109
 msgid ""
@@ -4235,7 +4332,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1119
 msgid "2.5 Offline Capability"
-msgstr ""
+msgstr "2.5 Capacitat fora de línia"
 
 #: content/be4foss-handbook/handbook_web.md:1121
 msgid ""
@@ -4254,7 +4351,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1125
 msgid "2.6 Modularity"
-msgstr ""
+msgstr "2.6 Modularitat"
 
 #: content/be4foss-handbook/handbook_web.md:1127
 msgid "Information to document includes:"
@@ -4297,7 +4394,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1141
 msgid "2.8 Documentation"
-msgstr ""
+msgstr "2.8 Documentació"
 
 #: content/be4foss-handbook/handbook_web.md:1143
 msgid "This includes the following:"
@@ -4360,7 +4457,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1163
 msgid "Submitting To RAL"
-msgstr ""
+msgstr "Enviament a RAL"
 
 #: content/be4foss-handbook/handbook_web.md:1165
 msgid ""
@@ -4535,6 +4632,8 @@ msgid ""
 "from the [Sustainable Digital Infrastructure Alliance](https://sdialliance."
 "org/)"
 msgstr ""
+"El projecte [SoftAWERE](https://sdialliance.org/steering-groups/softawere) "
+"de la [Sustainable Digital Infrastructure Alliance](https://sdialliance.org/)"
 
 #: content/be4foss-handbook/handbook_web.md:1209
 msgid ""
@@ -4631,7 +4730,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:1233
 #: content/opt-green-handbook/handbook_web.md:49
 msgid "License"
-msgstr ""
+msgstr "Llicència"
 
 #: content/be4foss-handbook/handbook_web.md:1235
 msgid ""
@@ -4666,12 +4765,17 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:739
 msgid "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 msgstr ""
+"![Logotip de l'Agència de Medi Ambient de l'Alemanya Federal.](images/"
+"sec4_uba.jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:1243
 msgid ""
 "![Logo of the Federal Ministry for the Environment, Nature Conservation, "
 "Nuclear Safety and Consumer Protection.](images/sec4_bmuv.png)"
 msgstr ""
+"![Logotip del Ministeri federal per al Medi Ambient, Conservació de la "
+"Natura, Seguretat Nuclear i protecció dels Consumidors.](images/sec4_bmuv."
+"png)"
 
 #: content/be4foss-handbook/handbook_web.md:1245
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
@@ -5284,7 +5388,7 @@ msgstr ""
 "de campanyes de mesurament, o és senzillament suficient per a publicar les "
 "dades arreplegades en un format accessible (per exemple, com a fitxers .csv "
 "com es fa al [repositori FEEP](https://invent.kde.org/teams/eco/feep/-/tree/"
-"master/measurements))? Quina precisió del codi de temps es necessita (per "
+"master/measurements))? Quina precisió de marca de temps es necessita (per "
 "exemple, segons o fraccions de segons)? Estes preguntes seguixen obertes per "
 "ara, però el grup va decidir que necessitem [un resum](https://invent.kde."
 "org/teams/eco/be4foss/-/issues/27) dels dispositius/scripts compatibles amb "
@@ -6282,7 +6386,7 @@ msgid ""
 "directly related to sustainability by organizations such as the German "
 "Environment Agency (*Umweltbundesamt*), who developed the award criteria."
 msgstr ""
-"Els criteris de la concessió Blue Angel per al programari, amb el seu "
+"Els criteris de concessió de la Blue Angel per al programari, amb el seu "
 "enfocament en la transparència en els recursos i l'eficiència energètica, la "
 "vida útil del maquinari i l'autonomia de l'usuari, proporcionen un punt de "
 "referència excel·lent per a iniciar un debat sobre la sostenibilitat del "
@@ -6324,7 +6428,7 @@ msgstr ""
 "del producte. Estes inclouen proporcionar transparència en el consum "
 "d'energia quan s'utilitza el programari -per exemple, en el cas d'Okular, "
 "mentre es llig o anota un PDF- i la capacitat d'executar l'aplicació en el "
-"maquinari d'almenys cinc anys d'antiguitat. Els criteris de concessió de "
+"maquinari d'almenys cinc anys d'antiguitat. Els criteris de concessió de la "
 "Blue Angel també inclouen una llista de requisits d'autonomia de l'usuari "
 "que reduïxen l'impacte mediambiental del programari."
 
@@ -6437,8 +6541,8 @@ msgid ""
 "Blue Angel Award Ceremony At EnviroInfo Conference: Okular Officially "
 "Receives Eco-Label, First Ever For Software Product"
 msgstr ""
-"Cerimònia del premi Blue Angel al Congrés EnviroInfo: oficialment Okular rep "
-"l'etiqueta Eco, la primera per a un producte de programari"
+"Cerimònia de concessió de la Blue Angel al Congrés EnviroInfo: oficialment "
+"Okular rep l'etiqueta Eco, la primera per a un producte de programari"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:0
 msgid "Award Ceremony"
@@ -6502,21 +6606,21 @@ msgid ""
 msgstr ""
 "Com es va anunciar en març (llegiu més [ací](https://eco.kde.org/"
 "blog/2022-03-16-press-release-okular-blue-angel/)), s'ha reconegut Okular "
-"pel disseny de programari sostenible tal com es reflectix en el recent premi "
-"Blue Angel de criteris per a l'ecocertificació de programari. Introduïda el "
-"1978, la Blue Angel és la primera etiqueta ecològica del món i l'etiqueta "
-"ambiental oficial concedida pel govern alemany. Amb este premi, Okular és el "
-"primer i actualment únic programa informàtic amb certificació ecològica dins "
-"de les 30 organitzacions de la Xarxa Global d'Ecoetiquetes, la qual "
-"representa més de 50 països."
+"pel disseny de programari sostenible tal com es reflectix en els criteris de "
+"la concessió recent de la Blue Angel d'ecocertificació de programari. "
+"Introduïda el 1978, la Blue Angel és la primera etiqueta ecològica del món i "
+"l'etiqueta ambiental oficial concedida pel govern alemany. Amb este premi, "
+"Okular és el primer i actualment únic programa informàtic amb certificació "
+"ecològica dins de les 30 organitzacions de la Xarxa Global d'Ecoetiquetes, "
+"la qual representa més de 50 països."
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:20
 msgid ""
 "![Joseph, Harri, and Alexander on stage at the Blue Angel award ceremony.](/"
 "blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 msgstr ""
-"![Joseph, Harri i Alexander en l'escenari de la cerimònia del premi Blue "
-"Angel.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
+"![Joseph, Harri i Alexander en l'escenari de la cerimònia de la concessió de "
+"la Blue Angel.](/blog/images/2022-09-28_kde-receiving-ecocertification.webp)"
 
 #: content/blog/2022-09-28_okular_blue-angel-award-ceremony.md:22
 msgid ""
@@ -7675,7 +7779,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:34
 msgid "No Generative AI or LLMs"
-msgstr ""
+msgstr "Sense IA generativa ni LLM"
 
 #: content/opt-green-handbook/handbook_web.md:36
 msgid ""
@@ -7704,12 +7808,15 @@ msgstr ""
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 msgstr ""
+"[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:45
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux)"
 msgstr ""
+"[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
+"werkstatt/linux)"
 
 #: content/opt-green-handbook/handbook_web.md:47
 msgid ""
@@ -7729,7 +7836,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:54
 msgid "Introduction: What's This All About?"
-msgstr ""
+msgstr "Introducció: Sobre què va tot açò?"
 
 #: content/opt-green-handbook/handbook_web.md:56
 msgid ""
@@ -7798,6 +7905,9 @@ msgid ""
 "org/licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste."
 "jpg)-->\n"
 msgstr ""
+"<!--![Fotografia de brossa electrònica. (Imatge publicada segons una "
+"llicència de domini públic [CC0-1.0](https://spdx.org/licenses/CC0-1.0."
+"html).)](images/sec1_e-waste.jpg)-->\n"
 
 #: content/opt-green-handbook/handbook_web.md:75
 msgid ""
@@ -7811,7 +7921,7 @@ msgstr "**El dispositiu més respectuós amb el medi ambient és …**"
 
 #: content/opt-green-handbook/handbook_web.md:79
 msgid "Think about it for a minute."
-msgstr ""
+msgstr "Penseu-hi durant un minut."
 
 #: content/opt-green-handbook/handbook_web.md:81
 msgid "Now keep your answer in mind&mdash;we'll come back to it shortly."
@@ -7974,7 +8084,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:109
 msgid "A \"Tsunami Of E-Waste\""
-msgstr ""
+msgstr "Un «tsunami de brossa electrònica»"
 
 #: content/opt-green-handbook/handbook_web.md:111
 msgid ""
@@ -8346,7 +8456,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:173
 msgid "External Dependencies"
-msgstr ""
+msgstr "Dependències externes"
 
 #: content/opt-green-handbook/handbook_web.md:175
 msgid ""
@@ -8387,7 +8497,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:181
 msgid "Device Longevity"
-msgstr ""
+msgstr "Longevitat dels dispositius"
 
 #: content/opt-green-handbook/handbook_web.md:183
 msgid ""
@@ -8635,7 +8745,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:237
 msgid "What Is Source Code?"
-msgstr ""
+msgstr "Què és el codi font?"
 
 #: content/opt-green-handbook/handbook_web.md:239
 msgid ""
@@ -9141,7 +9251,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:358
 msgid "Appendix: Common Misconceptions"
-msgstr ""
+msgstr "Apèndix: Confusions habituals"
 
 #: content/opt-green-handbook/handbook_web.md:360
 msgid ""
@@ -9459,35 +9569,43 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:431
 msgid "**PC**: a laptop or desktop computer"
-msgstr ""
+msgstr "**PC**: un ordinador portàtil o d'escriptori"
 
 #: content/opt-green-handbook/handbook_web.md:432
 msgid ""
 "**FOSS Operating System** (OS): Linux is the most popular, but there are "
 "others such as OpenBSD and Haiku"
 msgstr ""
+"**Sistema operatiu FOSS** (SO): Linux és el més popular, però n'hi ha "
+"d'altres com OpenBSD o Haiku"
 
 #: content/opt-green-handbook/handbook_web.md:433
 msgid "**Proprietary Operating System** (OS): MS Windows, MacOS"
-msgstr ""
+msgstr "**Sistema operatiu propietari** (SO): MS Windows, macOS"
 
 #: content/opt-green-handbook/handbook_web.md:434
 msgid ""
 "**Distribution** (or Distro): A FOSS OS and accompanying software, often "
 "obtained from a website"
 msgstr ""
+"**Distribució** (o Distro): Un SO FOSS i el programari que l'acompanya, "
+"sovint s'obté d'un lloc web"
 
 #: content/opt-green-handbook/handbook_web.md:435
 msgid ""
 "**ISO** / **image file**: the file that contains the operating system to be "
 "installed"
 msgstr ""
+"**ISO** / **fitxer d'imatge**: el fitxer que conté el sistema operatiu a "
+"instal·lar"
 
 #: content/opt-green-handbook/handbook_web.md:436
 msgid ""
 "**Graphical User Interface** (GUI): a graphics-based way to interact with "
 "the computer (e.g., point and click with the mouse)"
 msgstr ""
+"**Interfície gràfica d'usuari** (IGU): una manera basada en gràfics "
+"d'interactuar amb l'ordinador (p. ex., apuntar i clicar amb el ratolí)"
 
 #: content/opt-green-handbook/handbook_web.md:437
 msgid ""
@@ -9495,6 +9613,9 @@ msgid ""
 "org/wiki/Graphical_user_interface) (GUI) used to interact with or administer "
 "the operating system"
 msgstr ""
+"**Entorn d'escriptori**: la [Interfície gràfica d'usuari](https://en."
+"wikipedia.org/wiki/Graphical_user_interface) (IGU) utilitzada per a "
+"interactuar amb o administrar el sistema operatiu"
 
 #: content/opt-green-handbook/handbook_web.md:438
 msgid ""
@@ -9502,6 +9623,9 @@ msgid ""
 "readers, text editors, games, rather than for administering the system (cf. "
 "Desktop Environment)"
 msgstr ""
+"**Aplicacions** (o Apps): programes d'ordinador per a tasques d'usuari "
+"final, p. ex., lectors de PDF, editors de text, jocs, en comptes "
+"d'administrar el sistema (compareu amb Entorn d'escriptori)"
 
 #: content/opt-green-handbook/handbook_web.md:439
 msgid ""
@@ -9654,11 +9778,12 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:468
 msgid "KDE Plasma's slogan is:"
-msgstr ""
+msgstr "L'eslògan de KDE Plasma és:"
 
+# skip-rule: t-com_pu
 #: content/opt-green-handbook/handbook_web.md:470
 msgid "\"Simple by default, powerful when needed.\""
-msgstr ""
+msgstr "«Senzill de manera predeterminada, potent quan cal.»"
 
 #: content/opt-green-handbook/handbook_web.md:472
 msgid ""
@@ -9764,6 +9889,9 @@ msgid ""
 "Starting a Linux or Repair Café is more work than organizing an event, but "
 "well worth it for ongoing support. Here are some resources on how start one:"
 msgstr ""
+"Començar un Linux o Repair Café és més faena que organitzar un esdeveniment, "
+"però val la pena per al suport a llarg termini. Ací teniu alguns recursos "
+"sobre com començar-ne un:"
 
 #: content/opt-green-handbook/handbook_web.md:496
 msgid ""
@@ -9772,6 +9900,10 @@ msgid ""
 "join/start-your-own/)\" and \"[Linux Repair Café](https://www.repaircafe.org/"
 "linux-repair-cafe/)\" webpages."
 msgstr ""
+"[Repair Cafe International](https://www.repaircafe.org/en/visit/) té "
+"informació molt útil a les pàgines web «[Start Your Own](https://www."
+"repaircafe.org/en/join/start-your-own/)» i «[Linux Repair Café](https://www."
+"repaircafe.org/linux-repair-cafe/)»."
 
 #: content/opt-green-handbook/handbook_web.md:497
 msgid ""
@@ -9780,6 +9912,10 @@ msgid ""
 "Community Repair Groups](https://therestartproject.org/end-of-windows-10-"
 "toolkit-for-repair-groups/)\"."
 msgstr ""
+"El [Restart Project](https://therestartproject.org/repair-options/find-your-"
+"repair-community/) ha preparat un «End of Windows 10: A Toolkit for "
+"Community Repair Groups](https://therestartproject.org/end-of-windows-10-"
+"toolkit-for-repair-groups/)»."
 
 #: content/opt-green-handbook/handbook_web.md:499
 msgid ""
@@ -9802,37 +9938,43 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:505
 msgid "[End Of 10](https://endof10.org) directory"
-msgstr ""
+msgstr "Directori d'[End Of 10](https://endof10.org)"
 
 #: content/opt-green-handbook/handbook_web.md:506
 msgid "[Repair Café International](https://www.repaircafe.org/en/visit/)"
-msgstr ""
+msgstr "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 
 #: content/opt-green-handbook/handbook_web.md:507
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/)"
 msgstr ""
+"[Restart Project](https://therestartproject.org/repair-options/find-your-"
+"repair-community/)"
 
 #: content/opt-green-handbook/handbook_web.md:508
 msgid ""
 "[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf"
 "%C3%A9) repair café directory"
 msgstr ""
+"Directori de Café Repair [iFixit](https://www.ifixit.com/Wiki/"
+"How_to_Find_your_Local_Repair_Caf%C3%A9)"
 
 #: content/opt-green-handbook/handbook_web.md:509
 msgid "[Linux User Groups](https://linux-events.org/SL_LUGs)"
-msgstr ""
+msgstr "[Grups d'usuaris de Linux](https://linux-events.org/SL_LUGs)"
 
 #: content/opt-green-handbook/handbook_web.md:510
 msgid "[CryptoParties](https://cryptoparty.in/)"
-msgstr ""
+msgstr "[CryptoParties](https://cryptoparty.in/)"
 
 #: content/opt-green-handbook/handbook_web.md:511
 msgid ""
 "Student and FOSS clubs (such as the [FOSS United Clubs](https://fossunited."
 "org/clubs) in India)"
 msgstr ""
+"Clubs d'estudiants i FOSS (com els [FOSS United Clubs](https://fossunited."
+"org/clubs) en l'Índia)"
 
 #: content/opt-green-handbook/handbook_web.md:512
 msgid "IT stores offering Linux support"
@@ -10342,19 +10484,23 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:623
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
+"Açò és ajuda voluntària per a mostrar als usuaris nous com poden ajudar-se a "
+"si mateixos."
 
 #: content/opt-green-handbook/handbook_web.md:624
 msgid "No contract is being established."
-msgstr ""
+msgstr "No s'establix cap contracte."
 
 #: content/opt-green-handbook/handbook_web.md:625
 msgid "Devices and data can break when you touch them."
-msgstr ""
+msgstr "Els dispositius i les dades poden trencar-se quan els toqueu."
 
 #: content/opt-green-handbook/handbook_web.md:626
 msgid ""
 "Attendees are responsible for their devices and for having data backups."
 msgstr ""
+"Els assistents són responsables dels seus dispositius i de tindre còpies de "
+"seguretat de les dades."
 
 #: content/opt-green-handbook/handbook_web.md:628
 msgid ""
@@ -10387,7 +10533,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:636
 msgid "Install the OS"
-msgstr ""
+msgstr "Instal·leu el SO"
 
 #: content/opt-green-handbook/handbook_web.md:638
 msgid ""
@@ -10687,7 +10833,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:707
 msgid "FOSS On Other Devices"
-msgstr ""
+msgstr "FOSS en altres dispositius"
 
 #: content/opt-green-handbook/handbook_web.md:709
 msgid ""
@@ -10700,21 +10846,25 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:711
 msgid "Smartphones & Tablets"
-msgstr ""
+msgstr "Telèfons intel·ligents i tauletes"
 
 #: content/opt-green-handbook/handbook_web.md:712
 msgid ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
 msgstr ""
+"Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
+"Ubuntu Touch, Phosh"
 
 #: content/opt-green-handbook/handbook_web.md:713
 msgid "Android derivatives: Replicant, lineageOS, e/OS"
-msgstr ""
+msgstr "Derivats d'Android: Replicant, lineageOS, e/OS"
 
 #: content/opt-green-handbook/handbook_web.md:714
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
 msgstr ""
+"Servidor domèstic (FreedomBox per a la sincronització de fitxers, xat, "
+"correu electrònic, multimèdia)"
 
 #: content/opt-green-handbook/handbook_web.md:715
 msgid "Home automation (Home Assistant, included with FreedomBox)"
@@ -10725,14 +10875,16 @@ msgid ""
 "Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
 msgstr ""
+"TV intel·ligents (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-"
+"bigscreen.org/))"
 
 #: content/opt-green-handbook/handbook_web.md:717
 msgid "E-book readers (KOReader)"
-msgstr ""
+msgstr "Lectors de llibres electrònics (KOReader)"
 
 #: content/opt-green-handbook/handbook_web.md:718
 msgid "Garage door openers (OpenGarage, ratgdo)"
-msgstr ""
+msgstr "Obertura de portes de garatges (OpenGarage, ratgdo)"
 
 #: content/opt-green-handbook/handbook_web.md:720
 msgid ""
@@ -10755,7 +10907,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:724
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Solució de problemes"
 
 #: content/opt-green-handbook/handbook_web.md:726
 msgid ""
@@ -10771,24 +10923,32 @@ msgid ""
 "[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
 msgstr ""
+"[Linux no s'instal·la](https://www.ifixit.com/Troubleshooting/Linux/Not"
+"+Installing/616642)"
 
 #: content/opt-green-handbook/handbook_web.md:729
 msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 msgstr ""
+"[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
+"bitlocker-during-ubuntu-installation/)"
 
 #: content/opt-green-handbook/handbook_web.md:730
 msgid ""
 "[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
 "com/blog/install-linux-nvidia-driver/)"
 msgstr ""
+"[Instal·lació de controladors de NVIDIA a Linux: una guia completa](https://"
+"linuxvox.com/blog/install-linux-nvidia-driver/)"
 
 #: content/opt-green-handbook/handbook_web.md:731
 msgid ""
 "[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
 msgstr ""
+"[Com configurar una impressora a Linux](https://www.maketecheasier.com/set-"
+"up-a-printer-in-linux/)"
 
 #: content/opt-green-handbook/handbook_web.md:732
 msgid ""
@@ -10796,6 +10956,9 @@ msgid ""
 "com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
 "p/36236)"
 msgstr ""
+"[Resolució de problemes de Linux: una guia d'iniciació](https://learn.redhat."
+"com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
+"p/36236)"
 
 #: content/opt-green-handbook/handbook_web.md:733
 msgid ""
@@ -10803,12 +10966,18 @@ msgid ""
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
 "tips-for-new-users/)"
 msgstr ""
+"[Resolució de problemes habituals de Linux: consells per a usuaris nous]"
+"(https://www.dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-"
+"problems-tips-for-new-users/)"
 
 #: content/opt-green-handbook/handbook_web.md:734
 msgid ""
 "[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
 "org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 msgstr ""
+"[Resolució de problemes habituals de Linux: una guia per a usuaris nous]"
+"(https://codegig.org/troubleshooting-common-linux-issues-a-guide-for-new-"
+"users/)"
 
 #: content/opt-green-handbook/handbook_web.md:737
 msgid ""
@@ -10827,6 +10996,8 @@ msgid ""
 "![Logo of the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety.](images/sec4_bmuv.png)"
 msgstr ""
+"![Logotip del Ministeri federal per al Medi Ambient, Conservació de la "
+"Natura, Seguretat Nuclear](images/sec4_bmuv.png)"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -11603,7 +11774,7 @@ msgstr ""
 #. grow-green.install-party-section.button
 #: i18n/en.yaml:243
 msgid "End Of 10"
-msgstr ""
+msgstr "Final de la 10"
 
 #. endof10.text
 #: i18n/en.yaml:245
