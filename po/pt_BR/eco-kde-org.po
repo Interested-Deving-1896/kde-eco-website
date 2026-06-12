@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-09 02:07+0000\n"
-"PO-Revision-Date: 2026-06-10 20:35-0300\n"
+"PO-Revision-Date: 2026-06-11 17:42-0300\n"
 "Last-Translator: Marcus Gama <marcus.gama@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
 "Language: pt_BR\n"
@@ -4249,6 +4249,8 @@ msgid ""
 "***Timestamps*** &nbsp;&nbsp; Once the data has been uploaded, you will need "
 "to tell `OSCAR` how to read the data."
 msgstr ""
+"***Carimbos de data/hora*** &nbsp;&nbsp; Depois que os dados forem "
+"carregados, você precisará informar ao `OSCAR` como ler os dados."
 
 #: content/be4foss-handbook/handbook_web.md:703
 msgid ""
@@ -4257,22 +4259,31 @@ msgid ""
 "correctly. This is done under *(2) Upload Messdaten* > *Formatierung "
 "Zeitstempel*."
 msgstr ""
+"Vamos começar com o formato do carimbo de data/hora (em alemão: "
+"*Formatierung Zeitstempel*). Este é um aspecto do processo que pode causar "
+"problemas se não for feito corretamente. Isso é feito em *(2) Upload "
+"Messdaten* > *Formatierung Zeitstempel*."
 
 #: content/be4foss-handbook/handbook_web.md:705
 msgid "Consider the Okular data:"
-msgstr ""
+msgstr "Considere os dados do Okular:"
 
 #: content/be4foss-handbook/handbook_web.md:707
 msgid ""
 "For the log file of actions, the datetime is encoded as *YYYY-MM-DD HH:MM:"
 "SS* (e.g., \"2022-10-04 12:32:43.656\" in “okularActions.csv”)."
 msgstr ""
+"Para o arquivo de registro de ações, a data e hora são codificadas como "
+"*AAAA-MM-DD HH:MM:SS* (por exemplo, \"2022-10-04 12:32:43.656\" em "
+"\"okularActions.csv\")."
 
 #: content/be4foss-handbook/handbook_web.md:709
 msgid ""
 "In `OSCAR`, this is specified as \"%Y-%m-%d %H:%M:%OS\" (see screenshot "
 "below). OSCAR will take care of the fractional seconds."
 msgstr ""
+"No `OSCAR`, isso é especificado como \"%Y-%m-%d %H:%M:%OS\" (veja a captura "
+"de tela abaixo). O OSCAR cuidará das frações de segundo."
 
 #: content/be4foss-handbook/handbook_web.md:711
 msgid ""
@@ -4281,12 +4292,18 @@ msgid ""
 "Note the period in the date and the comma seperating date from time, as well "
 "as only having two digits for the year."
 msgstr ""
+"Para os dados de consumo de energia, a data e hora são codificadas como *DD."
+"MM.AA, HH:MM:SS* (por exemplo, \"04.10.22, 12:32:43\" em "
+"“okular_baseline_eletrLeistung.csv”). Observe o ponto na data e a vírgula "
+"que separa a data da hora, bem como o fato de o ano ter apenas dois dígitos."
 
 #: content/be4foss-handbook/handbook_web.md:713
 msgid ""
 "In `OSCAR` this is specified as \"%d.%m.%y, %H:%M:%OS\" (see screenshot "
 "below), in which the lowercase “%y” indicates a year with two digits."
 msgstr ""
+"No `OSCAR`, isso é especificado como \"%d.%m.%y, %H:%M:%OS\" (veja a captura "
+"de tela abaixo), em que o “%y” minúsculo indica um ano com dois dígitos."
 
 #: content/be4foss-handbook/handbook_web.md:715
 msgid ""
@@ -4294,18 +4311,26 @@ msgid ""
 "MM:SS* (e.g., \"04.10.2022 12:31:43\" in “baseline_hardware_formatiert."
 "csv”). Note the period in the date and the four-digit year."
 msgstr ""
+"Para os dados de desempenho de hardware, a data e hora são codificadas como "
+"*DD.MM.AAAA HH:MM:SS* (por exemplo, \"04.10.2022 12:31:43\" em "
+"“baseline_hardware_formatiert.csv”). Observe o ponto na data e o ano com "
+"quatro dígitos."
 
 #: content/be4foss-handbook/handbook_web.md:717
 msgid ""
 "In `OSCAR`, this is specified as: \"%d.%m.%Y %H:%M:%OS\" (see screenshot "
 "below), in which the uppercase “%Y” indicates a year with four digits."
 msgstr ""
+"No `OSCAR`, isso é especificado como: \"%d.%m.%Y %H:%M:%OS\" (veja a captura "
+"de tela abaixo), em que o “%Y” maiúsculo indica um ano com quatro dígitos."
 
 #: content/be4foss-handbook/handbook_web.md:719
 msgid ""
 "![Specifying the format of the timestamps (German: *Formatierung "
 "Zeitstempel*).](images/sec3_oscar_3_timestamp.png)"
 msgstr ""
+"![Especificando o formato dos carimbos de data/hora (em alemão: "
+"*Formatierung Zeitstempel*).](images/sec3_oscar_3_timestamp.png)"
 
 #: content/be4foss-handbook/handbook_web.md:721
 msgid ""
@@ -4313,12 +4338,18 @@ msgid ""
 "specified, let’s explore the format of the measurement data (German: "
 "*Formatierung Messdaten*) in `OSCAR`."
 msgstr ""
+"***Dados de medição*** &nbsp;&nbsp; Após os registros de data e hora terem "
+"sido especificados corretamente, vamos explorar o formato dos dados de "
+"medição (em alemão: *Formatierung Messdaten*) no `OSCAR`."
 
 #: content/be4foss-handbook/handbook_web.md:723
 msgid ""
 "First, take a look at the log file of actions (German: *Aktionen*). This is "
 "done under *(2) Upload Messdaten* > *Formatierung Messdaten* > *Aktionen*."
 msgstr ""
+"Primeiro, dê uma olhada no arquivo de log de ações (em alemão: *Aktionen*). "
+"Isso é feito em *(2) Upload Messdaten* > *Formatierung Messdaten* > "
+"*Aktionen*."
 
 #: content/be4foss-handbook/handbook_web.md:725
 msgid ""
@@ -4326,6 +4357,10 @@ msgid ""
 "*Trennzeichen*), the string delimiter (German: *Textqualifizierer*), and the "
 "decimal separator (German: *Dezimaltrennzeichen*)."
 msgstr ""
+"Aqui você precisa indicar para o arquivo CSV carregado o separador (em "
+"alemão: *Trennzeichen*), o delimitador de string (em alemão: "
+"*Textqualifizierer*) e o separador decimal (em alemão: "
+"*Dezimaltrennzeichen*)."
 
 #: content/be4foss-handbook/handbook_web.md:727
 msgid ""
@@ -4333,25 +4368,32 @@ msgid ""
 "quotation string delimiter, and a period or full-stop decimal separator (see "
 "screenshot below)."
 msgstr ""
+"Para os dados Okular, isso é definido como um separador de ponto e vírgula, "
+"um delimitador de string de aspas duplas e um ponto final como separador "
+"decimal (veja a captura de tela abaixo)."
 
 #: content/be4foss-handbook/handbook_web.md:729
 msgid "Additionally, you will need to specify the following:"
-msgstr ""
+msgstr "Além disso, você precisará especificar o seguinte:"
 
 #: content/be4foss-handbook/handbook_web.md:731
 msgid ""
 "whether the first line contains headings (German: *Erste Zeile enthält "
 "Überschriften*);"
 msgstr ""
+"se a primeira linha contém títulos (em alemão: *Erste Zeile enthält "
+"Überschriften*);"
 
 #: content/be4foss-handbook/handbook_web.md:732
 msgid ""
 "the number of lines to skip (German: *Anzahl zu überspringender Zeilen*); and"
 msgstr ""
+"o número de linhas a serem ignoradas (em alemão: *Anzahl zu überspringender "
+"Zeilen*); e"
 
 #: content/be4foss-handbook/handbook_web.md:733
 msgid "the character encoding (German: *Zeichensatz (Encoding)*)."
-msgstr ""
+msgstr "a codificação de caracteres (em alemão: *Zeichensatz (Encoding)*)."
 
 #: content/be4foss-handbook/handbook_web.md:735
 msgid ""
@@ -4359,6 +4401,9 @@ msgid ""
 "“first line contains headings” is unchecked, 0 lines are skipped, and "
 "character encoding is utf-8."
 msgstr ""
+"Para os dados Okular, isso é definido da seguinte forma na captura de tela a "
+"seguir: a opção “a primeira linha contém cabeçalhos” está desmarcada, 0 "
+"linhas são ignoradas e a codificação de caracteres é utf-8."
 
 #: content/be4foss-handbook/handbook_web.md:737
 #: content/be4foss-handbook/handbook_web.md:747
@@ -4366,6 +4411,8 @@ msgid ""
 "When everything is defined correctly, a preview of the spreadsheet will be "
 "shown."
 msgstr ""
+"Quando tudo estiver configurado corretamente, uma pré-visualização da "
+"planilha será exibida."
 
 #: content/be4foss-handbook/handbook_web.md:739
 msgid ""
@@ -4373,6 +4420,9 @@ msgid ""
 "Messdaten*) for the log file of actions (German: *Aktionen*).](images/"
 "sec3_oscar_4_actions.png)"
 msgstr ""
+"![Especificando o formato dos dados de medição (em alemão: *Formatierung "
+"Messdaten*) para o arquivo de registro de ações (em alemão: *Aktionen*).]"
+"(images/sec3_oscar_4_actions.png)"
 
 #: content/be4foss-handbook/handbook_web.md:741
 msgid ""
@@ -4380,12 +4430,17 @@ msgid ""
 "*Elektrische Leistung*). This is done under *(2) Upload Messdaten* > "
 "*Formatierung Messdaten* > *Elektrische Leistung*."
 msgstr ""
+"Em segundo lugar, dê uma olhada nas medições de consumo de energia (em "
+"alemão: *Elektrische Leistung*). Isso é feito em *(2) Upload Messdaten* > "
+"*Formatierung Messdaten* > *Elektrische Leistung*."
 
 #: content/be4foss-handbook/handbook_web.md:743
 msgid ""
 "The required input is the same as for the log file of actions, seen in the "
 "following screenshot."
 msgstr ""
+"A entrada necessária é a mesma que para o arquivo de registro de ações, "
+"conforme mostrado na seguinte captura de tela."
 
 #: content/be4foss-handbook/handbook_web.md:745
 msgid ""
@@ -4394,12 +4449,19 @@ msgid ""
 "specified for the decimal separator and a checkmark indicates that the first "
 "line contains headings. Finally, the 1st line is skipped."
 msgstr ""
+"Para os dados Okular aqui apresentados, temos um separador de ponto e "
+"vírgula, um delimitador de strings com aspas duplas e a codificação de "
+"caracteres utf-8. No entanto, agora uma vírgula foi especificada como "
+"separador decimal e uma marca de seleção indica que a primeira linha contém "
+"cabeçalhos. Por fim, a primeira linha foi omitida."
 
 #: content/be4foss-handbook/handbook_web.md:749
 msgid ""
 "![Specifying the format for the energy consumption data (German: "
 "*Elektrische Leistung*).](images/sec3_oscar_5_energy.png)"
 msgstr ""
+"![Especificando o formato para os dados de consumo de energia (em alemão: "
+"*Elektrische Leistung*).](images/sec3_oscar_5_energy.png)"
 
 #: content/be4foss-handbook/handbook_web.md:751
 msgid ""
@@ -4407,6 +4469,9 @@ msgid ""
 "Auslastung*). This is done under *(2) Upload Messdaten* > *Formatierung "
 "Messdaten* > *Hardware-Auslastung*."
 msgstr ""
+"Finalmente, dê uma olhada nos dados de desempenho do hardware (em alemão: "
+"*Hardware-Auslastung*). Isso é feito em *(2) Upload Messdaten* > "
+"*Formatierung Messdaten* > *Hardware-Auslastung*."
 
 #: content/be4foss-handbook/handbook_web.md:753
 msgid ""
@@ -4415,176 +4480,197 @@ msgid ""
 "decimal separator. There is a checkmark that the first line contains "
 "headings, 0 lines are skipped, and the character encoding is utf-8."
 msgstr ""
+"A entrada necessária é a mesma. Neste exemplo, a entrada consiste em um "
+"ponto e vírgula como separador, aspas duplas como delimitador de string e um "
+"ponto (ou seja, um ponto final) como separador decimal. Há uma marca de "
+"seleção indicando que a primeira linha contém cabeçalhos, nenhuma linha foi "
+"ignorada e a codificação de caracteres é UTF-8."
 
 #: content/be4foss-handbook/handbook_web.md:755
 msgid ""
 "However, now there is the additional requirement of specifying the columns "
 "(German: *Spalten*)."
 msgstr ""
+"No entanto, agora existe o requisito adicional de especificar as colunas (em "
+"alemão: *Spalten*)."
 
 #: content/be4foss-handbook/handbook_web.md:757
 msgid ""
 "For the columns specification, the following need to be identified; select "
 "NA for unused columns, e.g., “Auslastung Auslagerungsdatei” here."
 msgstr ""
+"Para a especificação das colunas, é necessário identificar o seguinte; "
+"selecione NA para colunas não utilizadas, por exemplo, “Auslastung "
+"Auslagerungsdatei” neste caso."
 
 #: content/be4foss-handbook/handbook_web.md:759
 msgid "*Zeitstempel*: Datetime (i.e., ‘Date-Time’)"
-msgstr ""
+msgstr "*Zeitstempel*: Data-hora (ou seja, ‘Date-Time’)"
 
 #: content/be4foss-handbook/handbook_web.md:760
 msgid "*CPU-Auslastung*: CPU (i.e., ‘X.CPU.Totl’)"
-msgstr ""
+msgstr "*CPU-Auslastung*: CPU (ou seja, ‘X.CPU.Totl’)"
 
 #: content/be4foss-handbook/handbook_web.md:761
 msgid "*RAM-Auslastung*: RAM (i.e., ‘X.MEM.Used’)"
-msgstr ""
+msgstr "*RAM-Auslastung*: RAM (ou seja, ‘X.MEM.Used’)"
 
 #: content/be4foss-handbook/handbook_web.md:762
 msgid "*Über Netzwerk gesendet*: Network transmitted (i.e., ‘X.NET.TxKBTot’)"
-msgstr ""
+msgstr "*Über Netzwerk gesendet*: Rede transmitida (ou seja, ‘X.NET.TxKBTot’)"
 
 #: content/be4foss-handbook/handbook_web.md:763
 msgid "*Über Netzwerk empfangen*: Network received (i.e., ‘X.NET.RxKBTot’)"
-msgstr ""
+msgstr "*Über Netzwerk empfangen*: Rede recebida (ou seja, ‘X.NET.RxKBTot’)"
 
 #: content/be4foss-handbook/handbook_web.md:764
 msgid "*Von Festplatte gelesen*: Disk read (i.e., ‘X.DSK.ReadKBTot’)"
-msgstr ""
+msgstr "*Von Festplatte gelesen*: Disco lido (ou seja, ‘X.DSK.ReadKBTot’)"
 
 #: content/be4foss-handbook/handbook_web.md:765
 msgid "*Auf Festplatte geschrieben*: Disk written (i.e., ‘X.DSK.WriteKBTot’)"
 msgstr ""
+"*Auf Festplatte geschrieben*: Disco escrito (ou seja, ‘X.DSK.WriteKBTot’)"
 
 #: content/be4foss-handbook/handbook_web.md:766
 msgid "*Auslastung Auslagerungsdatei*: Swap (here, ‘N/A’)"
-msgstr ""
+msgstr "*Auslastung Auslagerungsdatei*: Troca (aqui, ‘N/A’)"
 
 #: content/be4foss-handbook/handbook_web.md:768
 msgid ""
 "![Specifying the format for the hardware performance data (German: *Hardware-"
 "Auslastung*).](images/sec3_oscar_6_hw.png)"
 msgstr ""
+"![Especificando o formato para os dados de desempenho do hardware (em "
+"alemão: *Hardware-Auslastung*).](images/sec3_oscar_6_hw.png)"
 
 #: content/be4foss-handbook/handbook_web.md:770
 msgid "Translations"
-msgstr ""
+msgstr "Traduções"
 
 #: content/be4foss-handbook/handbook_web.md:772
 msgid ""
 "Here is an overview of some of the German terminology used in `OSCAR` and "
 "the English translations:"
 msgstr ""
+"Segue abaixo uma visão geral de alguns dos termos alemães usados ​​em `OSCAR` "
+"e suas traduções para o português:"
 
 #: content/be4foss-handbook/handbook_web.md:774
 msgid "*Messungen*: Measurements (e.g., Idle Mode or SUS)"
-msgstr ""
+msgstr "*Messungen*: Medições (por exemplo, Modo Ocioso ou SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:775
 msgid "*Aktionen*: Actions (i.e., log file of actions taken)"
-msgstr ""
+msgstr "*Aktionen*: Ações (ou seja, arquivo de registro das ações realizadas)"
 
 #: content/be4foss-handbook/handbook_web.md:776
 msgid ""
 "*Elektrische Leistung*: ‘Electrical power’ (i.e., energy consumption "
 "measurements)"
 msgstr ""
+"*Elektrische Leistung*: ‘Energia elétrica’ (ou seja, medições de consumo de "
+"energia)"
 
 #: content/be4foss-handbook/handbook_web.md:777
 msgid ""
 "*Hardware-Auslastung*: ‘Hardware load’ (i.e., hardware performance "
 "measurements)"
 msgstr ""
+"*Hardware-Auslastung*: 'Carga de hardware' (ou seja, medições de desempenho "
+"de hardware)"
 
 #: content/be4foss-handbook/handbook_web.md:778
 msgid ""
 "*Dauer der Einzelmessungen (s)*: ‘Duration of the individual measurements "
 "(s)’ (i.e., specify how long each iteration was in seconds)"
 msgstr ""
+"*Dauer der Einzelmessungen (s)*: ‘Duração das medições individuais (s)’ (ou "
+"seja, especifica quanto tempo durou cada iteração em segundos)"
 
 #: content/be4foss-handbook/handbook_web.md:779
 msgid "*Art der Messung*: ‘Type of measurement’"
-msgstr ""
+msgstr "*Art der Messung*: Tipo de medição’"
 
 #: content/be4foss-handbook/handbook_web.md:780
 msgid "*Leerlauf*: ‘Idle’ (i.e., Idle mode)"
-msgstr ""
+msgstr "*Leerlauf*: ‘Ocioso’ (ou seja, modo ocioso)"
 
 #: content/be4foss-handbook/handbook_web.md:781
 msgid "*Nutzungsszenario*: ‘Usage scenario’ (i.e., SUS)"
-msgstr ""
+msgstr "*Nutzungsszenario*: ‘Cenário de uso’ (ou seja, SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:783
 msgid "*Formatierung Messdaten*: ‘Formatting measurement data’"
-msgstr ""
+msgstr "*Formatierung Messdaten*: ‘Formatação de dados de medição’"
 
 #: content/be4foss-handbook/handbook_web.md:784
 msgid "*Formatierung Zeitstempel*: ‘Formatting timestamp’"
-msgstr ""
+msgstr "*Formatierung Zeitstempel*: ‘Formatação do carimbo de data/hora’"
 
 #: content/be4foss-handbook/handbook_web.md:786
 msgid "*Trennzeichen* ‘Separator’"
-msgstr ""
+msgstr "*Trennzeichen* ‘Separador’"
 
 #: content/be4foss-handbook/handbook_web.md:787
 msgid "*Textqualifizierer*: ‘String delimiter’"
-msgstr ""
+msgstr "*Textqualifizierer*: ‘Delimitador de texto’"
 
 #: content/be4foss-handbook/handbook_web.md:788
 msgid "*Dezimaltrennzeichen*: ‘Decimal separator’"
-msgstr ""
+msgstr "*Dezimaltrennzeichen*: ‘Separador decimal’"
 
 #: content/be4foss-handbook/handbook_web.md:789
 msgid "*Erste Zeile enthält Überschriften*: ‘First line contains headings’"
-msgstr ""
+msgstr "*Erste Zeile enthält Überschriften*: ‘Primeira linha contém cabeçalho’"
 
 #: content/be4foss-handbook/handbook_web.md:790
 msgid "*Anzahl zu überspringender Zeilen*: ‘Number of lines to skip’"
-msgstr ""
+msgstr "*Anzahl zu überspringender Zeilen*: ‘Número de linhas a pular’"
 
 #: content/be4foss-handbook/handbook_web.md:791
 msgid "*Zeichensatz (Encoding)*: ‘Character set (encoding)’"
-msgstr ""
+msgstr "*Zeichensatz (Encoding)*: ‘Conjunto de caracteres (codificação)’"
 
 #: content/be4foss-handbook/handbook_web.md:793
 msgid "*Spalten*: Columns"
-msgstr ""
+msgstr "*Spalten*: Colunas"
 
 #: content/be4foss-handbook/handbook_web.md:794
 msgid "*Zeitstempel*: ‘Datetime’"
-msgstr ""
+msgstr "*Zeitstempel*: ‘Data-hora’"
 
 #: content/be4foss-handbook/handbook_web.md:795
 msgid "*CPU-Auslastung*: ‘CPU utilization’"
-msgstr ""
+msgstr "*CPU-Auslastung*: ‘Uso da CPU’"
 
 #: content/be4foss-handbook/handbook_web.md:796
 msgid "*RAM-Auslastung*: ‘RAM utilization’"
-msgstr ""
+msgstr "*RAM-Auslastung*: ‘Uso de RAM’"
 
 #: content/be4foss-handbook/handbook_web.md:797
 msgid "*Über Netzwerk gesendet*: ‘Sent via network’"
-msgstr ""
+msgstr "*Über Netzwerk gesendet*: ‘Enviado via rede’"
 
 #: content/be4foss-handbook/handbook_web.md:798
 msgid "*Über Netzwerk empfangen*: ‘Received via network’"
-msgstr ""
+msgstr "*Über Netzwerk empfangen*: ‘Recebido via rede’"
 
 #: content/be4foss-handbook/handbook_web.md:799
 msgid "*Von Festplatte gelesen*: ‘Read from disk’"
-msgstr ""
+msgstr "*Von Festplatte gelesen*: ‘Lido do disco’"
 
 #: content/be4foss-handbook/handbook_web.md:800
 msgid "*Auf Festplatte geschrieben*: ‘Written to disk’"
-msgstr ""
+msgstr "*Auf Festplatte geschrieben*: ‘Escrito no disco’"
 
 #: content/be4foss-handbook/handbook_web.md:801
 msgid "*Auslastung Auslagerungsdatei*: ‘Swap file utlization’"
-msgstr ""
+msgstr "*Auslastung Auslagerungsdatei*: ‘Uso do arquivo de troca’"
 
 #: content/be4foss-handbook/handbook_web.md:803
 msgid "Step 3: Generating The Reports (Idle, SUS)"
-msgstr ""
+msgstr "Etapa 3: Geração dos relatórios (Ocioso, SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:805
 msgid ""
@@ -4592,31 +4678,35 @@ msgid ""
 "will need to do this process twice, once for (i) the idle mode and (ii) "
 "standard usage scenario measurements, resulting in two documents."
 msgstr ""
+"Após concluir os passos acima, o relatório poderá ser gerado e baixado. Você "
+"precisará realizar esse processo duas vezes, uma para (i) o modo ocioso e "
+"(ii) as medições do cenário de uso padrão, resultando em dois documentos."
 
 #: content/be4foss-handbook/handbook_web.md:807
 msgid ""
 "![Generating the report (German: *Bericht erzeugen*).](images/"
 "sec3_oscar_7_report.png)"
 msgstr ""
+"![Gerando o relatório (em alemão: *Bericht erzeugen*).](images/"
+"sec3_oscar_7_report.png)"
 
 #: content/be4foss-handbook/handbook_web.md:809
 msgid ""
 "For Blue Angel eco-certification, the two reports will be submitted for "
 "evaluation by RAL."
 msgstr ""
+"Para a certificação ecológica Blue Angel, os dois relatórios serão "
+"submetidos à avaliação da RAL."
 
 #: content/be4foss-handbook/handbook_web.md:811
 #: content/be4foss-handbook/handbook_web.md:847
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "For examples of the above for Okular, see KDE’s [Blue Angel Applications]"
 "(https://invent.kde.org/teams/eco/blue-angel-application) repository:"
 msgstr ""
-"Aplicações para o Blue Angel (Repositório GitLab): https://invent.kde.org/"
-"teams/eco/blue-angel-application"
+"Para exemplos do que foi mencionado acima para o Okular, consulte o "
+"repositório [Aplicativos Blue Angel ](https://invent.kde.org/teams/eco/blue-"
+"angel-application) do KDE:"
 
 #: content/be4foss-handbook/handbook_web.md:813
 msgid ""
@@ -4624,6 +4714,9 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
 "idle.pdf)"
 msgstr ""
+"[Relatório do OSCAR: Modo Ocioso](https://invent.kde.org/teams/eco/blue-"
+"angel-application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-"
+"okular-idle.pdf)"
 
 #: content/be4foss-handbook/handbook_web.md:814
 msgid ""
@@ -4631,52 +4724,70 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
 "scenario.pdf)"
 msgstr ""
+"[Relatório do OSCAR: SUS](https://invent.kde.org/teams/eco/blue-angel-"
+"application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
+"scenario.pdf)"
 
 #: content/be4foss-handbook/handbook_web.md:816
 msgid "Preparing The Documentation For Blue Angel"
-msgstr ""
+msgstr "Preparando a documentação para o Blue Angel"
 
 #: content/be4foss-handbook/handbook_web.md:818
 msgid ""
 "For Blue Angel eco-certification, it is necessary to complete several forms "
 "alongside the two reports from `OSCAR`."
 msgstr ""
+"Para a certificação ecológica Blue Angel, é necessário preencher diversos "
+"formulários, além dos dois relatórios do OSCAR."
 
 #: content/be4foss-handbook/handbook_web.md:820
 msgid "Information that needs to be included in the forms is as follows:"
 msgstr ""
+"As informações que precisam ser incluídas nos formulários são as seguintes:"
 
 #: content/be4foss-handbook/handbook_web.md:822
 msgid ""
 "Details about the software (name, version) and measurement process (when and "
 "where measurements were made, etc.)."
 msgstr ""
+"Detalhes sobre o software (nome, versão) e o processo de medição (quando e "
+"onde as medições foram feitas, etc.)."
 
 #: content/be4foss-handbook/handbook_web.md:824
 msgid ""
 "Technical details about the power meter (instrument, sampling frequency, "
 "length of scenario, sample size)."
 msgstr ""
+"Detalhes técnicos sobre o medidor de potência (instrumento, frequência de "
+"amostragem, duração do cenário, tamanho da amostra)."
 
 #: content/be4foss-handbook/handbook_web.md:826
 msgid ""
 "Technical details about the reference system (year, model, processor, cores, "
 "etc.)."
 msgstr ""
+"Detalhes técnicos sobre o sistema de referência (ano, modelo, processador, "
+"núcleos, etc.)."
 
 #: content/be4foss-handbook/handbook_web.md:828
 msgid "Software stack used for the measurements (`xdotool`, `Collectl`, etc.)."
 msgstr ""
+"Conjunto de softwares utilizados para as medições (`xdotool`, `Collectl`, "
+"etc)."
 
 #: content/be4foss-handbook/handbook_web.md:830
 msgid ""
 "Minimum system requirements (processor architecture, local working memory, "
 "etc.)."
 msgstr ""
+"Requisitos mínimos do sistema (arquitetura do processador, memória de "
+"trabalho local, etc.)."
 
 #: content/be4foss-handbook/handbook_web.md:832
 msgid "Energy consumption results found in the `OSCAR` reports or equivalent."
 msgstr ""
+"Os resultados de consumo de energia podem ser encontrados nos relatórios "
+"`OSCAR` ou equivalentes."
 
 #: content/be4foss-handbook/handbook_web.md:834
 msgid ""
@@ -4684,6 +4795,9 @@ msgid ""
 "idle mode measurements, and for SUS use the standard usage scenario "
 "measurements):"
 msgstr ""
+"Resultados de utilização de hardware, que incluem o seguinte (para OCIOSO, "
+"utilize as medições do modo ocioso e, para SUS, utilize as medições do "
+"cenário de uso padrão):"
 
 #: content/be4foss-handbook/handbook_web.md:835
 msgid ""
@@ -4691,17 +4805,25 @@ msgid ""
 "memory the sum of the installed RAM capacities, for network bandwidth the "
 "maximum transmission speed, etc.” (Blue Angel award criteria: p. 23)."
 msgstr ""
+"*Carga Total*: “Para poder de processamento, a carga total é de 100%, para "
+"memória de trabalho a soma das capacidades de RAM instaladas, para largura "
+"de banda de rede a velocidade máxima de transmissão, etc.” (Critérios do "
+"prêmio Blue Angel: p. 23)."
 
 #: content/be4foss-handbook/handbook_web.md:836
 msgid ""
 "*Base Load*: Average load for the reference system in Baseline measurements."
 msgstr ""
+"*Carga Base*: Carga média do sistema de referência nas medições de linha de "
+"base."
 
 #: content/be4foss-handbook/handbook_web.md:837
 msgid ""
 "*Idle/SUS Load*: Average load for the reference system for IDLE/SUS "
 "measurements."
 msgstr ""
+"*Carga Ocioso/SUS*: Carga média do sistema de referência para medições "
+"Ocioso/SUS."
 
 #: content/be4foss-handbook/handbook_web.md:839
 msgid ""
@@ -4709,28 +4831,34 @@ msgid ""
 "hardware utilization (for IDLE use the idle mode measurements, and for SUS "
 "use the standard usage scenario measurements):"
 msgstr ""
+"Com base nas medições acima, os seguintes cálculos foram feitos para a "
+"utilização do hardware (para o modo ocioso, utilize as medições do modo "
+"ocioso e, para o modo de uso padrão, utilize as medições do cenário de uso "
+"padrão):"
 
 #: content/be4foss-handbook/handbook_web.md:840
 msgid "*Net Load*: IDLE/SUS Load - Base Load"
-msgstr ""
+msgstr "*Carga Líquida*: Carga OCIOSO/SUS Load - Carga Base"
 
 #: content/be4foss-handbook/handbook_web.md:841
 msgid "*Allocation Factor*: Net Load/(Full Load - Base Load)"
-msgstr ""
+msgstr "*Fator de Alocação*: Carga Líquida/(Carga Total - Carga Base)"
 
 #: content/be4foss-handbook/handbook_web.md:842
 msgid "*Effective Load*: Net Load + Allocation Factor * Base Load"
-msgstr ""
+msgstr "*Carga Efetiva*: Carga Líquida + Fator de Alocação * Carga Base"
 
 #: content/be4foss-handbook/handbook_web.md:843
 msgid "*Hardware Utilization* (SUS only): Effective Load * Time (seconds)"
-msgstr ""
+msgstr "*Uso do Hardware* (somente SUS): Carga efetiva * Tempo (segundos)"
 
 #: content/be4foss-handbook/handbook_web.md:845
 msgid ""
 "For Blue Angel eco-certification, the above information will be added to two "
 "documents called “Annex 1” and “Annex 2”."
 msgstr ""
+"Para a certificação ecológica Blue Angel, as informações acima serão "
+"adicionadas a dois documentos denominados “Anexo 1” e “Anexo 2”."
 
 #: content/be4foss-handbook/handbook_web.md:849
 #: content/be4foss-handbook/handbook_web.md:1043
@@ -4738,6 +4866,8 @@ msgid ""
 "[Annex 1](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
 "master/applications/okular/de-uz-215-eng-annex-1-okular.docx)"
 msgstr ""
+"[Anexo 1](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
+"master/applications/okular/de-uz-215-eng-annex-1-okular.docx)"
 
 #: content/be4foss-handbook/handbook_web.md:850
 #: content/be4foss-handbook/handbook_web.md:1044
@@ -4745,10 +4875,12 @@ msgid ""
 "[Annex 2](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
 "master/applications/okular/de-uz-215-eng-annex-2-okular.xlsx)"
 msgstr ""
+"[Anexo 2](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
+"master/applications/okular/de-uz-215-eng-annex-2-okular.xlsx)"
 
 #: content/be4foss-handbook/handbook_web.md:852
 msgid "<a name=\"sec:gosundPM\"></a> Alternative: Gosund SP111 Setup"
-msgstr ""
+msgstr "<a name=\"sec:gosundPM\"></a> Alternativa: Configuração Gosund SP111"
 
 #: content/be4foss-handbook/handbook_web.md:854
 msgid ""
@@ -4758,6 +4890,12 @@ msgid ""
 "meter, courtesy of Volker Krause, who also documented the process provided "
 "here. You can read more at the following posts from Volker’s blog:"
 msgstr ""
+"Quer começar a medir o consumo de energia do seu software, mas está com "
+"pouco dinheiro ou equipamentos? Quer experimentar o processo sem montar um "
+"laboratório dedicado? Experimente esta dica de Volker Krause, que converte "
+"um adaptador de tomada barato em um medidor de consumo de energia. Ele "
+"também documentou o processo aqui. Você pode ler mais nos seguintes posts do "
+"blog do Volker:"
 
 #: content/be4foss-handbook/handbook_web.md:856
 msgid ""
@@ -4765,12 +4903,18 @@ msgid ""
 "web/20221002125057/https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
 "measurement-tools.html)"
 msgstr ""
+"[“*Medição de Potência Elétrica Barata*”](https://web.archive.org/"
+"web/20221002125057/https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html)"
 
 #: content/be4foss-handbook/handbook_web.md:858
 msgid ""
 "[“*KDE Eco Sprint July 2022*”](https://web.archive.org/web/20220819231538/"
 "https://www.volkerkrause.eu/2022/07/23/kde-eco-sprint-july-2022.html)"
 msgstr ""
+"[“*KDE Eco Sprint de Julho de 2022*”](https://web.archive.org/"
+"web/20220819231538/https://www.volkerkrause.eu/2022/07/23/kde-eco-sprint-"
+"july-2022.html)"
 
 #: content/be4foss-handbook/handbook_web.md:860
 msgid ""
@@ -4779,6 +4923,10 @@ msgid ""
 "tasmota/docs/blob/development/docs/devices/BlitzWolf-SHP6.md) with [Tasmota "
 "firmware](https://tasmota.github.io/docs) in 10 steps."
 msgstr ""
+"Abaixo está um guia para configurar uma tomada elétrica [Gosund SP111]"
+"(https://templates.blakadder.com/gosund_SP111_v2.html) já [com firmware "
+"Tasmota](https://github.com/tasmota/docs/blob/development/docs/devices/"
+"BlitzWolf-SHP6.md) em 10 etapas."
 
 #: content/be4foss-handbook/handbook_web.md:862
 msgid ""
@@ -4786,54 +4934,66 @@ msgid ""
 "accepted by the Blue Angel for eco-certification, it is nonetheless possible "
 "to obtain preliminary data using this tool."
 msgstr ""
+"Embora os dados do medidor de energia barato provavelmente não sejam aceitos "
+"pelo Blue Angel para certificação ecológica, ainda é possível obter dados "
+"preliminares usando esta ferramenta."
 
 #: content/be4foss-handbook/handbook_web.md:864
 msgid "(0) *Prerequisite*"
-msgstr ""
+msgstr "(0) *Pré-requisito*"
 
 #: content/be4foss-handbook/handbook_web.md:866
 msgid ""
 "It is necessary to have the power plug already flashed with a sufficiently "
 "new Tasmota version."
 msgstr ""
+"É necessário que a tomada já esteja atualizada com uma versão "
+"suficientemente recente do Tasmota."
 
 #: content/be4foss-handbook/handbook_web.md:868
 msgid "(1) *Firmware Reset*"
-msgstr ""
+msgstr "(1) *Redefinição de Firmware*"
 
 #: content/be4foss-handbook/handbook_web.md:870
 msgid ""
 "If the device had previously been connected to another Wifi network, it "
 "might need a full reset before being able to connect to a new one."
 msgstr ""
+"Se o dispositivo já tiver sido conectado a outra rede Wi-Fi, pode ser "
+"necessário reiniciá-lo completamente antes de conseguir se conectar a uma "
+"nova rede."
 
 #: content/be4foss-handbook/handbook_web.md:872
 msgid ""
 "If the device did open a WiFi access point named “tasmota-XXXXX” this is not "
 "needed, continue directly to (2)."
 msgstr ""
+"Se o dispositivo abriu um ponto de acesso Wi-Fi chamado “tasmota-XXXXX”, "
+"isso não é necessário, continue diretamente para (2)."
 
 #: content/be4foss-handbook/handbook_web.md:874
 msgid "Press the button for 40 seconds."
-msgstr ""
+msgstr "Pressione o botão por 40 segundos."
 
 #: content/be4foss-handbook/handbook_web.md:876
 msgid "The device will restart and you should be able to continue at (2)."
-msgstr ""
+msgstr "O dispositivo será reiniciado e você poderá continuar em (2)."
 
 #: content/be4foss-handbook/handbook_web.md:878
 msgid "(2) *WiFi Setup*"
-msgstr ""
+msgstr "(2) *Configuração do WiFi*"
 
 #: content/be4foss-handbook/handbook_web.md:880
 msgid ""
 "The device opens a WiFi access point named “tasmota-XXXXX”&mdash;connect to "
 "that."
 msgstr ""
+"O dispositivo abre um ponto de acesso Wi-Fi chamado “tasmota-XXXXX” e "
+"conecta-se a ele."
 
 #: content/be4foss-handbook/handbook_web.md:882
 msgid "Open http://192.168.4.1 in a browser."
-msgstr ""
+msgstr "Abra http://192.168.4.1 em um navegador."
 
 #: content/be4foss-handbook/handbook_web.md:884
 msgid ""
@@ -4841,116 +5001,136 @@ msgid ""
 "entering those. The device will reconnect to that WiFi and disable its "
 "access point."
 msgstr ""
+"Após inserir essas informações, o dispositivo solicitará o nome e a senha da "
+"rede Wi-Fi para se conectar. Em seguida, o dispositivo se reconectará à rede "
+"Wi-Fi e desativará o ponto de acesso."
 
 #: content/be4foss-handbook/handbook_web.md:886
 msgid ""
 "While doing that it should show you its new address in the browser&mdash;"
 "make a note of it."
 msgstr ""
+"Ao fazer isso, o navegador deverá exibir o novo endereço &mdash; anote-o."
 
 #: content/be4foss-handbook/handbook_web.md:888
 msgid ""
 "In case that did not happen, check your WiFi router for the address of the "
 "device."
 msgstr ""
+"Caso isso não aconteça, verifique o endereço do dispositivo no seu roteador "
+"Wi-Fi."
 
 #: content/be4foss-handbook/handbook_web.md:890
 msgid "(3) *Tasmota Setup*"
-msgstr ""
+msgstr "(3) *Configuração do Tasmota*"
 
 #: content/be4foss-handbook/handbook_web.md:892
 #: content/be4foss-handbook/handbook_web.md:918
 msgid "Open the address from step (2) in a browser."
-msgstr ""
+msgstr "Abra o endereço da etapa (2) em um navegador."
 
 #: content/be4foss-handbook/handbook_web.md:894
 msgid ""
 "You should see the Tasmota web UI (a big “ON/OFF” text and a bunch of blue "
 "and one red button)."
 msgstr ""
+"Você deverá ver a interface web do Tasmota (um grande texto \"LIGADO/"
+"DESLIGADO\", vários botões azuis e um vermelho)."
 
 #: content/be4foss-handbook/handbook_web.md:896
 msgid "Click “Configuration”."
-msgstr ""
+msgstr "Clique em ”Configuração”."
 
 #: content/be4foss-handbook/handbook_web.md:898
 msgid "Click “Configure Other”."
-msgstr ""
+msgstr "Clique em “Configurar Outro”."
 
 #: content/be4foss-handbook/handbook_web.md:900
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: content/be4foss-handbook/handbook_web.md:906
 msgid "into the template input field."
-msgstr ""
+msgstr "no campo de entrada de modelo."
 
 #: content/be4foss-handbook/handbook_web.md:908
 msgid "Tick the “Activate” checkbox."
-msgstr ""
+msgstr "Marque a caixa de seleção “Ativar”."
 
 #: content/be4foss-handbook/handbook_web.md:910
 #: content/be4foss-handbook/handbook_web.md:966
 msgid "Click “Save”."
-msgstr ""
+msgstr "Clique em Salvar”."
 
 #: content/be4foss-handbook/handbook_web.md:912
 msgid "The device will restart; connect to it again."
-msgstr ""
+msgstr "O dispositivo será reiniciado; conecte-se a ele novamente."
 
 #: content/be4foss-handbook/handbook_web.md:914
 msgid ""
 "The UI should now also contain text fields showing electrical properties, "
 "and the “Toggle” button should now actually work."
 msgstr ""
+"A interface do usuário agora também deve conter campos de texto mostrando as "
+"propriedades elétricas, e o botão \"Alternar\" agora deve funcionar "
+"corretamente."
 
 #: content/be4foss-handbook/handbook_web.md:916
 msgid "(4) *Calibration*"
-msgstr ""
+msgstr "(4) *Calibragem*"
 
 #: content/be4foss-handbook/handbook_web.md:920
 msgid ""
 "Connect a purely resistive load with a known wattage, such as a conventional "
 "light bulb (not a LED or energy-saving bulb)."
 msgstr ""
+"Conecte uma carga puramente resistiva com potência conhecida, como uma "
+"lâmpada incandescente convencional (não uma lâmpada LED ou economizadora de "
+"energia)."
 
 #: content/be4foss-handbook/handbook_web.md:922
 msgid "Switch on power by clicking “Toggle” if needed."
-msgstr ""
+msgstr "Ligue a alimentação clicando em “Alternar”, se necessário."
 
 #: content/be4foss-handbook/handbook_web.md:924
 msgid ""
 "Verify that the “Power Factor” value is shown as 1 (or very close to 1); if "
 "it is lower, the current load is not suited for calibration."
 msgstr ""
+"Verifique se o valor do “Fator de Potência” é exibido como 1 (ou muito "
+"próximo de 1); se for menor, a carga atual não é adequada para calibragem."
 
 #: content/be4foss-handbook/handbook_web.md:926
 msgid "Click “Console”."
-msgstr ""
+msgstr "Clique em “Console”."
 
 #: content/be4foss-handbook/handbook_web.md:928
 msgid "Enter the following commands one at a time and press enter:"
-msgstr ""
+msgstr "Digite os seguintes comandos um de cada vez e pressione Enter:"
 
 #: content/be4foss-handbook/handbook_web.md:938
 msgid ""
 "Enter the command PowerSet XXX with XXX replaced by the wattage specified "
 "for the test load (e.g., “40” for a 40W light bulb)."
 msgstr ""
+"Digite o comando PowerSet XXX, substituindo XXX pela potência especificada "
+"para a carga de teste (por exemplo, “40” para uma lâmpada de 40W)."
 
 #: content/be4foss-handbook/handbook_web.md:940
 msgid "Click “Main Menu”."
-msgstr ""
+msgstr "Clique em ”Menu principal”."
 
 #: content/be4foss-handbook/handbook_web.md:942
 msgid ""
 "The main page now should show correct power readings with several decimals "
 "precision."
 msgstr ""
+"A página principal agora deve exibir leituras de energia corretas com "
+"precisão de várias casas decimais."
 
 #: content/be4foss-handbook/handbook_web.md:944
 msgid "(5) *MQTT Broker Setup*"
-msgstr ""
+msgstr "(5) *Configuração do Broker MQTT*"
 
 #: content/be4foss-handbook/handbook_web.md:946
 msgid ""
@@ -4958,6 +5138,9 @@ msgid ""
 "is by polling over MQTT. This is not ideal and needs additional setup, "
 "unfortunately."
 msgstr ""
+"Atualmente, a única maneira conhecida de obter leituras automáticas de alta "
+"frequência é por meio de polling via MQTT. Infelizmente, isso não é o ideal "
+"e requer configuração adicional."
 
 #: content/be4foss-handbook/handbook_web.md:948
 msgid ""
@@ -4967,33 +5150,42 @@ msgid ""
 "any security), so only do this in your own trusted network and switch it off "
 "when not needed."
 msgstr ""
+"Se você já tiver um broker MQTT, pule para a etapa (6); caso contrário, você "
+"precisará configurar um. O cenário abaixo pressupõe que o Mosquitto esteja "
+"empacotado para sua distribuição GNU/Linux (e, portanto, não configure "
+"nenhuma segurança), então faça isso apenas em sua própria rede confiável e "
+"desative-o quando não for necessário."
 
 #: content/be4foss-handbook/handbook_web.md:950
 msgid "install the `mosquitto` package"
-msgstr ""
+msgstr "instale o pacote `mosquitto`"
 
 #: content/be4foss-handbook/handbook_web.md:951
 msgid ""
 "add a file `/etc/mosquitto/conf.d/listen.conf` with the following content:"
 msgstr ""
+"adicione um arquivo `/etc/mosquitto/conf.d/listen.conf` com o seguinte "
+"conteúdo:"
 
 #: content/be4foss-handbook/handbook_web.md:956
 msgid "start Mosquitto using `systemctl start mosquitto.service`"
-msgstr ""
+msgstr "inicie o Mosquitto usando `systemctl start mosquitto.service`"
 
 #: content/be4foss-handbook/handbook_web.md:958
 msgid "(6) *MQTT Tasmota Setup*"
-msgstr ""
+msgstr "(6) *Configuração do MQTT do Tasmota*"
 
 #: content/be4foss-handbook/handbook_web.md:960
 msgid ""
 "Connect to the Tasmota device using a web browser, and open the MQTT "
 "configuration page via Configuration > Configure MQTT."
 msgstr ""
+"Conecte-se ao dispositivo Tasmota usando um navegador da web e abra a página "
+"de configuração MQTT através de Configuração > Configurar MQTT."
 
 #: content/be4foss-handbook/handbook_web.md:962
 msgid "Enter the IP address of the MQTT broker into the “Host” field."
-msgstr ""
+msgstr "Insira o endereço IP do broker MQTT no campo “Host”."
 
 #: content/be4foss-handbook/handbook_web.md:964
 msgid ""
@@ -5003,59 +5195,75 @@ msgid ""
 "something easier to remember, but this has to be unique if you have multiple "
 "devices."
 msgstr ""
+"Anote o valor exibido à direita do rótulo \"Tópico\" entre parênteses "
+"(normalmente algo como \"tasmota_xxxxxx\"). Isso será necessário "
+"posteriormente para acessar o dispositivo via MQTT. Você também pode alterar "
+"o valor padrão para algo mais fácil de lembrar, mas esse valor precisa ser "
+"exclusivo se você tiver vários dispositivos."
 
 #: content/be4foss-handbook/handbook_web.md:968
 msgid ""
 "The device will restart and once it is back you should see output in its "
 "Console prefixed with “MQT”."
 msgstr ""
+"O dispositivo será reiniciado e, assim que voltar a funcionar, você deverá "
+"ver a saída no console com o prefixo “MQT”."
 
 #: content/be4foss-handbook/handbook_web.md:970
 msgid "(7) *Verifying MQTT Communication*"
-msgstr ""
+msgstr "(7) *Verificando a comunicação MQTT*"
 
 #: content/be4foss-handbook/handbook_web.md:972
 msgid ""
 "This assumes you have the Mosquitto client tools installed, which are "
 "usually available as distribution packages."
 msgstr ""
+"Isso pressupõe que você tenha as ferramentas de cliente Mosquitto "
+"instaladas, que geralmente estão disponíveis como pacotes de distribuição."
 
 #: content/be4foss-handbook/handbook_web.md:974
 msgid ""
 "You need two terminals to verify that MQTT communication works as intended."
 msgstr ""
+"Você precisa de dois terminais para verificar se a comunicação MQTT está "
+"funcionando conforme o esperado."
 
 #: content/be4foss-handbook/handbook_web.md:976
 msgid "In terminal 1, run `mosquitto_sub -t 'stat/<topic>/STATUS10'`"
-msgstr ""
+msgstr "No terminal 1, execute `mosquitto_sub -t 'stat/<topico>/STATUS10'`"
 
 #: content/be4foss-handbook/handbook_web.md:977
 msgid "In terminal 2, run `mosquitto_pub -t 'cmnd/<topic>/STATUS' -m '10'`"
 msgstr ""
+"No terminal 2, execute `mosquitto_pub -t 'cmnd/<topico>/STATUS' -m '10'`"
 
 #: content/be4foss-handbook/handbook_web.md:979
 msgid "Replace `<topic>` with the value noted down in step (6)."
-msgstr ""
+msgstr "Substitua `<topico>` com o valor anotado no passo (6)."
 
 #: content/be4foss-handbook/handbook_web.md:981
 msgid ""
 "Everytime you run the second command, you should see a set of values printed "
 "in the first terminal."
 msgstr ""
+"Sempre que você executar o segundo comando, deverá ver um conjunto de "
+"valores impressos no primeiro terminal."
 
 #: content/be4foss-handbook/handbook_web.md:983
 msgid "(8) *Continuous Power Measurements*"
-msgstr ""
+msgstr "(8) *Medições contínuas de potência*"
 
 #: content/be4foss-handbook/handbook_web.md:985
 msgid ""
 "See [these scripts](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
 "measurement-tools.html)."
 msgstr ""
+"Veja [estes scripts](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html)."
 
 #: content/be4foss-handbook/handbook_web.md:987
 msgid "(9) *Switching WiFi Networks*"
-msgstr ""
+msgstr "(9) *Alternando redes WiFi*"
 
 #: content/be4foss-handbook/handbook_web.md:989
 msgid ""
@@ -5066,6 +5274,13 @@ msgid ""
 "drastic options available, but these changes can only be made inside the "
 "network you originally connected to:"
 msgstr ""
+"Por motivos de segurança, após conectar-se a uma rede Wi-Fi, o Tasmota não "
+"permitirá que você retorne à etapa (2) por padrão, a menos que reinicie o "
+"dispositivo (pressionando o botão por 40 segundos). No entanto, uma "
+"reinicialização completa também remove todas as configurações e a "
+"calibração. Se você precisar mudar para uma rede diferente, existem opções "
+"menos drásticas disponíveis, mas essas alterações só podem ser feitas dentro "
+"da rede à qual você se conectou originalmente:"
 
 #: content/be4foss-handbook/handbook_web.md:991
 msgid ""
@@ -5074,6 +5289,10 @@ msgid ""
 "by default. This does not compromise security, but requires you to know the "
 "details for the network you want to connect to."
 msgstr ""
+"Em Configuração > Configurar Wi-Fi, você pode adicionar detalhes para um "
+"segundo ponto de acesso Wi-Fi. Por padrão, essas configurações serão "
+"testadas alternadamente com a primeira. Isso não compromete a segurança, mas "
+"exige que você saiba os detalhes da rede à qual deseja se conectar."
 
 #: content/be4foss-handbook/handbook_web.md:993
 msgid ""
@@ -5084,6 +5303,13 @@ msgid ""
 "to unknown networks. This mode can be enabled in the Console by the command "
 "`WifiConfig 2`, and disabled by the command `WifiConfig 4`."
 msgstr ""
+"Você pode configurar o Tasmota para abrir um ponto de acesso como no passo "
+"(2) por padrão por cerca de um minuto após a inicialização e, em seguida, "
+"tentar se conectar às configurações conhecidas. Isso torna a inicialização "
+"mais lenta em redes conhecidas e abre a possibilidade de sequestro do "
+"dispositivo, mas pode ser conveniente ao alternar para redes desconhecidas. "
+"Esse modo pode ser ativado no Console pelo comando `WifiConfig 2` e "
+"desativado pelo comando `WifiConfig 4`."
 
 #: content/be4foss-handbook/handbook_web.md:995
 msgid ""
@@ -5092,10 +5318,14 @@ msgid ""
 "doesn’t have that problem, but has to be done before disconnecting from the "
 "known WiFi as well."
 msgstr ""
+"Na versão 11 do Tasmota, o reset por 40 segundos pressionando o botão pode "
+"deixar o dispositivo em um estado que impede a inicialização, enquanto o "
+"reset pelo Console usando `Reset 1` não apresenta esse problema, mas precisa "
+"ser feito antes de desconectar da rede Wi-Fi conhecida."
 
 #: content/be4foss-handbook/handbook_web.md:997
 msgid "(10) *Recovering Non-Booting Devices*"
-msgstr ""
+msgstr "(10) *Recuperação de dispositivos que não inicializam*"
 
 #: content/be4foss-handbook/handbook_web.md:999
 msgid ""
@@ -5105,6 +5335,11 @@ msgid ""
 "this [getting started guide](https://tasmota.github.io/docs/Getting-"
 "Started/)."
 msgstr ""
+"Antes de mais nada: **NÃO CONECTE O DISPOSITIVO À TOMADA DE ENERGIA "
+"ELÉTRICA**! Isso seria fatal. Todo o processo de atualização do firmware é "
+"alimentado exclusivamente por 3,3 V fornecidos pelo adaptador serial. Não "
+"faça nada disso sem antes ler este [guia de primeiros passos](https://"
+"tasmota.github.io/docs/Getting-Started/)."
 
 #: content/be4foss-handbook/handbook_web.md:1001
 msgid ""
@@ -5112,6 +5347,10 @@ msgid ""
 "the device using the 40-second button press. This does not permanently "
 "damage the device, and it can be fixed with reflashing via a serial adapter."
 msgstr ""
+"Com o Tasmota 11, você pode acabar em um estado de não inicialização "
+"simplesmente reiniciando o dispositivo pressionando o botão por 40 segundos. "
+"Isso não danifica o dispositivo permanentemente e pode ser corrigido com uma "
+"nova reinstalação do firmware através de um adaptador serial."
 
 #: content/be4foss-handbook/handbook_web.md:1003
 msgid ""
@@ -5119,6 +5358,9 @@ msgid ""
 "io/docs/Getting-Started/). The PCB layout of the Gosund SP 111 can be seen "
 "[here](https://templates.blakadder.com/gosund_SP111_v1_1)."
 msgstr ""
+"O processo básico é descrito no [guia](https://tasmota.github.io/docs/"
+"Getting-Started/) acima. O layout da placa de circuito impresso do Gosund SP "
+"111 pode ser visto [aqui](https://templates.blakadder.com/gosund_SP111_v1_1)."
 
 #: content/be4foss-handbook/handbook_web.md:1005
 msgid ""
@@ -5131,18 +5373,26 @@ msgid ""
 "just hold a jumper cable to the pin) and it will remain in the right mode "
 "until a reboot."
 msgstr ""
+"Para que isso funcione, você precisa conectar o GPIO0 (segundo pino no canto "
+"inferior esquerdo da imagem acima) ao GND **antes** de ligar o dispositivo "
+"(ou seja, antes de conectar o USB). Os LEDs do dispositivo (vermelho e azul) "
+"são um indicador útil de se você está no modo de inicialização correto: o "
+"LED vermelho deve estar aceso e não piscando rapidamente, e os LEDs azul e "
+"vermelho não devem estar acesos simultaneamente. Uma vez nesse estado, a "
+"conexão pode ser removida (por exemplo, bastando encostar um fio jumper no "
+"pino) e o dispositivo permanecerá no modo correto até que seja reiniciado."
 
 #: content/be4foss-handbook/handbook_web.md:1007
 msgid ""
 "Again: **DO NOT CONNECT THE DEVICE TO MAIN POWER** as this is life-"
 "threatening."
 msgstr ""
+"Novamente: **NÃO CONECTE O APARELHO À TOMADA DE ENERGIA ELÉTRICA**, pois "
+"isso pode ser fatal."
 
 #: content/be4foss-handbook/handbook_web.md:1009
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "(B) Hardware Operating Life"
-msgstr "Vida de operação do hardware"
+msgstr "(B) Vida de operação do hardware"
 
 #: content/be4foss-handbook/handbook_web.md:1011
 msgid ""
@@ -5150,6 +5400,9 @@ msgid ""
 "performance requirements to run on older, less powerful hardware at least "
 "five years old."
 msgstr ""
+"Os critérios da categoria (B) garantem que o software tenha requisitos de "
+"desempenho suficientemente baixos para ser executado em hardware mais antigo "
+"e menos potente, com pelo menos cinco anos de idade."
 
 #: content/be4foss-handbook/handbook_web.md:1013
 msgid ""
@@ -5157,6 +5410,9 @@ msgid ""
 "members of the KDE community have noted that KDE’s desktop environment "
 "`Plasma` runs on hardware from even 2005!"
 msgstr ""
+"Muitos aplicativos FOSS rodam em hardware com mais de 5 anos. Aliás, membros "
+"da comunidade KDE observaram que o ambiente de desktop do KDE, o \"Plasma\", "
+"roda em hardware de 2005!"
 
 #: content/be4foss-handbook/handbook_web.md:1015
 msgid ""
@@ -5166,102 +5422,105 @@ msgid ""
 "required software stack. To demonstrate compliance, document the following "
 "information in two documents called “Annex 1” and “Annex 2”:"
 msgstr ""
+"Esta categoria é relativamente fácil de cumprir para a aplicação Blue Angel. "
+"A conformidade implica uma declaração de retrocompatibilidade, incluindo "
+"detalhes sobre o hardware em que o software é executado e a pilha de "
+"software necessária. Para demonstrar a conformidade, documente as seguintes "
+"informações em dois documentos denominados “Anexo 1” e “Anexo 2”:"
 
 #: content/be4foss-handbook/handbook_web.md:1017
 msgid "*Reference System Year* &mdash; e.g., 2015"
-msgstr ""
+msgstr "*Ano do Sistema de Referência* &mdash; por exemplo, 2015"
 
 #: content/be4foss-handbook/handbook_web.md:1019
 msgid "*Model* &mdash; e.g., Fujitsu Esprimo 920"
-msgstr ""
+msgstr "*Modelo* &mdash; por exemplo, Fujitsu Esprimo 920"
 
 #: content/be4foss-handbook/handbook_web.md:1021
 msgid "*Processor* &mdash; e.g., Intel Core i5-4570"
-msgstr ""
+msgstr "*Processador* &mdash; por exemplo, Intel Core i5-4570"
 
 #: content/be4foss-handbook/handbook_web.md:1023
 msgid "*Cores* &mdash; e.g., 4"
-msgstr ""
+msgstr "*Núcleos* &mdash; por exemplo, 4"
 
 #: content/be4foss-handbook/handbook_web.md:1025
 msgid "*Clock Speed* &mdash; e.g., 3,6 GHz"
-msgstr ""
+msgstr "*Velocidade de clock* &mdash; por exemplo, 3,6 GHz"
 
 #: content/be4foss-handbook/handbook_web.md:1027
 msgid "*RAM* &mdash; e.g., 4 GB"
-msgstr ""
+msgstr "*RAM* &mdash; por exemplo, 4 GB"
 
 #: content/be4foss-handbook/handbook_web.md:1029
 msgid "*Hard Disk (SSD/HDD)* &mdash; e.g., 500 GB"
-msgstr ""
+msgstr "*Disco rígido (SSD/HDD)* &mdash; por exemplo, 500 GB"
 
 #: content/be4foss-handbook/handbook_web.md:1031
 msgid "*Graphics Card* &mdash; e.g., Intel Ivybridge Desktop"
-msgstr ""
+msgstr "*Placa gráfica* &mdash; por exemplo, Intel Ivybridge Desktop"
 
 #: content/be4foss-handbook/handbook_web.md:1033
 msgid "*Network* &mdash; e.g., Realtek Ethernet"
-msgstr ""
+msgstr "*Rede* &mdash; por exemplo, Realtek Ethernet"
 
 #: content/be4foss-handbook/handbook_web.md:1035
 msgid "*Cache* &mdash; e.g., 6144 KB"
-msgstr ""
+msgstr "*Cache* &mdash; por exemplo, 6144 KB"
 
 #: content/be4foss-handbook/handbook_web.md:1037
 msgid "*Mainboard* &mdash; e.g., Fujitsu D3171-A1"
-msgstr ""
+msgstr "*Placa-mãe* &mdash; por exemplo, Fujitsu D3171-A1"
 
 #: content/be4foss-handbook/handbook_web.md:1039
 msgid "*Operating System* &mdash; e.g., Ubuntu 18.04"
-msgstr ""
+msgstr "*Sistema operacional* &mdash; por exemplo, Ubuntu 18.04"
 
 #: content/be4foss-handbook/handbook_web.md:1041
 msgid "Again, examples for Okular can be found at the following links:"
 msgstr ""
+"Mais uma vez, exemplos de uso do Okular podem ser encontrados nos seguintes "
+"links:"
 
 #: content/be4foss-handbook/handbook_web.md:1048
 msgid ""
 "As discussed in PART II, the Blue Angel user autonomy criteria cover eight "
 "general areas:"
 msgstr ""
+"Conforme discutido na PARTE II, os critérios de autonomia do usuário do "
+"programa Blue Angel abrangem oito áreas gerais:"
 
 #: content/be4foss-handbook/handbook_web.md:1050
-#, fuzzy
-#| msgid "Data output"
 msgid "Data Formats"
-msgstr "Saída de dados"
+msgstr "Formatos de dados"
 
 #: content/be4foss-handbook/handbook_web.md:1051
 msgid "Transparency"
-msgstr ""
+msgstr "Transparência"
 
 #: content/be4foss-handbook/handbook_web.md:1052
-#, fuzzy
-#| msgid "Community & Support"
 msgid "Continuity Of Support"
-msgstr "Comunidade & Suporte"
+msgstr "Comunidade do suporte"
 
 #: content/be4foss-handbook/handbook_web.md:1053
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Uninstallability"
-msgstr "Sustentabilidade"
+msgstr "Desinstalabilidade"
 
 #: content/be4foss-handbook/handbook_web.md:1054
 msgid "Offline Capability"
-msgstr ""
+msgstr "Capacidade offline"
 
 #: content/be4foss-handbook/handbook_web.md:1055
 msgid "Modularity"
-msgstr ""
+msgstr "Modularidade"
 
 #: content/be4foss-handbook/handbook_web.md:1056
 msgid "Freedom From Advertising"
-msgstr ""
+msgstr "Liberdade de publicidade"
 
 #: content/be4foss-handbook/handbook_web.md:1057
 msgid "Documentation"
-msgstr ""
+msgstr "Documentação"
 
 #: content/be4foss-handbook/handbook_web.md:1059
 msgid ""
@@ -5270,6 +5529,11 @@ msgid ""
 "websites, manuals, wikis, etc. This may include documentation about support "
 "for open standards, uninstallability, continuity of support, and so on."
 msgstr ""
+"Muitos projetos de software livre e de código aberto (FOSS) podem presumir "
+"que o Software Livre respeita a autonomia do usuário e, em alguns casos, "
+"informações da lista acima estão ausentes de sites, manuais, wikis etc. Isso "
+"pode incluir documentação sobre suporte a padrões abertos, desinstalação, "
+"continuidade do suporte e assim por diante."
 
 #: content/be4foss-handbook/handbook_web.md:1061
 msgid ""
@@ -5277,6 +5541,9 @@ msgid ""
 "Angel award criteria and for giving users information about long-term "
 "sustainable use of their software and hardware."
 msgstr ""
+"Documentar essas informações é importante, tanto para atender aos critérios "
+"do prêmio Blue Angel quanto para fornecer aos usuários informações sobre o "
+"uso sustentável a longo prazo de seus softwares e hardwares."
 
 #: content/be4foss-handbook/handbook_web.md:1063
 msgid ""
@@ -5287,32 +5554,45 @@ msgid ""
 "[basic award criteria](https://www.blauer-engel.de/en/productworld/resources-"
 "and-energy-efficient-software-products)."
 msgstr ""
+"Esta não é uma apresentação exaustiva de cada uma das categorias dos "
+"critérios do Blue Angel. Em vez disso, este guia se concentra em aspectos "
+"dos critérios que os projetos KDE/FOSS podem facilmente documentar e "
+"fornecer (o que já representa a maior parte do trabalho). Para os critérios "
+"completos, consulte a Seção 3.1.3 dos [critérios básicos de premiação]"
+"(https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-"
+"software-products)."
 
 #: content/be4foss-handbook/handbook_web.md:1065
 msgid "2.1 Data Formats"
-msgstr ""
+msgstr "2.1 Formatos de dados"
 
 #: content/be4foss-handbook/handbook_web.md:1067
 msgid "The main information to include in documentation:"
-msgstr ""
+msgstr "As principais informações a serem incluídas na documentação:"
 
 #: content/be4foss-handbook/handbook_web.md:1069
 msgid ""
 "Which (open) data formats are supported&mdash;with links to specifications, "
 "e.g., [PDF](https://www.iso.org/standard/51502.html)?"
 msgstr ""
+"Quais formatos de dados (abertos) são suportados&mdash;com links para "
+"especificações, por exemplo, [PDF](https://www.iso.org/standard/51502.html)?"
 
 #: content/be4foss-handbook/handbook_web.md:1071
 msgid ""
 "Also of interest: Are there examples of other software products that process "
 "these data formats?"
 msgstr ""
+"Também seria interessante saber: Existem exemplos de outros softwares que "
+"processam esses formatos de dados?"
 
 #: content/be4foss-handbook/handbook_web.md:1073
 msgid ""
 "For an example of the online documentation of supported data formats for "
 "Okular, visit [the Okular website](https://okular.kde.org/formats/)."
 msgstr ""
+"Para um exemplo da documentação online dos formatos de dados suportados pelo "
+"Okular, visite [o site do Okular](https://okular.kde.org/formats/)."
 
 #: content/be4foss-handbook/handbook_web.md:1075
 msgid ""
@@ -5320,28 +5600,34 @@ msgid ""
 "(https://invent.kde.org/teams/eco/blue-angel-application/-/blob/master/"
 "applications/okular/de-uz-215-eng-annex-4-okular.md)."
 msgstr ""
+"Um exemplo de documentação para o Blue Angel pode ser encontrado no [Anexo 4]"
+"(https://invent.kde.org/teams/eco/blue-angel-application/-/blob/master/"
+"applications/okular/de-uz-215-eng-annex-4-okular.md)."
 
 #: content/be4foss-handbook/handbook_web.md:1078
 msgid "2.2 Transparency Of The Software Product"
-msgstr ""
+msgstr "2.2 Transparência do Produto de Software"
 
 #: content/be4foss-handbook/handbook_web.md:1080
 msgid ""
 "When missing, provide links to documentation of the API, source code, and "
 "software license. For example, for KMail:"
 msgstr ""
+"Na ausência dessas informações, forneça links para a documentação da API, o "
+"código-fonte e a licença do software. Por exemplo, para o KMail:"
 
 #: content/be4foss-handbook/handbook_web.md:1082
 msgid "[KDE PIM API documentation](https://api.kde.org/kdepim/index.html)"
 msgstr ""
+"[Documentação da API do KDE PIM](https://api.kde.org/kdepim/index.html)"
 
 #: content/be4foss-handbook/handbook_web.md:1084
 msgid "[Source code](https://invent.kde.org/pim/kmail)"
-msgstr ""
+msgstr "[Código fonte](https://invent.kde.org/pim/kmail)"
 
 #: content/be4foss-handbook/handbook_web.md:1086
 msgid "[License](https://invent.kde.org/pim/kmail/-/blob/master/LICENSES)"
-msgstr ""
+msgstr "[Licença](https://invent.kde.org/pim/kmail/-/blob/master/LICENSES)"
 
 #: content/be4foss-handbook/handbook_web.md:1088
 msgid ""
@@ -5349,42 +5635,50 @@ msgid ""
 "(https://invent.kde.org/teams/eco/blue-angel-application/-/blob/master/"
 "applications/kmail/de-uz-215-eng-annex-5-kmail.md)."
 msgstr ""
+"Um exemplo de documentação para o Blue Angel pode ser encontrado em [Anexo 5]"
+"(https://invent.kde.org/teams/eco/blue-angel-application/-/blob/master/"
+"applications/kmail/de-uz-215-eng-annex-5-kmail.md)."
 
 #: content/be4foss-handbook/handbook_web.md:1091
-#, fuzzy
-#| msgid "Community & Support"
 msgid "2.3 Continuity Of Support"
-msgstr "Comunidade & Suporte"
+msgstr "2.3 Comunidade do suporte"
 
 #: content/be4foss-handbook/handbook_web.md:1093
 msgid "Details about continuity of support to document include:"
-msgstr ""
+msgstr "Os detalhes sobre a documentação da continuidade do suporte incluem:"
 
 #: content/be4foss-handbook/handbook_web.md:1095
 msgid ""
 "Information about how long the software has been supported for (with links "
 "to release announcements)."
 msgstr ""
+"Informações sobre o período de suporte do software (com links para anúncios "
+"de lançamento)."
 
 #: content/be4foss-handbook/handbook_web.md:1097
 msgid "Release schedule and details (e.g., who maintains the software)."
 msgstr ""
+"Cronograma e detalhes de lançamento (por exemplo, quem mantém o software)."
 
 #: content/be4foss-handbook/handbook_web.md:1099
 msgid "Statement that updates are free of charge."
-msgstr ""
+msgstr "Declaração de que as atualizações são gratuitas."
 
 #: content/be4foss-handbook/handbook_web.md:1101
 msgid ""
 "Declaration on how the free and open source software license enables "
 "continuous support indefinitely."
 msgstr ""
+"Declaração sobre como a licença de software livre e de código aberto permite "
+"suporte contínuo por tempo indeterminado."
 
 #: content/be4foss-handbook/handbook_web.md:1103
 msgid ""
 "Information about whether and how functional and security updates may be "
 "installed separately."
 msgstr ""
+"Informações sobre se e como as atualizações funcionais e de segurança podem "
+"ser instaladas separadamente."
 
 #: content/be4foss-handbook/handbook_web.md:1105
 msgid ""
@@ -5393,34 +5687,46 @@ msgid ""
 "teams/eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-"
 "eng-annex-6-okular.md)."
 msgstr ""
+"Um exemplo da documentação de suporte contínuo da Okular para o Blue Angel "
+"pode ser encontrado na Seção 3.1.3.3 do [Anexo 6](https://invent.kde.org/"
+"teams/eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-"
+"eng-annex-6-okular.md)."
 
 #: content/be4foss-handbook/handbook_web.md:1107
 msgid "2.4 Uninstallability"
-msgstr ""
+msgstr "2.4 Desinstalabilidade"
 
 #: content/be4foss-handbook/handbook_web.md:1109
 msgid ""
 "How are users able to completely uninstall the software? Relevant details "
 "might include:"
 msgstr ""
+"Como os usuários podem desinstalar completamente o software? Detalhes "
+"relevantes podem incluir:"
 
 #: content/be4foss-handbook/handbook_web.md:1111
 msgid ""
 "Uninstallation instructions that depend on how the software was installed "
 "(source code or binary)."
 msgstr ""
+"As instruções de desinstalação que dependem de como o software foi instalado "
+"(código-fonte ou binário)."
 
 #: content/be4foss-handbook/handbook_web.md:1113
 msgid ""
 "Examples of uninstallation instructions (source code or package managers, "
 "with relevant links to documentation)."
 msgstr ""
+"Exemplos de instruções de desinstalação (código-fonte ou gerenciadores de "
+"pacotes, com links relevantes para a documentação)."
 
 #: content/be4foss-handbook/handbook_web.md:1115
 msgid ""
 "Information about whether user-generated data is also removed when "
 "uninstalling a program."
 msgstr ""
+"Informações sobre se os dados gerados pelo usuário também são removidos ao "
+"desinstalar um programa."
 
 #: content/be4foss-handbook/handbook_web.md:1117
 msgid ""
@@ -5429,10 +5735,14 @@ msgid ""
 "blue-angel-application/-/blob/master/applications/okular/de-uz-215-eng-"
 "annex-6-okular.md)."
 msgstr ""
+"Um exemplo da documentação de desinstalação do Okular para o Blue Angel pode "
+"ser encontrado na Seção 3.1.3.4 do [Anexo 6](https://invent.kde.org/teams/"
+"eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-eng-"
+"annex-6-okular.md)."
 
 #: content/be4foss-handbook/handbook_web.md:1119
 msgid "2.5 Offline Capability"
-msgstr ""
+msgstr "2.5 Capacidade offline"
 
 #: content/be4foss-handbook/handbook_web.md:1121
 msgid ""
@@ -5440,6 +5750,9 @@ msgid ""
 "order to run? If not, and no network connection is needed as the software "
 "can be used offline, this should be documented."
 msgstr ""
+"O software requer conexões externas, como um servidor de licenças, para "
+"funcionar? Caso contrário, e se não for necessária conexão de rede, já que o "
+"software pode ser usado offline, isso deve ser documentado."
 
 #: content/be4foss-handbook/handbook_web.md:1123
 msgid ""
@@ -5448,24 +5761,31 @@ msgid ""
 "eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-eng-"
 "annex-6-okular.md)."
 msgstr ""
+"Um exemplo da documentação da capacidade offline do Okular para o Blue Angel "
+"pode ser encontrado na Seção 3.1.3.5 do [Anexo 6](https://invent.kde.org/"
+"teams/eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-"
+"eng-annex-6-okular.md)."
 
 #: content/be4foss-handbook/handbook_web.md:1125
 msgid "2.6 Modularity"
-msgstr ""
+msgstr "2.6 Modularidade"
 
 #: content/be4foss-handbook/handbook_web.md:1127
 msgid "Information to document includes:"
-msgstr ""
+msgstr "As informações a serem documentadas incluem:"
 
 #: content/be4foss-handbook/handbook_web.md:1129
 msgid ""
 "What aspects of the software are modular and can be deactivated during "
 "installation?"
 msgstr ""
+"Quais aspectos do software são modulares e podem ser desativados durante a "
+"instalação?"
 
 #: content/be4foss-handbook/handbook_web.md:1131
 msgid "Can the software manuals or translations be installed separately?"
 msgstr ""
+"Os manuais ou traduções do software podem ser instalados separadamente?"
 
 #: content/be4foss-handbook/handbook_web.md:1133
 msgid ""
@@ -5473,6 +5793,9 @@ msgid ""
 "installation, such as tracking modules or cloud integration? If not, "
 "document it!"
 msgstr ""
+"Há algum módulo não relacionado à funcionalidade principal incluído na "
+"instalação, como módulos de rastreamento ou integração com a nuvem? Caso "
+"contrário, documente isso!"
 
 #: content/be4foss-handbook/handbook_web.md:1135
 msgid ""
@@ -5481,24 +5804,30 @@ msgid ""
 "angel-application/-/blob/master/applications/okular/de-uz-215-eng-annex-6-"
 "okular.md)."
 msgstr ""
+"Um exemplo da documentação de modularidade do Okular para o Blue Angel pode "
+"ser encontrado na Seção 3.1.3.6 do [Anexo 6](https://invent.kde.org/teams/"
+"eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-eng-"
+"annex-6-okular.md)."
 
 #: content/be4foss-handbook/handbook_web.md:1137
 msgid "2.7 Freedom From Advertising"
-msgstr ""
+msgstr "2.7 Liberdade de publicidade"
 
 #: content/be4foss-handbook/handbook_web.md:1139
 msgid ""
 "If the software does not display advertising, make this explicit in manuals "
 "and wikis and declare it in the Blue Angel application document."
 msgstr ""
+"Caso o software não exiba publicidade, deixe isso explícito nos manuais e "
+"wikis e declare na documentação de aplicação para o Blue Angel."
 
 #: content/be4foss-handbook/handbook_web.md:1141
 msgid "2.8 Documentation"
-msgstr ""
+msgstr "2.8 Documentação"
 
 #: content/be4foss-handbook/handbook_web.md:1143
 msgid "This includes the following:"
-msgstr ""
+msgstr "Isso inclui o seguinte:"
 
 #: content/be4foss-handbook/handbook_web.md:1145
 msgid ""
@@ -5506,38 +5835,50 @@ msgid ""
 "generic instructions or tutorials for a specific desktop environment or "
 "package manager."
 msgstr ""
+"Qual é o processo geral para instalar/desinstalar o software? Isso pode "
+"incluir instruções genéricas ou tutoriais para um ambiente de desktop ou "
+"gerenciador de pacotes específico."
 
 #: content/be4foss-handbook/handbook_web.md:1147
 msgid "Data import/export process?"
-msgstr ""
+msgstr "Processo de importação/exportação de dados?"
 
 #: content/be4foss-handbook/handbook_web.md:1149
 msgid ""
 "What can users do to reduce the use of resources (e.g., configuration "
 "options for improving performance)?"
 msgstr ""
+"O que os usuários podem fazer para reduzir o uso de recursos (por exemplo, "
+"opções de configuração para melhorar o desempenho)?"
 
 #: content/be4foss-handbook/handbook_web.md:1151
 msgid ""
 "Does the software have any resource-intensive functionality not necessary "
 "for the core functionality? If not, great. Let’s tell the users!"
 msgstr ""
+"O software possui alguma funcionalidade que consuma muitos recursos e que "
+"não seja necessária para a funcionalidade principal? Se não, ótimo. Vamos "
+"informar os usuários!"
 
 #: content/be4foss-handbook/handbook_web.md:1153
 msgid ""
 "Licensing terms related to further development of the software products, "
 "with links to source code and license?"
 msgstr ""
+"Quais são os termos de licenciamento relacionados ao desenvolvimento futuro "
+"dos produtos de software, com links para o código-fonte e a licença?"
 
 #: content/be4foss-handbook/handbook_web.md:1155
 msgid "Who supports the development of the software?"
-msgstr ""
+msgstr "Quem apoia o desenvolvimento do software?"
 
 #: content/be4foss-handbook/handbook_web.md:1157
 msgid ""
 "Does the software collect any personal data? Is is compliant with existing "
 "data protection laws? If yes, document it!"
 msgstr ""
+"O software coleta dados pessoais? Está em conformidade com as leis de "
+"proteção de dados vigentes? Em caso afirmativo, documente!"
 
 #: content/be4foss-handbook/handbook_web.md:1159
 msgid ""
@@ -5546,6 +5887,10 @@ msgid ""
 "are there ads or tracking embedded in the software? If not, excellent&mdash;"
 "now make sure to spread the word!"
 msgstr ""
+"Qual é a política de privacidade? Há telemetria? Se sim, como o software "
+"lida com a segurança, coleta e transmissão de dados? Além disso, há anúncios "
+"ou rastreamento incorporados ao software? Se não, excelente &mdash; agora "
+"não se esqueça de compartilhar!"
 
 #: content/be4foss-handbook/handbook_web.md:1161
 msgid ""
@@ -5554,23 +5899,24 @@ msgid ""
 "eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-eng-"
 "annex-6-okular.md)."
 msgstr ""
+"Um exemplo da documentação do produto Okular para certificação Blue Angel "
+"pode ser encontrado na Seção 3.1.3.8 do [Anexo 6](https://invent.kde.org/"
+"teams/eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-"
+"eng-annex-6-okular.md)."
 
 #: content/be4foss-handbook/handbook_web.md:1163
 msgid "Submitting To RAL"
-msgstr ""
+msgstr "Submeter para a RAL"
 
 #: content/be4foss-handbook/handbook_web.md:1165
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "For examples of all of the above documentation, see KDE’s [Blue Angel "
 "Applications](https://invent.kde.org/teams/eco/blue-angel-application) "
 "repository."
 msgstr ""
-"Aplicações para o Blue Angel (Repositório GitLab): https://invent.kde.org/"
-"teams/eco/blue-angel-application"
+"Para exemplos de toda a documentação acima, consulte o repositório de "
+"[Aplicações Blue Angel](https://invent.kde.org/teams/eco/blue-angel-"
+"application) do KDE."
 
 #: content/be4foss-handbook/handbook_web.md:1167
 msgid ""
@@ -5580,28 +5926,36 @@ msgid ""
 "applications can be found [here](https://portal.ral-umwelt.de/) (https://"
 "portal.ral-umwelt.de/)."
 msgstr ""
+"Depois de ter toda a documentação preparada, você precisa enviá-la para "
+"análise à RAL gGmbH (como você deve se lembrar, a RAL é o órgão autorizado "
+"que avalia a conformidade com os critérios de premiação). O portal para "
+"envio de candidaturas ao Blue Angel pode ser encontrado [aqui](https://"
+"portal.ral-umwelt.de/) (https://portal.ral-umwelt.de/)."
 
 #: content/be4foss-handbook/handbook_web.md:1169
 msgid ""
 "If you need help with the online interface, RAL provides [documentation]"
 "(https://portal.ral-umwelt.de/RALUmwelt/Anleitung/1)."
 msgstr ""
+"Se precisar de ajuda com a interface online, a RAL fornece [documentação]"
+"(https://portal.ral-umwelt.de/RALUmwelt/Anleitung/1)."
 
 #: content/be4foss-handbook/handbook_web.md:1171
 msgid "Example Submission Documents"
-msgstr ""
+msgstr "Exemplos de documentos para submissão"
 
 #: content/be4foss-handbook/handbook_web.md:1173
-#, fuzzy
-#| msgid "Completing the Blauer Engel application for Okular"
 msgid "Below are examples of Blue Angel documentation for Okular."
-msgstr "Preenchendo o requerimento Blauer Engel para o Okular"
+msgstr "Abaixo estão exemplos de documentação do Blue Angel para o Okular."
 
 #: content/be4foss-handbook/handbook_web.md:1175
 msgid ""
 "[Annex 1: Form](https://invent.kde.org/teams/eco/blue-angel-application/-/"
 "blob/master/applications/okular/de-uz-215-eng-annex-1-okular.docx)"
 msgstr ""
+"[Anexo 1: Formulário](https://invent.kde.org/teams/eco/blue-angel-"
+"application/-/blob/master/applications/okular/de-uz-215-eng-annex-1-okular."
+"docx)"
 
 #: content/be4foss-handbook/handbook_web.md:1177
 msgid ""
@@ -5609,6 +5963,9 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-2-okular."
 "xlsx)"
 msgstr ""
+"[Anexo 2: Planilha](https://invent.kde.org/teams/eco/blue-angel-"
+"application/-/blob/master/applications/okular/de-uz-215-eng-annex-2-okular."
+"xlsx)"
 
 #: content/be4foss-handbook/handbook_web.md:1179
 msgid ""
@@ -5616,6 +5973,9 @@ msgid ""
 "angel-application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-"
 "okular-idle.pdf)"
 msgstr ""
+"[Anexo 3: Relatório OSCAR para Modo Ocioso](https://invent.kde.org/teams/eco/"
+"blue-angel-application/-/blob/master/applications/okular/de-uz-215-eng-"
+"annex-3-okular-idle.pdf)"
 
 #: content/be4foss-handbook/handbook_web.md:1181
 msgid ""
@@ -5623,6 +5983,9 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
 "scenario.pdf)"
 msgstr ""
+"[Anexo 3: Relatório OSCAR para SUS](https://invent.kde.org/teams/eco/blue-"
+"angel-application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-"
+"okular-scenario.pdf)"
 
 #: content/be4foss-handbook/handbook_web.md:1183
 msgid ""
@@ -5630,6 +5993,9 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-4-okular."
 "md)"
 msgstr ""
+"[Anexo 4: Formatos de Dados](https://invent.kde.org/teams/eco/blue-angel-"
+"application/-/blob/master/applications/okular/de-uz-215-eng-annex-4-okular."
+"md)"
 
 #: content/be4foss-handbook/handbook_web.md:1185
 msgid ""
@@ -5637,6 +6003,9 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-5-okular."
 "md)"
 msgstr ""
+"[Anexo 5: Padrões abertos](https://invent.kde.org/teams/eco/blue-angel-"
+"application/-/blob/master/applications/okular/de-uz-215-eng-annex-5-okular."
+"md)"
 
 #: content/be4foss-handbook/handbook_web.md:1187
 msgid ""
@@ -5644,6 +6013,9 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-6-okular."
 "md)"
 msgstr ""
+"[Anexo 6: Informações do Produto](https://invent.kde.org/teams/eco/blue-"
+"angel-application/-/blob/master/applications/okular/de-uz-215-eng-annex-6-"
+"okular.md)"
 
 #: content/be4foss-handbook/handbook_web.md:1189
 msgid ""
@@ -5652,12 +6024,14 @@ msgid ""
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-7-okular."
 "xml)"
 msgstr ""
+"[Anexo 7: Formato de dados para transmitir informações sobre o produto "
+"referentes à eficiência de recursos e energia](https://invent.kde.org/teams/"
+"eco/blue-angel-application/-/blob/master/applications/okular/de-uz-215-eng-"
+"annex-7-okular.xml)"
 
 #: content/be4foss-handbook/handbook_web.md:1191
-#, fuzzy
-#| msgid "Sustainable Software Goal"
 msgid "Notable Sustainable Software Initiatives"
-msgstr "Meta de software sustentável"
+msgstr "Iniciativas Notáveis ​​de Software Sustentável"
 
 #: content/be4foss-handbook/handbook_web.md:1193
 msgid ""
@@ -5665,6 +6039,9 @@ msgid ""
 "consumption of software. We would like to mention five in particular who "
 "have been collaborating with the KDE Eco initiative:"
 msgstr ""
+"Existem muitas iniciativas trabalhando em ferramentas para medir o consumo "
+"de energia de software. Gostaríamos de mencionar cinco em particular que têm "
+"colaborado com a iniciativa KDE Eco:"
 
 #: content/be4foss-handbook/handbook_web.md:1195
 msgid ""
@@ -5672,6 +6049,9 @@ msgid ""
 "green-software-engineering) at the [Environmental Campus Birkenfeld](https://"
 "www.umwelt-campus.de/en/) (German: *Umwelt Campus Birkenfeld*)"
 msgstr ""
+"[O grupo de trabalho de Engenharia de Software Verde](https://www.umwelt-"
+"campus.de/en/green-software-engineering) no [Campus Ambiental de Birkenfeld]"
+"(https://www.umwelt-campus.de/en/) (em alemão: *Umwelt Campus Birkenfeld*)"
 
 #: content/be4foss-handbook/handbook_web.md:1197
 msgid ""
@@ -5680,10 +6060,15 @@ msgid ""
 "provides the foundation of the work here, and their team developed tools "
 "such as `OSCAR` and have measured various KDE applications, including Okular."
 msgstr ""
+"Desde 2008, o grupo de trabalho de Engenharia de Software Verde tem se "
+"dedicado a projetos de pesquisa com foco em software sustentável. Suas "
+"pesquisas fornecem a base para o trabalho aqui apresentado, e sua equipe "
+"desenvolveu ferramentas como o `OSCAR` e realizou avaliações em diversos "
+"aplicativos do KDE, incluindo o Okular."
 
 #: content/be4foss-handbook/handbook_web.md:1199
 msgid "[Öko-Institut e.V.](https://www.oeko.de/en/)"
-msgstr ""
+msgstr "[Öko-Institut e.V.](https://www.oeko.de/en/)"
 
 #: content/be4foss-handbook/handbook_web.md:1201
 msgid ""
@@ -5694,10 +6079,17 @@ msgid ""
 "software-eine-anleitung-zum-selbermessen/) (in German) researchers present a "
 "self-measurement technique using a simple Python script."
 msgstr ""
+"O Öko-Institut é uma das principais organizações independentes de pesquisa e "
+"consultoria da Europa, trabalhando por um futuro sustentável. O grupo de "
+"pesquisa *Produtos Sustentáveis ​​e Fluxos de Materiais* está trabalhando em "
+"diversas metodologias de medição. Nesta [postagem de blog](https://blog.oeko."
+"de/energieverbrauch-von-software-eine-anleitung-zum-selbermessen/) (em "
+"alemão), pesquisadores apresentam uma técnica de automedição usando um "
+"script simples em Python."
 
 #: content/be4foss-handbook/handbook_web.md:1203
 msgid "[Green Coding Berlin](https://www.green-coding.berlin/)"
-msgstr ""
+msgstr "[Green Coding Berlin](https://www.green-coding.berlin/)"
 
 #: content/be4foss-handbook/handbook_web.md:1205
 msgid ""
@@ -5705,6 +6097,10 @@ msgid ""
 "software and its infrastructure, creating open source measurement tools, and "
 "building a community and ecosystem around green software."
 msgstr ""
+"A Green Coding Berlin concentra-se na pesquisa sobre o consumo de energia de "
+"software e sua infraestrutura, na criação de ferramentas de medição de "
+"código aberto e na construção de uma comunidade e ecossistema em torno de "
+"software verde."
 
 #: content/be4foss-handbook/handbook_web.md:1207
 msgid ""
@@ -5712,33 +6108,38 @@ msgid ""
 "from the [Sustainable Digital Infrastructure Alliance](https://sdialliance."
 "org/)"
 msgstr ""
+"O projeto [SoftAWERE](https://sdialliance.org/steering-groups/softawere) da "
+"[Sustainable Digital Infrastructure Alliance](https://sdialliance.org/)"
 
 #: content/be4foss-handbook/handbook_web.md:1209
 msgid ""
 "The SoftAWERE steering group oversees and sets the direction for the "
 "development of tools and labels for energy-efficient software applications."
 msgstr ""
+"O grupo diretivo do SoftAWERE supervisiona e define a direção para o "
+"desenvolvimento de ferramentas e rótulos para aplicativos de software com "
+"eficiência energética."
 
 #: content/be4foss-handbook/handbook_web.md:1211
 msgid "[Green Web Foundation](https://www.thegreenwebfoundation.org/)"
-msgstr ""
+msgstr "[Green Web Foundation](https://www.thegreenwebfoundation.org/)"
 
 #: content/be4foss-handbook/handbook_web.md:1213
 msgid ""
 "The Green Web Foundation tracks and accelerates the transition to a fossil-"
 "free internet."
 msgstr ""
+"A Green Web Foundation acompanha e acelera a transição para uma internet "
+"livre de combustíveis fósseis."
 
 #: content/be4foss-handbook/handbook_web.md:1217
-#, fuzzy
-#| msgid "About Me"
 msgid "About"
-msgstr "Sobre mim"
+msgstr "Sobre"
 
 #: content/be4foss-handbook/handbook_web.md:1219
 #: content/opt-green-handbook/handbook_web.md:22
 msgid "Authors"
-msgstr ""
+msgstr "Autores"
 
 #: content/be4foss-handbook/handbook_web.md:1221
 msgid ""
@@ -5749,6 +6150,12 @@ msgid ""
 "Fella, and Volker Krause. Thank you&mdash;your contributions make this "
 "handbook possible."
 msgstr ""
+"As ferramentas e a documentação do KDE Eco são fornecidas por membros da "
+"comunidade que se voluntariaram para contribuir com este projeto em "
+"benefício de todos. Os principais colaboradores incluem (listados em ordem "
+"alfabética pelo primeiro nome): Arne Tarara, Cornelius Schumacher, Emmanuel "
+"Charruau, Karanjot Singh, Nicolas Fella e Volker Krause. Obrigado &mdash; "
+"suas contribuições tornam este manual possível."
 
 #: content/be4foss-handbook/handbook_web.md:1223
 msgid ""
@@ -5763,11 +6170,21 @@ msgid ""
 "all of us. See the end of each section for additional information about "
 "sources."
 msgstr ""
+"O texto desta versão do manual foi escrito e/ou compilado a partir da "
+"documentação acima por Joseph P. De Veaugh-Geiss. Olea Morris editou o "
+"texto. Lana Lutz e Arwin Neil Baichoo contribuíram com o design do livro e "
+"do site, bem como com as imagens nele contidas. Paul Brown fez melhorias "
+"significativas na postagem do blog Okular, adaptada para “Okular, o primeiro "
+"programa de computador com certificação ecológica”, na Parte II. A Wikipédia "
+"foi uma fonte para diversos textos que foram incluídos aqui em forma "
+"modificada. Agradecemos à comunidade de escritores e editores da Wikipédia "
+"por criar um recurso tão valioso para todos nós. Consulte o final de cada "
+"seção para obter informações adicionais sobre as fontes."
 
 #: content/be4foss-handbook/handbook_web.md:1225
 #: content/opt-green-handbook/handbook_web.md:26
 msgid "Acknowledgments"
-msgstr ""
+msgstr "Reconhecimento"
 
 #: content/be4foss-handbook/handbook_web.md:1227
 msgid ""
@@ -5780,15 +6197,16 @@ msgid ""
 "Max Schulze, Phu Nguyen, Sami Shalayel, Stefan Naumann, Sven Köhler, and "
 "Tobias Fella. Your contributions are greatly appreciated."
 msgstr ""
+"Agradecemos aos muitos colaboradores da iniciativa KDE Eco em geral "
+"(listados em ordem alfabética pelo primeiro nome): Achim Guldner, Adriaan de "
+"Groot, Aleix Pol, Alexander Semke, André Pönitz, Björn Balazs, Carl Schwan, "
+"Chris Adams, Christopher Stumpf, David Hurka, Fabian, Felix Behrens, "
+"Franziska Mai, Harald Sitter, Jens Gröger, Johnny Jazeix, Jonathan Esk-"
+"Riddell, Kira Obergöker, Lydia Pintscher, Marina Köhn, Mathias Bornschein, "
+"Max Schulze, Phu Nguyen, Sami Shalayel, Stefan Naumann, Sven Köhler e Tobias "
+"Fella. Suas contribuições são muito apreciadas."
 
 #: content/be4foss-handbook/handbook_web.md:1229
-#, fuzzy
-#| msgid ""
-#| "We would love to know what you think. Please join the conversation on our "
-#| "[mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-#| "efficiency) or [Matrix room](https://webchat.kde.org/#/room/#energy-"
-#| "efficiency:kde.org) or via the [issue trackers](https://invent.kde.org/"
-#| "groups/teams/eco/-/issues) at our GitLab repositories!"
 msgid ""
 "People who are interested in contributing to KDE Eco are encouraged to join "
 "the [mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
@@ -5797,11 +6215,12 @@ msgid ""
 "Eco sprints and in-person or online meetups. Learn more at out [website]"
 "(https://eco.kde.org/get-involved/)."
 msgstr ""
-"Gostaríamos muito de saber o que você pensa. Participe da conversa em nossa "
-"[lista de discussão](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
-"efficiency) ou [sala Matrix](https://webchat.kde.org/#/room/#energy-"
-"efficiency:kde.org) ou através dos [rastreadores de problemas](https://"
-"invent.kde.org/groups/teams/eco/-/issues) em nossos repositórios do GitLab!"
+"Pessoas interessadas em contribuir para o KDE Eco são encorajadas a se "
+"inscrever na [lista de discussão](https://mail.kde.org/cgi-bin/mailman/"
+"listinfo/energy-efficiency) ou na [sala Matrix](https://webchat.kde.org/#/"
+"room/#energy-efficiency:kde.org). Colaboradores também são convidados a "
+"participar de um dos sprints do KDE Eco e de encontros presenciais ou "
+"online. Saiba mais em nosso [site](https://eco.kde.org/get-involved/)."
 
 #: content/be4foss-handbook/handbook_web.md:1231
 msgid ""
@@ -5812,11 +6231,17 @@ msgid ""
 "Coding Berlin meetups, Sustainable Digital Infrastructure Alliance "
 "hackathon, EnviroInfo 2022, and Bits & Bäume 2022. Thank you!"
 msgstr ""
+"A iniciativa KDE Eco se beneficiou de muitas discussões informativas que "
+"ocorreram nas seguintes conferências e workshops: Akademy 2022, Linux App "
+"Summit 2022, FOSDEM 2023, rC3: NOWHERE 2021, SFSCon 2021/2022, Grazer "
+"Linuxtage 2022, Qt World Summit 2022, QtDevCon 2022, Fedora Nest 2022, Green "
+"Coding Berlin meetups, Sustainable Digital Infrastructure Alliance "
+"hackathon, EnviroInfo 2022 e Bits & Bäume 2022. Obrigado!"
 
 #: content/be4foss-handbook/handbook_web.md:1233
 #: content/opt-green-handbook/handbook_web.md:49
 msgid "License"
-msgstr ""
+msgstr "Licença"
 
 #: content/be4foss-handbook/handbook_web.md:1235
 msgid ""
@@ -5826,6 +6251,11 @@ msgid ""
 "documentation licensing at KDE, see [KDE’s licensing policy](https://"
 "community.kde.org/Policies/Licensing_Policy)."
 msgstr ""
+"Salvo indicação em contrário, todo o conteúdo é publicado sob a licença "
+"[Creative Commons de Atribuição Compartilhada 4.0 Internacional (CC-BY-"
+"SA-4.0)](https://spdx.org/licenses/CC-BY-SA-4.0.html). Para mais informações "
+"sobre licenciamento de documentação no KDE, consulte a [política de "
+"licenciamento do KDE](https://community.kde.org/Policies/Licensing_Policy)."
 
 #: content/be4foss-handbook/handbook_web.md:1237
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
@@ -5836,35 +6266,30 @@ msgid "Funding Notice"
 msgstr "Nota de financiamento"
 
 #: content/be4foss-handbook/handbook_web.md:1239
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The *Blauer Engel Für FOSS* project was funded by the Federal German "
 "Environment Agency (UBA) and the Federal Ministry for the Environment, "
 "Nature Conservation, Nuclear Safety and Consumer Protection (BMUV). The "
 "funds are made available by resolution of the German Bundestag."
 msgstr ""
-"O projeto BE4FOSS foi financiado pela Agência Federal do Meio Ambiente e "
-"pelo Ministério Federal do Meio Ambiente, Conservação da Natureza, Segurança "
-"Nuclear e Proteção ao Consumidor (BMUV<sup><a id=\"fnr.1\" class=\"footref\" "
-"href=\"#fn.1\">1</a></sup>). Os recursos são disponibilizados por resolução "
-"do Bundestag Alemão."
+"O projeto *Blauer Engel Für FOSS* foi financiado pela Agência Federal Alemã "
+"do Meio Ambiente (UBA) e pelo Ministério Federal do Meio Ambiente, "
+"Conservação da Natureza, Segurança Nuclear e Proteção do Consumidor (BMUV). "
+"Os fundos são disponibilizados por resolução do Bundestag alemão."
 
 #: content/be4foss-handbook/handbook_web.md:1241
 #: content/opt-green-handbook/handbook_web.md:739
 msgid "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 msgstr ""
+"![Logotipo da Agência Federal Alemã do Meio Ambiente.](images/sec4_uba.jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:1243
 msgid ""
 "![Logo of the Federal Ministry for the Environment, Nature Conservation, "
 "Nuclear Safety and Consumer Protection.](images/sec4_bmuv.png)"
 msgstr ""
+"![Logotipo do Ministério Federal do Meio Ambiente, Conservação da Natureza, "
+"Segurança Nuclear e Proteção do Consumidor.](images/sec4_bmuv.png)"
 
 #: content/be4foss-handbook/handbook_web.md:1245
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
@@ -8768,32 +9193,24 @@ msgstr "Faça verde"
 
 #: content/opt-green-handbook/_index.md:0
 #: content/opt-green-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Opt Green"
 msgid "Opting Green"
-msgstr "Opte pelo verde"
+msgstr "Optando pelo Verde"
 
 #: content/opt-green-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Opt Green Handbook"
-msgstr "Manual do KDE Eco"
+msgstr "Manual Optando pelo Verde do KDE"
 
 #: content/opt-green-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid "Opt Green: Sustainable Software For Sustainable Hardware"
 msgid "How Sustainable Software Makes for Sustainable Hardware"
-msgstr "Opte pelo Verde: Software sustentável para hardware sustentável"
+msgstr "Como o software sustentável contribui para o hardware sustentável"
 
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "htb"
-msgstr ""
+msgstr "htb"
 
 #: content/opt-green-handbook/handbook_web.md:20
-#, fuzzy
-#| msgid "About This Website"
 msgid "About This Handbook"
-msgstr "Sobre este site Web"
+msgstr "Sobre este manual"
 
 #: content/opt-green-handbook/handbook_web.md:24
 msgid ""
@@ -8802,6 +9219,10 @@ msgid ""
 "according to KDE Eco editorial guidelines. Anita Sengupta and Arwin Neil "
 "Baichoo made the book and website design beautiful."
 msgstr ""
+"O texto desta versão do manual foi escrito e compilado a partir de várias "
+"fontes por Joseph P. De Veaugh-Geiss. Annie Musgrove editou o texto de "
+"acordo com as diretrizes editoriais da KDE Eco. Anita Sengupta e Arwin Neil "
+"Baichoo tornaram o design do livro e do site belíssimo."
 
 #: content/opt-green-handbook/handbook_web.md:28
 msgid ""
@@ -8816,6 +9237,16 @@ msgid ""
 "helping new users with Free & Open Source Software. You are all an "
 "inspiration."
 msgstr ""
+"Um agradecimento geral aos muitos colaboradores da iniciativa KDE Eco, do "
+"projeto Opte pelo Verde e da campanha End Of 10. Uma lista incompleta (em "
+"ordem alfabética): Aaron Wey, Albert Astals Cid, Bernard Sadaka, Bettina "
+"Louis, Carl Schwan, Carolina Silva Rodé, Christopher Waldon, Finnjan "
+"Hofmann, Geoffrey Teale, Harald Reingruber, Jannick Kremer, a comunidade de "
+"desenvolvimento do KDE, as equipes de tradução do KDE, Lydia Pintscher, Nico "
+"Düsing, Nicole Teale, Øjvind Fritjof Arnfred, Susanne Rabler, Tobias Bernard "
+"e, por último, mas não menos importante, as inúmeras pessoas ao redor do "
+"mundo que ajudam novos usuários com Software Livre e de Código Aberto. Vocês "
+"são todos uma inspiração."
 
 #: content/opt-green-handbook/handbook_web.md:30
 msgid ""
@@ -8824,6 +9255,11 @@ msgid ""
 "are also invited to join one of the KDE Eco sprints and in-person or online "
 "meetups. Learn more at our [website](https://eco.kde.org/get-involved/)."
 msgstr ""
+"Pessoas interessadas em contribuir para o KDE Eco são encorajadas a "
+"participar da [sala Matrix](https://webchat.kde.org/#/room/#kde-eco:kde."
+"org). Colaboradores também são convidados a participar de um dos sprints do "
+"KDE Eco e de encontros presenciais ou online. Saiba mais em nosso [site]"
+"(https://eco.kde.org/get-involved/)."
 
 #: content/opt-green-handbook/handbook_web.md:32
 msgid ""
@@ -8835,10 +9271,17 @@ msgid ""
 "Hannover, Nürnberg, and Dessau, SFSCon, Umweltfestival, and Weltveränderer. "
 "Thank you!"
 msgstr ""
+"O projeto Opte pelo Verde se beneficiou de muitas discussões informativas "
+"que ocorreram nas seguintes conferências, workshops, encontros e festivais: "
+"Akademy, Anstiftung, Chaos Communication Congress, ecoCompute, FOSDEM, FOSS "
+"Meetup Delhi, Jahrestagung der Gesellschaft für Informatik, KDE India "
+"Conference, Linux App Summit, Lucknow FOSS, Repair Cafe Workshops em "
+"Hannover, Nürnberg, e Dessau, SFSCon, Umweltfestival e Weltveränderer. "
+"Obrigado!"
 
 #: content/opt-green-handbook/handbook_web.md:34
 msgid "No Generative AI or LLMs"
-msgstr ""
+msgstr "Sem IA generativa ou LLMs"
 
 #: content/opt-green-handbook/handbook_web.md:36
 msgid ""
@@ -8847,6 +9290,10 @@ msgid ""
 "(https://www.nytimes.com/2025/09/18/magazine/chatgpt-dash-hyphen-writing-"
 "communication.html) might otherwise suggest."
 msgstr ""
+"Nenhuma IA generativa ou LLMs foram usados ​​em qualquer etapa da preparação "
+"ou escrita deste manual, apesar do que o uso frequente de [em-dashes]"
+"(https://www.nytimes.com/2025/09/18/magazine/chatgpt-dash-hyphen-writing-"
+"communication.html) possa sugerir."
 
 #: content/opt-green-handbook/handbook_web.md:40
 msgid ""
@@ -8856,23 +9303,33 @@ msgid ""
 "International (CC-BY-SA-4.0)](https://spdx.org/licenses/CC-BY-SA-4.0.html) "
 "license."
 msgstr ""
+"Alguns textos nas Partes I e II foram adaptados do manual KDE Eco "
+"[\"Aplicando os Critérios do Blue Angel ao Software Livre\"](https://eco.kde."
+"org/handbook/), lançado sob uma licença [Creative Commons de Atribuição "
+"Compartilhada 4.0 Internacional (CC-BY-SA-4.0)](https://spdx.org/licenses/CC-"
+"BY-SA-4.0.html)."
 
 #: content/opt-green-handbook/handbook_web.md:42
 msgid ""
 "Part III benefited from the following texts by the Linux User Group "
 "Villingen-Schwenningen and Repair-Café Hilpoltstein:"
 msgstr ""
+"A Parte III beneficiou-se dos seguintes textos do Grupo de Usuários Linux "
+"Villingen-Schwenningen e do Repair-Café Hilpoltstein:"
 
 #: content/opt-green-handbook/handbook_web.md:44
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 msgstr ""
+"[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:45
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux)"
 msgstr ""
+"[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
+"werkstatt/linux)"
 
 #: content/opt-green-handbook/handbook_web.md:47
 msgid ""
@@ -8880,6 +9337,9 @@ msgid ""
 "the commons community for making such excellent resources available for all "
 "of us."
 msgstr ""
+"A Wikipédia forneceu referências para vários textos aqui incluídos. "
+"Agradecemos à comunidade do Commons por disponibilizar recursos tão "
+"excelentes para todos nós."
 
 #: content/opt-green-handbook/handbook_web.md:51
 msgid ""
@@ -8889,16 +9349,24 @@ msgid ""
 "documentation licensing at KDE, see [KDE's licensing policy](https://"
 "community.kde.org/Policies/Licensing_Policy)."
 msgstr ""
+"Salvo indicação em contrário, todo o conteúdo é publicado sob a licença "
+"[Creative Commons de Atribuição Compartilhada 4.0 Internacional (CC-BY-"
+"SA-4.0)](https://spdx.org/licenses/CC-BY-SA-4.0.html). Para mais informações "
+"sobre licenciamento de documentação no KDE, consulte a [política de "
+"licenciamento do KDE](https://community.kde.org/Policies/Licensing_Policy)."
 
 #: content/opt-green-handbook/handbook_web.md:54
 msgid "Introduction: What's This All About?"
-msgstr ""
+msgstr "Introdução: Do ​​que se trata tudo isso?"
 
 #: content/opt-green-handbook/handbook_web.md:56
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software and how Free & Open Source Software (FOSS) provides a solution."
 msgstr ""
+"Este manual oferece uma breve visão geral dos danos ambientais causados ​​por "
+"software e como o Software Livre e de Código Aberto (FOSS) oferece uma "
+"solução."
 
 #: content/opt-green-handbook/handbook_web.md:58
 msgid ""
@@ -8908,6 +9376,12 @@ msgid ""
 "landfills because software developments render them obsolete&mdash;even if "
 "in some case such developments are not necessary."
 msgstr ""
+"Neste ponto, você pode estar se perguntando: o que a sustentabilidade tem a "
+"ver com software? Como algo aparentemente tão imaterial quanto um software "
+"pode ter um impacto ambiental? Simplificando, computadores e outros "
+"dispositivos acabam em aterros sanitários porque o aprimoramento do software "
+"os tornam obsoletos &mdash; mesmo que, em alguns casos, tais aprimoramentos "
+"não sejam necessários."
 
 #: content/opt-green-handbook/handbook_web.md:60
 msgid ""
@@ -8916,18 +9390,22 @@ msgid ""
 "can do about it in your community, today! The book is divided into three "
 "main parts:"
 msgstr ""
+"Neste livro, vamos analisar mais de perto as maneiras pelas quais o software "
+"e o hardware que o executa contribuem para a crise climática e o que você "
+"pode fazer a respeito em sua comunidade, hoje mesmo! O livro está dividido "
+"em três partes principais:"
 
 #: content/opt-green-handbook/handbook_web.md:63
 #: content/opt-green-handbook/handbook_web.md:208
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Part II: Digital Sustainability"
-msgstr "Sustentabilidade"
+msgstr "Parte II: Sustentabilidade digital"
 
 #: content/opt-green-handbook/handbook_web.md:64
 #: content/opt-green-handbook/handbook_web.md:401
 msgid "Part III: Upgrading Devices With FOSS"
 msgstr ""
+"Parte III: Atualizando dispositivos com software livre e de código aberto "
+"(FOSS)"
 
 #: content/opt-green-handbook/handbook_web.md:66
 msgid ""
@@ -8940,6 +9418,14 @@ msgid ""
 "helpful to get started, with pointers on how to find resources for more "
 "information."
 msgstr ""
+"Enquanto a Parte I explora o *porquê* e a Parte II o *quê*, a Parte III "
+"discute o *como*, explorando o que você precisa considerar ao ajudar outras "
+"pessoas a atualizarem seus hardwares com Software Livre e de Código Aberto. "
+"Dessa forma, você e outras pessoas podem usar os dispositivos até o fim da "
+"vida útil do hardware, em vez de descartar computadores em funcionamento "
+"quando o suporte do software terminar. A Parte III não é um guia técnico "
+"passo a passo, mas sim um esboço do que consideramos útil para começar, com "
+"dicas sobre como encontrar recursos para obter mais informações."
 
 #: content/opt-green-handbook/handbook_web.md:68
 msgid ""
@@ -8952,10 +9438,19 @@ msgid ""
 "those helping out at End of 10 and Digital Independence Day events, Linux "
 "Install Parties, CryptoParties, and so on."
 msgstr ""
+"O público-alvo das Partes I e II é qualquer pessoa que se preocupe com o "
+"meio ambiente e com o papel que o software desempenha na sustentabilidade "
+"digital. A Parte III é mais específica e prática. O público-alvo desta seção "
+"são aqueles que desejam ajudar a prevenir o lixo eletrônico e \"reparar\" "
+"computadores sem suporte, atualizando-os com software livre e de código "
+"aberto (FOSS). Isso inclui voluntários em Repair Cafés, organizações "
+"ambientais e outras iniciativas de reparo, bem como aqueles que ajudam em "
+"eventos do End of 10 e do Dia da Independência Digital, festas de instalação "
+"do Linux, CryptoParties e assim por diante."
 
 #: content/opt-green-handbook/handbook_web.md:70
 msgid "Let's get started!"
-msgstr ""
+msgstr "Vamos começar!"
 
 #: content/opt-green-handbook/handbook_web.md:73
 msgid ""
@@ -8963,29 +9458,29 @@ msgid ""
 "org/licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste."
 "jpg)-->\n"
 msgstr ""
+"<!--![Fotografia de lixo eletrônico. (Imagem publicada sob uma licença de "
+"domínio público [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html).)](images/"
+"sec1_e-waste.jpg)-->\n"
 
 #: content/opt-green-handbook/handbook_web.md:75
 msgid ""
 "Before we dive into the environmental impact of software, consider how you "
 "would complete this sentence:"
 msgstr ""
+"Antes de analisarmos o impacto ambiental do software, pense em como você "
+"completaria esta frase:"
 
 #: content/opt-green-handbook/handbook_web.md:77
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid "**The most environmentally-friendly device is …**"
-msgstr ""
-"Nosso lema: **O dispositivo mais ecológico é aquele que você já possui.**"
+msgstr "**O dispositivo mais ecológico é …**"
 
 #: content/opt-green-handbook/handbook_web.md:79
 msgid "Think about it for a minute."
-msgstr ""
+msgstr "Pense nisso por um minuto."
 
 #: content/opt-green-handbook/handbook_web.md:81
 msgid "Now keep your answer in mind&mdash;we'll come back to it shortly."
-msgstr ""
+msgstr "Guarde sua resposta em sua mente &mdash; voltaremos a ela em breve."
 
 #: content/opt-green-handbook/handbook_web.md:83
 msgid ""
@@ -9003,6 +9498,21 @@ msgid ""
 "lives, but today, they are simply no longer necessary, as they now exist "
 "almost solely in digital form on our devices."
 msgstr ""
+"A tecnologia digital revolucionou a forma como vivemos e é frequentemente "
+"elogiada por trazer não apenas conveniência, mas também eficiência ao nosso "
+"dia a dia. As empresas têm aproveitado a digitalização para a distribuição "
+"eficiente de todos os tipos de bens de consumo e a [desmaterialização]"
+"(https://en.wikipedia.org/wiki/Dematerialization_(economics)) de produtos "
+"cotidianos. Ingressos impressos para shows ou viagens não são mais "
+"necessários, pois podem ser baixados e apresentados no celular. As "
+"fotografias não são mais guardadas em caixas de sapatos abarrotadas, mas em "
+"um tablet ou computador. Milhares de filmes e séries de TV são transmitidos "
+"em laptops, tornando as coleções de filmes coisa do passado. Em muitos "
+"casos, um único dispositivo, um smartphone, é usado para tudo isso&mdash;e "
+"muito, muito mais. Esses objetos físicos já foram uma parte importante de "
+"nossas vidas diárias, mas hoje, eles simplesmente não são mais necessários, "
+"pois agora existem quase que exclusivamente em formato digital em nossos "
+"dispositivos."
 
 #: content/opt-green-handbook/handbook_web.md:85
 msgid ""
@@ -9010,6 +9520,9 @@ msgid ""
 "more efficient, it may seem like these technological developments are also "
 "less material and less wasteful. But are they really?"
 msgstr ""
+"Apesar de todas as maneiras pelas quais a digitalização tornou nossas vidas "
+"mais convenientes e eficientes, pode parecer que esses avanços tecnológicos "
+"também são menos materiais e menos desperdiçadores. Mas será mesmo?"
 
 #: content/opt-green-handbook/handbook_web.md:87
 msgid ""
@@ -9027,19 +9540,22 @@ msgid ""
 "software determines a device's energy and resource consumption while you're "
 "still using it."
 msgstr ""
+"Resposta curta: não. A internet e os computadores que usamos para nos "
+"conectar a ela exigem infraestrutura física. Isso inclui a extração de "
+"materiais para a fabricação, as fábricas que produzem os dispositivos e as "
+"redes que abrangem continentes e possibilitam a comunicação global. Tudo "
+"isso requer energia e recursos. Muita energia e recursos. Além disso, o "
+"hardware considerado obsoleto acaba em centros de descarte para tratamento "
+"de fim de vida útil ou como lixo em aterros sanitários, que é tóxico tanto "
+"para as pessoas quanto para o meio ambiente. Então, novos dispositivos são "
+"produzidos e transportados para substituí-los. Mas, esses dispositivos "
+"\"antigos\" são realmente obsoletos quando ainda funcionam? O que exatamente "
+"os transformou em lixo eletrônico? Em muitos casos, é o software que "
+"determina a vida útil da infraestrutura digital. Não só isso, o software "
+"determina o consumo de energia e recursos de um dispositivo enquanto você "
+"ainda o está usando."
 
 #: content/opt-green-handbook/handbook_web.md:89
-#, fuzzy
-#| msgid ""
-#| "![A young man is pictured burning electrical wires to recover copper at "
-#| "Agbogbloshie, Ghana, as another metal scrap worker arrives with more "
-#| "wires to be burned. A 2018 article in the \"International Journal of "
-#| "Cancer\" reports a [correlation](https://onlinelibrary.wiley.com/doi/"
-#| "abs/10.1002/ijc.31902) between proximity to e-waste burn sites and "
-#| "childhood lymphoma. ([Image](https://en.wikipedia.org/wiki/File:"
-#| "Agbogbloshie,_Ghana_-_September_2019.jpg) by Muntaka Chasant, published "
-#| "under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) "
-#| "license.)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper from e-"
 "waste at Agbogbloshie, Ghana, as another metal scrap worker arrives with "
@@ -9047,15 +9563,11 @@ msgid ""
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license.)](images/"
 "sec1_800px-Agbogbloshie_Ghana_September_2019.jpg)"
 msgstr ""
-"![Um jovem é fotografado queimando fios elétricos para recuperar cobre em "
-"Agbogbloshie, Gana, enquanto outro trabalhador da indústria de sucata chega "
-"com mais fios para serem queimados. Um artigo de 2018 no \"International "
-"Journal of Cancer\" relata uma [correlação](https://onlinelibrary.wiley.com/"
-"doi/abs/10.1002/ijc.31902) entre a proximidade de locais de queima de lixo "
-"eletrônico e o linfoma infantil. ([Imagem](https://en.wikipedia.org/wiki/"
-"File:Agbogbloshie,_Ghana_-_September_2019.jpg) de Muntaka Chasant, publicada "
-"sob uma licença [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0."
-"html).)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
+"![Um jovem é fotografado queimando fios elétricos para recuperar cobre de "
+"lixo eletrônico em Agbogbloshie, Gana, enquanto outro catador de sucata "
+"chega com mais fios para serem queimados. (Imagem de Muntaka Chasant, "
+"publicada sob uma licença [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-"
+"SA-4.0.html).)](images/sec1_800px-Agbogbloshie_Ghana_September_2019.jpg)"
 
 #: content/opt-green-handbook/handbook_web.md:91
 msgid ""
@@ -9068,6 +9580,15 @@ msgid ""
 "through our choices in software, users can have an immediate and significant "
 "influence on many of the issues discussed throughout this handbook."
 msgstr ""
+"Este manual examinará mais de perto algumas das maneiras pelas quais a "
+"tecnologia digital contribui para os danos ambientais e para a crise "
+"climática. Para que fique claro, este manual não é contra a tecnologia. Sem "
+"dúvida, a digitalização melhorou a vida de inúmeras maneiras para um grande "
+"número de pessoas. Mas os impactos ecológicos da tecnologia digital exigem "
+"que reflitamos mais profundamente sobre as maneiras como a utilizamos e como "
+"podemos usá-la de forma mais sustentável. A boa notícia é que, por meio de "
+"nossas escolhas de software, os usuários podem ter uma influência imediata e "
+"significativa em muitas das questões discutidas ao longo deste manual."
 
 #: content/opt-green-handbook/handbook_web.md:93
 msgid ""
@@ -9075,6 +9596,9 @@ msgid ""
 "the problem. So let's explore what is meant by the digital environmental "
 "footprint and how the software we use everyday is involved."
 msgstr ""
+"Para solucionar um problema de forma eficaz, porém, primeiro precisamos "
+"entendê-lo. Vamos, então, explorar o que significa pegada ambiental digital "
+"e como o software que usamos diariamente está envolvido nesse processo."
 
 #: content/opt-green-handbook/handbook_web.md:97
 msgid ""
@@ -9085,6 +9609,13 @@ msgid ""
 "container ships that transport mass-produced hardware, and cables and data "
 "centers which connect them to global networks."
 msgstr ""
+"A tecnologia digital é frequentemente (e erroneamente) associada à "
+"imaterialidade. Mas existe um aspecto muito real e muito material na "
+"digitalização, que abrange não apenas nossos dispositivos físicos, como "
+"smartphones e laptops, mas também as usinas de processamento de metais "
+"extraídos necessárias para seu funcionamento, os navios porta-contêineres "
+"que transportam hardware produzido em massa e os cabos e centros de dados "
+"que os conectam às redes globais."
 
 #: content/opt-green-handbook/handbook_web.md:99
 msgid ""
@@ -9098,6 +9629,15 @@ msgid ""
 "make them work, and their transporation, use, and eventual disposal all have "
 "an environmental impact."
 msgstr ""
+"Usamos mais dispositivos digitais do que nunca. O número de dispositivos "
+"conectados à internet, incluindo laptops e smartphones, mas também smart "
+"TVs, assistentes domésticos e outros dispositivos da Internet das Coisas "
+"(IoT), está crescendo. Globalmente, a adoção de smartphones aumentou "
+"rapidamente, assim como a demanda por recursos necessários para fabricar "
+"dispositivos novos e [cada vez mais poderosos](https://www.oekom.de/buch/"
+"smarte-gruene-welt-9783962380205). A produção desses dispositivos, incluindo "
+"a mineração de metais de terras raras necessários para seu funcionamento, e "
+"seu transporte, uso e descarte final, têm um impacto ambiental."
 
 #: content/opt-green-handbook/handbook_web.md:101
 msgid ""
@@ -9111,6 +9651,16 @@ msgid ""
 "icon by Sari Braga licensed under a [CC-BY](https://spdx.org/licenses/CC-"
 "BY-3.0.html) license. Design by Lana Lutz.)](images/sec1_acm-report.png)"
 msgstr ""
+"![Dois gráficos comparando (à esquerda) as emissões de gases de efeito "
+"estufa da indústria da aviação em azul com o setor de TIC em verde e (à "
+"direita) estimativas projetadas para as emissões do setor de TIC até 2050, "
+"caso nada mude. Os dados são do relatório do Conselho de Política "
+"Tecnológica da ACM de 2021. (Imagem do KDE publicada sob uma licença [CC-BY-"
+"SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html). [Avião](https://"
+"thenounproject.com/icon/airplane-74604/) ícone de Simon Child e [IT](https://"
+"thenounproject.com/icon/it-3341003/) ícone de Sari Braga licenciado sob uma "
+"licença [CC-BY](https://spdx.org/licenses/CC-BY-3.0.html). Design de Lana "
+"Lutz.)](images/sec1_acm-report.png)"
 
 #: content/opt-green-handbook/handbook_web.md:103
 msgid ""
@@ -9128,6 +9678,21 @@ msgid ""
 "inherent contradiction of digitization: digital technology \"can help "
 "mitigate climate change\", but it \"must first cease contributing to it\"."
 msgstr ""
+"Na verdade, o impacto ambiental da indústria como um todo, em particular em "
+"termos de emissões de CO₂, está atualmente em pé de igualdade com a "
+"indústria da aviação. A Association of Computing Machinery (ACM), a mais "
+"antiga sociedade científica e educacional de computação do mundo, publicou "
+"um relatório do Conselho de Política Tecnológica em 2021 intitulado "
+"\"[Computação e Mudanças Climáticas](https://dl.acm.org/doi/"
+"pdf/10.1145/3483410)\". As estimativas do relatório são impressionantes. "
+"Estima-se que o setor de Tecnologia da Informação e Comunicação (TIC) "
+"contribua com entre 1,8% e 3,9% das emissões globais de carbono anualmente. "
+"A indústria global da aviação contribui com 2,5%. O relatório da ACM alerta "
+"que, se nada mudar, as emissões de carbono das TIC aumentarão para *mais de "
+"30%* de todas as emissões globais até 2050. Em suas conclusões, os autores "
+"reconhecem uma contradição inerente à digitalização: a tecnologia digital "
+"\"pode ​​ajudar a mitigar as mudanças climáticas\", mas \"primeiro deve parar "
+"de contribuir para elas\"."
 
 #: content/opt-green-handbook/handbook_web.md:105
 msgid ""
@@ -9144,6 +9709,19 @@ msgid ""
 "have taken a tour of the landfills and scrapyards, we will explore the "
 "environmental impact of hardware production and device use."
 msgstr ""
+"Para estimar a contribuição da tecnologia digital para os danos ambientais, "
+"é necessário considerar todo o seu ciclo de vida. Isso inclui os custos de "
+"produção e transporte de dispositivos digitais (da loja até o aterro "
+"sanitário), os custos de uso e os custos de remediação dos danos ambientais "
+"causados ​​pelo lixo eletrônico. Isso é especialmente verdadeiro ao "
+"considerarmos a pegada de carbono agregada de nossas tecnologias digitais, "
+"já que, em alguns casos, a simples produção de um dispositivo contribui com "
+"mais emissões de gases de efeito estufa do que o uso do dispositivo durante "
+"toda a sua vida útil! Guarde essa ideia por um momento, pois nossa "
+"exploração do ciclo de vida de um dispositivo começará, na verdade, pelo seu "
+"fim, quando ele se torna lixo eletrônico. Depois de visitarmos os aterros "
+"sanitários e depósitos de sucata, exploraremos o impacto ambiental da "
+"produção de hardware e do uso de dispositivos."
 
 #: content/opt-green-handbook/handbook_web.md:107
 msgid ""
@@ -9154,10 +9732,16 @@ msgid ""
 "spdx.org/licenses/CC-BY-SA-2.0.html) license.)](images/sec1_geograph-2637892-"
 "by-James-T-M-Towill_1600x1200.jpg)"
 msgstr ""
+"![Imagem da estátua “Homem REEE”, feita com 3,3 toneladas métricas de lixo "
+"eletrônico, a quantidade média de lixo eletrônico que um indivíduo no Reino "
+"Unido gera ao longo da vida. (Fotografia de James T.M. Towill e [publicada]"
+"(https://www.geograph.org.uk/photo/2637892) sob uma licença [CC-BY-SA-2.0]"
+"(https://spdx.org/licenses/CC-BY-SA-2.0.html).)](images/"
+"sec1_geograph-2637892-by-James-T-M-Towill_1600x1200.jpg)"
 
 #: content/opt-green-handbook/handbook_web.md:109
 msgid "A \"Tsunami Of E-Waste\""
-msgstr ""
+msgstr "Um “Tsunami de Lixo Eletrônico\""
 
 #: content/opt-green-handbook/handbook_web.md:111
 msgid ""
@@ -9167,6 +9751,12 @@ msgid ""
 "statue is made from 3.3 metric tons of electrical waste. This is the average "
 "amount of e-waste that one UK individual generates in a lifetime."
 msgstr ""
+"Com sete metros de altura, o “Homem REEE” é um gigante. Recebendo o nome da "
+"diretiva de 2003 sobre Resíduos de Equipamentos Elétricos e Eletrônicos "
+"(REEE), que estabelece metas de coleta, reciclagem e recuperação de lixo "
+"eletrônico na UE,[^1] a estátua é feita de 3,3 toneladas métricas de lixo "
+"eletrônico. Isto é a quantidade média de lixo eletrônico que um indivíduo do "
+"Reino Unido gera ao longo da vida."
 
 #: content/opt-green-handbook/handbook_web.md:113
 msgid ""
@@ -9175,6 +9765,11 @@ msgid ""
 "located on London's South Bank, the towering figure was subsequently moved "
 "to the Eden Project in Cornwall, where it currently resides."
 msgstr ""
+"[^1]: Em 2005, dois anos após a diretiva ter sido transposta para a "
+"legislação europeia, a Royal Society of Arts, no Reino Unido, inaugurou o "
+"“Homem WEEE”. Originalmente localizada na margem sul do Tâmisa, em Londres, "
+"a imponente figura foi posteriormente transferida para o Eden Project, na "
+"Cornualha, onde se encontra atualmente."
 
 #: content/opt-green-handbook/handbook_web.md:115
 msgid ""
@@ -9194,15 +9789,25 @@ msgid ""
 "around the earth's equator. That is 40,075 kilometers of e-waste. In one "
 "year!"
 msgstr ""
+"Em 2015, quando o lixo eletrônico estava prestes a se tornar o \"[fluxo de "
+"resíduos de crescimento mais rápido do mundo](https://www.weforum.org/"
+"reports/a-new-circular-vision-for-electronics-time-for-a-global-reboot/)\", "
+"o então Diretor Executivo do Programa das Nações Unidas para o Meio "
+"Ambiente, Achim Steiner, alertou para um \"[tsunami de lixo eletrônico]"
+"(https://news.un.org/en/story/2015/05/497772) se espalhando pelo mundo\". Os "
+"números são impressionantes. Em 2022, estimou-se que [62 bilhões de "
+"quilogramas](https://ewastemonitor.info/electronic-waste-rising-five-times-"
+"faster-than-documeted-e-waste-recycling-un/) de lixo eletrônico foram "
+"gerados globalmente, quase o dobro do registrado em 2010, de acordo com um "
+"[relatório](https://ewastemonitor.info/wp-content/uploads/2024/03/"
+"GEM_2024_18-03_web_page_per_page_web.pdf) do Instituto das Nações Unidas "
+"para Treinamento e Pesquisa (UNITAR) e da União Internacional de "
+"Telecomunicações (UIT). Para se ter uma ideia da dimensão desse número, 62 "
+"bilhões de quilogramas encheriam 1,55 milhão de caminhões de 40 toneladas "
+"que dariam a volta completa na linha do Equador. Isso equivale a 40.075 "
+"quilômetros de lixo eletrônico. Em apenas um ano!"
 
 #: content/opt-green-handbook/handbook_web.md:117
-#, fuzzy
-#| msgid ""
-#| "![In 2016, 44.7 million metric tons of e-waste was generated. This is "
-#| "estimated to be equivalent to 4,500 Eiffel Towers, which, when stacked, "
-#| "is 17 times higher than Mount Everest. (Image from KDE published under a "
-#| "[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. "
-#| "Design by Anita Sengupta.)](/blog/images/mountain.png)"
 msgid ""
 "![62 billion kg of e-waste was generated in 2022. This is equivalent to 1.55 "
 "million trucks wrapped all the way around the Earth's equator. The amount "
@@ -9210,11 +9815,11 @@ msgid ""
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by Anita "
 "Sengupta.)](images/sec1_e-waste-trucks-on-equator-illustration.png)"
 msgstr ""
-"![Em 2016, foram geradas 44,7 milhões de toneladas métricas de lixo "
-"eletrônico. Estima-se que isso seja equivalente a 4.500 Torres Eiffel, que, "
-"quando empilhadas, são 17 vezes mais altas que o Monte Everest. (Imagem do "
-"KDE publicada sob a licença [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-"
-"SA-4.0.html). Design de Anita Sengupta.)](/blog/images/mountain.png)"
+"![62 bilhões de kg de lixo eletrônico foram gerados em 2022. Isso equivale a "
+"1,55 milhão de caminhões dando a volta completa no equador da Terra. A "
+"quantidade aumenta a cada ano. (Imagem do KDE publicada sob uma licença [CC-"
+"BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html). Design de "
+"AnitaSengupta.)](images/sec1_e-waste-trucks-on-equator-illustration.png)"
 
 #: content/opt-green-handbook/handbook_web.md:119
 msgid ""
@@ -9237,6 +9842,26 @@ msgid ""
 "machines, dishwashers, large printers, photocopiers (together referred to as "
 "\"large equipment\"); photovoltaic panels, among others."
 msgstr ""
+"Os números continuam a aumentar. De acordo com o mesmo relatório, a "
+"quantidade de lixo eletrônico está aumentando em cerca de 2,3 bilhões de "
+"quilogramas por ano &mdash; e estamos a caminho de gerar 82 bilhões de "
+"quilogramas até o ano de 2030. Pior ainda, [menos de 20%](https://weee-forum."
+"org/ws_news/international-e-waste-day-2021/) do lixo eletrônico é coletado e "
+"reciclado. Embora represente [apenas 2%](https://www.forbes.com/sites/"
+"vianneyvaute/2019/04/23/with-love-from-an-oregon-prison-how-eric-lundgren-is-"
+"going-to-help-you-recycle-all-your-electronics/) do lixo em aterros "
+"sanitários, ele contribui com quase 70% dos resíduos tóxicos encontrados lá. "
+"O [WEEE Forum](https://weee-forum.org/about-2024/) alerta: \"Atualmente, a "
+"quantidade de lixo eletrônico está crescendo cinco vezes mais rápido do que "
+"as taxas formais de coleta seletiva desde 2010\". Em 2024, cerca de [18% do "
+"lixo eletrônico](https://ewastemonitor.info/wp-content/uploads/2024/03/"
+"GEM_2024_18-03_web_page_per_page_web.pdf) provém de computadores pessoais, "
+"impressoras, celulares, roteadores, dispositivos GPS e telefones, bem como "
+"telas e monitores. O restante inclui câmeras de vídeo, brinquedos, fornos de "
+"micro-ondas, cigarros eletrônicos (em conjunto denominados \"equipamentos "
+"pequenos\"); máquinas de lavar roupa, lava-louças, impressoras grandes, "
+"fotocopiadoras (em conjunto denominadas \"equipamentos grandes\"); painéis "
+"fotovoltaicos, entre outros."
 
 #: content/opt-green-handbook/handbook_web.md:121
 msgid ""
@@ -9257,6 +9882,23 @@ msgid ""
 "land and sea animals, in crops eaten by both animals and humans, and in "
 "drinking water."
 msgstr ""
+"De todos esses dispositivos, o lixo eletrônico da tecnologia da computação é "
+"particularmente problemático. Componentes eletrônicos descartados, como "
+"CPUs, contêm materiais potencialmente nocivos, como chumbo, cádmio, berílio "
+"ou retardantes de chama bromados. Como resultado, seu tratamento ao final da "
+"vida útil pode envolver [risco significativo para a saúde dos trabalhadores "
+"e suas comunidades](https://www.nytimes.com/2019/12/08/world/asia/e-waste-"
+"thailand-southeast-asia.html). Além disso, os [catadores arriscam sua saúde]"
+"(https://www.nytimes.com/2019/05/12/climate/electronic-marvels-turn-into-"
+"dangerous-trash-in-east-africa.htm) pelos metais preciosos descartados em "
+"laptops e smartphones, \"[que podem conter chumbo, mercúrio ou outras "
+"substâncias tóxicas](https://www.nytimes.com/2018/07/05/magazine/e-waste-"
+"offers-an-economic-opportunity-as-well-as-toxicity.html). O processo de "
+"desmontagem e descarte de lixo eletrônico já causou diversos impactos "
+"ambientais em países em desenvolvimento. Emissões líquidas e atmosféricas "
+"acabam em corpos d'água, águas subterrâneas, solo e ar &mdash; e, portanto, "
+"também em animais terrestres e marinhos, em plantações consumidas por "
+"animais e humanos e na água potável."
 
 #: content/opt-green-handbook/handbook_web.md:123
 msgid ""
@@ -9268,6 +9910,13 @@ msgid ""
 "computers embedded in them. We have computers with things attached to them."
 "\" Schneier continues (emphasis added):"
 msgstr ""
+"Este manual trata principalmente de computadores de mesa e laptops, mas os "
+"assuntos aqui abordados se aplicam a qualquer dispositivo que precise de "
+"software para funcionar. Cada vez mais, isso inclui praticamente tudo. Como "
+"[escreve](https://www.schneier.com/blog/archives/2017/02/security_and_th."
+"html) o tecnólogo de interesse público Bruce Schneier: \"Não temos mais "
+"coisas com computadores embutidos. Temos computadores com coisas conectadas "
+"a eles.\" Schneier continua (ênfase adicionada):"
 
 #: content/opt-green-handbook/handbook_web.md:125
 msgid ""
@@ -9279,6 +9928,14 @@ msgid ""
 "and an engine. And, of course, your phones became full-power general-purpose "
 "*computers* in 2007, when the iPhone was introduced."
 msgstr ""
+"Sua geladeira moderna é um *computador* que mantém as coisas frias. Seu "
+"forno, da mesma forma, é um *computador* que aquece as coisas. Um caixa "
+"eletrônico é um *computador* com dinheiro dentro. Seu carro não é mais um "
+"dispositivo mecânico com alguns computadores dentro; é um *computador* com "
+"quatro rodas e um motor. Na verdade, é um sistema distribuído com mais de "
+"100 *computadores* com quatro rodas e um motor. E, claro, seus telefones se "
+"tornaram *computadores* de uso geral e com capacidade total em 2007, quando "
+"o iPhone foi lançado."
 
 #: content/opt-green-handbook/handbook_web.md:127
 msgid ""
@@ -9291,6 +9948,15 @@ msgid ""
 "that produces electricity, and&mdash;like everything else we’ve just "
 "listed&mdash;it's on the internet."
 msgstr ""
+"Vestimos *computadores*: rastreadores de atividades físicas e dispositivos "
+"médicos com tecnologia integrada &mdash; e, claro, carregamos nossos "
+"smartphones para todos os lugares. Nossas casas têm termostatos "
+"inteligentes, eletrodomésticos inteligentes, fechaduras inteligentes e até "
+"lâmpadas inteligentes. [...] As cidades estão começando a incorporar "
+"sensores inteligentes em ruas, postes de luz e praças, além de redes de "
+"energia e transporte inteligentes. Uma usina nuclear é, na verdade, apenas "
+"um *computador* que produz eletricidade e &mdash; como tudo o que acabamos "
+"de listar &mdash; está na internet."
 
 #: content/opt-green-handbook/handbook_web.md:129
 msgid ""
@@ -9298,10 +9964,14 @@ msgid ""
 "data about you](https://www.nytimes.com/wirecutter/reviews/advice-smart-"
 "devices-data-tracking/)&mdash;and, crucially, they all need software to work."
 msgstr ""
+"Todos esses dispositivos computadorizados estão na internet, [muitos estão "
+"coletando dados sobre você](https://www.nytimes.com/wirecutter/reviews/"
+"advice-smart-devices-data-tracking/)&mdash;e, crucialmente, todos eles "
+"precisam de software para funcionar."
 
 #: content/opt-green-handbook/handbook_web.md:131
 msgid "Embodied Harm&mdash;Before A Device Is Ever Used"
-msgstr ""
+msgstr "Dano Incorporado &mdash; Antes Mesmo de o Dispositivo Ser Utilizado"
 
 #: content/opt-green-handbook/handbook_web.md:133
 msgid ""
@@ -9314,6 +9984,16 @@ msgid ""
 "guessed it, when actually using the device. In most cases, carbon emissions "
 "from production are grossly disproportionate to usage."
 msgstr ""
+"Agora, vamos avaliar o início do ciclo de vida, quando o dispositivo é "
+"produzido. Quando um dispositivo em funcionamento vai para o aterro "
+"sanitário, todos os custos de energia e emissões incorporadas vão com ele. O "
+"que são emissões incorporadas e como elas diferem das emissões de uso? "
+"Emissões incorporadas referem-se à pegada de carbono necessária para "
+"produzir e transportar o dispositivo muito antes de ele chegar às mãos de um "
+"usuário. Por outro lado, as emissões de uso são as emissões de CO₂, como "
+"você já deve ter imaginado, quando o dispositivo está sendo usado. Na "
+"maioria dos casos, as emissões de carbono da produção são extremamente "
+"desproporcionais às do uso."
 
 #: content/opt-green-handbook/handbook_web.md:135
 msgid ""
@@ -9330,6 +10010,19 @@ msgid ""
 "licenses/CC-BY-SA-4.0.html) license).](images/sec1_embodied-vs-usage-"
 "proportions.png){#fig:co2prop width=400px height=262px}"
 msgstr ""
+"![Comparação das proporções de emissão de carbono em três dispositivos. A "
+"vida útil estimada do produto é de 4 anos para o laptop e o desktop, e de 6 "
+"anos para o monitor. As fontes de dados são os documentos da Dell sobre a "
+"Pegada de Carbono do Produto (PCF) para um exemplo de [laptop](https://www."
+"delltechnologies.com/asset/en-gb/products/laptops-and-2-in-1s/technical-"
+"support/xps-13-9310.pdf), [desktop](https://www.delltechnologies.com/asset/"
+"en-gb/products/desktops-and-all-in-ones/technical-support/optiplex-7090-"
+"tower-pcf-datasheet.pdf), e [monitor](https://www.delltechnologies.com/asset/"
+"en-gb/products/electronics-and-accessories/technical-support/p2422h-monitor-"
+"pcf-datasheet.pdf) (imagem modificade de Scott Logic publicada sob uma "
+"licença [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html)).]"
+"(images/sec1_embodied-vs-usage-proportions.png){#fig:co2prop width=400px "
+"height=262px}"
 
 #: content/opt-green-handbook/handbook_web.md:137
 msgid ""
@@ -9343,6 +10036,16 @@ msgid ""
 "generation-mix). So, ok, half of all energy in ICT is consumed in device "
 "production, but what exactly is the carbon footprint? \\cmt{CHECK}-->\n"
 msgstr ""
+"<!--Em um relatório de 2019 da Agência Internacional de Energia, estima-se "
+"que o setor de TIC consuma [2000 TWh de energia](https://dl.acm.org/doi/"
+"pdf/10.1145/3613207), metade dos quais, 1000 TWh, provêm apenas da "
+"fabricação. Vale ressaltar que o consumo de energia não é o mesmo que "
+"emissões de carbono. As emissões de carbono dependem da combinação "
+"específica de combustíveis usada para gerar eletricidade, conhecida como "
+"[matriz de geração de eletricidade ou energia](https://www.planete-energies."
+"com/en/medias/close/what-power-generation-mix). Então, ok, metade de toda a "
+"energia em TIC é consumida na produção de dispositivos, mas qual é "
+"exatamente a pegada de carbono? \\cmt{CHECK}-->\n"
 
 #: content/opt-green-handbook/handbook_web.md:139
 msgid ""
@@ -9356,6 +10059,16 @@ msgid ""
 "*decades* before any efficiency gains in newly-produced devices would "
 "warrant their purchase. The report states (emphasis added):"
 msgstr ""
+"O carbono incorporado é crucial ao considerarmos a pegada de carbono de "
+"nossos dispositivos. Considere três dispositivos comuns de usuário final: "
+"laptops, desktops e monitores. Ao comparar o uso com as emissões de carbono "
+"incorporado (Figura 5), ​​a produção sozinha representa de 50 a 80% das "
+"emissões totais durante toda a vida útil desses dispositivos. De fato, um "
+"[relatório de 2012](https://www.oeko.de/oekodoc/1583/2012-439-de.pdf) "
+"publicado pela Agência Ambiental Alemã estima que, por razões ambientais, "
+"seria necessário usar um laptop por *décadas* antes que quaisquer ganhos de "
+"eficiência em dispositivos recém-produzidos justificassem sua compra. O "
+"relatório afirma (ênfase adicionada):"
 
 #: content/opt-green-handbook/handbook_web.md:141
 msgid ""
@@ -9367,6 +10080,13 @@ msgid ""
 "can only be justified *after 33 to 89 years*, if environmental concerns are "
 "considered."
 msgstr ""
+"[O]s impactos ambientais da fase de produção de um [notebook](https://en."
+"wiktionary.org/wiki/notebook_computer#English) são tão elevados que não "
+"podem ser compensados, em períodos de tempo realistas, por ganhos de "
+"eficiência energética na fase de uso. No caso de um aumento de 10% na "
+"eficiência energética de um notebook novo em comparação com o antigo, a "
+"substituição do notebook antigo só se justifica *após 33 a 89 anos*, se "
+"forem consideradas as preocupações ambientais."
 
 #: content/opt-green-handbook/handbook_web.md:143
 msgid ""
@@ -9374,17 +10094,16 @@ msgid ""
 "let us return to that sentence which introduced this section. How did you "
 "finish this statement: \"The most environmentally-friendly device is …\"?"
 msgstr ""
+"Tendo em vista o problema do lixo eletrônico e o carbono incorporado nos "
+"dispositivos do usuário final, voltemos à frase que introduziu esta seção. "
+"Como você completou a afirmação: \"O dispositivo mais ecológico é…\"?"
 
 #: content/opt-green-handbook/handbook_web.md:145
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid ""
 "Our response: **The most environmentally-friendly device is the one you "
 "already own!**"
 msgstr ""
-"Nosso lema: **O dispositivo mais ecológico é aquele que você já possui.**"
+"Nosso resposta: **O dispositivo mais ecológico é aquele que você já possui!**"
 
 #: content/opt-green-handbook/handbook_web.md:147
 msgid ""
@@ -9393,6 +10112,10 @@ msgid ""
 "(modified) published under a [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-"
 "SA-4.0.html) license.](images/sec1_leaflet.png)"
 msgstr ""
+"![Imagem da [folha do KDE Eco](https://invent.kde.org/teams/eco/opt-green/-/"
+"blob/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg) "
+"(modificada) publicada sob uma licença [CC-BY-SA-4.0](https://spdx.org/"
+"licenses/CC-BY-SA-4.0.html).](images/sec1_leaflet.png)"
 
 #: content/opt-green-handbook/handbook_web.md:149
 msgid ""
@@ -9400,18 +10123,21 @@ msgid ""
 "as *why* we often discard devices which still work in order to buy new ones. "
 "To do so, we must look to the software."
 msgstr ""
+"Agora, vamos considerar *como* o software aumenta as exigências sobre o "
+"hardware, bem como *por que* muitas vezes descartamos dispositivos que ainda "
+"funcionam para comprar novos. Para isso, precisamos analisar o software."
 
 #: content/opt-green-handbook/handbook_web.md:151
-#, fuzzy
-#| msgid "Free Software"
 msgid "Hardware, Meet Software"
-msgstr "Software livre"
+msgstr "Hardware encontra o software"
 
 #: content/opt-green-handbook/handbook_web.md:153
 msgid ""
 "Let us now turn to the middle of a device's lifecycle, that is, the years "
 "you use your computer."
 msgstr ""
+"Vamos agora abordar a fase intermediária do ciclo de vida de um dispositivo, "
+"ou seja, os anos em que você usa seu computador."
 
 #: content/opt-green-handbook/handbook_web.md:155
 msgid ""
@@ -9430,36 +10156,59 @@ msgid ""
 "the key to increasing energy efficiency and protecting natural resources "
 "lies not with the hardware but rather above all with the software\"."
 msgstr ""
+"A engenharia de software desempenha um papel importante, porém "
+"frequentemente invisível, na definição de nossos padrões de consumo digital. "
+"Muitas vezes, existem razões econômicas &mdash; e não tecnológicas &mdash; "
+"que impulsionam esse comportamento. De fato, os fabricantes frequentemente "
+"incentivam os consumidores a comprar novos dispositivos desnecessariamente. "
+"Aliás, podem até mesmo impor isso por meio do design do software. O "
+"lançamento mais recente e atraente que os usuários são incentivados a "
+"comprar &mdash; frequentemente com novos recursos computacionalmente "
+"dispendiosos, como IA generativa, acompanhados de mineração de dados "
+"aprimorada e anúncios integrados &mdash; pode levar dispositivos menos "
+"potentes, porém funcionais, diretamente para o lixo. Os usuários pouco podem "
+"fazer a respeito quando o licenciamento de software proíbe modificações por "
+"parte do usuário. Como diz o [critério do prêmio Blue Angel](https://"
+"produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-"
+"Criteria-V2.pdf) para certificação ecológica de software: \"[…] a chave para "
+"aumentar a eficiência energética e proteger os recursos naturais não está no "
+"hardware, mas sobretudo no software\"."
 
 #: content/opt-green-handbook/handbook_web.md:157
 msgid ""
 "To understand a device's energy consumption and how software is involved, "
 "this section will explore three aspects:"
 msgstr ""
+"Para entender o consumo de energia de um dispositivo e como o software está "
+"envolvido, esta seção explorará três aspectos:"
 
 #: content/opt-green-handbook/handbook_web.md:159
 msgid ""
 "*Demands* &mdash; Software determines energy consumption and minimum system "
 "requirements."
 msgstr ""
+"*Demandas* &mdash; O software determina o consumo de energia e os requisitos "
+"mínimos do sistema."
 
 #: content/opt-green-handbook/handbook_web.md:160
 msgid ""
 "*Dependencies* &mdash; Software can hardcode dependencies on external "
 "services and companies."
 msgstr ""
+"*Dependências* &mdash; O software pode definir dependências fixas em "
+"serviços e empresas externas."
 
 #: content/opt-green-handbook/handbook_web.md:161
 msgid ""
 "*Longevity* &mdash; Software is responsible for how long devices remain "
 "(safely) in use."
 msgstr ""
+"*Longevidade* &mdash; O software é responsável por quanto tempo os "
+"dispositivos permanecem em uso (com segurança)."
 
 #: content/opt-green-handbook/handbook_web.md:163
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "Hardware Demands"
-msgstr "Vida de operação do hardware"
+msgstr "Demandas de hardware"
 
 #: content/opt-green-handbook/handbook_web.md:165
 msgid ""
@@ -9475,6 +10224,18 @@ msgid ""
 "blauer-engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-V2."
 "pdf)\":"
 msgstr ""
+"O software consome energia. Componentes de software indesejados criam "
+"ineficiências e aumentam as demandas de hardware, ocupando memória, "
+"desperdiçando tempo de processamento, consumindo armazenamento e causando "
+"atrasos na inicialização e no desligamento do sistema. Pior ainda, o "
+"[excesso de funcionalidades](https://en.wikipedia.org/wiki/Feature_creep) e "
+"outras formas de [inchaço de software](https://en.wikipedia.org/wiki/"
+"Software_bloat) aumentam o consumo de energia e tornam o hardware menos "
+"potente inutilizável (na Parte II, analisaremos mais detalhadamente exemplos "
+"de código de software ineficiente). Considere isto, novamente dos critérios "
+"do prêmio Blue Angel: \"[Produtos de Software com Uso Eficiente de Recursos "
+"e Energia](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
+"%20215-202001-en-Criteria-V2.pdf)\":"
 
 #: content/opt-green-handbook/handbook_web.md:167
 msgid ""
@@ -9486,6 +10247,13 @@ msgid ""
 "from version to version so that more resources are required for only minimal "
 "or even no enhancement of the functionality."
 msgstr ""
+"O poder de processamento dobrou aproximadamente a cada dois anos desde 1970. "
+"Isso significa que as funções são processadas duas vezes mais rápido e, "
+"portanto, menos energia é necessária para as mesmas funções. Uma melhoria "
+"semelhante na eficiência não pode ser observada na área de software. [...] A "
+"disponibilidade de hardware cada vez mais potente resultou em softwares cada "
+"vez mais complexos a cada versão, de modo que mais recursos são necessários "
+"para melhorias mínimas ou até mesmo inexistentes na funcionalidade."
 
 #: content/opt-green-handbook/handbook_web.md:169
 msgid ""
@@ -9506,6 +10274,24 @@ msgid ""
 "would opt out of tracking and block advertisements when possible. That's an "
 "awful lot of CO~2~ for something most users don't even want!"
 msgstr ""
+"Além disso, a mineração de dados, a publicidade, o rastreamento de terceiros "
+"e os algoritmos personalizados de maximização do engajamento aumentam o "
+"consumo de energia nos softwares que executamos, tanto no dispositivo do "
+"usuário quanto na nuvem. Em um relatório de 2021 intitulado [\"*Pegada de "
+"carbono do uso indesejado de dados por smartphones: uma análise para a UE*\"]"
+"(https://groenlinks.nl/sites/groenlinks/files/2021-09/"
+"CE_Delft_210166_Carbon_footprint_unwanted_data-use_smartphones.pdf), "
+"pesquisadores da UE estimaram os custos ambientais do rastreamento e dos "
+"anúncios dos quais os usuários não podem optar por não participar. A pegada "
+"de carbono desse \"uso indesejado de dados\" em smartphones equivale a entre "
+"3 e 8 milhões de toneladas de CO₂ por ano somente na UE, \"equivalente à "
+"pegada de carbono de entre 370 e 950 mil cidadãos da UE\". Na pior das "
+"hipóteses, isso equivale aproximadamente à [pegada de carbono anual de uma "
+"cidade](https://doi.org/10.1088/1748-9326/aac72a) da União Europeia, como "
+"Turim ou Lisboa. O relatório aponta que cerca de 60% dos usuários europeus "
+"de smartphones afirmam que optariam por não ser rastreados e bloquear "
+"anúncios sempre que possível. Isso representa uma quantidade enorme de CO₂ "
+"para algo que a maioria dos usuários nem sequer deseja!"
 
 #: content/opt-green-handbook/handbook_web.md:171
 msgid ""
@@ -9539,10 +10325,41 @@ msgid ""
 "(https://arstechnica.com/gadgets/2024/12/generative-ai-has-done-one-"
 "unambiguously-good-thing-for-pcs-and-macs-16gb-of-ram/) obsolete."
 msgstr ""
+"Entretanto, sistemas com Modelos de Linguagem Amplos e outras formas de IA "
+"generativa aumentam não apenas as demandas de hardware e o consumo de "
+"energia, local e remotamente, mas também o consumo de água. Por enquanto, "
+"optar por não usar a funcionalidade integrada de IA generativa pode ser "
+"possível, mas [não](https://arstechnica.com/gadgets/2025/11/what-i-do-to-"
+"clean-up-a-clean-install-of-windows-11-23h2-and-edge/) é [fácil](https://www."
+"pcworld.com/article/2913812/tired-of-ai-in-your-windows-11-pc-heres-how-to-"
+"get-rid-of-it.html)&mdash; e desativar essas ferramentas pode não ser "
+"possível no futuro. Na infraestrutura, [o treinamento e a implantação de "
+"modelos de IA generativa](https://news.mit.edu/2025/explained-generative-ai-"
+"environmental-impact-0117) exigem uma [quantidade impressionante de "
+"eletricidade](https://arstechnica.com/ai/2025/09/openai-and-nvidias-100b-ai-"
+"plan-will-require-power-equal-to-10-nuclear-reactors/). Isso está "
+"sobrecarregando a rede elétrica e [aumentando as contas de luz](https://www."
+"nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-"
+"electricity-costs.html) em áreas próximas aos data centers, além de exigir "
+"[novas fontes de energia](https://arstechnica.com/ai/2024/10/google-and-"
+"kairos-sign-nuclear-reactor-deal-with-aim-to-power-ai/) e [a reabertura de "
+"usinas desativadas](https://arstechnica.com/ai/2024/09/re-opened-three-mile-"
+"island-will-power-ai-data-centers-under-new-deal/) para operá-las. Estima-se "
+"que uma consulta usando o ChatGPT exija cinco vezes mais energia do que uma "
+"pesquisa na web, e o consumo de água dos [centros de dados](https://journals."
+"calstate.edu/ai-edu/article/download/5448/4391/16689) do Google e da "
+"Microsoft aumentou cerca de 20-35%, atribuído às cargas de trabalho de IA "
+"generativa. A integração de IA generativa com software, como o Copilot+ da "
+"Microsoft e o Apple Intelligence, exige [requisitos mínimos de hardware "
+"significativamente mais elevados](https://arstechnica.com/gadgets/2024/05/"
+"microsofts-copilot-ai-pc-requirements-are-embarrassing-for-intel-and-amd/), "
+"o que já tornou obsoletos os [dispositivos de consumo de baixo custo]"
+"(https://arstechnica.com/gadgets/2024/12/generative-ai-has-done-one-"
+"unambiguously-good-thing-for-pcs-and-macs-16gb-of-ram/)."
 
 #: content/opt-green-handbook/handbook_web.md:173
 msgid "External Dependencies"
-msgstr ""
+msgstr "Dependências externas"
 
 #: content/opt-green-handbook/handbook_web.md:175
 msgid ""
@@ -9561,6 +10378,18 @@ msgid ""
 "resources and energy, often beyond that which is needed for the intended "
 "purpose of the software."
 msgstr ""
+"As dependências de rede podem desempenhar um papel crítico na longevidade do "
+"hardware. A infraestrutura subjacente da qual as pessoas podem depender para "
+"executar um aplicativo &mdash; como servidores de licença de software usados ​​"
+"para controle de acesso ou funcionalidades dependentes de servidor &mdash; "
+"pode ficar offline, às vezes [permanentemente](https://arstechnica.com/"
+"gadgets/2025/07/belkin-shows-tech-firms-getting-too-comfortable-with-"
+"bricking-customers-stuff/), resultando em dispositivos com funcionalidade "
+"reduzida, [mesmo para uso primário](https://arstechnica.com/gadgets/2024/08/"
+"amazon-is-bricking-primary-feature-on-160-echo-device-after-1-year/). Além "
+"disso, como você já deve imaginar, essas dependências exigem processamento "
+"extra e, portanto, consomem recursos e energia, muitas vezes além do "
+"necessário para a finalidade pretendida do software."
 
 #: content/opt-green-handbook/handbook_web.md:177
 msgid ""
@@ -9569,6 +10398,10 @@ msgid ""
 "software-defined automobiles that rely on \"centralized servers, "
 "subscriptions, and proprietary software\":"
 msgstr ""
+"Conforme [relatado](https://arstechnica.com/cars/2026/02/what-happens-to-a-"
+"car-when-the-company-behind-its-software-goes-under/) pela Ars Technica em "
+"relação aos automóveis definidos por software que dependem de \"servidores "
+"centralizados, assinaturas e software proprietário\":"
 
 #: content/opt-green-handbook/handbook_web.md:179
 msgid ""
@@ -9580,10 +10413,18 @@ msgid ""
 "code. When that code dies, the driveway or highway&mdash;not the repair "
 "shop&mdash;becomes the final stop."
 msgstr ""
+"A lição é clara: nos carros de hoje, o motor a combustão ou o motor elétrico "
+"nem sempre são o que te mantém em movimento &mdash; é o software. Quando "
+"esse software desaparece com a falência de uma empresa, seu carro pode se "
+"transformar de veículo de uso diário em um peso de papel caro da noite para "
+"o dia. E na era dos veículos definidos por software, possuir um carro "
+"significa cada vez mais apostar na sobrevivência do seu código. Quando esse "
+"código falha, a garagem ou a estrada &mdash; e não a oficina mecânica "
+"&mdash; se torna o destino final."
 
 #: content/opt-green-handbook/handbook_web.md:181
 msgid "Device Longevity"
-msgstr ""
+msgstr "Longevidade do dispositivo"
 
 #: content/opt-green-handbook/handbook_web.md:183
 msgid ""
@@ -9600,6 +10441,18 @@ msgid ""
 "even want that extra \"functionality\"? And can you remove it if you wanted "
 "to?"
 msgstr ""
+"Todo esse processamento adicional para executar softwares pesados ​​ou ter "
+"ferramentas de IA generativa integradas em aplicativos do usuário (quer você "
+"queira ou não), para enviar seus dados a servidores desconhecidos para "
+"processamento ou exibir anúncios no *seu* dispositivo, não só aumenta as "
+"demandas de hardware, como também desgasta o dispositivo. Como a publicação "
+"online de computação XDA [afirma](https://www.xda-developers.com/do-cpus-"
+"degrade-over-time/): \"CPUs submetidas a cargas de trabalho pesadas "
+"constantes, overclocking e altas temperaturas de operação quase certamente "
+"se degradarão mais rapidamente.\" Todos esses \"recursos\" codificados no "
+"software podem estar sobrecarregando e aquecendo seu dispositivo, "
+"desgastando-o mais rapidamente. A questão é: você realmente queria essa "
+"\"funcionalidade\" extra? E você pode removê-la se quiser?"
 
 #: content/opt-green-handbook/handbook_web.md:185
 msgid ""
@@ -9617,6 +10470,21 @@ msgid ""
 "hacking-threat/). All software needs to receive updates to keep your data "
 "safe and secure. More on this in the next part of this handbook."
 msgstr ""
+"Existe outra forma comum pela qual o software pode tornar um dispositivo "
+"obsoleto. O [fim de vida útil](https://en.wikipedia.org/wiki/"
+"Software_release_life_cycle#End-of-life) e o [abandono de software](https://"
+"en.wikipedia.org/wiki/Abandonware), em particular quando lançados sob uma "
+"[licença proprietária](https://en.wikipedia.org/wiki/"
+"Software_licensing#Proprietary_software_licenses), podem, na pior das "
+"hipóteses, significar que seu dispositivo para de funcionar ou, na melhor "
+"das hipóteses (!), deixar os usuários vulneráveis ​​a vírus e outros malwares. "
+"Não são apenas os novos recursos que são descontinuados quando o "
+"desenvolvimento de software para; mais importante ainda, são as atualizações "
+"de segurança. Essas atualizações são essenciais para o seu computador e para "
+"os [dispositivos aos quais ele se conecta](https://www.nytimes.com/"
+"wirecutter/reviews/bluetooth-earbuds-hacking-threat/). Todo software precisa "
+"receber atualizações para manter seus dados seguros e protegidos. Mais sobre "
+"isso na próxima parte deste manual."
 
 #: content/opt-green-handbook/handbook_web.md:187
 msgid ""
@@ -9626,10 +10494,16 @@ msgid ""
 "extending hardware's operating life and providing continued device support. "
 "But first, let's ask ourselves: Is focusing on software really worth it?"
 msgstr ""
+"Na Parte I, exploramos os danos ambientais da digitalização e identificamos "
+"várias maneiras pelas quais o software pode tornar um dispositivo funcional "
+"obsoleto. Na Parte II, analisaremos o papel que o Software Livre e de Código "
+"Aberto desempenha na extensão da vida útil do hardware e no fornecimento de "
+"suporte contínuo ao dispositivo. Mas primeiro, vamos nos perguntar: vale "
+"mesmo a pena focar em software?"
 
 #: content/opt-green-handbook/handbook_web.md:189
 msgid "Is Focusing On Software Worth It?"
-msgstr ""
+msgstr "Vale a pena focar em software?"
 
 #: content/opt-green-handbook/handbook_web.md:191
 msgid ""
@@ -9637,6 +10511,9 @@ msgid ""
 "significant when compared to other industries. Therefore it seems reasonable "
 "to ask: Is it worth addressing?"
 msgstr ""
+"Em uma perspectiva mais ampla, os danos ambientais causados ​​pelo software "
+"podem ser menos significativos em comparação com outros setores. Portanto, "
+"parece razoável perguntar: vale a pena abordar essa questão?"
 
 #: content/opt-green-handbook/handbook_web.md:193
 msgid ""
@@ -9652,6 +10529,17 @@ msgid ""
 "when in fact ecologically-friendly software design is just one piece of a "
 "bigger puzzle."
 msgstr ""
+"Há alguns pontos que podemos considerar aqui\". O primeiro é a rejeição da "
+"falácia do [\"Não tão ruim quanto\"](https://rationalwiki.org/wiki/"
+"Not_as_bad_as), também conhecida como \"Apelo a problemas piores\". O "
+"argumento geral é o seguinte: a contribuição do software para as emissões "
+"globais de CO~2 pode não ser tão ruim quanto a de outro setor e, portanto, "
+"não vale a pena focar nisso. O problema desse argumento é que, embora outro "
+"setor possa ser pior, isso não anula o fato de que a engenharia de software "
+"é responsável por causar sérios danos ambientais. Além disso, a falácia do "
+"\"Não tão ruim quanto\" sugere uma falsa escolha entre abordar um problema "
+"ou outro, quando, na verdade, o design de software ecologicamente correto é "
+"apenas uma peça de um quebra-cabeça maior."
 
 #: content/opt-green-handbook/handbook_web.md:195
 msgid ""
@@ -9659,6 +10547,9 @@ msgid ""
 "under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5.html) "
 "license).](images/sec1_bigger_problem.png)"
 msgstr ""
+"![Quadrinho XKCD [“2368: Problema Maior”](https://xkcd.com/2368/) (publicado "
+"sob uma licença [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5."
+"html)).](images/sec1_bigger_problem.png)"
 
 #: content/opt-green-handbook/handbook_web.md:197
 msgid ""
@@ -9666,6 +10557,9 @@ msgid ""
 "_Bigger_Problem) White Hat, and appeal to worse problems as an excuse to do "
 "nothing!"
 msgstr ""
+"Não sejamos como o White Hat do [XKCD](https://www.explainxkcd.com/wiki/"
+"index.php/2368:_Bigger_Problem) e apelemos para problemas piores como "
+"desculpa para não fazer nada!"
 
 #: content/opt-green-handbook/handbook_web.md:199
 msgid ""
@@ -9679,6 +10573,15 @@ msgid ""
 "maintained without vendor dependencies or artifical restrictions, often at "
 "lower cost."
 msgstr ""
+"Em segundo lugar, concentrar-se apenas em resolver o \"maior problema\" não "
+"é necessariamente a estratégia mais eficaz. Também é importante avaliar a "
+"probabilidade de sucesso ao abordar uma questão, bem como o tempo e os "
+"recursos necessários para isso. O Software Livre e de Código Aberto, com seu "
+"foco na autonomia e transparência do usuário, oferece oportunidades únicas "
+"para que usuários, comunidades e organizações abordem diretamente questões "
+"sociais e ecológicas interligadas. As licenças de software permitem que o "
+"software seja adaptado, atualizado e mantido sem dependências de "
+"fornecedores ou restrições artificiais, geralmente a um custo menor."
 
 #: content/opt-green-handbook/handbook_web.md:201
 msgid ""
@@ -9686,6 +10589,10 @@ msgid ""
 "contribute to energy and resource consumption as well as waste, and these "
 "contributions will just get worse unless we make real changes."
 msgstr ""
+"Finalmente, espero que agora esteja claro que o software *contribui* "
+"significativamente para o consumo de energia e recursos, bem como para o "
+"desperdício, e essas contribuições só piorarão a menos que façamos mudanças "
+"reais."
 
 #: content/opt-green-handbook/handbook_web.md:203
 msgid ""
@@ -9697,12 +10604,22 @@ msgid ""
 "responsibility cannot be managed at an individual level. But consider what "
 "anthropologist Margaret Mead once observed:"
 msgstr ""
+"Alterar nossos softwares e usar nossos hardwares de forma mais sustentável "
+"pode parecer um pequeno gesto para lidar com um problema tão complexo quanto "
+"a mudança climática. Também é evidente que simplesmente mudar nossos padrões "
+"de consumo individuais pode não ser suficiente por si só. É verdade: um "
+"futuro com zero emissões exigirá mudanças fundamentais tanto em como vivemos "
+"quanto em como as indústrias operam, e essa responsabilidade não pode ser "
+"gerenciada em nível individual. Mas considere o que a antropóloga Margaret "
+"Mead observou certa vez:"
 
 #: content/opt-green-handbook/handbook_web.md:205
 msgid ""
 "\"Never doubt that a small group of thoughtful, committed citizens can "
 "change the world; indeed, it’s the only thing that ever has.\""
 msgstr ""
+"\"Nunca duvide que um pequeno grupo de cidadãos conscientes e comprometidos "
+"possa mudar o mundo; na verdade, é a única coisa que já o fez.\""
 
 #: content/opt-green-handbook/handbook_web.md:207
 msgid ""
@@ -9715,6 +10632,15 @@ msgid ""
 "unite to combat software-driven environmental harm. Let's foster a culture "
 "of digital sustainability in our communities and beyond."
 msgstr ""
+"A mudança estrutural acontece quando pessoas dedicadas e apaixonadas se "
+"organizam para enfrentar problemas sociais urgentes. Com décadas de "
+"experiência em unir comunidades globais para trabalhar em prol de objetivos "
+"comuns, o Software Livre e de Código Aberto pode ser uma força poderosa no "
+"combate ao impacto ambiental da digitalização. Sabemos como nos organizar "
+"&mdash; agora, é uma questão de transformar planos em prática, objetivos em "
+"realidade. Vamos nos unir para combater os danos ambientais causados ​​por "
+"softwares. Vamos fomentar uma cultura de sustentabilidade digital em nossas "
+"comunidades e além."
 
 #: content/opt-green-handbook/handbook_web.md:210
 msgid ""
@@ -9723,12 +10649,14 @@ msgid ""
 "look at what FOSS is exactly, and how it differs from its counterpart, "
 "proprietary software."
 msgstr ""
+"Qual a relação entre o impacto ambiental do software e o Software Livre e de "
+"Código Aberto (FOSS)? Antes de explorarmos esse tópico em detalhes, vamos "
+"primeiro entender o que exatamente é FOSS e como ele difere de seu "
+"equivalente, o software proprietário."
 
 #: content/opt-green-handbook/handbook_web.md:212
-#, fuzzy
-#| msgid "Install Free & Open Source Software"
 msgid "What Is Free & Open Source Software (FOSS)?"
-msgstr "Instale software gratuito e de código aberto"
+msgstr "O que é software livre e de código aberto (FOSS, sigla em inglês)?"
 
 #: content/opt-green-handbook/handbook_web.md:214
 msgid ""
@@ -9742,6 +10670,15 @@ msgid ""
 "license. We are talking about the meaning of \"free\" as in the phrase "
 "\"free society\"!"
 msgstr ""
+"Software Livre e de Código Aberto, frequentemente referido pela sigla FOSS, "
+"é um software disponível sob uma licença que garante aos usuários certos "
+"direitos. Esses direitos são às vezes chamados de [quatro liberdades "
+"essenciais](https://www.gnu.org/philosophy/free-sw.html.en), ou seja, a "
+"liberdade de usar, estudar, compartilhar e aprimorar o software. Essas "
+"liberdades estão no cerne do FOSS &mdash; a palavra \"Livre\" em Software "
+"Livre e de Código Aberto não tem nada a ver com preço, mas sim com as "
+"liberdades que acompanham a licença do software. Estamos falando do "
+"significado de \"livre\" como na expressão \"sociedade livre\"!"
 
 #: content/opt-green-handbook/handbook_web.md:216
 msgid ""
@@ -9750,34 +10687,50 @@ msgid ""
 "Source)? Software freedom explained in less than three minutes!\" from the "
 "FSFE.](images/sec2_fsfe-free-software.png)"
 msgstr ""
+"![Captura de tela ilustrando as quatro liberdades essenciais para usar, "
+"estudar, compartilhar e aprimorar software. Imagem do vídeo \"O que é "
+"Software Livre (Código Aberto)? Liberdade de software explicada em menos de "
+"três minutos!\" da FSFE.](images/sec2_fsfe-free-software.png)"
 
 #: content/opt-green-handbook/handbook_web.md:218
 msgid ""
 "What do each of these rights mean, exactly? The Free Software Foundation "
 "Europe (FSFE) [explains](https://fsfe.org/freesoftware/index.en.html):"
 msgstr ""
+"O que significa exatamente cada um desses direitos? A Fundação para o "
+"Software Livre na Europa (FSFE) [explica](https://fsfe.org/freesoftware/"
+"index.en.html):"
 
 #: content/opt-green-handbook/handbook_web.md:220
 msgid ""
 "*Use*: FOSS \"can be used for any purpose and is free of restrictions such "
 "as licence expiry or geographic limitations.\""
 msgstr ""
+"*Usar*: O FOSS \"pode ​​ser usado para qualquer finalidade e está livre de "
+"restrições como expiração de licença ou limitações geográficas.\""
 
 #: content/opt-green-handbook/handbook_web.md:221
 msgid ""
 "*Study*: FOSS \"and its code can be studied by anyone, without non‐"
 "disclosure agreements or similar restrictions.\""
 msgstr ""
+"*Estudar*: O FOSS \"e seu código podem ser estudados por qualquer pessoa, "
+"sem acordos de confidencialidade ou restrições semelhantes.\""
 
 #: content/opt-green-handbook/handbook_web.md:222
 msgid "*Share*: FOSS \"can be shared and copied at virtually no cost.\""
 msgstr ""
+"*Compartilhar*: O software livre e de código aberto (FOSS) \"pode ​​ser "
+"compartilhado e copiado praticamente sem custo algum\"."
 
 #: content/opt-green-handbook/handbook_web.md:223
 msgid ""
 "*Improve*: FOSS \"can be modified by anyone, and these improvements can be "
 "shared publicly.\""
 msgstr ""
+"*Aprimorar*: O software livre e de código aberto (FOSS) \"pode ​​ser "
+"modificado por qualquer pessoa, e essas melhorias podem ser compartilhadas "
+"publicamente\"."
 
 #: content/opt-green-handbook/handbook_web.md:225
 msgid ""
@@ -9787,6 +10740,10 @@ msgid ""
 "Check it out if you want more information about the connection between "
 "software and freedom."
 msgstr ""
+"O vídeo [\"O que é Software Livre (Código Aberto)?\"](https://media.fsfe.org/"
+"w/p/9gYSyoEYggsqBExLWjRejL?playlistPosition=1) da FSFE oferece uma breve "
+"introdução ao tema do FOSS e sua importância para a sociedade. Confira se "
+"você quiser mais informações sobre a conexão entre software e liberdade."
 
 #: content/opt-green-handbook/handbook_web.md:227
 msgid ""
@@ -9799,6 +10756,15 @@ msgid ""
 "hospitals, and so on. Today, they all rely on digital technology. And all of "
 "this technology requires software."
 msgstr ""
+"Uma seção inteira sobre licenças de software?! Que chato! Bem, pode parecer "
+"árido e técnico, mas na verdade é bem interessante. De verdade. E esperamos "
+"que você concorde no final! Quando falamos de licenciamento de software, "
+"estamos falando, na verdade, sobre nossos direitos e nossa capacidade de "
+"participar de uma sociedade digital. A tecnologia digital sustenta "
+"praticamente todos os aspectos da vida moderna: nossas casas, escolas, "
+"universidades, governos, indústrias, organizações sem fins lucrativos, "
+"hospitais e assim por diante. Hoje, todos dependem da tecnologia digital. E "
+"toda essa tecnologia requer software."
 
 #: content/opt-green-handbook/handbook_web.md:229
 msgid ""
@@ -9808,6 +10774,12 @@ msgid ""
 "has the following [vision](https://community.kde.org/KDE/Vision). It sums up "
 "nicely the kind of world FOSS and its supporters are working toward."
 msgstr ""
+"Já que este software está moldando nossas vidas e comunidades, não "
+"deveríamos ter voz em como ele funciona? A comunidade [KDE](https://kde.org/"
+"community/whatiskde/), a comunidade de Software Livre e de Código Aberto que "
+"apoia a iniciativa KDE Eco, tem a seguinte [visão](https://community.kde.org/"
+"KDE/Vision). Ela resume bem o tipo de mundo que o FOSS e seus apoiadores "
+"estão construindo."
 
 #: content/opt-green-handbook/handbook_web.md:231
 msgid ""

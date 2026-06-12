@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-09 02:07+0000\n"
-"PO-Revision-Date: 2026-06-10 19:00+0400\n"
+"PO-Revision-Date: 2026-06-11 11:26+0400\n"
 "Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
 "Language-Team: ar\n"
 "Language: ar\n"
@@ -55,7 +55,7 @@ msgstr "دليل لاعتماد البرمجيات كمستدامة (فبراي�
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
 msgid "en"
-msgstr "en"
+msgstr "ar"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/handbook_web.md:0
