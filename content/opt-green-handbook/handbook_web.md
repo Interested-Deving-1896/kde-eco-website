@@ -306,22 +306,22 @@ FOSS helps keep older models of hardware in action, operating long past the poin
 
 First, software determines not only how much energy hardware needs, it also determines how powerful hardware must be to run the software. Consider the following two tables comparing the minimum system requirements for RAM, processor, and storage of Microsoft Windows 11, macOS 14 "Sonoma", and the base operating systems (OS) for a handful of Free & Open Source Software distributions. All systems in the table receive security updates as of early 2026, with Sonoma being the oldest version of macOS that is still supported by Apple.
 
- Proprietary OS                                                                 RAM    Processor                  Storage
----------------                                                                 ---    ---------                  -------
-[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-specifications) 4 GB   certain 64 bit processors  64 GB
-+ Copilot genAI                                                                 16 GB  + NPU                      256 GB
-[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)              8 GB   64 bit                     25 GB
+| Proprietary OS | RAM | Processor | Storage |
+| --------------:| --- | --------- | ------- |
+| [Windows 11](https://www.microsoft.com/en-us/windows/windows-11-specifications) | 4 GB | certain 64 bit processors | 64 GB |
+| + Copilot genAI | 16 GB | + NPU | 256 GB |
+| [macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/) | 8 GB | 64 bit | 25 GB |
 
 The proprietary operating systems have generally higher minimum system requirements and no low-end hardware support. By contrast, when considering the FOSS-based systems below, one can see they generally have lower system requirements. Why is that? Windows and macOS operating systems come with many system services as well as applications built into them, and it is certain that telemetry is enabled by default. Today these systems increasingly come bundled with generative AI tools and in some cases even ads. What's more, by design the software is intended to run on newer hardware and thus will require higher computational power. With such powerful hardware, issues of [software bloat](https://en.wikipedia.org/wiki/Software_bloat) will be less relevant.
 
- FOSS-based OS                                                                                          RAM      Processor      Storage
- -------------                                                                                          ---      ---------      -------
- [Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/hardware_overview/) (Linux)  2 GB     64 bit         15 GB
- [openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)                                      2 GB     64 bit         8 GB
- [Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)                            512 MB   64 bit         4 GB
- [Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)                                    512 MiB  64 bit         2 GB
- [OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)                                         512 MB   32 or 64 bit   1 GB
- [Haiku](https://www.haiku-os.org/about/faq/) (BeOS)                                                    384 MiB  32 or 64 bit   1.5 GB
+| FOSS-based OS | RAM | Processor | Storage |
+| ------------- | --- | --------- | ------- |
+| [Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/hardware_overview/) (Linux) | 2 GB | 64 bit | 15 GB |
+| [openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux) | 2 GB | 64 bit | 8 GB |
+| [Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux) | 512 MB | 64 bit | 4 GB |
+| [Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux) | 512 MiB | 64 bit | 2 GB |
+| [OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD) | 512 MB | 32 or 64 bit | 1 GB |
+| [Haiku](https://www.haiku-os.org/about/faq/) (BeOS) | 384 MiB | 32 or 64 bit | 1.5 GB |
 
 
 By contrast, the base operating systems in the FOSS ecosystem typically are just that, a base system, with fewer background services and applications, telemetry typically disabled by default, and thus lower overall overhead. Users have many more options with the setup of the base system and the software put on top of it, such as desktop environment, windows manager, and applications. This higher level of customization means more user control. 
