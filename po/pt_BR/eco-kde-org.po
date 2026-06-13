@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-09 02:07+0000\n"
-"PO-Revision-Date: 2026-06-11 17:42-0300\n"
+"POT-Creation-Date: 2026-06-13 02:04+0000\n"
+"PO-Revision-Date: 2026-06-12 10:43-0300\n"
 "Last-Translator: Marcus Gama <marcus.gama@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
 "Language: pt_BR\n"
@@ -8210,7 +8210,7 @@ msgstr ""
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "Opt Green: KDE Eco's New Sustainable Software Project"
-msgstr "Opt Green: Novo Projeto de software sustentável do KDE Eco"
+msgstr "Opte pelo Verde: Novo Projeto de software sustentável do KDE Eco"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "Sustainable Software"
@@ -8225,8 +8225,8 @@ msgid ""
 "KDE Eco has begun a new initiative \"Opt Green: Sustainable Software For "
 "Sustainable Hardware\"."
 msgstr ""
-"O KDE Eco iniciou uma nova iniciativa \"Opt Green: Software sustentável "
-"parahardware sustentável\"."
+"O KDE Eco iniciou uma nova iniciativa \"Opte pelo Verde: Software "
+"sustentável para hardware sustentável\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:0
 msgid "/blog/thumbnails/blog-opt-green-optimized.png"
@@ -8249,8 +8249,8 @@ msgstr ""
 "(https://eco.kde.org/blog/2022-01-25-resource-efficient-software-and-blauer-"
 "engel-eco-certification/) e pela meta contínua do KDE [Software sustentável]"
 "(https://community.kde.org/Goals/Sustainable_Software), o KDE Eco iniciou "
-"uma nova iniciativa: \"[Opt Green](https://invent.kde.org/teams/eco/opt-"
-"green): Software sustentável para hardware sustentável\" (em alemão: "
+"uma nova iniciativa: \"[Opte pelo Verde](https://invent.kde.org/teams/eco/"
+"opt-green): Software sustentável para hardware sustentável\" (em alemão: "
 "[*Nachhaltige Software Für Nachhaltige Hardware*](https://www."
 "umweltbundesamt.de/das-uba/was-wir-tun/foerdern-beraten/verbaendefoerderung/"
 "projektfoerderungen-projekttraeger/opt-green-nachhaltige-software-fuer-"
@@ -8324,11 +8324,11 @@ msgid ""
 "driven by principles related to the environment, and not just price or "
 "convenience: the \"eco-consumers\"."
 msgstr ""
-"Nos próximos dois anos, a iniciativa \"Opt Green\" levará o que o KDE Eco "
-"vem fazendo em prol do software sustentável diretamente aos usuários finais. "
-"Um público-alvo específico para o projeto são aqueles cujo comportamento de "
-"consumo é guiado por princípios relacionados ao meio ambiente, e não apenas "
-"preço ou conveniência: os \"eco-consumidores\"."
+"Nos próximos dois anos, a iniciativa \"Opte pelo Verde\" levará o que o KDE "
+"Eco vem fazendo em prol do software sustentável diretamente aos usuários "
+"finais. Um público-alvo específico para o projeto são aqueles cujo "
+"comportamento de consumo é guiado por princípios relacionados ao meio "
+"ambiente, e não apenas preço ou conveniência: os \"eco-consumidores\"."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:30
 msgid ""
@@ -8722,21 +8722,21 @@ msgid ""
 "Free Software communities. Installation workshops will give users the know-"
 "how to keep their devices in use for as long as they want."
 msgstr ""
-"Por meio de campanhas educativas e workshops, o projeto \"Opt Green\" visa "
-"combater o lixo eletrônico, mantendo o hardware em uso com Software Livre. "
-"Embora o problema do lixo eletrônico gerado por software seja relevante para "
-"um número crescente de dispositivos digitais, o foco será em desktops, "
-"laptops e, quando possível, smartphones e tablets. Planejamos instalar "
-"estandes informativos em mercados de comércio justo, orgânicos e artesanais, "
-"bem como em festivais de sustentabilidade, como o [Umweltfestival](https://"
-"www.umweltfestival.de/) em Berlim. Distribuiremos [folhetos](https://invent."
-"kde.org/teams/eco/opt-green/-/blob/master/materials/leaflets/EN/kde-eco-"
-"umweltfestival-flyer-EN_final.jpg) aos consumidores e demonstraremos "
-"dispositivos abandonados por fornecedores que não são apenas utilizáveis, "
-"mas também um prazer de usar, graças ao trabalho incansável de inspirar "
-"comunidades de Software Livre. Workshops de instalação darão aos usuários o "
-"conhecimento necessário para manter seus dispositivos em uso pelo tempo que "
-"desejarem."
+"Por meio de campanhas educativas e workshops, o projeto \"Opte pelo Verde\" "
+"visa combater o lixo eletrônico, mantendo o hardware em uso com Software "
+"Livre. Embora o problema do lixo eletrônico gerado por software seja "
+"relevante para um número crescente de dispositivos digitais, o foco será em "
+"desktops, laptops e, quando possível, smartphones e tablets. Planejamos "
+"instalar estandes informativos em mercados de comércio justo, orgânicos e "
+"artesanais, bem como em festivais de sustentabilidade, como o "
+"[Umweltfestival](https://www.umweltfestival.de/) em Berlim. Distribuiremos "
+"[folhetos](https://invent.kde.org/teams/eco/opt-green/-/blob/master/"
+"materials leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg) aos "
+"consumidores e demonstraremos dispositivos abandonados por fornecedores que "
+"não são apenas utilizáveis, mas também um prazer de usar, graças ao trabalho "
+"incansável de inspirar comunidades de Software Livre. Workshops de "
+"instalação darão aos usuários o conhecimento necessário para manter seus "
+"dispositivos em uso pelo tempo que desejarem."
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:96
 msgid ""
@@ -8784,12 +8784,12 @@ msgid ""
 "like you to report on the project in magazines and newspapers. Let's work "
 "together to bring sustainable software to your community!"
 msgstr ""
-"Precisamos de voluntários como você para levar a campanha \"Opt Green\" a "
-"cidades e vilas ao redor do mundo. Precisamos de voluntários como você para "
-"criar guias interessantes e materiais atraentes para distribuição global. "
-"Precisamos de voluntários como você para reportar o projeto em revistas e "
-"jornais. Vamos trabalhar juntos para levar software sustentável à sua "
-"comunidade!"
+"Precisamos de voluntários como você para levar a campanha \"Opte pelo Verde"
+"\" a cidades e vilas ao redor do mundo. Precisamos de voluntários como você "
+"para criar guias interessantes e materiais atraentes para distribuição "
+"global. Precisamos de voluntários como você para reportar o projeto em "
+"revistas e jornais. Vamos trabalhar juntos para levar software sustentável à "
+"sua comunidade!"
 
 #: content/blog/2024-05-29_introducing-ns4nh.md:106
 msgid ""
@@ -9142,8 +9142,8 @@ msgid ""
 "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/eco/"
 "opt-green"
 msgstr ""
-"Projeto \"Opt Green\" (Repositório GitLab): https://invent.kde.org/teams/eco/"
-"opt-green"
+"Projeto \"Opte pelo Verde\" (Repositório GitLab): https://invent.kde.org/"
+"teams/eco/opt-green"
 
 #: content/get-involved.md:23
 msgid ""
@@ -10786,12 +10786,16 @@ msgid ""
 "\"A world in which everyone has control over their digital life and enjoys "
 "freedom and privacy.\""
 msgstr ""
+"\"Um mundo em que todos têm controle sobre sua vida digital e desfrutam de "
+"liberdade e privacidade.\""
 
 #: content/opt-green-handbook/handbook_web.md:233
 msgid ""
 "KDE Eco would only add: \"… enjoys freedom, privacy, *and a more sustainable "
 "use of digital technology*\"!"
 msgstr ""
+"O KDE Eco acrescentaria apenas: \"...desfrutam de liberdade, privacidade *e "
+"de um uso mais sustentável da tecnologia digital*!\""
 
 #: content/opt-green-handbook/handbook_web.md:235
 msgid ""
@@ -10802,10 +10806,17 @@ msgid ""
 "the rights guaranteed by the software licensing. And these rights are "
 "directly linked to the accessibility of software's source code."
 msgstr ""
+"Neste texto, usamos o termo Software Livre e de Código Aberto, mas o leitor "
+"também pode encontrar os [termos](https://fsfe.org/freesoftware/index.en."
+"html#synonyms) Software Livre, Software de Código Aberto e Software de "
+"Código Aberto Livre. Para os nossos propósitos, todos se referem à mesma "
+"coisa: os direitos garantidos pelo licenciamento do software. E esses "
+"direitos estão diretamente ligados à acessibilidade do código-fonte do "
+"software."
 
 #: content/opt-green-handbook/handbook_web.md:237
 msgid "What Is Source Code?"
-msgstr ""
+msgstr "O que é o código-fonte?"
 
 #: content/opt-green-handbook/handbook_web.md:239
 msgid ""
@@ -10814,14 +10825,18 @@ msgid ""
 "In fact, proprietary software is typically distributed with undisclosed "
 "source code."
 msgstr ""
+"O oposto de FOSS é o \"software proprietário\". O software proprietário é "
+"licenciado de forma a não dar aos usuários qualquer controle sobre o código "
+"por trás do software que utilizam. Na verdade, o software proprietário é "
+"normalmente distribuído com o código-fonte não divulgado."
 
 #: content/opt-green-handbook/handbook_web.md:241
 msgid "Wait a minute, what is source code, you wonder?"
-msgstr ""
+msgstr "Espere um minuto, você deve estar se perguntando o que é código-fonte?"
 
 #: content/opt-green-handbook/handbook_web.md:243
 msgid "Actually, what is software for that matter?"
-msgstr ""
+msgstr "Na verdade, o que é software, afinal?"
 
 #: content/opt-green-handbook/handbook_web.md:245
 msgid ""
@@ -10833,6 +10848,14 @@ msgid ""
 "recipe&mdash;even you! In fact, try it yourself: Can you guess what the "
 "source code below does?[^2]"
 msgstr ""
+"Em sua essência, o software é uma receita para o computador. Os "
+"programadores escrevem as receitas em \"código-fonte\", que é, "
+"simplificando, um conjunto de instruções legíveis por humanos para o "
+"computador. E assim como uma receita é escrita em uma ou outra língua "
+"humana, o código-fonte é escrito em uma linguagem de programação. Com acesso "
+"ao código-fonte, qualquer pessoa pode entender e revisar a receita &mdash; "
+"até mesmo você! Aliás, tente você mesmo: consegue adivinhar o que o código-"
+"fonte abaixo faz?[^2]"
 
 #: content/opt-green-handbook/handbook_web.md:247
 msgid ""
@@ -10840,6 +10863,10 @@ msgid ""
 "*[Free Software, Free Society (First Edition)](https://dn790008.ca.archive."
 "org/0/items/Free_Software_Free_Society/Free_Software_Free_Society.pdf)*."
 msgstr ""
+"[^2]: Exemplo de E. Buckman \\& Joshua Gray, ``Uma Nota Sobre Software'' em "
+"*[Software Livre, Sociedade Livre (Primeira Edição)](https://dn790008.ca."
+"archive.org/0/items/Free_Software_Free_Society/Free_Software_Free_Society."
+"pdf)*."
 
 #: content/opt-green-handbook/handbook_web.md:256
 msgid ""
@@ -10851,6 +10878,12 @@ msgid ""
 "translate the text printed on the screen, or you could make it say something "
 "else entirely."
 msgstr ""
+"Você provavelmente adivinhou certo: ele imprime a frase \"Olá, Mundo!\" na "
+"tela. Mesmo que você não saiba nada sobre a linguagem de programação (uma "
+"linguagem chamada C), o código é transparente e legível. Talvez você já "
+"consiga fazer algo com ele, modificá-lo ou aprimorá-lo de alguma forma, "
+"mesmo sem ser programador. Por exemplo, se você fala outro idioma, poderia "
+"traduzir o texto impresso na tela ou até mesmo alterá-lo completamente."
 
 #: content/opt-green-handbook/handbook_web.md:258
 msgid ""
@@ -10862,6 +10895,14 @@ msgid ""
 "code. Huzzah! Consider that same easy-to-read code snippet above, but now in "
 "binary form:"
 msgstr ""
+"Este código-fonte, esta receita, é ótimo para humanos, mas na verdade não é "
+"tão bom para computadores. Um computador exige que a receita seja codificada "
+"em algo mais parecido com um computador, ou seja, 1s e 0s, ou código "
+"binário. Essa conversão de código-fonte para código binário é o trabalho de "
+"um compilador &mdash; os compiladores transformam o código-fonte legível "
+"para humanos em código binário adequado para computadores. Viva! Considere "
+"aquele mesmo trecho de código fácil de ler acima, mas agora em formato "
+"binário:"
 
 #: content/opt-green-handbook/handbook_web.md:269
 msgid ""
@@ -10874,6 +10915,16 @@ msgid ""
 "reach[^3] when all you have is the baked cake. You cannot know how the cake "
 "was made and with which ingredients, and you certainly cannot modify it."
 msgstr ""
+"Você consegue ler este código? Consegue fazer alguma coisa com ele? Modificá-"
+"lo de alguma forma significativa? Não se preocupe, nenhum ser humano "
+"consegue! O software proprietário é normalmente distribuído em código "
+"binário, apenas um monte de 1s e 0s, enquanto o código-fonte permanece um "
+"segredo, oculto por trás de licenças proprietárias. Todas aquelas coisas que "
+"você poderia fazer quando tinha acesso à receita &mdash; entender o que o "
+"código-fonte faz, talvez até mesmo alterá-lo ou melhorá-lo &mdash; "
+"permanecem totalmente fora de alcance[^3] quando tudo o que você tem é o "
+"bolo assado. Você não pode saber como o bolo foi feito e com quais "
+"ingredientes, e certamente não pode modificá-lo."
 
 #: content/opt-green-handbook/handbook_web.md:271
 msgid ""
@@ -10881,10 +10932,13 @@ msgid ""
 "code do exist, the output is often distorted from the original and can be "
 "difficult to understand."
 msgstr ""
+"[^3]: Embora existam \"descompiladores\" que convertem o código binário de "
+"volta em código fonte, a saída é frequentemente distorcida do original e "
+"pode ser difícil de entender."
 
 #: content/opt-green-handbook/handbook_web.md:273
 msgid "In short, whoever controls the recipe will decide the cake we eat."
-msgstr ""
+msgstr "Resumindo, quem controla a receita decide o bolo que vamos comer."
 
 #: content/opt-green-handbook/handbook_web.md:275
 msgid ""
@@ -10894,6 +10948,11 @@ msgid ""
 "clubs to academic research. And everything else we do with our computers and "
 "smartphones all the time."
 msgstr ""
+"Se ao menos estivéssemos falando apenas de receitas de bolo! Na verdade, o "
+"que estamos discutindo é o código que molda todos os aspectos da vida na era "
+"digital, do trabalho à socialização, da saúde aos encontros amorosos, dos "
+"clubes de leitura do bairro à pesquisa acadêmica. E tudo o mais que fazemos "
+"com nossos computadores e smartphones o tempo todo."
 
 #: content/opt-green-handbook/handbook_web.md:277
 msgid ""
@@ -10904,6 +10963,13 @@ msgid ""
 "access to source code and the ability to modify it are ultimately about the "
 "rights we have as a people and society."
 msgstr ""
+"Em contraste com o software proprietário, o FOSS garante o direito dos "
+"usuários de acessar o código-fonte e utilizá-lo independentemente das "
+"pessoas ou da empresa que o desenvolveu. Assim, em um mundo onde a "
+"tecnologia digital está presente (e às vezes nem tão discretamente) na "
+"maioria dos aspectos da vida cotidiana, o acesso ao código-fonte e a "
+"capacidade de modificá-lo dizem respeito, em última análise, aos direitos "
+"que possuímos como indivíduos e sociedade."
 
 #: content/opt-green-handbook/handbook_web.md:279
 msgid ""
@@ -10911,6 +10977,8 @@ msgid ""
 "implications for us and for the environment. That is very exciting, isn't "
 "it?!"
 msgstr ""
+"Estamos falando de controle e liberdade &mdash; e isso tem grandes "
+"implicações para nós e para o meio ambiente. Isso é muito empolgante, não é?!"
 
 #: content/opt-green-handbook/handbook_web.md:281
 msgid ""
@@ -10921,14 +10989,21 @@ msgid ""
 "and other such questions, you can jump to the end of this section to get "
 "some answers!"
 msgstr ""
+"Existem muitos equívocos sobre o FOSS (Software Livre e de Código Aberto), "
+"que abordamos em um apêndice no final deste capítulo, continuando com a "
+"analogia das receitas. Se você está se perguntando se qualquer pessoa, "
+"talvez até mesmo pessoas mal-intencionadas, pode modificar o código-fonte, "
+"ou se tornar o código-fonte transparente o torna menos seguro, e outras "
+"questões semelhantes, você pode ir direto para o final desta seção para "
+"obter algumas respostas!"
 
 #: content/opt-green-handbook/handbook_web.md:283
 msgid "FOSS Is Better For The Environment"
-msgstr ""
+msgstr "FOSS é melhor para o meio ambiente"
 
 #: content/opt-green-handbook/handbook_web.md:285
 msgid "Improving Code&mdash;By Users & For Users"
-msgstr ""
+msgstr "Melhorando o código &mdash; Por usuários e para usuários"
 
 #: content/opt-green-handbook/handbook_web.md:287
 msgid ""
@@ -10943,6 +11018,17 @@ msgid ""
 "the same result may put different demands on the hardware and have "
 "drastically different energy profiles."
 msgstr ""
+"Com o FOSS (Software Livre e de Código Aberto), o código-fonte pode ser "
+"modificado para garantir que o software não execute tarefas desnecessárias, "
+"reduzindo assim as demandas de hardware, economizando recursos "
+"compartilhados e garantindo a longevidade do hardware. Considere os "
+"resultados de um [estudo](https://www.umweltbundesamt.de/publikationen/"
+"entwicklung-anwendung-von-bewertungsgrundlagen-fuer) publicado pela Agência "
+"Ambiental Alemã e [um artigo relacionado](https://doi.org/10.1016/j."
+"future.2018.02.044) na revista *Future Generation Computer Systems*. Os "
+"pesquisadores relatam que duas aplicações que realizam a mesma tarefa e "
+"alcançam o mesmo resultado podem impor demandas diferentes ao hardware e "
+"apresentar perfis de energia drasticamente diferentes."
 
 #: content/opt-green-handbook/handbook_web.md:289
 msgid ""
@@ -10953,6 +11039,13 @@ msgid ""
 "Processor 2 consumed four times the energy compared to Word Processor "
 "1&mdash;again, and this cannot be stressed enough, to do the same task!"
 msgstr ""
+"O estudo incluiu uma comparação de dois programas de processamento de texto: "
+"o Processador de Texto 1, identificado como \"Código Aberto\", e o "
+"Processador de Texto 2, identificado como \"Proprietário\". Ambos os "
+"programas foram instruídos a executar as mesmas ações. O resultado pode ser "
+"visto na Figura 9. A execução do Processador de Texto 2 consumiu quatro "
+"vezes mais energia em comparação com o Processador de Texto 1 &mdash; e isso "
+"é extremamente importante, para realizar a mesma tarefa!"
 
 #: content/opt-green-handbook/handbook_web.md:291
 msgid ""
@@ -10963,6 +11056,13 @@ msgid ""
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html) license. The image is adapted "
 "from the German Environment Agency report.)](images/sec2_uba-sus.png)"
 msgstr ""
+"![Gráfico comparando dois processadores de texto durante a execução de um "
+"script de Cenário de Uso Padrão. O Processador de Texto  é um programa de "
+"código aberto. Este processador de texto consumiu quatro vezes *menos* "
+"energia do que o Processador de Texto 2, um programa proprietário. (Imagem "
+"do KDE publicada sob uma licença [CC-BY-SA-4.0](https://spdx.org/licenses/CC-"
+"BY-SA-4.0.html). A imagem foi adaptada do relatório da Agência Ambiental "
+"Alemã.)](images/sec2_uba-sus.png)"
 
 #: content/opt-green-handbook/handbook_web.md:293
 msgid ""
@@ -10979,6 +11079,20 @@ msgid ""
 "and transmitting user data? If so, do users have a way to opt out of these "
 "types of analytics? Well, that depends on the software design."
 msgstr ""
+"Ao analisar o consumo de energia dos dois processadores de texto ao longo do "
+"tempo, fica claro como os dois programas se comportam de maneira bastante "
+"diferente… e talvez contrária ao que se poderia esperar. Considere o gráfico "
+"na Figura 10. Por volta dos 440 segundos, ambos os processadores de texto "
+"salvam o documento e nenhuma outra ação é executada pelo script de medição. "
+"Como você pode ver, o Processador de Texto 1 de Código Aberto fica ocioso "
+"(como era de se esperar). Em contraste, o Processador de Texto 2 "
+"Proprietário continua funcionando, consumindo energia adicional até a "
+"conclusão da medição. Vale a pena perguntar para que servem as atividades "
+"adicionais entre 440 e 600 segundos: as ações do Processador de Texto 2 são "
+"necessárias para o funcionamento do software? O processador de texto "
+"proprietário está coletando e transmitindo dados do usuário? Se sim, os "
+"usuários têm uma maneira de optar por não participar desse tipo de análise? "
+"Bem, isso depende do design do software."
 
 #: content/opt-green-handbook/handbook_web.md:295
 msgid ""
@@ -10993,6 +11107,17 @@ msgid ""
 "CC-BY-NC-ND-4.0.html) license; screenshot published here with permission.)]"
 "(images/sec2_energy-consumption_time.png)"
 msgstr ""
+"![Gráfico comparando dois processadores de texto ao longo do tempo durante a "
+"execução do script do Cenário de Uso Padrão. O Processador de Texto 1 de "
+"código aberto (*acima*) entra em estado ocioso quando não está realizando "
+"nenhuma tarefa, o que é mais evidente após o documento ser salvo, "
+"aproximadamente aos 440 segundos, e nenhuma outra ação é executada pelo "
+"script. Em comparação, o Processador de Texto 2 proprietário (*abaixo*) "
+"raramente fica ocioso, mesmo após o documento ser salvo e nenhuma outra ação "
+"ser executada. (Captura de tela do artigo [Kern et al. 2018](https://doi."
+"org/10.1016/j.future.2018.02.044) publicado sob a licença [CC-BY-NC-ND]"
+"(https://spdx.org/licenses/CC-BY-NC-ND-4.0.html); captura de tela publicada "
+"aqui com permissão.)](images/sec2_energy-consumption_time.png)"
 
 #: content/opt-green-handbook/handbook_web.md:297
 msgid ""
@@ -11008,6 +11133,19 @@ msgid ""
 "advantage in that inefficiencies can be found and improved by anyone&mdash;"
 "that is simply impossible with proprietary software."
 msgstr ""
+"Nesses casos, a autonomia do usuário pode fazer uma grande diferença no "
+"perfil de energia de um produto de software. O software proprietário pode "
+"fornecer alguma autonomia, oferecendo aos usuários opções predefinidas, mas "
+"essas são apenas opções que o fornecedor decidiu oferecer e podem ser "
+"revogadas a qualquer momento. Por outro lado, o FOSS dá aos usuários acesso "
+"ao código-fonte e o direito de modificá-lo. Isso é autonomia real. Dessa "
+"forma, o software pode ser configurado para funcionar da maneira que os "
+"usuários, e não as empresas, desejam. Para ser claro, simplesmente lançar um "
+"software sob uma licença FOSS não garante maior eficiência do código. O "
+"código proprietário pode ser muito eficiente. No entanto, o FOSS tem uma "
+"vantagem real, pois as ineficiências podem ser encontradas e corrigidas por "
+"qualquer pessoa &mdash; o que é simplesmente impossível com software "
+"proprietário."
 
 #: content/opt-green-handbook/handbook_web.md:299
 msgid ""
@@ -11025,6 +11163,21 @@ msgid ""
 "manageable set of decisions which lead to significant differences in power "
 "consumption\"&mdash;which is to say, small changes will yield big results."
 msgstr ""
+"Será que as mudanças na eficiência do código realmente importam? Em grande "
+"escala, certamente que sim! Dado que aplicativos como processadores de texto "
+"são executados em praticamente todas as casas e escritórios modernos, "
+"melhorias mínimas na eficiência do software podem, em grande escala, "
+"resultar em economias comparáveis ​​ao consumo anual de energia de cidades "
+"inteiras. Essa afirmação se baseia em um exemplo do Engenheiro de Produto da "
+"SAP, Detlef Thoms, que [faz cálculos aproximados](https://open.hpi.de/"
+"courses/cleanit2021/items/5DHsS3tJsXAqfUE4q4F82Z) (04:20&ndash;06:10) para "
+"passar de uma redução de um segundo de CPU, equivalente a uma economia de "
+"cerca de 10 watts-segundo, para uma economia de 95 mil megawatts-hora "
+"simplesmente aumentando a escala. Essas economias são comparáveis ​​ao consumo "
+"anual de energia de mais de 30 mil residências de duas pessoas. Conforme "
+"mencionado no vídeo: \"Frequentemente, trata-se de um conjunto de decisões "
+"bastante gerenciáveis ​​que levam a diferenças significativas no consumo de "
+"energia\" &mdash; ou seja, pequenas mudanças podem gerar grandes resultados."
 
 #: content/opt-green-handbook/handbook_web.md:301
 msgid ""
@@ -11038,10 +11191,20 @@ msgid ""
 "resources. We now turn to what this means specifically for hardware "
 "longevity."
 msgstr ""
+"Aqui foi discutido apenas um exemplo, mas a mesma lógica se aplica a outros "
+"exemplos de demandas de hardware do software, dependências externas e "
+"longevidade do dispositivo apresentados na Parte I. O software determinará o "
+"que é necessário do nosso hardware para executar aplicativos e sistemas "
+"operacionais. Quando o acesso ao código-fonte é restrito, os usuários têm "
+"apenas um controle aparente sobre o software. Por meio da transparência e da "
+"autonomia do usuário, o FOSS (Software Livre e de Código Aberto) dá aos "
+"usuários controle real, o que possibilita um uso mais sustentável dos "
+"recursos. Agora, vamos analisar o que isso significa especificamente para a "
+"longevidade do hardware."
 
 #: content/opt-green-handbook/handbook_web.md:303
 msgid "FOSS Isn't Made For Only The Latest And Greatest"
-msgstr ""
+msgstr "FOSS não se destina apenas às versões mais recentes e sofisticadas"
 
 #: content/opt-green-handbook/handbook_web.md:305
 msgid ""
@@ -11050,6 +11213,12 @@ msgid ""
 "how FOSS enables longer device lifecycles and what lightweight, independent "
 "software means for sustainable hardware use."
 msgstr ""
+"O software livre e de código aberto (FOSS) ajuda a manter modelos de "
+"hardware mais antigos em funcionamento, permitindo que o dispositivo opere "
+"muito além do ponto em que o software proprietário os tornaria obsoletos. "
+"Vamos discutir como o FOSS possibilita ciclos de vida mais longos para os "
+"dispositivos e o que significa um software leve e independente para o uso "
+"sustentável do hardware."
 
 #: content/opt-green-handbook/handbook_web.md:307
 msgid ""
@@ -11062,21 +11231,103 @@ msgid ""
 "2026, with Sonoma being the oldest version of macOS that is still supported "
 "by Apple."
 msgstr ""
+"Primeiramente, o software determina não apenas quanta energia o hardware "
+"precisa, mas também o quão potente o hardware deve ser para executar o "
+"software. Considere as duas tabelas a seguir, que comparam os requisitos "
+"mínimos de sistema para RAM, processador e armazenamento do Microsoft "
+"Windows 11, macOS 14 \"Sonoma\" e os sistemas operacionais (SO) básicos de "
+"algumas distribuições de Software Livre e de Código Aberto. Todos os "
+"sistemas na tabela estão recebendo atualizações de segurança no início de "
+"2026, sendo o Sonoma a versão mais antiga do macOS ainda suportada pela "
+"Apple."
 
 #: content/opt-green-handbook/handbook_web.md:309
-msgid "Proprietary OS RAM Processor Storage"
+msgid "Proprietary OS"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:309
+#: content/opt-green-handbook/handbook_web.md:317
+msgid "RAM"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:309
+#: content/opt-green-handbook/handbook_web.md:317
+#, fuzzy
+#| msgid "[CPU]Totl = Processor"
+msgid "Processor"
+msgstr "[CPU]Totl = Processador"
+
+#: content/opt-green-handbook/handbook_web.md:309
+#: content/opt-green-handbook/handbook_web.md:317
+msgid "Storage"
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:311
+#, fuzzy
+#| msgid ""
+#| "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
+#| "specifications) 4 GB certain 64 bit processors 64 GB"
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
-"specifications) 4 GB certain 64 bit processors 64 GB"
+"specifications)"
+msgstr ""
+"[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
+"especificações) 4 GB determinados processadores de 64 bits 64 GB"
+
+#: content/opt-green-handbook/handbook_web.md:311
+#: content/opt-green-handbook/handbook_web.md:321
+msgid "4 GB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:311
+msgid "certain 64 bit processors"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:311
+msgid "64 GB"
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:312
-msgid ""
+msgid "+ Copilot genAI"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:312
+msgid "16 GB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:312
+msgid "+ NPU"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:312
+msgid "256 GB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:313
+#, fuzzy
+#| msgid ""
+#| "Copilot genAI 16 GB + NPU 256 GB [macOS 14](https://mackeeper.com/blog/"
+#| "macos-sonoma-compatibility/) 8 GB 64 bit 25 GB"
+msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
+msgstr ""
 "Copilot genAI 16 GB + NPU 256 GB [macOS 14](https://mackeeper.com/blog/macos-"
-"sonoma-compatibility/) 8 GB 64 bit 25 GB"
+"sonoma-compatibility/) 8 GB 64 bits 25 GB"
+
+#: content/opt-green-handbook/handbook_web.md:313
+#: content/opt-green-handbook/handbook_web.md:320
+msgid "8 GB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:313
+#: content/opt-green-handbook/handbook_web.md:319
+#: content/opt-green-handbook/handbook_web.md:320
+#: content/opt-green-handbook/handbook_web.md:321
+#: content/opt-green-handbook/handbook_web.md:322
+msgid "64 bit"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:313
+msgid "25 GB"
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:315
@@ -11093,21 +11344,85 @@ msgid ""
 "powerful hardware, issues of [software bloat](https://en.wikipedia.org/wiki/"
 "Software_bloat) will be less relevant."
 msgstr ""
+"Os sistemas operacionais proprietários geralmente têm requisitos mínimos de "
+"sistema mais elevados e não oferecem suporte a hardware de baixo custo. Em "
+"contrapartida, ao considerarmos os sistemas baseados em FOSS (software livre "
+"e de código aberto) abaixo, podemos observar que eles geralmente têm "
+"requisitos de sistema mais baixos. Por quê? Os sistemas operacionais Windows "
+"e macOS vêm com muitos serviços e aplicativos integrados, e é certo que a "
+"telemetria está habilitada por padrão. Atualmente, esses sistemas são cada "
+"vez mais acompanhados de ferramentas de IA generativa e, em alguns casos, "
+"até mesmo anúncios. Além disso, por design, o software é projetado para ser "
+"executado em hardware mais recente e, portanto, exigirá maior poder "
+"computacional. Com um hardware tão poderoso, os problemas de [inchaço de "
+"software](https://en.wikipedia.org/wiki/Software_bloat) serão menos "
+"relevantes."
 
 #: content/opt-green-handbook/handbook_web.md:317
-msgid "FOSS-based OS RAM Processor Storage"
+msgid "FOSS-based OS"
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:319
 msgid ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
-"hardware_overview/) (Linux) 2 GB 64 bit 15 GB [openSUSE](https://en.opensuse."
-"org/Hardware_requirements) (Linux) 2 GB 64 bit 8 GB [Debian](https://www."
-"debian.org/releases/stable/amd64/ch02.en.html) (Linux) 512 MB 64 bit 4 GB "
-"[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux) 512 MiB "
-"64 bit 2 GB [OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD) "
-"512 MB 32 or 64 bit 1 GB [Haiku](https://www.haiku-os.org/about/faq/) (BeOS) "
-"384 MiB 32 or 64 bit 1.5 GB"
+"hardware_overview/) (Linux)"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:319
+#: content/opt-green-handbook/handbook_web.md:320
+#: content/opt-green-handbook/handbook_web.md:322
+msgid "2 GB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:319
+msgid "15 GB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:320
+msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:321
+msgid ""
+"[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:321
+#: content/opt-green-handbook/handbook_web.md:323
+msgid "512 MB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:322
+msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:322
+msgid "512 MiB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:323
+msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:323
+#: content/opt-green-handbook/handbook_web.md:324
+msgid "32 or 64 bit"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:323
+msgid "1 GB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:324
+msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:324
+msgid "384 MiB"
+msgstr ""
+
+#: content/opt-green-handbook/handbook_web.md:324
+msgid "1.5 GB"
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:327
@@ -11119,6 +11434,13 @@ msgid ""
 "software put on top of it, such as desktop environment, windows manager, and "
 "applications. This higher level of customization means more user control."
 msgstr ""
+"Em contraste, os sistemas operacionais base no ecossistema FOSS geralmente "
+"são apenas isso, um sistema base, com menos serviços e aplicativos em "
+"segundo plano, telemetria normalmente desativada por padrão e, portanto, "
+"menor sobrecarga geral. Os usuários têm muito mais opções na configuração do "
+"sistema base e do software instalado sobre ele, como ambiente de área de "
+"trabalho, gerenciador de janelas e aplicativos. Esse maior nível de "
+"personalização significa mais controle para o usuário."
 
 #: content/opt-green-handbook/handbook_web.md:329
 msgid ""
@@ -11134,6 +11456,18 @@ msgid ""
 "customization is possible offers much more variability in hardware support, "
 "including continued support for low-end devices."
 msgstr ""
+"Não são apenas os usuários finais que personalizam os sistemas. Muitas "
+"distribuições FOSS (ou distros) se baseiam nesses sistemas e os distribuem "
+"juntamente com serviços e softwares adaptados para diversos usuários e "
+"computadores. Muitos usuários iniciantes em FOSS podem se interessar por uma "
+"distribuição projetada especificamente para \"novatos\", que normalmente "
+"inclui muitos serviços e configurações padrão para que tudo funcione "
+"imediatamente. Além disso, o FOSS permite modificações no código-fonte e o "
+"compartilhamento das alterações. De fato, essas distribuições derivadas são "
+"criadas o tempo todo. Embora tantas opções possam ser uma fonte de confusão "
+"para usuários de Windows e macOS, o fato de ser possível um alto nível de "
+"personalização oferece muito mais variedade no suporte a hardware, incluindo "
+"suporte contínuo para dispositivos de baixo custo."
 
 #: content/opt-green-handbook/handbook_web.md:331
 msgid ""
@@ -11143,6 +11477,12 @@ msgid ""
 "applications are used, and how much patience the user has. Nevertheless, "
 "decades old computers can still run up-to-date software with FOSS!"
 msgstr ""
+"Lembre-se de que máquinas antigas que apenas atendem aos requisitos técnicos "
+"mínimos podem não corresponder às expectativas atuais de velocidade e "
+"praticidade. Certamente, tudo depende do que se pretende fazer com o "
+"computador, dos aplicativos utilizados e da paciência do usuário. Mesmo "
+"assim, computadores com décadas de uso ainda podem executar softwares "
+"atualizados com software livre e de código aberto!"
 
 #: content/opt-green-handbook/handbook_web.md:333
 msgid ""
@@ -11156,6 +11496,15 @@ msgid ""
 "continue to support any hardware if they so choose, proprietary licenses "
 "preclude it."
 msgstr ""
+"Ao impor \"recursos\" computacionalmente dispendiosos e restringir quem pode "
+"modificar o código-fonte, o software proprietário exclui o hardware do "
+"suporte contínuo e leva à obsolescência prematura do hardware. Dito isso, "
+"todo hardware deveria ter suporte indefinido? Seja proprietário ou de código "
+"aberto, é razoável que as equipes de desenvolvimento sejam seletivas quanto "
+"ao hardware que desejam suportar, a fim de concentrar melhor seus esforços. "
+"Ninguém tem tempo e energia ilimitados. No entanto, enquanto o software de "
+"código aberto permite que qualquer pessoa continue a dar suporte a qualquer "
+"hardware, se assim o desejar, as licenças proprietárias o impedem."
 
 #: content/opt-green-handbook/handbook_web.md:335
 msgid ""
@@ -11167,10 +11516,18 @@ msgid ""
 "including security updates. Software updates are an important part of this "
 "story and the main topic of the next section."
 msgstr ""
+"Se você pretende comprar um novo dispositivo, esses pontos podem não ser "
+"relevantes para você. No entanto, se você já possui um computador &mdash; "
+"que ainda funciona, mas não recebe mais suporte &mdash; e deseja continuar "
+"usando-o, não é exagero dizer que o software livre e de código aberto (FOSS) "
+"é sua única opção. Se um sistema operacional FOSS for executado em seu "
+"dispositivo antigo, ele geralmente continuará recebendo atualizações, "
+"incluindo atualizações de segurança. As atualizações de software são uma "
+"parte importante dessa questão e o tema principal da próxima seção."
 
 #: content/opt-green-handbook/handbook_web.md:337
 msgid "Software Is Buggy, And That's Risky"
-msgstr ""
+msgstr "O software tem bugs, e isso é arriscado"
 
 #: content/opt-green-handbook/handbook_web.md:339
 msgid ""
@@ -11187,6 +11544,20 @@ msgid ""
 "hackers-remotely-kill-jeep-highway/), and introduce serious risks to "
 "wherever computers are embedded, including our own bodies."
 msgstr ""
+"O software contém defeitos, conhecidos como bugs. Todo software, seja ele "
+"[Windows](https://www.microsoft.com/en-us/security/blog/threat-intelligence/"
+"vulnerabilities-and-exploits/) ou [macOS](https://www.cve.org/CVERecord/"
+"SearchResults?query=macOS) ou FOSS. Todo software! Esses bugs podem ser "
+"menores ou graves. Um bug menor pode resultar em um software mais lento, "
+"enquanto um bug grave pode fazer com que o software pare de funcionar "
+"completamente. Talvez o tipo de bug mais grave e insidioso crie riscos de "
+"segurança para o usuário, chamados de vulnerabilidades. Essas "
+"vulnerabilidades de segurança são exploradas por agentes maliciosos para "
+"infiltrar em um sistema de computador e podem resultar em perdas "
+"financeiras, violações de dados, seu veículo [sendo tomado](https://www."
+"wired.com/2015/07/hackers-remotely-kill-jeep-highway/) e introduzir sérios "
+"riscos a onde quer que os computadores estejam embutidos, incluindo nossos "
+"próprios corpos."
 
 #: content/opt-green-handbook/handbook_web.md:341
 msgid ""
@@ -11196,6 +11567,11 @@ msgid ""
 "creativecommons.org/licenses/by-sa/3.0/deed.en) license).](images/"
 "sec2_Harvard_Mark_I_program_tape.agr.jpg)"
 msgstr ""
+"![Um patch em uma fita de programa no Harvard Mark I, um dos primeiros "
+"computadores digitais (imagem da [Wikipedia](https://en.wikipedia.org/wiki/"
+"File:Harvard_Mark_I_program_tape.agr.jpg) publicada sob a licença [CC BY-"
+"SA3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)).](images/"
+"sec2_Harvard_Mark_I_program_tape.agr.jpg)"
 
 #: content/opt-green-handbook/handbook_web.md:343
 msgid ""
@@ -11212,6 +11588,20 @@ msgid ""
 "amateurs-can-learn-from-security-pros-about-staying-safe-online/) as one of "
 "the most important safety practices you can implement."
 msgstr ""
+"Então, como mantemos nossos sistemas seguros? Assim como remendamos um "
+"buraco em uma roupa rasgada, o software é \"corrigido\" para solucionar "
+"defeitos. Nos primórdios da computação, esse processo envolvia literalmente "
+"a aplicação de correções em fitas de papel ou cartões perfurados, mas agora "
+"é feito por meio de atualizações de software. Como Bruce Schneier escreve no "
+"livro *[Click Here To Kill Everybody](https://www.vice.com/en/article/"
+"patching-is-failing-as-a-security-paradigm/)*, \"A aplicação de patches é "
+"algo que todos fazemos o tempo todo com nossos softwares &mdash; geralmente "
+"chamamos de 'atualização' &mdash; e é o principal mecanismo que temos para "
+"manter nossos sistemas seguros.\" É por isso que os especialistas em "
+"segurança colocam [a atualização do seu software](https://arstechnica.com/"
+"information-technology/2015/07/what-amateurs-can-learn-from-security-pros-"
+"about-staying-safe-online/) como uma das práticas de segurança mais "
+"importantes que você pode implementar."
 
 #: content/opt-green-handbook/handbook_web.md:345
 msgid ""
@@ -11233,6 +11623,26 @@ msgid ""
 "urgent11-cybersecurity-vulnerabilities-widely-used-third-party-software-"
 "component-may-introduce) may still require patches to fix defects."
 msgstr ""
+"As atualizações de segurança são essenciais. Qualquer dispositivo que "
+"precise de software para funcionar, seja um laptop, um smartphone ou um "
+"automóvel, precisa de atualizações de software para corrigir defeitos. "
+"Schneier descreve as atualizações de segurança desta forma: \"Mantemos a "
+"segurança por meio de (1) descobridores que divulgam uma vulnerabilidade "
+"encontrada ao fornecedor do software e ao público, (2) fornecedores que "
+"lançam rapidamente uma correção de segurança para corrigir a vulnerabilidade "
+"e (3) usuários que instalam essa correção.\" Por que a abordagem de "
+"\"encontrar e corrigir\" é a forma como fazemos as coisas? Por que não "
+"\"acertamos na primeira vez\"? Bem, alguns sistemas tentam acertar na "
+"primeira vez &mdash; software executado em aviões, carros ou equipamentos "
+"médicos, por exemplo &mdash; mas geralmente é um processo lento e caro. E "
+"mesmo assim, nem sempre se acerta: até mesmo [aviões](https://www.nytimes."
+"com/2025/11/28/business/airbus-software-a320-jets.html) e [carros](https://"
+"arstechnica.com/cars/2024/09/more-than-20-of-vehicle-recalls-are-software-"
+"fixes-now/) e [equipamentos médicos](https://web.archive.org/"
+"web/20200219162118/https://www.fda.gov/medical-devices/safety-communications/"
+"urgent11-cybersecurity-vulnerabilities-widely-used-third-party-software-"
+"component-may-introduce) ainda podem precisar de patches para corrigir "
+"defeitos."
 
 #: content/opt-green-handbook/handbook_web.md:347
 msgid ""
@@ -11242,6 +11652,11 @@ msgid ""
 "published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) "
 "license.)](images/sec2_social-media-avatar-circle.png)"
 msgstr ""
+"![Logotipo para o \"[End of 10](https://endof10.org/)\". A campanha ajuda "
+"novos usuários a encontrar suporte presencial para Linux. ([Imagem](https://"
+"invent.kde.org/websites/endof10-org/-/blob/master/brand/social-media-avatar-"
+"circle.png) publicada sob a licença [CC BY 4.0](https://creativecommons.org/"
+"licenses/by/4.0/).)](images/sec2_social-media-avatar-circle.png)"
 
 #: content/opt-green-handbook/handbook_web.md:349
 msgid ""
@@ -11262,6 +11677,24 @@ msgid ""
 "upgrade to Windows 11, leaving users of these abandoned devices with "
 "unsupported software and in a vulnerable position."
 msgstr ""
+"O que se denomina [Fim da Vida Útil](https://en.wikipedia.org/wiki/"
+"Software_release_life_cycle#End-of-life) para um software significa que "
+"nenhuma nova correção ou atualização será lançada. Quando o código-fonte é "
+"proprietário, não há nada que alguém possa fazer para corrigir defeitos de "
+"software. Nesses casos, bugs e vulnerabilidades simplesmente permanecerão "
+"sem correção, para sempre. Um exemplo recente, que pode afetar os leitores "
+"deste manual, é o fim do suporte ao Windows 10. Inicialmente planejado para "
+"[14 de outubro de 2025](https://arstechnica.com/gadgets/2024/10/lots-of-pcs-"
+"are-poised-to-fall-off-the-windows-10-update-cliff-one-year-from-today/), "
+"posteriormente estendido para [13 de outubro de 2026](https://arstechnica."
+"com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-"
+"many-deaths/) (embora com condições, como a necessidade de uma conta da "
+"Microsoft), estima-se que o fim do suporte ao Windows 10 transformará mais "
+"de 240 milhões de computadores em lixo eletrônico. O motivo: devido aos "
+"novos requisitos restritivos de hardware, centenas de milhões de "
+"computadores não poderão ser atualizados para o Windows 11, deixando os "
+"usuários desses dispositivos abandonados com software sem suporte e em uma "
+"posição vulnerável."
 
 #: content/opt-green-handbook/handbook_web.md:351
 msgid ""
@@ -11276,16 +11709,23 @@ msgid ""
 "the-windows-11-pc-refresh/). But replacing a device means producing and "
 "transporting a new one, and that comes with a huge ecological cost. Recall:"
 msgstr ""
+"Embora os computadores com Windows 10 ainda possam ligar e ser \"utilizáveis"
+"\" após o término do suporte, os aplicativos mais recentes eventualmente "
+"pararão de funcionar e, o mais crítico, para qualquer nova vulnerabilidade "
+"encontrada, o usuário estará em risco, sem nenhuma atualização à vista. "
+"Nunca. Novamente, quando o software em um computador permanece sem correção, "
+"continuar a executá-lo representa um risco de segurança. Substituir esse "
+"dispositivo sem suporte é uma maneira de resolver o problema. Na verdade, "
+"substituir seu computador com Windows 10 parece ser o que a [Microsoft "
+"deseja](https://arstechnica.com/gadgets/2025/01/as-it-buries-windows-10-"
+"microsoft-declares-2025-year-of-the-windows-11-pc-refresh/). Mas substituir "
+"um dispositivo significa produzir e transportar um novo, e isso acarreta um "
+"enorme custo ecológico. Lembre-se:"
 
 #: content/opt-green-handbook/handbook_web.md:353
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid ""
 "**The most environmentally-friendly device is the one you already own.**"
-msgstr ""
-"Nosso lema: **O dispositivo mais ecológico é aquele que você já possui.**"
+msgstr "**O dispositivo mais ecológico é aquele que você já possui.**"
 
 #: content/opt-green-handbook/handbook_web.md:355
 msgid ""
@@ -11297,6 +11737,13 @@ msgid ""
 "required-10486647.html) as one way to keep those abandoned Windows 10 "
 "devices securely in use."
 msgstr ""
+"Existem maneiras melhores de resolver a obsolescência de hardware causada "
+"por software do que comprar um computador novo. A que recomendamos é "
+"instalar um novo software, que continue recebendo atualizações de segurança: "
+"FOSS! Aliás, o Escritório Federal Alemão para Segurança da Informação "
+"[recomendou o Linux](https://www.heise.de/en/news/BSI-warns-Windows-10-is-"
+"becoming-insecure-Quick-change-required-10486647.html) como uma forma de "
+"manter os dispositivos Windows 10 abandonados em uso com segurança."
 
 #: content/opt-green-handbook/handbook_web.md:357
 msgid ""
@@ -11312,36 +11759,53 @@ msgid ""
 "larger [Right to Repair](https://en.wikipedia.org/wiki/Right_to_repair) "
 "movement."
 msgstr ""
+"Manter e testar software é certamente muito mais complexo do que "
+"simplesmente ter código livre e de código aberto. No entanto, somente o FOSS "
+"permite que o software seja reparado (ou seja, corrigido) independentemente "
+"dos fornecedores, razão pela qual o KDE Eco se refere ao FOSS como software "
+"reparável. De fato, juntamente com outras organizações como a [Software "
+"Freedom Conservancy](https://sfconservancy.org/blog/2022/may/02/copyright-"
+"assignment-project/), a [Free Software Foundation](https://www.fsf.org/"
+"campaigns/fight-to-repair) e a [Free Software Foundation Europe](https://"
+"fsfe.org/activities/upcyclingandroid/openletter.en.html), consideramos o "
+"licenciamento de software uma parte crítica do movimento mais amplo pelo "
+"[Direito ao Reparo](https://en.wikipedia.org/wiki/Right_to_repair)."
 
 #: content/opt-green-handbook/handbook_web.md:358
 msgid "Appendix: Common Misconceptions"
-msgstr ""
+msgstr "Apêndice: Conceitos errôneos comuns"
 
 #: content/opt-green-handbook/handbook_web.md:360
 msgid ""
 "In this section, we'll debunk five of the most common misconceptions about "
 "FOSS:"
 msgstr ""
+"Nesta seção, vamos desmistificar cinco dos equívocos mais comuns sobre o "
+"FOSS:"
 
 #: content/opt-green-handbook/handbook_web.md:362
 msgid "\"Anyone can modify the application I am using.\""
-msgstr ""
+msgstr "\"Qualquer pessoa pode modificar o aplicativo que estou usando.\""
 
 #: content/opt-green-handbook/handbook_web.md:363
 msgid "\"You never know where the software came from.\""
-msgstr ""
+msgstr "\"Você nunca sabe de onde veio o software.\""
 
 #: content/opt-green-handbook/handbook_web.md:364
 msgid "\"FOSS is less secure.\""
-msgstr ""
+msgstr "\"FOSS é menos seguro.\""
 
 #: content/opt-green-handbook/handbook_web.md:365
 msgid "\"I need to be a developer to benefit from FOSS.\""
 msgstr ""
+"\"Preciso ser um desenvolvedor para me beneficiar do software livre e de "
+"código aberto.\""
 
 #: content/opt-green-handbook/handbook_web.md:366
 msgid "\"FOSS is free of cost because it is developed by volunteers.\""
 msgstr ""
+"\"O software livre e de código aberto (FOSS) é gratuito porque é "
+"desenvolvido por voluntários.\""
 
 #: content/opt-green-handbook/handbook_web.md:368
 msgid ""
@@ -11349,10 +11813,15 @@ msgid ""
 "reveal more about how FOSS works as a software, as an ecosystem, and as a "
 "business."
 msgstr ""
+"Todas essas afirmações estão incorretas, e as explicações a seguir revelarão "
+"mais sobre como o FOSS funciona como software, como ecossistema e como "
+"negócio."
 
 #: content/opt-green-handbook/handbook_web.md:370
 msgid "**Misconception 1: Anyone can modify the application I am using.**"
 msgstr ""
+"**Conceito errôneo 1: Qualquer pessoa pode modificar o aplicativo que estou "
+"usando.**"
 
 #: content/opt-green-handbook/handbook_web.md:372
 msgid ""
@@ -11366,6 +11835,17 @@ msgid ""
 "proposed changes to the code are automatically included in the software "
 "released by the core developers&mdash;and then run on your computer."
 msgstr ""
+"A ideia errada é a de que todas e quaisquer alterações de código acabam no "
+"software que você baixa e usa. Isso não é verdade. Uma equipe central de "
+"desenvolvedores gerencia o desenvolvimento de software livre e de código "
+"aberto (FOSS), seja um aplicativo, um ambiente de desktop ou algum outro "
+"componente do sistema operacional. Qualquer pessoa pode fazer alterações e "
+"propô-las à equipe central de desenvolvedores, que as revisará e decidirá se "
+"as aceita ou rejeita. Esse processo não significa que o FOSS esteja livre de "
+"código mal escrito ou malicioso. Significa apenas que nem todas as "
+"alterações propostas ao código são automaticamente incluídas no software "
+"lançado pelos desenvolvedores principais &mdash; e executado no seu "
+"computador."
 
 #: content/opt-green-handbook/handbook_web.md:374
 msgid ""
@@ -11380,10 +11860,20 @@ msgid ""
 "want, but that does not mean those changes will be added to the original "
 "recipe&mdash;or end up on your plate."
 msgstr ""
+"Para fazer uma analogia com a culinária: quando um chef famoso publica uma "
+"receita, qualquer pessoa pode modificá-la ao preparar o prato. Essas "
+"alterações podem melhorar ou piorar a receita. Aliás, algumas modificações "
+"podem ser tão boas que alguém acha que deveriam ser incluídas na receita "
+"original e, por isso, envia suas sugestões ao chef. No entanto, a inclusão "
+"ou não dessas alterações em versões futuras da receita depende inteiramente "
+"do chef original, e não de quem sugeriu as mudanças. Resumindo, qualquer "
+"pessoa pode sugerir as modificações que quiser, mas isso não significa que "
+"elas serão adicionadas à receita original &mdash; ou que acabarão no seu "
+"prato."
 
 #: content/opt-green-handbook/handbook_web.md:376
 msgid "**Misconception 2: You never know where the software came from.**"
-msgstr ""
+msgstr "**Conceito errôneo 2: Você nunca sabe de onde veio o software.**"
 
 #: content/opt-green-handbook/handbook_web.md:378
 msgid ""
@@ -11400,6 +11890,19 @@ msgid ""
 "as the original; legally, it must be identifiable as modified software, so "
 "you can see exactly where it came from."
 msgstr ""
+"É verdade que qualquer pessoa pode modificar o FOSS e lançar suas alterações "
+"ao público, mas o equívoco aqui é que o software modificado é indistinguível "
+"do original. O FOSS geralmente possui uma marca e é identificável. Por "
+"exemplo, uma marca registrada protege legalmente o logotipo, os símbolos, os "
+"nomes e outros elementos associados ao software. Embora o código-fonte seja "
+"licenciado para permitir aos usuários certos direitos &mdash; usar, estudar, "
+"compartilhar e aprimorar o código subjacente &mdash;, as marcas registradas "
+"impõem restrições legais aos desenvolvedores em relação à marca. O código "
+"que foi modificado a partir do original (ou \"fork\") pode ser renomeado, e "
+"essa renomeação acontece o tempo todo. Mas uma marca registrada significa "
+"que o software fork não pode ser lançado com a mesma marca do original. "
+"Legalmente, ele deve ser identificável como software modificado, para que se "
+"possa ver exatamente de onde ele veio."
 
 #: content/opt-green-handbook/handbook_web.md:380
 msgid ""
@@ -11409,10 +11912,15 @@ msgid ""
 "even publish your changes, but you cannot claim that those changes are from "
 "the original chef."
 msgstr ""
+"Usando a analogia da culinária: mesmo que um cozinheiro altere uma receita "
+"ao preparar um prato, ele não pode publicá-la com o nome do chef original. "
+"Ou seja, você pode modificar a receita para seu próprio uso, em alguns casos "
+"até mesmo publicar suas alterações, mas não pode afirmar que essas "
+"alterações são do chef original."
 
 #: content/opt-green-handbook/handbook_web.md:382
 msgid "**Misconception 3: FOSS is less secure.**"
-msgstr ""
+msgstr "**Conceito errôneo 3: FOSS é menos seguro.**"
 
 #: content/opt-green-handbook/handbook_web.md:384
 msgid ""
@@ -11428,6 +11936,18 @@ msgid ""
 "per se does not guarantee a secure system. It does, however, offer "
 "significant strategic advantages in this process.\""
 msgstr ""
+"Essa talvez seja uma das ideias equivocadas mais comuns sobre o FOSS, e o "
+"oposto é que é verdade. Embora o FOSS ainda possa conter bugs ou código "
+"malicioso (todo código pode), a transparência do código significa que essas "
+"vulnerabilidades são mais fáceis de detectar; e, crucialmente, uma vez "
+"descoberto o código problemático, é mais fácil corrigi-lo. De fato, o "
+"Escritório Federal Alemão para Segurança da Informação (em alemão: "
+"*Bundesamt für Sicherheit in der Informationstechnik* ou BSI, para abreviar) "
+"destacou as [vantagens de segurança do FOSS](https://www.bsi.bund.de/EN/"
+"Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Freie-"
+"Software/freie-software_node.html). Eles afirmam: \"O uso de [FOSS] por si "
+"só não garante um sistema seguro. No entanto, oferece vantagens estratégicas "
+"significativas nesse processo.\""
 
 #: content/opt-green-handbook/handbook_web.md:386
 msgid ""
@@ -11438,10 +11958,19 @@ msgid ""
 "guarantee that a recipe has no undesirable ingredients, but it has real "
 "advantages for finding and removing them."
 msgstr ""
+"Mais uma vez, usando a analogia culinária: é mais difícil adicionar "
+"elementos nocivos ou indesejados a uma receita quando a lista de "
+"ingredientes é visível a todos. Além disso, se esses ingredientes forem "
+"encontrados, o cozinheiro pode facilmente adaptar a receita e removê-los "
+"para tornar o prato seguro para consumo novamente. A transparência não "
+"garante que uma receita não contenha ingredientes indesejáveis, mas oferece "
+"vantagens reais para encontrá-los e removê-los."
 
 #: content/opt-green-handbook/handbook_web.md:388
 msgid "**Misconception 4: I need to be a developer to benefit from FOSS.**"
 msgstr ""
+"**Conceito errôneo 4: Preciso ser um desenvolvedor para me beneficiar do "
+"software livre e de código aberto.**"
 
 #: content/opt-green-handbook/handbook_web.md:390
 msgid ""
@@ -11459,6 +11988,20 @@ msgid ""
 "certainly don't have to do any of this in order to enjoy Free & Open Source "
 "Software."
 msgstr ""
+"Você não precisa ser um engenheiro de software para usar o FOSS e aproveitar "
+"seus benefícios. Você pode baixá-lo e instalá-lo, com a garantia de que as "
+"atualizações necessárias chegarão quando estiverem prontas. Essencialmente, "
+"você pode ser um cliente de FOSS, e isso já basta. Se quiser, no entanto, "
+"você pode aprender a linguagem de programação do seu software favorito e "
+"enviar o código para revisão. Muitos fazem isso a cada hora do dia. Na "
+"verdade, existem milhões de programadores ao redor do mundo desenvolvendo "
+"FOSS. Alguns são pagos pelo seu trabalho, outros o fazem como voluntários; "
+"alguns são pagos e ainda assim trabalham como voluntários fora do horário de "
+"expediente. Mesmo que você não seja um desenvolvedor, outros são &mdash; "
+"você pode até conhecer alguns &mdash; e eles estão por aí adicionando novos "
+"recursos, corrigindo bugs, solucionando vulnerabilidades de segurança, etc. "
+"Mas você certamente não precisa fazer nada disso para desfrutar do Software "
+"Livre e de Código Aberto."
 
 #: content/opt-green-handbook/handbook_web.md:392
 msgid ""
@@ -11473,6 +12016,18 @@ msgid ""
 "of non-coding skills such as design, outreach, translation, promotion, and "
 "much more."
 msgstr ""
+"Usando a analogia da culinária: você não precisa ser um cozinheiro para "
+"apreciar o resultado de uma boa receita. Se você não sabe cozinhar, "
+"provavelmente conhece alguém que sabe e essa pessoa compartilhará um jantar "
+"com você (desde que você contribua com as compras!). Se você não conhece "
+"ninguém, sempre pode contratar um chef particular para preparar a comida que "
+"você gosta exatamente do jeito que você quer. Ter acesso à receita torna "
+"isso possível. É importante acrescentar que você pode, e deve, apoiar as "
+"equipes por trás do software que você usa e aprecia. Você pode doar dinheiro "
+"ou seu tempo &mdash; os voluntários são vitais para os projetos de software "
+"livre e de código aberto, oferecendo todos os tipos de habilidades não "
+"relacionadas à programação, como design, divulgação, tradução, promoção e "
+"muito mais."
 
 #: content/opt-green-handbook/handbook_web.md:394
 msgid ""
@@ -11480,12 +12035,18 @@ msgid ""
 "support new users with FOSS. Helping new users get started is a great way to "
 "contribute back to the software you use and love."
 msgstr ""
+"Na Parte III deste manual, você aprenderá como executar eventos de "
+"instalação e dar suporte a novos usuários com software livre e de código "
+"aberto (FOSS). Ajudar novos usuários a começar é uma ótima maneira de "
+"contribuir com o software que você usa e adora."
 
 #: content/opt-green-handbook/handbook_web.md:396
 msgid ""
 "**Misconception 5: FOSS is free of cost because it is developed by "
 "volunteers.**"
 msgstr ""
+"**Conceito errôneo 5: O software livre e de código aberto (FOSS) é gratuito "
+"porque é desenvolvido por voluntários.**"
 
 #: content/opt-green-handbook/handbook_web.md:398
 msgid ""
@@ -11504,6 +12065,22 @@ msgid ""
 "as the software code is released under a FOSS license, it is still Free & "
 "Open Source Software, regardless of how much money is made."
 msgstr ""
+"Isso não é verdade, de forma alguma. O FOSS não é necessariamente gratuito, "
+"nem é desenvolvido apenas por voluntários. O FOSS é desenvolvido tanto por "
+"engenheiros de software remunerados quanto por voluntários, e os "
+"colaboradores vêm de todo o mundo. A palavra \"Livre\" em Software Livre e "
+"de Código Aberto não se refere ao preço, mas às liberdades do usuário "
+"garantidas pela licença FOSS. As pessoas ainda precisam ganhar a vida. A "
+"forma como se ganha dinheiro depende do modelo de negócios, e existem "
+"[muitos modelos de negócios diferentes](https://en.wikipedia.org/wiki/"
+"Business_models_for_open-source_software) no ecossistema FOSS. Alguns "
+"programadores vendem seus softwares, por exemplo, em lojas de aplicativos; "
+"algumas empresas vendem serviços profissionais para dar suporte ao software "
+"que desenvolvem; outras organizações vendem mercadorias; enquanto alguns "
+"projetos de desenvolvimento não vendem nada, dependendo de doações (pequenas "
+"e grandes) dos usuários. Contanto que o código do software seja lançado sob "
+"uma licença FOSS, ele ainda é Software Livre e de Código Aberto, "
+"independentemente de quanto dinheiro seja ganho."
 
 #: content/opt-green-handbook/handbook_web.md:400
 msgid ""
@@ -11516,6 +12093,15 @@ msgid ""
 "one-time contributor (perhaps you!) can be scaled up to millions, even "
 "hundreds of millions, of software users!"
 msgstr ""
+"A analogia com a culinária tem seus limites. Uma diferença importante a "
+"observar: mesmo que uma receita possa ser compartilhada com um número "
+"ilimitado de pessoas, um cozinheiro individual só pode compartilhar o "
+"resultado (ou seja, o prato servido) com um número limitado de pessoas. Em "
+"contrapartida, o código de um software e seu resultado &mdash; o aplicativo "
+"que você baixa e usa &mdash; podem ser compartilhados infinitas vezes com um "
+"número infinito de pessoas. Alterações feitas na base de código por um único "
+"colaborador (talvez você!) podem ser replicadas para milhões, até mesmo "
+"centenas de milhões, de usuários do software!"
 
 #: content/opt-green-handbook/handbook_web.md:403
 msgid ""
@@ -11524,6 +12110,12 @@ msgid ""
 "and others can use your devices to the end of the hardware operating life "
 "and not discard functioning computers when proprietary software support ends."
 msgstr ""
+"Esperamos que agora você esteja convencido a usar software livre e de código "
+"aberto (FOSS) e a ajudar outras pessoas a instalar um sistema operacional e "
+"aplicativos FOSS em seus computadores. Dessa forma, você e outros poderão "
+"usar seus dispositivos até o fim da vida útil do hardware e não descartar "
+"computadores em funcionamento quando o suporte ao software proprietário "
+"terminar."
 
 #: content/opt-green-handbook/handbook_web.md:405
 msgid ""
@@ -11531,6 +12123,10 @@ msgid ""
 "fact, the easiest and most direct way is to assist your friends, family, and "
 "loved ones directly. Do not underestimate how important that support is!"
 msgstr ""
+"Esta parte do manual se concentra em como atualizar os dispositivos dos "
+"usuários para software livre e de código aberto (FOSS). Na verdade, a "
+"maneira mais fácil e direta é ajudar seus amigos, familiares e entes "
+"queridos diretamente. Não subestime a importância desse apoio!"
 
 #: content/opt-green-handbook/handbook_web.md:407
 msgid ""
@@ -11544,6 +12140,16 @@ msgid ""
 "none exist in your area, then you can start one&mdash;and we'll discuss that "
 "later on."
 msgstr ""
+"Dito isso, nosso foco aqui é o suporte ao software livre e de código aberto "
+"(FOSS) para um público mais amplo, por meio de divulgação, eventos de "
+"instalação e outros tipos de encontros organizados para ajudar as pessoas a "
+"fazerem a transição. Para aqueles que desejam se envolver com isso, "
+"recomendamos que primeiro se juntem a uma organização já existente. Isso "
+"inclui trabalho voluntário em Repair Cafés, organizações ambientais e outras "
+"iniciativas de reparo, bem como ajuda em eventos como o End of 10 e o Dia da "
+"Independência Digital, eventos de instalação do Linux, CryptoParties e assim "
+"por diante. Se não houver nenhuma em sua região, você pode criar uma &mdash; "
+"e discutiremos isso mais tarde."
 
 #: content/opt-green-handbook/handbook_web.md:409
 msgid ""
@@ -11554,6 +12160,12 @@ msgid ""
 "Joseph P. De Veaugh-Geiss. Both are released under a [CC-BY-4.0](https://"
 "spdx.org/licenses/CC-BY-4.0.html) license.)](images/sec3_end_of_10.png)"
 msgstr ""
+"![Dois pôsteres do site da campanha End Of 10](https://invent.kde.org/"
+"websites/endof10-org/-/tree/master/static/assets/posters). (O pôster End Of "
+"10 à esquerda foi criado por Finnjan Hofmann e o pôster End Of 10 Akademy à "
+"direita foi criado por Farid Abdelnour, Kieryn Darkwater e Joseph P. De "
+"Veaugh-Geiss. Ambos estão licenciados sob a licença [CC-BY-4.0](https://spdx."
+"org/licenses/CC-BY-4.0.html).)](images/sec3_end_of_10.png)"
 
 #: content/opt-green-handbook/handbook_web.md:411
 msgid ""
@@ -11566,18 +12178,32 @@ msgid ""
 "will use many resources from the KDE community throughout the text. There "
 "are a couple of reasons we aren't providing specific step-by-step guidance:"
 msgstr ""
+"Não partimos do princípio de que você tenha experiência prévia na "
+"organização de eventos de instalação, e a primeira seção oferece sugestões "
+"de como adquirir mais experiência. Não abordaremos muitos detalhes técnicos "
+"aqui &mdash; este não é um guia passo a passo. Em vez disso, fornecemos um "
+"esboço do que consideramos útil para começar, com indicações de como "
+"encontrar recursos para obter mais informações. Observe que nenhum software "
+"específico será o foco deste manual, embora utilizemos muitos recursos da "
+"comunidade KDE ao longo do texto. Existem alguns motivos pelos quais não "
+"estamos fornecendo orientações passo a passo específicas:"
 
 #: content/opt-green-handbook/handbook_web.md:413
 msgid ""
 "The specifics often change as new versions of software are released, which "
 "would quickly render the handbook out-of-date."
 msgstr ""
+"Os detalhes específicos mudam frequentemente à medida que novas versões do "
+"software são lançadas, o que rapidamente tornaria o manual desatualizado."
 
 #: content/opt-green-handbook/handbook_web.md:414
 msgid ""
 "The details depend on the specific software being installed, for which there "
 "already exist numerous online guides. No need to re-invent the wheel!"
 msgstr ""
+"Os detalhes dependem do software específico que está sendo instalado, para o "
+"qual já existem inúmeros guias online. Não há necessidade de reinventar a "
+"roda!"
 
 #: content/opt-green-handbook/handbook_web.md:416
 msgid ""
@@ -11585,6 +12211,9 @@ msgid ""
 "handbook nonetheless provides a good basis for getting started with new user "
 "FOSS support."
 msgstr ""
+"Certamente existem outras maneiras pelas quais este texto está incompleto, "
+"mas esperamos que o manual, mesmo assim, forneça uma boa base para começar a "
+"oferecer suporte a software livre e de código aberto para novos usuários."
 
 #: content/opt-green-handbook/handbook_web.md:418
 msgid ""
@@ -11595,26 +12224,34 @@ msgid ""
 "events. Nevertheless, we welcome your feedback, comments, suggestions, and "
 "constructive input!"
 msgstr ""
+"O texto aqui apresentado também expressa opiniões, e o leitor pode discordar "
+"de algumas das sugestões. Mesmo assim, acreditamos que ele seja útil. Ao "
+"identificar os pontos de discordância, você estará mais atento às decisões "
+"que tomar. Essa consciência pode beneficiar o planejamento e a execução dos "
+"seus próprios eventos de instalação. Ainda assim, agradecemos seus "
+"comentários, sugestões e contribuições construtivas!"
 
 #: content/opt-green-handbook/handbook_web.md:420
 msgid "From here, this section is broken down into 4 stages:"
-msgstr ""
+msgstr "A partir daqui, esta seção é dividida em 4 etapas:"
 
 #: content/opt-green-handbook/handbook_web.md:422
 msgid "Gaining Experience with FOSS and FOSS groups"
 msgstr ""
+"Adquirindo experiência com software livre e de código aberto (FOSS) e grupos "
+"de FOSS"
 
 #: content/opt-green-handbook/handbook_web.md:423
 msgid "Before Install Events"
-msgstr ""
+msgstr "Antes dos eventos de instalação"
 
 #: content/opt-green-handbook/handbook_web.md:424
 msgid "During Install Events"
-msgstr ""
+msgstr "Durante os eventos de instalação"
 
 #: content/opt-green-handbook/handbook_web.md:425
 msgid "After Install Events"
-msgstr ""
+msgstr "Após os eventos de instalação"
 
 #: content/opt-green-handbook/handbook_web.md:427
 msgid ""
@@ -11624,44 +12261,60 @@ msgid ""
 "than a one-and-done event. We address this again towards the end of the "
 "section."
 msgstr ""
+"Idealmente, você pode repetir esses passos como o algoritmo do shampoo: "
+"[ensaboar, enxaguar, repetir](https://en.wikipedia.org/wiki/Lather,_rinse,"
+"_repeat). Ou seja, o ideal é abordar o suporte a software livre como uma "
+"atividade contínua, em vez de um evento isolado. Abordaremos isso novamente "
+"mais adiante nesta seção."
 
 #: content/opt-green-handbook/handbook_web.md:429
 msgid ""
 "As you dig deeper into the FOSS ecosystem, you may come across several new "
 "terms. Here is a short glossary of useful vocabulary:"
 msgstr ""
+"Ao explorar o ecossistema FOSS em profundidade, você poderá se deparar com "
+"diversos termos novos. Aqui está um breve glossário de vocabulário útil:"
 
 #: content/opt-green-handbook/handbook_web.md:431
 msgid "**PC**: a laptop or desktop computer"
-msgstr ""
+msgstr "**PC**: um notebook, laptop ou computador de mesa"
 
 #: content/opt-green-handbook/handbook_web.md:432
 msgid ""
 "**FOSS Operating System** (OS): Linux is the most popular, but there are "
 "others such as OpenBSD and Haiku"
 msgstr ""
+"**Sistema Operacional FOSS** (SO): O Linux é o mais popular, mas existem "
+"outros como o OpenBSD e o Haiku"
 
 #: content/opt-green-handbook/handbook_web.md:433
 msgid "**Proprietary Operating System** (OS): MS Windows, MacOS"
-msgstr ""
+msgstr "**Sistema Operacional Proprietário** (SO): MS Windows, MacOS"
 
 #: content/opt-green-handbook/handbook_web.md:434
 msgid ""
 "**Distribution** (or Distro): A FOSS OS and accompanying software, often "
 "obtained from a website"
 msgstr ""
+"**Distribuição** (ou Distro): Um sistema operacional FOSS (software livre e "
+"de código aberto) e o software que o acompanha, geralmente obtido de um site."
 
 #: content/opt-green-handbook/handbook_web.md:435
 msgid ""
 "**ISO** / **image file**: the file that contains the operating system to be "
 "installed"
 msgstr ""
+"**ISO** / **arquivo de imagem**: o arquivo que contém o sistema operacional "
+"a ser instalado"
 
 #: content/opt-green-handbook/handbook_web.md:436
 msgid ""
 "**Graphical User Interface** (GUI): a graphics-based way to interact with "
 "the computer (e.g., point and click with the mouse)"
 msgstr ""
+"**Interface Gráfica do Usuário** (GUI, sigla em inglês): uma forma de "
+"interação com o computador baseada em elementos gráficos (por exemplo, "
+"apontar e clicar com o mouse)"
 
 #: content/opt-green-handbook/handbook_web.md:437
 msgid ""
@@ -11669,6 +12322,9 @@ msgid ""
 "org/wiki/Graphical_user_interface) (GUI) used to interact with or administer "
 "the operating system"
 msgstr ""
+"**Ambiente de Área de Trabalho**: a [Interface Gráfica do Usuário](https://"
+"en.wikipedia.org/wiki/Graphical_user_interface) (GUI) usada para interagir "
+"com o sistema operacional ou administrá-lo"
 
 #: content/opt-green-handbook/handbook_web.md:438
 msgid ""
@@ -11676,6 +12332,9 @@ msgid ""
 "readers, text editors, games, rather than for administering the system (cf. "
 "Desktop Environment)"
 msgstr ""
+"**Aplicativos** (ou Apps): programas de computador para tarefas do usuário "
+"final, como leitores de PDF, editores de texto, jogos, em vez de para "
+"administração do sistema (cf. Ambiente de Área de Trabalho)."
 
 #: content/opt-green-handbook/handbook_web.md:439
 msgid ""
@@ -11683,12 +12342,17 @@ msgid ""
 "installed from an external website, although nowadays some applications can "
 "also be installed through an app store."
 msgstr ""
+"Com sistemas operacionais proprietários, os aplicativos geralmente são "
+"baixados e instalados de um site externo, embora hoje em dia alguns "
+"aplicativos também possam ser instalados por meio de uma loja de aplicativos."
 
 #: content/opt-green-handbook/handbook_web.md:440
 msgid ""
 "In the FOSS ecosystem, applications are most typically installed through the "
 "software or package manager of the Desktop Environment."
 msgstr ""
+"No ecossistema FOSS, os aplicativos são normalmente instalados por meio do "
+"gerenciador de software ou de pacotes do ambiente de área de trabalho."
 
 #: content/opt-green-handbook/handbook_web.md:441
 msgid ""
@@ -11698,18 +12362,29 @@ msgid ""
 "(https://en.wikipedia.org/wiki/IA-32) or [64-bit](https://en.wikipedia.org/"
 "wiki/X86-64) architecture, but not only"
 msgstr ""
+"**CPU** (sigla em inglês para Unidade Central de Processamento): "
+"principalmente CPUs [Intel](https://en.wikipedia.org/wiki/Intel) ou [AMD]"
+"(https://en.wikipedia.org/wiki/AMD) baseadas na arquitetura [x86](https://en."
+"wikipedia.org/wiki/X86) com arquitetura [32 bits](https://en.wikipedia.org/"
+"wiki/IA-32) ou [64 bits](https://en.wikipedia.org/wiki/X86-64), mas não "
+"apenas"
 
 #: content/opt-green-handbook/handbook_web.md:442
 msgid ""
 "**RAM** (or working memory): impermanent memory that is lost when the PC is "
 "turned off. More RAM typically means faster processing."
 msgstr ""
+"**RAM** (ou memória de trabalho): memória temporária que é perdida quando o "
+"computador é desligado. Mais RAM geralmente significa processamento mais "
+"rápido."
 
 #: content/opt-green-handbook/handbook_web.md:443
 msgid ""
 "**Mass storage**: Hard Disk Drive (HDD), Solid State Drive (SSD), SD card, "
 "etc."
 msgstr ""
+"**Armazenamento em massa**: Unidade de disco rígido (HDD), unidade de estado "
+"sólido (SSD), cartão SD, etc."
 
 #: content/opt-green-handbook/handbook_web.md:444
 msgid ""
@@ -11717,16 +12392,22 @@ msgid ""
 "which the system and applications can be updated and new applications can be "
 "installed."
 msgstr ""
+"**Repositórios** (para Linux e outros ecossistemas FOSS): A fonte a partir "
+"da qual o sistema e os aplicativos podem ser atualizados e novos aplicativos "
+"podem ser instalados."
 
 #: content/opt-green-handbook/handbook_web.md:445
 msgid ""
 "**Command Line Interface** (CLI) / **Terminal**: a text-based interface (e."
 "g., typing commands with the keyboard) as compared to a GUI."
 msgstr ""
+"**Interface de Linha de Comando** (CLI, sigla em inglês) / **Terminal**: uma "
+"interface baseada em texto (por exemplo, digitar comandos com o teclado) em "
+"comparação com uma GUI (Interface Gráfica do Usuário)."
 
 #: content/opt-green-handbook/handbook_web.md:447
 msgid "Stage 1. Gaining Experience"
-msgstr ""
+msgstr "Etapa 1. Ganhando experiência"
 
 #: content/opt-green-handbook/handbook_web.md:449
 msgid ""
@@ -11740,6 +12421,17 @@ msgid ""
 "family probably do. Ask around! You'd be surprised by how easy it can be to "
 "find a functioning yet abandoned computer in your social circles."
 msgstr ""
+"A maneira mais fácil e barata de ganhar experiência com um sistema "
+"operacional FOSS é encontrar um computador sem uso, de preferência não muito "
+"antigo (menos de 10 anos), para que você possa realmente experimentar o "
+"poder do seu novo sistema operacional e simplesmente testá-lo. Existem "
+"inúmeros guias que o orientarão no processo de instalação passo a passo. "
+"Pesquise online pelo sistema operacional que deseja instalar ou consulte "
+"sites de visão geral como o \"[Year of the Linux Desktop](https://"
+"yearofthelinuxdesktop.net)\". Se você não tiver um computador antigo "
+"sobrando, seus amigos e familiares provavelmente têm. Pergunte por aí! Você "
+"se surpreenderá com a facilidade com que pode encontrar um computador "
+"funcionando, porém abandonado, em seus círculos sociais."
 
 #: content/opt-green-handbook/handbook_web.md:451
 msgid ""
@@ -11754,10 +12446,21 @@ msgid ""
 "installing another system is always an option. In fact, \"distro hopping\" "
 "is a common phenomenon among new users to FOSS."
 msgstr ""
+"Então você encontrou um computador para testar software livre e de código "
+"aberto (FOSS), mas neste momento você pode estar se perguntando: como posso "
+"decidir qual sistema operacional e ambiente de desktop FOSS devo usar quando "
+"existem tantas opções? E sim, existem muitíssimas opções. Essa é uma das "
+"reclamações mais comuns que ouvimos de novos usuários. Nossa resposta: além "
+"de restrições como requisitos mínimos de sistema, isso realmente não "
+"importa! Você sempre pode mudar para outro sistema operacional e ambiente de "
+"desktop FOSS posteriormente. Não há custos de licenciamento ou outras "
+"restrições ao usar FOSS, então baixar e instalar outro sistema é sempre uma "
+"opção. Aliás, \"trocar de distribuição\" é um fenômeno comum entre novos "
+"usuários de FOSS."
 
 #: content/opt-green-handbook/handbook_web.md:453
 msgid "A couple of things to note at this point:"
-msgstr ""
+msgstr "Algumas coisas a observar neste ponto:"
 
 #: content/opt-green-handbook/handbook_web.md:455
 msgid ""
@@ -11765,6 +12468,10 @@ msgid ""
 "for short) which offer different default setups and user interfaces for "
 "various user needs and hardware."
 msgstr ""
+"O software livre e de código aberto (FOSS) é normalmente disponibilizado por "
+"meio de uma \"distribuição\" (ou \"distro\", abreviadamente) que oferece "
+"diferentes configurações padrão e interfaces de usuário para diversas "
+"necessidades de usuário e hardware."
 
 #: content/opt-green-handbook/handbook_web.md:456
 msgid ""
@@ -11772,6 +12479,9 @@ msgid ""
 "want to look for a \"lightweight\" OS designed for low-powered devices. "
 "Search online and you will find many recommendations."
 msgstr ""
+"Se você possui um computador antigo com especificações de hardware modestas, "
+"procure um sistema operacional \"leve\" projetado para dispositivos de baixo "
+"desempenho. Uma busca online revelará diversas recomendações."
 
 #: content/opt-green-handbook/handbook_web.md:457
 msgid ""
@@ -11780,6 +12490,11 @@ msgid ""
 "desktop environment, default system setup, and the like. Hop around various "
 "distros to find the one that works best for you."
 msgstr ""
+"Se você tiver um computador mais recente com mais poder de hardware, poderá "
+"instalar praticamente qualquer sistema operacional. As principais diferenças "
+"que você notará são o ambiente de área de trabalho, a configuração padrão do "
+"sistema e outros aspectos semelhantes. Experimente várias distribuições para "
+"encontrar a que melhor se adapta às suas necessidades."
 
 #: content/opt-green-handbook/handbook_web.md:458
 msgid ""
@@ -11788,6 +12503,11 @@ msgid ""
 "can often be resolved with a little effort, but you may need to do some "
 "research to find solutions."
 msgstr ""
+"Como a maioria dos hardwares *não* foi projetada para software livre e de "
+"código aberto (FOSS), você pode encontrar problemas com drivers de placas de "
+"vídeo, Wi-Fi, webcams, entre outros. Esses problemas geralmente podem ser "
+"resolvidos com um pouco de esforço, mas talvez seja necessário pesquisar um "
+"pouco para encontrar soluções."
 
 #: content/opt-green-handbook/handbook_web.md:459
 msgid ""
@@ -11795,6 +12515,9 @@ msgid ""
 "drivers. This is recommended before getting your hands dirty with the "
 "command line interface."
 msgstr ""
+"Algumas distribuições incluem software com interface gráfica para detectar e "
+"instalar drivers proprietários. Recomenda-se o uso desse software antes de "
+"se aventurar na interface de linha de comando."
 
 #: content/opt-green-handbook/handbook_web.md:461
 msgid ""
@@ -11803,6 +12526,10 @@ msgid ""
 "your area. Also, see the next section for tips on how to build a FOSS power "
 "team!"
 msgstr ""
+"Se você deseja suporte presencial ao começar, recomendamos visitar o site do "
+"[End Of 10](https://endof10.org) para encontrar um local ou evento na sua "
+"região. Veja também a próxima seção para dicas sobre como montar uma equipe "
+"de apoio para software livre!"
 
 #: content/opt-green-handbook/handbook_web.md:463
 msgid ""
@@ -11816,6 +12543,15 @@ msgid ""
 "community.kde.org/Distributions). And if you own a SteamDeck, you may be "
 "using KDE Plasma already."
 msgstr ""
+"Como este é um manual da iniciativa KDE Eco, recomendamos experimentar uma "
+"distribuição com o ambiente de desktop [KDE Plasma](https://kde.org/plasma-"
+"desktop/). Ele pode ser instalado em muitas [distribuições principais]"
+"(https://kde.org/distributions/), como [Fedora](https://fedoraproject.org/"
+"kde/), [openSUSE](https://www.opensuse.org/), [Debian](https://www.debian."
+"org/), bem como seus derivados, como [Kubuntu](https://kubuntu.org/), [MX "
+"Linux](https://mxlinux.org/), [CachyOS](https://cachyos.org/) e [mais]"
+"(https://community.kde.org/Distributions). E se você possui um Steam Deck, "
+"pode já estar usando o KDE Plasma."
 
 #: content/opt-green-handbook/handbook_web.md:466
 msgid ""
@@ -11825,14 +12561,20 @@ msgid ""
 "released under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
 "license.)](images/sec3_fullscreen_with_apps.png)"
 msgstr ""
+"![O ambiente de área de trabalho KDE Plasma. Aqui você pode ver a interface "
+"gráfica para modificar as configurações do sistema, para atualizar e "
+"instalar software com o Discover, bem como para verificar a data com o "
+"widget de Relógio Digital. (Imagem do KDE lançada sob uma licença [CC-BY-4.0]"
+"(https://spdx.org/licenses/CC-BY-4.0.html).)](images/"
+"sec3_fullscreen_with_apps.png)"
 
 #: content/opt-green-handbook/handbook_web.md:468
 msgid "KDE Plasma's slogan is:"
-msgstr ""
+msgstr "O lema do KDE Plasma é:"
 
 #: content/opt-green-handbook/handbook_web.md:470
 msgid "\"Simple by default, powerful when needed.\""
-msgstr ""
+msgstr "\"Simples por padrão, poderoso quando necessário.\""
 
 #: content/opt-green-handbook/handbook_web.md:472
 msgid ""
@@ -11850,10 +12592,24 @@ msgid ""
 "org/for/students/), or [Scientist](https://kde.org/for/scientists/), and "
 "more."
 msgstr ""
+"Em outras palavras, embora as configurações padrão facilitem o uso sem "
+"ajustes adicionais, o KDE Plasma é, na verdade, um software muito poderoso, "
+"permitindo personalização para que funcione exatamente como *você* deseja. "
+"Com um pouco de exploração das configurações do sistema e alguns cliques "
+"aqui e ali, você pode deixá-lo com uma aparência familiar &mdash; ou "
+"experimentar algo completamente diferente, algo único para suas "
+"necessidades. O KDE Plasma oferece muitas opções tanto para novos usuários "
+"quanto para usuários avançados. E além do Ambiente de Área de Trabalho "
+"Plasma, o KDE oferece muitos aplicativos amplamente utilizados. Confira a "
+"página \"[KDE Para Você](https://kde.org/for/)\" para saber como os "
+"aplicativos KDE e outros softwares livres e de código aberto podem atender "
+"às suas necessidades, seja você um [Criador](https://kde.org/for/creators/), "
+"[Jogador](https://kde.org/for/gamers/), [Estudante](https://kde.org/for/"
+"students/) ou [Cientista](https://kde.org/for/scientists/), e muito mais."
 
 #: content/opt-green-handbook/handbook_web.md:474
 msgid "Stage 2. Before Install Events"
-msgstr ""
+msgstr "Etapa 2. Eventos antes da instalação"
 
 #: content/opt-green-handbook/handbook_web.md:476
 msgid ""
@@ -11861,16 +12617,23 @@ msgid ""
 "prepare for and promote an event, before you find yourself in a room packed "
 "with curious and nervous new users."
 msgstr ""
+"Nesta seção, exploraremos a formação de equipes de software livre e de "
+"código aberto (FOSS), bem como algumas maneiras de se preparar e promover um "
+"evento, antes que você se encontre em uma sala repleta de novos usuários "
+"curiosos e nervosos."
 
 #: content/opt-green-handbook/handbook_web.md:478
 msgid "Finding Other FOSS Angels"
-msgstr ""
+msgstr "Encontrando outros anjos do FOSS"
 
 #: content/opt-green-handbook/handbook_web.md:480
 msgid ""
 "If there are no Linux User Groups or Linux Cafes in your area (see next "
 "section), that is a pity but also an opportunity: you can start one!"
 msgstr ""
+"Se não houver grupos de usuários Linux ou cafés Linux na sua região (veja a "
+"próxima seção), isso é uma pena, mas também uma oportunidade: você pode "
+"começar um!"
 
 #: content/opt-green-handbook/handbook_web.md:482
 msgid ""
@@ -11883,12 +12646,24 @@ msgid ""
 "and asked the audience (a) who would be interested in installing FOSS "
 "themselves and (b) who would be interested in helping others do so."
 msgstr ""
+"No projeto \"Opte pelo Verde\" do KDE Eco, tivemos contato com muitas "
+"organizações e indivíduos que oferecem suporte a softwares livres e de "
+"código aberto (FOSS). Uma história em particular merece ser compartilhada. "
+"Para formar uma equipe local de defensores do FOSS,[^4] um grupo na Alemanha "
+"organizou uma sessão informativa na prefeitura local. Cerca de 100 pessoas "
+"compareceram! Eles discutiram as questões relacionadas ao fim do suporte ao "
+"Windows 10 (consulte a Parte II para relembrar seus impactos ambientais) e "
+"perguntaram à plateia (a) quem estaria interessado em instalar FOSS por "
+"conta própria e (b) quem estaria interessado em ajudar outras pessoas a "
+"fazer o mesmo."
 
 #: content/opt-green-handbook/handbook_web.md:484
 msgid ""
 "[^4]: We use the term \"angel\" following the terminology used by the Chaos "
 "Computer Club in Germany for volunteers at their events."
 msgstr ""
+"[^4]: Usamos o termo \"anjo\" seguindo a terminologia usada pelo Chaos "
+"Computer Club na Alemanha para voluntários em seus eventos."
 
 #: content/opt-green-handbook/handbook_web.md:486
 msgid ""
@@ -11900,12 +12675,24 @@ msgid ""
 "months. With the success of this initiative, they are now planning a Linux "
 "Cafe in their area to offer ongoing support to their community!"
 msgstr ""
+"A partir desse evento, eles formaram uma equipe de 20 voluntários que se "
+"reuniam durante várias semanas para comer pizza e beber cerveja, a fim de "
+"adquirir experiência e solucionar problemas em conjunto. Eles também "
+"mantinham os membros interessados ​​da plateia atualizados sobre suas "
+"atividades. Assim que a equipe de suporte estava pronta, realizaram diversos "
+"eventos de instalação, atualizando mais de 40 dispositivos para software "
+"livre em apenas alguns meses. Com o sucesso dessa iniciativa, eles agora "
+"estão planejando um Linux Café em sua região para oferecer suporte contínuo "
+"à comunidade!"
 
 #: content/opt-green-handbook/handbook_web.md:488
 msgid ""
 "By following this excellent example, you too can build a FOSS power team in "
 "your area."
 msgstr ""
+"Seguindo este excelente exemplo, você também pode construir uma equipe de "
+"usuários de software livre e de código aberto (FOSS) de grande porte em sua "
+"região."
 
 #: content/opt-green-handbook/handbook_web.md:490
 msgid ""
@@ -11920,6 +12707,16 @@ msgid ""
 "org/licenses/CC-BY-4.0.html) license.)](images/sec3_Akademy2025-Guadec2025."
 "png)"
 msgstr ""
+"![Fotos de grupo de duas grandes comunidades de desenvolvimento de software "
+"livre em suas conferências anuais: A comunidade KDE na [Akademy](https://"
+"akademy.kde.org/news/2025-09_akademy-2025-report/) está à esquerda e a "
+"comunidade GNOME na [GUADEC](https://events.gnome.org/event/306/page/781-"
+"guadec-photos-from-previous-years) está à direita. As duas comunidades se "
+"reúnem todos os anos na [Linux App Summit](https://linuxappsummit.org/). "
+"Esses eventos acontecem em locais ao redor do mundo. Talvez você queira "
+"participar de um dos próximos eventos? (Ambas as imagens foram liberadas sob "
+"uma licença [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](images/"
+"sec3_Akademy2025-Guadec2025.png)"
 
 #: content/opt-green-handbook/handbook_web.md:492
 msgid ""
@@ -11932,12 +12729,25 @@ msgid ""
 "interested in doing. FOSS teams generally welcome new people who show "
 "interest in their work, and you'll likely get feedback pretty quickly."
 msgstr ""
+"Se você gosta dessa ideia, mas sente que vive em um deserto de software "
+"livre, não se esqueça de que os colaboradores de projetos de software livre "
+"estão espalhados pelo mundo todo. É uma verdadeira rede global. Ao procurar "
+"pessoas com interesses semelhantes, considere entrar em contato diretamente "
+"com um projeto e perguntar se algum colaborador mora na sua região e "
+"gostaria de ajudar, ou se conhece alguém que possa. Encontre uma lista de "
+"discussão ou sala de bate-papo, apresente-se e conte à comunidade o que você "
+"tem interesse em fazer. As equipes de software livre geralmente recebem bem "
+"novas pessoas que demonstram interesse em seu trabalho, e você provavelmente "
+"receberá feedback rapidamente."
 
 #: content/opt-green-handbook/handbook_web.md:494
 msgid ""
 "Starting a Linux or Repair Café is more work than organizing an event, but "
 "well worth it for ongoing support. Here are some resources on how start one:"
 msgstr ""
+"Abrir um Linux Café ou um Repair Café dá mais trabalho do que organizar um "
+"evento, mas vale muito a pena pelo suporte contínuo. Aqui estão alguns "
+"recursos sobre como começar um:"
 
 #: content/opt-green-handbook/handbook_web.md:496
 msgid ""
@@ -11946,6 +12756,10 @@ msgid ""
 "join/start-your-own/)\" and \"[Linux Repair Café](https://www.repaircafe.org/"
 "linux-repair-cafe/)\" webpages."
 msgstr ""
+"O [Repair Cafe International](https://www.repaircafe.org/en/visit/) tem "
+"informações muito úteis nas páginas \"[Inicie o seu](https://www.repaircafe."
+"org/en/join/start-your-own/)\" e \"[Linux Repair Café](https://www."
+"repaircafe.org/linux-repair-cafe/)\"."
 
 #: content/opt-green-handbook/handbook_web.md:497
 msgid ""
@@ -11954,6 +12768,10 @@ msgid ""
 "Community Repair Groups](https://therestartproject.org/end-of-windows-10-"
 "toolkit-for-repair-groups/)\"."
 msgstr ""
+"O [Projeto Restart](https://therestartproject.org/repair-options/find-your-"
+"repair-community/) preparou um \"[Fim do Windows 10: Um Kit de Ferramentas "
+"para Grupos de Reparo da Comunidade](https://therestartproject.org/end-of-"
+"windows-10-toolkit -for-repair-groups/)\"."
 
 #: content/opt-green-handbook/handbook_web.md:499
 msgid ""
@@ -11961,10 +12779,14 @@ msgid ""
 "very doable. Many people like you are leading the way! Don't be discouraged "
 "if interest is low at first. It takes time and energy to build a community."
 msgstr ""
+"Organizar o primeiro de muitos eventos de instalação ou iniciar um Repair "
+"Café é muito viável. Muitas pessoas como você estão abrindo caminho! Não se "
+"desanime se o interesse for baixo no início. Leva tempo e energia para "
+"construir uma comunidade."
 
 #: content/opt-green-handbook/handbook_web.md:501
 msgid "Joining An Organization"
-msgstr ""
+msgstr "Juntando-se a uma organização"
 
 #: content/opt-green-handbook/handbook_web.md:503
 msgid ""
@@ -11973,44 +12795,54 @@ msgid ""
 "Groups, CryptoParties, and more can be found all around the globe. Some "
 "places to get started are:"
 msgstr ""
+"Por que começar do zero quando um grupo motivado já pode estar atuando na "
+"sua região? Por exemplo, iniciativas de reparo que oferecem suporte a "
+"softwares, grupos de usuários Linux, CryptoParties e muito mais podem ser "
+"encontrados em todo o mundo. Alguns lugares para começar são:"
 
 #: content/opt-green-handbook/handbook_web.md:505
 msgid "[End Of 10](https://endof10.org) directory"
-msgstr ""
+msgstr "Diretório do [End Of 10](https://endof10.org)"
 
 #: content/opt-green-handbook/handbook_web.md:506
 msgid "[Repair Café International](https://www.repaircafe.org/en/visit/)"
-msgstr ""
+msgstr "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 
 #: content/opt-green-handbook/handbook_web.md:507
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/)"
 msgstr ""
+"[Restart Project](https://therestartproject.org/repair-options/find-your-"
+"repair-community/)"
 
 #: content/opt-green-handbook/handbook_web.md:508
 msgid ""
 "[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf"
 "%C3%A9) repair café directory"
 msgstr ""
+"Diretório de Repair Café [iFixit](https://www.ifixit.com/Wiki/"
+"How_to_Find_your_Local_Repair_Caf%C3%A9)"
 
 #: content/opt-green-handbook/handbook_web.md:509
 msgid "[Linux User Groups](https://linux-events.org/SL_LUGs)"
-msgstr ""
+msgstr "[Grupos de Usuários Linux](https://linux-events.org/SL_LUGs)"
 
 #: content/opt-green-handbook/handbook_web.md:510
 msgid "[CryptoParties](https://cryptoparty.in/)"
-msgstr ""
+msgstr "[CryptoParties](https://cryptoparty.in/)"
 
 #: content/opt-green-handbook/handbook_web.md:511
 msgid ""
 "Student and FOSS clubs (such as the [FOSS United Clubs](https://fossunited."
 "org/clubs) in India)"
 msgstr ""
+"Clubes estudantis e de software livre (como os [FOSS United Clubs](https://"
+"fossunited.org/clubs) na Índia)"
 
 #: content/opt-green-handbook/handbook_web.md:512
 msgid "IT stores offering Linux support"
-msgstr ""
+msgstr "Lojas de informática que oferecem suporte para Linux"
 
 #: content/opt-green-handbook/handbook_web.md:514
 msgid ""
@@ -12022,10 +12854,19 @@ msgid ""
 "support to new users, raising funds, or whatever else the organization is "
 "doing to promote and support Free & Open Source Software for new users."
 msgstr ""
+"Entre em contato e pergunte com o que eles precisam de ajuda. Não tenha "
+"receio! Por experiência, esses grupos sempre ficam felizes em ter mais "
+"voluntários. Você pode se envolver ajudando a organizar eventos de "
+"instalação de software livre e de código aberto e eventos promocionais (por "
+"exemplo, o [Software Freedom Day](https://digitalfreedoms.org/sfd) ou o "
+"[Linux Presentation Day](https://l-p-d.org/en/public/start)), fornecendo "
+"suporte contínuo a novos usuários, arrecadando fundos ou qualquer outra "
+"atividade que a organização esteja realizando para promover e apoiar o "
+"software livre e de código aberto para novos usuários."
 
 #: content/opt-green-handbook/handbook_web.md:516
 msgid "Planning An Install Party"
-msgstr ""
+msgstr "Planejando uma festa de instalação"
 
 #: content/opt-green-handbook/handbook_web.md:518
 msgid ""
@@ -12033,22 +12874,25 @@ msgid ""
 "migration process. So let's think about it from the user perspective. The "
 "main stages for a new user may look like the following:"
 msgstr ""
+"Vale ressaltar que a instalação é apenas uma das muitas etapas do processo "
+"de migração. Portanto, vamos pensar nisso da perspectiva do usuário. As "
+"principais etapas para um novo usuário podem ser as seguintes:"
 
 #: content/opt-green-handbook/handbook_web.md:520
 msgid "Stage 0: Deciding to install a FOSS OS"
-msgstr ""
+msgstr "Etapa 0: Decidir instalar um sistema operacional FOSS"
 
 #: content/opt-green-handbook/handbook_web.md:521
 msgid "Stage 1: Securing their data"
-msgstr ""
+msgstr "Etapa 1: Proteger seus dados"
 
 #: content/opt-green-handbook/handbook_web.md:522
 msgid "Stage 2: Installation"
-msgstr ""
+msgstr "Etapa 2: Instalação"
 
 #: content/opt-green-handbook/handbook_web.md:523
 msgid "Stage 3: Getting follow-up support"
-msgstr ""
+msgstr "Etapa 3: Obtenção de apoio de acompanhamento"
 
 #: content/opt-green-handbook/handbook_web.md:525
 msgid ""
@@ -12057,6 +12901,10 @@ msgid ""
 "making sure everything goes smoothly, and (iii) *after* the event should "
 "issues arise."
 msgstr ""
+"Ao considerar cada uma dessas etapas, você poderá atender melhor às "
+"necessidades de um usuário (i) *antes* do evento, realizando uma promoção "
+"eficaz, (ii) *durante* o evento, garantindo que tudo corra bem, e (iii) "
+"*após* o evento, caso surjam problemas."
 
 #: content/opt-green-handbook/handbook_web.md:527
 msgid ""
@@ -12070,10 +12918,21 @@ msgid ""
 "many others. Then, once they do make the switch to a FOSS OS, some of the "
 "software will already be familiar!"
 msgstr ""
+"Nota: O primeiro passo mais fácil para novos usuários pode ser usar "
+"aplicativos FOSS multiplataforma em seu sistema operacional proprietário "
+"existente antes de instalar um novo sistema operacional por completo. Muitos "
+"aplicativos FOSS também funcionam no Windows e no macOS. Estes incluem (mas "
+"certamente não se limitam a) o navegador web [Firefox](https://www.firefox."
+"com/), o cliente de e-mail [Thunderbird](https://www.thunderbird.net/), o "
+"editor de texto [LibreOffice](https://www.libreoffice.org/), o visualizador "
+"de PDF e documentos do KDE [Okular](https://okular.kde.org/) e muitos "
+"outros. Então, quando fizerem a transição para um sistema operacional FOSS, "
+"alguns dos softwares já serão familiares!"
 
 #: content/opt-green-handbook/handbook_web.md:529
 msgid "Why A New User Decides (Not) To Install A FOSS OS"
 msgstr ""
+"Por que um novo usuário decide (não) instalar um sistema operacional FOSS?"
 
 #: content/opt-green-handbook/handbook_web.md:531
 msgid ""
@@ -12083,46 +12942,60 @@ msgid ""
 "motivations for making the switch will help you prepare for outreach and "
 "event promotion."
 msgstr ""
+"Muitos guias de instalação começam logo na etapa de instalação ou talvez com "
+"o backup de dados, mas muito poucos começam com o que é a etapa mais "
+"importante de todas: Decidir migrar para um sistema operacional FOSS. "
+"Compreender as motivações dos usuários para fazer a mudança ajudará você a "
+"se preparar para a divulgação e a promoção de eventos."
 
 #: content/opt-green-handbook/handbook_web.md:533
 msgid ""
 "Many potential users would never think to try a FOSS OS. This can be for "
 "many reasons, such as:"
 msgstr ""
+"Muitos potenciais usuários jamais pensariam em experimentar um sistema "
+"operacional FOSS. Isso pode ocorrer por diversos motivos, como:"
 
 #: content/opt-green-handbook/handbook_web.md:535
 msgid "They don't know FOSS operating systems even exist."
-msgstr ""
+msgstr "Eles nem sabem que sistemas operacionais FOSS existem."
 
 #: content/opt-green-handbook/handbook_web.md:536
 msgid "They believe FOSS won't meet their needs."
 msgstr ""
+"Eles acreditam que o software livre e de código aberto (FOSS) não atenderá "
+"às suas necessidades."
 
 #: content/opt-green-handbook/handbook_web.md:537
 msgid "They think it's too hard to use."
-msgstr ""
+msgstr "Eles acham que é muito difícil de usar."
 
 #: content/opt-green-handbook/handbook_web.md:538
 msgid "They see that their out-of-date software still works, so why bother."
 msgstr ""
+"Eles percebem que o software desatualizado ainda funciona, então por que se "
+"incomodar?"
 
 #: content/opt-green-handbook/handbook_web.md:539
 msgid "They've heard that many things won't work."
-msgstr ""
+msgstr "Eles já ouviram dizer que muitas coisas não vão funcionar."
 
 #: content/opt-green-handbook/handbook_web.md:540
 msgid "They fear they won't have support when problems arise."
-msgstr ""
+msgstr "Eles temem não ter apoio quando surgirem problemas."
 
 #: content/opt-green-handbook/handbook_web.md:541
 msgid "They don't know anyone else who uses FOSS."
 msgstr ""
+"Eles não conhecem mais ninguém que use software livre e de código aberto."
 
 #: content/opt-green-handbook/handbook_web.md:543
 msgid ""
 "And certainly more. It's important to consider these reasons in order to "
 "understand how to best address them. Some ideas that may help:"
 msgstr ""
+"E certamente há mais. É importante considerar esses motivos para entender a "
+"melhor forma de lidar com eles. Algumas ideias que podem ajudar:"
 
 #: content/opt-green-handbook/handbook_web.md:545
 msgid ""
@@ -12131,6 +13004,11 @@ msgid ""
 "or stand. Let users use a device and directly get a feel for how well it "
 "works. Many are surprised by how comfortable it is to use!"
 msgstr ""
+"Mostre, não conte! Sempre tenha um computador de demonstração para os "
+"usuários experimentarem. Isso pode ser feito no próprio evento de instalação "
+"ou antes, em uma apresentação pública ou estande. Deixe os usuários usarem o "
+"dispositivo e sentirem na prática como ele funciona. Muitos se surpreendem "
+"com o quão confortável é usá-lo!"
 
 #: content/opt-green-handbook/handbook_web.md:546
 msgid ""
@@ -12140,6 +13018,12 @@ msgid ""
 "other option but to buy new hardware&mdash;FOSS can be presented as a way to "
 "keep that device in use."
 msgstr ""
+"O fim do suporte de software é um ótimo momento para mencionar o FOSS como "
+"uma opção viável. Por exemplo, quando a Microsoft ou a Apple descontinuam o "
+"suporte para seus softwares proprietários &mdash; em alguns casos, deixando "
+"os usuários aparentemente sem outra opção a não ser comprar um novo hardware "
+"&mdash; o FOSS pode ser apresentado como uma forma de manter esse "
+"dispositivo em uso."
 
 #: content/opt-green-handbook/handbook_web.md:547
 msgid ""
@@ -12148,6 +13032,10 @@ msgid ""
 "out without spending any money, and they may be pleased by how well it works "
 "for them."
 msgstr ""
+"Como o usuário pode estar pronto para comprar um novo dispositivo de "
+"qualquer maneira, essa opção praticamente não apresenta riscos (desde que "
+"ele tenha feito backup de seus dados). Ele pode experimentar sem gastar nada "
+"e ficar satisfeito com o desempenho."
 
 #: content/opt-green-handbook/handbook_web.md:548
 msgid ""
@@ -12159,6 +13047,14 @@ msgid ""
 "software is faster and more responsive than the software the person "
 "currently uses."
 msgstr ""
+"Se você estiver realmente entusiasmado, considere demonstrar dispositivos "
+"que executam software livre e de código aberto (FOSS) que, de outra forma, "
+"seriam considerados lixo eletrônico em feiras ou festivais ambientais (e "
+"leve alguns [folhetos](https://invent.kde.org/teams/eco/opt-green/-/tree/"
+"master/materials/leaflets/EN/current-version) sobre os benefícios ambientais "
+"do FOSS). Isso por si só pode ser bastante convincente, especialmente quando "
+"o software é mais rápido e responsivo do que o software que a pessoa usa "
+"atualmente."
 
 #: content/opt-green-handbook/handbook_web.md:549
 msgid ""
@@ -12167,6 +13063,11 @@ msgid ""
 "proprietary software (e.g., Adobe products) or external hardware (e.g., "
 "specialized lab equipment) that does not work (well) with FOSS."
 msgstr ""
+"Entenda as necessidades de computação do usuário e ajude-o a avaliar se um "
+"sistema FOSS será adequado. Por exemplo, determine se o usuário depende de "
+"algum software proprietário (como produtos da Adobe) ou hardware externo "
+"(como equipamentos de laboratório especializados) que não funciona (bem) com "
+"o FOSS."
 
 #: content/opt-green-handbook/handbook_web.md:550
 msgid ""
@@ -12175,18 +13076,28 @@ msgid ""
 "different from what they're used to. Install it and let them try it out. And "
 "don't forget: It's ok if they decide the alternative is not right for them."
 msgstr ""
+"Pode ser útil salientar que outros aplicativos FOSS podem atender às suas "
+"necessidades &mdash; destacando que o software não é melhor nem pior, apenas "
+"diferente do que eles estão acostumados. Instale-o e deixe-os experimentar. "
+"E não se esqueça: não tem problema se eles decidirem que a alternativa não é "
+"a ideal para eles."
 
 #: content/opt-green-handbook/handbook_web.md:551
 msgid ""
 "Find out what peripherals they use such as printers and other external "
 "equipment and check if they are supported. If not, make that clear to them."
 msgstr ""
+"Descubra quais periféricos eles usam, como impressoras e outros equipamentos "
+"externos, e verifique se são compatíveis. Caso contrário, deixe isso claro "
+"para eles."
 
 #: content/opt-green-handbook/handbook_web.md:552
 msgid ""
 "Explain why updates are important to fix security vulnerabilities, and how "
 "this is true for all software."
 msgstr ""
+"Explique por que as atualizações são importantes para corrigir "
+"vulnerabilidades de segurança e como isso se aplica a todos os softwares."
 
 #: content/opt-green-handbook/handbook_web.md:553
 msgid ""
@@ -12197,6 +13108,13 @@ msgid ""
 "Windows-10-10351445.html) for what users can do before the End of Life for "
 "Windows 10, including installing Linux."
 msgstr ""
+"Sempre que possível, indique exemplos específicos para novos usuários. Às "
+"vezes, a mídia dá atenção à questão das vulnerabilidades de segurança em "
+"softwares. Por exemplo, o Escritório Federal Alemão para Segurança da "
+"Informação (BSI) [divulgou dicas](https://www.heise.de/en/news/BSI-gives-"
+"tips-on-the-end-of-support-for-Windows-10-10351445.html) sobre o que os "
+"usuários podem fazer antes do fim do suporte ao Windows 10, incluindo a "
+"instalação do Linux."
 
 #: content/opt-green-handbook/handbook_web.md:554
 msgid ""
@@ -12205,6 +13123,11 @@ msgid ""
 "or reach out to other local organizations and independent computer shops "
 "that offer FOSS support. Give this list to users before and after the event."
 msgstr ""
+"Faça uma lista de locais próximos que oferecem suporte fora do evento. Por "
+"exemplo, veja os [locais](https://endof10.org/places) listados no End Of 10 "
+"ou entre em contato com outras organizações locais e lojas de informática "
+"independentes que oferecem suporte a software livre e de código aberto "
+"(FOSS). Entregue essa lista aos usuários antes e depois do evento."
 
 #: content/opt-green-handbook/handbook_web.md:555
 msgid ""
@@ -12215,6 +13138,12 @@ msgid ""
 "contact with each other will help with informal support after installing a "
 "new OS."
 msgstr ""
+"Em vez de promover seu evento individualmente, divulgue-o para grupos de "
+"potenciais usuários. Por exemplo, entre em contato com uma escola, um grupo "
+"ambiental ou político, um coletivo, uma comunidade residencial, etc., e "
+"ofereça-se para realizar um evento ou ministrar um curso. Migrar vários "
+"usuários que já se comunicam regularmente facilitará o suporte informal após "
+"a instalação de um novo sistema operacional."
 
 #: content/opt-green-handbook/handbook_web.md:556
 msgid ""
@@ -12225,6 +13154,13 @@ msgid ""
 "local/2024/02/22/rhode-island-teens-are-fixing-junked-computers-and-learning-"
 "valuable-tech-skills/72340312007/)\""
 msgstr ""
+"Aqui está um exemplo de como a KDE trabalhou em conjunto com a comunidade de "
+"Desenvolvimento Comunitário Cabo-Verdiano-Americano em Rhode Island para "
+"atualizar dispositivos não utilizados: \"[Estes computadores quase foram "
+"para um aterro sanitário. Adolescentes estão revitalizando-os gratuitamente. "
+"Veja como.](https://eu.providencejournal.com/story/news/local/2024/02/22/"
+"rhode-island-teens-are-fixing-junked-computers-and-learning-valuable-tech-"
+"skills/72340312007/)\""
 
 #: content/opt-green-handbook/handbook_web.md:557
 msgid ""
@@ -12234,6 +13170,11 @@ msgid ""
 "org/web/20240905233749/https://engineering.upvest.co/posts/sponsoring-future-"
 "engineers/)\"."
 msgstr ""
+"Aqui está um exemplo de como o KDE Eco trabalhou em conjunto com uma escola "
+"em Hannover e uma empresa local que doou hardware para ensinar alunos do 9º "
+"ano sobre os benefícios ambientais do FOSS: \"[Academia de Jogos](https://"
+"web.archive.org/web/20240905233749/https://engineering.upvest.co/posts/"
+"sponsoring-future-engineers/)\"."
 
 #: content/opt-green-handbook/handbook_web.md:558
 msgid ""
@@ -12243,18 +13184,27 @@ msgid ""
 "upgrade-your-old-computer-to-linux). Perhaps some of the reasons there will "
 "resonate with your target audience."
 msgstr ""
+"Pense nos muitos benefícios de migrar para o FOSS e comunique isso "
+"claramente aos novos usuários. O site End Of 10 tem uma lista de [5 motivos "
+"para atualizar seu computador antigo para Linux](https://endof10.org/#5-"
+"reasons-to-upgrade-your-old-computer-to-linux). Talvez alguns desses motivos "
+"sejam relevantes para o seu público-alvo."
 
 #: content/opt-green-handbook/handbook_web.md:559
 msgid ""
 "Don't be a fanatic: Respect that user freedom also means users can choose "
 "differently than you!"
 msgstr ""
+"Não seja fanático: respeite o fato de que a liberdade do usuário também "
+"significa que os usuários podem escolher de forma diferente da sua!"
 
 #: content/opt-green-handbook/handbook_web.md:561
 msgid ""
 "These are just some ideas. Do you have more? Don't hesitate to reach out to "
 "us and we can add them to future versions of this handbook."
 msgstr ""
+"Estas são apenas algumas ideias. Você tem mais alguma? Não hesite em nos "
+"contatar e poderemos adicioná-las às futuras versões deste manual."
 
 #: content/opt-green-handbook/handbook_web.md:563
 msgid ""
@@ -12270,10 +13220,21 @@ msgid ""
 "BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) license.)](images/"
 "sec3_stands_lndw-umweltfestival.jpg)"
 msgstr ""
+"![O KDE Eco está presente na *Lange Nacht der Wissenschaften* ('Longa Noite "
+"das Ciências') no escritório da Agência Ambiental Alemã e no "
+"*Umweltfestival* ('Festival do Meio Ambiente'), ambos em Berlim, Alemanha. À "
+"esquerda, na foto, podem ser vistos três dispositivos executando sistemas "
+"operacionais FOSS. O dispositivo mais antigo (no meio) é de 2003 e executa "
+"software atualizado do Projeto Haiku, onde o pacote de software educacional "
+"do KDE [GCompris](https://apps.kde.org/gcompris/) é exibido na tela. As "
+"crianças brincavam com o computador enquanto os pais recebiam informações "
+"sobre como o FOSS pode manter os dispositivos em uso. (Imagens do KDE "
+"lançadas sob uma licença [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0."
+"html).)](images/sec3_stands_lndw-umweltfestival.jpg)"
 
 #: content/opt-green-handbook/handbook_web.md:565
 msgid "Venue, Logistics, and Outreach"
-msgstr ""
+msgstr "Local, logística e divulgação"
 
 #: content/opt-green-handbook/handbook_web.md:567
 msgid ""
@@ -12281,6 +13242,10 @@ msgid ""
 "about how to promote the event, it's time to start organizing the specifics. "
 "Here's a list of some main aspects you should consider:"
 msgstr ""
+"Assim que você e sua equipe de apoiadores de software livre estiverem "
+"prontos e tiverem algumas ideias sobre como promover o evento, é hora de "
+"começar a organizar os detalhes. Aqui está uma lista de alguns aspectos "
+"principais que você deve considerar:"
 
 #: content/opt-green-handbook/handbook_web.md:569
 msgid ""
@@ -12292,6 +13257,15 @@ msgid ""
 "nice to have food, drinks, stickers, penguin and gnu stuffed animals, FOSS "
 "guides, and other material to encourage and motivate new users."
 msgstr ""
+"Você precisará de um local e de todos os suprimentos necessários. Exemplos "
+"de lugares que podem oferecer salas gratuitas incluem bibliotecas, centros "
+"comunitários, cafés, igrejas, etc. Certifique-se de verificar a "
+"acessibilidade do prédio e a disponibilidade de banheiros, além de internet "
+"(opcional) e tomadas (essenciais). Você também precisará de extensões, "
+"réguas de tomadas, pen drives compatíveis com software livre e de código "
+"aberto e talvez DVDs. É legal ter comida, bebidas, adesivos, bichinhos de "
+"pelúcia de pinguim e gnu, guias de software livre e de código aberto e "
+"outros materiais para incentivar e motivar novos usuários."
 
 #: content/opt-green-handbook/handbook_web.md:571
 msgid ""
@@ -12301,6 +13275,12 @@ msgid ""
 "you find yourself in such a situation, having a USB WiFi dongle is helpful "
 "to install the necessary drivers, when available, after the fact."
 msgstr ""
+"Um adaptador USB Wi-Fi é útil caso o dispositivo não consiga se conectar à "
+"internet após a instalação. Esse problema costuma ocorrer em laptops da "
+"Apple com o driver proprietário da Broadcom e também pode acontecer com "
+"dispositivos Windows. Caso você se encontre nessa situação, ter um adaptador "
+"USB Wi-Fi pode ser útil para instalar os drivers necessários, quando "
+"disponíveis, posteriormente."
 
 #: content/opt-green-handbook/handbook_web.md:573
 msgid ""
@@ -12310,6 +13290,11 @@ msgid ""
 "org/code-of-conduct/) community, and there are many more examples with a "
 "quick search online."
 msgstr ""
+"Elabore um Código de Conduta (CdC) para voluntários e participantes. "
+"Certifique-se de que todos estejam cientes dele e tenham um plano para lidar "
+"com violações. Um exemplo de CdC da comunidade FOSS pode ser encontrado na "
+"comunidade [KDE](https://kde.org/code-of-conduct/), e há muitos outros "
+"exemplos com uma rápida pesquisa online."
 
 #: content/opt-green-handbook/handbook_web.md:575
 msgid ""
@@ -12323,6 +13308,17 @@ msgid ""
 "(see [here](https://nachhaltig-in-graz.at/linux-statt-microsoft/) for an "
 "example in Graz, Austria)."
 msgstr ""
+"Divulgue a informação, online e offline. Se você for voluntário em alguma "
+"organização, pergunte quais são as iniciativas de divulgação que eles estão "
+"realizando. Cole cartazes no seu bairro, na universidade, no escritório, na "
+"biblioteca, no supermercado e no centro comunitário; imprima panfletos e "
+"distribua-os; publique sobre o evento nas redes sociais. Se houver grupos "
+"ambientalistas ou de direitos humanos (mesmo que não sejam da área de "
+"tecnologia), entre em contato com eles também. O lixo eletrônico e a "
+"obsolescência programada são temas diretamente relevantes para ambos os "
+"grupos, e eles podem até mesmo promover o evento (veja [aqui](https://"
+"nachhaltig-in-graz.at/linux-statt-microsoft/) para um exemplo em Graz, "
+"Áustria)."
 
 #: content/opt-green-handbook/handbook_web.md:577
 msgid ""
@@ -12333,6 +13329,13 @@ msgid ""
 "the end of support for Windows 10 or when collaborating with environmental "
 "or socially-oriented communities."
 msgstr ""
+"A mídia local é uma maneira eficaz de alcançar pessoas em sua região. "
+"Publique um anúncio no jornal local, escreva para jornalistas locais, entre "
+"em contato com estações de rádio locais, podcasts e outras organizações com "
+"amplo alcance. Isso é particularmente eficaz se a sua divulgação tiver uma "
+"história com bom apelo midiático, como o fim do suporte para o Windows 10 ou "
+"ao colaborar com comunidades voltadas para o meio ambiente ou para causas "
+"sociais."
 
 #: content/opt-green-handbook/handbook_web.md:579
 msgid ""
@@ -12340,10 +13343,13 @@ msgid ""
 "individuals. It is easier to overcome network effects and get support when "
 "your social circle is using FOSS!"
 msgstr ""
+"E não se esqueça: convide grupos e comunidades inteiras, não apenas "
+"indivíduos. É mais fácil superar os efeitos de rede e obter apoio quando seu "
+"círculo social usa software livre e de código aberto!"
 
 #: content/opt-green-handbook/handbook_web.md:581
 msgid "Securing User Data: Before Or During The Event?"
-msgstr ""
+msgstr "Proteger os dados do usuário: antes ou durante o evento?"
 
 #: content/opt-green-handbook/handbook_web.md:583
 msgid ""
@@ -12351,6 +13357,10 @@ msgid ""
 "device. This is important enough to repeat: it is critical to have backups "
 "of all data before installing anything. Do not skip this step!"
 msgstr ""
+"Antes de instalar qualquer coisa, é fundamental ter backups de todos os "
+"dados no dispositivo. Isso é tão importante que vale a pena repetir: é "
+"fundamental ter backups de todos os dados antes de instalar qualquer coisa. "
+"Não pule esta etapa!"
 
 #: content/opt-green-handbook/handbook_web.md:585
 msgid ""
@@ -12361,6 +13371,13 @@ msgid ""
 "that backing up user data can take a lot of time. Either way, make sure "
 "visitors know what you expect before they arrive."
 msgstr ""
+"Os backups de dados podem ser feitos antes ou durante o evento. De qualquer "
+"forma, sua comunicação deve deixar claro o que você espera. A desvantagem de "
+"fazer backups *antes* do evento é que alguns usuários podem não saber como "
+"fazê-los e, portanto, não comparecer. A desvantagem de fazê-los *durante* o "
+"evento é que o backup dos dados dos usuários pode levar muito tempo. Seja "
+"como for, certifique-se de que os visitantes saibam o que você espera antes "
+"de chegarem."
 
 #: content/opt-green-handbook/handbook_web.md:587
 msgid ""
@@ -12372,14 +13389,23 @@ msgid ""
 "their data before the event. And since you are likely organizing multiple "
 "events, they can come to the next one to install their new OS."
 msgstr ""
+"No projeto Opte pelo Verde, percebemos que muitas pessoas guardam "
+"dispositivos antigos como arquivos de seus dados, sem se darem conta de que "
+"esses dados podem ser armazenados com segurança em um disco rígido externo, "
+"liberando o dispositivo para outros usos. Talvez você queira ter uma mesa no "
+"seu evento dedicada ao backup de dados dos usuários. Isso pode facilitar o "
+"processo para novos usuários, sem tomar o tempo daqueles que já protegeram "
+"seus dados antes do evento. E, como você provavelmente está organizando "
+"vários eventos, eles podem vir ao próximo para instalar o novo sistema "
+"operacional."
 
 #: content/opt-green-handbook/handbook_web.md:589
 msgid "Stage 3. During Install Events"
-msgstr ""
+msgstr "Etapa 3. Durante os eventos de instalação"
 
 #: content/opt-green-handbook/handbook_web.md:591
 msgid "Showing, Not Telling"
-msgstr ""
+msgstr "Mostrar, não contar"
 
 #: content/opt-green-handbook/handbook_web.md:593
 msgid ""
@@ -12392,6 +13418,16 @@ msgid ""
 "misconceptions. Once they see that FOSS works as one would expect from any "
 "modern OS, many fears are quickly abated."
 msgstr ""
+"Melhor ainda do que simplesmente dizer a um usuário curioso o que o software "
+"livre e de código aberto (FOSS) pode fazer, mostre a ele. Tenha um "
+"computador de demonstração pronto ou inicialize em um ambiente live (embora "
+"seja preciso ter cuidado para que nada seja bloqueado permanentemente ao "
+"inicializar a partir de uma unidade USB, como pode acontecer com o BitLocker "
+"do Windows; veja [aqui](https://documentation.ubuntu.com/desktop/en/latest/"
+"reference/bitlocker-during-ubuntu-installation/)). Às vezes, apenas ver um "
+"computador executando FOSS pode desmistificar as ideias preconcebidas das "
+"pessoas. Assim que elas veem que o FOSS funciona como se espera de qualquer "
+"sistema operacional moderno, muitos receios desaparecem rapidamente."
 
 #: content/opt-green-handbook/handbook_web.md:595
 msgid ""
@@ -12403,6 +13439,15 @@ msgid ""
 "or ask if they are interested in learning more. For most users, what they "
 "are looking for is the simplest way to get something done. Give that to them!"
 msgstr ""
+"Sempre que possível, priorize interfaces familiares. O que isso significa? "
+"Por exemplo, quando um software puder ser instalado por meio de uma "
+"interface gráfica, use-a em vez da linha de comando. Para muitos novos "
+"usuários, as interfaces de linha de comando apenas reforçam a ideia de que o "
+"software livre e de código aberto (FOSS) é para especialistas. Se for "
+"absolutamente necessário realizar alguma ação pela linha de comando, "
+"explique que eles não precisarão fazer isso ou pergunte se têm interesse em "
+"aprender mais. A maioria dos usuários busca a maneira mais simples de "
+"realizar uma tarefa. Ofereça isso a eles!"
 
 #: content/opt-green-handbook/handbook_web.md:597
 msgid ""
@@ -12411,10 +13456,15 @@ msgid ""
 "(Screenshot from Aakarsh MJ published under a [CC-BY-4.0](https://spdx.org/"
 "licenses/CC-BY-4.0.html) license.)](images/sec3_konsole.png)"
 msgstr ""
+"![Captura de tela do blog KDE Eco mostrando uma interface de linha de "
+"comando no [Konsole](https://apps.kde.org/konsole/). Isso é realmente "
+"assustador para muitos novos usuários! (Captura de tela de Aakarsh MJ "
+"publicada sob uma licença [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0."
+"html).)](images/sec3_konsole.png)"
 
 #: content/opt-green-handbook/handbook_web.md:599
 msgid "Getting To Know A User's Computing Needs"
-msgstr ""
+msgstr "Conhecendo as necessidades de informática de um usuário"
 
 #: content/opt-green-handbook/handbook_web.md:601
 msgid ""
@@ -12431,6 +13481,20 @@ msgid ""
 "computer? What do they want to do with it? What software do they need or use "
 "regularly?"
 msgstr ""
+"Antes de instalar qualquer coisa, procure entender as necessidades da pessoa "
+"que você está ajudando e informe-a sobre as diferenças e semelhanças entre o "
+"software livre e de código aberto (FOSS). Peça para ela experimentar o FOSS "
+"em um ambiente real ou em um computador de demonstração. Descubra o que o "
+"usuário precisa fazer. Para muitos usuários, isso pode não ser claro nem "
+"para eles mesmos. Por esse motivo, alguns eventos incluem questionários "
+"curtos para os usuários preencherem juntos. Veja [aqui](https://invent.kde."
+"org/teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-support."
+"md#forms) para links para alguns exemplos de formulários, inclusive para "
+"coletar informações de hardware. Dependendo do nível de complexidade técnica "
+"do formulário (e formulários muito técnicos podem afastar um visitante), "
+"preencha-os junto com o usuário. Algumas informações gerais incluem: Qual a "
+"idade do computador? O que a pessoa pretende fazer com ele? Quais softwares "
+"ela precisa ou usa regularmente?"
 
 #: content/opt-green-handbook/handbook_web.md:603
 msgid ""
@@ -12441,6 +13505,13 @@ msgid ""
 "user's operating system. You do not want to leave a person unable to do what "
 "they need to do with their computer for work!"
 msgstr ""
+"As necessidades de um usuário são frequentemente determinadas pelo seu "
+"trabalho ou estudo, o que pode apresentar obstáculos intransponíveis. Se "
+"você precisa de um programa de computador específico e ele só funciona em um "
+"sistema operacional que não seja de código aberto (FOSS), será difícil ou "
+"impossível mudar. É importante estar ciente desses obstáculos antes de "
+"alterar o sistema operacional de um usuário. Você não quer deixar uma pessoa "
+"impossibilitada de usar o computador para o trabalho!"
 
 #: content/opt-green-handbook/handbook_web.md:605
 msgid ""
@@ -12451,6 +13522,12 @@ msgid ""
 "meet the user's needs. Show these options to new users. Look online for many "
 "suggestions."
 msgstr ""
+"Para alguns aplicativos proprietários, pode haver uma versão online do "
+"software disponível (por exemplo, o Microsoft Word também possui uma versão "
+"online). Considere essas opções, pois isso pode reduzir o atrito na "
+"transição entre sistemas operacionais. Existem também muitas alternativas ao "
+"software proprietário que podem atender às necessidades do usuário. "
+"Apresente essas opções aos novos usuários. Busque sugestões online."
 
 #: content/opt-green-handbook/handbook_web.md:607
 msgid ""
@@ -12464,10 +13541,21 @@ msgid ""
 "at your event, let them know that they can play many of their games on their "
 "new OS. There are even distros tailored specifically for gaming."
 msgstr ""
+"Em alguns casos, pode ser possível executar software do Windows em um "
+"sistema FOSS usando uma camada de compatibilidade como o [Wine](https://www."
+"winehq.org/) ou software baseado no Wine, como o [Proton](https://github.com/"
+"ValveSoftware/Proton) para jogos. Esta é uma solução mais técnica e pode não "
+"funcionar em todos os casos. O Wine possui um [banco de dados](https://www."
+"winehq.org/) de software que comprovadamente funciona, e o Proton possui um "
+"[banco de dados](https://www.protondb.com/) semelhante, mas para jogos. Na "
+"verdade, os jogos no Linux evoluíram muito. Se você tiver jogadores em seu "
+"evento, informe-os de que podem jogar muitos de seus jogos em seu novo "
+"sistema operacional. Existem até distribuições Linux feitas sob medida para "
+"jogos."
 
 #: content/opt-green-handbook/handbook_web.md:609
 msgid "Securing User Data"
-msgstr ""
+msgstr "Protegendo os dados do usuário"
 
 #: content/opt-green-handbook/handbook_web.md:611
 msgid ""
@@ -12478,6 +13566,13 @@ msgid ""
 "Hilpoltstein has a [guide](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/pc-upgrades/festplatte-austauschen) (in German) for how to do this."
 msgstr ""
+"Veja acima se deve fazer backups de dados antes ou durante o evento. A "
+"maneira mais simples de fazer backup dos dados é copiar e colar manualmente "
+"os dados para um disco rígido externo. Outra opção é oferecer unidades SSD "
+"para substituir o HDD e manter a unidade antiga como backup completo do "
+"sistema. A Repair Café Hilpoltstein tem um [guia](https://www.repaircafe-"
+"hilpoltstein.de/offene-werkstatt/pc-upgrades/festplatte-austauschen) (em "
+"alemão) sobre como fazer isso."
 
 #: content/opt-green-handbook/handbook_web.md:613
 msgid ""
@@ -12486,6 +13581,10 @@ msgid ""
 "drive at cost and give the users the receipt to avoid legal issues. Inform "
 "yourself first before doing so."
 msgstr ""
+"Se você estiver trabalhando com uma organização sem fins lucrativos, pode "
+"haver problemas com a venda de SSDs no evento. Alguns voluntários nos "
+"disseram que vendem o SSD a preço de custo e entregam o recibo aos usuários "
+"para evitar problemas legais. Informe-se bem antes de fazer isso."
 
 #: content/opt-green-handbook/handbook_web.md:615
 msgid ""
@@ -12493,6 +13592,10 @@ msgid ""
 "if they know. And they may not! Many browsers store passwords, so you may "
 "want to back up that data as well just to be safe."
 msgstr ""
+"Muitas vezes, é negligenciado descobrir onde as senhas dos usuários são "
+"armazenadas. Pergunte aos usuários se eles sabem. E eles podem não saber! "
+"Muitos navegadores armazenam senhas, então talvez seja uma boa ideia fazer "
+"um backup desses dados também, por precaução."
 
 #: content/opt-green-handbook/handbook_web.md:617
 msgid ""
@@ -12502,35 +13605,45 @@ msgid ""
 "about privacy and the like. Use what they use, and offer to show them "
 "alternatives if they're interested."
 msgstr ""
+"Se um usuário tiver dados salvos na nuvem, isso também pode ser usado para "
+"migrar seus dados para o novo sistema. Embora você possa ter opiniões sobre "
+"as plataformas que outros usam, provavelmente não é o momento de entrar em "
+"um debate sobre privacidade e assuntos semelhantes. Use o que eles usam e "
+"ofereça-se para mostrar alternativas, caso estejam interessados."
 
 #: content/opt-green-handbook/handbook_web.md:619
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Installing A FOSS Operating System"
-msgstr "Baixar um sistema operacional FOSS"
+msgstr "Instalando um sistema operacional FOSS"
 
 #: content/opt-green-handbook/handbook_web.md:621
 msgid ""
 "Make sure all user data is backed up and secure before doing anything else. "
 "It is also important to have a disclaimer before the event, such as:"
 msgstr ""
+"Certifique-se de que todos os dados do usuário estejam salvos em backup e "
+"seguros antes de qualquer outra ação. Também é importante incluir um aviso "
+"legal antes do evento, como:"
 
 #: content/opt-green-handbook/handbook_web.md:623
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
+"Esta é uma ajuda voluntária para mostrar aos novos usuários como eles podem "
+"se ajudar."
 
 #: content/opt-green-handbook/handbook_web.md:624
 msgid "No contract is being established."
-msgstr ""
+msgstr "Nenhum contrato está sendo estabelecido."
 
 #: content/opt-green-handbook/handbook_web.md:625
 msgid "Devices and data can break when you touch them."
-msgstr ""
+msgstr "Dispositivos e dados podem quebrar quando você toca neles."
 
 #: content/opt-green-handbook/handbook_web.md:626
 msgid ""
 "Attendees are responsible for their devices and for having data backups."
 msgstr ""
+"Os participantes são responsáveis ​​por seus dispositivos e por fazer backups "
+"de dados."
 
 #: content/opt-green-handbook/handbook_web.md:628
 msgid ""
@@ -12538,6 +13651,9 @@ msgid ""
 "computer! Ideally you will not need to touch the device, as the user can "
 "learn how to do everything on their own with your guidance."
 msgstr ""
+"Dica: É sempre uma boa prática pedir permissão antes de mexer no computador "
+"de outra pessoa! O ideal é que você não precise tocar no dispositivo, pois o "
+"usuário pode aprender a fazer tudo sozinho com a sua orientação."
 
 #: content/opt-green-handbook/handbook_web.md:630
 msgid ""
@@ -12548,22 +13664,29 @@ msgid ""
 "legalprotection.html). Check with the relevant authorities to be certain "
 "these documents are legally binding."
 msgstr ""
+"A declaração de isenção de responsabilidade pode ser apresentada oralmente, "
+"mas também é recomendável tê-la por escrito e assinada antes de instalar "
+"qualquer coisa. Se você achar necessário, existem documentos legais "
+"disponíveis em iniciativas de reparo, bem como no [The Linux Document "
+"Project](https://tldp.org/HOWTO/Installfest-HOWTO/legalprotection.html). "
+"Consulte as autoridades competentes para garantir que esses documentos "
+"tenham validade legal."
 
 #: content/opt-green-handbook/handbook_web.md:632
 msgid "The installation process generally follows these 3 steps:"
-msgstr ""
+msgstr "O processo de instalação geralmente segue estes 3 passos:"
 
 #: content/opt-green-handbook/handbook_web.md:634
 msgid "Prepare a bootable USB drive or DVD"
-msgstr ""
+msgstr "Prepare uma unidade USB ou DVD inicializável"
 
 #: content/opt-green-handbook/handbook_web.md:635
 msgid "Enter into BIOS and boot from the drive"
-msgstr ""
+msgstr "Entre na BIOS e inicialize a partir da unidade"
 
 #: content/opt-green-handbook/handbook_web.md:636
 msgid "Install the OS"
-msgstr ""
+msgstr "Instale o SO"
 
 #: content/opt-green-handbook/handbook_web.md:638
 msgid ""
@@ -12574,6 +13697,13 @@ msgid ""
 "recommend doing so to make sure the file is not corrupt and it is the "
 "intended software released by the developers."
 msgstr ""
+"Existem inúmeros guias online para todas as distribuições sobre como "
+"preparar uma unidade inicializável. Também existem softwares multiplataforma "
+"para preparar a unidade, como o Fedora Media Writer e o [Rufus](https://"
+"rufus.ie/). Verificar o arquivo ou imagem ISO baixado exigirá algumas etapas "
+"adicionais, mas recomendamos fazê-lo para garantir que o arquivo não esteja "
+"corrompido e que seja o software original disponibilizado pelos "
+"desenvolvedores."
 
 #: content/opt-green-handbook/handbook_web.md:640
 msgid ""
@@ -12584,6 +13714,13 @@ msgid ""
 "released under a [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-"
 "sa/4.0/legalcode) license.)](images/sec3_FMW-select-image-source1.png)"
 msgstr ""
+"![Captura de tela do Fedora Media Writer. O processo não poderia ser mais "
+"fácil: escolha qual sistema operacional instalar, selecione a unidade USB na "
+"qual gravar, tome um gole de chá lentamente e pronto! Você tem uma unidade "
+"USB inicializável. ([Imagem](https://docs.fedoraproject.org/en-US/fedora/"
+"latest/preparing-boot-media/) do Fedora, lançada sob uma licença [CC-BY-"
+"SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).)](images/"
+"sec3_FMW-select-image-source1.png)"
 
 #: content/opt-green-handbook/handbook_web.md:642
 msgid ""
@@ -12594,6 +13731,14 @@ msgid ""
 "Umstieg_auf_Linux#Von_Bootmedium_starten) for a table of devices and key "
 "combinations needed to enter BIOS or boot menu."
 msgstr ""
+"Para iniciar o BIOS ou o menu de inicialização, você deve pressionar e "
+"manter pressionada uma tecla específica durante a inicialização (geralmente "
+"F2, F10, F12, Esc, etc. para dispositivos Windows e a tecla Option para "
+"dispositivos Apple). Nesse momento, você pode selecionar a unidade da qual "
+"deseja inicializar. Consulte [aqui](https://lug-vs.org/index.php/"
+"Umstieg_auf_Linux#Von_Bootmedium_starten) para obter uma tabela de "
+"dispositivos e combinações de teclas necessárias para entrar no BIOS ou no "
+"menu de inicialização."
 
 #: content/opt-green-handbook/handbook_web.md:644
 msgid ""
@@ -12609,6 +13754,17 @@ msgid ""
 "if everything works in the live environment, this is not a guarantee it will "
 "work after installation."
 msgstr ""
+"Recomendamos iniciar o sistema em um ambiente \"live\". Isso permite que o "
+"usuário experimente o software em seu próprio dispositivo antes de instalar "
+"qualquer coisa (certifique-se de que o [BitLocker](https://documentation."
+"ubuntu.com/desktop/en/latest/reference/bitlocker-during-ubuntu-"
+"installation/) esteja desativado em um dispositivo Windows ou tenha uma "
+"chave de recuperação do BitLocker disponível caso o usuário fique bloqueado "
+"no sistema). No ambiente \"live\", é uma boa oportunidade para testar o Wi-"
+"Fi, a webcam etc., para garantir que tudo funcione corretamente antes da "
+"instalação. Se algo não funcionar, isso indica que etapas adicionais serão "
+"necessárias após a instalação. No entanto, mesmo que tudo funcione no "
+"ambiente \"live\", isso não garante que funcionará após a instalação."
 
 #: content/opt-green-handbook/handbook_web.md:646
 msgid ""
@@ -12617,18 +13773,23 @@ msgid ""
 "step. A common issue after installation is forgetting the new password, and "
 "even sometimes the username!"
 msgstr ""
+"Durante a instalação, será necessário criar um novo nome de usuário, senha, "
+"etc. Peça ao usuário para anotá-los em um pedaço de papel. Não pule esta "
+"etapa. Um problema comum após a instalação é esquecer a nova senha e, às "
+"vezes, até mesmo o nome de usuário!"
 
 #: content/opt-green-handbook/handbook_web.md:648
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Using The FOSS Operating System"
-msgstr "Baixar um sistema operacional FOSS"
+msgstr "Usando o sistema operacional FOSS"
 
 #: content/opt-green-handbook/handbook_web.md:650
 msgid ""
 "At this point you'll want to show the user how to do things in their new OS. "
 "Some tips so they can use their new system:"
 msgstr ""
+"Neste ponto, você vai querer mostrar ao usuário como realizar tarefas no "
+"novo sistema operacional. Algumas dicas para que ele possa usar o novo "
+"sistema:"
 
 #: content/opt-green-handbook/handbook_web.md:652
 msgid ""
@@ -12636,28 +13797,38 @@ msgid ""
 "volume adjustment, printer administration, and so on (it helps to let them "
 "do this on their own and have them ask questions)"
 msgstr ""
+"Ajudar as pessoas a navegar pelo novo sistema, como o menu de aplicativos, a "
+"central de software, o ajuste de volume, a administração da impressora e "
+"assim por diante (é útil deixá-las fazer isso sozinhas e incentivá-las a "
+"tirar dúvidas)."
 
 #: content/opt-green-handbook/handbook_web.md:653
 msgid "Installing or unsinstalling applications"
-msgstr ""
+msgstr "Instalando e desinstalando aplicativos"
 
 #: content/opt-green-handbook/handbook_web.md:654
 msgid ""
 "Updating the system and applications (completing this action may take some "
 "time)"
 msgstr ""
+"Atualização do sistema e dos aplicativos (a conclusão desta ação pode levar "
+"algum tempo)"
 
 #: content/opt-green-handbook/handbook_web.md:655
 msgid ""
 "Copying the user's backed up data onto the new OS (completing this action "
 "may take some time)"
 msgstr ""
+"Copiar os dados de backup do usuário para o novo sistema operacional (esta "
+"ação pode levar algum tempo)"
 
 #: content/opt-green-handbook/handbook_web.md:656
 msgid ""
 "Optional: Setting up automated backup software with their external hard "
 "drive (completing this action may take some time)"
 msgstr ""
+"Opcional: Configurar um software de backup automático com o disco rígido "
+"externo (esta ação pode demorar um pouco)"
 
 #: content/opt-green-handbook/handbook_web.md:658
 msgid ""
@@ -12667,6 +13838,11 @@ msgid ""
 "released under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
 "license.)](images/sec3_plasma-discover.png)"
 msgstr ""
+"![Imagem do [Discover](https://apps.kde.org/discover/) no KDE Plasma. O "
+"Discover é usado para atualizar o sistema, bem como para encontrar e "
+"instalar aplicativos, jogos e ferramentas usando vários repositórios. "
+"(Imagem do KDE lançada sob uma licença [CC-BY-4.0](https://spdx.org/licenses/"
+"CC-BY-4.0.html).)](images/sec3_plasma-discover.png)"
 
 #: content/opt-green-handbook/handbook_web.md:660
 msgid ""
@@ -12676,10 +13852,16 @@ msgid ""
 "with a software or package manager. Explain that this is the recommended way "
 "to install and update software in the FOSS ecosystem."
 msgstr ""
+"Pode ser útil demonstrar como a instalação de software difere do sistema que "
+"utilizavam anteriormente. Ao contrário dos sistemas operacionais "
+"proprietários, a instalação e desinstalação de aplicativos, bem como as "
+"atualizações de software, são geralmente feitas com um gerenciador de "
+"pacotes. Explique que essa é a maneira recomendada de instalar e atualizar "
+"software no ecossistema FOSS."
 
 #: content/opt-green-handbook/handbook_web.md:662
 msgid "Stage 4. After Install Events"
-msgstr ""
+msgstr "Etapa 4. Após os eventos de instalação"
 
 #: content/opt-green-handbook/handbook_web.md:664
 msgid ""
@@ -12688,28 +13870,39 @@ msgid ""
 "smoothly, but getting used to the new OS will in many cases require "
 "additional help, such as:"
 msgstr ""
+"Embora abordemos isso brevemente aqui, não subestime a importância de "
+"oferecer suporte posterior. A instalação em si pode ocorrer sem problemas, "
+"mas a adaptação ao novo sistema operacional exigirá, em muitos casos, ajuda "
+"adicional, como:"
 
 #: content/opt-green-handbook/handbook_web.md:666
 msgid ""
 "They have specific software needs (e.g., applications they use for work, tax "
 "software) and need extra guidance."
 msgstr ""
+"Eles têm necessidades específicas de software (por exemplo, aplicativos que "
+"usam para o trabalho, software de impostos) e precisam de orientação "
+"adicional."
 
 #: content/opt-green-handbook/handbook_web.md:667
 msgid ""
 "They have peripheral devices (e.g., printers, scanners) that do not seem to "
 "work with their new operating system."
 msgstr ""
+"Eles possuem dispositivos periféricos (por exemplo, impressoras, scanners) "
+"que parecem não funcionar com o novo sistema operacional."
 
 #: content/opt-green-handbook/handbook_web.md:668
 msgid "An update seems to have broken their system."
-msgstr ""
+msgstr "Aparentemente, uma atualização quebrou o sistema deles."
 
 #: content/opt-green-handbook/handbook_web.md:669
 msgid ""
 "Their bootloader appears to be broken (all too often the case with dual boot "
 "setups)."
 msgstr ""
+"O carregador de inicialização deles parece estar corrompido (algo muito "
+"comum em configurações de inicialização dupla)."
 
 #: content/opt-green-handbook/handbook_web.md:671
 msgid ""
@@ -12717,6 +13910,9 @@ msgid ""
 "a new user may not have. In other cases, it may take more work and time on "
 "the side of the helper."
 msgstr ""
+"Em alguns casos, esses problemas são fáceis de resolver, mas exigem "
+"conhecimento técnico que um novo usuário pode não ter. Em outros casos, pode "
+"exigir mais trabalho e tempo por parte do assistente."
 
 #: content/opt-green-handbook/handbook_web.md:673
 msgid ""
@@ -12725,6 +13921,11 @@ msgid ""
 "and not all use cases will always be covered in pre-install consultation. Be "
 "prepared to help new users as these unexpected issues come up."
 msgstr ""
+"Em relação às necessidades específicas de software de um usuário, o ideal é "
+"que elas sejam identificadas *antes* da instalação de qualquer coisa. No "
+"entanto, é fácil deixar algo passar e nem todos os casos de uso serão "
+"abordados na consulta pré-instalação. Esteja preparado para ajudar novos "
+"usuários à medida que esses problemas inesperados surgirem."
 
 #: content/opt-green-handbook/handbook_web.md:675
 msgid ""
@@ -12732,6 +13933,11 @@ msgid ""
 "once a month), if you have the capacity to do so. Letting new users know "
 "they won't be alone when issues arise can really lower barriers to adoption."
 msgstr ""
+"Recomendamos que você ofereça horários regulares de consulta sobre software "
+"livre e de código aberto (por exemplo, uma vez por semana ou uma vez por "
+"mês), se tiver disponibilidade. Informar aos novos usuários que eles não "
+"estarão sozinhos quando surgirem problemas pode realmente reduzir as "
+"barreiras à adoção."
 
 #: content/opt-green-handbook/handbook_web.md:677
 msgid ""
@@ -12740,6 +13946,10 @@ msgid ""
 "offer FOSS support, even for a fee, make a list and give this to attendees "
 "at your events."
 msgstr ""
+"Se você estiver organizando vários eventos, informe aos usuários a data e o "
+"horário dos próximos eventos. Se houver outras organizações em sua área que "
+"oferecem suporte a software livre e de código aberto (FOSS), mesmo que pago, "
+"faça uma lista e distribua-a aos participantes dos seus eventos."
 
 #: content/opt-green-handbook/handbook_web.md:679
 msgid ""
@@ -12751,6 +13961,13 @@ msgid ""
 "online for help. Make a list of the forums and mailing lists which are "
 "relevant for their new operating system."
 msgstr ""
+"Não se esqueça de demonstrar como eles também podem se ajudar. Há uma "
+"infinidade de recursos online, e embora estes não sejam para todos (muitos "
+"usuários só querem que o computador funcione e não estão dispostos a ler "
+"posts em fóruns, muito menos criar uma conta para fazer uma pergunta), "
+"alguns participantes se beneficiarão ao saber que existem recursos online "
+"para obter ajuda. Faça uma lista dos fóruns e listas de discussão relevantes "
+"para o novo sistema operacional deles."
 
 #: content/opt-green-handbook/handbook_web.md:681
 msgid ""
@@ -12758,30 +13975,42 @@ msgid ""
 "(published under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5."
 "html) license).](images/sec3_tech_support_cheat_sheet.png)"
 msgstr ""
+"![Quadrinho XKCD [\"627: Guia Rápido de Suporte Técnico\"](https://xkcd."
+"com/627/) (publicado sob uma licença [CC-BY-NC-2.5](https://spdx.org/"
+"licenses/CC-BY-NC-2.5.html)).](images/sec3_tech_support_cheat_sheet.png)"
 
 #: content/opt-green-handbook/handbook_web.md:683
 msgid ""
 "For online support, it helps to demonstrate a workflow for resolving "
 "problems. This includes:"
 msgstr ""
+"Para suporte online, é útil demonstrar um fluxo de trabalho para a resolução "
+"de problemas. Isso inclui:"
 
 #: content/opt-green-handbook/handbook_web.md:685
 msgid ""
 "Always having a recent backup. If something goes wrong, having a backup "
 "makes it much easier to start over without risk of data loss."
 msgstr ""
+"Tenha sempre um backup recente. Se algo der errado, ter um backup facilita "
+"muito recomeçar do zero sem o risco de perda de dados."
 
 #: content/opt-green-handbook/handbook_web.md:686
 msgid ""
 "Read error messages. In many cases, the error message will give you critical "
 "information for fixing an issue."
 msgstr ""
+"Leia as mensagens de erro. Em muitos casos, a mensagem de erro fornecerá "
+"informações cruciais para a resolução do problema."
 
 #: content/opt-green-handbook/handbook_web.md:687
 msgid ""
 "Search online for solutions. It sometimes helps to paste the error message "
 "along with \"solved\" in a search engine to find a solution more quickly."
 msgstr ""
+"Procure soluções online. Às vezes, colar a mensagem de erro junto com "
+"\"resolvido\" em um mecanismo de busca ajuda a encontrar uma solução mais "
+"rapidamente."
 
 #: content/opt-green-handbook/handbook_web.md:688
 msgid ""
@@ -12789,6 +14018,9 @@ msgid ""
 "Read the entire post first to see if the suggested solutions actually helped "
 "before trying something yourself."
 msgstr ""
+"Leia as postagens do fórum. Não tente copiar e colar comandos do terminal "
+"aleatoriamente. Leia a postagem inteira primeiro para ver se as soluções "
+"sugeridas realmente ajudaram antes de tentar algo por conta própria."
 
 #: content/opt-green-handbook/handbook_web.md:689
 msgid ""
@@ -12799,6 +14031,13 @@ msgid ""
 "about the internet, after all&mdash;but don't let it get to you. Many more "
 "will be patient and helpful. Focus your energy on them!"
 msgstr ""
+"Publique seu problema em um fórum. Encontre o fórum certo, inclua "
+"informações sobre o sistema (software, versão, hardware, ações que "
+"desencadearam o problema para que outros possam reproduzi-lo, quaisquer "
+"mensagens de erro) e seja gentil e agradecido. Algumas pessoas podem parecer "
+"rudes &mdash; afinal, estamos falando da internet &mdash; mas não se deixe "
+"abalar. Muitas outras serão pacientes e prestativas. Concentre sua energia "
+"nelas!"
 
 #: content/opt-green-handbook/handbook_web.md:691
 msgid ""
@@ -12806,6 +14045,9 @@ msgid ""
 "and answer questions about KDE Plasma on various distros.](images/"
 "sec3_discuss-kde-org.png)"
 msgstr ""
+"![Captura de tela do [fórum do KDE](https://discuss.kde.org/), onde os "
+"usuários podem fazer e responder perguntas sobre o KDE Plasma em várias "
+"distribuições.](images/sec3_discuss-kde-org.png)"
 
 #: content/opt-green-handbook/handbook_web.md:693
 msgid ""
@@ -12814,22 +14056,27 @@ msgid ""
 "of any legal issues this can present and that the organization behind the "
 "event is ok with it."
 msgstr ""
+"Algumas pessoas oferecem suporte adicional remunerado fora dos eventos. Se "
+"você for um voluntário e decidir fazer isso, certifique-se de estar ciente "
+"de quaisquer questões legais que isso possa acarretar e de que a organização "
+"do evento esteja de acordo."
 
 #: content/opt-green-handbook/handbook_web.md:695
-#, fuzzy
-#| msgid "Resources"
 msgid "Additional Resources"
-msgstr "Recursos"
+msgstr "Recursos adicionais"
 
 #: content/opt-green-handbook/handbook_web.md:697
 msgid "Organizing An Install Event"
-msgstr ""
+msgstr "Organizando um evento de instalação"
 
 #: content/opt-green-handbook/handbook_web.md:699
 msgid ""
 "More can be found at [New User Support Awesome List](https://invent.kde.org/"
 "teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md)."
 msgstr ""
+"Mais informações podem ser encontradas em [Lista Incrível de Suporte para "
+"Novos Usuários](https://invent.kde.org/teams/eco/opt-green/-/blob/master/"
+"awesome-list-new-user-linux-support.md)."
 
 #: content/opt-green-handbook/handbook_web.md:701
 msgid ""
@@ -12837,6 +14084,9 @@ msgid ""
 "organize-an-install-party) -- Short guide to organizing an install party, "
 "from the End Of 10 campaign FAQ (2025)"
 msgstr ""
+"[Como organizar uma festa de instalação?](https://endof10.org/faq/#how-do-i-"
+"organize-an-install-party) -- Guia rápido para organizar uma festa de "
+"instalação, do FAQ da campanha End of 10 (2025)"
 
 #: content/opt-green-handbook/handbook_web.md:702
 msgid ""
@@ -12844,6 +14094,9 @@ msgid ""
 "Umstieg_auf_Linux) -- Preparing for a Linux install party, from LUG "
 "Villingen-Schwenningen e.V. (German) (2025)"
 msgstr ""
+"[Umstieg no Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux) "
+"-- Preparando para uma festa de instalação do Linux, do LUG Villingen-"
+"Schwenningen e.V. (Alemão) (2025)"
 
 #: content/opt-green-handbook/handbook_web.md:703
 msgid ""
@@ -12851,12 +14104,17 @@ msgid ""
 "werkstatt/linux) -- Guides to getting started with Linux, from Repair-Café "
 "Hilpoltstein (German) (2025)"
 msgstr ""
+"[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
+"werkstatt/linux) -- Guias para começar a usar Linux, do Repair-Café "
+"Hilpoltstein (Alemão) (2025)"
 
 #: content/opt-green-handbook/handbook_web.md:704
 msgid ""
 "[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
 "-- Organizing an installation event, from the Fedora Linux community (2019)"
 msgstr ""
+"[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
+"-- Organizando um evento de instalação, da comunidade Fedora Linux (2019)"
 
 #: content/opt-green-handbook/handbook_web.md:705
 msgid ""
@@ -12864,10 +14122,13 @@ msgid ""
 "html) -- Guidelines for running a successful installfest, from The Linux "
 "Documentation Project (2012)"
 msgstr ""
+"[Linux Installfest HOWTO](https://tldp.org/HOWTO/Installfest-HOWTO/index."
+"html) -- Diretrizes para realizar um installfest bem-sucedido, do The Linux "
+"Documentation Project (2012)"
 
 #: content/opt-green-handbook/handbook_web.md:707
 msgid "FOSS On Other Devices"
-msgstr ""
+msgstr "FOSS em outros dispositivos"
 
 #: content/opt-green-handbook/handbook_web.md:709
 msgid ""
@@ -12877,70 +14138,79 @@ msgid ""
 "the needs of many users. Caveat emptor! However, you may want to explore the "
 "exciting world of FOSS on other devices. Here are some examples:"
 msgstr ""
+"Neste guia, focamos em PCs, mas muitos outros dispositivos também podem ser "
+"atualizados para software livre e de código aberto (FOSS). Em alguns casos, "
+"o software livre e de código aberto ainda pode estar em desenvolvimento (por "
+"exemplo, Linux em smartphones) e pode não atender às necessidades de muitos "
+"usuários. Cuidado! No entanto, você pode querer explorar o fascinante mundo "
+"do FOSS em outros dispositivos. Aqui estão alguns exemplos:"
 
 #: content/opt-green-handbook/handbook_web.md:711
 msgid "Smartphones & Tablets"
-msgstr ""
+msgstr "Smartphones & Tablets"
 
 #: content/opt-green-handbook/handbook_web.md:712
 msgid ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
 msgstr ""
+"Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
+"Ubuntu Touch, Phosh"
 
 #: content/opt-green-handbook/handbook_web.md:713
 msgid "Android derivatives: Replicant, lineageOS, e/OS"
-msgstr ""
+msgstr "Derivados do Android: Replicant, lineageOS, e/OS"
 
 #: content/opt-green-handbook/handbook_web.md:714
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
 msgstr ""
+"Servidor doméstico (FreedomBox para sincronização de arquivos, bate-papo, e-"
+"mail e mídia)"
 
 #: content/opt-green-handbook/handbook_web.md:715
 msgid "Home automation (Home Assistant, included with FreedomBox)"
-msgstr ""
+msgstr "Automação residencial (Home Assistant, incluído no FreedomBox)"
 
 #: content/opt-green-handbook/handbook_web.md:716
 msgid ""
 "Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
 msgstr ""
+"Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
+"org/))"
 
 #: content/opt-green-handbook/handbook_web.md:717
 msgid "E-book readers (KOReader)"
-msgstr ""
+msgstr "Leitores de e-book (KOReader)"
 
 #: content/opt-green-handbook/handbook_web.md:718
 msgid "Garage door openers (OpenGarage, ratgdo)"
-msgstr ""
+msgstr "Abridores de portas de garagem (OpenGarage, ratgdo)"
 
 #: content/opt-green-handbook/handbook_web.md:720
 msgid ""
 "There are certainly other exciting projects to make your digital life fully "
 "FOSS and independent. It's a big Free & Open Source Software world out there."
 msgstr ""
+"Certamente existem outros projetos empolgantes para tornar sua vida digital "
+"totalmente FOSS e independente. É um vasto mundo de Software Livre e de "
+"Código Aberto lá fora."
 
 #: content/opt-green-handbook/handbook_web.md:722
-#, fuzzy
-#| msgid ""
-#| "![KDE’s popular multi-platform PDF reader and universal document viewer "
-#| "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
-#| "published under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
-#| "license.)](/blog/images/sec2_okular-BE-logo.png)"
 msgid ""
 "![Plasma Mobile is an open-source user interface for mobile devices "
 "developed by the KDE community. (Image from KDE released under a [CC-BY-4.0]"
 "(https://spdx.org/licenses/CC-BY-4.0.html) license.)](images/"
 "sec3_plasmaphone.png)"
 msgstr ""
-"![O popular leitor de PDF multiplataforma e visualizador universal de "
-"documentos do KDE Okular recebeu o selo ecológico Blue Angel em 2022. "
-"(Imagem do KDE publicada sob uma licença [CC-BY-4.0](https://spdx.org/"
-"licenses/CC-BY-4.0.html).)](/blog/images/sec2_okular-BE-logo.png)"
+"![O Plasma Mobile é uma interface de usuário de código aberto para "
+"dispositivos móveis desenvolvida pela comunidade KDE. (Imagem do KDE lançada "
+"sob uma licença [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)]"
+"(images/sec3_plasmaphone.png)"
 
 #: content/opt-green-handbook/handbook_web.md:724
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Solução de problemas"
 
 #: content/opt-green-handbook/handbook_web.md:726
 msgid ""
@@ -12950,30 +14220,44 @@ msgid ""
 "problems, see the workflow above for a basic guide to searching for "
 "solutions online."
 msgstr ""
+"Aqui estão alguns recursos gerais para resolver alguns problemas que podem "
+"surgir. Esta lista não é de forma alguma exaustiva e se concentra em "
+"soluções básicas (por exemplo, usar uma interface gráfica em vez de uma "
+"interface de linha de comando). Se você tiver problemas específicos, "
+"consulte o fluxo de trabalho acima para obter um guia básico de como "
+"pesquisar soluções online."
 
 #: content/opt-green-handbook/handbook_web.md:728
 msgid ""
 "[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
 msgstr ""
+"[Linux não instalando](https://www.ifixit.com/Troubleshooting/Linux/Not"
+"+Installing/616642)"
 
 #: content/opt-green-handbook/handbook_web.md:729
 msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 msgstr ""
+"[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
+"bitlocker-during-ubuntu-installation/)"
 
 #: content/opt-green-handbook/handbook_web.md:730
 msgid ""
 "[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
 "com/blog/install-linux-nvidia-driver/)"
 msgstr ""
+"[Instalando drivers NVIDIA no Linux: Um Guia Abrangente](https://linuxvox."
+"com/blog/install-linux-nvidia-driver/)"
 
 #: content/opt-green-handbook/handbook_web.md:731
 msgid ""
 "[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
 msgstr ""
+"[Como configurar uma impressora no Linux](https://www.maketecheasier.com/set-"
+"up-a-printer-in-linux/)"
 
 #: content/opt-green-handbook/handbook_web.md:732
 msgid ""
@@ -12981,6 +14265,9 @@ msgid ""
 "com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
 "p/36236)"
 msgstr ""
+"[Solução de problemas no Linux: Um Guia para Iniciantes](https://learn."
+"redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-"
+"Guide/td-p/36236)"
 
 #: content/opt-green-handbook/handbook_web.md:733
 msgid ""
@@ -12988,38 +14275,37 @@ msgid ""
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
 "tips-for-new-users/)"
 msgstr ""
+"[Solução de problemas comuns no Linux: Dicas para novos usuários](https://"
+"www.dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
+"tips-for-new-users/)"
 
 #: content/opt-green-handbook/handbook_web.md:734
 msgid ""
 "[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
 "org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 msgstr ""
+"[Solução de problemas comuns no Linux: Um guia para novos usuários](https://"
+"codegig.org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 
 #: content/opt-green-handbook/handbook_web.md:737
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The *Opt Green* project from KDE Eco was funded by the Federal Environment "
 "Agency and the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety (BMUKN). The funds are made available by "
 "resolution of the German Bundestag."
 msgstr ""
-"O projeto BE4FOSS foi financiado pela Agência Federal do Meio Ambiente e "
-"pelo Ministério Federal do Meio Ambiente, Conservação da Natureza, Segurança "
-"Nuclear e Proteção ao Consumidor (BMUV<sup><a id=\"fnr.1\" class=\"footref\" "
-"href=\"#fn.1\">1</a></sup>). Os recursos são disponibilizados por resolução "
-"do Bundestag Alemão."
+"O projeto *Opte pelo Verde* da KDE Eco foi financiado pela Agência Federal "
+"do Meio Ambiente e pelo Ministério Federal do Meio Ambiente, Ação Climática, "
+"Conservação da Natureza e Segurança Nuclear (BMUKN). Os fundos são "
+"disponibilizados por resolução do Bundestag alemão."
 
 #: content/opt-green-handbook/handbook_web.md:741
 msgid ""
 "![Logo of the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety.](images/sec4_bmuv.png)"
 msgstr ""
+"![Logotipo do Ministério Federal do Meio Ambiente, Ação Climática, "
+"Conservação da Natureza e Segurança Nuclear.](images/sec4_bmuv.png)"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -13716,30 +15002,26 @@ msgstr "Meta de Software Sustentável do KDE"
 
 #. grow-green.header-subtitle
 #: i18n/en.yaml:213
-#, fuzzy
-#| msgid "Develop Energy-Efficient Free & Open Source Software"
 msgid "Advocate for Energy-Efficient Free & Open Source Software"
-msgstr "Desenvolva software livre e de código aberto com eficiência energética"
+msgstr "Defenda o software livre e de código aberto com eficiência energética"
 
 #. grow-green.handbook.title
 #: i18n/en.yaml:215 i18n/en.yaml:227
-#, fuzzy
-#| msgid "Read the KDE Eco Handbook"
 msgid "Read The Opt Green Support Handbook"
-msgstr "Leia o Manual do KDE Eco"
+msgstr "Leia o Manual de Suporte do Opte pelo Verde"
 
 #. grow-green.handbook.description
 #: i18n/en.yaml:217
 msgid ""
 "Learn about sustainable software and how to support new users with FOSS."
 msgstr ""
+"Aprenda sobre software sustentável e como apoiar novos usuários com software "
+"livre e de código aberto (FOSS)."
 
 #. grow-green.flyer.title
 #: i18n/en.yaml:219 i18n/en.yaml:233
-#, fuzzy
-#| msgid "KDE's Sustainable Software Goal"
 msgid "Distribute The Sustainable Software Flyer"
-msgstr "Meta de Software Sustentável do KDE"
+msgstr "Distribua o folheto sobre software sustentável"
 
 #. grow-green.flyer.description
 #: i18n/en.yaml:221
@@ -13747,11 +15029,13 @@ msgid ""
 "Spread the word about independent, sustainable FOSS and long-term hardware "
 "use."
 msgstr ""
+"Divulgue informações sobre software livre e de código aberto independente e "
+"sustentável, bem como sobre o uso de hardware a longo prazo."
 
 #. grow-green.install-party.title
 #: i18n/en.yaml:223 i18n/en.yaml:239
 msgid "Host Install Parties In Your Community"
-msgstr ""
+msgstr "Organize eventos de instalação na sua comunidade"
 
 #. grow-green.install-party.description
 #: i18n/en.yaml:225
@@ -13759,6 +15043,8 @@ msgid ""
 "Join initiatives such as End of 10 and DI.Day to bring FOSS to your "
 "community."
 msgstr ""
+"Participe de iniciativas como End of 10 e DI.Day para levar FOSS a sua "
+"comunidade."
 
 #. grow-green.handbook-section.description
 #: i18n/en.yaml:229
@@ -13769,6 +15055,12 @@ msgid ""
 "learn why sustainable software makes for sustainable hardware and how you "
 "can help new users get started with Free & Open Source Software."
 msgstr ""
+"O Software Livre e de Código Aberto (FOSS) permite que o hardware seja usado "
+"por mais tempo. Isso não só é bom para o seu bolso, como também reduz o lixo "
+"eletrônico desnecessário e as emissões nocivas de CO2. No guia Opte pelo "
+"Verde, aprenda por que o software sustentável contribui para um hardware "
+"sustentável e como você pode ajudar novos usuários a começar a usar o "
+"Software Livre e de Código Aberto."
 
 #. grow-green.flyer-section.description
 #: i18n/en.yaml:235
@@ -13780,11 +15072,18 @@ msgid ""
 "distribute it in your community now. Let your neighbors know why the most "
 "environmentally-friendly device is the one they already own!"
 msgstr ""
+"O folheto \"Software Ecologicamente Correto?!\" oferece uma visão geral dos "
+"danos ambientais causados ​​pelo lixo eletrônico e pela fabricação de hardware "
+"– e como combatê-los com Software Livre e de Código Aberto (FOSS). O folheto "
+"é distribuído sob uma licença Creative Commons, o que significa que você "
+"pode imprimi-lo e distribuí-lo em sua comunidade agora mesmo. Mostre aos "
+"seus vizinhos por que o dispositivo mais ecológico é aquele que eles já "
+"possuem!"
 
 #. grow-green.flyer-section.button
 #: i18n/en.yaml:237
 msgid "Get Flyer"
-msgstr ""
+msgstr "Obtenha o folheto informativo"
 
 #. grow-green.install-party-section.description
 #: i18n/en.yaml:241
@@ -13796,11 +15095,18 @@ msgid ""
 "and host an install party in your community. Learn more at the End Of 10 and "
 "[DI.Day](https://di.day/) websites."
 msgstr ""
+"Com iniciativas como o End Of 10 e o Digital Independence Day (DI.Day), "
+"entusiastas do mundo todo em coletivos de reparo, lojas de informática "
+"independentes, grupos de usuários Linux, FabLabs e MakerSpaces estão "
+"ajudando novos usuários a começar a usar software livre e de código aberto "
+"(FOSS). Você também pode participar e organizar uma festa de instalação na "
+"sua comunidade. Saiba mais nos sites do End Of 10 e do [DI.Day](https://di."
+"day/)."
 
 #. grow-green.install-party-section.button
 #: i18n/en.yaml:243
 msgid "End Of 10"
-msgstr ""
+msgstr "End Of 10"
 
 #. endof10.text
 #: i18n/en.yaml:245
@@ -13815,3 +15121,28 @@ msgstr ""
 #: i18n/en.yaml:247
 msgid "Visit endof10.org"
 msgstr "Visite endof10.org"
+
+#~ msgid "Proprietary OS RAM Processor Storage"
+#~ msgstr "Sistema Operacional Proprietário RAM Processador Armazenamento"
+
+#~ msgid "FOSS-based OS RAM Processor Storage"
+#~ msgstr "Sistema Operacional FOSS RAM Processador Armazenamento"
+
+#~ msgid ""
+#~ "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
+#~ "hardware_overview/) (Linux) 2 GB 64 bit 15 GB [openSUSE](https://en."
+#~ "opensuse.org/Hardware_requirements) (Linux) 2 GB 64 bit 8 GB [Debian]"
+#~ "(https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux) 512 "
+#~ "MB 64 bit 4 GB [Arch](https://wiki.archlinux.org/title/"
+#~ "Installation_guide) (Linux) 512 MiB 64 bit 2 GB [OpenBSD](https://www."
+#~ "openbsdhandbook.com/installation/) (BSD) 512 MB 32 or 64 bit 1 GB [Haiku]"
+#~ "(https://www.haiku-os.org/about/faq/) (BeOS) 384 MiB 32 or 64 bit 1.5 GB"
+#~ msgstr ""
+#~ "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
+#~ "hardware_overview/) (Linux) 2 GB 64 bit 15 GB [openSUSE](https://en."
+#~ "opensuse.org/Hardware_requirements) (Linux) 2 GB 64 bit 8 GB [Debian]"
+#~ "(https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux) 512 "
+#~ "MB 64 bit 4 GB [Arch](https://wiki.archlinux.org/title/"
+#~ "Installation_guide) (Linux) 512 MiB 64 bit 2 GB [OpenBSD](https://www."
+#~ "openbsdhandbook.com/installation/) (BSD) 512 MB 32 ou 64 bit 1 GB [Haiku]"
+#~ "(https://www.haiku-os.org/about/faq/) (BeOS) 384 MiB 32 ou 64 bit 1.5 GB"
