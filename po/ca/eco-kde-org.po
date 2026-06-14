@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-12 23:02+0200\n"
+"PO-Revision-Date: 2026-06-13 21:33+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -1782,7 +1782,7 @@ msgstr ""
 "La Blue Angel no va ser la primera etiqueta ecològica tipus I per al "
 "programari; el Consell Verd de Hong Kong, també membre de la Global "
 "Ecolabelling Network, va publicar els [criteris el 2010](https://"
-"greencouncil.net/hkgls/GL006004rev0.pdf) per a programari informàtic verd. "
+"greencouncil.net/hkgls/GL006004_rev0.pdf) per a programari informàtic verd. "
 "Però els criteris de l'etiqueta ecològica Blue Angel són els primers a "
 "identificar un procés per mesurar el consum d'energia del programari i "
 "especificar maneres que la independència de l'usuari redueixi el dany "
@@ -2301,11 +2301,11 @@ msgid ""
 "software."
 msgstr ""
 "Amb el primer producte de programari ecocertificat, la comunitat KDE "
-"[celebrava l'assoliment](https://eco.kde.org/blog/2022-09-28okularblue-angel-"
-"award-ceremony/) juntament amb la [comunitat](https://netzpolitik.org/2022/"
-"nachhaltigkeit-software-mit-blauem-campus.de/en/forschung/projekte/news-"
-"details/first-blue-angel-for-software) de [programari lliure](https://fsfe."
-"org/news/2022/news-20220316-01.de.html), i també amb el departament de "
+"[celebrava l'assoliment](https://eco.kde.org/blog/2022-09-28_okular_blue-"
+"angel-award-ceremony/) juntament amb la [comunitat](https://netzpolitik."
+"org/2022/nachhaltigkeit-software-mit-blauem-campus.de/en/forschung/projekte/"
+"news-details/first-blue-angel-for-software) de [programari lliure](https://"
+"fsfe.org/news/2022/news-20220316-01.de.html), i també amb el departament de "
 "ciències de la computació al [Umwelt Campus Birkenfeld](https://www.umwelt-"
 "campus.de/en/forschung/projekte/green-software-engineering/news-details/"
 "first-blue-angel-for-software), on els investigadors van mesurar els "
@@ -2476,23 +2476,21 @@ msgid "longevity, ability to repair and recycle the product; and"
 msgstr "longevitat, capacitat de reparació i reciclatge del producte; i"
 
 #: content/be4foss-handbook/handbook_web.md:306
-#, fuzzy
 msgid "efficient use, e.g. products which save energy."
 msgstr "ús eficient, per exemple, productes que estalvien energia."
 
 #: content/be4foss-handbook/handbook_web.md:308
-#, fuzzy
 msgid ""
 "As you reach the end of this section, we hope it is clear how compliance "
 "with the Blue Angel award criteria for desktop software promotes the above "
 "environmental benefits, among others."
 msgstr ""
-"A mesura que arribes al final d'aquesta secció, esperem que quedi clar com "
+"A mesura que arribeu al final d'aquesta secció, esperem que quedi clar com "
 "el compliment dels criteris de concessió de Blue Angel per a programari "
 "d'escriptori promou els beneficis ambientals anteriors, entre d'altres."
 
+# skip-rule: t-com_pu
 #: content/be4foss-handbook/handbook_web.md:310
-#, fuzzy
 msgid ""
 "Environmental labels can be an instrument to move markets in the direction "
 "of sustainable products. As the Blue Angel website states: “The aim of the "
@@ -2501,17 +2499,16 @@ msgid ""
 "conscious purchasing.”"
 msgstr ""
 "Les etiquetes mediambientals poden ser un instrument per a moure els mercats "
-"en la direcció de productes sostenibles. Com diu el lloc web de Blue Angel: "
-"“L'objectiu de l'etiqueta ambiental és proporcionar als clients privats, als "
-"grans consumidors institucionals i a les institucions públiques una guia "
-"fiable per a la compra conscient del medi ambient.”"
+"en la direcció dels productes sostenibles. Com diu el lloc web de Blue "
+"Angel: «L'objectiu de l'etiqueta ambiental és proporcionar als clients "
+"particulars, als grans consumidors institucionals i als organismes públics "
+"una guia fiable per a una compra conscient respecte al medi ambient.»"
 
 #: content/be4foss-handbook/handbook_web.md:312
 msgid "So what does the market say?"
 msgstr "Què diu el mercat?"
 
 #: content/be4foss-handbook/handbook_web.md:314
-#, fuzzy
 msgid ""
 "A survey from the info-booklet found that 92% of Germans recognize the "
 "ecolabel, and for 37% the label influences their purchasing choices. The "
@@ -2523,19 +2520,18 @@ msgid ""
 "of direction of the EU market&mdash;and they are even sometimes used as a "
 "guideline for optimizing products."
 msgstr ""
-"Una enquesta del butlletí d'informació va trobar que el 92% dels alemanys "
-"reconeixen l'etiqueta ecològica, i per al 37% l'etiqueta influeix en les "
-"seves opcions de compra. L'etiqueta ecològica també es pot reconèixer fora "
-"d'Alemanya! Fins a un 15% dels receptors de Blue Angel estan fora "
-"d'Alemanya. Una de les raons d'això és que, a diferència d'altres etiquetes "
-"ecològiques, Blue Angel no posa requisits sobre on es pot comercialitzar un "
-"producte. A més, el segell Blue Angel es considera una marca d'alta qualitat "
-"a nivell internacional, i els criteris de concessió es consideren un "
-"indicador de la direcció de la marketmdash de la UE; i fins i tot "
-"s'utilitzen de vegades com a guia per optimitzar els productes."
+"Una enquesta del llibret va trobar que el 92% dels alemanys reconeixen "
+"l'etiqueta ecològica, i per al 37% l'etiqueta influeix en les seves opcions "
+"de compra. L'etiqueta ecològica també es pot reconèixer fora d'Alemanya! "
+"Fins a un 15% dels destinataris de la Blue Angel estan fora d'Alemanya. Un "
+"dels motius d'això és que, a diferència d'altres etiquetes ecològiques, la "
+"Blue Angel no posa requisits sobre on es pot comercialitzar un producte. A "
+"més, el segell Blue Angel es considera una marca d'alta qualitat a nivell "
+"internacional, i els criteris de concessió es consideren un indicador de la "
+"direcció del mercat de la UE, i fins i tot s'utilitzen a vegades com a guia "
+"per optimitzar productes."
 
 #: content/be4foss-handbook/handbook_web.md:316
-#, fuzzy
 msgid ""
 "Receiving the Blue Angel seal can raise your product’s profile not only "
 "among individuals, but also among large organizations. [Green Public "
@@ -2551,20 +2547,20 @@ msgid ""
 "abroad."
 msgstr ""
 "Rebre el segell Blue Angel pot elevar el perfil del seu producte no només "
-"entre els individus, sinó també entre les grans organitzacions. Les "
+"entre els particulars, sinó també entre les grans organitzacions. Les "
 "iniciatives [Green Public Procurement](https://en.wikipedia.org/wiki/"
-"Sustainableprocurement) (GPP), que «busquen promoure la contractació pública "
-"de béns, serveis i treballen amb un impacte ambiental reduït durant tot el "
-"seu cicle de vida» ([*European Commission*](https://ec.europa.eu/environment/"
-"gpp/faqen.htm)), influeixen en les opcions de compra tant en el sector "
-"públic com en el [privat](https://en.wikipedia.org/wiki/"
-"Sustainableprocurement).Privatesector). L'ecocertificació del teu producte "
-"programari amb el Blue Angel demostra una aposta per la sostenibilitat "
-"digital a llarg termini, i dona visibilitat al teu producte tant a Alemanya "
-"com a l'estranger."
+"Sustainable_procurement) (GPP), que «busquen promoure la contractació "
+"pública de béns, serveis i treballen amb un impacte ambiental reduït durant "
+"tot el seu cicle de vida» ([*Comissió Europea*](https://ec.europa.eu/"
+"environment/gpp/faq_en.htm)), influeixen en les opcions de compra tant en el "
+"sector públic com en el [privat](https://en.wikipedia.org/wiki/"
+"Sustainable_procurement#Private_sector). L'ecocertificació del vostre "
+"producte de programari amb la Blue Angel demostra una aposta per la "
+"sostenibilitat digital a llarg termini, i dona visibilitat al producte tant "
+"a Alemanya com a l'estranger."
 
+# skip-rule: t-sigl_sing2
 #: content/be4foss-handbook/handbook_web.md:320
-#, fuzzy
 msgid ""
 "Some material in this section is based directly on text from two Wikipedia "
 "articles: (i) [“*Blue Angel (certification)*”](https://en.wikipedia.org/wiki/"
@@ -2579,39 +2575,38 @@ msgid ""
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html)."
 msgstr ""
 "Alguns materials d'aquesta secció es basen directament en el text de dos "
-"articles de la Viquipèdia: (i) [«*Blue Angel (certificació)*»](https://en."
-"wikipedia.org/wiki/BlueAngel(certificació)) i (ii) [«*Software bloat*»]"
+"articles de la Viquipèdia: (i) [«*Blue Angel (certification)*»](https://en."
+"wikipedia.org/wiki/Blue_Angel_(certification)) i (ii) [«*Software bloat*»]"
 "(https://en.wikipedia.org/wiki/Software_bloat). Ambdós textos estan "
-"publicats segons la [Llicència Creative Commons Attribution-Share-Alike 3.0]"
-"(https://spdx.org/licenses/CC-BY-SA-3.0.html). Alguns materials d'aquesta "
-"secció també es basen directament en la publicació del blog KDE Eco "
-"[«*Primer Programa d'ordinador certificat Eco: KDE's Popular PDF Reader "
+"publicats segons la [llicència Reconeixement-CompartirIgual 4.0 de Creative "
+"Commons](https://spdx.org/licenses/CC-BY-SA-3.0.html). Alguns materials "
+"d'aquesta secció també es basen directament en la publicació del blog KDE "
+"Eco [«*First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader "
 "Okular*»](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-"
-"angel/), que es publica segons la [llicència internacional Reconeixement-"
+"angel/), que s'ha publicat segons la [llicència internacional Reconeixement-"
 "CompartirIgual 4.0 de Creative Commons](https://spdx.org/licenses/CC-BY-"
 "SA-4.0.html)."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:325
-#, fuzzy
 msgid ""
 "![Monitoring energy and hardware consumption in real time with KDE’s "
 "`LabPlot`. (Image from Alexander Semke published under a [CC-BY-NC-ND-4.0]"
 "(https://creativecommons.org/licenses/by-nc-nd/4.0/) license.)](images/"
 "sec3_labplot_live-measurement.png)"
 msgstr ""
-"![Monitorització del consum d'energia i maquinari en temps real amb el "
-"sLabPlot. de KDE. (Imatge d'Alexander Semke publicada segons una llicència "
-"[CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).]"
-"(images/sec3labplotlive-measurement.png)"
+"![Control del consum d'energia i maquinari en temps real amb el `LabPlot` de "
+"KDE. (Imatge d'Alexander Semke publicada segons una llicència [CC-BY-NC-"
+"ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).](images/"
+"sec3_labplot_live-measurement.png)"
 
 #: content/be4foss-handbook/handbook_web.md:327
-#, fuzzy
 msgid ""
 "The three main categories of the Blue Angel award criteria for desktop "
 "software are:"
 msgstr ""
-"Les tres categories principals dels criteris de premi Blue Angel per al "
-"programari d'escriptori són:"
+"Les tres categories principals dels criteris de concessió de Blue Angel per "
+"al programari d'escriptori són:"
 
 #: content/be4foss-handbook/handbook_web.md:329
 msgid "(A) Resource & Energy Efficiency"
@@ -2627,7 +2622,6 @@ msgid "(C) User Autonomy"
 msgstr "(C) Autonomia dels usuaris"
 
 #: content/be4foss-handbook/handbook_web.md:335
-#, fuzzy
 msgid ""
 "In this section we’ll provide a hands-on guide to fulfilling each set of "
 "criteria. There are numerous benefits of meeting the basic award criteria. "
@@ -2635,36 +2629,33 @@ msgid ""
 "with the hardware operating life and user autonomy criteria, you get the "
 "benefits of:"
 msgstr ""
-"En aquest apartat us oferirem una guia pràctica per complir amb cada conjunt "
+"En aquesta secció us oferirem una guia pràctica per complir amb cada conjunt "
 "de criteris. Hi ha nombrosos beneficis de complir els criteris bàsics de "
 "concessió. En fer que el consum d'energia del vostre programari sigui "
 "transparent i complir amb la vida operativa del maquinari i els criteris "
-"d'autonomia de l'usuari, obteniu els beneficis de:"
+"d'autonomia de l'usuari, aconseguiu els beneficis de:"
 
 #: content/be4foss-handbook/handbook_web.md:337
-#, fuzzy
 msgid ""
 "**Eco-Certification**: Apply for the Blue Angel ecolabel to demonstrate to "
 "users, companies, and governmental organizations that your software is "
 "designed sustainably."
 msgstr ""
-"**Eco-Certification**: Sol·liciteu l'etiqueta ecològica Blue Angel per "
-"demostrar als usuaris, empreses i organitzacions governamentals que el "
-"vostre programari està dissenyat de manera sostenible."
+"**Ecocertificació**: Sol·liciteu l'ecoetiqueta Blue Angel per demostrar als "
+"usuaris, empreses i organitzacions governamentals que el vostre programari "
+"està dissenyat de manera sostenible."
 
 #: content/be4foss-handbook/handbook_web.md:339
-#, fuzzy
 msgid ""
 "**Data-Driven Development**: Locate inefficiencies in terms of energy and "
 "hardware consumption, and make data-driven decisions for your software "
 "development."
 msgstr ""
-"**Desenvolupament orientat a dades**: Localitzeu ineficiències en termes "
-"d'energia i consum de maquinari, i preneu decisions basades en dades per al "
-"vostre desenvolupament de programari."
+"**Desenvolupament orientat a dades**: Trobeu ineficiències en termes de "
+"consum d'energia i maquinari, i preneu decisions basades en dades per al "
+"desenvolupament del programari."
 
 #: content/be4foss-handbook/handbook_web.md:341
-#, fuzzy
 msgid ""
 "**Sustainable Design**: For the long-term sustainable use of software, and "
 "thus hardware, take the user autonomy criteria into consideration when "
@@ -2672,21 +2663,18 @@ msgid ""
 msgstr ""
 "**Disseny sostenible**: Per a l'ús sostenible a llarg termini del "
 "programari, i per tant del maquinari, tingueu en compte els criteris "
-"d'autonomia de l'usuari a l'hora de planificar el vostre disseny de "
-"programari."
+"d'autonomia de l'usuari a l'hora de planificar el disseny del programari."
 
 #: content/be4foss-handbook/handbook_web.md:343
-#, fuzzy
 msgid ""
 "**End-User Information**: Highlight to your users the ways your software is "
 "already sustainably designed by using the Blue Angel criteria as a benchmark."
 msgstr ""
-"**Informació final de l'usuari**: Ressalta als vostres usuaris les formes en "
-"què el vostre programari ja està dissenyat de manera sostenible mitjançant "
-"l'ús dels criteris Blue Angel com a referència."
+"**Informació de l'usuari final**: Ressalteu als vostres usuaris les formes "
+"en què el programari ja està dissenyat de manera sostenible mitjançant l'ús "
+"dels criteris de Blue Angel com a referència."
 
 #: content/be4foss-handbook/handbook_web.md:345
-#, fuzzy
 msgid ""
 "![The three steps to eco-certification: 1. Measure, 2. Analyze, 3. Certify. "
 "(Image from KDE published under a [CC BY-SA 4.0 International](https://"
@@ -2695,19 +2683,18 @@ msgid ""
 "licensed under a [CC-BY](https://spdx.org/licenses/CC-BY-3.0.html) license. "
 "Design by Lana Lutz.)](images/sec3_3StepsToBEECO.png)"
 msgstr ""
-"![Els tres passos per a l'ecocertificació: 1. Mesura, 2. Analitza, 3. "
-"Certifica. (Imatge de KDE publicada segons una llicència [CC BY-SA 4.0 "
+"![Els tres passos per a l'ecocertificació: 1. Mesurar, 2. Analitzar, 3. "
+"Certificar. (Imatge de KDE publicada segons una llicència [CC BY-SA 4.0 "
 "International](https://creativecommons.org/licenses/by-sa/4.0/deed.en). "
-"[Certificate](https://thenounproject.com/icon/certificate-5461357/) icona "
+"Icona de [certificat](https://thenounproject.com/icon/certificate-5461357/) "
 "d'Ongycon amb llicència [CC-BY](https://spdx.org/licenses/CC-BY-3.0.html). "
-"Disseny de Lana Lutz.)](images/sec33StepsToBEECO.png)"
+"Disseny de Lana Lutz.)](images/sec3_3StepsToBEECO.png)"
 
 #: content/be4foss-handbook/handbook_web.md:347
 msgid "(A) How To Measure Your Software"
 msgstr "(A) Com mesurar el vostre programari"
 
 #: content/be4foss-handbook/handbook_web.md:349
-#, fuzzy
 msgid ""
 "The laboratory setup consists of a power meter, a computer to aggregate and "
 "evaluate the power meter output, and a desktop computer for the system under "
@@ -2718,67 +2705,63 @@ msgid ""
 msgstr ""
 "La configuració del laboratori consisteix en un mesurador d'energia, un "
 "ordinador per agregar i avaluar la sortida del mesurador d'energia, i un "
-"ordinador d'escriptori per al sistema sota prova on s'emula el comportament "
-"de l'usuari. La configuració descrita aquí segueix les especificacions del "
+"ordinador d'escriptori per al sistema a provar on s'emula el comportament de "
+"l'usuari. La configuració descrita aquí segueix les especificacions del "
 "[*Blue Angel Basic Award Criteria for Resource and Energy-Efficient Software "
 "Products*»](https://www.blauer-engel.de/en/productworld/resources-and-energy-"
 "efficient-software-products)."
 
+# skip-rule: t-com_obe_tan
 #: content/be4foss-handbook/handbook_web.md:351
-#, fuzzy
 msgid ""
 "Terminology comes in part from Kern et al. (2018): [“*Sustainable software "
 "products &mdash; Towards assessment criteria for resource and energy "
 "efficiency*”](https://doi.org/10.1016/j.future.2018.02.044)."
 msgstr ""
-"La terminologia ve en part de Kern et al. (2018): [«*Productes de programari "
-"sostenible &mdash; Cap a criteris d'avaluació de recursos i eficiència "
-"energètica*»](https://doi.org/10.1016/j.future.2018.02.044)."
+"La terminologia prové en part de Kern et al. (2018): [«*Sustainable software "
+"products &mdash; Towards assessment criteria for resource and energy "
+"efficiency*»](https://doi.org/10.1016/j.future.2018.02.044)."
 
 #: content/be4foss-handbook/handbook_web.md:353
-#, fuzzy
 msgid "See also the following resources from the Umwelt Campus Birkenfeld:"
-msgstr "Vegeu també els següents recursos del Campus Birkenfeld d'Umwelt:"
+msgstr "Vegeu també els recursos següents de l'Umwelt Campus Birkenfeld:"
 
 #: content/be4foss-handbook/handbook_web.md:355
-#, fuzzy
 msgid ""
 "Seiwert & Zaczyk (2021): [“*Projektbericht: Ressourceneffiziente "
 "Softwaresysteme am Beispiel von KDE-Software*”](https://invent.kde.org/"
 "cschumac/feep/-/blob/master/measurements/abschlussbericht-kmail-krita.pdf) "
 "(German only)"
 msgstr ""
-"Seiwert Zaczyk (2021): [«*Projektbericht: Ressourceneffiziente "
+"Seiwert & Zaczyk (2021): [«*Projektbericht: Ressourceneffiziente "
 "Softwaresysteme am Beispiel von KDE-Software*»](https://invent.kde.org/"
-"cschumac/feep/-/blob/master/measurements/abschlussbericht-kmail-krita.pdf)"
+"cschumac/feep/-/blob/master/measurements/abschlussbericht-kmail-krita.pdf) "
+"(només en alemany)"
 
 #: content/be4foss-handbook/handbook_web.md:357
-#, fuzzy
 msgid ""
 "Mai (2021): “*Vergleichende Analyse und Bewertung von Betriebssystemen "
 "hinsichtlich ihrer Energieeffizienz*” (German only)"
 msgstr ""
-"Mai (2021): «Vergleichende Analyse und Bewertung von Betriebssystemen "
+"Mai (2021): «*Vergleichende Analyse und Bewertung von Betriebssystemen "
 "hinsichtlich ihrer Energieeffizienz*» (només en alemany)"
 
 #: content/be4foss-handbook/handbook_web.md:359
-#, fuzzy
 msgid ""
 "[“*OSCAR Manual*”](https://gitlab.umwelt-campus.de/y.becker/oscar-public/"
 "blob/master/OSCAR/static/OSCAR_Gesamt.pdf) (German only)"
 msgstr ""
-"[«* Manual OSCAR*»](https://gitlab.umwelt-campus.de/y.becker/oscar-public/"
-"blob/master/OSCAR/static/OSCARGesamt.pdf) (només en alemany)"
+"[«*OSCAR Manual*»](https://gitlab.umwelt-campus.de/y.becker/oscar-public/"
+"blob/master/OSCAR/static/OSCAR_Gesamt.pdf) (només en alemany)"
 
 #: content/be4foss-handbook/handbook_web.md:361
 msgid "Overview Of Laboratory Setup"
 msgstr "Vista general de la configuració del laboratori"
 
 #: content/be4foss-handbook/handbook_web.md:363
-#, fuzzy
 msgid "The laboratory setup requires 1 power meter and at least 2 computers:"
 msgstr ""
-"La configuració del laboratori requereix 1 mesurador de potència i almenys 2 "
+"La configuració del laboratori requereix 1 mesurador d'energia i almenys 2 "
 "ordinadors:"
 
 #: content/be4foss-handbook/handbook_web.md:365
@@ -2786,7 +2769,6 @@ msgid "*Power Meter*"
 msgstr "*Mesurador d'energia*"
 
 #: content/be4foss-handbook/handbook_web.md:367
-#, fuzzy
 msgid ""
 "One of the devices recommended by the Blue Angel is the [Gude Expert Power "
 "Control 1202 Series](https://www.gude.info/en/power-distribution/switched-"
@@ -2798,14 +2780,14 @@ msgid ""
 "EPC_HTTP_Interface), and the device supports various protocols such as SNMP "
 "or syslog."
 msgstr ""
-"Un dels dispositius recomanats per Blue Angel és la [Gude Expert Power "
+"Un dels dispositius recomanats per Blue Angel és el [Gude Expert Power "
 "Control 1202 Series](https://www.gude.info/en/power-distribution/switched-"
 "metered-pdu/expert-power-control-1202-series.html) ([manual](https://gude-"
 "systems.com/app/uploads/2022/05/manual-epc1202-series.pdf)). Proporciona "
-"punts de sortida per alimentar l'ordinador i mesura el corrent durant el "
-"funcionament. El dispositiu es pot controlar i llegir a través d'Ethernet "
+"endoll per alimentar l'ordinador i mesura l'electricitat durant el "
+"funcionament. El dispositiu es pot controlar i llegir mitjançant Ethernet "
 "per cable. Hi ha una interfície d'usuari basada en web, una [API REST]"
-"(http://wiki.gude.info/EPCHTTPInterface), i el dispositiu admet diversos "
+"(http://wiki.gude.info/EPC_HTTP_Interface), i el dispositiu admet diversos "
 "protocols com SNMP o syslog."
 
 #: content/be4foss-handbook/handbook_web.md:369
@@ -2813,37 +2795,34 @@ msgid "*Computer 1: Data Aggregator & Evaluator*"
 msgstr "*Ordinador 1: Agregador i avaluador de dades*"
 
 #: content/be4foss-handbook/handbook_web.md:371
-#, fuzzy
 msgid ""
 "The computer will be used for collecting and evaluating results from the "
 "power meter."
 msgstr ""
 "L'ordinador s'utilitzarà per recollir i avaluar els resultats del mesurador "
-"de potència."
+"d'energia."
 
 #: content/be4foss-handbook/handbook_web.md:373
-#, fuzzy
 msgid ""
 "A Python script to read out the data from the Gude Expert Power Control 1202 "
 "Series is available at the [FEEP repository](https://invent.kde.org/teams/"
 "eco/feep/-/tree/master/tools/GUDEPowerMeter)."
 msgstr ""
-"Un script en Python per a llegir les dades de la sèrie 1202 del Gude Expert "
-"Power Control està disponible al [repositori FEEP](https://invent.kde.org/"
-"teams/eco/feep/-/tree/master/tools/GUDEPowerMeter)."
+"Hi ha disponible un script en Python per a llegir les dades del Gude Expert "
+"Power Control 1202 Series al [repositori FEEP](https://invent.kde.org/teams/"
+"eco/feep/-/tree/master/tools/GUDEPowerMeter)."
 
 #: content/be4foss-handbook/handbook_web.md:375
-#, fuzzy
 msgid ""
 "It is recommended to monitor progress live with the second computer in order "
 "to ensure everything is proceeding smoothly. This can be done with KDE’s "
 "[Labplot](https://apps.kde.org/labplot2/), for instance; read more [here]"
 "(#sec:labplot)."
 msgstr ""
-"Es recomana monitoritzar el progrés en directe amb el segon ordinador per "
-"assegurar que tot avança sense problemes. Això es pot fer amb el [Labplot]"
-"(https://apps.kde.org/labplot2/), per exemple; llegiu-ne més [aquí]().sec:"
-"labplot)."
+"Es recomana controlar el progrés en directe amb el segon ordinador per "
+"assegurar que tot transcorre sense problemes. Això es pot fer amb el "
+"[Labplot](https://apps.kde.org/labplot2/), per exemple; llegiu-ne més [aquí]"
+"(#sec:labplot)."
 
 #: content/be4foss-handbook/handbook_web.md:377
 #, fuzzy
@@ -2852,7 +2831,7 @@ msgid ""
 "Power Grid Monitoring Software](https://www.gridvis.com/gridvis-overview."
 "html)."
 msgstr ""
-"Altres mesuradors de potència poden requerir programari no lliure, per "
+"Altres mesuradors d'energia poden requerir programari no lliure, per "
 "exemple, el [programari de seguiment de quadrícules d'energia de Janitza]"
 "(https://www.gridvis.com/gridvis-overview.html)."
 
@@ -2894,7 +2873,7 @@ msgstr ""
 "la SUT; vegeu Kern et al. (2018). Els detalls d'aquesta configuració amb un "
 "generador de càrrega de treball extern es poden [trobar al repositori FEEP]"
 "(https://invent.kde.org/teams/eco/feep/-/tree/master/tools/arduino-"
-"boardexternal-workload-generator.md)."
+"board_external-workload-generator.md)."
 
 #: content/be4foss-handbook/handbook_web.md:387
 msgid "Note the following:"
@@ -5023,7 +5002,7 @@ msgid ""
 "Technical details about the power meter (instrument, sampling frequency, "
 "length of scenario, sample size)."
 msgstr ""
-"Detalls tècnics sobre el mesurador de potència (instrument, freqüència de "
+"Detalls tècnics sobre el mesurador d'energia (instrument, freqüència de "
 "mostreig, longitud d'escenari, mida de mostra)."
 
 #: content/be4foss-handbook/handbook_web.md:826
@@ -5173,9 +5152,9 @@ msgid ""
 msgstr ""
 "Vols començar amb el procés de mesurament del teu programari, però curt en "
 "efectiu o engranatge? Vols donar al procés un intent sense crear un "
-"laboratori dedicat? Prova aquest hack convertint un tap de potència barat a "
-"un mesurador de potència, cortesia de Volker Krause, que també va documentar "
-"el procés proporcionat aquí. Podeu llegir-ne més a les publicacions següents "
+"laboratori dedicat? Prova aquest hack convertint un tap d'energia barat a un "
+"mesurador d'energia, cortesia de Volker Krause, que també va documentar el "
+"procés proporcionat aquí. Podeu llegir-ne més a les publicacions següents "
 "del blog de Volker:"
 
 #: content/be4foss-handbook/handbook_web.md:856
@@ -5219,7 +5198,7 @@ msgid ""
 "accepted by the Blue Angel for eco-certification, it is nonetheless possible "
 "to obtain preliminary data using this tool."
 msgstr ""
-"Tot i que les dades del mesurador de potència barat probablement no seran "
+"Tot i que les dades del mesurador d'energia barat probablement no seran "
 "acceptades per Blue Angel per a l'ecocertificació, és possible obtenir dades "
 "preliminars utilitzant aquesta eina."
 
@@ -5402,7 +5381,7 @@ msgid ""
 "Verify that the “Power Factor” value is shown as 1 (or very close to 1); if "
 "it is lower, the current load is not suited for calibration."
 msgstr ""
-"Verifiqueu que el valor del «Factor de potència» es mostra com a 1 (o molt "
+"Verifiqueu que el valor del «Factor d'energia» es mostra com a 1 (o molt "
 "proper a 1); si és més baix, la càrrega actual no és adequada per al "
 "calibratge."
 
@@ -11801,74 +11780,68 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:309
 msgid "Proprietary OS"
-msgstr ""
+msgstr "SO propietari"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
-#, fuzzy
-#| msgid "[CPU]Totl = Processor"
 msgid "Processor"
-msgstr "[CPU]Totl = Processador"
+msgstr "Processador"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "Storage"
-msgstr ""
+msgstr "Emmagatzematge"
 
 #: content/opt-green-handbook/handbook_web.md:311
-#, fuzzy
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
 msgstr ""
 "[Windows 11](https://www.microsoft.com/ca-us/windows/windows-11-"
-"specifications) 4 GB certs processadors de 64 bits 64 GB"
+"specifications)"
 
 #: content/opt-green-handbook/handbook_web.md:311
 #: content/opt-green-handbook/handbook_web.md:321
 msgid "4 GB"
-msgstr ""
+msgstr "4 GB"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid "certain 64 bit processors"
-msgstr ""
+msgstr "determinats processadors de 64 bits"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid "64 GB"
-msgstr ""
+msgstr "64 GB"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "+ Copilot genAI"
-msgstr ""
+msgstr "+ Copilot genAI"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "16 GB"
-msgstr ""
+msgstr "16 GB"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "+ NPU"
-msgstr ""
+msgstr "+ NPU"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "256 GB"
-msgstr ""
+msgstr "256 GB"
 
 #: content/opt-green-handbook/handbook_web.md:313
-#, fuzzy
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
-msgstr ""
-"Copilot genAI 16 GB + NPU 256 GB [macOS 14](https://mackeeper.com/blog/macos-"
-"sonoma-compatibility/) 8 GB 64 bit 25 GB"
+msgstr "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 
 #: content/opt-green-handbook/handbook_web.md:313
 #: content/opt-green-handbook/handbook_web.md:320
 msgid "8 GB"
-msgstr ""
+msgstr "8 GB"
 
 #: content/opt-green-handbook/handbook_web.md:313
 #: content/opt-green-handbook/handbook_web.md:319
@@ -11876,11 +11849,11 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:321
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "64 bit"
-msgstr ""
+msgstr "64 bits"
 
 #: content/opt-green-handbook/handbook_web.md:313
 msgid "25 GB"
-msgstr ""
+msgstr "25 GB"
 
 #: content/opt-green-handbook/handbook_web.md:315
 #, fuzzy
@@ -11912,70 +11885,73 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "FOSS-based OS"
-msgstr ""
+msgstr "SO basats en FOSS"
 
 #: content/opt-green-handbook/handbook_web.md:319
 msgid ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
 msgstr ""
+"[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
+"hardware_overview/) (Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:319
 #: content/opt-green-handbook/handbook_web.md:320
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "2 GB"
-msgstr ""
+msgstr "2 GB"
 
 #: content/opt-green-handbook/handbook_web.md:319
 msgid "15 GB"
-msgstr ""
+msgstr "15 GB"
 
 #: content/opt-green-handbook/handbook_web.md:320
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
-msgstr ""
+msgstr "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:321
 msgid ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 msgstr ""
+"[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:321
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "512 MB"
-msgstr ""
+msgstr "512 MB"
 
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
-msgstr ""
+msgstr "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "512 MiB"
-msgstr ""
+msgstr "512 MiB"
 
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
-msgstr ""
+msgstr "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 
 #: content/opt-green-handbook/handbook_web.md:323
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "32 or 64 bit"
-msgstr ""
+msgstr "32 o 64 bits"
 
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "1 GB"
-msgstr ""
+msgstr "1 GB"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
-msgstr ""
+msgstr "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "384 MiB"
-msgstr ""
+msgstr "384 MiB"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "1.5 GB"
-msgstr ""
+msgstr "1,5 GB"
 
 #: content/opt-green-handbook/handbook_web.md:327
 #, fuzzy
@@ -13138,7 +13114,7 @@ msgstr ""
 "Si voleu suport presencial mentre comenceu, us recomanem visitar el lloc web "
 "[Final de 10](https://endof10.org) per trobar un lloc o esdeveniment a la "
 "vostra zona. A més, consulteu la següent secció de consells sobre com "
-"construir un equip de potència FOSS!"
+"construir un equip d'energia FOSS!"
 
 #: content/opt-green-handbook/handbook_web.md:463
 #, fuzzy

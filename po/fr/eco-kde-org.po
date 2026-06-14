@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-11 17:33+0200\n"
+"PO-Revision-Date: 2026-06-12 19:29+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: fr\n"
 "Language: fr\n"
@@ -225,7 +225,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:49
 msgid "But does it really?"
-msgstr ""
+msgstr "Mais, est-ce vraiment le cas ?"
 
 #: content/be4foss-handbook/handbook_web.md:51
 msgid ""
@@ -551,7 +551,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:103
 msgid "A “Tsunami Of E-Waste”"
-msgstr ""
+msgstr "Un « Tsunami de déchets électroniques »"
 
 #: content/be4foss-handbook/handbook_web.md:105
 msgid ""
@@ -641,10 +641,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:117
-#, fuzzy
-#| msgid "Free Software"
 msgid "Look To The Software"
-msgstr "Logiciels libres"
+msgstr "Faites connaissance avec les logiciels"
 
 #: content/be4foss-handbook/handbook_web.md:119
 msgid ""
@@ -886,7 +884,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:157
 msgid "Is All Of This Worth It?"
-msgstr ""
+msgstr "Est-ce que tout cela en vaut la peine ?"
 
 #: content/be4foss-handbook/handbook_web.md:159
 msgid ""
@@ -1107,7 +1105,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:204
 msgid "The Blue Angel For Desktop Software"
-msgstr ""
+msgstr "Le label « Blue Angel » pour les logiciels de bureau"
 
 #: content/be4foss-handbook/handbook_web.md:206
 msgid ""
@@ -1179,7 +1177,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:218
 msgid "The ABCs Of The Award Criteria"
-msgstr ""
+msgstr "Les fondamentaux des critères de récompense"
 
 #: content/be4foss-handbook/handbook_web.md:220
 msgid ""
@@ -1671,7 +1669,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:292
 msgid "Benefits Of Blue Angel"
-msgstr ""
+msgstr "Avantages du label « Blue Angel »"
 
 #: content/be4foss-handbook/handbook_web.md:294
 msgid ""
@@ -1737,7 +1735,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:312
 msgid "So what does the market say?"
-msgstr ""
+msgstr "Alors, qu'en dit le marché ?"
 
 #: content/be4foss-handbook/handbook_web.md:314
 msgid ""
@@ -1798,10 +1796,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:329
-#, fuzzy
-#| msgid "Energy Efficiency"
 msgid "(A) Resource & Energy Efficiency"
-msgstr "Efficacité énergétique"
+msgstr "(A) Ressources et efficacité énergétique"
 
 #: content/be4foss-handbook/handbook_web.md:331
 #, fuzzy
@@ -1861,10 +1857,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:347
-#, fuzzy
-#| msgid "Measure Your Software's Energy Use"
 msgid "(A) How To Measure Your Software"
-msgstr "Mesurez la consommation d'énergie de votre logiciel"
+msgstr "(A) Comment faire des mesures sur votre logiciel"
 
 #: content/be4foss-handbook/handbook_web.md:349
 msgid ""
@@ -1909,7 +1903,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:361
 msgid "Overview Of Laboratory Setup"
-msgstr ""
+msgstr "Aperçu de la configuration du laboratoire"
 
 #: content/be4foss-handbook/handbook_web.md:363
 msgid "The laboratory setup requires 1 power meter and at least 2 computers:"
@@ -1970,7 +1964,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:381
 msgid "*Computer 2: System Under Test*"
-msgstr ""
+msgstr "*Ordinateur 2 : système en cours de test*"
 
 #: content/be4foss-handbook/handbook_web.md:383
 msgid ""
@@ -1992,7 +1986,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:387
 msgid "Note the following:"
-msgstr ""
+msgstr "Veuillez noter ce qui suit :"
 
 #: content/be4foss-handbook/handbook_web.md:389
 msgid ""
@@ -2048,7 +2042,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:399
 msgid "System Under Test (SUT)"
-msgstr ""
+msgstr "Système en cours de tests (System Under Test, SUT)"
 
 #: content/be4foss-handbook/handbook_web.md:401
 msgid ""
@@ -2174,10 +2168,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:435
-#, fuzzy
-#| msgid "Automation Tools"
 msgid "More Emulation Tools"
-msgstr "Outils d'automatisation"
+msgstr "Plus d'outils d'émulation"
 
 #: content/be4foss-handbook/handbook_web.md:437
 msgid ""
@@ -2227,7 +2219,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:449
 msgid "Measurement Process"
-msgstr ""
+msgstr "Processus de mesure"
 
 #: content/be4foss-handbook/handbook_web.md:451
 msgid ""
@@ -2286,7 +2278,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:470
 msgid "The options are as follows:"
-msgstr ""
+msgstr "Les options sont les suivantes :"
 
 #: content/be4foss-handbook/handbook_web.md:472
 msgid "`-s cdmn`"
@@ -2302,7 +2294,7 @@ msgstr "`-i1`"
 
 #: content/be4foss-handbook/handbook_web.md:478
 msgid "sampling interval of 1 second"
-msgstr ""
+msgstr "intervalle d'échantillonnage de une seconde"
 
 #: content/be4foss-handbook/handbook_web.md:480
 msgid "`-P`"
@@ -2320,15 +2312,15 @@ msgstr "`--sep 59`"
 
 #: content/be4foss-handbook/handbook_web.md:486
 msgid "semicolon separator"
-msgstr ""
+msgstr "séparateur en point-virgule"
 
 #: content/be4foss-handbook/handbook_web.md:488
 msgid "`-f </PATH/TO/FILE>.csv`"
-msgstr ""
+msgstr "« -f </PATH/TO/FILE>.csv »"
 
 #: content/be4foss-handbook/handbook_web.md:490
 msgid "save file at specified path"
-msgstr ""
+msgstr "enregistrer le fichier à l'emplacement spécifié"
 
 #: content/be4foss-handbook/handbook_web.md:492
 msgid "Measuring Baseline, Idle Mode, And Standard Usage Scenarios"
@@ -2412,7 +2404,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:520
 msgid "If everything looks good, click OK."
-msgstr ""
+msgstr "Si tout semble correct, veuillez cliquer sur « Ok »."
 
 #: content/be4foss-handbook/handbook_web.md:522
 msgid ""
@@ -2422,7 +2414,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:524
 msgid "Analysis Of The Results With OSCAR"
-msgstr ""
+msgstr "Analyse des résultats avec OSCAR"
 
 #: content/be4foss-handbook/handbook_web.md:526
 msgid ""
@@ -2458,7 +2450,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:538
 msgid "(i) a log file of actions taken,"
-msgstr ""
+msgstr "(i) un fichier journal des actions effectuées,"
 
 #: content/be4foss-handbook/handbook_web.md:539
 msgid "(ii) the energy consumption data, and"
@@ -2496,7 +2488,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:548
 msgid "Log File Of Actions"
-msgstr ""
+msgstr "Fichier journal des actions"
 
 #: content/be4foss-handbook/handbook_web.md:550
 msgid ""
@@ -2513,7 +2505,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:557
 #: content/be4foss-handbook/handbook_web.md:558
 msgid "YYYY-MM-DD HH:MM:SS ;"
-msgstr ""
+msgstr "YYYY-MM-DD HH:MM:SS ;"
 
 #: content/be4foss-handbook/handbook_web.md:554
 #: content/be4foss-handbook/handbook_web.md:564
@@ -2564,11 +2556,11 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:564
 msgid "2022-05-21 18:54:36 ;"
-msgstr ""
+msgstr "2022-05-21 18:54:36 ;"
 
 #: content/be4foss-handbook/handbook_web.md:565
 msgid "2022-05-21 18:55:41 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:41 ;"
 
 #: content/be4foss-handbook/handbook_web.md:565
 msgid "go to line 100"
@@ -2576,7 +2568,7 @@ msgstr "aller à la ligne 100"
 
 #: content/be4foss-handbook/handbook_web.md:566
 msgid "2022-05-21 18:55:46 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:46 ;"
 
 #: content/be4foss-handbook/handbook_web.md:566
 msgid "toggle comment"
@@ -2584,7 +2576,7 @@ msgstr "basculer le commentaire"
 
 #: content/be4foss-handbook/handbook_web.md:567
 msgid "2022-05-21 18:55:50 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:50 ;"
 
 #: content/be4foss-handbook/handbook_web.md:567
 msgid "find kconfig"
@@ -2592,16 +2584,16 @@ msgstr "trouver le module « kconfig »"
 
 #: content/be4foss-handbook/handbook_web.md:568
 msgid "2022-05-21 18:55:55 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:55 ;"
 
 #: content/be4foss-handbook/handbook_web.md:568
 msgid "move between searches 6 times"
-msgstr ""
+msgstr "se déplacer entre les recherches 6 fois"
 
 #: content/be4foss-handbook/handbook_web.md:569
 #: content/be4foss-handbook/handbook_web.md:570
 msgid "2022-05-21 18:56:05 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:05 ;"
 
 #: content/be4foss-handbook/handbook_web.md:569
 msgid "close find bar"
@@ -2613,7 +2605,7 @@ msgstr "En attente durant 30 secondes"
 
 #: content/be4foss-handbook/handbook_web.md:571
 msgid "2022-05-21 18:56:35 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:35 ;"
 
 #: content/be4foss-handbook/handbook_web.md:571
 msgid "go to line 200"
@@ -2621,7 +2613,7 @@ msgstr "aller à la ligne 200"
 
 #: content/be4foss-handbook/handbook_web.md:572
 msgid "2022-05-21 18:56:40 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:40 ;"
 
 #: content/be4foss-handbook/handbook_web.md:572
 msgid "select 10 lines"
@@ -2629,7 +2621,7 @@ msgstr "sélectionner 10 lignes"
 
 #: content/be4foss-handbook/handbook_web.md:573
 msgid "2022-05-21 18:56:43 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:43 ;"
 
 #: content/be4foss-handbook/handbook_web.md:573
 msgid "delete selected text"
@@ -2645,13 +2637,11 @@ msgstr "[…]"
 
 #: content/be4foss-handbook/handbook_web.md:575
 msgid "2022-05-21 18:59:13 ;"
-msgstr ""
+msgstr "2022-05-21 18:59:13 ;"
 
 #: content/be4foss-handbook/handbook_web.md:577
-#, fuzzy
-#| msgid "Energy Conservation"
 msgid "Energy Consumption Data"
-msgstr "Économies d'énergie"
+msgstr "Données de consommation d'énergie"
 
 #: content/be4foss-handbook/handbook_web.md:579
 msgid ""
@@ -2692,7 +2682,7 @@ msgstr "1 ;"
 #: content/be4foss-handbook/handbook_web.md:585
 #: content/be4foss-handbook/handbook_web.md:586
 msgid "DD.MM.YY, HH:MM:SS ;"
-msgstr ""
+msgstr "DD.MM.YY, HH:MM:SS ;"
 
 #: content/be4foss-handbook/handbook_web.md:583
 msgid "value1"
@@ -2738,7 +2728,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:592
 msgid "1661611923019071 ;"
-msgstr ""
+msgstr "1661611923019071 ;"
 
 #: content/be4foss-handbook/handbook_web.md:592
 #: content/be4foss-handbook/handbook_web.md:593
@@ -2747,11 +2737,11 @@ msgstr "43"
 
 #: content/be4foss-handbook/handbook_web.md:593
 msgid "1661611923142924 ;"
-msgstr ""
+msgstr "1661611923142924 ;"
 
 #: content/be4foss-handbook/handbook_web.md:594
 msgid "1661611924293989 ;"
-msgstr ""
+msgstr "1661611924293989 ;"
 
 #: content/be4foss-handbook/handbook_web.md:594
 msgid "29"
@@ -2759,7 +2749,7 @@ msgstr "29"
 
 #: content/be4foss-handbook/handbook_web.md:595
 msgid "1661611924417017 ;"
-msgstr ""
+msgstr "1661611924417017 ;"
 
 #: content/be4foss-handbook/handbook_web.md:595
 #: content/be4foss-handbook/handbook_web.md:596
@@ -2770,15 +2760,15 @@ msgstr "28"
 
 #: content/be4foss-handbook/handbook_web.md:596
 msgid "1661611924744885 ;"
-msgstr ""
+msgstr "1661611924744885 ;"
 
 #: content/be4foss-handbook/handbook_web.md:597
 msgid "1661611924869051 ;"
-msgstr ""
+msgstr "1661611924869051 ;"
 
 #: content/be4foss-handbook/handbook_web.md:598
 msgid "1661611924992392 ;"
-msgstr ""
+msgstr "1661611924992392 ;"
 
 #: content/be4foss-handbook/handbook_web.md:600
 msgid ""
@@ -2829,7 +2819,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:616
 msgid "27.08.22, 16:52:03 ;"
-msgstr ""
+msgstr "27.08.22, 16:52:03 ;"
 
 #: content/be4foss-handbook/handbook_web.md:616
 msgid "43.00000"
@@ -2837,7 +2827,7 @@ msgstr "43.00000"
 
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "27.08.22, 16:52:04 ;"
-msgstr ""
+msgstr "27.08.22, 16:52:04 ;"
 
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "28.20000"
@@ -2845,7 +2835,7 @@ msgstr "28.20000"
 
 #: content/be4foss-handbook/handbook_web.md:619
 msgid "Performance Data (Raw)"
-msgstr ""
+msgstr "Données de performance (Brutes)"
 
 #: content/be4foss-handbook/handbook_web.md:621
 msgid ""
@@ -2898,7 +2888,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:639
 msgid "[CPU]Totl = Processor"
-msgstr ""
+msgstr "[CPU]Totl = Processeur"
 
 #: content/be4foss-handbook/handbook_web.md:640
 msgid "[MEM]Used = Main memory - used kilobytes"
@@ -2957,7 +2947,7 @@ msgstr "dsc_wr"
 
 #: content/be4foss-handbook/handbook_web.md:650
 msgid "27.08.2022 16:47:10 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:10 ;"
 
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
@@ -2996,15 +2986,15 @@ msgstr "0"
 
 #: content/be4foss-handbook/handbook_web.md:651
 msgid "27.08.2022 16:47:11 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:11 ;"
 
 #: content/be4foss-handbook/handbook_web.md:652
 msgid "27.08.2022 16:47:12 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:12 ;"
 
 #: content/be4foss-handbook/handbook_web.md:653
 msgid "27.08.2022 16:47:13 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:13 ;"
 
 #: content/be4foss-handbook/handbook_web.md:653
 msgid "120"
@@ -3012,11 +3002,11 @@ msgstr "120"
 
 #: content/be4foss-handbook/handbook_web.md:654
 msgid "27.08.2022 16:47:14 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:14 ;"
 
 #: content/be4foss-handbook/handbook_web.md:655
 msgid "27.08.2022 16:47:15 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:15 ;"
 
 #: content/be4foss-handbook/handbook_web.md:655
 msgid "56"
@@ -3024,7 +3014,7 @@ msgstr "56"
 
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "27.08.2022 16:47:16 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:16 ;"
 
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "48"
@@ -3032,15 +3022,15 @@ msgstr "48"
 
 #: content/be4foss-handbook/handbook_web.md:657
 msgid "27.08.2022 16:47:17 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:17 ;"
 
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "27.08.2022 16:47:18 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:18 ;"
 
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "27.08.2022 16:47:19 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:19 ;"
 
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "132"
@@ -3069,7 +3059,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:669
 msgid "A semicolon separator is used."
-msgstr ""
+msgstr "Un point-virgule est utilisé comme séparateur."
 
 #: content/be4foss-handbook/handbook_web.md:671
 msgid ""
@@ -3079,7 +3069,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:673
 msgid "Step 1: Obtain Measurement Data"
-msgstr ""
+msgstr "Étape 1 : obtention de données de mesure"
 
 #: content/be4foss-handbook/handbook_web.md:675
 msgid ""
@@ -3104,7 +3094,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:681
 msgid "Step 2: Upload Measurement Data"
-msgstr ""
+msgstr "Étape 2 : téléchargement de données de mesure"
 
 #: content/be4foss-handbook/handbook_web.md:683
 msgid ""
@@ -3175,7 +3165,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:705
 msgid "Consider the Okular data:"
-msgstr ""
+msgstr "Veuillez prendre en compte les données de Okular :"
 
 #: content/be4foss-handbook/handbook_web.md:707
 msgid ""
@@ -3439,7 +3429,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:786
 msgid "*Trennzeichen* ‘Separator’"
-msgstr ""
+msgstr "*Trennzeichen* « Séparateur »"
 
 #: content/be4foss-handbook/handbook_web.md:787
 msgid "*Textqualifizierer*: ‘String delimiter’"
@@ -3463,15 +3453,15 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:793
 msgid "*Spalten*: Columns"
-msgstr ""
+msgstr "*Spalten* : colonnes"
 
 #: content/be4foss-handbook/handbook_web.md:794
 msgid "*Zeitstempel*: ‘Datetime’"
-msgstr ""
+msgstr "*Zeitstempel* : « Horodatage »"
 
 #: content/be4foss-handbook/handbook_web.md:795
 msgid "*CPU-Auslastung*: ‘CPU utilization’"
-msgstr ""
+msgstr "*CPU-Auslastung* : « Utilisation du CPU »"
 
 #: content/be4foss-handbook/handbook_web.md:796
 msgid "*RAM-Auslastung*: ‘RAM utilization’"
@@ -3704,7 +3694,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:864
 msgid "(0) *Prerequisite*"
-msgstr ""
+msgstr "(0) *Prérequis*"
 
 #: content/be4foss-handbook/handbook_web.md:866
 msgid ""
@@ -3714,7 +3704,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:868
 msgid "(1) *Firmware Reset*"
-msgstr ""
+msgstr "(1) *Réinitialisation du micrologiciel*"
 
 #: content/be4foss-handbook/handbook_web.md:870
 msgid ""
@@ -3730,7 +3720,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:874
 msgid "Press the button for 40 seconds."
-msgstr ""
+msgstr "Appuyer sur le bouton pendant 40 secondes."
 
 #: content/be4foss-handbook/handbook_web.md:876
 msgid "The device will restart and you should be able to continue at (2)."
@@ -3738,7 +3728,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:878
 msgid "(2) *WiFi Setup*"
-msgstr ""
+msgstr "(2) *Configuration du Wifi*"
 
 #: content/be4foss-handbook/handbook_web.md:880
 msgid ""
@@ -3771,7 +3761,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:890
 msgid "(3) *Tasmota Setup*"
-msgstr ""
+msgstr "(3) *Configuration de Tasmota*"
 
 #: content/be4foss-handbook/handbook_web.md:892
 #: content/be4foss-handbook/handbook_web.md:918
@@ -3786,11 +3776,11 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:896
 msgid "Click “Configuration”."
-msgstr ""
+msgstr "Cliquez sur « Configuration »."
 
 #: content/be4foss-handbook/handbook_web.md:898
 msgid "Click “Configure Other”."
-msgstr ""
+msgstr "Cliquez sur « Configurer un autre »"
 
 #: content/be4foss-handbook/handbook_web.md:900
 msgid "Copy"
@@ -3798,7 +3788,7 @@ msgstr "Copier"
 
 #: content/be4foss-handbook/handbook_web.md:906
 msgid "into the template input field."
-msgstr ""
+msgstr "dans le champ de saisie du modèle."
 
 #: content/be4foss-handbook/handbook_web.md:908
 msgid "Tick the “Activate” checkbox."
@@ -3821,7 +3811,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:916
 msgid "(4) *Calibration*"
-msgstr ""
+msgstr "(4) *Calibration*"
 
 #: content/be4foss-handbook/handbook_web.md:920
 msgid ""
@@ -3841,7 +3831,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:926
 msgid "Click “Console”."
-msgstr ""
+msgstr "Cliquez sur « Console »."
 
 #: content/be4foss-handbook/handbook_web.md:928
 msgid "Enter the following commands one at a time and press enter:"
@@ -3855,7 +3845,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:940
 msgid "Click “Main Menu”."
-msgstr ""
+msgstr "Cliquez sur « Menu principal »."
 
 #: content/be4foss-handbook/handbook_web.md:942
 msgid ""
@@ -3885,7 +3875,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:950
 msgid "install the `mosquitto` package"
-msgstr ""
+msgstr "Installer le paquet « mosquitto »"
 
 #: content/be4foss-handbook/handbook_web.md:951
 msgid ""
@@ -3898,7 +3888,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:958
 msgid "(6) *MQTT Tasmota Setup*"
-msgstr ""
+msgstr "(6) *Configuration de Tasmota MQTT*"
 
 #: content/be4foss-handbook/handbook_web.md:960
 msgid ""
@@ -3970,7 +3960,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:987
 msgid "(9) *Switching WiFi Networks*"
-msgstr ""
+msgstr "(9) *Basculer vers les réseaux Wifi*"
 
 #: content/be4foss-handbook/handbook_web.md:989
 msgid ""
@@ -4054,10 +4044,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1009
-#, fuzzy
-#| msgid "Hardware Operating Life"
 msgid "(B) Hardware Operating Life"
-msgstr "Durée de vie opérationnelle du matériel"
+msgstr "(B) Durée de vie opérationnelle du matériel"
 
 #: content/be4foss-handbook/handbook_web.md:1011
 msgid ""
@@ -4096,7 +4084,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1023
 msgid "*Cores* &mdash; e.g., 4"
-msgstr ""
+msgstr "*Cœurs* &mdash; par exemple, 4"
 
 #: content/be4foss-handbook/handbook_web.md:1025
 msgid "*Clock Speed* &mdash; e.g., 3,6 GHz"
@@ -4104,7 +4092,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1027
 msgid "*RAM* &mdash; e.g., 4 GB"
-msgstr ""
+msgstr "*RAM* &mdash; par exemple, 4 Go"
 
 #: content/be4foss-handbook/handbook_web.md:1029
 msgid "*Hard Disk (SSD/HDD)* &mdash; e.g., 500 GB"
@@ -4120,7 +4108,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1035
 msgid "*Cache* &mdash; e.g., 6144 KB"
-msgstr ""
+msgstr "*Cache* &mdash; par exemple, 6144 Ko"
 
 #: content/be4foss-handbook/handbook_web.md:1037
 msgid "*Mainboard* &mdash; e.g., Fujitsu D3171-A1"
@@ -4149,10 +4137,8 @@ msgid "Transparency"
 msgstr "Transparence"
 
 #: content/be4foss-handbook/handbook_web.md:1052
-#, fuzzy
-#| msgid "Community & Support"
 msgid "Continuity Of Support"
-msgstr "Communauté et prise en charge"
+msgstr "Continuité de l'aide"
 
 #: content/be4foss-handbook/handbook_web.md:1053
 #, fuzzy
@@ -4162,7 +4148,7 @@ msgstr "Développement durable"
 
 #: content/be4foss-handbook/handbook_web.md:1054
 msgid "Offline Capability"
-msgstr ""
+msgstr "Capacité hors ligne"
 
 #: content/be4foss-handbook/handbook_web.md:1055
 msgid "Modularity"
@@ -4170,7 +4156,7 @@ msgstr "Modularité"
 
 #: content/be4foss-handbook/handbook_web.md:1056
 msgid "Freedom From Advertising"
-msgstr ""
+msgstr "Liberté de faire de la publicité"
 
 #: content/be4foss-handbook/handbook_web.md:1057
 msgid "Documentation"
@@ -4203,7 +4189,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1065
 msgid "2.1 Data Formats"
-msgstr ""
+msgstr "2.1 Formats de données"
 
 #: content/be4foss-handbook/handbook_web.md:1067
 msgid "The main information to include in documentation:"
@@ -4264,10 +4250,8 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1091
-#, fuzzy
-#| msgid "Community & Support"
 msgid "2.3 Continuity Of Support"
-msgstr "Communauté et prise en charge"
+msgstr "2.3 Continuité de l'aide"
 
 #: content/be4foss-handbook/handbook_web.md:1093
 msgid "Details about continuity of support to document include:"
@@ -4345,7 +4329,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1119
 msgid "2.5 Offline Capability"
-msgstr ""
+msgstr "2.5 Capacité hors ligne"
 
 #: content/be4foss-handbook/handbook_web.md:1121
 msgid ""
@@ -4397,7 +4381,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1137
 msgid "2.7 Freedom From Advertising"
-msgstr ""
+msgstr "2.7 Liberté de faire de la publicité"
 
 #: content/be4foss-handbook/handbook_web.md:1139
 msgid ""
@@ -4407,11 +4391,11 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1141
 msgid "2.8 Documentation"
-msgstr ""
+msgstr "2.8 Documentation"
 
 #: content/be4foss-handbook/handbook_web.md:1143
 msgid "This includes the following:"
-msgstr ""
+msgstr "Ceci inclut les éléments suivants :"
 
 #: content/be4foss-handbook/handbook_web.md:1145
 msgid ""
@@ -4470,7 +4454,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1163
 msgid "Submitting To RAL"
-msgstr ""
+msgstr "Envoi en cours vers RAL"
 
 #: content/be4foss-handbook/handbook_web.md:1165
 #, fuzzy
@@ -4679,7 +4663,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:1225
 #: content/opt-green-handbook/handbook_web.md:26
 msgid "Acknowledgments"
-msgstr ""
+msgstr "Remerciements"
 
 #: content/be4foss-handbook/handbook_web.md:1227
 msgid ""
@@ -7805,10 +7789,8 @@ msgid "Opting Green"
 msgstr "Optez pour le vert"
 
 #: content/opt-green-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Opt Green Handbook"
-msgstr "Manuel de KDE Eco"
+msgstr "Manuel de KDE Opt Green"
 
 #: content/opt-green-handbook/handbook_web.md:0
 #, fuzzy
@@ -7821,10 +7803,8 @@ msgid "htb"
 msgstr "htb"
 
 #: content/opt-green-handbook/handbook_web.md:20
-#, fuzzy
-#| msgid "About This Website"
 msgid "About This Handbook"
-msgstr "À propos de ce site Internet"
+msgstr "À propos de ce manuel"
 
 #: content/opt-green-handbook/handbook_web.md:24
 msgid ""
@@ -7869,7 +7849,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:34
 msgid "No Generative AI or LLMs"
-msgstr ""
+msgstr "Aucune IA générative ou LLM"
 
 #: content/opt-green-handbook/handbook_web.md:36
 msgid ""
@@ -7950,10 +7930,8 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:63
 #: content/opt-green-handbook/handbook_web.md:208
-#, fuzzy
-#| msgid "Sustainability"
 msgid "Part II: Digital Sustainability"
-msgstr "Développement durable"
+msgstr "Partie 2 : développement numérique durable"
 
 #: content/opt-green-handbook/handbook_web.md:64
 #: content/opt-green-handbook/handbook_web.md:401
@@ -7986,7 +7964,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:70
 msgid "Let's get started!"
-msgstr ""
+msgstr "Commençons !"
 
 #: content/opt-green-handbook/handbook_web.md:73
 msgid ""
@@ -8013,7 +7991,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:79
 msgid "Think about it for a minute."
-msgstr ""
+msgstr "Pensez y juste une minute."
 
 #: content/opt-green-handbook/handbook_web.md:81
 msgid "Now keep your answer in mind&mdash;we'll come back to it shortly."
@@ -8190,7 +8168,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:109
 msgid "A \"Tsunami Of E-Waste\""
-msgstr ""
+msgstr "Un « Tsunami de déchets électroniques »"
 
 #: content/opt-green-handbook/handbook_web.md:111
 msgid ""
@@ -8437,10 +8415,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:151
-#, fuzzy
-#| msgid "Free Software"
 msgid "Hardware, Meet Software"
-msgstr "Logiciels libres"
+msgstr "Le matériel à la rencontre des logiciels"
 
 #: content/opt-green-handbook/handbook_web.md:153
 msgid ""
@@ -8616,7 +8592,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:181
 msgid "Device Longevity"
-msgstr ""
+msgstr "Durée de vie du périphérique"
 
 #: content/opt-green-handbook/handbook_web.md:183
 msgid ""
@@ -8866,7 +8842,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:237
 msgid "What Is Source Code?"
-msgstr ""
+msgstr "Qu'est que le code source ?"
 
 #: content/opt-green-handbook/handbook_web.md:239
 msgid ""
@@ -9505,7 +9481,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:364
 msgid "\"FOSS is less secure.\""
-msgstr ""
+msgstr "« Les logiciels FOSS sont moins sécurisés »."
 
 #: content/opt-green-handbook/handbook_web.md:365
 msgid "\"I need to be a developer to benefit from FOSS.\""
@@ -9778,15 +9754,15 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:423
 msgid "Before Install Events"
-msgstr ""
+msgstr "Avant les évènements d'installation"
 
 #: content/opt-green-handbook/handbook_web.md:424
 msgid "During Install Events"
-msgstr ""
+msgstr "Pendant les évènements d'installation"
 
 #: content/opt-green-handbook/handbook_web.md:425
 msgid "After Install Events"
-msgstr ""
+msgstr "Après les évènements d'installation"
 
 #: content/opt-green-handbook/handbook_web.md:427
 msgid ""
@@ -10000,7 +9976,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:468
 msgid "KDE Plasma's slogan is:"
-msgstr ""
+msgstr "La devise de KDE Plasma est :"
 
 #: content/opt-green-handbook/handbook_web.md:470
 msgid "\"Simple by default, powerful when needed.\""
@@ -10025,7 +10001,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:474
 msgid "Stage 2. Before Install Events"
-msgstr ""
+msgstr "Étape 2. Avant les évènements d'installation"
 
 #: content/opt-green-handbook/handbook_web.md:476
 msgid ""
@@ -10036,7 +10012,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:478
 msgid "Finding Other FOSS Angels"
-msgstr ""
+msgstr "Recherche d'autres bienfaiteurs « FOSS »"
 
 #: content/opt-green-handbook/handbook_web.md:480
 msgid ""
@@ -10136,7 +10112,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:501
 msgid "Joining An Organization"
-msgstr ""
+msgstr "Adhésion à une association"
 
 #: content/opt-green-handbook/handbook_web.md:503
 msgid ""
@@ -10197,7 +10173,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:516
 msgid "Planning An Install Party"
-msgstr ""
+msgstr "Organisation d'une Install Party"
 
 #: content/opt-green-handbook/handbook_web.md:518
 msgid ""
@@ -10212,11 +10188,11 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:521
 msgid "Stage 1: Securing their data"
-msgstr ""
+msgstr "Étape 2 : sécurisation des données utilisateur"
 
 #: content/opt-green-handbook/handbook_web.md:522
 msgid "Stage 2: Installation"
-msgstr ""
+msgstr "Étape 2 : installation"
 
 #: content/opt-green-handbook/handbook_web.md:523
 msgid "Stage 3: Getting follow-up support"
@@ -10272,7 +10248,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:537
 msgid "They think it's too hard to use."
-msgstr ""
+msgstr "Ils pensent que c’est trop difficile à utiliser."
 
 #: content/opt-green-handbook/handbook_web.md:538
 msgid "They see that their out-of-date software still works, so why bother."
@@ -10445,7 +10421,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:565
 msgid "Venue, Logistics, and Outreach"
-msgstr ""
+msgstr "Emplacement, logistique et sensibilisation"
 
 #: content/opt-green-handbook/handbook_web.md:567
 msgid ""
@@ -10547,7 +10523,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:589
 msgid "Stage 3. During Install Events"
-msgstr ""
+msgstr "Étape 3. Pendant les évènements d'installation"
 
 #: content/opt-green-handbook/handbook_web.md:591
 msgid "Showing, Not Telling"
@@ -10639,7 +10615,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:609
 msgid "Securing User Data"
-msgstr ""
+msgstr "Sécurisation des données de l'utilisateur"
 
 #: content/opt-green-handbook/handbook_web.md:611
 msgid ""
@@ -10676,10 +10652,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:619
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Installing A FOSS Operating System"
-msgstr "Télécharger un système d'exploitation libre « FOSS »"
+msgstr "Installation d'un système d'exploitation « FOSS »"
 
 #: content/opt-green-handbook/handbook_web.md:621
 msgid ""
@@ -10791,10 +10765,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:648
-#, fuzzy
-#| msgid "Download a FOSS Operating System"
 msgid "Using The FOSS Operating System"
-msgstr "Télécharger un système d'exploitation libre « FOSS »"
+msgstr "Utilisation d'un système d'exploitation « FOSS »"
 
 #: content/opt-green-handbook/handbook_web.md:650
 msgid ""
@@ -10851,7 +10823,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:662
 msgid "Stage 4. After Install Events"
-msgstr ""
+msgstr "Étape 4. Après les évènements d'installation"
 
 #: content/opt-green-handbook/handbook_web.md:664
 msgid ""
@@ -10988,14 +10960,12 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:695
-#, fuzzy
-#| msgid "Resources"
 msgid "Additional Resources"
-msgstr "Ressources"
+msgstr "Ressources complémentaires"
 
 #: content/opt-green-handbook/handbook_web.md:697
 msgid "Organizing An Install Event"
-msgstr ""
+msgstr "Organisation d'un évènement d'installation"
 
 #: content/opt-green-handbook/handbook_web.md:699
 msgid ""
@@ -11039,7 +11009,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:707
 msgid "FOSS On Other Devices"
-msgstr ""
+msgstr "Logiciels « FOSS » sur d'autres périphériques"
 
 #: content/opt-green-handbook/handbook_web.md:709
 msgid ""
@@ -11052,7 +11022,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:711
 msgid "Smartphones & Tablets"
-msgstr ""
+msgstr "Smartphones et tablettes"
 
 #: content/opt-green-handbook/handbook_web.md:712
 msgid ""
@@ -11080,7 +11050,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:717
 msgid "E-book readers (KOReader)"
-msgstr ""
+msgstr "Lecteurs de E-books (KOReader)"
 
 #: content/opt-green-handbook/handbook_web.md:718
 msgid "Garage door openers (OpenGarage, ratgdo)"
@@ -11112,7 +11082,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:724
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Dépannage"
 
 #: content/opt-green-handbook/handbook_web.md:726
 msgid ""

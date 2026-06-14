@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-11 11:26+0400\n"
+"PO-Revision-Date: 2026-06-13 19:57+0400\n"
 "Last-Translator: Zayed Al-Saidi <zayed.alsaidi@gmail.com>\n"
 "Language-Team: ar\n"
 "Language: ar\n"
@@ -10495,80 +10495,68 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:309
 msgid "Proprietary OS"
-msgstr ""
+msgstr "نظام تشغيل مملوك"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "RAM"
-msgstr ""
+msgstr "الذاكرة العشوائية"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
-#, fuzzy
-#| msgid "[CPU]Totl = Processor"
 msgid "Processor"
-msgstr "[CPU]Totl = معالج"
+msgstr "المعالج"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "Storage"
-msgstr ""
+msgstr "التخزين"
 
 #: content/opt-green-handbook/handbook_web.md:311
-#, fuzzy
-#| msgid ""
-#| "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
-#| "specifications) 4 GB certain 64 bit processors 64 GB"
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
 msgstr ""
 "[ويندوز 11](https://www.microsoft.com/en-us/windows/windows-11-"
-"specifications) 4 جيجابايت معالجات 64 بت معينة 64 جيجابايت"
+"specifications)"
 
 #: content/opt-green-handbook/handbook_web.md:311
 #: content/opt-green-handbook/handbook_web.md:321
 msgid "4 GB"
-msgstr ""
+msgstr "4 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid "certain 64 bit processors"
-msgstr ""
+msgstr "معالجات 64 بت محددة"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid "64 GB"
-msgstr ""
+msgstr "64 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "+ Copilot genAI"
-msgstr ""
+msgstr "+ كوبيلوت للذكاء الاصطناعي التوليدي"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "16 GB"
-msgstr ""
+msgstr "16 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "+ NPU"
-msgstr ""
+msgstr "+ وحدة المعالجة العصبية"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "256 GB"
-msgstr ""
+msgstr "256 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:313
-#, fuzzy
-#| msgid ""
-#| "Copilot genAI 16 GB + NPU 256 GB [macOS 14](https://mackeeper.com/blog/"
-#| "macos-sonoma-compatibility/) 8 GB 64 bit 25 GB"
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
-msgstr ""
-"كوبايلوت جينAI 16 جيجابايت + NPU 256 جيجابايت [ماك أو إس 14](https://"
-"mackeeper.com/blog/macos-sonoma-compatibility/) 8 جيجابايت 64 بت 25 جيجابايت"
+msgstr "[ماك أوإس 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 
 #: content/opt-green-handbook/handbook_web.md:313
 #: content/opt-green-handbook/handbook_web.md:320
 msgid "8 GB"
-msgstr ""
+msgstr "8 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:313
 #: content/opt-green-handbook/handbook_web.md:319
@@ -10576,11 +10564,11 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:321
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "64 bit"
-msgstr ""
+msgstr "64 بت"
 
 #: content/opt-green-handbook/handbook_web.md:313
 msgid "25 GB"
-msgstr ""
+msgstr "25 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:315
 msgid ""
@@ -10609,70 +10597,74 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "FOSS-based OS"
-msgstr ""
+msgstr "نظام تشغيل مبني على البرمجيات الحرة مفتوحة المصدر"
 
 #: content/opt-green-handbook/handbook_web.md:319
 msgid ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
 msgstr ""
+"[فيدورا](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
+"hardware_overview/) (لينكس)"
 
 #: content/opt-green-handbook/handbook_web.md:319
 #: content/opt-green-handbook/handbook_web.md:320
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "2 GB"
-msgstr ""
+msgstr "2 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:319
 msgid "15 GB"
-msgstr ""
+msgstr "15 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:320
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
-msgstr ""
+msgstr "[openSUSE](https://en.opensuse.org/Hardware_requirements) (لينكس)"
 
 #: content/opt-green-handbook/handbook_web.md:321
 msgid ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 msgstr ""
+"[ديبيان](https://www.debian.org/releases/stable/amd64/ch02.en.html) (لينكس)"
 
 #: content/opt-green-handbook/handbook_web.md:321
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "512 MB"
-msgstr ""
+msgstr "512 ميغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
-msgstr ""
+msgstr "[آرتش](https://wiki.archlinux.org/title/Installation_guide) (لينكس)"
 
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "512 MiB"
-msgstr ""
+msgstr "512 ميب"
 
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 msgstr ""
+"[أوبن بي إس دي](https://www.openbsdhandbook.com/installation/) (بي إس دي)"
 
 #: content/opt-green-handbook/handbook_web.md:323
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "32 or 64 bit"
-msgstr ""
+msgstr "32 أو 64 بت"
 
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "1 GB"
-msgstr ""
+msgstr "1 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
-msgstr ""
+msgstr "[هايكو](https://www.haiku-os.org/about/faq/) (بي أو إس)"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "384 MiB"
-msgstr ""
+msgstr "384 ميب"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "1.5 GB"
-msgstr ""
+msgstr "1.5 غيغابايت"
 
 #: content/opt-green-handbook/handbook_web.md:327
 msgid ""

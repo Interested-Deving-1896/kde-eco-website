@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-10 07:14+0200\n"
+"PO-Revision-Date: 2026-06-13 06:42+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -11056,80 +11056,68 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:309
 msgid "Proprietary OS"
-msgstr ""
+msgstr "Lastniški operacijski sistem"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
-#, fuzzy
-#| msgid "[CPU]Totl = Processor"
 msgid "Processor"
-msgstr "[CPU]Totl = Processor"
+msgstr "Procesor"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "Storage"
-msgstr ""
+msgstr "Shramba"
 
 #: content/opt-green-handbook/handbook_web.md:311
-#, fuzzy
-#| msgid ""
-#| "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
-#| "specifications) 4 GB certain 64 bit processors 64 GB"
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
 msgstr ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
-"specifications) 4 GB nekateri 64-bitni procesorji 64 GB"
+"specifications)"
 
 #: content/opt-green-handbook/handbook_web.md:311
 #: content/opt-green-handbook/handbook_web.md:321
 msgid "4 GB"
-msgstr ""
+msgstr "4 GB"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid "certain 64 bit processors"
-msgstr ""
+msgstr "nekateri 64-bitni procesorji"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid "64 GB"
-msgstr ""
+msgstr "64 GB"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "+ Copilot genAI"
-msgstr ""
+msgstr "+ Copilot genAI"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "16 GB"
-msgstr ""
+msgstr "16 GB"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "+ NPU"
-msgstr ""
+msgstr "+ NPU"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "256 GB"
-msgstr ""
+msgstr "256 GB"
 
 #: content/opt-green-handbook/handbook_web.md:313
-#, fuzzy
-#| msgid ""
-#| "Copilot genAI 16 GB + NPU 256 GB [macOS 14](https://mackeeper.com/blog/"
-#| "macos-sonoma-compatibility/) 8 GB 64 bit 25 GB"
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
-msgstr ""
-"Copilot genAI 16 GB + NPU 256 GB [macOS 14](https://mackeeper.com/blog/macos-"
-"sonoma-compatibility/) 8 GB 64-bit 25 GB"
+msgstr "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 
 #: content/opt-green-handbook/handbook_web.md:313
 #: content/opt-green-handbook/handbook_web.md:320
 msgid "8 GB"
-msgstr ""
+msgstr "8 GB"
 
 #: content/opt-green-handbook/handbook_web.md:313
 #: content/opt-green-handbook/handbook_web.md:319
@@ -11137,11 +11125,11 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:321
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "64 bit"
-msgstr ""
+msgstr "64 bit"
 
 #: content/opt-green-handbook/handbook_web.md:313
 msgid "25 GB"
-msgstr ""
+msgstr "25 GB"
 
 #: content/opt-green-handbook/handbook_web.md:315
 msgid ""
@@ -11172,70 +11160,73 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "FOSS-based OS"
-msgstr ""
+msgstr "Operacijski sistem, ki temelji na prosti in odprti kodi"
 
 #: content/opt-green-handbook/handbook_web.md:319
 msgid ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
 msgstr ""
+"[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
+"hardware_overview/) (Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:319
 #: content/opt-green-handbook/handbook_web.md:320
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "2 GB"
-msgstr ""
+msgstr "2 GB"
 
 #: content/opt-green-handbook/handbook_web.md:319
 msgid "15 GB"
-msgstr ""
+msgstr "15 GB"
 
 #: content/opt-green-handbook/handbook_web.md:320
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
-msgstr ""
+msgstr "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:321
 msgid ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 msgstr ""
+"[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:321
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "512 MB"
-msgstr ""
+msgstr "512 MB"
 
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
-msgstr ""
+msgstr "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "512 MiB"
-msgstr ""
+msgstr "512 MiB"
 
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
-msgstr ""
+msgstr "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 
 #: content/opt-green-handbook/handbook_web.md:323
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "32 or 64 bit"
-msgstr ""
+msgstr "32 ali 64 bitov"
 
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "1 GB"
-msgstr ""
+msgstr "1 GB"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
-msgstr ""
+msgstr "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "384 MiB"
-msgstr ""
+msgstr "384 MiB"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "1.5 GB"
-msgstr ""
+msgstr "1.5 GB"
 
 #: content/opt-green-handbook/handbook_web.md:327
 msgid ""
