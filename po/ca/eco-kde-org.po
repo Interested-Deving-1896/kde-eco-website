@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-13 21:33+0200\n"
+"PO-Revision-Date: 2026-06-14 19:05+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -954,7 +954,7 @@ msgstr ""
 "![El 2016 es van generar 44,7 milions de tones mètriques de residus "
 "electrònics. S'estima que això equival a 4.500 Torres Eiffel, que, quan "
 "s'apilen, són 17 vegades més altes que l'Everest. Menys del 20% dels residus "
-"electrònics es recuperen i reciclen. Tot i que els residus electrònics "
+"electrònics es recullen i reciclen. Tot i que els residus electrònics "
 "representen menys del 2% de les escombraries dels abocadors, contribueix a "
 "gairebé el 70% dels residus tòxics que s'hi troben. (Imatge de KDE publicada "
 "segons una llicència [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0."
@@ -2825,14 +2825,13 @@ msgstr ""
 "(#sec:labplot)."
 
 #: content/be4foss-handbook/handbook_web.md:377
-#, fuzzy
 msgid ""
 "Other power meters may require non-Free software, e.g., Janitza’s [GridVis "
 "Power Grid Monitoring Software](https://www.gridvis.com/gridvis-overview."
 "html)."
 msgstr ""
 "Altres mesuradors d'energia poden requerir programari no lliure, per "
-"exemple, el [programari de seguiment de quadrícules d'energia de Janitza]"
+"exemple, el [programari de monitoratge de xarxa elèctrica de Janitza]"
 "(https://www.gridvis.com/gridvis-overview.html)."
 
 #: content/be4foss-handbook/handbook_web.md:379
@@ -2845,7 +2844,6 @@ msgid "*Computer 2: System Under Test*"
 msgstr "*Ordinador 2: Sistema a provar*"
 
 #: content/be4foss-handbook/handbook_web.md:383
-#, fuzzy
 msgid ""
 "The reference system is the hardware used to measure the energy consumption "
 "of the “system under test”, or SUT. The SUT includes the operating system "
@@ -2854,13 +2852,12 @@ msgid ""
 "performance results."
 msgstr ""
 "El sistema de referència és el maquinari utilitzat per mesurar el consum "
-"d'energia del «sistema en prova”, o SUT. El SUT inclou el sistema operatiu i "
-"el programari instal·lat per (i) provar el producte de programari, (ii) "
-"emular l'escenari d'ús estàndard[2]2] i (iii) recollir els resultats de "
-"rendiment del maquinari."
+"d'energia del «sistema a provar», o SUT (de l'anglès «system under test»). "
+"El SUT inclou el sistema operatiu i el programari instal·lat per (i) provar "
+"el producte de programari, (ii) emular l'escenari d'ús estàndard[^2] i (iii) "
+"recollir els resultats de rendiment del maquinari."
 
 #: content/be4foss-handbook/handbook_web.md:385
-#, fuzzy
 msgid ""
 "[^2]: It is possible to have a setup using 3 computers, with the Standard "
 "Usage Scenario emulation generated on a computer independent of the SUT; see "
@@ -2868,9 +2865,9 @@ msgid ""
 "generator can be [found at the FEEP repository](https://invent.kde.org/teams/"
 "eco/feep/-/tree/master/tools/arduino-board_external-workload-generator.md)."
 msgstr ""
-"[.2]: És possible tenir una configuració utilitzant 3 ordinadors, amb "
-"l'emulació Standard Usage Scenario generada en un ordinador independent de "
-"la SUT; vegeu Kern et al. (2018). Els detalls d'aquesta configuració amb un "
+"[^2]: És possible tenir una configuració utilitzant 3 ordinadors, amb "
+"l'emulació de l'escenari d'ús estàndard generada en un ordinador independent "
+"del SUT; vegeu Kern et al. (2018). Els detalls d'aquesta configuració amb un "
 "generador de càrrega de treball extern es poden [trobar al repositori FEEP]"
 "(https://invent.kde.org/teams/eco/feep/-/tree/master/tools/arduino-"
 "board_external-workload-generator.md)."
@@ -2880,19 +2877,18 @@ msgid "Note the following:"
 msgstr "Tingueu en compte el següent:"
 
 #: content/be4foss-handbook/handbook_web.md:389
-#, fuzzy
 msgid ""
 "For GNU/Linux systems, the [Blue Angel criteria (Section 1.1)](https://www."
 "blauer-engel.de/en/productworld/resources-and-energy-efficient-software-"
 "products) require one of several Fujitsu computers as the reference system."
 msgstr ""
-"Per als sistemes GNU/Linux, els [criteris Blue Angel (Secció 1.1)](https://"
-"www.blauer-engel.de/en/productworld/resources-and-energy-efficient-software-"
-"products) requereixen un dels diversos ordinadors Fujitsu com a sistema de "
-"referència."
+"Per als sistemes GNU/Linux, els [criteris de la Blue Angel (Secció 1.1)]"
+"(https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-"
+"software-products) requereixen un d'entre diversos ordinadors Fujitsu com a "
+"sistema de referència."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:391
-#, fuzzy
 msgid ""
 "For emulating activity in the standard usage scenario, Free Software task "
 "automation tools such as [`xdotool`](https://github.com/jordansissel/"
@@ -2901,13 +2897,12 @@ msgid ""
 "tools/doku.php?id=en:start) (GPLv3) can be used."
 msgstr ""
 "Per a emular l'activitat en l'escenari d'ús estàndard, es poden utilitzar "
-"eines d'automatització de tasques de programari lliure com [httpsxdotool,]"
-"(https://github.com/jordansissel/xdotool), [.KDE Eco Tester. (en progrés)]"
-"(https://invent.kde.org/teams/eco/feep/-/tree/master/tools/KdeEcoTest), o [."
-"Actiona.](https://wiki.actiona.tools/doku.php?id.en:start) (GPLv3)."
+"eines d'automatització de tasques de programari lliure com [`xdotool`]"
+"(https://github.com/jordansissel/xdotool), [`KDE Eco Tester` (en curs)]"
+"(https://invent.kde.org/teams/eco/feep/-/tree/master/tools/KdeEcoTest) o "
+"[`Actiona`](https://wiki.actiona.tools/doku.php?id=en:start) (GPLv3)."
 
 #: content/be4foss-handbook/handbook_web.md:393
-#, fuzzy
 msgid ""
 "For collecting hardware performance data (e.g., processor and RAM "
 "utilization, hard disk activity, network traffic), the Free Software tool "
@@ -2916,21 +2911,20 @@ msgid ""
 msgstr ""
 "Per a la recopilació de dades de rendiment del maquinari (p. ex., ús de "
 "processadors i RAM, activitat de disc dur, trànsit de xarxa), hi ha "
-"disponible l'eina de programari lliure [.Collectl.](https://sourceforge.net/"
+"disponible l'eina de programari lliure[`Collectl`](https://sourceforge.net/"
 "projects/collectl/) (Llicència GPLv2/Artistic)."
 
 #: content/be4foss-handbook/handbook_web.md:395
-#, fuzzy
 msgid ""
 "It’s also possible to [repurpose cheap switchable power plugs as measurement "
 "devices](https://volkerkrause.eu/2020/10/17/kde-cheap-power-measurement-"
 "tools.html); see Section [“Alternative: Gosund SP111 Setup”](#sec:gosundPM) "
 "for set up instructions."
 msgstr ""
-"També és possible [reutilitzar connectors d'alimentació commutable barats "
+"També és possible [reutilitzar connectors d'alimentació commutables barats "
 "com a dispositius de mesura](https://volkerkrause.eu/2020/10/17/kde-cheap-"
-"power-measurement-tools.html); vegeu Secció [«Alternative: Gosund SP111 "
-"Setup»](.sec:gosundPM) per a les instruccions de configuració."
+"power-measurement-tools.html); vegeu les instruccions de configuració a la "
+"secció [«Alternativa: Configuració de Gosund SP111»](#sec:gosundPM)."
 
 #: content/be4foss-handbook/handbook_web.md:397
 msgid ""
@@ -2950,7 +2944,6 @@ msgid "System Under Test (SUT)"
 msgstr "Sistema a provar (SUT, System Under Test)"
 
 #: content/be4foss-handbook/handbook_web.md:401
-#, fuzzy
 msgid ""
 "For instance, the Fujitsu Esprimo P920 Desktop-PC proGreen selection (Intel "
 "Core i5-4570 3,6GHz, 4GB RAM, 500GB HDD) is one of the recommended reference "
@@ -2963,7 +2956,6 @@ msgstr ""
 "sistemes Fujitsu recomanats."
 
 #: content/be4foss-handbook/handbook_web.md:403
-#, fuzzy
 msgid ""
 "On the reference system you need to set up the SUT, i.e., the system on "
 "which you will test the software. The SUT must reduce unrelated energy "
@@ -2972,45 +2964,42 @@ msgid ""
 msgstr ""
 "En el sistema de referència heu de configurar el SUT, és a dir, el sistema "
 "en el qual provareu el programari. El SUT ha de reduir el consum d'energia "
-"no relacionat i tenir una configuració estandarditzada. Recomanat és el "
+"no relacionat i tenir una configuració estandarditzada. Es recomana el "
 "següent:"
 
 #: content/be4foss-handbook/handbook_web.md:405
-#, fuzzy
 msgid "Overwrite the entire hard drive of the machine with a standardized OS."
 msgstr ""
-"Sobreescriu tot el disc dur de la màquina amb un sistema operatiu "
+"Sobreescriviu tot el disc dur de la màquina amb un sistema operatiu "
 "estandarditzat."
 
 #: content/be4foss-handbook/handbook_web.md:407
-#, fuzzy
 msgid ""
 "Deactivate all possible background processes (automatic updates, backups, "
 "indexing, etc.)."
 msgstr ""
-"Desactiva tots els processos de fons possibles (actualitzacions "
+"Desactiveu tots els processos en segon pla possibles (actualitzacions "
 "automàtiques, còpies de seguretat, indexació, etc.)."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:409
-#, fuzzy
 msgid ""
 "Install the necessary software, i.e., the application to be measured as well "
 "as the user emulation (e.g., `xdotool`) and hardware performance data (e.g., "
 "`Collectl`) software."
 msgstr ""
 "Instal·leu el programari necessari, és a dir, l'aplicació a mesurar, així "
-"com l'emulació de l'usuari (p. ex., ,xdotool.) i les dades de rendiment del "
-"maquinari (p. ex., ,Collectl.)."
+"com l'emulació de l'usuari (p. ex., `xdotool`) i les dades de rendiment del "
+"maquinari (p. ex., `Collectl`)."
 
 #: content/be4foss-handbook/handbook_web.md:411
-#, fuzzy
 msgid ""
 "When running the usage scenario scripts, the cache should be cleared between "
 "runs and any new files deleted before starting the next measurement."
 msgstr ""
 "Quan s'executen els scripts d'escenari d'ús, la memòria cau s'ha d'esborrar "
-"entre les executades i qualsevol fitxer nou esborrat abans de començar la "
-"següent mesura."
+"entre execucions i qualsevol fitxer nou suprimit abans de començar la mesura "
+"següent."
 
 #: content/be4foss-handbook/handbook_web.md:413
 msgid "Preparing The Standard Usage Scenario (SUS)"
@@ -3018,49 +3007,43 @@ msgstr ""
 "Preparació dels escenaris d'ús estàndard (SUS, Standard Usage Scenario)"
 
 #: content/be4foss-handbook/handbook_web.md:415
-#, fuzzy
 msgid "Preparing the SUS requires the following:"
 msgstr "La preparació del SUS requereix el següent:"
 
 #: content/be4foss-handbook/handbook_web.md:417
-#, fuzzy
 msgid ""
 "Identifying tasks users typically carry out when using the application under "
 "consideration."
 msgstr ""
-"Identificar les tasques que els usuaris solen dur a terme quan utilitzen "
-"l'aplicació en consideració."
+"Identificació de les tasques que els usuaris solen dur a terme quan "
+"utilitzen l'aplicació objecte d'anàlisi."
 
 #: content/be4foss-handbook/handbook_web.md:419
-#, fuzzy
 msgid ""
 "Identifying functionalities which require high energy demand or high "
 "resource utilization."
 msgstr ""
-"Identificar funcionalitats que requereixen una alta demanda d'energia o una "
-"alta utilització de recursos."
+"Identificació de funcionalitats que requereixen una demanda alta d'energia o "
+"una utilització alta de recursos."
 
 #: content/be4foss-handbook/handbook_web.md:421
-#, fuzzy
 msgid ""
 "Based on the above, scheduling a flow chart of individual actions and "
 "emulating these actions with a task automation tool."
 msgstr ""
-"Basant-se en l'anterior, programant un diagrama de flux d'accions "
+"Basant-se en l'anterior, planificant un diagrama de flux d'accions "
 "individuals i emulant aquestes accions amb una eina d'automatització de "
 "tasques."
 
 #: content/be4foss-handbook/handbook_web.md:423
-#, fuzzy
 msgid ""
 "Scheduling a wait-period of 60 seconds before starting the measurement is "
 "recommended."
 msgstr ""
-"Es recomana programar un període d'espera de 60 segons abans d'iniciar la "
+"Es recomana planificar un període d'espera de 60 segons abans d'iniciar la "
 "mesura."
 
 #: content/be4foss-handbook/handbook_web.md:425
-#, fuzzy
 msgid "Running the SUS for at least 5 minutes."
 msgstr "Execució del SUS durant almenys 5 minuts."
 
@@ -3078,18 +3061,16 @@ msgstr ""
 "sec3_PreparingSUS.png)"
 
 #: content/be4foss-handbook/handbook_web.md:429
-#, fuzzy
 msgid ""
 "An automation tool is needed to run the usage scenarios so as not to require "
 "human intervention. In this way the script can be run repeatedly in a well-"
 "defined manner to provide accurate measurements."
 msgstr ""
-"Es necessita una eina d'automatització per executar els escenaris d'ús per "
+"Es necessita una eina d'automatització per executar els escenaris d'ús per a "
 "no requerir la intervenció humana. D'aquesta manera l'script es pot executar "
 "repetidament d'una manera ben definida per proporcionar mesures precises."
 
 #: content/be4foss-handbook/handbook_web.md:431
-#, fuzzy
 msgid ""
 "Example tasks and functions tested in the SUS for KDE’s email client "
 "[`KMail`](https://apps.kde.org/kmail2/) include searching for an email, "
@@ -3098,16 +3079,16 @@ msgid ""
 "org/teams/eco/feep/-/tree/master/measurements) used to test Krita and Okular "
 "for further examples."
 msgstr ""
-"Exemple de tasques i funcions provades en el SUS per al client de correu "
-"electrònic de KDE [.KMail.](https://apps.kde.org/kmail2/) inclouen la cerca "
-"d'un correu electrònic, escriure una resposta o reenviar el correu "
+"Exemple de tasques i funcions provades en el SUS del client de correu "
+"electrònic de KDE [`KMail`](https://apps.kde.org/kmail2/) incloent-hi la "
+"cerca d'un correu electrònic, escriure una resposta o reenviar el correu "
 "electrònic, desar un adjunt, suprimir una carpeta en el client de correu, "
 "etc. Vegeu els [scripts d'Actiona](https://invent.kde.org/teams/eco/feep/-/"
-"tree/master/measurements) utilitzats per a provar el Krita i l'Okular per a "
+"tree/master/measurements) utilitzats per a provar el Krita i l'Okular amb "
 "més exemples."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:433
-#, fuzzy
 msgid ""
 "Important: If the emulation tool uses pixel coordinates to store the "
 "position of the automated clicks (e.g., `Actiona`) and, moreover, the screen "
@@ -3115,18 +3096,18 @@ msgid ""
 "laboratory computer, all pixel coordinates will have to be reset for the "
 "laboratory environment."
 msgstr ""
-"Important: Si l'eina d'emulació utilitza coordenades de píxel per "
-"emmagatzemar la posició dels clics automatitzats (p. ex. ,Actiona.) i, a "
-"més, la resolució de pantalla de l'ordinador utilitzat en preparació "
-"difereix de la de l'ordinador de laboratori, totes les coordenades de píxel "
+"Important: Si l'eina d'emulació utilitza coordenades de píxels per "
+"emmagatzemar la posició dels clics automatitzats (p. ex. `Actiona`) i, a "
+"més, la resolució de pantalla de l'ordinador utilitzat en la preparació "
+"difereix de la de l'ordinador de laboratori, totes les coordenades de píxels "
 "s'hauran de restablir per a l'entorn de laboratori."
 
 #: content/be4foss-handbook/handbook_web.md:435
 msgid "More Emulation Tools"
 msgstr "Més eines d'emulació"
 
+# skip-rule: t-acc_obe, t-com_obe_tan, kct-workflow
 #: content/be4foss-handbook/handbook_web.md:437
-#, fuzzy
 msgid ""
 "Beyond [`xdotool`](https://github.com/jordansissel/xdotool), [`KDE Eco "
 "Tester` (in progress)](https://invent.kde.org/teams/eco/feep/-/tree/master/"
@@ -3138,41 +3119,38 @@ msgid ""
 "X11-specific features, and thus do not work on Wayland systems. There are a "
 "few possible approaches here:"
 msgstr ""
-"Més enllà de [httpsxdotool.](https://github.com/jordansissel/xdotool), "
-"[httpsKDE Eco Tester. (en progrés)](https://invent.kde.org/teams/eco/feep/-/"
-"tree/master/tools/KdeEcoTest), o [.Actiona.](https://github.com/Jmgr/"
-"actiona), hi ha altres candidats per a eines que poden complir els "
-"requisits. Vegeu una llista del col·laborador del KDE David Hurka a la "
-"presentació [«*Visual Workflow Automation Tools*»](https://invent.kde.org/"
-"teams/eco/feep/-/tree/master/tools/"
-"presentationVisualWorkflowAutomationTools). La majoria de les eines "
-"utilitzen característiques específiques de X11, i per tant no funcionen en "
-"els sistemes Wayland. Hi ha alguns enfocaments possibles aquí:"
+"Més enllà de [`xdotool`](https://github.com/jordansissel/xdotool), [`KDE Eco "
+"Tester` (en progrés)](https://invent.kde.org/teams/eco/feep/-/tree/master/"
+"tools/KdeEcoTest), o [`Actiona`](https://github.com/Jmgr/actiona), hi ha "
+"altres candidats per a eines que poden complir els requisits. Vegeu una "
+"llista del col·laborador de KDE David Hurka a la presentació [«*Visual "
+"Workflow Automation Tools*»](https://invent.kde.org/teams/eco/feep/-/tree/"
+"master/tools/presentation_Visual_Workflow_Automation_Tools). La majoria de "
+"les eines utilitzen característiques específiques de X11, i per tant no "
+"funcionen en els sistemes Wayland. Aquí hi ha alguns enfocaments possibles:"
 
 #: content/be4foss-handbook/handbook_web.md:439
-#, fuzzy
 msgid ""
 "[Selenium Webdriver using AT-SPI](https://invent.kde.org/sdk/selenium-"
 "webdriver-at-spi) (currently in testing for [Season of KDE 2023](https://dot."
 "kde.org/2023/01/23/season-kde-2023-mentees-and-projects))"
 msgstr ""
-"[Selenium Webdriver using AT-SPI](https://invent.kde.org/sdk/selenium-"
-"webdriver-at-spi) (actualment en proves per a la [Fabricació de KDE 2023]"
+"[Selenium Webdriver utilitzant AT-SPI](https://invent.kde.org/sdk/selenium-"
+"webdriver-at-spi) (actualment en proves per a la [Season of KDE 2023]"
 "(https://dot.kde.org/2023/01/23/season-kde-2023-mentees-and-projects))"
 
 #: content/be4foss-handbook/handbook_web.md:441
-#, fuzzy
 msgid ""
 "[The XDG RemoteDesktop portal](https://docs.flatpak.org/en/latest/portal-api-"
 "reference.html#gdbus-org.freedesktop.portal.RemoteDesktop)"
 msgstr ""
 "[El portal XDG RemoteDesktop](https://docs.flatpak.org/en/latest/portal-api-"
-"reference.html.gdbus-org.freedesktop.portal.Desktop remot)"
+"reference.html#gdbus-org.freedesktop.portal.RemoteDesktop)"
 
 #: content/be4foss-handbook/handbook_web.md:443
-#, fuzzy
 msgid "Various Wayland protocols (support varies between compositors):"
-msgstr "Diversos protocols del Wayland (el suport varia entre compositors):"
+msgstr ""
+"Diversos protocols del Wayland (la implementació varia entre compositors):"
 
 #: content/be4foss-handbook/handbook_web.md:444
 msgid ""
@@ -3200,7 +3178,6 @@ msgid "Measurement Process"
 msgstr "Procés de mesura"
 
 #: content/be4foss-handbook/handbook_web.md:451
-#, fuzzy
 msgid ""
 "The measurement process is defined in Appendix A of the [Basic Award "
 "Criteria](https://www.blauer-engel.de/en/productworld/resources-and-energy-"
@@ -3208,74 +3185,71 @@ msgid ""
 "and performance indicators with a granularity of 1-second so that they can "
 "be processed and average values can be calculated."
 msgstr ""
-"El procés de mesura es defineix a l'Apèndix A del [Criteris de premis bàsics]"
-"(https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-"
-"software-products). Requereix registrar i registrar dades d'energia i "
-"indicadors de rendiment amb una granularitat d'1 segon perquè es puguin "
-"processar i es puguin calcular valors mitjans."
+"El procés de mesura es defineix a l'Apèndix A dels [Criteris bàsics de "
+"concessió](https://www.blauer-engel.de/en/productworld/resources-and-energy-"
+"efficient-software-products). Requereix registrar i registrar dades "
+"d'energia i indicadors de rendiment amb una granularitat d'1 segon perquè es "
+"puguin processar i es puguin calcular valors mitjans."
 
 #: content/be4foss-handbook/handbook_web.md:453
 msgid "Some general comments:"
 msgstr "Alguns comentaris generals:"
 
 #: content/be4foss-handbook/handbook_web.md:455
-#, fuzzy
 msgid "Times between the PM and DAE must be synchronized."
 msgstr "Els temps entre el PM i el DAE s'han de sincronitzar."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:457
-#, fuzzy
 msgid ""
 "When using `Collectl` to collect performance load, ensure it is running in "
 "the console of the SUT; also, check that the required CSV file is correctly "
 "generated before testing."
 msgstr ""
-"Quan s'utilitza .Collectl. per a recollir la càrrega de rendiment, assegureu-"
-"vos que s'està executant a la consola del SUT; a més, comproveu que el "
+"Quan s'utilitza `Collectl` per a recollir la càrrega de rendiment, assegureu-"
+"vos que s'estigui executant a la consola del SUT; a més, comproveu que el "
 "fitxer CSV requerit es genera correctament abans de la prova."
 
 #: content/be4foss-handbook/handbook_web.md:459
-#, fuzzy
 msgid ""
 "Since each run of the usage scenarios results in changes to the standard "
 "operating system, clearing the cache between runs is recommended."
 msgstr ""
-"Atès que cada execució dels escenaris d'ús resulta en canvis en el sistema "
-"operatiu estàndard, es recomana netejar la memòria cau entre les tirades."
+"Atès que cada execució dels escenaris d'ús dona com a resultat canvis en el "
+"sistema operatiu estàndard, es recomana netejar la memòria cau entre les "
+"execucions."
 
 #: content/be4foss-handbook/handbook_web.md:461
-#, fuzzy
 msgid ""
 "All runs (Baseline, Idle Mode, Standard Usage Scenario) must be for the same "
 "length of time, based on the time needed to run the usage scenario script."
 msgstr ""
-"Totes les tirades (Baseline, Mode Idle, Standard Usage Scenario) han de ser "
-"per a la mateixa longitud de temps, basat en el temps necessari per executar "
-"l'script d'escenari d'ús."
+"Totes les execucions (Línia base, Mode inactiu, Escenari d'ús estàndard) han "
+"de ser de la mateixa durada de temps, basada en el temps necessari per "
+"executar l'script d'escenari d'ús."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:463
-#, fuzzy
 msgid ""
 "On the DAE you may want to confirm that the desired power outlet is read out "
 "correctly before and/or during testing (e.g., with a live graph using "
 "`LabPlot`)."
 msgstr ""
-"En el DAE potser voleu confirmar que la sortida d'alimentació desitjada es "
+"En el DAE potser voleu confirmar que l'endoll d'alimentació desitjat es "
 "llegeix correctament abans i/o durant les proves (p. ex., amb un gràfic en "
-"viu utilitzant ,LabPlot).)."
+"viu utilitzant `LabPlot`)."
 
 #: content/be4foss-handbook/handbook_web.md:466
-#, fuzzy
 msgid ""
 "During the energy measurements, [`Collectl`](https://sourceforge.net/"
 "projects/collectl/) is used to record a set of performance indicators: "
 "processor utilisation, RAM utilisation, hard disk activity, and network "
 "traffic. Use the following command to obtain this hardware performance data:"
 msgstr ""
-"Durant les mesures d'energia, [,Collectl,](https://sourceforge.net/projects/"
+"Durant les mesures d'energia, [`Collectl`](https://sourceforge.net/projects/"
 "collectl/) s'utilitza per a registrar un conjunt d'indicadors de rendiment: "
 "utilització de processadors, utilització de RAM, activitat de disc dur i "
-"trànsit de xarxa. Utilitzeu la següent ordre per obtenir aquestes dades de "
+"trànsit de xarxa. Utilitzeu l'ordre següent per obtenir aquestes dades de "
 "rendiment del maquinari:"
 
 # skip-rule: t-acc_obe
@@ -3311,7 +3285,6 @@ msgid "`-P`"
 msgstr "`-P`"
 
 #: content/be4foss-handbook/handbook_web.md:482
-#, fuzzy
 msgid ""
 "output in plot format (separated data which consists of a header with one "
 "line per sampling interval)"
@@ -3338,32 +3311,27 @@ msgid "save file at specified path"
 msgstr "desa el fitxer en el camí especificat"
 
 #: content/be4foss-handbook/handbook_web.md:492
-#, fuzzy
 msgid "Measuring Baseline, Idle Mode, And Standard Usage Scenarios"
 msgstr ""
-"Mesurar la línia de base, el mode inactiu i els escenaris d'ús estàndard"
+"Mesura de la línia base, el mode inactiu i els escenaris d'ús estàndard"
 
 #: content/be4foss-handbook/handbook_web.md:494
-#, fuzzy
 msgid "Baseline Scenario: *Operating System* (OS)"
-msgstr "Escenari de la línia de base: *Sistema operatiu* (OS)"
+msgstr "Escenari de línia base: *Sistema operatiu* (OS)"
 
 #: content/be4foss-handbook/handbook_web.md:496
-#, fuzzy
 msgid ""
 "To establish the baseline, a scenario is measured in which the OS is running "
 "but no actions are taken."
 msgstr ""
-"Per establir la línia de base, es mesura un escenari en el qual el sistema "
-"operatiu s'està executant però no es prenen accions."
+"Per establir la línia base, es mesura un escenari en el qual el sistema "
+"operatiu s'està executant però no es fan accions."
 
 #: content/be4foss-handbook/handbook_web.md:498
-#, fuzzy
 msgid "Idle Mode Scenario: *OS + Application While Idle*"
-msgstr "Escenari en mode inactiu: *OS + aplicació mentre està inactiu*"
+msgstr "Escenari en mode inactiu: *SO + aplicació mentre està inactiu*"
 
 #: content/be4foss-handbook/handbook_web.md:500
-#, fuzzy
 msgid ""
 "To establish the energy consumption and hardware performance data of the "
 "application while idle, a scenario is measured in which the application "
@@ -3371,10 +3339,9 @@ msgid ""
 msgstr ""
 "Per establir les dades de consum d'energia i rendiment del maquinari de "
 "l'aplicació mentre està inactiva, es mesura un escenari en el qual s'obre "
-"l'aplicació en consideració però no es pren cap acció."
+"l'aplicació objecte d'anàlisi però no es fa cap acció."
 
 #: content/be4foss-handbook/handbook_web.md:502
-#, fuzzy
 msgid ""
 "Important: the baseline and idle mode must be run for the same time needed "
 "to carry out the standard usage scenario. Since the power consumption for "
@@ -3382,18 +3349,17 @@ msgid ""
 "each is considered sufficient to obtain a representative sample (Seiwert & "
 "Zaczyk 2021)."
 msgstr ""
-"Important: el mode base i el mode oci s'han d'executar durant el mateix "
+"Important: el mode base i el mode inactiu s'han d'executar durant el mateix "
 "temps necessari per dur a terme l'escenari d'ús estàndard. Atès que el "
-"consum d'energia per a l'escenari de referència i oci és relativament "
-"uniforme, es consideren 10 repeticions per a cadascuna d'elles suficients "
-"per obtenir una mostra representativa (Seiwert Zaczyk 2021)."
+"consum d'energia per a l'escenari de referència i inactiu és relativament "
+"uniforme, es consideren suficients 10 repeticions per a cadascuna d'ells per "
+"obtenir una mostra representativa (Seiwert & Zaczyk 2021)."
 
 #: content/be4foss-handbook/handbook_web.md:504
 msgid "Standard Usage Scenario: *OS + Application In Use*"
 msgstr "Escenari d'ús estàndard: *SO + aplicació en ús*"
 
 #: content/be4foss-handbook/handbook_web.md:506
-#, fuzzy
 msgid ""
 "To measure the energy consumption and hardware performance data of the "
 "application in use, the standard usage scenario should be run; see SUS "
@@ -3406,79 +3372,77 @@ msgstr ""
 "l'aplicació en ús, s'ha d'executar l'escenari d'ús estàndard; vegeu les "
 "notes de preparació del SUS a dalt. La mesura de l'escenari d'ús estàndard "
 "s'ha de repetir 30 vegades, cosa que trigarà diverses hores a completar-se. "
-"El major nombre de repeticions és necessari per obtenir una mostra "
-"representativa, ja que les dades de consum d'energia i rendiment poden "
-"variar entre els mesuraments."
+"Cal el nombre de repeticions més gran per obtenir una mostra representativa, "
+"ja que les dades de consum d'energia i rendiment poden variar entre els "
+"mesuraments."
 
 #: content/be4foss-handbook/handbook_web.md:508
 msgid "<a name=\"sec:labplot\"></a> Monitoring Output With Labplot"
 msgstr "<a name=\"sec:labplot\"></a> Monitoratge de la sortida amb el Labplot"
 
 #: content/be4foss-handbook/handbook_web.md:510
-#, fuzzy
 msgid ""
 "You can use KDE’s [LabPlot](https://apps.kde.org/labplot2/) to monitor the "
 "output live as data is coming in. To do this:"
 msgstr ""
-"Podeu utilitzar el [LabPlot](https://apps.kde.org/labplot2/) del KDE per a "
-"monitoritzar la sortida en viu mentre entren les dades. Per fer-ho:"
+"Podeu utilitzar el [LabPlot](https://apps.kde.org/labplot2/) de KDE per a "
+"monitorar la sortida en viu mentre entren les dades. Per fer-ho:"
 
+# skip-rule: t-sc-redirect
 #: content/be4foss-handbook/handbook_web.md:512
-#, fuzzy
 msgid "Redirect the power meter output to a CSV file."
-msgstr "Redirigeix la sortida del mesurador d'energia a un fitxer CSV."
+msgstr "Redirigiu la sortida del mesurador d'energia a un fitxer CSV."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:514
-#, fuzzy
 msgid ""
 "In LabPlot, import the CSV file by selecting `File > Add New > Live Data "
 "Source…`"
 msgstr ""
-"Al LabPlot, importeu el fitxer CSV seleccionant  theFitxer  the Afegeix una "
-"nova  the Font de dades en viu… the"
+"Al LabPlot, importeu el fitxer CSV seleccionant `Fitxer > Afegeix nou > "
+"Origen de les dades en viu…`"
 
 #: content/be4foss-handbook/handbook_web.md:516
-#, fuzzy
 msgid ""
 "Under “Filter”, select the Custom option. Under “Data Format”, define the "
 "separator value used (e.g., comma, semi-colon, space)."
 msgstr ""
-"A «Filtre”, seleccioneu l'opció Personalitza. A «Format de dades», definiu "
+"A «Filtre», seleccioneu l'opció Personalitza. A «Format de dades», definiu "
 "el valor del separador utilitzat (p. ex., coma, punt i coma, espai)."
 
 #: content/be4foss-handbook/handbook_web.md:518
-#, fuzzy
 msgid "You can check that the output is correct under the “Preview” tab."
 msgstr ""
-"Podeu comprovar que la sortida és correcta a la pestanya «Vista prèvia»."
+"Podeu comprovar que la sortida sigui correcta a la pestanya «Vista prèvia»."
 
 #: content/be4foss-handbook/handbook_web.md:520
 msgid "If everything looks good, click OK."
 msgstr "Si tot sembla correcte, feu clic a D'acord."
 
+# skip-rule: t-acc_obe, t-sc-plot
 #: content/be4foss-handbook/handbook_web.md:522
-#, fuzzy
 msgid ""
 "Finally, right-click on the data frame window and selecting `Plot Data > xy-"
 "Curve`."
 msgstr ""
 "Finalment, feu clic amb el botó dret a la finestra del marc de dades i "
-"seleccioneu  andPlota les dades . xy-Curve.."
+"seleccioneu `Dibuixa el diagrama de les dades > Corba XY`."
 
 #: content/be4foss-handbook/handbook_web.md:524
 msgid "Analysis Of The Results With OSCAR"
 msgstr "Anàlisi dels resultats amb OSCAR"
 
+# skip-rule: t-acc_obe, rst-asterisk2a
 #: content/be4foss-handbook/handbook_web.md:526
-#, fuzzy
 msgid ""
 "Once you have results, the Umwelt Campus Birkenfeld provides a useful tool "
 "for generating reports called `OSCAR` (**O**pen source **S**oftware "
 "**C**onsumption **A**nalysis in **R**):"
 msgstr ""
-"Un cop tingueu resultats, el Campus Birkenfeld d'Umwelt proporciona una eina "
-"útil per generar informes anomenada  theOSCAR a (**O**pen font **S**oftware "
-"**C**onsumption **A**nalysis in **R**):"
+"Un cop tingueu resultats, l'Umwelt Campus Birkenfeld proporciona una eina "
+"útil per generar informes anomenada `OSCAR` (**O**pen font **S**oftware "
+"**C**onsumption **A**nalysis in **R**, en català «Anàlisi de consum de "
+"programari de codi font obert en R»):"
 
 #: content/be4foss-handbook/handbook_web.md:528
 msgid ""
@@ -3490,55 +3454,52 @@ msgstr ""
 msgid "[Running instance](https://oscar.umwelt-campus.de/)"
 msgstr "[Instància en execució](https://oscar.umwelt-campus.de/)"
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:532
-#, fuzzy
 msgid ""
 "See also the OSCAR Manual with detailed instructions, including additional "
 "screenshots on how to use `OSCAR`."
 msgstr ""
 "Vegeu també el Manual de l'OSCAR amb instruccions detallades, incloses "
-"captures de pantalla addicionals sobre com utilitzar .OSCAR.."
+"captures de pantalla addicionals sobre com utilitzar `OSCAR`."
 
 #: content/be4foss-handbook/handbook_web.md:534
 msgid "CSV Files"
 msgstr "Fitxers CSV"
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:536
-#, fuzzy
 msgid ""
 "Analysis with `OSCAR` requires uploading the following files to the [OSCAR "
 "website](https://oscar.umwelt-campus.de/):"
 msgstr ""
-"L'anàlisi amb  theOSCAR the requereix carregar els següents fitxers al [lloc "
-"web OSCAR](https://oscar.umwelt-campus.de/):"
+"L'anàlisi amb `OSCAR` requereix carregar els fitxers següents al [lloc web "
+"de l'OSCAR](https://oscar.umwelt-campus.de/):"
 
 #: content/be4foss-handbook/handbook_web.md:538
-#, fuzzy
 msgid "(i) a log file of actions taken,"
 msgstr "(i) un fitxer de registre d'accions realitzades,"
 
 #: content/be4foss-handbook/handbook_web.md:539
-#, fuzzy
 msgid "(ii) the energy consumption data, and"
 msgstr "(ii) les dades de consum d'energia, i"
 
 #: content/be4foss-handbook/handbook_web.md:540
-#, fuzzy
 msgid "(iii) the hardware performance data."
 msgstr "(iii) les dades de rendiment del maquinari."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:542
-#, fuzzy
 msgid ""
 "All files should be CSV files. Some preprocessing of the raw data may be "
 "necessary (e.g., performance data measured by `Collectl`; see below)."
 msgstr ""
 "Tots els fitxers han de ser fitxers CSV. Pot ser necessari algun "
 "preprocessament de les dades en brut (p. ex., dades de rendiment mesurades "
-"per ,Collectl).; vegeu més avall)."
+"per `Collectl`; vegeu a continuació)."
 
+# skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:544
-#, fuzzy
 msgid ""
 "Important: `OSCAR` is **very** particular about data frame formats, "
 "including column names and cell values. The tables here provide examples "
@@ -3546,14 +3507,14 @@ msgid ""
 "from your CSV files, make sure CSV files are as similar as possible to those "
 "shown here."
 msgstr ""
-"Important: .OSCAR. és **molt** particular quant als formats de marc de "
+"Important: `OSCAR` és **molt** particular quant als formats de marc de "
 "dades, inclosos els noms de les columnes i els valors de les cel·les. Les "
-"taules aquí proporcionen exemples que es confirmen que funcionen. Si teniu "
-"problemes per generar un informe a partir dels fitxers CSV, assegureu-vos "
-"que els fitxers CSV siguin el més similars possibles als que es mostren aquí."
+"taules d'aquí proporcionen exemples que s'han confirmat que funcionen. Si "
+"teniu problemes per generar un informe a partir dels fitxers CSV, assegureu-"
+"vos que els fitxers CSV siguin el més similars possibles als que es mostren "
+"aquí."
 
 #: content/be4foss-handbook/handbook_web.md:546
-#, fuzzy
 msgid ""
 "If you just want to test OSCAR, you can download data for Okular in [this "
 "ZIP file](https://invent.kde.org/teams/eco/feep/-/blob/master/measurements/"
@@ -3563,20 +3524,19 @@ msgid ""
 "org/teams/eco/feep/-/blob/master/measurements/okular/2022-09-22/Bericht"
 "%20OSCAR%20Standardnutzungsszenario.pdf)."
 msgstr ""
-"Si només voleu provar l'OSCAR, podeu baixar les dades de l'Okular a [aquest "
+"Si només voleu provar l'OSCAR, podeu baixar les dades de l'Okular d'[aquest "
 "fitxer ZIP](https://invent.kde.org/teams/eco/feep/-/blob/master/measurements/"
-"okular/2022-09-22/2022-okular-data.zip). Les dades es confirmen per generar "
-"amb èxit un informe utilitzant OSCAR v0.190404. L'informe que s'ha generat "
-"també es pot descarregar al [repositori FEEP](https://invent.kde.org/teams/"
-"eco/feep/-/blob/master/measurements/okular/2022-09-22/Bericht%20OSCAR"
-"%20Standardnutzungsszenario.pdf)."
+"okular/2022-09-22/2022-okular-data.zip). Les dades s'han confirmat que "
+"generen correctament un informe utilitzant OSCAR v0.190404. L'informe que "
+"s'ha generat també es pot descarregar del [repositori FEEP](https://invent."
+"kde.org/teams/eco/feep/-/blob/master/measurements/okular/2022-09-22/Bericht"
+"%20OSCAR%20Standardnutzungsszenario.pdf)."
 
 #: content/be4foss-handbook/handbook_web.md:548
 msgid "Log File Of Actions"
 msgstr "Fitxer de registre d'accions"
 
 #: content/be4foss-handbook/handbook_web.md:550
-#, fuzzy
 msgid ""
 "The log file of actions should have the following format. Note the columns "
 "are separated by a semi-colon. Also, columns have no names (i.e., there is "
@@ -3643,16 +3603,15 @@ msgid "stopTestrun ;"
 msgstr "stopTestrun ;"
 
 #: content/be4foss-handbook/handbook_web.md:560
-#, fuzzy
 msgid ""
 "An example log file of actions for measuring KDE’s text and code editor "
 "[`Kate`](https://apps.kde.org/kate/). The (i) date and time as well as (ii) "
 "start and stop times and (iii) actions are listed in three columns."
 msgstr ""
 "Un exemple de fitxer de registre d'accions per a mesurar el text i l'editor "
-"de codi del KDE [KKate).](https://apps.kde.org/kate/). La (i) data i hora, "
-"així com (ii) hora d'inici i parada i (iii) accions estan llistades en tres "
-"columnes."
+"de codi de KDE [`Kate`](https://apps.kde.org/kate/). La (i) data i hora, "
+"així com (ii) l'hora d'inici i final i (iii) les accions estan llistades en "
+"tres columnes."
 
 # skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:564
@@ -3756,7 +3715,6 @@ msgid "Energy Consumption Data"
 msgstr "Dades de consum d'energia"
 
 #: content/be4foss-handbook/handbook_web.md:579
-#, fuzzy
 msgid ""
 "The energy consumption data has the following format: the first column is "
 "the row number, the second column is the date and time in one-second "
@@ -3766,11 +3724,11 @@ msgid ""
 "date-time as a character string with the date and time separated by a comma, "
 "and (iii) no string delimiter used in the CSV file."
 msgstr ""
-"Les dades de consum d'energia tenen el següent format: la primera columna és "
+"Les dades de consum d'energia tenen el format següent: la primera columna és "
 "el número de fila, la segona columna és la data i l'hora en increments d'un "
 "segon, i la tercera columna és la sortida de mesura en Watts. Tingueu en "
-"compte que el següent es confirma per treballar amb OSCAR: (i) els noms de "
-"la segona i tercera columna tal com s'escriuen a continuació (és a dir, "
+"compte que el següent s'ha confirmat que funciona amb l'OSCAR: (i) els noms "
+"de la segona i tercera columna tal com s'escriuen a continuació (és a dir, "
 "«Zeit» i «Wert 1-avg[W]»), (ii) la data-hora com una cadena de caràcters amb "
 "la data i hora separades per una coma, i (iii) cap delimitador de cadena "
 "utilitzat en el fitxer CSV."
@@ -3843,7 +3801,6 @@ msgid "value4"
 msgstr "value4"
 
 #: content/be4foss-handbook/handbook_web.md:588
-#, fuzzy
 msgid ""
 "When using the Gude Power Meter with the [Python script](https://invent.kde."
 "org/teams/eco/feep/-/tree/master/tools/GUDEPowerMeter) available at the FEEP "
@@ -3853,14 +3810,14 @@ msgid ""
 "the Python script. The first column shows the timestamp. The second column "
 "is the readout from the power meter in Watts."
 msgstr ""
-"Quan s'utilitza el comptador d'energia Gude amb l'script de Python](https://"
+"Quan s'utilitza el mesurador d'energia Gude amb l'[script de Python](https://"
 "invent.kde.org/teams/eco/feep/-/tree/master/tools/GUDEPowerMeter) disponible "
-"al repositori FEEP, la marca horària s'enregistrarà en [nanosegons en temps "
-"Epoch](https://en.wikipedia.org/wiki/Epochtime). Per exemple, a continuació "
-"es mostra un exemple de la sortida en brut per a 7 files de la sortida del "
-"mesurador d'energia Gude utilitzant l'script Python. La primera columna "
-"mostra la marca horària. La segona columna és la lectura del mesurador de "
-"potència en Watts."
+"al repositori FEEP, la marca horària s'enregistrarà en [nanosegons amb "
+"l'hora Epoch](https://en.wikipedia.org/wiki/Epoch_time). Per exemple, a "
+"continuació hi ha un exemple de la sortida en brut de 7 files de la sortida "
+"del mesurador d'energia Gude utilitzant l'script Python. La primera columna "
+"mostra la marca horària. La segona columna és la lectura del mesurador "
+"d'energia en Watts."
 
 # skip-rule: t-sp_pc
 #: content/be4foss-handbook/handbook_web.md:592
@@ -3913,22 +3870,21 @@ msgstr "1661611924869051 ;"
 msgid "1661611924992392 ;"
 msgstr "1661611924992392 ;"
 
+# skip-rule: t-acc_obe, t-apo_ini
 #: content/be4foss-handbook/handbook_web.md:600
-#, fuzzy
 msgid ""
 "The raw data can be preprocessed in R: Nanoseconds in Epoch time can be "
 "converted to date-time with the command `as.POSIXct(<NANOSECONDS>/1000000, "
 "origin = '1970-01-01', tz = 'Europe/Berlin')`. For example, the nanoseconds "
 "in row 1 from the raw output is “2022-08-27 16:52:03 CEST” after conversion."
 msgstr ""
-"Les dades en brut es poden preprocessar en R: Nanosegons en temps d'Epoch es "
-"poden convertir a data-hora amb l'ordre  theas."
-"POSIXct(<NANOSECONDS>/1000000, origen . '1970-01-01', tz . 'Europe/"
-"Berlin').. Per exemple, els nanosegons de la fila 1 de la sortida en brut "
-"són «2022-08-27 16:52:03 CEST» després de la conversió."
+"Les dades en brut es poden preprocessar en R: els nanosegons en hora Epoch "
+"es poden convertir a data-hora amb l'ordre `as.POSIXct(<NANOSEGONS>/1000000, "
+"origin = '1970-01-01', tz = 'Europe/Berlin')`. Per exemple, els nanosegons "
+"de la fila 1 de la sortida en brut són «2022-08-27 16:52:03 CEST» després de "
+"la conversió."
 
 #: content/be4foss-handbook/handbook_web.md:602
-#, fuzzy
 msgid ""
 "For use with OSCAR, this date-time should then be converted to a character "
 "string with the date as DD.MM.YY followed by a comma. All of this can be "
@@ -3936,10 +3892,10 @@ msgid ""
 "column in the data frame); replace the YYYY-MM-DD date with the date of your "
 "measurements:"
 msgstr ""
-"Per al seu ús amb OSCAR, aquesta data-hora s'ha de convertir en una cadena "
+"Per al seu ús amb l'OSCAR, aquesta data-hora s'ha de convertir en una cadena "
 "de caràcters amb la data com a DD.MM.YY seguida d'una coma. Tot això es pot "
 "aconseguir amb una ordre (aquesta operació es pot vectoritzar sobre tota la "
-"columna en el marc de dades); reemplaça la data AAAA-MM-DD amb la data de "
+"columna en el marc de dades); substituïu la data AAAA-MM-DD amb la data de "
 "les vostres mesures:"
 
 # skip-rule: t-acc_obe, t-apo_ini
@@ -3952,27 +3908,25 @@ msgstr ""
 "origin = '1970-01-01', tz = 'Europe/Berlin')), '2022-08-27', '27.08.22,')`"
 
 #: content/be4foss-handbook/handbook_web.md:606
-#, fuzzy
 msgid ""
 "The output in Watts should be averaged per second. The same data above is "
 "shown below after processing with R; note the 7 values above are averaged "
 "per second, resulting in two rows."
 msgstr ""
-"La sortida en Watts s'ha de fer mitjana per segon. Les mateixes dades "
-"anteriors es mostren a continuació després de processar amb R; tingueu en "
-"compte que els 7 valors anteriors són de mitjana per segon, resultant en "
-"dues files."
+"La sortida en Watts s'ha d'indicar amb la mitjana per segon. Les mateixes "
+"dades anteriors es mostren a continuació després de processar amb R; tingueu "
+"en compte que els 7 valors anteriors són la mitjana per segon, que dona el "
+"resultat en dues files."
 
 #: content/be4foss-handbook/handbook_web.md:608
-#, fuzzy
 msgid ""
 "To save the CSV file with a semi-colon separator, the first column with row "
 "names starting at the number 1, and no string delimiter, use the following R "
 "command:"
 msgstr ""
 "Per a desar el fitxer CSV amb un separador de punt i coma, la primera "
-"columna amb noms de fila que comencen al número 1, i sense delimitador de "
-"cadenes, utilitzeu la següent ordre R:"
+"columna amb noms de fila que comença al número 1, i sense delimitador de "
+"cadena, utilitzeu l'ordre R següent:"
 
 # skip-rule: t-acc_obe
 #: content/be4foss-handbook/handbook_web.md:610
@@ -4009,27 +3963,25 @@ msgstr "28.20000"
 msgid "Performance Data (Raw)"
 msgstr "Dades de rendiment (en brut)"
 
+# skip-rule: t-acc_obe, punctuation-period-no
 #: content/be4foss-handbook/handbook_web.md:621
-#, fuzzy
 msgid ""
 "When using `Collectl` for hardware performance data, it is necessary to do "
 "the following before uploading the data to OSCAR.[^3]"
 msgstr ""
-"Quan s'utilitza ,Collectl, per a dades de rendiment de maquinari, cal fer el "
-"següent abans de pujar les dades a OSCAR.[,3]"
+"Quan s'utilitza `Collectl` per a dades de rendiment de maquinari, cal fer el "
+"següent abans de pujar les dades a l'OSCAR[^3]."
 
 #: content/be4foss-handbook/handbook_web.md:623
-#, fuzzy
 msgid ""
 "[^3]: See Seiwert & Zaczyk 2021: p. 13 for details; see also Appendix A 2 on "
 "p. 46 for a Python script to automate some of these tasks."
 msgstr ""
-"[.3]: Vegeu Seiwert Zaczyk 2021: p. 13 per als detalls; vegeu també "
-"l'Apèndix A 2 a p. 46 per a un script en Python per automatitzar algunes "
+"[^3]: Vegeu Seiwert & Zaczyk 2021: p. 13 per als detalls; vegeu també "
+"l'Apèndix A 2 a la p. 46 amb un script en Python per automatitzar algunes "
 "d'aquestes tasques."
 
 #: content/be4foss-handbook/handbook_web.md:625
-#, fuzzy
 msgid "Remove all information above the header row."
 msgstr "Elimina tota la informació sobre la fila de capçalera."
 
@@ -4056,7 +4008,7 @@ msgid ""
 msgstr ""
 "La data també hauria de tenir un caràcter inserit entre YYYYMMDD, p. ex. MM."
 "DD.YYYY com s'ha vist anteriorment. Qualsevol caràcter que s'utilitzi s'ha "
-"d'especificar a .OSCAR.."
+"d'especificar a `OSCAR`."
 
 #: content/be4foss-handbook/handbook_web.md:633
 #, fuzzy
@@ -4065,7 +4017,7 @@ msgid ""
 "`OSCAR`."
 msgstr ""
 "Els noms de les columnes poden ser el que vulgueu, ja que s'especificaran "
-"dins de .OSCAR.."
+"dins de `OSCAR`."
 
 #: content/be4foss-handbook/handbook_web.md:635
 #, fuzzy
@@ -4079,7 +4031,7 @@ msgid ""
 "columns that are not necessary for analysis. The only measurements that need "
 "to be specified are the following columns:"
 msgstr ""
-"A més, la sortida de rendiment del maquinari de  theCollectl. inclou moltes "
+"A més, la sortida de rendiment del maquinari del `Collectl` inclou moltes "
 "columnes que no són necessàries per a l'anàlisi. Les úniques mesures que "
 "s'han d'especificar són les següents columnes:"
 
@@ -4115,7 +4067,7 @@ msgid ""
 "increments."
 msgstr ""
 "A continuació es mostra un exemple dels resultats preprocessats de  "
-"theCollectl. que mesuren les dades de rendiment del Kate. La marca horària "
+"`Collectl` que mesuren les dades de rendiment del Kate. La marca horària "
 "augmenta en increments d'un segon."
 
 # skip-rule: t-sp_pc
@@ -4347,7 +4299,7 @@ msgid ""
 "Once you have the CSV files for the baseline, idle mode, and standard usage "
 "scenario measurements ready, click on *(2) Upload Messdaten* > *Upload*."
 msgstr ""
-"Un cop tingueu els fitxers CSV per a la línia de base, el mode inactiu i les "
+"Un cop tingueu els fitxers CSV per a la línia base, el mode inactiu i les "
 "mesures d'escenari d'ús estàndard llestos, feu clic a *(2) Puja el "
 "missatge* . *Upload*."
 
@@ -4403,7 +4355,7 @@ msgid ""
 "Note that the baseline measurements are always uploaded along with either "
 "the idle mode or standard usage scenario measurements."
 msgstr ""
-"Tingueu en compte que les mesures de la línia de base sempre es carreguen "
+"Tingueu en compte que les mesures de la línia base sempre es carreguen "
 "juntament amb el mode inactiu o les mesures d'escenari d'ús estàndard."
 
 #: content/be4foss-handbook/handbook_web.md:697
@@ -4485,7 +4437,7 @@ msgid ""
 "In `OSCAR` this is specified as \"%d.%m.%y, %H:%M:%OS\" (see screenshot "
 "below), in which the lowercase “%y” indicates a year with two digits."
 msgstr ""
-"A .OSCAR. això s'especifica com a «%d.%m.%y, %H:%M:%OS» (vegeu la captura de "
+"A `OSCAR` això s'especifica com a «%d.%m.%y, %H:%M:%OS» (vegeu la captura de "
 "pantalla de sota), en la qual la minúscula «%y» indica un any amb dos dígits."
 
 #: content/be4foss-handbook/handbook_web.md:715
@@ -4526,7 +4478,7 @@ msgid ""
 msgstr ""
 "***Dades de mesurament*** nbsp;nbsp; Després que s'hagin especificat "
 "correctament les marques de temps, explorarem el format de les dades de "
-"mesura (alemany: *Formatierung Messdaten*) a .OSCAR.."
+"mesura (alemany: *Formatierung Messdaten*) a `OSCAR`."
 
 #: content/be4foss-handbook/handbook_web.md:723
 #, fuzzy
@@ -4608,15 +4560,14 @@ msgstr ""
 "càlcul."
 
 #: content/be4foss-handbook/handbook_web.md:739
-#, fuzzy
 msgid ""
 "![Specifying the format of the measurement data (German: *Formatierung "
 "Messdaten*) for the log file of actions (German: *Aktionen*).](images/"
 "sec3_oscar_4_actions.png)"
 msgstr ""
-"![Especificant el format de les dades de mesura (alemany: *Formatierung "
+"![Especificació del format de les dades de mesura (alemany: *Formatierung "
 "Messdaten*) per al fitxer de registre d'accions (alemany: *Aktionen*).]"
-"(images/sec3oscar4actions.png)"
+"(images/sec3_oscar_4_actions.png)"
 
 #: content/be4foss-handbook/handbook_web.md:741
 #, fuzzy
@@ -5018,7 +4969,7 @@ msgstr ""
 #, fuzzy
 msgid "Software stack used for the measurements (`xdotool`, `Collectl`, etc.)."
 msgstr ""
-"Pila de programari utilitzada per a les mesures (,xdotool,, ,Collectl)., "
+"Pila de programari utilitzada per a les mesures (`xdotool`, `Collectl`, "
 "etc.)."
 
 #: content/be4foss-handbook/handbook_web.md:830
@@ -5066,7 +5017,7 @@ msgid ""
 "*Base Load*: Average load for the reference system in Baseline measurements."
 msgstr ""
 "*Càrrega base*: Càrrega mitjana per al sistema de referència en les mesures "
-"de la línia de base."
+"de la línia base."
 
 #: content/be4foss-handbook/handbook_web.md:837
 #, fuzzy
@@ -5186,7 +5137,7 @@ msgid ""
 "firmware](https://tasmota.github.io/docs) in 10 steps."
 msgstr ""
 "A continuació es mostra una guia per a configurar un connector d'alimentació "
-"[Gosund SP111](https://templates.blakadder.com/gosundSP111v2.html) ja "
+"[Gosund SP111](https://templates.blakadder.com/gosund_SP111_v2.html) ja "
 "[flashed](https://github.com/tasmota/docs/blob/development/docs/devices/"
 "BlitzWolf-SHP6.md) amb el [microprogramari Tasmota](https://tasmota.github."
 "io/docs) en 10 passos."
@@ -5496,7 +5447,7 @@ msgid ""
 "devices."
 msgstr ""
 "Fixeu-vos en el valor que es mostra a la dreta de l'etiqueta «Topic» entre "
-"parèntesis (normalment com «tasmotaxxxxxx»). Això serà necessari més "
+"parèntesis (normalment com «tasmota_xxxxxx»). Això serà necessari més "
 "endavant per adreçar-se al dispositiu a través de MQTT. També podeu canviar "
 "el valor per defecte a quelcom més fàcil de recordar, però això ha de ser "
 "únic si teniu múltiples dispositius."
@@ -5642,7 +5593,6 @@ msgid "(10) *Recovering Non-Booting Devices*"
 msgstr "(10) *Recuperació de dispositius que no són de soroll*"
 
 #: content/be4foss-handbook/handbook_web.md:999
-#, fuzzy
 msgid ""
 "First and foremost: **DO NOT CONNECT THE DEVICE TO MAIN POWER**! That would "
 "be life-threatening. The entire flashing process is solely powered from 3.3V "
@@ -5650,11 +5600,11 @@ msgid ""
 "this [getting started guide](https://tasmota.github.io/docs/Getting-"
 "Started/)."
 msgstr ""
-"En primer lloc: **NO CONNECTEU EL DISPOSITIU A LA POTÈNCIA PRINCIPAL**! Això "
-"seria una amenaça per a la vida. Tot el procés de parpelleig és alimentat "
-"únicament a partir de 3.3V subministrat per l'adaptador de sèrie. No feu res "
-"d'això sense haver llegit aquesta [guia iniciada](https://tasmota.github.io/"
-"docs/Getting-Started/)."
+"En primer lloc i més important: **NO CONNECTEU EL DISPOSITIU A LA CORRENT "
+"GENERAL**! Això seria un risc mortal. Tot el procés de flaix és alimentat "
+"únicament a partir de 3,3V subministrat per l'adaptador en sèrie. No feu res "
+"d'això sense haver llegit aquesta [guia de com començar](https://tasmota."
+"github.io/docs/Getting-Started/)."
 
 #: content/be4foss-handbook/handbook_web.md:1001
 #, fuzzy
@@ -5701,13 +5651,12 @@ msgstr ""
 "mantindrà en el mode correcte fins a un reinici."
 
 #: content/be4foss-handbook/handbook_web.md:1007
-#, fuzzy
 msgid ""
 "Again: **DO NOT CONNECT THE DEVICE TO MAIN POWER** as this is life-"
 "threatening."
 msgstr ""
-"De nou: **NO CONNECTIS EL DISPOSITIU A LA POTÈNCIA PRINCIPAL**, ja que això "
-"és mortal."
+"De nou: **NO CONNECTEU EL DISPOSITIU A LA CORRENT GENERAL**, ja que això és "
+"mortal."
 
 #: content/be4foss-handbook/handbook_web.md:1009
 msgid "(B) Hardware Operating Life"
@@ -6437,7 +6386,7 @@ msgstr ""
 "Des de 2008, el grup de treball d'Enginyeria del Software Verd treballa en "
 "projectes de recerca centrats en el programari sostenible. La seva recerca "
 "proporciona la base del treball aquí, i el seu equip ha desenvolupat eines "
-"com .OSCAR. i ha mesurat diverses aplicacions KDE, incloent-hi l'Okular."
+"com `OSCAR` i ha mesurat diverses aplicacions KDE, incloent-hi l'Okular."
 
 # skip-rule: ff-institut
 #: content/be4foss-handbook/handbook_web.md:1199
@@ -11382,7 +11331,7 @@ msgid ""
 "*[Free Software, Free Society (First Edition)](https://dn790008.ca.archive."
 "org/0/items/Free_Software_Free_Society/Free_Software_Free_Society.pdf)*."
 msgstr ""
-"[.2]: Exemple d'E. Buckman \\ Joshua Gray, ,Una nota sobre el programari'' a "
+"[^2]: Exemple d'E. Buckman \\ Joshua Gray, ,Una nota sobre el programari'' a "
 "*[Free Software, Free Society (Primera edició)](https://dn790008.ca.archive."
 "org/0/items/FreeSoftwareFreeSociety/FreeSoftwareFreeSociety.pdf)*."
 
@@ -11453,7 +11402,7 @@ msgid ""
 "code do exist, the output is often distorted from the original and can be "
 "difficult to understand."
 msgstr ""
-"[.3]: Tot i que existeixen «descompiladors» que converteixen codi binari de "
+"[^3]: Tot i que existeixen «descompiladors» que converteixen codi binari de "
 "nou en codi font, la sortida sovint es distorsiona de l'original i pot ser "
 "difícil d'entendre."
 
@@ -11618,7 +11567,7 @@ msgstr ""
 "document i no s'invoquen més accions per l'script de mesura. Com podeu "
 "veure, el processador de textos de codi obert 1 no funciona (tal com es "
 "podria esperar). Per contra, Proprietary Word Processor 2 continua "
-"funcionant, consumint potència addicional fins a la finalització de la "
+"funcionant, consumint energia addicional fins a la finalització de la "
 "mesura. Val la pena preguntar per a què serveixen les activitats addicionals "
 "de 440 a 600 segons: són necessàries les accions de Word Processor 2 per a "
 "la funcionalitat del programari? El processador de textos propietari recull "
