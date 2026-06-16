@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-13 05:20-0300\n"
+"PO-Revision-Date: 2026-06-15 20:10-0300\n"
 "Last-Translator: Marcus Gama <marcus.gama@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
 "Language: pt_BR\n"
@@ -14665,7 +14665,7 @@ msgstr "Instale software gratuito e de código aberto"
 #. be-green.opt-free.title
 #: i18n/en.yaml:103 i18n/en.yaml:115
 msgid "Opt Free with FOSS Apps"
-msgstr "Opte por livre com aplicativos FOSS"
+msgstr "Opte pela liberdade com aplicativos FOSS"
 
 #. be-green.opt-free.description
 #: i18n/en.yaml:105

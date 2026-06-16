@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-13 13:13+0200\n"
+"PO-Revision-Date: 2026-06-15 15:33+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -11897,6 +11897,12 @@ msgid ""
 "learn why sustainable software makes for sustainable hardware and how you "
 "can help new users get started with Free & Open Source Software."
 msgstr ""
+"Vrije en open source software (FOSS) maakt het mogelijk om hardware langer "
+"te gebruiken. Dat is niet alleen goed voor uw portemonnee, maar het "
+"vermindert ook onnodig elektronisch afval en schadelijke CO2-uitstoot. In "
+"het Opt Green-handboek leert u waarom duurzame software zorgt voor duurzame "
+"hardware en hoe u nieuwe gebruikers kunt helpen om aan de slag te gaan met "
+"vrije en open source software."
 
 #. grow-green.flyer-section.description
 #: i18n/en.yaml:235
@@ -11908,11 +11914,18 @@ msgid ""
 "distribute it in your community now. Let your neighbors know why the most "
 "environmentally-friendly device is the one they already own!"
 msgstr ""
+"De folder \"Milieuvriendelijke software?!\" geeft een overzicht van de "
+"milieuschade veroorzaakt door elektronisch afval en de productie van "
+"hardware – en hoe u die kunt bestrijden met gratis en open source software "
+"(FOSS). De folder is uitgegeven onder een Creative Commons-licentie, wat "
+"betekent dat u hem nu kunt printen en verspreiden in uw buurt. Laat uw buren "
+"weten waarom het meest milieuvriendelijke apparaat er eentje is die ze al "
+"hebben!"
 
 #. grow-green.flyer-section.button
 #: i18n/en.yaml:237
 msgid "Get Flyer"
-msgstr ""
+msgstr "Flyer ophalen"
 
 #. grow-green.install-party-section.description
 #: i18n/en.yaml:241
@@ -11924,11 +11937,17 @@ msgid ""
 "and host an install party in your community. Learn more at the End Of 10 and "
 "[DI.Day](https://di.day/) websites."
 msgstr ""
+"Met initiatieven zoals Einde 10 en Digitale onafhankelijkheidsdag (DI.Day) "
+"helpen enthousiasten over de hele wereld in reparatiecollectieven, "
+"onafhankelijke computerwinkels, Linux-gebruikersgroepen, FabLabs en "
+"MakerSpaces nieuwe gebruikers op weg met vrije en open source software "
+"(FOSS). Ook u kunt meedoen en een installatieparty organiseren in uw buurt. "
+"Lees meer op de websites van Eind 10 en [DI.Day](https://di.day/)."
 
 #. grow-green.install-party-section.button
 #: i18n/en.yaml:243
 msgid "End Of 10"
-msgstr ""
+msgstr "Einde 10"
 
 #. endof10.text
 #: i18n/en.yaml:245
