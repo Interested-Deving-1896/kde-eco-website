@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-15 15:33+0200\n"
+"PO-Revision-Date: 2026-06-16 12:05+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -10901,6 +10901,13 @@ msgid ""
 "online for help. Make a list of the forums and mailing lists which are "
 "relevant for their new operating system."
 msgstr ""
+"Vergeet niet te laten zien hoe ze zichzelf ook kunnen helpen. Er is een "
+"overvloed aan online bronnen, en hoewel deze niet voor iedereen geschikt "
+"zijn (veel gebruikers willen gewoon dat hun computer werkt en zijn niet "
+"bereid om forumberichten door te lezen, laat staan ​​een account aan te maken "
+"om een ​​vraag te stellen), zullen er deelnemers zijn die baat hebben bij de "
+"wetenschap dat er online hulp beschikbaar is. Maak een lijst van de forums "
+"en mailinglijsten die relevant zijn voor hun nieuwe besturingssysteem."
 
 #: content/opt-green-handbook/handbook_web.md:681
 msgid ""
@@ -10908,30 +10915,43 @@ msgid ""
 "(published under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5."
 "html) license).](images/sec3_tech_support_cheat_sheet.png)"
 msgstr ""
+"![XKCD comic [\"627: Tech Support Cheat Sheet\"](https://xkcd.com/627/) "
+"(gepubliceerd onder een [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-"
+"NC-2.5.html) licentie).](images/sec3_tech_support_cheat_sheet.png)"
 
 #: content/opt-green-handbook/handbook_web.md:683
 msgid ""
 "For online support, it helps to demonstrate a workflow for resolving "
 "problems. This includes:"
 msgstr ""
+"Voor online ondersteuning is het handig om een ​​werkmethode voor het oplossen "
+"van problemen te demonstreren. Deze werkmethode omvat:"
 
 #: content/opt-green-handbook/handbook_web.md:685
 msgid ""
 "Always having a recent backup. If something goes wrong, having a backup "
 "makes it much easier to start over without risk of data loss."
 msgstr ""
+"Zorg altijd voor een recente reservekopie. Als er iets misgaat, maakt een "
+"reservekopie het veel gemakkelijker om opnieuw te beginnen zonder risico op "
+"gegevensverlies."
 
 #: content/opt-green-handbook/handbook_web.md:686
 msgid ""
 "Read error messages. In many cases, the error message will give you critical "
 "information for fixing an issue."
 msgstr ""
+"Lees de foutmeldingen. In veel gevallen bevat de foutmelding cruciale "
+"informatie voor het oplossen van een probleem."
 
 #: content/opt-green-handbook/handbook_web.md:687
 msgid ""
 "Search online for solutions. It sometimes helps to paste the error message "
 "along with \"solved\" in a search engine to find a solution more quickly."
 msgstr ""
+"Zoek online naar oplossingen. Het kan soms helpen om de foutmelding samen "
+"met \"opgelost\" in een zoekmachine te plakken om sneller een oplossing te "
+"vinden."
 
 #: content/opt-green-handbook/handbook_web.md:688
 msgid ""
@@ -10939,6 +10959,9 @@ msgid ""
 "Read the entire post first to see if the suggested solutions actually helped "
 "before trying something yourself."
 msgstr ""
+"Lees de forumberichten. Probeer niet zomaar terminalopdrachten te kopiëren "
+"en te plakken. Lees eerst het hele bericht om te zien of de voorgestelde "
+"oplossingen daadwerkelijk hebben geholpen voordat u zelf iets probeert."
 
 #: content/opt-green-handbook/handbook_web.md:689
 msgid ""
@@ -10949,6 +10972,13 @@ msgid ""
 "about the internet, after all&mdash;but don't let it get to you. Many more "
 "will be patient and helpful. Focus your energy on them!"
 msgstr ""
+"Plaats uw probleem op een forum. Zoek het juiste forum, voeg informatie toe "
+"over het systeem (software, versie, hardware, acties die het probleem hebben "
+"veroorzaakt zodat anderen het kunnen reproduceren, eventuele foutmeldingen) "
+"en wees vriendelijk en dankbaar. Sommige mensen kunnen onbeleefd overkomen – "
+"we hebben het tenslotte over internet – maar laat u zich daardoor niet "
+"ontmoedigen. Veel meer mensen zullen geduldig en behulpzaam zijn. Richt uw "
+"energie op hen!"
 
 #: content/opt-green-handbook/handbook_web.md:691
 msgid ""
@@ -10956,6 +10986,9 @@ msgid ""
 "and answer questions about KDE Plasma on various distros.](images/"
 "sec3_discuss-kde-org.png)"
 msgstr ""
+"![Schermafdrukken van het KDE-forum](https://discuss.kde.org/), waar "
+"gebruikers vragen kunnen stellen en beantwoorden over KDE Plasma op "
+"verschillende distributies.](images/sec3_discuss-kde-org.png)"
 
 #: content/opt-green-handbook/handbook_web.md:693
 msgid ""
@@ -10964,6 +10997,11 @@ msgid ""
 "of any legal issues this can present and that the organization behind the "
 "event is ok with it."
 msgstr ""
+"Sommige mensen bieden extra ondersteuning aan tegen een uurtarief buiten de "
+"evenementen om. Als u een helper bent en besluit dit te doen, zorg er dan "
+"voor dat u op de hoogte bent van eventuele juridische problemen die dit met "
+"zich mee kan brengen en dat de organisatie achter het evenement ermee "
+"instemt."
 
 #: content/opt-green-handbook/handbook_web.md:695
 msgid "Additional Resources"
@@ -10971,13 +11009,16 @@ msgstr "Aanvullende hulpbronnen"
 
 #: content/opt-green-handbook/handbook_web.md:697
 msgid "Organizing An Install Event"
-msgstr ""
+msgstr "Organiseer een installatie-evenement"
 
 #: content/opt-green-handbook/handbook_web.md:699
 msgid ""
 "More can be found at [New User Support Awesome List](https://invent.kde.org/"
 "teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md)."
 msgstr ""
+"Meer informatie is te vinden op [New User Support Awesome List](https://"
+"invent.kde.org/teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-"
+"support.md)."
 
 #: content/opt-green-handbook/handbook_web.md:701
 msgid ""
@@ -10985,6 +11026,9 @@ msgid ""
 "organize-an-install-party) -- Short guide to organizing an install party, "
 "from the End Of 10 campaign FAQ (2025)"
 msgstr ""
+"[Hoe organiseer ik een installatiefeest?](https://endof10.org/faq/#how-do-i-"
+"organize-an-install-party) -- Korte handleiding voor het organiseren van een "
+"installatiefeest, uit de FAQ van de Eind 10-campagne (2025)"
 
 #: content/opt-green-handbook/handbook_web.md:702
 msgid ""
@@ -10992,6 +11036,9 @@ msgid ""
 "Umstieg_auf_Linux) -- Preparing for a Linux install party, from LUG "
 "Villingen-Schwenningen e.V. (German) (2025)"
 msgstr ""
+"[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/"
+"Umstieg_auf_Linux) -- Voorbereiding op een Linux-installatieparty, van LUG "
+"Villingen-Schwenningen e.V. (German) (2025)"
 
 #: content/opt-green-handbook/handbook_web.md:703
 msgid ""
@@ -10999,12 +11046,18 @@ msgid ""
 "werkstatt/linux) -- Guides to getting started with Linux, from Repair-Café "
 "Hilpoltstein (German) (2025)"
 msgstr ""
+"[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
+"werkstatt/linux) -- Gidsen om te beginnen met Linux, van Repair-Café "
+"Hilpoltstein (German) (2025)"
 
 #: content/opt-green-handbook/handbook_web.md:704
 msgid ""
 "[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
 "-- Organizing an installation event, from the Fedora Linux community (2019)"
 msgstr ""
+"[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
+"-- Organiseren van een installatie-evenement, van de Fedora Linux community "
+"(2019)"
 
 #: content/opt-green-handbook/handbook_web.md:705
 msgid ""
@@ -11012,10 +11065,13 @@ msgid ""
 "html) -- Guidelines for running a successful installfest, from The Linux "
 "Documentation Project (2012)"
 msgstr ""
+"[Linux Installfest HOWTO](https://tldp.org/HOWTO/Installfest-HOWTO/index."
+"html) -- Richtlijnen voor het succesvol organiseren van een "
+"installatieparty, van The Linux Documentation Project (2012)"
 
 #: content/opt-green-handbook/handbook_web.md:707
 msgid "FOSS On Other Devices"
-msgstr ""
+msgstr "FOSS op andere apparaten"
 
 #: content/opt-green-handbook/handbook_web.md:709
 msgid ""
@@ -11025,34 +11081,45 @@ msgid ""
 "the needs of many users. Caveat emptor! However, you may want to explore the "
 "exciting world of FOSS on other devices. Here are some examples:"
 msgstr ""
+"In deze handleiding hebben we ons gericht op pc's, maar veel andere "
+"apparaten kunnen ook worden opgewerkt naar FOSS. In sommige gevallen is de "
+"vrije en open source software (FOSS) nog volop in ontwikkeling (bijvoorbeeld "
+"Linux op smartphones) en voldoet deze mogelijk niet aan de behoeften van "
+"veel gebruikers. Let op! U kunt echter de spannende wereld van FOSS op "
+"andere apparaten verkennen. Hier zijn enkele voorbeelden:"
 
 #: content/opt-green-handbook/handbook_web.md:711
 msgid "Smartphones & Tablets"
-msgstr ""
+msgstr "Smartphones & Tablets"
 
 #: content/opt-green-handbook/handbook_web.md:712
 msgid ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
 msgstr ""
+"Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
+"Ubuntu Touch, Phosh"
 
 #: content/opt-green-handbook/handbook_web.md:713
 msgid "Android derivatives: Replicant, lineageOS, e/OS"
-msgstr ""
+msgstr "Android afgeleiden: Replicant, lineageOS, e/OS"
 
 #: content/opt-green-handbook/handbook_web.md:714
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
 msgstr ""
+"Thuisserver (FreedomBox voor bestandssynchronisatie, chat, e-mail en media)"
 
 #: content/opt-green-handbook/handbook_web.md:715
 msgid "Home automation (Home Assistant, included with FreedomBox)"
-msgstr ""
+msgstr "Home automation (Home Assistant, zit in FreedomBox)"
 
 #: content/opt-green-handbook/handbook_web.md:716
 msgid ""
 "Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
 msgstr ""
+"Smart TV's (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
+"org/))"
 
 #: content/opt-green-handbook/handbook_web.md:717
 msgid "E-book readers (KOReader)"
@@ -11067,6 +11134,9 @@ msgid ""
 "There are certainly other exciting projects to make your digital life fully "
 "FOSS and independent. It's a big Free & Open Source Software world out there."
 msgstr ""
+"Er zijn zeker nog andere spannende projecten om uw digitale leven volledig "
+"FOSS en onafhankelijk te maken. De wereld van vrije en open source software "
+"is enorm."
 
 #: content/opt-green-handbook/handbook_web.md:722
 msgid ""
@@ -11082,7 +11152,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:724
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Probleemoplossing"
 
 #: content/opt-green-handbook/handbook_web.md:726
 msgid ""
@@ -11092,30 +11162,44 @@ msgid ""
 "problems, see the workflow above for a basic guide to searching for "
 "solutions online."
 msgstr ""
+"Hieronder vindt u een aantal algemene bronnen voor het oplossen van "
+"mogelijke problemen. Deze lijst is geenszins volledig en richt zich op "
+"basisoplossingen (bijv. het gebruik van een grafische gebruikersinterface in "
+"plaats van een commandoregelinterface). Als u specifieke problemen heeft, "
+"raadpleeg dan de bovenstaande werkmethode voor een basisgids voor het online "
+"zoeken naar oplossingen."
 
 #: content/opt-green-handbook/handbook_web.md:728
 msgid ""
 "[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
 msgstr ""
+"[Linux wordt niet geïnstalleerd](https://www.ifixit.com/Troubleshooting/"
+"Linux/Not+Installing/616642)"
 
 #: content/opt-green-handbook/handbook_web.md:729
 msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 msgstr ""
+"[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
+"bitlocker-during-ubuntu-installation/)"
 
 #: content/opt-green-handbook/handbook_web.md:730
 msgid ""
 "[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
 "com/blog/install-linux-nvidia-driver/)"
 msgstr ""
+"[NVIDIA-stuurprogramma's installeren op Linux: een uitgebreide handleiding]"
+"(https://linuxvox.com/blog/install-linux-nvidia-driver/)"
 
 #: content/opt-green-handbook/handbook_web.md:731
 msgid ""
 "[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
 msgstr ""
+"[Hoe een printer in Linux in te stellen](https://www.maketecheasier.com/set-"
+"up-a-printer-in-linux/)"
 
 #: content/opt-green-handbook/handbook_web.md:732
 msgid ""
@@ -11123,6 +11207,9 @@ msgid ""
 "com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
 "p/36236)"
 msgstr ""
+"[Problemen met Linux oplossen: een beginnershandleiding](https://learn."
+"redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-"
+"Guide/td-p/36236)"
 
 #: content/opt-green-handbook/handbook_web.md:733
 msgid ""
@@ -11130,12 +11217,18 @@ msgid ""
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
 "tips-for-new-users/)"
 msgstr ""
+"[Problemen met Linux oplossen: tips voor nieuwe gebruikers](https://www."
+"dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
+"tips-for-new-users/)"
 
 #: content/opt-green-handbook/handbook_web.md:734
 msgid ""
 "[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
 "org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 msgstr ""
+"[Problemen met Linux oplossen: een handleiding voor nieuwe gebruikers]"
+"(https://codegig.org/troubleshooting-common-linux-issues-a-guide-for-new-"
+"users/)"
 
 #: content/opt-green-handbook/handbook_web.md:737
 msgid ""
@@ -11154,6 +11247,8 @@ msgid ""
 "![Logo of the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety.](images/sec4_bmuv.png)"
 msgstr ""
+"![Logo van het Federale Ministerie voor Milieu, Klimaatactie, Natuurbehoud "
+"en Kernveiligheid.](images/sec4_bmuv.png)"
 
 #: content/sustainable-goal/_index.md:0
 msgid "Sustainable Software Goal"
@@ -11863,6 +11958,8 @@ msgstr "Lees het Kies green-ondersteuningshandboek"
 msgid ""
 "Learn about sustainable software and how to support new users with FOSS."
 msgstr ""
+"Leer meer over duurzame software en hoe u nieuwe gebruikers kunt "
+"ondersteunen met FOSS."
 
 #. grow-green.flyer.title
 #: i18n/en.yaml:219 i18n/en.yaml:233
@@ -11875,11 +11972,13 @@ msgid ""
 "Spread the word about independent, sustainable FOSS and long-term hardware "
 "use."
 msgstr ""
+"Verspreid het woord over onafhankelijk, duurzaam FOSS en het langdurig "
+"gebruik van hardware."
 
 #. grow-green.install-party.title
 #: i18n/en.yaml:223 i18n/en.yaml:239
 msgid "Host Install Parties In Your Community"
-msgstr ""
+msgstr "Organiseer installatiefeesten in uw gemeenschap"
 
 #. grow-green.install-party.description
 #: i18n/en.yaml:225
@@ -11887,6 +11986,8 @@ msgid ""
 "Join initiatives such as End of 10 and DI.Day to bring FOSS to your "
 "community."
 msgstr ""
+"Doe mee aan initiatieven zoals Einde 10 en DI.Day om FOSS naar uw "
+"gemeenschap te brengen."
 
 #. grow-green.handbook-section.description
 #: i18n/en.yaml:229

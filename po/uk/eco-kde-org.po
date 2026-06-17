@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-13 10:13+0300\n"
+"PO-Revision-Date: 2026-06-16 08:47+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -7601,7 +7601,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:54
 msgid "Introduction: What's This All About?"
-msgstr ""
+msgstr "Вступ: про що це все?"
 
 #: content/opt-green-handbook/handbook_web.md:56
 msgid ""
@@ -7842,7 +7842,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:109
 msgid "A \"Tsunami Of E-Waste\""
-msgstr ""
+msgstr "«Цунамі електронного сміття»"
 
 #: content/opt-green-handbook/handbook_web.md:111
 msgid ""
@@ -8769,36 +8769,38 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "RAM"
-msgstr ""
+msgstr "Оперативна пам'ять"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "Processor"
-msgstr ""
+msgstr "Процесор"
 
 #: content/opt-green-handbook/handbook_web.md:309
 #: content/opt-green-handbook/handbook_web.md:317
 msgid "Storage"
-msgstr ""
+msgstr "Сховище даних"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
 msgstr ""
+"[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
+"specifications)"
 
 #: content/opt-green-handbook/handbook_web.md:311
 #: content/opt-green-handbook/handbook_web.md:321
 msgid "4 GB"
-msgstr ""
+msgstr "4 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid "certain 64 bit processors"
-msgstr ""
+msgstr "певні 64-бітові процесори"
 
 #: content/opt-green-handbook/handbook_web.md:311
 msgid "64 GB"
-msgstr ""
+msgstr "64 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "+ Copilot genAI"
@@ -8806,15 +8808,15 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "16 GB"
-msgstr ""
+msgstr "16 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "+ NPU"
-msgstr ""
+msgstr "+ Мережевий процесор"
 
 #: content/opt-green-handbook/handbook_web.md:312
 msgid "256 GB"
-msgstr ""
+msgstr "256 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:313
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
@@ -8823,7 +8825,7 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:313
 #: content/opt-green-handbook/handbook_web.md:320
 msgid "8 GB"
-msgstr ""
+msgstr "8 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:313
 #: content/opt-green-handbook/handbook_web.md:319
@@ -8831,11 +8833,11 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:321
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "64 bit"
-msgstr ""
+msgstr "64-бітовий"
 
 #: content/opt-green-handbook/handbook_web.md:313
 msgid "25 GB"
-msgstr ""
+msgstr "25 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:315
 msgid ""
@@ -8866,11 +8868,11 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:320
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "2 GB"
-msgstr ""
+msgstr "2 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:319
 msgid "15 GB"
-msgstr ""
+msgstr "15 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:320
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
@@ -8884,7 +8886,7 @@ msgstr ""
 #: content/opt-green-handbook/handbook_web.md:321
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "512 MB"
-msgstr ""
+msgstr "512 МБ"
 
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
@@ -8892,7 +8894,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:322
 msgid "512 MiB"
-msgstr ""
+msgstr "512 МіБ"
 
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
@@ -8905,7 +8907,7 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:323
 msgid "1 GB"
-msgstr ""
+msgstr "1 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
@@ -8913,11 +8915,11 @@ msgstr ""
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "384 MiB"
-msgstr ""
+msgstr "384 МіБ"
 
 #: content/opt-green-handbook/handbook_web.md:324
 msgid "1.5 GB"
-msgstr ""
+msgstr "1,5 ГБ"
 
 #: content/opt-green-handbook/handbook_web.md:327
 msgid ""
