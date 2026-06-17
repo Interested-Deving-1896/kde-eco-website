@@ -1,4 +1,7 @@
 ---
+title: "Opting Green"
+description: KDE Opt Green Handbook
+layout: opt-green-handbook
 author: KDE Eco
 date: 26 February 2026
 title: "Opting Green"
