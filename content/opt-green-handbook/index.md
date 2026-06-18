@@ -1,5 +1,6 @@
 ---
 title: "Opting Green"
+subtitle: 'Sustainable Software For Sustainable Hardware — And How Repair Collectives Can Bring Free & Open Source Software To Communities'
 description: KDE Opt Green Handbook
 layout: opt-green-handbook
 author: KDE Eco
