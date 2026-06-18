@@ -9,8 +9,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-13 02:04+0000\n"
-"PO-Revision-Date: 2026-06-16 21:00+0200\n"
+"POT-Creation-Date: 2026-06-18 02:09+0000\n"
+"PO-Revision-Date: 2026-06-17 22:19+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2024-05-29_introducing-ns4nh.md:0 content/get-involved.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "KDE Eco"
 msgstr "KDE Eco"
 
@@ -57,17 +57,17 @@ msgid "A Handbook To Certifying Software As Sustainable (February 2023)"
 msgstr "Un manual per a certificar programari com a sostenible (febrer 2023)"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "en"
 msgstr "ca"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "\\ "
 msgstr "\\ "
 
 #: content/be4foss-handbook/handbook_web.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "\\thepage"
 msgstr "\\thepage"
 
@@ -130,8 +130,8 @@ msgstr "El llibre està dividit en tres parts:"
 
 #: content/be4foss-handbook/handbook_web.md:30
 #: content/be4foss-handbook/handbook_web.md:37
-#: content/opt-green-handbook/handbook_web.md:62
-#: content/opt-green-handbook/handbook_web.md:71
+#: content/opt-green-handbook/index.md:65
+#: content/opt-green-handbook/index.md:74
 msgid "Part I: Environmental Impact Of Software"
 msgstr "Part I: Impacte ambiental del programari"
 
@@ -402,7 +402,7 @@ msgstr ""
 "diàriament."
 
 #: content/be4foss-handbook/handbook_web.md:63
-#: content/opt-green-handbook/handbook_web.md:95
+#: content/opt-green-handbook/index.md:98
 msgid "Material Footprint Of Digital Technology"
 msgstr "Petjada material de la tecnologia digital"
 
@@ -1236,7 +1236,7 @@ msgstr ""
 "clarament després que el document es desi aproximadament a la marca de 440 "
 "segons i l'script no invoqui altres accions. En comparació, el processador "
 "de textos propietari 2 (*baix*) poques vegades passa a inactiu, fins i tot "
-"després de desar el document i no s'invoquin altres accions. (Captura de "
+"després de desar el document i que no s'invoquin altres accions. (Captura de "
 "pantalla de l'article [Kern et al. 2018](https://doi.org/10.1016/j."
 "future.2018.02.044) publicat segons la llicència [CC-BY-NC-ND](https://spdx."
 "org/licenses/CC-BY-NC-ND-4.0.html); captura de pantalla publicada aquí amb "
@@ -1491,14 +1491,14 @@ msgstr ""
 "En tercer lloc, és d'esperar que ja quedi clar que el programari *té* "
 "impactes significatius en el consum d'energia i en la producció de residus, "
 "tots dos amb conseqüències per al medi ambient. A més, si es consideren "
-"canvis mínims a escala en el disseny de programari pot resultar en estalvis "
+"canvis mínims a escala en el disseny de programari pot provocar estalvis "
 "comparables al consum anual d'energia de ciutats senceres. Aquesta afirmació "
 "es basa en un exemple de Detlef Thoms, enginyer de producte a SAP, que [fa "
 "càlculs aproximats](https://open.hpi.de/courses/cleanit2021/"
 "items/5DHsS3tJsXAqfUE4q4F82Z) (04:20&ndash;06:10) per anar d'una reducció de "
 "CPU d'un segon, equivalent a un estalvi de 10 watts segon, a un estalvi de "
-"95 mil megawatts hora simplement augmentant. Aquests estalvis són "
-"comparables amb el consum anual d'energia de més de 30 mil llars de dues "
+"95 mil megawatts hora simplement augmentant l'escala. Aquests estalvis són "
+"comparables amb el consum anual d'energia de més de 30.000 llars de dues "
 "persones."
 
 #: content/be4foss-handbook/handbook_web.md:171
@@ -1624,7 +1624,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:185
 #: content/be4foss-handbook/handbook_web.md:318
-#: content/opt-green-handbook/handbook_web.md:38
+#: content/opt-green-handbook/index.md:41
 msgid "A Note On Sources"
 msgstr "Una nota sobre les fonts"
 
@@ -6314,7 +6314,7 @@ msgid "About"
 msgstr "Quant a"
 
 #: content/be4foss-handbook/handbook_web.md:1219
-#: content/opt-green-handbook/handbook_web.md:22
+#: content/opt-green-handbook/index.md:25
 msgid "Authors"
 msgstr "Autors"
 
@@ -6360,7 +6360,7 @@ msgstr ""
 "les fonts."
 
 #: content/be4foss-handbook/handbook_web.md:1225
-#: content/opt-green-handbook/handbook_web.md:26
+#: content/opt-green-handbook/index.md:29
 msgid "Acknowledgments"
 msgstr "Reconeixements"
 
@@ -6417,7 +6417,7 @@ msgstr ""
 "Gràcies!"
 
 #: content/be4foss-handbook/handbook_web.md:1233
-#: content/opt-green-handbook/handbook_web.md:49
+#: content/opt-green-handbook/index.md:52
 msgid "License"
 msgstr "Llicència"
 
@@ -6439,7 +6439,7 @@ msgstr ""
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
 #: content/blog/2022-03-05-energy-conservation-day.md:33
 #: content/blog/2024-05-29_introducing-ns4nh.md:114 content/blog/post-1.md:59
-#: content/opt-green-handbook/handbook_web.md:735
+#: content/opt-green-handbook/index.md:738
 msgid "Funding Notice"
 msgstr "Anunci de finançament"
 
@@ -6456,7 +6456,7 @@ msgstr ""
 "disponibles per una resolució del Bundestag alemany."
 
 #: content/be4foss-handbook/handbook_web.md:1241
-#: content/opt-green-handbook/handbook_web.md:739
+#: content/opt-green-handbook/index.md:742
 msgid "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 msgstr ""
 "![Logotip de l'Agència de Medi Ambient de l'Alemanya Federal.](images/"
@@ -6475,7 +6475,7 @@ msgstr ""
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
 #: content/blog/2024-05-29_introducing-ns4nh.md:126 content/blog/post-1.md:71
-#: content/opt-green-handbook/handbook_web.md:743
+#: content/opt-green-handbook/index.md:746
 msgid "The publisher is responsible for the content of this publication."
 msgstr "L'editor és el responsable del contingut d'aquesta publicació."
 
@@ -9411,28 +9411,27 @@ msgstr "Creeu verd"
 msgid "Make green"
 msgstr "Creeu verd"
 
-#: content/opt-green-handbook/_index.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "Opting Green"
 msgstr "Opteu pel verd"
 
-#: content/opt-green-handbook/_index.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "KDE Opt Green Handbook"
 msgstr "Manual del KDE opció verda"
 
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "How Sustainable Software Makes for Sustainable Hardware"
 msgstr "Què fa el programari sostenible per al maquinari sostenible"
 
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "htb"
 msgstr "htb"
 
-#: content/opt-green-handbook/handbook_web.md:20
+#: content/opt-green-handbook/index.md:23
 msgid "About This Handbook"
 msgstr "Sobre aquest manual"
 
-#: content/opt-green-handbook/handbook_web.md:24
+#: content/opt-green-handbook/index.md:27
 msgid ""
 "The text of this version of the handbook was written and compiled from "
 "various sources by Joseph P. De Veaugh-Geiss. Annie Musgrove edited the text "
@@ -9444,7 +9443,7 @@ msgstr ""
 "text d'acord amb les directrius editorials del KDE Eco. Anita Sengupta i "
 "Arwin Neil Baichoo van fer bonic el disseny del llibre i del lloc web."
 
-#: content/opt-green-handbook/handbook_web.md:28
+#: content/opt-green-handbook/index.md:31
 msgid ""
 "A general thank you to the many contributors to the KDE Eco initiative, the "
 "Opt Green project, and End Of 10 campaign. An incomplete list (in "
@@ -9468,7 +9467,7 @@ msgstr ""
 "tot el món que ajuden els usuaris nous amb programari lliure de codi obert. "
 "Tots sou una inspiració."
 
-#: content/opt-green-handbook/handbook_web.md:30
+#: content/opt-green-handbook/index.md:33
 msgid ""
 "People interested in contributing to KDE Eco are encouraged to join the "
 "[Matrix room](https://webchat.kde.org/#/room/#kde-eco:kde.org). Contributors "
@@ -9481,7 +9480,7 @@ msgstr ""
 "en persona o en línia del KDE Eco. Més informació al nostre [lloc web]"
 "(https://eco.kde.org/get-involved/)."
 
-#: content/opt-green-handbook/handbook_web.md:32
+#: content/opt-green-handbook/index.md:35
 msgid ""
 "The Opt Green project has benefited from many informative discussions that "
 "took place at the following conferences, workshops, meetups, and festivals: "
@@ -9499,11 +9498,11 @@ msgstr ""
 "Hannover, Nürnberg, i Dessau, SFSCon, Umweltfestival i Weltver.nderer. "
 "Gràcies!"
 
-#: content/opt-green-handbook/handbook_web.md:34
+#: content/opt-green-handbook/index.md:37
 msgid "No Generative AI or LLMs"
 msgstr "Sense IA generativa ni LLM"
 
-#: content/opt-green-handbook/handbook_web.md:36
+#: content/opt-green-handbook/index.md:39
 msgid ""
 "No Generative AI or LLMs were used at any stage in the preparation or "
 "writing of this handbook, despite what the frequent use of [em-dashes]"
@@ -9516,7 +9515,7 @@ msgstr ""
 "magazine/chatgpt-dash-hyphen-writing-communication.html)."
 
 # skip-rule: t-com_obe_tan
-#: content/opt-green-handbook/handbook_web.md:40
+#: content/opt-green-handbook/index.md:43
 msgid ""
 "Some text in Parts I & II have been adapted from the KDE Eco handbook "
 "[\"Applying The Blue Angel Criteria To Free Software\"](https://eco.kde.org/"
@@ -9530,7 +9529,7 @@ msgstr ""
 "Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)](https://spdx.org/"
 "licenses/CC-BY-SA-4.0.html)."
 
-#: content/opt-green-handbook/handbook_web.md:42
+#: content/opt-green-handbook/index.md:45
 msgid ""
 "Part III benefited from the following texts by the Linux User Group "
 "Villingen-Schwenningen and Repair-Café Hilpoltstein:"
@@ -9538,13 +9537,13 @@ msgstr ""
 "La part III s'ha beneficiat dels textos següents del grup d'usuaris de Linux "
 "de Villingen-Schwenningen i Repair-Café Hilpoltstein:"
 
-#: content/opt-green-handbook/handbook_web.md:44
+#: content/opt-green-handbook/index.md:47
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 msgstr ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:45
+#: content/opt-green-handbook/index.md:48
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux)"
@@ -9552,7 +9551,7 @@ msgstr ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux)"
 
-#: content/opt-green-handbook/handbook_web.md:47
+#: content/opt-green-handbook/index.md:50
 msgid ""
 "Wikipedia provided references to several texts included here. Thank you to "
 "the commons community for making such excellent resources available for all "
@@ -9562,7 +9561,7 @@ msgstr ""
 "Gràcies a la comunitat procomú per posar a disposició de tots nosaltres "
 "aquests recursos excel·lents."
 
-#: content/opt-green-handbook/handbook_web.md:51
+#: content/opt-green-handbook/index.md:54
 msgid ""
 "Unless indicated otherwise, all contents released under the [Creative "
 "Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)](https://"
@@ -9576,11 +9575,11 @@ msgstr ""
 "sobre la llicència de documentació a KDE, vegeu la [política de llicències "
 "de KDE](https://community.kde.org/Policies/Licensing_Policy)."
 
-#: content/opt-green-handbook/handbook_web.md:54
+#: content/opt-green-handbook/index.md:57
 msgid "Introduction: What's This All About?"
 msgstr "Introducció: Sobre què va tot això?"
 
-#: content/opt-green-handbook/handbook_web.md:56
+#: content/opt-green-handbook/index.md:59
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software and how Free & Open Source Software (FOSS) provides a solution."
@@ -9589,7 +9588,7 @@ msgstr ""
 "pel programari i com el programari lliure de codi obert (FOSS) proporciona "
 "una solució."
 
-#: content/opt-green-handbook/handbook_web.md:58
+#: content/opt-green-handbook/index.md:61
 msgid ""
 "At this point, you might wonder: What does sustainability have to do with "
 "software? How can something so seemingly immaterial as software have an "
@@ -9604,7 +9603,7 @@ msgstr ""
 "els fan obsolets; fins i tot si en algun cas aquests desenvolupaments no són "
 "necessaris."
 
-#: content/opt-green-handbook/handbook_web.md:60
+#: content/opt-green-handbook/index.md:63
 msgid ""
 "In this book, we'll take a closer look at the ways software, and the "
 "hardware that runs it, is contributing to the climate crisis, and what you "
@@ -9616,17 +9615,17 @@ msgstr ""
 "climàtica, i el que podeu fer respecte a això en la vostra comunitat, avui! "
 "El llibre es divideix en tres parts principals:"
 
-#: content/opt-green-handbook/handbook_web.md:63
-#: content/opt-green-handbook/handbook_web.md:208
+#: content/opt-green-handbook/index.md:66
+#: content/opt-green-handbook/index.md:211
 msgid "Part II: Digital Sustainability"
 msgstr "Part II: Sostenibilitat digital"
 
-#: content/opt-green-handbook/handbook_web.md:64
-#: content/opt-green-handbook/handbook_web.md:401
+#: content/opt-green-handbook/index.md:67
+#: content/opt-green-handbook/index.md:404
 msgid "Part III: Upgrading Devices With FOSS"
 msgstr "Part III: Actualització de dispositius amb FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:66
+#: content/opt-green-handbook/index.md:69
 msgid ""
 "While Part I explores the *why* and Part II the *what*, Part III discusses "
 "the *how* by exploring what you need to consider when helping others upgrade "
@@ -9646,7 +9645,7 @@ msgstr ""
 "a pas, sinó un esbós del que creiem que és útil per començar, amb punters a "
 "com trobar recursos per a més informació."
 
-#: content/opt-green-handbook/handbook_web.md:68
+#: content/opt-green-handbook/index.md:71
 msgid ""
 "The target audience for Parts I & II is anyone who cares about the "
 "environment and the role software plays in digital sustainability. Part III "
@@ -9667,11 +9666,11 @@ msgstr ""
 "«Final del 10» i Dia de la Independència Digital, festes d'instal·lació de "
 "Linux, CryptoParties, etc."
 
-#: content/opt-green-handbook/handbook_web.md:70
+#: content/opt-green-handbook/index.md:73
 msgid "Let's get started!"
 msgstr "Comencem!"
 
-#: content/opt-green-handbook/handbook_web.md:73
+#: content/opt-green-handbook/index.md:76
 msgid ""
 "<!--![Photograph of e-waste. (Image published under a [CC0-1.0](https://spdx."
 "org/licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste."
@@ -9681,7 +9680,7 @@ msgstr ""
 "llicència de domini públic [CC0-1.0](https://spdx.org/licenses/CC0-1.0."
 "html).)](images/sec1_e-waste.jpg)-->\n"
 
-#: content/opt-green-handbook/handbook_web.md:75
+#: content/opt-green-handbook/index.md:78
 msgid ""
 "Before we dive into the environmental impact of software, consider how you "
 "would complete this sentence:"
@@ -9689,19 +9688,19 @@ msgstr ""
 "Abans de submergir-nos en l'impacte ambiental del programari, considereu com "
 "completaríeu aquesta frase:"
 
-#: content/opt-green-handbook/handbook_web.md:77
+#: content/opt-green-handbook/index.md:80
 msgid "**The most environmentally-friendly device is …**"
 msgstr "**El dispositiu més respectuós amb el medi ambient és…**"
 
-#: content/opt-green-handbook/handbook_web.md:79
+#: content/opt-green-handbook/index.md:82
 msgid "Think about it for a minute."
 msgstr "Penseu-hi durant un minut."
 
-#: content/opt-green-handbook/handbook_web.md:81
+#: content/opt-green-handbook/index.md:84
 msgid "Now keep your answer in mind&mdash;we'll come back to it shortly."
 msgstr "Ara, recordeu la vostra resposta; tornarem a parlar d'això en breu."
 
-#: content/opt-green-handbook/handbook_web.md:83
+#: content/opt-green-handbook/index.md:86
 msgid ""
 "Digital technology has revolutionized how we live, and it is often praised "
 "for bringing not only convenience but also efficiency to our daily lives. "
@@ -9733,7 +9732,7 @@ msgstr ""
 "dia ja no són necessaris, atès que ara existeixen gairebé només en forma "
 "digital en els nostres dispositius."
 
-#: content/opt-green-handbook/handbook_web.md:85
+#: content/opt-green-handbook/index.md:88
 msgid ""
 "For all the ways that digitization has made our lives more convenient and "
 "more efficient, it may seem like these technological developments are also "
@@ -9744,7 +9743,7 @@ msgstr ""
 "tecnològics també siguin menys materials i menys malbaratadors. Però "
 "realment ho són?"
 
-#: content/opt-green-handbook/handbook_web.md:87
+#: content/opt-green-handbook/index.md:90
 msgid ""
 "Short answer, no. The internet and the computers we use to connect to it "
 "require physical infrastructure. This includes the extraction of materials "
@@ -9776,7 +9775,7 @@ msgstr ""
 "d'energia i recursos d'un dispositiu mentre encara l'utilitzeu."
 
 # skip-rule: t-sc-blog
-#: content/opt-green-handbook/handbook_web.md:89
+#: content/opt-green-handbook/index.md:92
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper from e-"
 "waste at Agbogbloshie, Ghana, as another metal scrap worker arrives with "
@@ -9791,7 +9790,7 @@ msgstr ""
 "licenses/CC-BY-SA-4.0.html).](images/sec1_800px-"
 "Agbogbloshie_Ghana_September_2019.jpg)"
 
-#: content/opt-green-handbook/handbook_web.md:91
+#: content/opt-green-handbook/index.md:94
 msgid ""
 "This handbook will take a closer look at some of the ways digital technology "
 "is contributing to environmental harm and the climate crisis. To be clear, "
@@ -9813,7 +9812,7 @@ msgstr ""
 "influència immediata i significativa en molts dels temes tractats al llarg "
 "d'aquest manual."
 
-#: content/opt-green-handbook/handbook_web.md:93
+#: content/opt-green-handbook/index.md:96
 msgid ""
 "In order to address a problem effectively, however, we must first understand "
 "the problem. So let's explore what is meant by the digital environmental "
@@ -9824,7 +9823,7 @@ msgstr ""
 "ambiental digital i com està involucrat el programari que utilitzem "
 "diàriament."
 
-#: content/opt-green-handbook/handbook_web.md:97
+#: content/opt-green-handbook/index.md:100
 msgid ""
 "Digital technology is often (and erroneously) associated with being "
 "immaterial. But there is a very real, very material aspect to digitization, "
@@ -9841,7 +9840,7 @@ msgstr ""
 "maquinari produït en massa, i cables i centres de dades que els connecten a "
 "xarxes globals."
 
-#: content/opt-green-handbook/handbook_web.md:99
+#: content/opt-green-handbook/index.md:102
 msgid ""
 "We use more digital devices than ever before. The number of internet-"
 "connected devices, including laptops and smartphones, but also smart TVs, "
@@ -9864,7 +9863,7 @@ msgstr ""
 "mineria dels metalls de terres rares necessaris per fer-los funcionar, i el "
 "seu transport, ús i l'eliminació final, tot té un impacte ambiental."
 
-#: content/opt-green-handbook/handbook_web.md:101
+#: content/opt-green-handbook/index.md:104
 msgid ""
 "![Two charts comparing (left) the greenhouse gas emissions of the aviation "
 "industry in blue with the ICT sector in green, and (right) projected "
@@ -9887,7 +9886,7 @@ msgstr ""
 "Braga amb llicència [CC-BY](https://spdx.org/licenses/CC-BY-3.0.html). "
 "Disseny de Lana Lutz.)](images/sec_1acm-report.png)"
 
-#: content/opt-green-handbook/handbook_web.md:103
+#: content/opt-green-handbook/index.md:106
 msgid ""
 "In fact, the environmental impact of the industry as a whole, in particular "
 "in terms of CO~2~ emissions, is currently on par with the aviation industry. "
@@ -9919,7 +9918,7 @@ msgstr ""
 "digitalització: la tecnologia digital «pot ajudar a mitigar el canvi "
 "climàtic», però «primer ha de deixar de contribuir-hi»."
 
-#: content/opt-green-handbook/handbook_web.md:105
+#: content/opt-green-handbook/index.md:108
 msgid ""
 "To estimate digital technology's contributions to environmental harm, it is "
 "necessary to account for its entire lifecycle. This includes the costs of "
@@ -9948,7 +9947,7 @@ msgstr ""
 "cop hàgim fet un recorregut pels abocadors i les deixalleries, explorarem "
 "l'impacte ambiental de la producció de maquinari i l'ús de dispositius."
 
-#: content/opt-green-handbook/handbook_web.md:107
+#: content/opt-green-handbook/index.md:110
 msgid ""
 "![Image of \"WEEE Man\" statue, which is made from 3.3 metric tons of "
 "electrical waste, the average amount of e-waste that one UK individual "
@@ -9964,11 +9963,11 @@ msgstr ""
 "una llicència [CC-BY-SA-2.0](https://spdx.org/licenses/CC-BY-SA-2.0.html)]"
 "(images/sec1_geograph-2637892-by-James-T-M-Towill_1600x1200.jpg)"
 
-#: content/opt-green-handbook/handbook_web.md:109
+#: content/opt-green-handbook/index.md:112
 msgid "A \"Tsunami Of E-Waste\""
 msgstr "Un «tsunami de residus electrònics»"
 
-#: content/opt-green-handbook/handbook_web.md:111
+#: content/opt-green-handbook/index.md:114
 msgid ""
 "At seven meter's tall, the \"WEEE Man\" is a giant. Taking its name from the "
 "2003 Waste Electrical and Electronic Equipment (WEEE) directive, which sets "
@@ -9983,7 +9982,7 @@ msgstr ""
 "de residus electrònics. Aquest és la quantitat mitjana de residus "
 "electrònics que una persona del Regne Unit genera durant tota la vida."
 
-#: content/opt-green-handbook/handbook_web.md:113
+#: content/opt-green-handbook/index.md:116
 msgid ""
 "[^1]: In 2005, two years after the directive was transposed into European "
 "law, the Royal Society of Arts in the UK unveiled \"WEEE Man\". Originally "
@@ -9996,7 +9995,7 @@ msgstr ""
 "figura imponent va ser traslladada posteriorment a l'Eden Project a "
 "Cornualla, on resideix actualment."
 
-#: content/opt-green-handbook/handbook_web.md:115
+#: content/opt-green-handbook/index.md:118
 msgid ""
 "In 2015, as e-waste was on its way to becoming the \"[fastest-growing waste "
 "stream in the world](https://www.weforum.org/reports/a-new-circular-vision-"
@@ -10031,7 +10030,7 @@ msgstr ""
 "envoltin l'equador de la terra. Són 40.075 quilòmetres de residus "
 "electrònics. En un any!"
 
-#: content/opt-green-handbook/handbook_web.md:117
+#: content/opt-green-handbook/index.md:120
 msgid ""
 "![62 billion kg of e-waste was generated in 2022. This is equivalent to 1.55 "
 "million trucks wrapped all the way around the Earth's equator. The amount "
@@ -10046,7 +10045,7 @@ msgstr ""
 "Dissenyat per Anita Sengupta.)](images/sec1_e-waste-trucks-on-equator-"
 "illustration.png)"
 
-#: content/opt-green-handbook/handbook_web.md:119
+#: content/opt-green-handbook/index.md:122
 msgid ""
 "The numbers continue to rise. According to the same report, the amount of e-"
 "waste is rising by about 2.3 billion kilogams each year&mdash;and we are on "
@@ -10088,7 +10087,7 @@ msgstr ""
 "impressores grans, fotocopiadores (anomenats conjuntament «equips grans»); "
 "panells fotovoltaics, entre d'altres."
 
-#: content/opt-green-handbook/handbook_web.md:121
+#: content/opt-green-handbook/index.md:124
 msgid ""
 "Of all these devices, computer technology e-waste is particularly bad. "
 "Electronic scrap components like CPUs contain potentially harmful materials "
@@ -10127,7 +10126,7 @@ msgstr ""
 "humans i en aigua potable. Aquesta contaminació és un aspecte bàsic del dany "
 "ambiental de la tecnologia digital."
 
-#: content/opt-green-handbook/handbook_web.md:123
+#: content/opt-green-handbook/index.md:126
 msgid ""
 "This handbook concerns itself primarily with desktop computers and laptops, "
 "but the issues addressed here relate to any device requiring software to "
@@ -10145,7 +10144,7 @@ msgstr ""
 "no tenim coses amb ordinadors incrustats en elles. Tenim ordinadors amb "
 "coses annexes a ells». Schneier continua (èmfasi afegit):"
 
-#: content/opt-green-handbook/handbook_web.md:125
+#: content/opt-green-handbook/index.md:128
 msgid ""
 "Your modern refrigerator is a *computer* that keeps things cold. Your oven, "
 "similarly, is a *computer* that makes things hot. An ATM is a *computer* "
@@ -10164,7 +10163,7 @@ msgstr ""
 "descomptat, els telèfons es van convertir en *ordinadors* de propòsit "
 "general a plena potència el 2007, quan es va introduir l'iPhone."
 
-#: content/opt-green-handbook/handbook_web.md:127
+#: content/opt-green-handbook/index.md:130
 msgid ""
 "We wear *computers*: fitness trackers and computer-enabled medical "
 "devices&mdash;and, of course, we carry our smartphones everywhere. Our homes "
@@ -10185,7 +10184,7 @@ msgstr ""
 "*ordinador* que produeix electricitat, i com tota la resta que acabem de "
 "llistar, és a Internet."
 
-#: content/opt-green-handbook/handbook_web.md:129
+#: content/opt-green-handbook/index.md:132
 msgid ""
 "All of these computerized devices are on the internet, [many are collecting "
 "data about you](https://www.nytimes.com/wirecutter/reviews/advice-smart-"
@@ -10196,11 +10195,11 @@ msgstr ""
 "advice-smart-devices-data-tracking/), i bàsicament tots necessiten "
 "programari per a funcionar."
 
-#: content/opt-green-handbook/handbook_web.md:131
+#: content/opt-green-handbook/index.md:134
 msgid "Embodied Harm&mdash;Before A Device Is Ever Used"
 msgstr "Dany incorporat; abans d'utilitzar un dispositiu"
 
-#: content/opt-green-handbook/handbook_web.md:133
+#: content/opt-green-handbook/index.md:136
 msgid ""
 "Now let's assess the start of the lifecycle, when the device is produced. "
 "When a functioning device goes in the landfill, all of energy costs and "
@@ -10221,7 +10220,7 @@ msgstr ""
 "utilitzeu el dispositiu. En la majoria dels casos, les emissions de carboni "
 "de la producció són molt desproporcionades respecte a l'ús."
 
-#: content/opt-green-handbook/handbook_web.md:135
+#: content/opt-green-handbook/index.md:138
 msgid ""
 "![A comparison of carbon emission proportions across three devices. The "
 "assumed product lifetime is 4 years for the laptop and desktop, and 6 years "
@@ -10248,7 +10247,7 @@ msgstr ""
 "html)).](images/sec1_embodied-vs-usage-proportions.png){#fig:co2prop "
 "width=400px height=262px}"
 
-#: content/opt-green-handbook/handbook_web.md:137
+#: content/opt-green-handbook/index.md:140
 msgid ""
 "<!--In a 2019 report from the International Energy Agency, the ICT sector is "
 "estimated to consume [2000 TWH of energy](https://dl.acm.org/doi/"
@@ -10272,7 +10271,7 @@ msgstr ""
 "es consumeix en la producció de dispositius, però quina és exactament la "
 "petjada de carboni? \\cmt{CHECK}-->\n"
 
-#: content/opt-green-handbook/handbook_web.md:139
+#: content/opt-green-handbook/index.md:142
 msgid ""
 "Embodied carbon is critical when considering the carbon footprint of our "
 "devices. Consider three common end user devices: laptops, desktops, and "
@@ -10296,7 +10295,7 @@ msgstr ""
 "qualsevol guany d'eficiència en els dispositius produïts recentment. "
 "L'informe afirma (èmfasi afegit):"
 
-#: content/opt-green-handbook/handbook_web.md:141
+#: content/opt-green-handbook/index.md:144
 msgid ""
 "[T]he environmental impacts of the production phase of a [notebook](https://"
 "en.wiktionary.org/wiki/notebook_computer#English) are so high, that they "
@@ -10314,7 +10313,7 @@ msgstr ""
 "substitució del portàtil antic només es pot justificar *a partir dels 33 "
 "fins a 89 anys*, si es consideren inquietuds mediambientals."
 
-#: content/opt-green-handbook/handbook_web.md:143
+#: content/opt-green-handbook/index.md:146
 msgid ""
 "In light of the e-waste problem and the embodied carbon of end user devices, "
 "let us return to that sentence which introduced this section. How did you "
@@ -10325,7 +10324,7 @@ msgstr ""
 "secció. Com vàreu acabar aquesta frase: «El dispositiu més respectuós amb el "
 "medi ambient és…»?"
 
-#: content/opt-green-handbook/handbook_web.md:145
+#: content/opt-green-handbook/index.md:148
 msgid ""
 "Our response: **The most environmentally-friendly device is the one you "
 "already own!**"
@@ -10333,7 +10332,7 @@ msgstr ""
 "La nostra resposta: **El dispositiu més respectuós amb el medi ambient és el "
 "que ja teniu.**"
 
-#: content/opt-green-handbook/handbook_web.md:147
+#: content/opt-green-handbook/index.md:150
 msgid ""
 "![Image from KDE Eco [leaflet](https://invent.kde.org/teams/eco/opt-green/-/"
 "blob/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg) "
@@ -10345,7 +10344,7 @@ msgstr ""
 "KDE Eco (modificat) publicat segons una llicència [CC-BY-SA-4.0](https://"
 "spdx.org/licenses/CC-BY-SA-4.0.html).](images/sec1_leaflet.png)"
 
-#: content/opt-green-handbook/handbook_web.md:149
+#: content/opt-green-handbook/index.md:152
 msgid ""
 "Now let us consider *how* software increases the demands on hardware as well "
 "as *why* we often discard devices which still work in order to buy new ones. "
@@ -10355,11 +10354,11 @@ msgstr ""
 "com *per què* sovint descartem dispositius que encara funcionen per comprar-"
 "ne de nous. Per fer-ho, hem de mirar al programari."
 
-#: content/opt-green-handbook/handbook_web.md:151
+#: content/opt-green-handbook/index.md:154
 msgid "Hardware, Meet Software"
 msgstr "Maquinari, confluència amb el programari"
 
-#: content/opt-green-handbook/handbook_web.md:153
+#: content/opt-green-handbook/index.md:156
 msgid ""
 "Let us now turn to the middle of a device's lifecycle, that is, the years "
 "you use your computer."
@@ -10367,7 +10366,7 @@ msgstr ""
 "Passem ara a la meitat del cicle de vida d'un dispositiu, és a dir, els anys "
 "que feu servir el vostre ordinador."
 
-#: content/opt-green-handbook/handbook_web.md:155
+#: content/opt-green-handbook/index.md:158
 msgid ""
 "Software engineering has an important but often unseen role in defining our "
 "digital consumption patterns. There are often economic&mdash;and not "
@@ -10401,7 +10400,7 @@ msgstr ""
 "energètica i protegir els recursos naturals no es troba en el maquinari, "
 "sinó sobretot en el programari»."
 
-#: content/opt-green-handbook/handbook_web.md:157
+#: content/opt-green-handbook/index.md:160
 msgid ""
 "To understand a device's energy consumption and how software is involved, "
 "this section will explore three aspects:"
@@ -10409,7 +10408,7 @@ msgstr ""
 "Per entendre el consum d'energia d'un dispositiu i com està involucrat el "
 "programari, aquesta secció explorarà tres aspectes:"
 
-#: content/opt-green-handbook/handbook_web.md:159
+#: content/opt-green-handbook/index.md:162
 msgid ""
 "*Demands* &mdash; Software determines energy consumption and minimum system "
 "requirements."
@@ -10417,7 +10416,7 @@ msgstr ""
 "*Exigències* &mdash; El programari determina el consum d'energia i els "
 "requisits mínims del sistema."
 
-#: content/opt-green-handbook/handbook_web.md:160
+#: content/opt-green-handbook/index.md:163
 msgid ""
 "*Dependencies* &mdash; Software can hardcode dependencies on external "
 "services and companies."
@@ -10425,7 +10424,7 @@ msgstr ""
 "*Dependències* &mdash; El programari pot codificar les dependències de "
 "serveis i empreses externes."
 
-#: content/opt-green-handbook/handbook_web.md:161
+#: content/opt-green-handbook/index.md:164
 msgid ""
 "*Longevity* &mdash; Software is responsible for how long devices remain "
 "(safely) in use."
@@ -10433,11 +10432,11 @@ msgstr ""
 "*Longevitat* &mdash; El programari és responsable de quant temps romanen els "
 "dispositius (segurs) en ús."
 
-#: content/opt-green-handbook/handbook_web.md:163
+#: content/opt-green-handbook/index.md:166
 msgid "Hardware Demands"
 msgstr "Exigències del maquinari"
 
-#: content/opt-green-handbook/handbook_web.md:165
+#: content/opt-green-handbook/index.md:168
 msgid ""
 "Software consumes energy. Unwanted software components create inefficiencies "
 "and drive up hardware demands by occupying memory, wasting processing time, "
@@ -10464,7 +10463,7 @@ msgstr ""
 "(https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
 "%20215-202001-en-Criteria-V2.pdf)»:"
 
-#: content/opt-green-handbook/handbook_web.md:167
+#: content/opt-green-handbook/index.md:170
 msgid ""
 "Processing power has doubled about every two years since 1970. This means "
 "that functions are processed twice as fast and thus less energy is required "
@@ -10483,7 +10482,7 @@ msgstr ""
 "manera que es requereixen més recursos només per a una millora mínima o fins "
 "i tot sense millora de la funcionalitat."
 
-#: content/opt-green-handbook/handbook_web.md:169
+#: content/opt-green-handbook/index.md:172
 msgid ""
 "What is more, data mining, advertising, third-party tracking, and "
 "personalized engagement-maximizing algorithms all drive up energy "
@@ -10521,8 +10520,8 @@ msgstr ""
 "bloquejar els anuncis si fos possible. Això és un munt de CO~2~ per a alguna "
 "cosa que la majoria dels usuaris ni tan sols volen!"
 
-#: content/opt-green-handbook/handbook_web.md:171
-#, fuzzy
+# skip-rule: kct-backend, barb-uns
+#: content/opt-green-handbook/index.md:174
 msgid ""
 "Meanwhile, systems bundled with Large Language Models and other forms of "
 "generative AI drive up not only hardware demands and energy consumption, "
@@ -10554,43 +10553,43 @@ msgid ""
 "(https://arstechnica.com/gadgets/2024/12/generative-ai-has-done-one-"
 "unambiguously-good-thing-for-pcs-and-macs-16gb-of-ram/) obsolete."
 msgstr ""
-"Mentrestant, els sistemes agrupats amb grans models de llenguatge i altres "
+"Mentrestant, els sistemes agrupats en Models de llenguatge grans i altres "
 "formes d'IA generativa impulsen no només les demandes de maquinari i el "
-"consum d'energia, local i remotament, sinó també el consum d'aigua. De "
-"moment, pot ser possible desactivar la funcionalitat d'IA generativa "
-"integrada, però [no](https://arstechnica.com/gadgets/2025/11/what-i-do-to-"
-"clean-up-a-clean-install-of-windows-11-23h2-and-edge/) [fàcil](https://www."
-"pcworld.com/article/2913812/tired-of-ai-in-your-windows-11-pc-heres-how-to-"
-"get-rid-of-it.html) &mdash;i desactivar aquestes eines pot no ser possible "
-"en el futur. Al dorsal, [entrenar i desplegar models generatius d'IA]"
-"(https://news.mit.edu/2025/explained-generative-ai-environmental-"
-"impact-0117) requereix una [quantitat sorprenent d'electricitat](https://"
-"arstechnica.com/ai/2025/09/openai-and-nvidias-100b-ai-plan-will-require-"
-"power-equal-to-10-nuclear-reactors/). Això està esgotant la xarxa elèctrica "
-"i [realçant factures d'electricitat](https://www.nytimes.com/2025/08/14/"
-"business/energy-environment/ai-data-centers-electricity-costs.html) en àrees "
-"properes als centres de dades, mentre que requereix [noves fonts d'energia]"
-"(https://arstechnica.com/ai/2024/10/google-and-kairos-sign-nuclear-reactor-"
-"deal-amb-aim-to-power-ai/) i [reobertes les jubilades](https://arstechnica."
-"com/ai/2024/09/re-opened-three-mile-island-will-power-ai-data-centers-under-"
-"new-deal/) per executar-les. S'estima que una consulta que utilitza ChatGPT "
+"consum d'energia, localment i remotament, sinó també el consum d'aigua. De "
+"moment, és possible desactivar la funcionalitat d'IA generativa integrada, "
+"però [no](https://arstechnica.com/gadgets/2025/11/what-i-do-to-clean-up-a-"
+"clean-install-of-windows-11-23h2-and-edge/) és [fàcil](https://www.pcworld."
+"com/article/2913812/tired-of-ai-in-your-windows-11-pc-heres-how-to-get-rid-"
+"of-it.html), i desactivar aquestes eines podria ser impossible en el futur. "
+"A la part de darrere, [entrenar i desplegar models generatius d'IA](https://"
+"news.mit.edu/2025/explained-generative-ai-environmental-impact-0117) "
+"requereix una [quantitat sorprenent d'electricitat](https://arstechnica.com/"
+"ai/2025/09/openai-and-nvidias-100b-ai-plan-will-require-power-equal-to-10-"
+"nuclear-reactors/). Això està tensant la xarxa elèctrica i [incrementant les "
+"factures d'electricitat](https://www.nytimes.com/2025/08/14/business/energy-"
+"environment/ai-data-centers-electricity-costs.html) en àrees properes als "
+"centres de dades, mentre que requereix [fonts noves d'energia](https://"
+"arstechnica.com/ai/2024/10/google-and-kairos-sign-nuclear-reactor-deal-amb-"
+"aim-to-power-ai/) i [reobrir les retirades](https://arstechnica.com/"
+"ai/2024/09/re-opened-three-mile-island-will-power-ai-data-centers-under-new-"
+"deal/) per fer-les funcionar. S'estima que una consulta que utilitza ChatGPT "
 "requereix cinc vegades l'energia d'una cerca web, i el consum d'aigua per "
 "part dels [centres de dades de Google i Microsoft](https://journals.calstate."
 "edu/ai-edu/article/download/5448/4391/16689) ha augmentat al voltant d'un "
-"20-35%, atribuïda a càrregues generatives d'IA. La IA generativa de Bundling "
-"amb programari, com amb el Copilot+ de Microsoft i l'Apple Intelligence, "
-"requereix significativament [requisits mínims de maquinari més alts](https://"
-"arstechnica.com/gadgets/2024/05/microsofts-copilot-ai-pc-requirements-are-"
-"embarrassing-for-intel-and-amd/), que ja ha deixat obsolets [dispositius de "
-"consum de gamma baixa](https://arstechnica.com/gadgets/2024/12/generative-ai-"
-"has-done-one-unambiguously-ging-for-pcs-and-macs-16gb-of-ram/)."
+"20-35%, atribuït a la càrrega de les IA generatives. L'empaquetament d'IA "
+"generativa amb programari, com amb el Copilot+ de Microsoft i l'Apple "
+"Intelligence, necessita significativament uns [requisits mínims de maquinari "
+"més alts](https://arstechnica.com/gadgets/2024/05/microsofts-copilot-ai-pc-"
+"requirements-are-embarrassing-for-intel-and-amd/), que ja ha deixat obsolets "
+"[dispositius de consum de gamma baixa](https://arstechnica.com/"
+"gadgets/2024/12/generative-ai-has-done-one-unambiguously-ging-for-pcs-and-"
+"macs-16gb-of-ram/)."
 
-#: content/opt-green-handbook/handbook_web.md:173
+#: content/opt-green-handbook/index.md:176
 msgid "External Dependencies"
 msgstr "Dependències externes"
 
-#: content/opt-green-handbook/handbook_web.md:175
-#, fuzzy
+#: content/opt-green-handbook/index.md:178
 msgid ""
 "Network dependencies can play a critical role in hardware longevity. "
 "Underlying infrastructure which people may depend on to run an "
@@ -10608,36 +10607,34 @@ msgid ""
 "purpose of the software."
 msgstr ""
 "Les dependències de xarxa poden jugar un paper crític en la longevitat del "
-"maquinari. Infraestructura subjacent de la qual la gent pot dependre per "
-"executar una aplicació &mdash; com ara [servidors de llicències de "
-"programari](https://en.wikipedia.org/wiki/Software_license_server) "
-"utilitzats per al control d'accés, o funcionalitats dependents del servidor "
-"&mdash; poden sortir [offline](https://arstechnica.com/gaming/2022/03/server-"
-"issues-lock-gran-turismo-7-owners-out-of-single-player-races/), de vegades "
+"maquinari. La infraestructura subjacent de la qual la gent pot dependre per "
+"executar una aplicació, com ara [servidors de llicències de programari]"
+"(https://en.wikipedia.org/wiki/Software_license_server) utilitzats per al "
+"control d'accés, o funcionalitats dependents del servidor, poden quedar "
+"[fora de línia](https://arstechnica.com/gaming/2022/03/server-issues-lock-"
+"gran-turismo-7-owners-out-of-single-player-races/), de vegades "
 "[permanentment](https://arstechnica.com/gadgets/2025/07/belkin-shows-tech-"
-"firms-getting-too-comfortable-with-bricking-customers-stuff/), i resultar en "
-"dispositius que tenen una funcionalitat reduïda, [fins i tot per a funcions "
-"primàries](https://arstechnica.com/gadgets/2024/08/amazon-is-bricking-"
-"primary-feature-on-160-echo-device-after-1-year/). A més, com és d'esperar "
-"ara, aquestes dependències requereixen un processament addicional i, per "
-"tant, consumeixen recursos i energia, sovint més enllà del que es necessita "
-"per al propòsit previst del programari."
+"firms-getting-too-comfortable-with-bricking-customers-stuff/), i donar com a "
+"resultat dispositius que tenen una funcionalitat reduïda, [fins i tot per a "
+"funcions bàsiques](https://arstechnica.com/gadgets/2024/08/amazon-is-"
+"bricking-primary-feature-on-160-echo-device-after-1-year/). A més, com era "
+"d'esperar, aquestes dependències requereixen un processament addicional i, "
+"per tant, consumeixen recursos i energia, sovint més enllà del que es "
+"necessita per al propòsit previst del programari."
 
-#: content/opt-green-handbook/handbook_web.md:177
-#, fuzzy
+#: content/opt-green-handbook/index.md:180
 msgid ""
 "As Ars Technica [reports](https://arstechnica.com/cars/2026/02/what-happens-"
 "to-a-car-when-the-company-behind-its-software-goes-under/) regarding "
 "software-defined automobiles that rely on \"centralized servers, "
 "subscriptions, and proprietary software\":"
 msgstr ""
-"Com Ars Technica [informa](https://arstechnica.com/cars/2026/02/what-happens-"
-"to-a-car-when-the-company-behind-its-software-goes-under/) sobre els "
+"Com [informa](https://arstechnica.com/cars/2026/02/what-happens-to-a-car-"
+"when-the-company-behind-its-software-goes-under/) Ars Technica sobre els "
 "automòbils definits per programari que es basen en «servidors centralitzats, "
 "subscripcions i programari propietari»:"
 
-#: content/opt-green-handbook/handbook_web.md:179
-#, fuzzy
+#: content/opt-green-handbook/index.md:182
 msgid ""
 "The lesson is clear: In today’s cars, the engine or electric motor isn’t "
 "always what keeps you moving&mdash;the software does. When that software "
@@ -10648,20 +10645,19 @@ msgid ""
 "shop&mdash;becomes the final stop."
 msgstr ""
 "La lliçó és clara: en els cotxes d'avui, el motor o el motor elèctric no "
-"sempre és el que et manté movent-te; el programari ho fa. Quan aquest "
-"programari s'esvaeix amb una empresa en fallida, el seu cotxe pot anar del "
-"conductor diari al car pes de paper de la nit al dia. I en l'era dels "
-"vehicles definits per programari, posseir un cotxe significa apostar cada "
-"vegada més per la supervivència del seu codi. Quan aquest codi mor, la "
-"carretera o autovia &mdash; no la reparació shop &mdash; es converteix en la "
-"parada final."
+"sempre és el que us manté en moviment; ho fa el programari. Quan aquest "
+"programari s'esvaeix amb una empresa en fallida, el seu cotxe pot anar de la "
+"conducció diària a un petjapapers caríssim d'un dia per l'altre. I en l'era "
+"dels vehicles definits per programari, posseir un cotxe significa apostar "
+"cada vegada més per la supervivència del seu codi. Quan aquest codi mor, la "
+"carretera o autovia (no el taller) es converteix en la parada final."
 
-#: content/opt-green-handbook/handbook_web.md:181
+#: content/opt-green-handbook/index.md:184
 msgid "Device Longevity"
 msgstr "Longevitat dels dispositius"
 
-#: content/opt-green-handbook/handbook_web.md:183
-#, fuzzy
+# skip-rule: t-com_pu
+#: content/opt-green-handbook/index.md:186
 msgid ""
 "All of this additional processing to run bloated software or have integrated "
 "generative AI tools in user applications (whether you want it or not), to "
@@ -10677,21 +10673,21 @@ msgid ""
 "to?"
 msgstr ""
 "Tot aquest processament addicional per executar programari inflat o tenir "
-"eines d'IA generatives integrades en aplicacions d'usuari (si ho voleu o "
-"no), per enviar les vostres dades a servidors desconeguts per al "
-"processament o servir-vos anuncis en el *el vostre* dispositiu, no només "
-"està impulsant les demandes de maquinari, sinó que també està executant el "
-"dispositiu. Com diu la publicació de computació en línia XDA [declara]"
-"(https://www.xda-developers.com/do-cpus-degrade-over-time/): «Les CPU "
-"sotmeses a constants càrregues de treball pesades, a un sobrebloqueig i a "
-"altes temperatures operatives es degradaran gairebé amb tota seguretat més "
-"ràpid.» Totes aquestes «característiques» codificades en el programari bé "
-"poden estar sobretreballant i escalfant el seu dispositiu, mentre que portar-"
-"lo més ràpidament. La pregunta és: Volies fins i tot aquesta «funcionalitat» "
-"extra? I el pots treure si vols?"
+"eines d'IA generatives integrades en aplicacions d'usuari (tant si ho voleu "
+"o no), per enviar les vostres dades a servidors desconeguts per a processar-"
+"les o servir-vos anuncis en el *el vostre* dispositiu, no només està "
+"impulsant les demandes de maquinari, sinó que també està alentint el "
+"dispositiu. Com [exposa](https://www.xda-developers.com/do-cpus-degrade-over-"
+"time/) la publicació de computació XDA en línia: «Les CPU sotmeses a "
+"càrregues constants de treball pesat, a «overclocking» i a temperatures "
+"operatives altes es degradaran gairebé amb tota seguretat més de pressa.» "
+"Totes aquestes «característiques» codificades en el programari poden "
+"sobrecarregar i escalfar el seu dispositiu, mentre que el degraden més "
+"ràpidament. La pregunta és: Volíeu fins i tot aquesta «funcionalitat» extra? "
+"I la podeu eliminat si voleu?"
 
-#: content/opt-green-handbook/handbook_web.md:185
-#, fuzzy
+# skip-rule: t-ad_sp
+#: content/opt-green-handbook/index.md:188
 msgid ""
 "There is another common way that software can render a device obsolete. "
 "Software [end-of-life](https://en.wikipedia.org/wiki/"
@@ -10707,24 +10703,23 @@ msgid ""
 "hacking-threat/). All software needs to receive updates to keep your data "
 "safe and secure. More on this in the next part of this handbook."
 msgstr ""
-"Hi ha una altra manera comuna que el programari pot fer que un dispositiu "
-"sigui obsolet. El programari [final de vida](https://en.wikipedia.org/wiki/"
-"Software_release_life_cycle#End-of-life) i [programari descatalogat](https://"
-"ca.wikipedia.org/wiki/Programari_descatalogat), en particular quan es "
-"distribueix segons una [llicència propietària](https://en.wikipedia.org/wiki/"
-"Software_licensing#Proprietary_software_licenses), poden en el pitjor dels "
-"casos significar que el vostre dispositiu deixi de funcionar, o en el millor "
-"dels casos (!) deixar els usuaris vulnerables als virus i altres programes "
-"maliciosos. No són només les noves característiques les que s'interrompen "
+"Hi ha una altra manera habitual que el programari pot fer que un dispositiu "
+"sigui obsolet. El programari al [final de vida](https://en.wikipedia.org/"
+"wiki/Software_release_life_cycle#End-of-life) i el [programari descatalogat]"
+"(https://ca.wikipedia.org/wiki/Programari_descatalogat), en particular quan "
+"es distribueix amb una [llicència propietària](https://ca.wikipedia.org/wiki/"
+"Llicència_de_programari#Llicències_privades), pot en el pitjor dels casos "
+"voler dir que el vostre dispositiu deixi de funcionar, o en el millor dels "
+"casos (!) deixar els usuaris vulnerables als virus i altres programes "
+"maliciosos. No són només les característiques noves les que s'interrompen "
 "quan el desenvolupament de programari s'atura; el més important, són les "
 "actualitzacions de seguretat. Aquestes actualitzacions són crítiques per al "
 "vostre ordinador i per als [dispositius als quals es connecten](https://www."
 "nytimes.com/wirecutter/reviews/bluetooth-earbuds-hacking-threat/). Tot el "
-"programari necessita rebre actualitzacions per mantenir les seves dades "
-"segures i segures. Més sobre això en la següent part d'aquest manual."
+"programari necessita rebre actualitzacions per mantenir les vostres dades "
+"segures. Més sobre això en la part següent d'aquest manual."
 
-#: content/opt-green-handbook/handbook_web.md:187
-#, fuzzy
+#: content/opt-green-handbook/index.md:190
 msgid ""
 "In Part I, we have explored the environmental harm of digitization and "
 "identified several ways software can render a functioning device obsolete. "
@@ -10733,19 +10728,17 @@ msgid ""
 "But first, let's ask ourselves: Is focusing on software really worth it?"
 msgstr ""
 "A la Part I, hem explorat el dany ambiental de la digitalització i hem "
-"identificat diverses maneres en què el programari pot fer que un dispositiu "
-"funcioni obsolet. A la Part II, analitzarem el paper del programari lliure "
-"de codi obert en l'extensió de la vida operativa del maquinari i "
-"proporcionar suport continu de dispositius. Però primer, preguntem-nos: "
+"identificat diverses maneres en què el programari pot fer obsolet un "
+"dispositiu funcional. A la Part II, analitzarem el paper del programari "
+"lliure de codi obert en l'extensió de la vida operativa del maquinari i "
+"proporcionar suport continu dels dispositius. Però primer, preguntem-nos: "
 "realment val la pena centrar-se en el programari?"
 
-#: content/opt-green-handbook/handbook_web.md:189
-#, fuzzy
+#: content/opt-green-handbook/index.md:192
 msgid "Is Focusing On Software Worth It?"
 msgstr "El focus en el programari val la pena?"
 
-#: content/opt-green-handbook/handbook_web.md:191
-#, fuzzy
+#: content/opt-green-handbook/index.md:194
 msgid ""
 "In the bigger picture, the environmental harm driven by software may be less "
 "significant when compared to other industries. Therefore it seems reasonable "
@@ -10755,8 +10748,7 @@ msgstr ""
 "menys significatiu en comparació amb altres indústries. Per tant, sembla "
 "raonable preguntar: val la pena abordar-ho?"
 
-#: content/opt-green-handbook/handbook_web.md:193
-#, fuzzy
+#: content/opt-green-handbook/index.md:196
 msgid ""
 "There are a few things we might consider here. The first is a rejection of "
 "the [\"Not As Bad As\"](https://rationalwiki.org/wiki/Not_as_bad_as) "
@@ -10771,19 +10763,18 @@ msgid ""
 "bigger puzzle."
 msgstr ""
 "Hi ha algunes coses que podríem considerar aquí. El primer és un rebuig de "
-"la fal·làcia [«No tan dolenta com»](https://rationalwiki.org/wiki/"
-"Not_as_bad_as), també coneguda com a «Apel·lació a problemes pitjors». "
+"la fal·làcia [«No tan dolent com»](https://rationalwiki.org/wiki/"
+"Not_as_bad_as), també coneguda com a «Invocació de problemes pitjors». "
 "L'argument general és així: les contribucions del programari a les emissions "
-"globals de CO~2~ poden no ser tan dolentes com les d'una altra indústria, i "
-"per tant no val la pena centrar-se en. El que està malament en aquest "
+"globals del CO~2~ poden no ser tan dolentes com les d'una altra indústria, i "
+"per tant no val la pena centrar-s'hi. El que està malament en aquest "
 "argument és que encara que una altra indústria pot ser pitjor, això no nega "
-"el fet que l'enginyeria de programari és responsable de causar greus danys "
-"ambientals. A més, la fal·làcia «No tan dolenta com» suggereix una elecció "
-"falsa entre abordar un problema o l'altre, quan de fet el disseny de "
+"el fet que l'enginyeria de programari és responsable de causar danys "
+"ambientals greus. A més, la fal·làcia «No tan dolent com» suggereix una "
+"elecció falsa entre abordar un problema o l'altre, quan de fet el disseny de "
 "programari ecològic és només una peça d'un trencaclosques més gran."
 
-#: content/opt-green-handbook/handbook_web.md:195
-#, fuzzy
+#: content/opt-green-handbook/index.md:198
 msgid ""
 "![XKCD comic [\"2368: Bigger Problem\"](https://xkcd.com/2368/) (published "
 "under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5.html) "
@@ -10793,19 +10784,17 @@ msgstr ""
 "segons una llicència [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5."
 "html).](images/sec1_bigger_problem.png)"
 
-#: content/opt-green-handbook/handbook_web.md:197
-#, fuzzy
+#: content/opt-green-handbook/index.md:200
 msgid ""
 "Let's not [be like XKCD's](https://www.explainxkcd.com/wiki/index.php/2368:"
 "_Bigger_Problem) White Hat, and appeal to worse problems as an excuse to do "
 "nothing!"
 msgstr ""
-"No anem a [ser com el barret blanc de XKCD](https://www.explainxkcd.com/wiki/"
-"index.php/2368:_Bigger_Problem) i apel·lem a problemes pitjors com a excusa "
+"No [siguem com el Barret blanc de XKCD](https://www.explainxkcd.com/wiki/"
+"index.php/2368:_Bigger_Problem) i invoquem problemes pitjors com a excusa "
 "per no fer res!"
 
-#: content/opt-green-handbook/handbook_web.md:199
-#, fuzzy
+#: content/opt-green-handbook/index.md:202
 msgid ""
 "Second, focusing only on fixing the \"biggest problem\" is not necessarily "
 "the most effective strategy. It's also important to weigh the likelihood of "
@@ -10818,29 +10807,27 @@ msgid ""
 "lower cost."
 msgstr ""
 "En segon lloc, centrar-se només en la solució del «problema més gran» no és "
-"necessàriament l'estratègia més eficaç. També és important ponderar la "
+"necessàriament l'estratègia més efectiva. També és important ponderar la "
 "probabilitat d'èxit a l'hora d'abordar un problema, així com el temps i els "
 "recursos necessaris per fer-ho. El programari lliure de codi obert, amb el "
-"seu enfocament en l'autonomia i la transparència dels usuaris, proporciona "
+"seu enfocament en l'autonomia dels usuaris i la transparència, proporciona "
 "oportunitats úniques per als usuaris, les comunitats i les organitzacions "
 "per abordar directament els problemes socials i ecològics entrellaçats. Les "
-"llicències de programari permeten que el programari s'adapti, actualitzi i "
-"mantingui sense dependències de proveïdors o restriccions artifícies, sovint "
-"a un cost més baix."
+"llicències de programari permeten adaptar, actualitzar i mantenir el "
+"programari sense dependències de proveïdors ni restriccions artificials, "
+"sovint a un cost més baix."
 
-#: content/opt-green-handbook/handbook_web.md:201
-#, fuzzy
+#: content/opt-green-handbook/index.md:204
 msgid ""
 "Finally, it's hopefully clear by now that software *does* significantly "
 "contribute to energy and resource consumption as well as waste, and these "
 "contributions will just get worse unless we make real changes."
 msgstr ""
-"Finalment, és d'esperar que ja estigui clar que el programari *contribueix "
+"Finalment, és d'esperar que ja estigui clar que el programari *contribueix* "
 "significativament al consum d'energia i recursos, així com als residus, i "
 "aquestes contribucions només empitjoraran tret que fem canvis reals."
 
-#: content/opt-green-handbook/handbook_web.md:203
-#, fuzzy
+#: content/opt-green-handbook/index.md:206
 msgid ""
 "Changing our software and using our hardware more sustainably may seem like "
 "a small gesture in addressing an issue as complex as climate change. It's "
@@ -10852,24 +10839,23 @@ msgid ""
 msgstr ""
 "Canviar el nostre programari i utilitzar el nostre maquinari de forma més "
 "sostenible pot semblar un petit gest per abordar un problema tan complex com "
-"el canvi climàtic. També està clar que simplement canviar els nostres "
-"patrons de consum individuals pot no ser suficient per si sol. És cert: un "
-"futur de zero emissions requerirà canvis fonamentals tant en la nostra "
-"manera de viure com en el funcionament de les indústries, i aquesta "
-"responsabilitat no es pot gestionar a nivell individual. Però considereu el "
-"que l'antropòloga Margaret Mead va observar una vegada:"
+"el canvi climàtic. També és clar que simplement canviar els nostres patrons "
+"de consum individual pot no ser suficient per si sol. És cert: un futur de "
+"zero emissions requerirà canvis fonamentals tant en la nostra manera de "
+"viure com en el funcionament de les indústries, i aquesta responsabilitat no "
+"es pot gestionar individualment. Però considereu el que l'antropòloga "
+"Margaret Mead va observar una vegada:"
 
-#: content/opt-green-handbook/handbook_web.md:205
-#, fuzzy
+# skip-rule: t-com_pu
+#: content/opt-green-handbook/index.md:208
 msgid ""
 "\"Never doubt that a small group of thoughtful, committed citizens can "
 "change the world; indeed, it’s the only thing that ever has.\""
 msgstr ""
-"«Mai dubtem que un petit grup de ciutadans reflexius i compromesos pugui "
-"canviar el món; de fet, és l'única cosa que mai ha tingut.»"
+"«Mai dubtem que un petit grup de ciutadans reflexius i compromesos pot "
+"canviar el món; de fet, és l'única cosa que mai ha sigut.»"
 
-#: content/opt-green-handbook/handbook_web.md:207
-#, fuzzy
+#: content/opt-green-handbook/index.md:210
 msgid ""
 "Structural change happens when dedicated, passionate people organize to "
 "confront pressing societal issues. With decades of experience successfully "
@@ -10883,15 +10869,14 @@ msgstr ""
 "El canvi estructural es produeix quan les persones dedicades i apassionades "
 "s'organitzen per fer front a problemes socials urgents. Amb dècades "
 "d'experiència reunint amb èxit les comunitats globals per treballar cap a "
-"objectius comuns, el Programari Lliure de Codi Obert pot ser una poderosa "
-"força per combatre l'impacte ambiental de la digitalització. Sabem com "
+"objectius comuns, el programari lliure de codi obert pot ser una força "
+"poderosa per combatre l'impacte ambiental de la digitalització. Sabem com "
 "organitzar-nos; ara, es tracta de convertir els plans en pràctica, els "
 "objectius en realitat. Unim-nos per combatre el dany ambiental impulsat pel "
 "programari. Fomentem una cultura de sostenibilitat digital a les nostres "
 "comunitats i més enllà."
 
-#: content/opt-green-handbook/handbook_web.md:210
-#, fuzzy
+#: content/opt-green-handbook/index.md:213
 msgid ""
 "What does the environmental impact of software have to do with Free & Open "
 "Source Software? Before we explore this topic in detail, let's first take a "
@@ -10903,12 +10888,11 @@ msgstr ""
 "a què és exactament el FOSS, i com es diferencia del seu homòleg, el "
 "programari propietari."
 
-#: content/opt-green-handbook/handbook_web.md:212
+#: content/opt-green-handbook/index.md:215
 msgid "What Is Free & Open Source Software (FOSS)?"
 msgstr "Què és el programari de codi lliure i obert (FOSS)?"
 
-#: content/opt-green-handbook/handbook_web.md:214
-#, fuzzy
+#: content/opt-green-handbook/index.md:217
 msgid ""
 "Free & Open Source Software, often referred to by its acronym FOSS, is "
 "software available under a license that guarantees users certain rights. "
@@ -10920,51 +10904,50 @@ msgid ""
 "license. We are talking about the meaning of \"free\" as in the phrase "
 "\"free society\"!"
 msgstr ""
-"Free Open Source Software, sovint referit pel seu acrònim FOSS, és "
-"programari disponible segons una llicència que garanteix als usuaris certs "
-"drets. Aquests drets de vegades es coneixen com les [quatre llibertats "
-"essencials](https://www.gnu.org/philosophy/free-sw.html.en), és a dir, la "
-"llibertat d'utilitzar, estudiar, compartir i millorar el programari. "
-"Aquestes llibertats són al nucli de FOSS &mdash; la paraula «lliure» en el "
-"programari lliure de codi obert no té res a veure amb el preu, sinó amb les "
-"llibertats que venen amb la llicència de programari. Estem parlant del "
-"significat de «lliure» com en la frase «societat lliure»!"
+"El programari de codi lliure i obert (en anglès Free Open Source Software), "
+"sovint referit pel seu acrònim FOSS, és programari disponible segons una "
+"llicència que garanteix als usuaris determinats drets. Aquests drets de "
+"vegades es coneixen com les [quatre llibertats essencials](https://www.gnu."
+"org/philosophy/free-sw.html.en), és a dir, la llibertat d'utilitzar, "
+"estudiar, compartir i millorar el programari. Aquestes llibertats són al "
+"nucli del FOSS; la paraula «lliure» en el programari lliure de codi obert no "
+"té res a veure amb el preu, sinó amb les llibertats que venen amb la "
+"llicència de programari. Estem parlant del significat de «lliure» com en la "
+"frase «societat lliure»!"
 
-#: content/opt-green-handbook/handbook_web.md:216
-#, fuzzy
+#: content/opt-green-handbook/index.md:219
 msgid ""
 "![Screenshot illustrating the four essential freedoms to use, study, share, "
 "and improve software. Image from video \"What is Free Software (Open "
 "Source)? Software freedom explained in less than three minutes!\" from the "
 "FSFE.](images/sec2_fsfe-free-software.png)"
 msgstr ""
-"![Screenshot que il·lustra les quatre llibertats essencials per utilitzar, "
-"estudiar, compartir i millorar el programari. Imatge del vídeo «Què és el "
-"Programari Lliure (Open Source)? Llibertat de programari explicada en menys "
-"de tres minuts!» de la FSFE.](images/sec2_fsfe-free-software.png)"
+"![Captura de pantalla que il·lustra les quatre llibertats essencials per "
+"utilitzar, estudiar, compartir i millorar el programari. Imatge del vídeo "
+"«Què és el Programari Lliure (Codi obert)? Llibertat de programari explicada "
+"en menys de tres minuts!» de la FSFE.](images/sec2_fsfe-free-software.png)"
 
-#: content/opt-green-handbook/handbook_web.md:218
-#, fuzzy
+#: content/opt-green-handbook/index.md:221
 msgid ""
 "What do each of these rights mean, exactly? The Free Software Foundation "
 "Europe (FSFE) [explains](https://fsfe.org/freesoftware/index.en.html):"
 msgstr ""
 "Què significa cadascun d'aquests drets, exactament? La Free Software "
-"Foundation Europe (FSFE) [explica](https://fsfe.org/freesoftware/index.en."
+"Foundation Europe (FSFE) ho [explica](https://fsfe.org/freesoftware/index.en."
 "html):"
 
-#: content/opt-green-handbook/handbook_web.md:220
-#, fuzzy
+# skip-rule: punctuation-period-no
+#: content/opt-green-handbook/index.md:223
 msgid ""
 "*Use*: FOSS \"can be used for any purpose and is free of restrictions such "
 "as licence expiry or geographic limitations.\""
 msgstr ""
-"*Usse*: el FOSS «es pot utilitzar per a qualsevol propòsit i està lliure de "
+"*Ús*: el FOSS «es pot utilitzar per a qualsevol propòsit i està lliure de "
 "restriccions com la caducitat de la llicència o les limitacions "
 "geogràfiques»."
 
-#: content/opt-green-handbook/handbook_web.md:221
-#, fuzzy
+# skip-rule: punctuation-period-no
+#: content/opt-green-handbook/index.md:224
 msgid ""
 "*Study*: FOSS \"and its code can be studied by anyone, without non‐"
 "disclosure agreements or similar restrictions.\""
@@ -10972,23 +10955,22 @@ msgstr ""
 "*Estudi*: el FOSS «i el seu codi pot ser estudiat per qualsevol persona, "
 "sense acords de divulgació o restriccions similars»."
 
-#: content/opt-green-handbook/handbook_web.md:222
-#, fuzzy
+# skip-rule: punctuation-period-no
+#: content/opt-green-handbook/index.md:225
 msgid "*Share*: FOSS \"can be shared and copied at virtually no cost.\""
 msgstr ""
-"*Compartir*: el FOSS «es pot compartir i copiar pràcticament sense cost»."
+"*Compartició*: el FOSS «es pot compartir i copiar pràcticament sense cost»."
 
-#: content/opt-green-handbook/handbook_web.md:223
-#, fuzzy
+# skip-rule: punctuation-period-no
+#: content/opt-green-handbook/index.md:226
 msgid ""
 "*Improve*: FOSS \"can be modified by anyone, and these improvements can be "
 "shared publicly.\""
 msgstr ""
-"*Improve*: el FOSS «pot ser modificat per qualsevol persona, i aquestes "
+"*Millora*: el FOSS «pot ser modificat per qualsevol persona, i aquestes "
 "millores es poden compartir públicament»."
 
-#: content/opt-green-handbook/handbook_web.md:225
-#, fuzzy
+#: content/opt-green-handbook/index.md:228
 msgid ""
 "The video [\"What is Free Software (Open Source)?\"](https://media.fsfe.org/"
 "w/p/9gYSyoEYggsqBExLWjRejL?playlistPosition=1) from the FSFE provides a "
@@ -10997,13 +10979,12 @@ msgid ""
 "software and freedom."
 msgstr ""
 "El vídeo [«What is Free Software (Open Source)?»](https://media.fsfe.org/w/"
-"p/9gYSyoEYggsqBExLWjRejL?playlistPosition.1) de la FSFE proporciona una breu "
-"introducció al tema del FOSS i la seva importància per a la societat. "
+"p/9gYSyoEYggsqBExLWjRejL?playlistPosition=1) de la FSFE proporciona una "
+"introducció breu al tema del FOSS i la seva importància per a la societat. "
 "Consulteu-ho si voleu més informació sobre la connexió entre el programari i "
 "la llibertat."
 
-#: content/opt-green-handbook/handbook_web.md:227
-#, fuzzy
+#: content/opt-green-handbook/index.md:230
 msgid ""
 "A whole section about software licenses?! How boring! Well, it may sound dry "
 "and technical, but it is actually quite exciting. Really. And we hope you "
@@ -11016,16 +10997,15 @@ msgid ""
 msgstr ""
 "Tota una secció sobre llicències de programari?! Que avorrit! Bé, pot sonar "
 "sec i tècnic, però en realitat és bastant emocionant. De veritat. I esperem "
-"que estiguis d'acord al final! Quan parlem de llicències de programari, "
-"realment estem parlant dels nostres drets i capacitat de participar en una "
-"societat digital. La tecnologia digital sustenta gairebé tots els aspectes "
-"de la vida moderna: les nostres llars, escoles, universitats, governs, "
-"indústries, organitzacions sense ànim de lucre, hospitals, etc. Avui dia, "
-"tots ells confien en la tecnologia digital. I tota aquesta tecnologia "
-"requereix programari."
+"que estigueu d'acord al final! Quan parlem de llicències de programari, "
+"realment estem parlant dels nostres drets i de la capacitat de participar en "
+"una societat digital. La tecnologia digital sustenta gairebé tots els "
+"aspectes de la vida moderna: les nostres llars, escoles, universitats, "
+"governs, indústries, organitzacions sense ànim de lucre, hospitals, etc. "
+"Avui dia, tots ells confien en la tecnologia digital. I tota aquesta "
+"tecnologia requereix programari."
 
-#: content/opt-green-handbook/handbook_web.md:229
-#, fuzzy
+#: content/opt-green-handbook/index.md:232
 msgid ""
 "Since this software is shaping our lives and communities, shouldn't we have "
 "a say in how it works? [KDE](https://kde.org/community/whatiskde/), the Free "
@@ -11034,32 +11014,30 @@ msgid ""
 "nicely the kind of world FOSS and its supporters are working toward."
 msgstr ""
 "Com que aquest programari està donant forma a les nostres vides i "
-"comunitats, no hauríem de tenir veu en com funciona? El [KDE](https://kde."
-"org/community/whatiskde/), la comunitat de programari lliure de codi obert "
-"que està darrere de la iniciativa KDE Eco, té la següent [visió](https://"
-"community.kde.org/KDE/Vision). Resumeix molt bé el tipus de fosS del món i "
-"els seus partidaris estan treballant cap a."
+"comunitats, no hauríem de tenir veu en com funciona? [KDE](https://kde.org/"
+"community/whatiskde/), la comunitat de programari lliure de codi obert que "
+"està darrere de la iniciativa KDE Eco, té la [visió](https://community.kde."
+"org/KDE/Vision) següent. Resumeix molt bé la mena de món FOSS i cap a on "
+"estan treballant els seus partidaris."
 
-#: content/opt-green-handbook/handbook_web.md:231
-#, fuzzy
+# skip-rule: punctuation-period-no
+#: content/opt-green-handbook/index.md:234
 msgid ""
 "\"A world in which everyone has control over their digital life and enjoys "
 "freedom and privacy.\""
 msgstr ""
-"«Un món en el qual tothom té control sobre la seva vida digital i gaudeix de "
+"«Un món en què cadascú té control sobre la seva vida digital i gaudeix de "
 "llibertat i privacitat»."
 
-#: content/opt-green-handbook/handbook_web.md:233
-#, fuzzy
+#: content/opt-green-handbook/index.md:236
 msgid ""
 "KDE Eco would only add: \"… enjoys freedom, privacy, *and a more sustainable "
 "use of digital technology*\"!"
 msgstr ""
-"KDE Eco només afegiria: «… gaudeix de llibertat, privacitat, *i un ús més "
-"sostenible de la tecnologia digital*\"!"
+"KDE Eco afegiria només: «… gaudiu de la llibertat, la privacitat, *i un ús "
+"més sostenible de la tecnologia digital*»!"
 
-#: content/opt-green-handbook/handbook_web.md:235
-#, fuzzy
+#: content/opt-green-handbook/index.md:238
 msgid ""
 "In this text we use the term Free & Open Source Software, but the reader may "
 "also come across the [terms](https://fsfe.org/freesoftware/index.en."
@@ -11068,42 +11046,38 @@ msgid ""
 "the rights guaranteed by the software licensing. And these rights are "
 "directly linked to the accessibility of software's source code."
 msgstr ""
-"En aquest text utilitzem el terme Programari lliure de codi obert, però el "
+"En aquest text utilitzem el terme Programari lliure i de codi obert, però el "
 "lector també pot trobar els [termes](https://fsfe.org/freesoftware/index.en."
 "html.synonyms) Programari lliure, Programari de codi obert i Programari "
-"lliure/lliure de codi obert. Per als nostres fins, tots es refereixen al "
+"lliure/libre de codi obert. Per a la nostra finalitat, tots es refereixen al "
 "mateix: els drets garantits per la llicència de programari. I aquests drets "
 "estan directament vinculats a l'accessibilitat del codi font del programari."
 
-#: content/opt-green-handbook/handbook_web.md:237
+#: content/opt-green-handbook/index.md:240
 msgid "What Is Source Code?"
 msgstr "Què és el codi font?"
 
-#: content/opt-green-handbook/handbook_web.md:239
-#, fuzzy
+#: content/opt-green-handbook/index.md:242
 msgid ""
 "FOSS's opposite is \"proprietary software\". Proprietary software is "
 "licensed to give users no agency over the code behind the software they use. "
 "In fact, proprietary software is typically distributed with undisclosed "
 "source code."
 msgstr ""
-"L'oposat de FOSS és el «programari propietari». El programari propietari "
-"està llicenciat per donar als usuaris cap agència sobre el codi darrere del "
-"programari que utilitzen. De fet, el programari propietari es distribueix "
-"normalment amb codi font no revelat."
+"L'oposat del FOSS és el «programari propietari». El programari propietari "
+"està llicenciat per no donar als usuaris cap capacitat sobre el codi darrere "
+"del programari que utilitzen. De fet, el programari propietari es "
+"distribueix normalment amb codi font no divulgat."
 
-#: content/opt-green-handbook/handbook_web.md:241
-#, fuzzy
+#: content/opt-green-handbook/index.md:244
 msgid "Wait a minute, what is source code, you wonder?"
-msgstr "Espera un minut, què és el codi font, et preguntes?"
+msgstr "Un minut, què és el codi font, us pregunteu?"
 
-#: content/opt-green-handbook/handbook_web.md:243
-#, fuzzy
+#: content/opt-green-handbook/index.md:246
 msgid "Actually, what is software for that matter?"
-msgstr "En realitat, què és el programari per a això?"
+msgstr "En realitat, què és el programari per a aquest tema?"
 
-#: content/opt-green-handbook/handbook_web.md:245
-#, fuzzy
+#: content/opt-green-handbook/index.md:248
 msgid ""
 "At its most basic, software is a recipe for the computer. Programmers write "
 "the recipes in \"source code\", which is, simply put, a human-readable set "
@@ -11114,26 +11088,25 @@ msgid ""
 "source code below does?[^2]"
 msgstr ""
 "En el seu aspecte més bàsic, el programari és una recepta per a l'ordinador. "
-"Els programadors escriuen les receptes en «codi font\", que és, simplement, "
-"un conjunt d'instruccions llegibles per a l'ordinador. I de la mateixa "
-"manera que una recepta està escrita en un o altre llenguatge humà, el codi "
-"font està escrit en un llenguatge de programació. Amb accés al codi font, "
-"qualsevol pot entendre i revisar la recepta. De fet, prova-ho tu mateix: "
-"Pots endevinar què fa el codi font a continuació?[[2]"
+"Els programadors escriuen les receptes en «codi font», que és, senzillament, "
+"un conjunt d'instruccions llegibles per l'ordinador. I de la mateixa manera "
+"que una recepta està escrita en un llenguatge humà o un altre, el codi font "
+"està escrit en un llenguatge de programació. Amb accés al codi font, "
+"qualsevol pot entendre i revisar la recepta. De fet, proveu-ho ara mateix: "
+"Podeu endevinar què fa el codi font a continuació?[^2]"
 
-#: content/opt-green-handbook/handbook_web.md:247
-#, fuzzy
+# skip-rule: rst-2tilde
+#: content/opt-green-handbook/index.md:250
 msgid ""
 "[^2]: Example from E. Buckman \\& Joshua Gray, ``A Note On Software'' in "
 "*[Free Software, Free Society (First Edition)](https://dn790008.ca.archive."
 "org/0/items/Free_Software_Free_Society/Free_Software_Free_Society.pdf)*."
 msgstr ""
-"[^2]: Exemple d'E. Buckman \\ Joshua Gray, ,Una nota sobre el programari'' a "
-"*[Free Software, Free Society (Primera edició)](https://dn790008.ca.archive."
-"org/0/items/Free_Software_Free_Society/Free_Software_Free_Society.pdf)*."
+"[^2]: Exemple d'E. Buckman \\& Joshua Gray, «A Note On Software» a *[Free "
+"Software, Free Society (First Edition)](https://dn790008.ca.archive.org/0/"
+"items/Free_Software_Free_Society/Free_Software_Free_Society.pdf)*."
 
-#: content/opt-green-handbook/handbook_web.md:256
-#, fuzzy
+#: content/opt-green-handbook/index.md:259
 msgid ""
 "You probably guessed correctly: it prints the phrase \"Hello World!\" on the "
 "screen. Even if you know nothing about the programming language (a language "
@@ -11143,16 +11116,16 @@ msgid ""
 "translate the text printed on the screen, or you could make it say something "
 "else entirely."
 msgstr ""
-"Probablement heu endevinat correctament: imprimeix la frase «Hola món!» a la "
-"pantalla. Fins i tot si no saps res sobre el llenguatge de programació (un "
-"llenguatge anomenat C), el codi és transparent i llegible. Potser ja es pot "
-"fer alguna cosa amb ella, modificar-la o millorar-la d'alguna manera, fins i "
-"tot com a no-progammer. Per exemple, si parles un idioma diferent podries "
-"traduir el text imprès a la pantalla, o podries fer que digués una altra "
-"cosa completament."
+"Probablement ho heu endevinat correctament: imprimeix la frase «Hello "
+"World!» a la pantalla. Fins i tot si no sabeu res sobre el llenguatge de "
+"programació (un llenguatge anomenat C), el codi és transparent i llegible. "
+"Potser ja es pot fer alguna cosa amb ell, modificar-lo o millorar-lo "
+"d'alguna manera, fins i tot com a no programador. Per exemple, si parleu un "
+"idioma diferent podríeu traduir el text imprès a la pantalla, o podríeu fer "
+"que digués una altra cosa completament diferent."
 
-#: content/opt-green-handbook/handbook_web.md:258
-#, fuzzy
+# skip-rule: kct-encoded, barb-uns
+#: content/opt-green-handbook/index.md:261
 msgid ""
 "This source code, this recipe, is great for humans, but it is actually not "
 "so great for computers. A computer requires the recipe to be encoded in "
@@ -11162,16 +11135,17 @@ msgid ""
 "code. Huzzah! Consider that same easy-to-read code snippet above, but now in "
 "binary form:"
 msgstr ""
-"Aquest codi font, aquesta recepta, és gran per als humans, però en realitat "
-"no és tan gran per als ordinadors. Un ordinador requereix que la recepta es "
-"codifica en alguna cosa més semblant a un ordinador, és a dir, 1s i 0s, o "
-"codi binari. Aquesta conversió de codi font a codi binari és el treball d'un "
-"compiler &mdash; els compiladors converteixen el codi font llegible per "
-"l'ésser humà en codi binari fàcil d'ordinador. Huzzah! Considereu aquest "
-"mateix fragment de codi fàcil de llegir, però ara en forma binària:"
+"Aquest codi font, aquesta recepta, és fenomenal per als humans, però en "
+"realitat no ho és tant per als ordinadors. Un ordinador requereix que la "
+"recepta es codifiqui en alguna cosa més apropiada per a un ordinador, és a "
+"dir, uns i zeros, o codi binari. Aquesta conversió de codi font a codi "
+"binari és el treball d'un compilador; els compiladors converteixen el codi "
+"font llegible pels éssers humans en codi binari fàcil per a l'ordinador. "
+"Visca! Vegeu aquest mateix fragment de codi fàcil de llegir, però ara en "
+"forma binària:"
 
-#: content/opt-green-handbook/handbook_web.md:269
-#, fuzzy
+# skip-rule: barb-uns
+#: content/opt-green-handbook/index.md:272
 msgid ""
 "Can you read this code? Can you do anything with it? Modify it in some "
 "meaningful way? Fret not, no human can! Proprietary software is typically "
@@ -11182,34 +11156,31 @@ msgid ""
 "reach[^3] when all you have is the baked cake. You cannot know how the cake "
 "was made and with which ingredients, and you certainly cannot modify it."
 msgstr ""
-"Pots llegir aquest codi? Pots fer alguna cosa amb això? Voleu modificar-lo "
-"d'alguna manera significativa? No, no pot ser humà! El programari propietari "
-"es distribueix normalment en codi binari, només un munt de 1s i 0s, mentre "
-"que el codi font segueix sent un secret, amagat darrere de llicències "
-"propietàries. Totes aquestes coses que podries fer quan tenies accés a la "
-"recepta, entendre el que fa el codi font, potser fins i tot canviar o "
-"millorar l'it &mdash; quedar-te completament fora d'abast[3]3] quan tot el "
-"que tens és el pastís al forn. No es pot saber com es va elaborar el pastís "
-"i amb quins ingredients, i certament no es pot modificar."
+"Podeu llegir aquest codi? Podeu fer alguna cosa amb això? Voleu modificar-lo "
+"d'alguna manera significativa? No, cap humà ho pot fer! El programari "
+"propietari es distribueix normalment en codi binari, només un munt d'uns i "
+"zeros, mentre que el codi font segueix sent un secret, amagat darrere de "
+"llicències propietàries. Totes aquestes coses que podíeu fer quan teníeu "
+"accés a la recepta, entendre el que fa el codi font, potser fins i tot "
+"canviar o millorar-lo, queda completament fora del vostre abast[^3] quan tot "
+"el que teniu és el pastís fornejat. No es pot saber com s'ha elaborat el "
+"pastís i amb quins ingredients, i certament no es pot modificar."
 
-#: content/opt-green-handbook/handbook_web.md:271
-#, fuzzy
+#: content/opt-green-handbook/index.md:274
 msgid ""
 "[^3]: Although \"decompilers\" which convert binary code back into source "
 "code do exist, the output is often distorted from the original and can be "
 "difficult to understand."
 msgstr ""
 "[^3]: Tot i que existeixen «descompiladors» que converteixen codi binari de "
-"nou en codi font, la sortida sovint es distorsiona de l'original i pot ser "
-"difícil d'entendre."
+"nou en codi font, la sortida sovint queda distorsionada de l'original i pot "
+"ser difícil d'entendre."
 
-#: content/opt-green-handbook/handbook_web.md:273
-#, fuzzy
+#: content/opt-green-handbook/index.md:276
 msgid "In short, whoever controls the recipe will decide the cake we eat."
 msgstr "En definitiva, qui controli la recepta decidirà el pastís que mengem."
 
-#: content/opt-green-handbook/handbook_web.md:275
-#, fuzzy
+#: content/opt-green-handbook/index.md:278
 msgid ""
 "If only we were just talking about recipes for cake! In fact, what we are "
 "talking about is the code shaping every aspect of life in the digital age, "
@@ -11220,12 +11191,11 @@ msgstr ""
 "Si només parléssim de receptes per a pastissos! De fet, del que estem "
 "parlant és del codi que conforma tots els aspectes de la vida en l'era "
 "digital, des del treball fins a la socialització, des de l'atenció sanitària "
-"fins a la datació, des dels clubs de llibre de barri fins a la recerca "
+"fins a les cites, des dels clubs de llibre de barri fins a la recerca "
 "acadèmica. I tota la resta que fem amb els nostres ordinadors i telèfons "
 "intel·ligents tot el temps."
 
-#: content/opt-green-handbook/handbook_web.md:277
-#, fuzzy
+#: content/opt-green-handbook/index.md:280
 msgid ""
 "In contrast to proprietary software, FOSS ensures the rights of users to "
 "access source code and do things with the software independently from the "
@@ -11237,23 +11207,21 @@ msgstr ""
 "En contrast amb el programari propietari, el FOSS garanteix els drets dels "
 "usuaris per accedir al codi font i fer coses amb el programari "
 "independentment de les persones o empreses que el van escriure. Així, en un "
-"món on la tecnologia digital s'asseu en silenci (i de vegades no tan "
-"silenciosa) darrere de la majoria d'aspectes de la vida quotidiana, l'accés "
-"al codi font i la capacitat de modificar-lo són, en última instància, els "
-"drets que tenim com a persones i societat."
+"món on la tecnologia digital està en silenci (i de vegades no tan "
+"silenciosament) darrere de la majoria d'aspectes de la vida quotidiana, "
+"l'accés al codi font i la capacitat de modificar-lo són, en última "
+"instància, els drets que tenim com a persones i societat."
 
-#: content/opt-green-handbook/handbook_web.md:279
-#, fuzzy
+#: content/opt-green-handbook/index.md:282
 msgid ""
 "What we are talking about is control and freedom&mdash;and it has big "
 "implications for us and for the environment. That is very exciting, isn't "
 "it?!"
 msgstr ""
-"Del que estem parlant és de control i llibertat, i té grans implicacions per "
+"Del que estem parlant és de control i llibertat, i té implicacions grans per "
 "a nosaltres i per al medi ambient. Això és molt emocionant, oi?!"
 
-#: content/opt-green-handbook/handbook_web.md:281
-#, fuzzy
+#: content/opt-green-handbook/index.md:284
 msgid ""
 "There are many misconceptions of FOSS which we address in an appendix at the "
 "end of this chapter, continuing with the analogy to recipes. If you're "
@@ -11262,24 +11230,21 @@ msgid ""
 "and other such questions, you can jump to the end of this section to get "
 "some answers!"
 msgstr ""
-"Hi ha molts conceptes erronis del FOSS que abordem en un apèndix al final "
-"d'aquest capítol, continuant amb l'analogia a les receptes. Si us pregunteu "
+"Hi ha molts errors de concepte en el FOSS que abordem en un apèndix al final "
+"d'aquest capítol, continuant amb l'analogia de les receptes. Si us pregunteu "
 "si algú, potser fins i tot actors dolents, pot modificar el codi font, o si "
-"fer el codi font transparent el fa menys segur, i altres preguntes d'aquest "
-"tipus, podeu saltar al final d'aquesta secció per obtenir algunes respostes!"
+"fer el codi font transparent el fa menys segur, i altres qüestions d'aquesta "
+"mena, podeu saltar al final d'aquesta secció per obtenir algunes respostes!"
 
-#: content/opt-green-handbook/handbook_web.md:283
-#, fuzzy
+#: content/opt-green-handbook/index.md:286
 msgid "FOSS Is Better For The Environment"
 msgstr "El FOSS és millor per al medi ambient"
 
-#: content/opt-green-handbook/handbook_web.md:285
-#, fuzzy
+#: content/opt-green-handbook/index.md:288
 msgid "Improving Code&mdash;By Users & For Users"
-msgstr "Millora del Code &mdash;Per usuaris per a usuaris"
+msgstr "Millora del codi, dels usuaris per als usuaris"
 
-#: content/opt-green-handbook/handbook_web.md:287
-#, fuzzy
+#: content/opt-green-handbook/index.md:290
 msgid ""
 "With FOSS, the source code can be modified to ensure that the software is "
 "not doing things unnecessarily, thus reducing the hardware demands, saving "
@@ -11293,19 +11258,17 @@ msgid ""
 "drastically different energy profiles."
 msgstr ""
 "Amb el FOSS, el codi font es pot modificar per assegurar que el programari "
-"no està fent les coses innecessàriament, reduint així les demandes del "
-"maquinari, estalviant recursos compartits i assegurant la longevitat del "
-"maquinari. Considereu els resultats d'[un estudi](https://www."
-"umweltbundesamt.de/publikationen/entwicklung-anwendung-von-"
-"bewertungsgrundlagen-fuer) publicat per l'Agència Alemanya de Medi Ambient i "
-"[un article relacionat](https://doi.org/10.1016/j.future.2018.02.044) a la "
-"revista *Future Generation Computer Systems*. Els investigadors informen que "
-"dues aplicacions fent el mateix i aconseguint el mateix resultat poden posar "
-"diferents demandes en el maquinari i tenir perfils energètics dràsticament "
-"diferents."
+"no està fent coses innecessàries, reduint així les demandes del maquinari, "
+"estalviant recursos compartits i assegurant la longevitat del maquinari. "
+"Vegeu els resultats d'[un estudi](https://www.umweltbundesamt.de/"
+"publikationen/entwicklung-anwendung-von-bewertungsgrundlagen-fuer) publicat "
+"per l'Agència Alemanya de Medi Ambient i [un article relacionat](https://doi."
+"org/10.1016/j.future.2018.02.044) a la revista *Future Generation Computer "
+"Systems*. Els investigadors informen que dues aplicacions fent el mateix i "
+"aconseguint el mateix resultat poden efectuar demandes diferents en el "
+"maquinari i tenir perfils energètics dràsticament diferents."
 
-#: content/opt-green-handbook/handbook_web.md:289
-#, fuzzy
+#: content/opt-green-handbook/index.md:292
 msgid ""
 "The study included a comparison of two word processing programs: Word "
 "Processor 1 is identified as \"Open Source\", while Word Processor 2 is "
@@ -11315,16 +11278,14 @@ msgid ""
 "1&mdash;again, and this cannot be stressed enough, to do the same task!"
 msgstr ""
 "L'estudi va incloure una comparació de dos programes de processament de "
-"textos: el processador de textos 1 s'identifica com a «Open Source\", mentre "
-"que el processador de textos 2 s'identifica com a «Proprietary». Es va "
-"instruir a tots dos programes informàtics perquè realitzessin les mateixes "
-"accions. El resultat es veu a la figura 9. El processador de paraules en "
-"execució 2 va consumir quatre vegades l'energia en comparació amb el "
-"processador de textos 1 &mdash; de nou, i això no es pot destacar prou, per "
-"fer la mateixa tasca!"
+"textos: el processador de textos 1 s'identifica com a «Codi obert», mentre "
+"que el processador de textos 2 s'identifica com a «Propietari». Es va "
+"encarregar a tots dos programes informàtics perquè realitzessin les mateixes "
+"accions. El resultat es veu a la figura 9. El processador de textos 2 va "
+"consumir quatre vegades l'energia en comparació amb el processador de textos "
+"1; de nou, i això no es pot destacar prou, per fer la mateixa tasca!"
 
-#: content/opt-green-handbook/handbook_web.md:291
-#, fuzzy
+#: content/opt-green-handbook/index.md:294
 msgid ""
 "![Plot comparing two word processors during execution of a Standard Usage "
 "Scenario script. Word Processor 1 is an Open Source program. This word "
@@ -11334,15 +11295,14 @@ msgid ""
 "from the German Environment Agency report.)](images/sec2_uba-sus.png)"
 msgstr ""
 "![Gràfic comparant dos processadors de textos durant l'execució d'un script "
-"estàndard d'escenari d'ús. El processador de textos 1 és un programa de codi "
-"obert. Aquest processador de textos va consumir quatre vegades l'energia "
-"*menys* que el processador de Word 2, un programa propietari. (Imatge de KDE "
-"publicada segons una llicència [CC-BY-SA-4.0](https://spdx.org/licenses/CC-"
-"BY-SA-4.0.html). La imatge està adaptada de l'informe de l'Agència Alemanya "
-"del Medi Ambient.)](images/sec2_uba-sus.png)"
+"d'escenari d'ús estàndard. El processador de textos 1 és un programa de codi "
+"obert. Aquest processador de textos va consumir quatre vegades *menys* "
+"energia que el processador de textos 2, un programa propietari. (Imatge de "
+"KDE publicada segons una llicència [CC-BY-SA-4.0](https://spdx.org/licenses/"
+"CC-BY-SA-4.0.html). La imatge està adaptada de l'informe de l'Agència "
+"Alemanya del Medi Ambient.)](images/sec2_uba-sus.png)"
 
-#: content/opt-green-handbook/handbook_web.md:293
-#, fuzzy
+#: content/opt-green-handbook/index.md:296
 msgid ""
 "Looking at the two word processors' power use over time, it's also clear how "
 "the two programs behave quite differently … and perhaps contrary to what you "
@@ -11359,21 +11319,20 @@ msgid ""
 msgstr ""
 "Mirant l'ús d'energia dels dos processadors de textos al llarg del temps, "
 "també està clar com els dos programes es comporten de manera molt diferent … "
-"i potser contrari al que es podria esperar. Considereu la trama a la figura "
-"10. Al voltant dels 440 segons, els dos processadors de textos desen el "
-"document i no s'invoquen més accions per l'script de mesura. Com podeu "
-"veure, el processador de textos de codi obert 1 no funciona (tal com es "
-"podria esperar). Per contra, Proprietary Word Processor 2 continua "
-"funcionant, consumint energia addicional fins a la finalització de la "
+"i potser en contra del que es podria esperar. Considereu el gràfic de la "
+"figura 10. Al voltant dels 440 segons, els dos processadors de textos desen "
+"el document i l'script de mesura no s'invoca més accions. Com podeu veure, "
+"el processador de textos de codi obert 1 queda inactiu (tal com es podria "
+"esperar). Per contra, el processador de textos propietari 2 continua "
+"treballant, consumint energia addicional fins a la finalització de la "
 "mesura. Val la pena preguntar per a què serveixen les activitats addicionals "
-"de 440 a 600 segons: són necessàries les accions de Word Processor 2 per a "
-"la funcionalitat del programari? El processador de textos propietari recull "
-"i transmet les dades de l'usuari? Si és així, els usuaris tenen una manera "
-"de desactivar aquest tipus d'anàlisi? Bé, això depèn del disseny de "
-"programari."
+"dels 440 als 600 segons: són necessàries les accions de processador de "
+"textos 2 per a la funcionalitat del programari? El processador de textos "
+"propietari recull i transmet dades de l'usuari? Si és així, els usuaris "
+"tenen una manera de desactivar aquest tipus d'anàlisi? Bé, això depèn del "
+"disseny del programari."
 
-#: content/opt-green-handbook/handbook_web.md:295
-#, fuzzy
+#: content/opt-green-handbook/index.md:298
 msgid ""
 "![Plot comparing two word processors over time when running the Standard "
 "Usage Scenario script. The Open Source Word Processor 1 (*top*) goes into an "
@@ -11386,20 +11345,19 @@ msgid ""
 "CC-BY-NC-ND-4.0.html) license; screenshot published here with permission.)]"
 "(images/sec2_energy-consumption_time.png)"
 msgstr ""
-"![Gràfica comparant dos processadors de textos amb el temps quan s'executa "
-"l'script d'escenari d'ús estàndard. El processador de textos de codi obert 1 "
-"(*dalt*) entra en un estat inactiu quan no fa res, vist més clarament "
-"després que el document es desi en aproximadament 440 segons i que l'script "
-"no invoqui altres accions. En comparació, el processador de textos "
-"propietari 2 (*baix*) poques vegades passa a inactiu, fins i tot després de "
-"desar el document i no s'invoquen altres accions. (Captura de pantalla de "
-"l'article [Kern et al. 2018](https://doi.org/10.1016/j.future.2018.02.044) "
-"publicat segons la llicència [CC-BY-NC-ND](https://spdx.org/licenses/CC-BY-"
-"NC-ND-4.0.html); captura de pantalla publicada aquí amb permís.)](images/"
-"sec2_energy-consumption_time.png)"
+"![Gràfic comparant dos processadors de textos respecte al temps quan "
+"s'executa l'script d'escenari d'ús estàndard. El processador de text de codi "
+"obert 2 (*dalt*) entra en un estat inactiu quan no fa res, vist més "
+"clarament després que el document es desi aproximadament a la marca de 440 "
+"segons i l'script no invoqui altres accions. En comparació, el processador "
+"de textos propietari 2 (*baix*) poques vegades passa a inactiu, fins i tot "
+"després de desar el document i que no s'invoquin altres accions. (Captura de "
+"pantalla de l'article [Kern et al. 2018](https://doi.org/10.1016/j."
+"future.2018.02.044) publicat segons la llicència [CC-BY-NC-ND](https://spdx."
+"org/licenses/CC-BY-NC-ND-4.0.html); captura de pantalla publicada aquí amb "
+"permís.)](images/sec2_energy-consumption_time.png)"
 
-#: content/opt-green-handbook/handbook_web.md:297
-#, fuzzy
+#: content/opt-green-handbook/index.md:300
 msgid ""
 "In these cases, user autonomy can make a big difference in the energy "
 "profile of a software product. Proprietary software may provide some "
@@ -11416,19 +11374,18 @@ msgstr ""
 "En aquests casos, l'autonomia dels usuaris pot marcar una gran diferència en "
 "el perfil energètic d'un producte de programari. El programari propietari "
 "pot proporcionar una certa autonomia oferint als usuaris opcions "
-"predefinides, però aquestes són només opcions que el venedor ha decidit "
-"donar, i es poden recuperar en qualsevol moment. Per contra, el FOSS dona "
-"als usuaris accés al codi font i als drets per modificar-lo. Aquesta és una "
+"predefinides, però aquestes només són opcions que el venedor ha decidit "
+"donar, i es poden treure en qualsevol moment. Per contra, el FOSS dona als "
+"usuaris accés al codi font i als drets per modificar-lo. Aquesta és una "
 "veritable autonomia. D'aquesta manera, es pot fer programari per funcionar "
 "de la manera que els usuaris, no les empreses, vulguin. Per ser clar, "
 "simplement alliberar programari segons una llicència FOSS no té cap garantia "
 "d'una major eficiència de codi. El codi propi pot ser molt eficient. No "
-"obstant això, el FOSS té un avantatge real en què les ineficiències poden "
-"ser trobades i millorades per qualsevol &mdash; això és simplement "
-"impossible amb el programari propietari."
+"obstant això, el FOSS té un avantatge real en què es poden trobar les "
+"ineficiències i millorades per qualsevol; això és simplement impossible amb "
+"el programari propietari."
 
-#: content/opt-green-handbook/handbook_web.md:299
-#, fuzzy
+#: content/opt-green-handbook/index.md:302
 msgid ""
 "Do changes in code efficiency really matter? At scale, they most certainly "
 "do! Given that applications such as word processors run in just about every "
@@ -11447,19 +11404,19 @@ msgstr ""
 "Els canvis en l'eficiència del codi realment importen? A escala, sens dubte "
 "ho fan! Atès que aplicacions com els processadors de textos s'executen en "
 "gairebé totes les llars i oficines modernes, les millores mínimes en "
-"l'eficiència del programari poden, a escala, resultar en estalvis "
+"l'eficiència del programari poden, a escala, donar com a resultat estalvis "
 "comparables al consum anual d'energia de ciutats senceres. Aquesta afirmació "
-"es basa en un exemple de SAP Product Engineer Detlef Thoms, que [fa càlculs "
-"enrere de l'envelat](https://open.hpi.de/courses/cleanit2021/"
+"es basa en un exemple de Detlef Thoms, enginyer de producte a SAP, que [fa "
+"càlculs aproximats](https://open.hpi.de/courses/cleanit2021/"
 "items/5DHsS3tJsXAqfUE4q4F82Z) (04:20&ndash;06:10) per passar d'una reducció "
-"de CPU de segon, equivalent a un estalvi de 10 watts de segon, a un estalvi "
-"de 95 mil megawatts d'hora simplement augmentant. Aquests estalvis són "
-"comparables amb el consum anual d'energia de més de 30 mil llars de dues "
-"persones. Com s'indica en el vídeo: «De vegades, és un conjunt de decisions "
-"bastant manejables que condueixen a diferències significatives en el consum "
-"d'energia\", és a dir, petits canvis produiran grans resultats."
+"de CPU d'un segon, equivalent a un estalvi de 10 watts de segon, a un "
+"estalvi de 95 mil megawatts hora simplement augmentant l'escala. Aquests "
+"estalvis són comparables amb el consum anual d'energia de més de 30.000 "
+"llars de dues persones. Com s'indica en el vídeo: «De vegades, és un conjunt "
+"de decisions bastant gestionables que porten a diferències significatives en "
+"el consum d'energia», és a dir, petits canvis produiran grans resultats."
 
-#: content/opt-green-handbook/handbook_web.md:301
+#: content/opt-green-handbook/index.md:304
 #, fuzzy
 msgid ""
 "Just one example has been discussed here, but the same logic applies to "
@@ -11483,12 +11440,11 @@ msgstr ""
 "recursos. Ara passem al que això significa específicament per a la "
 "longevitat del maquinari."
 
-#: content/opt-green-handbook/handbook_web.md:303
-#, fuzzy
+#: content/opt-green-handbook/index.md:306
 msgid "FOSS Isn't Made For Only The Latest And Greatest"
 msgstr "El FOSS no està fet només per al més recent i el més gran"
 
-#: content/opt-green-handbook/handbook_web.md:305
+#: content/opt-green-handbook/index.md:308
 #, fuzzy
 msgid ""
 "FOSS helps keep older models of hardware in action, operating long past the "
@@ -11502,7 +11458,7 @@ msgstr ""
 "del dispositiu i què significa un programari lleuger i independent per a "
 "l'ús sostenible del maquinari."
 
-#: content/opt-green-handbook/handbook_web.md:307
+#: content/opt-green-handbook/index.md:310
 #, fuzzy
 msgid ""
 "First, software determines not only how much energy hardware needs, it also "
@@ -11518,32 +11474,32 @@ msgstr ""
 "necessita el maquinari, sinó també la potència que ha de ser el maquinari "
 "per executar el programari. Considereu les dues taules següents comparant "
 "els requisits mínims del sistema per a RAM, processador i emmagatzematge de "
-"Microsoft Windows 11, macOS 14 «Sonoma\", i els sistemes operatius base (OS) "
+"Microsoft Windows 11, macOS 14 «Sonoma», i els sistemes operatius base (OS) "
 "per a un grapat de distribucions de programari lliure de codi obert. Tots "
 "els sistemes de la taula reben actualitzacions de seguretat a principis de "
 "2026, sent Sonoma la versió més antiga de macOS que encara està suportada "
 "per Apple."
 
-#: content/opt-green-handbook/handbook_web.md:309
+#: content/opt-green-handbook/index.md:312
 msgid "Proprietary OS"
 msgstr "SO propietari"
 
-#: content/opt-green-handbook/handbook_web.md:309
-#: content/opt-green-handbook/handbook_web.md:317
+#: content/opt-green-handbook/index.md:312
+#: content/opt-green-handbook/index.md:320
 msgid "RAM"
 msgstr "RAM"
 
-#: content/opt-green-handbook/handbook_web.md:309
-#: content/opt-green-handbook/handbook_web.md:317
+#: content/opt-green-handbook/index.md:312
+#: content/opt-green-handbook/index.md:320
 msgid "Processor"
 msgstr "Processador"
 
-#: content/opt-green-handbook/handbook_web.md:309
-#: content/opt-green-handbook/handbook_web.md:317
+#: content/opt-green-handbook/index.md:312
+#: content/opt-green-handbook/index.md:320
 msgid "Storage"
 msgstr "Emmagatzematge"
 
-#: content/opt-green-handbook/handbook_web.md:311
+#: content/opt-green-handbook/index.md:314
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
@@ -11551,57 +11507,57 @@ msgstr ""
 "[Windows 11](https://www.microsoft.com/ca-us/windows/windows-11-"
 "specifications)"
 
-#: content/opt-green-handbook/handbook_web.md:311
-#: content/opt-green-handbook/handbook_web.md:321
+#: content/opt-green-handbook/index.md:314
+#: content/opt-green-handbook/index.md:324
 msgid "4 GB"
 msgstr "4 GB"
 
-#: content/opt-green-handbook/handbook_web.md:311
+#: content/opt-green-handbook/index.md:314
 msgid "certain 64 bit processors"
 msgstr "determinats processadors de 64 bits"
 
-#: content/opt-green-handbook/handbook_web.md:311
+#: content/opt-green-handbook/index.md:314
 msgid "64 GB"
 msgstr "64 GB"
 
-#: content/opt-green-handbook/handbook_web.md:312
+#: content/opt-green-handbook/index.md:315
 msgid "+ Copilot genAI"
 msgstr "+ Copilot genAI"
 
-#: content/opt-green-handbook/handbook_web.md:312
+#: content/opt-green-handbook/index.md:315
 msgid "16 GB"
 msgstr "16 GB"
 
-#: content/opt-green-handbook/handbook_web.md:312
+#: content/opt-green-handbook/index.md:315
 msgid "+ NPU"
 msgstr "+ NPU"
 
-#: content/opt-green-handbook/handbook_web.md:312
+#: content/opt-green-handbook/index.md:315
 msgid "256 GB"
 msgstr "256 GB"
 
-#: content/opt-green-handbook/handbook_web.md:313
+#: content/opt-green-handbook/index.md:316
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 msgstr "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 
-#: content/opt-green-handbook/handbook_web.md:313
-#: content/opt-green-handbook/handbook_web.md:320
+#: content/opt-green-handbook/index.md:316
+#: content/opt-green-handbook/index.md:323
 msgid "8 GB"
 msgstr "8 GB"
 
-#: content/opt-green-handbook/handbook_web.md:313
-#: content/opt-green-handbook/handbook_web.md:319
-#: content/opt-green-handbook/handbook_web.md:320
-#: content/opt-green-handbook/handbook_web.md:321
-#: content/opt-green-handbook/handbook_web.md:322
+#: content/opt-green-handbook/index.md:316
+#: content/opt-green-handbook/index.md:322
+#: content/opt-green-handbook/index.md:323
+#: content/opt-green-handbook/index.md:324
+#: content/opt-green-handbook/index.md:325
 msgid "64 bit"
 msgstr "64 bits"
 
-#: content/opt-green-handbook/handbook_web.md:313
+#: content/opt-green-handbook/index.md:316
 msgid "25 GB"
 msgstr "25 GB"
 
-#: content/opt-green-handbook/handbook_web.md:315
+#: content/opt-green-handbook/index.md:318
 #, fuzzy
 msgid ""
 "The proprietary operating systems have generally higher minimum system "
@@ -11630,11 +11586,11 @@ msgstr ""
 "[programari bloat](https://en.wikipedia.org/wiki/Software_bloat) seran menys "
 "rellevants."
 
-#: content/opt-green-handbook/handbook_web.md:317
+#: content/opt-green-handbook/index.md:320
 msgid "FOSS-based OS"
 msgstr "SO basats en FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:319
+#: content/opt-green-handbook/index.md:322
 msgid ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
@@ -11642,65 +11598,65 @@ msgstr ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:319
-#: content/opt-green-handbook/handbook_web.md:320
-#: content/opt-green-handbook/handbook_web.md:322
+#: content/opt-green-handbook/index.md:322
+#: content/opt-green-handbook/index.md:323
+#: content/opt-green-handbook/index.md:325
 msgid "2 GB"
 msgstr "2 GB"
 
-#: content/opt-green-handbook/handbook_web.md:319
+#: content/opt-green-handbook/index.md:322
 msgid "15 GB"
 msgstr "15 GB"
 
-#: content/opt-green-handbook/handbook_web.md:320
+#: content/opt-green-handbook/index.md:323
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 msgstr "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:321
+#: content/opt-green-handbook/index.md:324
 msgid ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 msgstr ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:321
-#: content/opt-green-handbook/handbook_web.md:323
+#: content/opt-green-handbook/index.md:324
+#: content/opt-green-handbook/index.md:326
 msgid "512 MB"
 msgstr "512 MB"
 
-#: content/opt-green-handbook/handbook_web.md:322
+#: content/opt-green-handbook/index.md:325
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 msgstr "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:322
+#: content/opt-green-handbook/index.md:325
 msgid "512 MiB"
 msgstr "512 MiB"
 
-#: content/opt-green-handbook/handbook_web.md:323
+#: content/opt-green-handbook/index.md:326
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 msgstr "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 
-#: content/opt-green-handbook/handbook_web.md:323
-#: content/opt-green-handbook/handbook_web.md:324
+#: content/opt-green-handbook/index.md:326
+#: content/opt-green-handbook/index.md:327
 msgid "32 or 64 bit"
 msgstr "32 o 64 bits"
 
-#: content/opt-green-handbook/handbook_web.md:323
+#: content/opt-green-handbook/index.md:326
 msgid "1 GB"
 msgstr "1 GB"
 
-#: content/opt-green-handbook/handbook_web.md:324
+#: content/opt-green-handbook/index.md:327
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
 msgstr "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
 
-#: content/opt-green-handbook/handbook_web.md:324
+#: content/opt-green-handbook/index.md:327
 msgid "384 MiB"
 msgstr "384 MiB"
 
-#: content/opt-green-handbook/handbook_web.md:324
+#: content/opt-green-handbook/index.md:327
 msgid "1.5 GB"
 msgstr "1,5 GB"
 
-#: content/opt-green-handbook/handbook_web.md:327
+#: content/opt-green-handbook/index.md:330
 #, fuzzy
 msgid ""
 "By contrast, the base operating systems in the FOSS ecosystem typically are "
@@ -11718,7 +11674,7 @@ msgstr ""
 "d'escriptori, el gestor de finestres i les aplicacions. Aquest nivell més "
 "alt de personalització significa més control de l'usuari."
 
-#: content/opt-green-handbook/handbook_web.md:329
+#: content/opt-green-handbook/index.md:332
 #, fuzzy
 msgid ""
 "It is not just end users that customize the systems. Many FOSS distributions "
@@ -11737,7 +11693,7 @@ msgstr ""
 "distribucions de FOSS (o distribucions) es basen en aquests sistemes de base "
 "i els distribueixen juntament amb serveis i programari adaptats per a "
 "diversos usuaris i ordinadors. Molts usuaris nous al FOSS poden estar "
-"interessats en una distribució dissenyada específicament per a «newbies\", "
+"interessats en una distribució dissenyada específicament per a «newbies», "
 "que típicament inclouen molts serveis i configuracions predeterminades, de "
 "manera que les coses només funcionen fora de la caixa. A més, el FOSS permet "
 "modificacions del codi font i permet compartir canvis. De fet, aquests "
@@ -11747,7 +11703,7 @@ msgstr ""
 "suport de maquinari, incloent suport continu per a dispositius de gamma "
 "baixa."
 
-#: content/opt-green-handbook/handbook_web.md:331
+#: content/opt-green-handbook/index.md:334
 #, fuzzy
 msgid ""
 "Keep in mind that aging machines which merely satisfy the minimum technical "
@@ -11763,7 +11719,7 @@ msgstr ""
 "obstant això, els ordinadors de dècades d'antiguitat encara poden executar "
 "programari actualitzat amb FOSS!"
 
-#: content/opt-green-handbook/handbook_web.md:333
+#: content/opt-green-handbook/index.md:336
 #, fuzzy
 msgid ""
 "By imposing computationally expensive \"features\" and restricting who can "
@@ -11787,7 +11743,7 @@ msgstr ""
 "continuar suportant qualsevol maquinari si així ho tria, les llicències "
 "propietàries ho impedeixen."
 
-#: content/opt-green-handbook/handbook_web.md:335
+#: content/opt-green-handbook/index.md:338
 #, fuzzy
 msgid ""
 "If you aim to buy a new device, these may be all non-issues for you. "
@@ -11807,12 +11763,12 @@ msgstr ""
 "seguretat. Les actualitzacions de programari són una part important "
 "d'aquesta història i el tema principal de la següent secció."
 
-#: content/opt-green-handbook/handbook_web.md:337
+#: content/opt-green-handbook/index.md:340
 #, fuzzy
 msgid "Software Is Buggy, And That's Risky"
 msgstr "El programari és erroni, i això és arriscat"
 
-#: content/opt-green-handbook/handbook_web.md:339
+#: content/opt-green-handbook/index.md:342
 #, fuzzy
 msgid ""
 "Software contains defects, known as bugs. All software, whether it is "
@@ -11843,7 +11799,7 @@ msgstr ""
 "highway/), i introduir riscos greus a on estiguin incrustats els ordinadors, "
 "inclosos els nostres propis cossos."
 
-#: content/opt-green-handbook/handbook_web.md:341
+#: content/opt-green-handbook/index.md:344
 #, fuzzy
 msgid ""
 "![A patch with program tape on the Harvard Mark I, one of the first digital "
@@ -11858,7 +11814,7 @@ msgstr ""
 "BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en).](images/"
 "sec2_Harvard_Mark_I_program_tape.agr.jpg)"
 
-#: content/opt-green-handbook/handbook_web.md:343
+#: content/opt-green-handbook/index.md:346
 #, fuzzy
 msgid ""
 "So how do we keep our systems secure? Just as you would patch a hole in "
@@ -11889,7 +11845,7 @@ msgstr ""
 "security-pros-about-staying-safe-online/) com una de les pràctiques de "
 "seguretat més importants que podeu implementar."
 
-#: content/opt-green-handbook/handbook_web.md:345
+#: content/opt-green-handbook/index.md:348
 #, fuzzy
 msgid ""
 "Security updates are essential. Any device requiring software to run, "
@@ -11930,7 +11886,7 @@ msgstr ""
 "software-component-may-introduce) poden requerir pedaços per corregir "
 "defectes."
 
-#: content/opt-green-handbook/handbook_web.md:347
+#: content/opt-green-handbook/index.md:350
 #, fuzzy
 msgid ""
 "![Logo for the \"[End Of 10](https://endof10.org/)\". The campaign helps new "
@@ -11945,7 +11901,7 @@ msgstr ""
 "png) publicat segons la llicència [CC BY 4.0](https://creativecommons.org/"
 "licenses/by/4.0/).](images/sec2_social-media-avatar-circle.png)"
 
-#: content/opt-green-handbook/handbook_web.md:349
+#: content/opt-green-handbook/index.md:352
 #, fuzzy
 msgid ""
 "What is referred to as the [End of Life](https://en.wikipedia.org/wiki/"
@@ -11984,7 +11940,7 @@ msgstr ""
 "deixant als usuaris d'aquests dispositius abandonats amb programari no "
 "suportat i en una posició vulnerable."
 
-#: content/opt-green-handbook/handbook_web.md:351
+#: content/opt-green-handbook/index.md:354
 #, fuzzy
 msgid ""
 "Although Windows 10 computers may still turn on and be \"usable\" after "
@@ -12011,13 +11967,13 @@ msgstr ""
 "dispositiu significa produir i transportar un de nou, i això comporta un "
 "enorme cost ecològic. Recorda:"
 
-#: content/opt-green-handbook/handbook_web.md:353
+#: content/opt-green-handbook/index.md:356
 msgid ""
 "**The most environmentally-friendly device is the one you already own.**"
 msgstr ""
 "**El dispositiu més respectuós amb el medi ambient és el que ja teniu.**"
 
-#: content/opt-green-handbook/handbook_web.md:355
+#: content/opt-green-handbook/index.md:358
 #, fuzzy
 msgid ""
 "There are better ways to solve software-driven hardware obsolescence than "
@@ -12036,7 +11992,7 @@ msgstr ""
 "insecure-Quick-change-required-10486647.html) com una manera de mantenir els "
 "dispositius Windows 10 abandonats de forma segura en ús."
 
-#: content/opt-green-handbook/handbook_web.md:357
+#: content/opt-green-handbook/index.md:360
 #, fuzzy
 msgid ""
 "Maintaining and testing software is certainly a lot more complex than simply "
@@ -12063,11 +12019,11 @@ msgstr ""
 "una part crítica del moviment més gran [Right to Repair](https://en."
 "wikipedia.org/wiki/Right_to_repair)."
 
-#: content/opt-green-handbook/handbook_web.md:358
+#: content/opt-green-handbook/index.md:361
 msgid "Appendix: Common Misconceptions"
 msgstr "Apèndix: Confusions habituals"
 
-#: content/opt-green-handbook/handbook_web.md:360
+#: content/opt-green-handbook/index.md:363
 #, fuzzy
 msgid ""
 "In this section, we'll debunk five of the most common misconceptions about "
@@ -12076,32 +12032,32 @@ msgstr ""
 "En aquesta secció, es descomptaran cinc dels conceptes erronis més comuns "
 "sobre el FOSS:"
 
-#: content/opt-green-handbook/handbook_web.md:362
+#: content/opt-green-handbook/index.md:365
 #, fuzzy
 msgid "\"Anyone can modify the application I am using.\""
 msgstr "\"Qualsevol pot modificar l'aplicació que estic utilitzant.\""
 
-#: content/opt-green-handbook/handbook_web.md:363
+#: content/opt-green-handbook/index.md:366
 #, fuzzy
 msgid "\"You never know where the software came from.\""
 msgstr "\"Mai se sap d'on venia el programari.\""
 
-#: content/opt-green-handbook/handbook_web.md:364
+#: content/opt-green-handbook/index.md:367
 #, fuzzy
 msgid "\"FOSS is less secure.\""
 msgstr "«El FÒSS és menys segur»."
 
 # skip-rule: t-com_pu
-#: content/opt-green-handbook/handbook_web.md:365
+#: content/opt-green-handbook/index.md:368
 msgid "\"I need to be a developer to benefit from FOSS.\""
 msgstr "«Necessito ser un desenvolupador/a per a beneficiar-me del FOSS.»"
 
-#: content/opt-green-handbook/handbook_web.md:366
+#: content/opt-green-handbook/index.md:369
 #, fuzzy
 msgid "\"FOSS is free of cost because it is developed by volunteers.\""
 msgstr "«El FÒSS és gratuït perquè està desenvolupat per voluntaris»."
 
-#: content/opt-green-handbook/handbook_web.md:368
+#: content/opt-green-handbook/index.md:371
 #, fuzzy
 msgid ""
 "All of these statements are incorrect, and the following explanations will "
@@ -12112,13 +12068,13 @@ msgstr ""
 "revelaran més sobre com funciona el FOSS com a programari, com a ecosistema "
 "i com a negoci."
 
-#: content/opt-green-handbook/handbook_web.md:370
+#: content/opt-green-handbook/index.md:373
 #, fuzzy
 msgid "**Misconception 1: Anyone can modify the application I am using.**"
 msgstr ""
 "**Concepció 1: Qualsevol pot modificar l'aplicació que estic utilitzant.**"
 
-#: content/opt-green-handbook/handbook_web.md:372
+#: content/opt-green-handbook/index.md:375
 #, fuzzy
 msgid ""
 "The misconception is the idea that any and all code changes actually end up "
@@ -12142,7 +12098,7 @@ msgstr ""
 "codi s'inclouen automàticament en el programari llançat pels desenvolupadors "
 "principals; i després s'executen al vostre ordinador."
 
-#: content/opt-green-handbook/handbook_web.md:374
+#: content/opt-green-handbook/index.md:377
 #, fuzzy
 msgid ""
 "To make an analogy with cooking: When a famous chef publishes a recipe, "
@@ -12168,12 +12124,12 @@ msgstr ""
 "no vol dir que aquests canvis s'afegiran a la recepta original &mdash; o "
 "acabaran en el seu plat."
 
-#: content/opt-green-handbook/handbook_web.md:376
+#: content/opt-green-handbook/index.md:379
 #, fuzzy
 msgid "**Misconception 2: You never know where the software came from.**"
 msgstr "**Concepció 2: Mai se sap d'on ve el programari.**"
 
-#: content/opt-green-handbook/handbook_web.md:378
+#: content/opt-green-handbook/index.md:381
 #, fuzzy
 msgid ""
 "It's true that anyone can modify FOSS and release their changes to the "
@@ -12203,7 +12159,7 @@ msgstr ""
 "l'original; legalment, ha de ser identificable com a programari modificat, "
 "de manera que es pot veure exactament d'on venia."
 
-#: content/opt-green-handbook/handbook_web.md:380
+#: content/opt-green-handbook/index.md:383
 #, fuzzy
 msgid ""
 "Using the cooking analogy: Even if any cook may change a recipe when "
@@ -12218,12 +12174,12 @@ msgstr ""
 "alguns casos fins i tot publicar els seus canvis, però no es pot afirmar que "
 "aquests canvis són del xef original."
 
-#: content/opt-green-handbook/handbook_web.md:382
+#: content/opt-green-handbook/index.md:385
 #, fuzzy
 msgid "**Misconception 3: FOSS is less secure.**"
 msgstr "**Concepció 3: El FOSS és menys segur.**"
 
-#: content/opt-green-handbook/handbook_web.md:384
+#: content/opt-green-handbook/index.md:387
 #, fuzzy
 msgid ""
 "This is perhaps one of the most common misconceptions about FOSS, and the "
@@ -12251,7 +12207,7 @@ msgstr ""
 "[FOSS] per se no garanteix un sistema segur. No obstant això, ofereix "
 "importants avantatges estratègics en aquest procés»."
 
-#: content/opt-green-handbook/handbook_web.md:386
+#: content/opt-green-handbook/index.md:389
 #, fuzzy
 msgid ""
 "Once again, using the cooking analogy: It's more difficult to add harmful or "
@@ -12269,13 +12225,13 @@ msgstr ""
 "ingredients indesitjables, però sí que té avantatges reals per trobar-los i "
 "eliminar-los."
 
-#: content/opt-green-handbook/handbook_web.md:388
+#: content/opt-green-handbook/index.md:391
 #, fuzzy
 msgid "**Misconception 4: I need to be a developer to benefit from FOSS.**"
 msgstr ""
 "**Misconception 4: He de ser un desenvolupador per beneficiar-me del FOSS.**"
 
-#: content/opt-green-handbook/handbook_web.md:390
+#: content/opt-green-handbook/index.md:393
 #, fuzzy
 msgid ""
 "You do not need to be a software engineer to use FOSS and gain its benefits. "
@@ -12306,7 +12262,7 @@ msgstr ""
 "d'errors, solucionant vulnerabilitats de seguretat, etc. Però certament no "
 "cal fer res d'això per tal de gaudir del programari lliure de codi obert."
 
-#: content/opt-green-handbook/handbook_web.md:392
+#: content/opt-green-handbook/index.md:395
 #, fuzzy
 msgid ""
 "Using the cooking analogy: You don't need to be a cook to enjoy the results "
@@ -12331,7 +12287,7 @@ msgstr ""
 "FOSS, oferint tot tipus d'habilitats no codificants com disseny, divulgació, "
 "traducció, promoció, i molt més."
 
-#: content/opt-green-handbook/handbook_web.md:394
+#: content/opt-green-handbook/index.md:397
 #, fuzzy
 msgid ""
 "In Part III of this handbook, you'll learn how to run install events and "
@@ -12343,7 +12299,7 @@ msgstr ""
 "usuaris a començar és una gran manera de contribuir de nou al programari que "
 "utilitzeu i estimeu."
 
-#: content/opt-green-handbook/handbook_web.md:396
+#: content/opt-green-handbook/index.md:399
 #, fuzzy
 msgid ""
 "**Misconception 5: FOSS is free of cost because it is developed by "
@@ -12351,7 +12307,7 @@ msgid ""
 msgstr ""
 "**Concepció 5: El FOSS és gratuït perquè està desenvolupat per voluntaris.**"
 
-#: content/opt-green-handbook/handbook_web.md:398
+#: content/opt-green-handbook/index.md:401
 #, fuzzy
 msgid ""
 "This is not true, not at all. FOSS is not necessarily free of cost, nor is "
@@ -12387,7 +12343,7 @@ msgstr ""
 "lliure de codi obert, independentment de la quantitat de diners que es "
 "guanyi."
 
-#: content/opt-green-handbook/handbook_web.md:400
+#: content/opt-green-handbook/index.md:403
 #, fuzzy
 msgid ""
 "The cooking analogy has its limits. One important difference to note: Even "
@@ -12410,7 +12366,7 @@ msgstr ""
 "poden escalar fins a milions, fins i tot centenars de milions, d'usuaris de "
 "programari!"
 
-#: content/opt-green-handbook/handbook_web.md:403
+#: content/opt-green-handbook/index.md:406
 #, fuzzy
 msgid ""
 "Hopefully by now you're convinced to use FOSS yourself and to help others "
@@ -12424,7 +12380,7 @@ msgstr ""
 "dispositius fins al final de la vida operativa del maquinari i no descartar "
 "els ordinadors que funcionen quan acaba el suport de programari propietari."
 
-#: content/opt-green-handbook/handbook_web.md:405
+#: content/opt-green-handbook/index.md:408
 #, fuzzy
 msgid ""
 "This part of the handbook focuses on how to upgrade user devices to FOSS. In "
@@ -12436,7 +12392,7 @@ msgstr ""
 "amics, familiars i éssers estimats directament. No subestimeu la importància "
 "d'aquest suport!"
 
-#: content/opt-green-handbook/handbook_web.md:407
+#: content/opt-green-handbook/index.md:410
 #, fuzzy
 msgid ""
 "That said, our focus here is on FOSS support with a wider public through "
@@ -12460,7 +12416,7 @@ msgstr ""
 "etc. Si no n'hi ha cap a la vostra àrea, podeu començar one &mdash; i ho "
 "discutirem més endavant."
 
-#: content/opt-green-handbook/handbook_web.md:409
+#: content/opt-green-handbook/index.md:412
 #, fuzzy
 msgid ""
 "![Two posters from the End Of 10 [campaign website](https://invent.kde.org/"
@@ -12478,7 +12434,7 @@ msgstr ""
 "una llicència [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html)](images/"
 "sec3_end_of_10.png)"
 
-#: content/opt-green-handbook/handbook_web.md:411
+#: content/opt-green-handbook/index.md:414
 #, fuzzy
 msgid ""
 "We don't assume you have previous experience with organizing install events, "
@@ -12500,7 +12456,7 @@ msgstr ""
 "a tot el text. Hi ha un parell de raons per les quals no estem proporcionant "
 "orientació pas a pas específica:"
 
-#: content/opt-green-handbook/handbook_web.md:413
+#: content/opt-green-handbook/index.md:416
 #, fuzzy
 msgid ""
 "The specifics often change as new versions of software are released, which "
@@ -12509,7 +12465,7 @@ msgstr ""
 "Els detalls sovint canvien a mesura que es publiquen noves versions de "
 "programari, el que faria que el manual es desactualitzés ràpidament."
 
-#: content/opt-green-handbook/handbook_web.md:414
+#: content/opt-green-handbook/index.md:417
 #, fuzzy
 msgid ""
 "The details depend on the specific software being installed, for which there "
@@ -12518,7 +12474,7 @@ msgstr ""
 "Els detalls depenen del programari específic que s'està instal·lant, per al "
 "qual ja existeixen nombroses guies en línia. No cal reinventar la roda!"
 
-#: content/opt-green-handbook/handbook_web.md:416
+#: content/opt-green-handbook/index.md:419
 #, fuzzy
 msgid ""
 "There are certainly other ways this is an incomplete text, but we hope the "
@@ -12529,7 +12485,7 @@ msgstr ""
 "esperem que el manual, no obstant això, ofereixi una bona base per començar "
 "amb el nou suport FOSS d'usuari."
 
-#: content/opt-green-handbook/handbook_web.md:418
+#: content/opt-green-handbook/index.md:421
 #, fuzzy
 msgid ""
 "The text here is also opinionated, and the reader may disagree with some of "
@@ -12547,32 +12503,32 @@ msgstr ""
 "satisfacció els seus comentaris, comentaris, suggeriments i aportacions "
 "constructives!"
 
-#: content/opt-green-handbook/handbook_web.md:420
+#: content/opt-green-handbook/index.md:423
 #, fuzzy
 msgid "From here, this section is broken down into 4 stages:"
 msgstr "A partir d'aquí, aquest apartat es desglossa en 4 etapes:"
 
-#: content/opt-green-handbook/handbook_web.md:422
+#: content/opt-green-handbook/index.md:425
 #, fuzzy
 msgid "Gaining Experience with FOSS and FOSS groups"
 msgstr "Experiència amb grups FOSS i FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:423
+#: content/opt-green-handbook/index.md:426
 #, fuzzy
 msgid "Before Install Events"
 msgstr "Abans d'instal·lar esdeveniments"
 
-#: content/opt-green-handbook/handbook_web.md:424
+#: content/opt-green-handbook/index.md:427
 #, fuzzy
 msgid "During Install Events"
 msgstr "Durant la instal·lació dels esdeveniments"
 
-#: content/opt-green-handbook/handbook_web.md:425
+#: content/opt-green-handbook/index.md:428
 #, fuzzy
 msgid "After Install Events"
 msgstr "Després d'instal·lar esdeveniments"
 
-#: content/opt-green-handbook/handbook_web.md:427
+#: content/opt-green-handbook/index.md:430
 #, fuzzy
 msgid ""
 "Ideally, you can repeat these steps like the shampoo algorithm: [lather, "
@@ -12587,7 +12543,7 @@ msgstr ""
 "lloc d'un esdeveniment d'un i un altre. Ho abordem de nou cap al final de la "
 "secció."
 
-#: content/opt-green-handbook/handbook_web.md:429
+#: content/opt-green-handbook/index.md:432
 #, fuzzy
 msgid ""
 "As you dig deeper into the FOSS ecosystem, you may come across several new "
@@ -12596,11 +12552,11 @@ msgstr ""
 "A mesura que aprofundeixes en l'ecosistema del FOSS, pots trobar diversos "
 "termes nous. Aquí teniu un breu glossari de vocabulari útil:"
 
-#: content/opt-green-handbook/handbook_web.md:431
+#: content/opt-green-handbook/index.md:434
 msgid "**PC**: a laptop or desktop computer"
 msgstr "**PC**: un ordinador portàtil o d'escriptori"
 
-#: content/opt-green-handbook/handbook_web.md:432
+#: content/opt-green-handbook/index.md:435
 msgid ""
 "**FOSS Operating System** (OS): Linux is the most popular, but there are "
 "others such as OpenBSD and Haiku"
@@ -12608,11 +12564,11 @@ msgstr ""
 "**Sistema operatiu FOSS** (SO): Linux és el més popular, però n'hi ha "
 "d'altres com OpenBSD o Haiku"
 
-#: content/opt-green-handbook/handbook_web.md:433
+#: content/opt-green-handbook/index.md:436
 msgid "**Proprietary Operating System** (OS): MS Windows, MacOS"
 msgstr "**Sistema operatiu propietari** (SO): MS Windows, MacOS"
 
-#: content/opt-green-handbook/handbook_web.md:434
+#: content/opt-green-handbook/index.md:437
 msgid ""
 "**Distribution** (or Distro): A FOSS OS and accompanying software, often "
 "obtained from a website"
@@ -12620,7 +12576,7 @@ msgstr ""
 "**Distribució** (o Distro): Un SO FOSS i el programari que l'acompanya, "
 "sovint s'obté d'un lloc web"
 
-#: content/opt-green-handbook/handbook_web.md:435
+#: content/opt-green-handbook/index.md:438
 msgid ""
 "**ISO** / **image file**: the file that contains the operating system to be "
 "installed"
@@ -12628,7 +12584,7 @@ msgstr ""
 "**ISO** / **fitxer d'imatge**: el fitxer que conté el sistema operatiu a "
 "instal·lar"
 
-#: content/opt-green-handbook/handbook_web.md:436
+#: content/opt-green-handbook/index.md:439
 msgid ""
 "**Graphical User Interface** (GUI): a graphics-based way to interact with "
 "the computer (e.g., point and click with the mouse)"
@@ -12636,7 +12592,7 @@ msgstr ""
 "**Interfície gràfica d'usuari** (IGU): una manera basada en gràfics "
 "d'interactuar amb l'ordinador (p. ex., apuntar i fer clic amb el ratolí)"
 
-#: content/opt-green-handbook/handbook_web.md:437
+#: content/opt-green-handbook/index.md:440
 msgid ""
 "**Desktop Environment**: the [Graphical User Interface](https://en.wikipedia."
 "org/wiki/Graphical_user_interface) (GUI) used to interact with or administer "
@@ -12646,7 +12602,7 @@ msgstr ""
 "wikipedia.org/wiki/Graphical_user_interface) (IGU) utilitzada per a "
 "interactuar amb o administrar el sistema operatiu"
 
-#: content/opt-green-handbook/handbook_web.md:438
+#: content/opt-green-handbook/index.md:441
 msgid ""
 "**Applications** (or Apps): computer programs for end-user tasks, e.g., PDF "
 "readers, text editors, games, rather than for administering the system (cf. "
@@ -12656,7 +12612,7 @@ msgstr ""
 "final, p. ex., lectors de PDF, editors de text, jocs, en comptes "
 "d'administrar el sistema (compareu amb Entorn d'escriptori)"
 
-#: content/opt-green-handbook/handbook_web.md:439
+#: content/opt-green-handbook/index.md:442
 #, fuzzy
 msgid ""
 "With proprietary operating systems, applications are often downloaded and "
@@ -12667,7 +12623,7 @@ msgstr ""
 "s'instal·len des d'un lloc web extern, encara que avui en dia algunes "
 "aplicacions també es poden instal·lar a través d'una botiga d'aplicacions."
 
-#: content/opt-green-handbook/handbook_web.md:440
+#: content/opt-green-handbook/index.md:443
 #, fuzzy
 msgid ""
 "In the FOSS ecosystem, applications are most typically installed through the "
@@ -12676,7 +12632,7 @@ msgstr ""
 "En l'ecosistema FOSS, les aplicacions s'instal·len normalment a través del "
 "gestor de programari o paquets de l'entorn d'escriptori."
 
-#: content/opt-green-handbook/handbook_web.md:441
+#: content/opt-green-handbook/index.md:444
 #, fuzzy
 msgid ""
 "**CPU** (Central Processing Unit): primarily [Intel](https://en.wikipedia."
@@ -12691,7 +12647,7 @@ msgstr ""
 "una arquitectura [32 bits](https://en.wikipedia.org/wiki/IA-32) o [64 bits]"
 "(https://en.wikipedia.org/wiki/X86-64), però no només"
 
-#: content/opt-green-handbook/handbook_web.md:442
+#: content/opt-green-handbook/index.md:445
 #, fuzzy
 msgid ""
 "**RAM** (or working memory): impermanent memory that is lost when the PC is "
@@ -12700,7 +12656,7 @@ msgstr ""
 "**RAM** (o memòria de treball): memòria impermanent que es perd quan el PC "
 "està apagat. Més RAM normalment significa un processament més ràpid."
 
-#: content/opt-green-handbook/handbook_web.md:443
+#: content/opt-green-handbook/index.md:446
 #, fuzzy
 msgid ""
 "**Mass storage**: Hard Disk Drive (HDD), Solid State Drive (SSD), SD card, "
@@ -12709,7 +12665,7 @@ msgstr ""
 "**Màscara d'emmagatzematge**: disc dur (HDD), disc sòlid (SSD), targeta SD, "
 "etc."
 
-#: content/opt-green-handbook/handbook_web.md:444
+#: content/opt-green-handbook/index.md:447
 #, fuzzy
 msgid ""
 "**Repositories** (for Linux and other FOSS ecosystems): The source from "
@@ -12720,7 +12676,7 @@ msgstr ""
 "qual es pot actualitzar el sistema i les aplicacions i es poden instal·lar "
 "noves aplicacions."
 
-#: content/opt-green-handbook/handbook_web.md:445
+#: content/opt-green-handbook/index.md:448
 #, fuzzy
 msgid ""
 "**Command Line Interface** (CLI) / **Terminal**: a text-based interface (e."
@@ -12730,12 +12686,12 @@ msgstr ""
 "en text (per exemple, escriure ordres amb el teclat) en comparació amb una "
 "interfície gràfica d'usuari."
 
-#: content/opt-green-handbook/handbook_web.md:447
+#: content/opt-green-handbook/index.md:450
 #, fuzzy
 msgid "Stage 1. Gaining Experience"
 msgstr "Etapa 1. Guanyar experiència"
 
-#: content/opt-green-handbook/handbook_web.md:449
+#: content/opt-green-handbook/index.md:452
 #, fuzzy
 msgid ""
 "The easiest and cheapest way to gain experience with a FOSS OS is to find an "
@@ -12759,7 +12715,7 @@ msgstr ""
 "aquí! Et sorprendries de com de fàcil pot ser trobar un ordinador operatiu "
 "però abandonat en els teus cercles socials."
 
-#: content/opt-green-handbook/handbook_web.md:451
+#: content/opt-green-handbook/index.md:454
 #, fuzzy
 msgid ""
 "So you found a computer for testing FOSS, but at this point you may be "
@@ -12784,12 +12740,12 @@ msgstr ""
 "descarregar i instal·lar un altre sistema és sempre una opció. De fet, el "
 "\"distro hopping» és un fenomen comú entre els nous usuaris del FOSS."
 
-#: content/opt-green-handbook/handbook_web.md:453
+#: content/opt-green-handbook/index.md:456
 #, fuzzy
 msgid "A couple of things to note at this point:"
 msgstr "Un parell de coses a tenir en compte en aquest punt:"
 
-#: content/opt-green-handbook/handbook_web.md:455
+#: content/opt-green-handbook/index.md:458
 #, fuzzy
 msgid ""
 "FOSS is typically made available through a \"distribution\" (or \"distro\" "
@@ -12800,7 +12756,7 @@ msgstr ""
 "\"distro» en breu) que ofereix diferents configuracions predeterminades i "
 "interfícies d'usuari per a diverses necessitats d'usuari i maquinari."
 
-#: content/opt-green-handbook/handbook_web.md:456
+#: content/opt-green-handbook/index.md:459
 #, fuzzy
 msgid ""
 "If you have a particularly old computer with low hardware specs, you will "
@@ -12811,7 +12767,7 @@ msgstr ""
 "baix, voldreu buscar un SO «lleuger» dissenyat per a dispositius de baixa "
 "potència. Cerca en línia i trobaràs moltes recomanacions."
 
-#: content/opt-green-handbook/handbook_web.md:457
+#: content/opt-green-handbook/index.md:460
 #, fuzzy
 msgid ""
 "If you have a newer computer that offers more hardware power, you can "
@@ -12825,7 +12781,7 @@ msgstr ""
 "sistema i similars. Passa per diverses distribucions per trobar la que "
 "funciona millor per a tu."
 
-#: content/opt-green-handbook/handbook_web.md:458
+#: content/opt-green-handbook/index.md:461
 #, fuzzy
 msgid ""
 "Since most hardware was *not* designed for FOSS, you may run into problems "
@@ -12839,7 +12795,7 @@ msgstr ""
 "d'esforç, però és possible que hagi de fer alguna recerca per trobar "
 "solucions."
 
-#: content/opt-green-handbook/handbook_web.md:459
+#: content/opt-green-handbook/index.md:462
 #, fuzzy
 msgid ""
 "Some distributions include GUI software to detect and install proprietary "
@@ -12850,7 +12806,7 @@ msgstr ""
 "controladors propietaris. Això es recomana abans d'embrutar les mans amb la "
 "interfície de línia d'ordres."
 
-#: content/opt-green-handbook/handbook_web.md:461
+#: content/opt-green-handbook/index.md:464
 #, fuzzy
 msgid ""
 "If you want in-person support while getting started, we recommend visiting "
@@ -12863,7 +12819,7 @@ msgstr ""
 "vostra zona. A més, consulteu la següent secció de consells sobre com "
 "construir un equip d'energia FOSS!"
 
-#: content/opt-green-handbook/handbook_web.md:463
+#: content/opt-green-handbook/index.md:466
 #, fuzzy
 msgid ""
 "As this is a handbook from the KDE Eco initiative, we recommend trying a "
@@ -12885,7 +12841,7 @@ msgstr ""
 "[more](https://community.kde.org/Distributions). I si sou propietari d'un "
 "SteamDeck, potser ja esteu utilitzant el Plasma del KDE."
 
-#: content/opt-green-handbook/handbook_web.md:466
+#: content/opt-green-handbook/index.md:469
 #, fuzzy
 msgid ""
 "![The KDE Plasma Desktop Environment. Here you can see GUIs for modifying "
@@ -12900,16 +12856,16 @@ msgstr ""
 "(Imatge de KDE publicada segons una llicència [CC-BY-4.0](https://spdx.org/"
 "licenses/CC-BY-4.0.html).)](images/sec3_fullscreen_with_apps.png)"
 
-#: content/opt-green-handbook/handbook_web.md:468
+#: content/opt-green-handbook/index.md:471
 msgid "KDE Plasma's slogan is:"
 msgstr "L'eslògan del KDE Plasma és:"
 
 # skip-rule: t-com_pu
-#: content/opt-green-handbook/handbook_web.md:470
+#: content/opt-green-handbook/index.md:473
 msgid "\"Simple by default, powerful when needed.\""
 msgstr "«Senzill de manera predeterminada, potent quan cal.»"
 
-#: content/opt-green-handbook/handbook_web.md:472
+#: content/opt-green-handbook/index.md:475
 #, fuzzy
 msgid ""
 "In other words, although the out-of-the-box settings make it simple to use "
@@ -12942,12 +12898,12 @@ msgstr ""
 "(https://kde.org/for/students/), o [Científic](https://kde.org/for/"
 "scientists/), i molt més."
 
-#: content/opt-green-handbook/handbook_web.md:474
+#: content/opt-green-handbook/index.md:477
 #, fuzzy
 msgid "Stage 2. Before Install Events"
 msgstr "Etapa 2. Abans d'instal·lar esdeveniments"
 
-#: content/opt-green-handbook/handbook_web.md:476
+#: content/opt-green-handbook/index.md:479
 #, fuzzy
 msgid ""
 "In this section we'll explore building FOSS teams as well as some ways to "
@@ -12958,11 +12914,11 @@ msgstr ""
 "algunes maneres de preparar i promoure un esdeveniment, abans de trobar-se "
 "en una sala plena de nous usuaris curiosos i nerviosos."
 
-#: content/opt-green-handbook/handbook_web.md:478
+#: content/opt-green-handbook/index.md:481
 msgid "Finding Other FOSS Angels"
 msgstr "Cercant altres àngels del FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:480
+#: content/opt-green-handbook/index.md:483
 #, fuzzy
 msgid ""
 "If there are no Linux User Groups or Linux Cafes in your area (see next "
@@ -12972,7 +12928,7 @@ msgstr ""
 "(vegeu la següent secció), és una llàstima però també una oportunitat: podeu "
 "començar-ne un!"
 
-#: content/opt-green-handbook/handbook_web.md:482
+#: content/opt-green-handbook/index.md:485
 #, fuzzy
 msgid ""
 "In KDE Eco's \"Opt Green\" project we have had contact with many "
@@ -12994,7 +12950,7 @@ msgstr ""
 "preguntar a l'audiència (a) qui estaria interessat a instal·lar el propi "
 "FOSS i (b) qui estaria interessat a ajudar els altres a fer-ho."
 
-#: content/opt-green-handbook/handbook_web.md:484
+#: content/opt-green-handbook/index.md:487
 #, fuzzy
 msgid ""
 "[^4]: We use the term \"angel\" following the terminology used by the Chaos "
@@ -13003,7 +12959,7 @@ msgstr ""
 "[44]: Utilitzem el terme «àngel» seguint la terminologia utilitzada pel "
 "Chaos Computer Club a Alemanya per als voluntaris en els seus esdeveniments."
 
-#: content/opt-green-handbook/handbook_web.md:486
+#: content/opt-green-handbook/index.md:489
 #, fuzzy
 msgid ""
 "From this event they built a team of 20 volunteers who met over several "
@@ -13023,7 +12979,7 @@ msgstr ""
 "parell de mesos. Amb l'èxit d'aquesta iniciativa, ara estan planejant un "
 "Linux Cafe a la seva àrea per oferir suport continu a la seva comunitat!"
 
-#: content/opt-green-handbook/handbook_web.md:488
+#: content/opt-green-handbook/index.md:491
 #, fuzzy
 msgid ""
 "By following this excellent example, you too can build a FOSS power team in "
@@ -13032,7 +12988,7 @@ msgstr ""
 "Seguint aquest excel·lent exemple, vostè també pot construir un equip "
 "d'energia FOSS a la seva àrea."
 
-#: content/opt-green-handbook/handbook_web.md:490
+#: content/opt-green-handbook/index.md:493
 #, fuzzy
 msgid ""
 "![Group photos of two major FOSS development communities at their annual "
@@ -13057,7 +13013,7 @@ msgstr ""
 "una llicència [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)]"
 "(images/sec3_Akademy2025-Guadec2025.png)"
 
-#: content/opt-green-handbook/handbook_web.md:492
+#: content/opt-green-handbook/index.md:495
 #, fuzzy
 msgid ""
 "If you like this idea but feel you live in a FOSS desert, don't forget that "
@@ -13079,7 +13035,7 @@ msgstr ""
 "de FOSS generalment donen la benvinguda a noves persones que mostren interès "
 "en el seu treball, i és probable que obtingui comentaris molt ràpidament."
 
-#: content/opt-green-handbook/handbook_web.md:494
+#: content/opt-green-handbook/index.md:497
 msgid ""
 "Starting a Linux or Repair Café is more work than organizing an event, but "
 "well worth it for ongoing support. Here are some resources on how start one:"
@@ -13088,7 +13044,7 @@ msgstr ""
 "però val la pena per al suport a llarg termini. Aquí teniu alguns recursos "
 "sobre com començar-ne un:"
 
-#: content/opt-green-handbook/handbook_web.md:496
+#: content/opt-green-handbook/index.md:499
 msgid ""
 "[Repair Cafe International](https://www.repaircafe.org/en/visit/) has very "
 "helpful information at the \"[Start Your Own](https://www.repaircafe.org/en/"
@@ -13100,7 +13056,7 @@ msgstr ""
 "repaircafe.org/en/join/start-your-own/)» i «[Linux Repair Café](https://www."
 "repaircafe.org/linux-repair-cafe/)»."
 
-#: content/opt-green-handbook/handbook_web.md:497
+#: content/opt-green-handbook/index.md:500
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/) has prepared a \"[End of Windows 10: A Toolkit for "
@@ -13112,7 +13068,7 @@ msgstr ""
 "Community Repair Groups](https://therestartproject.org/end-of-windows-10-"
 "toolkit-for-repair-groups/)»."
 
-#: content/opt-green-handbook/handbook_web.md:499
+#: content/opt-green-handbook/index.md:502
 #, fuzzy
 msgid ""
 "Organizing the first of many install events or starting a Repair Café is "
@@ -13124,12 +13080,12 @@ msgstr ""
 "camí! No et desanimis si l'interès és baix al principi. Es necessita temps i "
 "energia per construir una comunitat."
 
-#: content/opt-green-handbook/handbook_web.md:501
+#: content/opt-green-handbook/index.md:504
 #, fuzzy
 msgid "Joining An Organization"
 msgstr "Unint-se a una organització"
 
-#: content/opt-green-handbook/handbook_web.md:503
+#: content/opt-green-handbook/index.md:506
 #, fuzzy
 msgid ""
 "Why start from scratch when a motivated group may already be active in your "
@@ -13142,15 +13098,15 @@ msgstr ""
 "programari, els grups d'usuaris de Linux, les criptoparts, i més es poden "
 "trobar a tot el món. Alguns llocs per començar són:"
 
-#: content/opt-green-handbook/handbook_web.md:505
+#: content/opt-green-handbook/index.md:508
 msgid "[End Of 10](https://endof10.org) directory"
 msgstr "Directori d'[End Of 10](https://endof10.org)"
 
-#: content/opt-green-handbook/handbook_web.md:506
+#: content/opt-green-handbook/index.md:509
 msgid "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 msgstr "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 
-#: content/opt-green-handbook/handbook_web.md:507
+#: content/opt-green-handbook/index.md:510
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/)"
@@ -13158,7 +13114,7 @@ msgstr ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/)"
 
-#: content/opt-green-handbook/handbook_web.md:508
+#: content/opt-green-handbook/index.md:511
 msgid ""
 "[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf"
 "%C3%A9) repair café directory"
@@ -13166,15 +13122,15 @@ msgstr ""
 "Directori de Café Repair [iFixit](https://www.ifixit.com/Wiki/"
 "How_to_Find_your_Local_Repair_Caf%C3%A9)"
 
-#: content/opt-green-handbook/handbook_web.md:509
+#: content/opt-green-handbook/index.md:512
 msgid "[Linux User Groups](https://linux-events.org/SL_LUGs)"
 msgstr "[Grups d'usuaris de Linux](https://linux-events.org/SL_LUGs)"
 
-#: content/opt-green-handbook/handbook_web.md:510
+#: content/opt-green-handbook/index.md:513
 msgid "[CryptoParties](https://cryptoparty.in/)"
 msgstr "[CryptoParties](https://cryptoparty.in/)"
 
-#: content/opt-green-handbook/handbook_web.md:511
+#: content/opt-green-handbook/index.md:514
 msgid ""
 "Student and FOSS clubs (such as the [FOSS United Clubs](https://fossunited."
 "org/clubs) in India)"
@@ -13182,12 +13138,12 @@ msgstr ""
 "Clubs d'estudiants i FOSS (com els [FOSS United Clubs](https://fossunited."
 "org/clubs) a l'Índia)"
 
-#: content/opt-green-handbook/handbook_web.md:512
+#: content/opt-green-handbook/index.md:515
 #, fuzzy
 msgid "IT stores offering Linux support"
 msgstr "Botiga IT que ofereix suport Linux"
 
-#: content/opt-green-handbook/handbook_web.md:514
+#: content/opt-green-handbook/index.md:517
 #, fuzzy
 msgid ""
 "Reach out and ask what they need help with. Don't be shy! From experience, "
@@ -13208,12 +13164,12 @@ msgstr ""
 "estigui fent per promoure i donar suport al Programari de codi obert lliure "
 "per als usuaris nous."
 
-#: content/opt-green-handbook/handbook_web.md:516
+#: content/opt-green-handbook/index.md:519
 #, fuzzy
 msgid "Planning An Install Party"
 msgstr "Planificació d'una part d'instal·lació"
 
-#: content/opt-green-handbook/handbook_web.md:518
+#: content/opt-green-handbook/index.md:521
 #, fuzzy
 msgid ""
 "It is worth emphasizing that installation is only one of many steps in the "
@@ -13224,27 +13180,27 @@ msgstr ""
 "de migració. Pensem-hi des de la perspectiva de l'usuari. Les etapes "
 "principals per a un nou usuari poden semblar les següents:"
 
-#: content/opt-green-handbook/handbook_web.md:520
+#: content/opt-green-handbook/index.md:523
 #, fuzzy
 msgid "Stage 0: Deciding to install a FOSS OS"
 msgstr "Etapa 0: Decidint instal·lar un OS FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:521
+#: content/opt-green-handbook/index.md:524
 #, fuzzy
 msgid "Stage 1: Securing their data"
 msgstr "Etapa 1: Assegurar les seves dades"
 
-#: content/opt-green-handbook/handbook_web.md:522
+#: content/opt-green-handbook/index.md:525
 #, fuzzy
 msgid "Stage 2: Installation"
 msgstr "Etapa 2: Instal·lació"
 
-#: content/opt-green-handbook/handbook_web.md:523
+#: content/opt-green-handbook/index.md:526
 #, fuzzy
 msgid "Stage 3: Getting follow-up support"
 msgstr "Etapa 3: Obtenció de suport de seguiment"
 
-#: content/opt-green-handbook/handbook_web.md:525
+#: content/opt-green-handbook/index.md:528
 #, fuzzy
 msgid ""
 "By considering each of these stages, you can best meet a user's needs (i) "
@@ -13257,7 +13213,7 @@ msgstr ""
 "efectiva, (ii) *durant* l'esdeveniment assegurant-se que tot va sense "
 "problemes, i (iii) *després* l'esdeveniment hauria de sorgir problemes."
 
-#: content/opt-green-handbook/handbook_web.md:527
+#: content/opt-green-handbook/index.md:530
 #, fuzzy
 msgid ""
 "Note: The easiest first step for new users may be to use cross-platform FOSS "
@@ -13281,12 +13237,12 @@ msgstr ""
 "cop facin el canvi a un SO FOSS, algun dels programes ja estarà "
 "familiaritzat!"
 
-#: content/opt-green-handbook/handbook_web.md:529
+#: content/opt-green-handbook/index.md:532
 #, fuzzy
 msgid "Why A New User Decides (Not) To Install A FOSS OS"
 msgstr "Per què un nou usuari decideix (no) instal·lar un SO FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:531
+#: content/opt-green-handbook/index.md:534
 #, fuzzy
 msgid ""
 "Many installation guides start right at the installation step or perhaps "
@@ -13301,7 +13257,7 @@ msgstr ""
 "les motivacions de l'usuari per fer l'interruptor l'ajudarà a preparar-se "
 "per a la divulgació i la promoció d'esdeveniments."
 
-#: content/opt-green-handbook/handbook_web.md:533
+#: content/opt-green-handbook/index.md:536
 #, fuzzy
 msgid ""
 "Many potential users would never think to try a FOSS OS. This can be for "
@@ -13310,44 +13266,44 @@ msgstr ""
 "Molts usuaris potencials mai pensarien a provar un sistema operatiu FOSS. "
 "Això pot ser per moltes raons, com ara:"
 
-#: content/opt-green-handbook/handbook_web.md:535
+#: content/opt-green-handbook/index.md:538
 #, fuzzy
 msgid "They don't know FOSS operating systems even exist."
 msgstr "No saben que els sistemes operatius FOSS existeixen."
 
-#: content/opt-green-handbook/handbook_web.md:536
+#: content/opt-green-handbook/index.md:539
 #, fuzzy
 msgid "They believe FOSS won't meet their needs."
 msgstr "Creuen que el FOSS no cobrirà les seves necessitats."
 
-#: content/opt-green-handbook/handbook_web.md:537
+#: content/opt-green-handbook/index.md:540
 #, fuzzy
 msgid "They think it's too hard to use."
 msgstr "Creuen que és massa difícil d'utilitzar."
 
-#: content/opt-green-handbook/handbook_web.md:538
+#: content/opt-green-handbook/index.md:541
 #, fuzzy
 msgid "They see that their out-of-date software still works, so why bother."
 msgstr ""
 "Veuen que el seu programari obsolet encara funciona, així que per què "
 "molestar-se."
 
-#: content/opt-green-handbook/handbook_web.md:539
+#: content/opt-green-handbook/index.md:542
 #, fuzzy
 msgid "They've heard that many things won't work."
 msgstr "Han sentit que moltes coses no funcionaran."
 
-#: content/opt-green-handbook/handbook_web.md:540
+#: content/opt-green-handbook/index.md:543
 #, fuzzy
 msgid "They fear they won't have support when problems arise."
 msgstr "Temen que no tindran suport quan sorgeixin problemes."
 
-#: content/opt-green-handbook/handbook_web.md:541
+#: content/opt-green-handbook/index.md:544
 #, fuzzy
 msgid "They don't know anyone else who uses FOSS."
 msgstr "No coneixen ningú més que utilitzi el FOSS."
 
-#: content/opt-green-handbook/handbook_web.md:543
+#: content/opt-green-handbook/index.md:546
 #, fuzzy
 msgid ""
 "And certainly more. It's important to consider these reasons in order to "
@@ -13356,7 +13312,7 @@ msgstr ""
 "I sens dubte més. És important tenir en compte aquestes raons per entendre "
 "com abordar-les millor. Algunes idees que poden ajudar:"
 
-#: content/opt-green-handbook/handbook_web.md:545
+#: content/opt-green-handbook/index.md:548
 #, fuzzy
 msgid ""
 "Show, don't tell! Always have a demo computer which users can try. This can "
@@ -13370,7 +13326,7 @@ msgstr ""
 "els usuaris utilitzin un dispositiu i se senten directament pel bé que "
 "funciona. A molts els sorprèn el còmode que és utilitzar!"
 
-#: content/opt-green-handbook/handbook_web.md:546
+#: content/opt-green-handbook/index.md:549
 #, fuzzy
 msgid ""
 "End of software support is a great moment to mention FOSS as a viable "
@@ -13385,7 +13341,7 @@ msgstr ""
 "aparentment una altra opció que comprar hardware &mdash;FOSS es pot "
 "presentar com una manera de mantenir aquest dispositiu en ús."
 
-#: content/opt-green-handbook/handbook_web.md:547
+#: content/opt-green-handbook/index.md:550
 #, fuzzy
 msgid ""
 "Since the user may be ready to buy a new device anyway, this option has "
@@ -13398,7 +13354,7 @@ msgstr ""
 "de seguretat de les seves dades). Poden provar-ho sense gastar diners, i "
 "poden estar satisfets pel bé que funciona per a ells."
 
-#: content/opt-green-handbook/handbook_web.md:548
+#: content/opt-green-handbook/index.md:551
 #, fuzzy
 msgid ""
 "If you're really enthusiastic, consider demoing devices running FOSS that "
@@ -13417,7 +13373,7 @@ msgstr ""
 "convincent, especialment quan el programari és més ràpid i responsive que el "
 "programari que la persona utilitza actualment."
 
-#: content/opt-green-handbook/handbook_web.md:549
+#: content/opt-green-handbook/index.md:552
 #, fuzzy
 msgid ""
 "Learn about a user's computing needs and help them assess whether a FOSS "
@@ -13431,7 +13387,7 @@ msgstr ""
 "extern (per exemple, equips de laboratori especialitzats) que no funcioni "
 "(bé) amb el FOSS."
 
-#: content/opt-green-handbook/handbook_web.md:550
+#: content/opt-green-handbook/index.md:553
 #, fuzzy
 msgid ""
 "It may help to point out that other FOSS applications may meet their "
@@ -13444,7 +13400,7 @@ msgstr ""
 "diferent del que estan acostumats. Instal·leu-lo i deixeu-lo provar. I no ho "
 "oblidis: està bé que decideixin que l'alternativa no és correcta per a ells."
 
-#: content/opt-green-handbook/handbook_web.md:551
+#: content/opt-green-handbook/index.md:554
 #, fuzzy
 msgid ""
 "Find out what peripherals they use such as printers and other external "
@@ -13453,7 +13409,7 @@ msgstr ""
 "Descobreix quins perifèrics utilitzen com impressores i altres equips "
 "externs i comprova si estan suportats. Si no, que quedi clar."
 
-#: content/opt-green-handbook/handbook_web.md:552
+#: content/opt-green-handbook/index.md:555
 #, fuzzy
 msgid ""
 "Explain why updates are important to fix security vulnerabilities, and how "
@@ -13462,7 +13418,7 @@ msgstr ""
 "Explicar per què les actualitzacions són importants per corregir les "
 "vulnerabilitats de seguretat, i com això és cert per a tot el programari."
 
-#: content/opt-green-handbook/handbook_web.md:553
+#: content/opt-green-handbook/index.md:556
 #, fuzzy
 msgid ""
 "Point out specific examples to new users, when possible. There is sometimes "
@@ -13480,7 +13436,7 @@ msgstr ""
 "per al que els usuaris poden fer abans del final de la vida per a Windows "
 "10, incloent la instal·lació de Linux."
 
-#: content/opt-green-handbook/handbook_web.md:554
+#: content/opt-green-handbook/index.md:557
 #, fuzzy
 msgid ""
 "Make a list of places nearby that offer support outside of the event. For "
@@ -13494,7 +13450,7 @@ msgstr ""
 "independents que ofereixen suport FOSS. Doneu aquesta llista als usuaris "
 "abans i després de l'esdeveniment."
 
-#: content/opt-green-handbook/handbook_web.md:555
+#: content/opt-green-handbook/index.md:558
 #, fuzzy
 msgid ""
 "Rather than to individuals, promote your event to groups of potential users "
@@ -13511,7 +13467,7 @@ msgstr ""
 "usuaris que estan en contacte regular entre si ajudarà amb el suport "
 "informal després d'instal·lar un nou sistema operatiu."
 
-#: content/opt-green-handbook/handbook_web.md:556
+#: content/opt-green-handbook/index.md:559
 #, fuzzy
 msgid ""
 "Here is an example of how KDE worked together with the Cape Verdean American "
@@ -13529,7 +13485,7 @@ msgstr ""
 "island-teens-are-fixing-junked-computers-and-learning-valuable-tech-"
 "skills/72340312007/)\""
 
-#: content/opt-green-handbook/handbook_web.md:557
+#: content/opt-green-handbook/index.md:560
 #, fuzzy
 msgid ""
 "Here is an example of how KDE Eco worked together with a school in Hannover "
@@ -13544,7 +13500,7 @@ msgstr ""
 "Jocs](https://web.archive.org/web/20240905233749/https://engineering.upvest."
 "co/posts/sponsoring-future-engineers/)»."
 
-#: content/opt-green-handbook/handbook_web.md:558
+#: content/opt-green-handbook/index.md:561
 #, fuzzy
 msgid ""
 "Think about the many benefits of switching to FOSS and communicate that "
@@ -13559,7 +13515,7 @@ msgstr ""
 "reasons-to-upgrade-your-old-computer-to-linux). Potser algunes de les raons "
 "ressonaran amb el seu públic objectiu."
 
-#: content/opt-green-handbook/handbook_web.md:559
+#: content/opt-green-handbook/index.md:562
 #, fuzzy
 msgid ""
 "Don't be a fanatic: Respect that user freedom also means users can choose "
@@ -13568,7 +13524,7 @@ msgstr ""
 "No siguis fanàtic: Respecta que la llibertat d'usuari també significa que "
 "els usuaris poden triar de manera diferent a tu!"
 
-#: content/opt-green-handbook/handbook_web.md:561
+#: content/opt-green-handbook/index.md:564
 #, fuzzy
 msgid ""
 "These are just some ideas. Do you have more? Don't hesitate to reach out to "
@@ -13577,7 +13533,7 @@ msgstr ""
 "Aquestes són només algunes idees. Tens més? No dubteu a posar-vos en "
 "contacte amb nosaltres i podem afegir-los a futures versions d'aquest manual."
 
-#: content/opt-green-handbook/handbook_web.md:563
+#: content/opt-green-handbook/index.md:566
 #, fuzzy
 msgid ""
 "![KDE Eco stands at the *Lange Nacht der Wissenschaften* ('Long Night Of The "
@@ -13605,12 +13561,12 @@ msgstr ""
 "spdx.org/licenses/CC-BY-4.0.html).)](images/sec3_stands_lndw-umweltfestival."
 "jpg)"
 
-#: content/opt-green-handbook/handbook_web.md:565
+#: content/opt-green-handbook/index.md:568
 #, fuzzy
 msgid "Venue, Logistics, and Outreach"
 msgstr "Lloc, logística i divulgació"
 
-#: content/opt-green-handbook/handbook_web.md:567
+#: content/opt-green-handbook/index.md:570
 #, fuzzy
 msgid ""
 "Once you and your team of FOSS angels are ready, and you have some ideas "
@@ -13622,7 +13578,7 @@ msgstr ""
 "organitzar els detalls. Aquí teniu una llista d'alguns aspectes principals "
 "que heu de considerar:"
 
-#: content/opt-green-handbook/handbook_web.md:569
+#: content/opt-green-handbook/index.md:572
 #, fuzzy
 msgid ""
 "You will need a venue and any necessary supplies. Examples of places that "
@@ -13642,7 +13598,7 @@ msgstr ""
 "agradable tenir menjar, begudes, adhesius, pingüins i gnu, guies FOSS i "
 "altres materials per animar i motivar nous usuaris."
 
-#: content/opt-green-handbook/handbook_web.md:571
+#: content/opt-green-handbook/index.md:574
 #, fuzzy
 msgid ""
 "A USB WiFi dongle is useful if the device cannot connect to the internet "
@@ -13658,7 +13614,7 @@ msgstr ""
 "disposar d'un dongle WiFi USB és útil per instal·lar els controladors "
 "necessaris, quan estiguin disponibles, després del fet."
 
-#: content/opt-green-handbook/handbook_web.md:573
+#: content/opt-green-handbook/index.md:576
 #, fuzzy
 msgid ""
 "Prepare a Code of Conduct (CoC) for volunteers and attendees. Make sure "
@@ -13673,7 +13629,7 @@ msgstr ""
 "comunitat [KDE](https://kde.org/code-of-conduct/), i hi ha molts més "
 "exemples amb una cerca ràpida en línia."
 
-#: content/opt-green-handbook/handbook_web.md:575
+#: content/opt-green-handbook/index.md:578
 #, fuzzy
 msgid ""
 "Spread the word, online and offline. If you're volunteering with an "
@@ -13697,7 +13653,7 @@ msgstr ""
 "(vegeu [aquí](https://nachhaltig-in-graz.at/linux-statt-microsoft/) per "
 "exemple a Graz, Àustria)."
 
-#: content/opt-green-handbook/handbook_web.md:577
+#: content/opt-green-handbook/index.md:580
 #, fuzzy
 msgid ""
 "Local media is an effective way to reach people in your area. Put an ad in "
@@ -13715,7 +13671,7 @@ msgstr ""
 "final de suport per a Windows 10 o quan col·labora amb comunitats ambientals "
 "o socialment orientades."
 
-#: content/opt-green-handbook/handbook_web.md:579
+#: content/opt-green-handbook/index.md:582
 #, fuzzy
 msgid ""
 "And don't forget: Invite entire groups and communities, not just "
@@ -13726,12 +13682,12 @@ msgstr ""
 "És més fàcil superar els efectes de la xarxa i obtenir suport quan el seu "
 "cercle social està utilitzant FOSS!"
 
-#: content/opt-green-handbook/handbook_web.md:581
+#: content/opt-green-handbook/index.md:584
 #, fuzzy
 msgid "Securing User Data: Before Or During The Event?"
 msgstr "Garantir les dades de l'usuari: abans o durant l'esdeveniment?"
 
-#: content/opt-green-handbook/handbook_web.md:583
+#: content/opt-green-handbook/index.md:586
 #, fuzzy
 msgid ""
 "Before installing anything, it's critical to have backups of all data on the "
@@ -13743,7 +13699,7 @@ msgstr ""
 "tenir còpies de seguretat de totes les dades abans d'instal·lar res. No "
 "salteu aquest pas!"
 
-#: content/opt-green-handbook/handbook_web.md:585
+#: content/opt-green-handbook/index.md:588
 #, fuzzy
 msgid ""
 "Data backups can be done either before or during the event. Either way, your "
@@ -13762,7 +13718,7 @@ msgstr ""
 "sigui, assegura't que els visitants sàpiguen el que esperes abans que "
 "arribin."
 
-#: content/opt-green-handbook/handbook_web.md:587
+#: content/opt-green-handbook/index.md:590
 #, fuzzy
 msgid ""
 "In the Opt Green project, we've seen that many people keep old devices as "
@@ -13783,17 +13739,17 @@ msgstr ""
 "que organitzeu múltiples esdeveniments, poden venir al següent per "
 "instal·lar el seu nou SO."
 
-#: content/opt-green-handbook/handbook_web.md:589
+#: content/opt-green-handbook/index.md:592
 #, fuzzy
 msgid "Stage 3. During Install Events"
 msgstr "Etapa 3. Durant la instal·lació dels esdeveniments"
 
-#: content/opt-green-handbook/handbook_web.md:591
+#: content/opt-green-handbook/index.md:594
 #, fuzzy
 msgid "Showing, Not Telling"
 msgstr "Mostrar, no dir"
 
-#: content/opt-green-handbook/handbook_web.md:593
+#: content/opt-green-handbook/index.md:596
 #, fuzzy
 msgid ""
 "Even better than telling a curious user what FOSS can do, show them. Have a "
@@ -13815,7 +13771,7 @@ msgstr ""
 "funciona com es podria esperar de qualsevol sistema operatiu modern, molts "
 "temors es redueixen ràpidament."
 
-#: content/opt-green-handbook/handbook_web.md:595
+#: content/opt-green-handbook/index.md:598
 #, fuzzy
 msgid ""
 "Stick to familiar interfaces whenever possible. What does that mean? For "
@@ -13835,7 +13791,7 @@ msgstr ""
 "estan interessats en aprendre més. Per a la majoria d'usuaris, el que "
 "busquen és la manera més senzilla de fer alguna cosa. Dona-li això!"
 
-#: content/opt-green-handbook/handbook_web.md:597
+#: content/opt-green-handbook/index.md:600
 #, fuzzy
 msgid ""
 "![Screenshot from KDE Eco blog showing a command line interface in [Konsole]"
@@ -13849,12 +13805,12 @@ msgstr ""
 "llicència [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](images/"
 "sec3_konsole.png)"
 
-#: content/opt-green-handbook/handbook_web.md:599
+#: content/opt-green-handbook/index.md:602
 #, fuzzy
 msgid "Getting To Know A User's Computing Needs"
 msgstr "Conèixer les necessitats de computació d'un usuari"
 
-#: content/opt-green-handbook/handbook_web.md:601
+#: content/opt-green-handbook/index.md:604
 #, fuzzy
 msgid ""
 "Before you install anything, get to know the needs of the person you're "
@@ -13884,7 +13840,7 @@ msgstr ""
 "edat té el seu ordinador? Què volen fer amb ella? Quin programari necessiten "
 "o utilitzen regularment?"
 
-#: content/opt-green-handbook/handbook_web.md:603
+#: content/opt-green-handbook/index.md:606
 #, fuzzy
 msgid ""
 "A user's needs is often determined by their work or study, which can present "
@@ -13902,7 +13858,7 @@ msgstr ""
 "una persona incapaç de fer el que necessita fer amb el seu ordinador per "
 "treballar!"
 
-#: content/opt-green-handbook/handbook_web.md:605
+#: content/opt-green-handbook/index.md:608
 #, fuzzy
 msgid ""
 "For some proprietary applications, a web-based version of the software may "
@@ -13919,7 +13875,7 @@ msgstr ""
 "que poden satisfer les necessitats de l'usuari. Mostra aquestes opcions als "
 "usuaris nous. Cerca en línia molts suggeriments."
 
-#: content/opt-green-handbook/handbook_web.md:607
+#: content/opt-green-handbook/index.md:610
 #, fuzzy
 msgid ""
 "In some cases it may be possible to run Windows software on a FOSS system "
@@ -13944,12 +13900,12 @@ msgstr ""
 "el seu nou sistema operatiu. Fins i tot hi ha distribucions adaptades "
 "específicament per a jocs."
 
-#: content/opt-green-handbook/handbook_web.md:609
+#: content/opt-green-handbook/index.md:612
 #, fuzzy
 msgid "Securing User Data"
 msgstr "S'estan assegurant les dades de l'usuari"
 
-#: content/opt-green-handbook/handbook_web.md:611
+#: content/opt-green-handbook/index.md:614
 #, fuzzy
 msgid ""
 "See above for whether to do data backups before or during the event. The "
@@ -13968,7 +13924,7 @@ msgstr ""
 "offene-werkstatt/pc-upgrades/festplatte-austauschen) (en alemany) per com "
 "fer-ho."
 
-#: content/opt-green-handbook/handbook_web.md:613
+#: content/opt-green-handbook/index.md:616
 #, fuzzy
 msgid ""
 "If you're working with a non-profit organization, there may be issues with "
@@ -13981,7 +13937,7 @@ msgstr ""
 "dit que venen el disc SSD a cost i donen als usuaris la recepció per evitar "
 "problemes legals. Informa't primer abans de fer-ho."
 
-#: content/opt-green-handbook/handbook_web.md:615
+#: content/opt-green-handbook/index.md:618
 #, fuzzy
 msgid ""
 "Often overlooked is finding out where user passwords are stored. Ask users "
@@ -13993,7 +13949,7 @@ msgstr ""
 "emmagatzemen contrasenyes, de manera que és possible que vulgueu fer una "
 "còpia de seguretat d'aquestes dades també per ser segur."
 
-#: content/opt-green-handbook/handbook_web.md:617
+#: content/opt-green-handbook/index.md:620
 #, fuzzy
 msgid ""
 "If a user has data backed up on the cloud, this can also be used to migrate "
@@ -14009,11 +13965,11 @@ msgstr ""
 "similars. Utilitza el que utilitzen i ofereix mostrar-los alternatives si "
 "estan interessats."
 
-#: content/opt-green-handbook/handbook_web.md:619
+#: content/opt-green-handbook/index.md:622
 msgid "Installing A FOSS Operating System"
 msgstr "Instal·leu un sistema operatiu FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:621
+#: content/opt-green-handbook/index.md:624
 #, fuzzy
 msgid ""
 "Make sure all user data is backed up and secure before doing anything else. "
@@ -14023,28 +13979,28 @@ msgstr ""
 "abans de fer qualsevol altra cosa. També és important tenir un exclamant "
 "abans de l'esdeveniment, com ara:"
 
-#: content/opt-green-handbook/handbook_web.md:623
+#: content/opt-green-handbook/index.md:626
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
 "Això és ajuda voluntària per a mostrar als usuaris nous com poden ajudar-se "
 "a si mateixos."
 
-#: content/opt-green-handbook/handbook_web.md:624
+#: content/opt-green-handbook/index.md:627
 msgid "No contract is being established."
 msgstr "No s'estableix cap contracte."
 
-#: content/opt-green-handbook/handbook_web.md:625
+#: content/opt-green-handbook/index.md:628
 msgid "Devices and data can break when you touch them."
 msgstr "Els dispositius i les dades poden trencar-se quan els toqueu."
 
-#: content/opt-green-handbook/handbook_web.md:626
+#: content/opt-green-handbook/index.md:629
 msgid ""
 "Attendees are responsible for their devices and for having data backups."
 msgstr ""
 "Els assistents són responsables dels seus dispositius i de tenir còpies de "
 "seguretat de les dades."
 
-#: content/opt-green-handbook/handbook_web.md:628
+#: content/opt-green-handbook/index.md:631
 #, fuzzy
 msgid ""
 "Tip: It's always best practice to ask before touching someone else's "
@@ -14055,7 +14011,7 @@ msgstr ""
 "d'una altra persona! L'ideal és que no hagi de tocar el dispositiu, ja que "
 "l'usuari pot aprendre a fer-ho tot pel seu compte amb la seva orientació."
 
-#: content/opt-green-handbook/handbook_web.md:630
+#: content/opt-green-handbook/index.md:633
 #, fuzzy
 msgid ""
 "The disclaimer can be presented orally, but it's also worth having it in "
@@ -14072,26 +14028,26 @@ msgstr ""
 "legalprotection.html). Consulteu amb les autoritats competents si aquests "
 "documents són jurídicament vinculants."
 
-#: content/opt-green-handbook/handbook_web.md:632
+#: content/opt-green-handbook/index.md:635
 #, fuzzy
 msgid "The installation process generally follows these 3 steps:"
 msgstr "El procés d'instal·lació generalment segueix aquests 3 passos:"
 
-#: content/opt-green-handbook/handbook_web.md:634
+#: content/opt-green-handbook/index.md:637
 #, fuzzy
 msgid "Prepare a bootable USB drive or DVD"
 msgstr "Prepara una unitat USB o DVD arrencada"
 
-#: content/opt-green-handbook/handbook_web.md:635
+#: content/opt-green-handbook/index.md:638
 #, fuzzy
 msgid "Enter into BIOS and boot from the drive"
 msgstr "Entra a la BIOS i arrenca des de la unitat"
 
-#: content/opt-green-handbook/handbook_web.md:636
+#: content/opt-green-handbook/index.md:639
 msgid "Install the OS"
 msgstr "Instal·leu el SO"
 
-#: content/opt-green-handbook/handbook_web.md:638
+#: content/opt-green-handbook/index.md:641
 #, fuzzy
 msgid ""
 "There are numerous online guides for all distributions for how to prepare a "
@@ -14108,7 +14064,7 @@ msgstr ""
 "addicionals, però recomanem fer-ho per assegurar-se que el fitxer no està "
 "malmès i és el programari previst llançat pels desenvolupadors."
 
-#: content/opt-green-handbook/handbook_web.md:640
+#: content/opt-green-handbook/index.md:643
 #, fuzzy
 msgid ""
 "![Screenshot of Fedora Media Writer. The process could not be easier: Choose "
@@ -14126,7 +14082,7 @@ msgstr ""
 "creativecommons.org/licenses/by-sa/4.0/legalcode).](images/sec3_FMW-select-"
 "image-source1.png)"
 
-#: content/opt-green-handbook/handbook_web.md:642
+#: content/opt-green-handbook/index.md:645
 #, fuzzy
 msgid ""
 "In order to boot into BIOS or boot menu, you must press and hold a "
@@ -14145,7 +14101,7 @@ msgstr ""
 "combinacions de tecles necessàries per a introduir la BIOS o el menú "
 "d'arrencada."
 
-#: content/opt-green-handbook/handbook_web.md:644
+#: content/opt-green-handbook/index.md:647
 #, fuzzy
 msgid ""
 "We recommend booting into a so-called live environment. This allows a user "
@@ -14173,7 +14129,7 @@ msgstr ""
 "funciona en l'entorn viu, això no és una garantia que funcionarà després de "
 "la instal·lació."
 
-#: content/opt-green-handbook/handbook_web.md:646
+#: content/opt-green-handbook/index.md:649
 #, fuzzy
 msgid ""
 "During installation it will be necessary to create a new username, password, "
@@ -14186,11 +14142,11 @@ msgstr ""
 "ometis aquest pas. Un problema comú després de la instal·lació és oblidar la "
 "nova contrasenya, i fins i tot de vegades el nom d'usuari!"
 
-#: content/opt-green-handbook/handbook_web.md:648
+#: content/opt-green-handbook/index.md:651
 msgid "Using The FOSS Operating System"
 msgstr "Ús del sistema operatiu FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:650
+#: content/opt-green-handbook/index.md:653
 #, fuzzy
 msgid ""
 "At this point you'll want to show the user how to do things in their new OS. "
@@ -14199,7 +14155,7 @@ msgstr ""
 "En aquest moment voldreu mostrar a l'usuari com fer les coses en el seu nou "
 "SO. Alguns consells perquè puguin utilitzar el seu nou sistema:"
 
-#: content/opt-green-handbook/handbook_web.md:652
+#: content/opt-green-handbook/index.md:655
 #, fuzzy
 msgid ""
 "Navigating their new system such as application menu, software center, "
@@ -14210,12 +14166,12 @@ msgstr ""
 "programari, l'ajust del volum, l'administració de la impressora, etc. (ajuda "
 "a deixar que ho facin pel seu compte i fer-los preguntes)"
 
-#: content/opt-green-handbook/handbook_web.md:653
+#: content/opt-green-handbook/index.md:656
 #, fuzzy
 msgid "Installing or unsinstalling applications"
 msgstr "Instal·lació o desinstal·lació d'aplicacions"
 
-#: content/opt-green-handbook/handbook_web.md:654
+#: content/opt-green-handbook/index.md:657
 #, fuzzy
 msgid ""
 "Updating the system and applications (completing this action may take some "
@@ -14224,7 +14180,7 @@ msgstr ""
 "Actualització del sistema i de les aplicacions (la finalització d'aquesta "
 "acció pot trigar una estona)"
 
-#: content/opt-green-handbook/handbook_web.md:655
+#: content/opt-green-handbook/index.md:658
 #, fuzzy
 msgid ""
 "Copying the user's backed up data onto the new OS (completing this action "
@@ -14233,7 +14189,7 @@ msgstr ""
 "Copiar les dades de la còpia de seguretat de l'usuari al nou SO (completar "
 "aquesta acció pot trigar una estona)"
 
-#: content/opt-green-handbook/handbook_web.md:656
+#: content/opt-green-handbook/index.md:659
 #, fuzzy
 msgid ""
 "Optional: Setting up automated backup software with their external hard "
@@ -14242,7 +14198,7 @@ msgstr ""
 "Opcional: Configuració de programari de còpia de seguretat automatitzat amb "
 "el seu disc dur extern (completar aquesta acció pot trigar una estona)"
 
-#: content/opt-green-handbook/handbook_web.md:658
+#: content/opt-green-handbook/index.md:661
 #, fuzzy
 msgid ""
 "![Image of [Discover](https://apps.kde.org/discover/) in KDE Plasma. "
@@ -14257,7 +14213,7 @@ msgstr ""
 "(Imatge de KDE publicada segons una llicència [CC-BY-4.0](https://spdx.org/"
 "licenses/CC-BY-4.0.html).)](images/sec3_plasma-discover.png)"
 
-#: content/opt-green-handbook/handbook_web.md:660
+#: content/opt-green-handbook/index.md:663
 #, fuzzy
 msgid ""
 "It may help to demonstrate how installing software may differ from their "
@@ -14273,12 +14229,12 @@ msgstr ""
 "Explica que aquesta és la forma recomanada d'instal·lar i actualitzar "
 "programari en l'ecosistema FOSS."
 
-#: content/opt-green-handbook/handbook_web.md:662
+#: content/opt-green-handbook/index.md:665
 #, fuzzy
 msgid "Stage 4. After Install Events"
 msgstr "Etapa 4. Després d'instal·lar esdeveniments"
 
-#: content/opt-green-handbook/handbook_web.md:664
+#: content/opt-green-handbook/index.md:667
 #, fuzzy
 msgid ""
 "Although we'll only briefly cover this here, do not underestimate the "
@@ -14291,7 +14247,7 @@ msgstr ""
 "problemes, però acostumar-se al nou sistema operatiu requerirà en molts "
 "casos ajuda addicional, com ara:"
 
-#: content/opt-green-handbook/handbook_web.md:666
+#: content/opt-green-handbook/index.md:669
 #, fuzzy
 msgid ""
 "They have specific software needs (e.g., applications they use for work, tax "
@@ -14300,7 +14256,7 @@ msgstr ""
 "Tenen necessitats específiques de programari (per exemple, aplicacions que "
 "utilitzen per al treball, programari fiscal) i necessiten orientació extra."
 
-#: content/opt-green-handbook/handbook_web.md:667
+#: content/opt-green-handbook/index.md:670
 #, fuzzy
 msgid ""
 "They have peripheral devices (e.g., printers, scanners) that do not seem to "
@@ -14309,12 +14265,12 @@ msgstr ""
 "Tenen dispositius perifèrics (per exemple, impressores, escàners) que no "
 "semblen funcionar amb el seu nou sistema operatiu."
 
-#: content/opt-green-handbook/handbook_web.md:668
+#: content/opt-green-handbook/index.md:671
 #, fuzzy
 msgid "An update seems to have broken their system."
 msgstr "Sembla que una actualització ha trencat el seu sistema."
 
-#: content/opt-green-handbook/handbook_web.md:669
+#: content/opt-green-handbook/index.md:672
 #, fuzzy
 msgid ""
 "Their bootloader appears to be broken (all too often the case with dual boot "
@@ -14323,7 +14279,7 @@ msgstr ""
 "El seu carregador d'arrencada sembla estar trencat (amb massa freqüència el "
 "cas de les configuracions d'arrencada dual)."
 
-#: content/opt-green-handbook/handbook_web.md:671
+#: content/opt-green-handbook/index.md:674
 #, fuzzy
 msgid ""
 "In some cases these problems are easy to resolve, but it takes know-how that "
@@ -14334,7 +14290,7 @@ msgstr ""
 "saber fer que un nou usuari pot no tenir. En altres casos, pot requerir més "
 "treball i temps al costat de l'ajudant."
 
-#: content/opt-green-handbook/handbook_web.md:673
+#: content/opt-green-handbook/index.md:676
 #, fuzzy
 msgid ""
 "Regarding a user's specific software needs, ideally these are identified "
@@ -14348,7 +14304,7 @@ msgstr ""
 "cobriran en la consulta de preinstal·lació. Estigues preparat per ajudar els "
 "nous usuaris a mesura que sorgeixin aquests problemes inesperats."
 
-#: content/opt-green-handbook/handbook_web.md:675
+#: content/opt-green-handbook/index.md:678
 #, fuzzy
 msgid ""
 "We recommend having regular FOSS consultation hours (e.g., once a week or "
@@ -14360,7 +14316,7 @@ msgstr ""
 "nous usuaris sàpiguen que no estaran sols quan sorgeixin problemes realment "
 "pot reduir les barreres a l'adopció."
 
-#: content/opt-green-handbook/handbook_web.md:677
+#: content/opt-green-handbook/index.md:680
 #, fuzzy
 msgid ""
 "If you're organizing multiple events, let users know about the date and "
@@ -14373,7 +14329,7 @@ msgstr ""
 "de la teva zona que ofereixen suport al FOSS, fins i tot per un preu, fes "
 "una llista i dona-ho als assistents als teus esdeveniments."
 
-#: content/opt-green-handbook/handbook_web.md:679
+#: content/opt-green-handbook/index.md:682
 #, fuzzy
 msgid ""
 "Don't forget to demonstrate how they can help themselves as well. There is a "
@@ -14392,7 +14348,7 @@ msgstr ""
 "sabent que hi ha llocs en línia per a l'ajuda. Fer una llista dels fòrums i "
 "llistes de correu que són rellevants per al seu nou sistema operatiu."
 
-#: content/opt-green-handbook/handbook_web.md:681
+#: content/opt-green-handbook/index.md:684
 #, fuzzy
 msgid ""
 "![XKCD comic [\"627: Tech Support Cheat Sheet\"](https://xkcd.com/627/) "
@@ -14403,7 +14359,7 @@ msgstr ""
 "(publicat segons una llicència [CC-BY-NC-2.5](https://spdx.org/licenses/CC-"
 "BY-NC-2.5.html).](images/sec3_tech_support_cheat_sheet.png)"
 
-#: content/opt-green-handbook/handbook_web.md:683
+#: content/opt-green-handbook/index.md:686
 #, fuzzy
 msgid ""
 "For online support, it helps to demonstrate a workflow for resolving "
@@ -14412,7 +14368,7 @@ msgstr ""
 "Per al suport en línia, ajuda a demostrar un flux de treball per resoldre "
 "problemes. Això inclou:"
 
-#: content/opt-green-handbook/handbook_web.md:685
+#: content/opt-green-handbook/index.md:688
 #, fuzzy
 msgid ""
 "Always having a recent backup. If something goes wrong, having a backup "
@@ -14422,7 +14378,7 @@ msgstr ""
 "tenir una còpia de seguretat fa que sigui molt més fàcil començar de nou "
 "sense risc de pèrdua de dades."
 
-#: content/opt-green-handbook/handbook_web.md:686
+#: content/opt-green-handbook/index.md:689
 #, fuzzy
 msgid ""
 "Read error messages. In many cases, the error message will give you critical "
@@ -14431,7 +14387,7 @@ msgstr ""
 "Llegeix els missatges d'error. En molts casos, el missatge d'error us donarà "
 "informació crítica per solucionar un problema."
 
-#: content/opt-green-handbook/handbook_web.md:687
+#: content/opt-green-handbook/index.md:690
 #, fuzzy
 msgid ""
 "Search online for solutions. It sometimes helps to paste the error message "
@@ -14441,7 +14397,7 @@ msgstr ""
 "juntament amb «solució» en un motor de cerca per trobar una solució més "
 "ràpidament."
 
-#: content/opt-green-handbook/handbook_web.md:688
+#: content/opt-green-handbook/index.md:691
 #, fuzzy
 msgid ""
 "Read forum posts. Don't try copy-and-paste terminal commands willy-nilly. "
@@ -14452,7 +14408,7 @@ msgstr ""
 "terminal Willy-nilly. Llegiu tot l'entrada primer per veure si les solucions "
 "suggerides realment van ajudar abans de provar alguna cosa."
 
-#: content/opt-green-handbook/handbook_web.md:689
+#: content/opt-green-handbook/index.md:692
 #, fuzzy
 msgid ""
 "Post your problem to a forum. Find the right forum, include information "
@@ -14470,7 +14426,7 @@ msgstr ""
 "deixeu que arribi a vostè. Molts més seran pacients i útils. Centra la teva "
 "energia en ells!"
 
-#: content/opt-green-handbook/handbook_web.md:691
+#: content/opt-green-handbook/index.md:694
 #, fuzzy
 msgid ""
 "![Screenshot of [KDE's forum](https://discuss.kde.org/), where users can ask "
@@ -14481,7 +14437,7 @@ msgstr ""
 "usuaris poden preguntar i respondre preguntes sobre el Plasma del KDE en "
 "diverses distros.](images/sec3_discuss-kde-org.png)"
 
-#: content/opt-green-handbook/handbook_web.md:693
+#: content/opt-green-handbook/index.md:696
 #, fuzzy
 msgid ""
 "Some people offer additional support at an hourly cost outside of events. If "
@@ -14494,16 +14450,16 @@ msgstr ""
 "en el costat correcte de qualsevol problema legal que això pugui presentar i "
 "que l'organització darrere de l'esdeveniment està d'acord amb ell."
 
-#: content/opt-green-handbook/handbook_web.md:695
+#: content/opt-green-handbook/index.md:698
 msgid "Additional Resources"
 msgstr "Recursos addicionals"
 
-#: content/opt-green-handbook/handbook_web.md:697
+#: content/opt-green-handbook/index.md:700
 #, fuzzy
 msgid "Organizing An Install Event"
 msgstr "Organitzant un esdeveniment d'instal·lació"
 
-#: content/opt-green-handbook/handbook_web.md:699
+#: content/opt-green-handbook/index.md:702
 #, fuzzy
 msgid ""
 "More can be found at [New User Support Awesome List](https://invent.kde.org/"
@@ -14513,7 +14469,7 @@ msgstr ""
 "invent.kde.org/teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-"
 "support.md)."
 
-#: content/opt-green-handbook/handbook_web.md:701
+#: content/opt-green-handbook/index.md:704
 msgid ""
 "[How do I organize an install party?](https://endof10.org/faq/#how-do-i-"
 "organize-an-install-party) -- Short guide to organizing an install party, "
@@ -14524,7 +14480,7 @@ msgstr ""
 "d'instal·lació, de les preguntes més freqüents de la campanya «Final del "
 "10» (2025)"
 
-#: content/opt-green-handbook/handbook_web.md:702
+#: content/opt-green-handbook/index.md:705
 #, fuzzy
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/"
@@ -14535,7 +14491,7 @@ msgstr ""
 "Umstieg_auf_Linux) -- Preparant per a un grup d'instal·lació de Linux, de "
 "LUG Villingen-Schwenningen e.V. (alemany) (2025)"
 
-#: content/opt-green-handbook/handbook_web.md:703
+#: content/opt-green-handbook/index.md:706
 #, fuzzy
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
@@ -14546,7 +14502,7 @@ msgstr ""
 "werkstatt/linux) -- Guies per començar amb Linux, des de Repair-Café "
 "Hilpoltstein (alemany) (2025)"
 
-#: content/opt-green-handbook/handbook_web.md:704
+#: content/opt-green-handbook/index.md:707
 #, fuzzy
 msgid ""
 "[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
@@ -14556,7 +14512,7 @@ msgstr ""
 "Organitzant un esdeveniment d'instal·lació, des de la comunitat Fedora Linux "
 "(2019)"
 
-#: content/opt-green-handbook/handbook_web.md:705
+#: content/opt-green-handbook/index.md:708
 #, fuzzy
 msgid ""
 "[Linux Installfest HOWTO](https://tldp.org/HOWTO/Installfest-HOWTO/index."
@@ -14567,11 +14523,11 @@ msgstr ""
 "html) -- Directrius per a executar un installfest amb èxit, des del Projecte "
 "de Documentació Linux (2012)"
 
-#: content/opt-green-handbook/handbook_web.md:707
+#: content/opt-green-handbook/index.md:710
 msgid "FOSS On Other Devices"
 msgstr "FOSS en altres dispositius"
 
-#: content/opt-green-handbook/handbook_web.md:709
+#: content/opt-green-handbook/index.md:712
 #, fuzzy
 msgid ""
 "We have focused on PCs in this handbook, but many other devices can also be "
@@ -14587,11 +14543,11 @@ msgstr ""
 "emptor! No obstant això, és possible que vulgueu explorar l'apassionant món "
 "del FOSS en altres dispositius. Aquí teniu alguns exemples:"
 
-#: content/opt-green-handbook/handbook_web.md:711
+#: content/opt-green-handbook/index.md:714
 msgid "Smartphones & Tablets"
 msgstr "Telèfons intel·ligents i tauletes"
 
-#: content/opt-green-handbook/handbook_web.md:712
+#: content/opt-green-handbook/index.md:715
 msgid ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
@@ -14599,22 +14555,22 @@ msgstr ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
 
-#: content/opt-green-handbook/handbook_web.md:713
+#: content/opt-green-handbook/index.md:716
 msgid "Android derivatives: Replicant, lineageOS, e/OS"
 msgstr "Derivats de l'Android: Replicant, lineageOS, e/OS"
 
-#: content/opt-green-handbook/handbook_web.md:714
+#: content/opt-green-handbook/index.md:717
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
 msgstr ""
 "Servidor domèstic (FreedomBox per a la sincronització de fitxers, xat, "
 "correu electrònic, multimèdia)"
 
-#: content/opt-green-handbook/handbook_web.md:715
+#: content/opt-green-handbook/index.md:718
 #, fuzzy
 msgid "Home automation (Home Assistant, included with FreedomBox)"
 msgstr "Domòtica (Assistent domèstic, inclòs amb FreedomBox)"
 
-#: content/opt-green-handbook/handbook_web.md:716
+#: content/opt-green-handbook/index.md:719
 msgid ""
 "Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
@@ -14622,15 +14578,15 @@ msgstr ""
 "TV intel·ligents (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-"
 "bigscreen.org/))"
 
-#: content/opt-green-handbook/handbook_web.md:717
+#: content/opt-green-handbook/index.md:720
 msgid "E-book readers (KOReader)"
 msgstr "Lectors de llibres electrònics (KOReader)"
 
-#: content/opt-green-handbook/handbook_web.md:718
+#: content/opt-green-handbook/index.md:721
 msgid "Garage door openers (OpenGarage, ratgdo)"
 msgstr "Obertura de portes de garatges (OpenGarage, ratgdo)"
 
-#: content/opt-green-handbook/handbook_web.md:720
+#: content/opt-green-handbook/index.md:723
 #, fuzzy
 msgid ""
 "There are certainly other exciting projects to make your digital life fully "
@@ -14641,7 +14597,7 @@ msgstr ""
 "obert."
 
 # skip-rule: t-sc-blog
-#: content/opt-green-handbook/handbook_web.md:722
+#: content/opt-green-handbook/index.md:725
 msgid ""
 "![Plasma Mobile is an open-source user interface for mobile devices "
 "developed by the KDE community. (Image from KDE released under a [CC-BY-4.0]"
@@ -14653,11 +14609,11 @@ msgstr ""
 "publicada segons una llicència [CC-BY-4.0](https://spdx.org/licenses/CC-"
 "BY-4. 0.html).)](images/sec3_plasmaphone.png)"
 
-#: content/opt-green-handbook/handbook_web.md:724
+#: content/opt-green-handbook/index.md:727
 msgid "Troubleshooting"
 msgstr "Solució de problemes"
 
-#: content/opt-green-handbook/handbook_web.md:726
+#: content/opt-green-handbook/index.md:729
 #, fuzzy
 msgid ""
 "Here are some general resources for resolving some problems that may arise. "
@@ -14673,7 +14629,7 @@ msgstr ""
 "flux de treball anterior per a una guia bàsica per a la cerca de solucions "
 "en línia."
 
-#: content/opt-green-handbook/handbook_web.md:728
+#: content/opt-green-handbook/index.md:731
 msgid ""
 "[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
@@ -14681,7 +14637,7 @@ msgstr ""
 "[Linux no s'instal·la](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
 
-#: content/opt-green-handbook/handbook_web.md:729
+#: content/opt-green-handbook/index.md:732
 msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
@@ -14689,7 +14645,7 @@ msgstr ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 
-#: content/opt-green-handbook/handbook_web.md:730
+#: content/opt-green-handbook/index.md:733
 msgid ""
 "[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
 "com/blog/install-linux-nvidia-driver/)"
@@ -14697,7 +14653,7 @@ msgstr ""
 "[Instal·lació de controladors de NVIDIA al Linux: una guia completa](https://"
 "linuxvox.com/blog/install-linux-nvidia-driver/)"
 
-#: content/opt-green-handbook/handbook_web.md:731
+#: content/opt-green-handbook/index.md:734
 msgid ""
 "[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
@@ -14705,7 +14661,7 @@ msgstr ""
 "[Com configurar una impressora al Linux](https://www.maketecheasier.com/set-"
 "up-a-printer-in-linux/)"
 
-#: content/opt-green-handbook/handbook_web.md:732
+#: content/opt-green-handbook/index.md:735
 msgid ""
 "[Troubleshooting Linux Problems: A Beginner's Guide](https://learn.redhat."
 "com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
@@ -14715,7 +14671,7 @@ msgstr ""
 "redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-"
 "Guide/td-p/36236)"
 
-#: content/opt-green-handbook/handbook_web.md:733
+#: content/opt-green-handbook/index.md:736
 msgid ""
 "[Troubleshooting Common Linux Problems: Tips for New Users](https://www."
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
@@ -14725,7 +14681,7 @@ msgstr ""
 "(https://www.dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-"
 "problems-tips-for-new-users/)"
 
-#: content/opt-green-handbook/handbook_web.md:734
+#: content/opt-green-handbook/index.md:737
 msgid ""
 "[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
 "org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
@@ -14734,7 +14690,7 @@ msgstr ""
 "(https://codegig.org/troubleshooting-common-linux-issues-a-guide-for-new-"
 "users/)"
 
-#: content/opt-green-handbook/handbook_web.md:737
+#: content/opt-green-handbook/index.md:740
 msgid ""
 "The *Opt Green* project from KDE Eco was funded by the Federal Environment "
 "Agency and the Federal Ministry for the Environment, Climate Action, Nature "
@@ -14746,7 +14702,7 @@ msgstr ""
 "de la Natura i Seguretat Nuclear (BMUKN). Els fons estan disponibles per una "
 "resolució del Bundestag alemany."
 
-#: content/opt-green-handbook/handbook_web.md:741
+#: content/opt-green-handbook/index.md:744
 msgid ""
 "![Logo of the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety.](images/sec4_bmuv.png)"

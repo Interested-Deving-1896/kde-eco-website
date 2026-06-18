@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-13 02:04+0000\n"
+"POT-Creation-Date: 2026-06-18 02:09+0000\n"
 "PO-Revision-Date: 2026-06-13 06:42+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
 #: content/blog/2024-05-29_introducing-ns4nh.md:0 content/get-involved.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "KDE Eco"
 msgstr "KDE Eco"
 
@@ -53,17 +53,17 @@ msgstr ""
 "Priročnik za potrjevanje programske opreme kot trajnostne (februar 2023)"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "en"
 msgstr "sl"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "\\ "
 msgstr "\\ "
 
 #: content/be4foss-handbook/handbook_web.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "\\thepage"
 msgstr "\\thepage"
 
@@ -124,8 +124,8 @@ msgstr "Knjiga je razdeljena na tri dele:"
 
 #: content/be4foss-handbook/handbook_web.md:30
 #: content/be4foss-handbook/handbook_web.md:37
-#: content/opt-green-handbook/handbook_web.md:62
-#: content/opt-green-handbook/handbook_web.md:71
+#: content/opt-green-handbook/index.md:65
+#: content/opt-green-handbook/index.md:74
 msgid "Part I: Environmental Impact Of Software"
 msgstr "1. del: Vpliv programske opreme na okolje"
 
@@ -395,7 +395,7 @@ msgstr ""
 "dan."
 
 #: content/be4foss-handbook/handbook_web.md:63
-#: content/opt-green-handbook/handbook_web.md:95
+#: content/opt-green-handbook/index.md:98
 msgid "Material Footprint Of Digital Technology"
 msgstr "Materialni odtis digitalne tehnologije"
 
@@ -1580,7 +1580,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:185
 #: content/be4foss-handbook/handbook_web.md:318
-#: content/opt-green-handbook/handbook_web.md:38
+#: content/opt-green-handbook/index.md:41
 msgid "A Note On Sources"
 msgstr "Opomba o virih"
 
@@ -6037,7 +6037,7 @@ msgid "About"
 msgstr "O programu"
 
 #: content/be4foss-handbook/handbook_web.md:1219
-#: content/opt-green-handbook/handbook_web.md:22
+#: content/opt-green-handbook/index.md:25
 msgid "Authors"
 msgstr "Avtorji"
 
@@ -6081,7 +6081,7 @@ msgstr ""
 "dodatne informacije o virih glejte konec vsakega razdelka."
 
 #: content/be4foss-handbook/handbook_web.md:1225
-#: content/opt-green-handbook/handbook_web.md:26
+#: content/opt-green-handbook/index.md:29
 msgid "Acknowledgments"
 msgstr "Zahvale"
 
@@ -6138,7 +6138,7 @@ msgstr ""
 "Alliance, EnviroInfo 2022 in Bits & Bäume 2022. Hvala!"
 
 #: content/be4foss-handbook/handbook_web.md:1233
-#: content/opt-green-handbook/handbook_web.md:49
+#: content/opt-green-handbook/index.md:52
 msgid "License"
 msgstr "Licenca"
 
@@ -6160,7 +6160,7 @@ msgstr ""
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
 #: content/blog/2022-03-05-energy-conservation-day.md:33
 #: content/blog/2024-05-29_introducing-ns4nh.md:114 content/blog/post-1.md:59
-#: content/opt-green-handbook/handbook_web.md:735
+#: content/opt-green-handbook/index.md:738
 msgid "Funding Notice"
 msgstr "Obvestilo o financiranju"
 
@@ -6177,7 +6177,7 @@ msgstr ""
 "a></sup>). Sredstva so na voljo z resolucijo nemškega Bundestaga."
 
 #: content/be4foss-handbook/handbook_web.md:1241
-#: content/opt-green-handbook/handbook_web.md:739
+#: content/opt-green-handbook/index.md:742
 msgid "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 msgstr "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 
@@ -6193,7 +6193,7 @@ msgstr ""
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
 #: content/blog/2024-05-29_introducing-ns4nh.md:126 content/blog/post-1.md:71
-#: content/opt-green-handbook/handbook_web.md:743
+#: content/opt-green-handbook/index.md:746
 msgid "The publisher is responsible for the content of this publication."
 msgstr "Založnik je odgovoren za vsebino te publikacije."
 
@@ -9039,28 +9039,27 @@ msgstr "Naredi zeleno"
 msgid "Make green"
 msgstr "Naredi zeleno"
 
-#: content/opt-green-handbook/_index.md:0
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "Opting Green"
 msgstr "Izbiranje zelene"
 
-#: content/opt-green-handbook/_index.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "KDE Opt Green Handbook"
 msgstr "Priročnik KDE Opt Green"
 
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "How Sustainable Software Makes for Sustainable Hardware"
 msgstr "Opt Green: Trajnostna programska oprema za trajnostno strojno opremo"
 
-#: content/opt-green-handbook/handbook_web.md:0
+#: content/opt-green-handbook/index.md:0
 msgid "htb"
 msgstr "htb"
 
-#: content/opt-green-handbook/handbook_web.md:20
+#: content/opt-green-handbook/index.md:23
 msgid "About This Handbook"
 msgstr "O tem priročniku"
 
-#: content/opt-green-handbook/handbook_web.md:24
+#: content/opt-green-handbook/index.md:27
 msgid ""
 "The text of this version of the handbook was written and compiled from "
 "various sources by Joseph P. De Veaugh-Geiss. Annie Musgrove edited the text "
@@ -9072,7 +9071,7 @@ msgstr ""
 "uredniškimi smernicami KDE Eco. Anita Sengupta in Arwin Neil Baichoo sta "
 "poskrbela za čudovito oblikovanje knjige in spletne strani."
 
-#: content/opt-green-handbook/handbook_web.md:28
+#: content/opt-green-handbook/index.md:31
 msgid ""
 "A general thank you to the many contributors to the KDE Eco initiative, the "
 "Opt Green project, and End Of 10 campaign. An incomplete list (in "
@@ -9095,7 +9094,7 @@ msgstr ""
 "pomagajo novim uporabnikom s prosto in odprtokodno programsko opremo. Vsi "
 "ste navdih."
 
-#: content/opt-green-handbook/handbook_web.md:30
+#: content/opt-green-handbook/index.md:33
 msgid ""
 "People interested in contributing to KDE Eco are encouraged to join the "
 "[Matrix room](https://webchat.kde.org/#/room/#kde-eco:kde.org). Contributors "
@@ -9108,7 +9107,7 @@ msgstr ""
 "srečanjem v živo ali na spletu. Več informacij najdete na naši [spletni "
 "strani](https://eco.kde.org/get-involved/)."
 
-#: content/opt-green-handbook/handbook_web.md:32
+#: content/opt-green-handbook/index.md:35
 msgid ""
 "The Opt Green project has benefited from many informative discussions that "
 "took place at the following conferences, workshops, meetups, and festivals: "
@@ -9125,11 +9124,11 @@ msgstr ""
 "India, vrh aplikacij Linux, Lucknow FOSS, delavnice Repair Cafe v Hannovru, "
 "Nürnbergu in Dessauu, SFSCon, Umweltfestival in Weltveränderer. Hvala!"
 
-#: content/opt-green-handbook/handbook_web.md:34
+#: content/opt-green-handbook/index.md:37
 msgid "No Generative AI or LLMs"
 msgstr "Brez generativne umetne inteligence ali LLM-jev"
 
-#: content/opt-green-handbook/handbook_web.md:36
+#: content/opt-green-handbook/index.md:39
 msgid ""
 "No Generative AI or LLMs were used at any stage in the preparation or "
 "writing of this handbook, despite what the frequent use of [em-dashes]"
@@ -9142,7 +9141,7 @@ msgstr ""
 "nytimes.com/2025/09/18/magazine/chatgpt-dash-hyphen-writing-communication."
 "html)."
 
-#: content/opt-green-handbook/handbook_web.md:40
+#: content/opt-green-handbook/index.md:43
 msgid ""
 "Some text in Parts I & II have been adapted from the KDE Eco handbook "
 "[\"Applying The Blue Angel Criteria To Free Software\"](https://eco.kde.org/"
@@ -9156,7 +9155,7 @@ msgstr ""
 "avtorstva-Deljenje pod enakimi pogoji 4.0 International (CC-BY-SA-4.0)]"
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html)."
 
-#: content/opt-green-handbook/handbook_web.md:42
+#: content/opt-green-handbook/index.md:45
 msgid ""
 "Part III benefited from the following texts by the Linux User Group "
 "Villingen-Schwenningen and Repair-Café Hilpoltstein:"
@@ -9164,13 +9163,13 @@ msgstr ""
 "Del III je uporabil naslednja besedila uporabniške skupine Linux Villingen-"
 "Schwenningen in Repair-Café Hilpoltstein:"
 
-#: content/opt-green-handbook/handbook_web.md:44
+#: content/opt-green-handbook/index.md:47
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 msgstr ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:45
+#: content/opt-green-handbook/index.md:48
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux)"
@@ -9178,7 +9177,7 @@ msgstr ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux)"
 
-#: content/opt-green-handbook/handbook_web.md:47
+#: content/opt-green-handbook/index.md:50
 msgid ""
 "Wikipedia provided references to several texts included here. Thank you to "
 "the commons community for making such excellent resources available for all "
@@ -9188,7 +9187,7 @@ msgstr ""
 "Zahvaljujemo se skupnosti Commons, da je vsem nam omogočila dostop do tako "
 "odličnih virov."
 
-#: content/opt-green-handbook/handbook_web.md:51
+#: content/opt-green-handbook/index.md:54
 msgid ""
 "Unless indicated otherwise, all contents released under the [Creative "
 "Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)](https://"
@@ -9203,11 +9202,11 @@ msgstr ""
 "pravilnik o licenciranju](https://community.kde.org/Policies/"
 "Licensing_Policy)."
 
-#: content/opt-green-handbook/handbook_web.md:54
+#: content/opt-green-handbook/index.md:57
 msgid "Introduction: What's This All About?"
 msgstr "Uvod: Za kaj gre?"
 
-#: content/opt-green-handbook/handbook_web.md:56
+#: content/opt-green-handbook/index.md:59
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software and how Free & Open Source Software (FOSS) provides a solution."
@@ -9216,7 +9215,7 @@ msgstr ""
 "oprema, in kako prosta in odprtokodna programska oprema (FOSS) ponuja "
 "rešitev."
 
-#: content/opt-green-handbook/handbook_web.md:58
+#: content/opt-green-handbook/index.md:61
 msgid ""
 "At this point, you might wonder: What does sustainability have to do with "
 "software? How can something so seemingly immaterial as software have an "
@@ -9230,7 +9229,7 @@ msgstr ""
 "končajo na odlagališčih, ker jih razvoj programske opreme naredi zastarele – "
 "tudi če v nekaterih primerih takšen razvoj ni potreben."
 
-#: content/opt-green-handbook/handbook_web.md:60
+#: content/opt-green-handbook/index.md:63
 msgid ""
 "In this book, we'll take a closer look at the ways software, and the "
 "hardware that runs it, is contributing to the climate crisis, and what you "
@@ -9241,17 +9240,17 @@ msgstr ""
 "oprema, ki jo poganja, prispevata k podnebni krizi, in kaj lahko glede tega "
 "storite v svoji skupnosti že danes! Knjiga je razdeljena na tri glavne dele:"
 
-#: content/opt-green-handbook/handbook_web.md:63
-#: content/opt-green-handbook/handbook_web.md:208
+#: content/opt-green-handbook/index.md:66
+#: content/opt-green-handbook/index.md:211
 msgid "Part II: Digital Sustainability"
 msgstr "II. del: Digitalna trajnost"
 
-#: content/opt-green-handbook/handbook_web.md:64
-#: content/opt-green-handbook/handbook_web.md:401
+#: content/opt-green-handbook/index.md:67
+#: content/opt-green-handbook/index.md:404
 msgid "Part III: Upgrading Devices With FOSS"
 msgstr "III. del: Nadgradnja naprav s FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:66
+#: content/opt-green-handbook/index.md:69
 msgid ""
 "While Part I explores the *why* and Part II the *what*, Part III discusses "
 "the *how* by exploring what you need to consider when helping others upgrade "
@@ -9271,7 +9270,7 @@ msgstr ""
 "temveč oris tega, kar se nam zdi koristno za začetek, z napotki o tem, kako "
 "najti vire za več informacij."
 
-#: content/opt-green-handbook/handbook_web.md:68
+#: content/opt-green-handbook/index.md:71
 msgid ""
 "The target audience for Parts I & II is anyone who cares about the "
 "environment and the role software plays in digital sustainability. Part III "
@@ -9291,11 +9290,11 @@ msgstr ""
 "dogodkih ob koncu desetletja in dnevu digitalne neodvisnosti, zabavah ob "
 "namestitvi Linuxa, kripto zabavah in tako naprej."
 
-#: content/opt-green-handbook/handbook_web.md:70
+#: content/opt-green-handbook/index.md:73
 msgid "Let's get started!"
 msgstr "Začnimo!"
 
-#: content/opt-green-handbook/handbook_web.md:73
+#: content/opt-green-handbook/index.md:76
 msgid ""
 "<!--![Photograph of e-waste. (Image published under a [CC0-1.0](https://spdx."
 "org/licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste."
@@ -9305,7 +9304,7 @@ msgstr ""
 "[CC0-1.0](https://spdx.org/licenses/CC0-1.0.html).)](images/sec1_e-waste."
 "jpg)-->\n"
 
-#: content/opt-green-handbook/handbook_web.md:75
+#: content/opt-green-handbook/index.md:78
 msgid ""
 "Before we dive into the environmental impact of software, consider how you "
 "would complete this sentence:"
@@ -9313,19 +9312,19 @@ msgstr ""
 "Preden se poglobimo v vpliv programske opreme na okolje, razmislite, kako bi "
 "dokončali ta stavek:"
 
-#: content/opt-green-handbook/handbook_web.md:77
+#: content/opt-green-handbook/index.md:80
 msgid "**The most environmentally-friendly device is …**"
 msgstr "**Najbolj okolju prijazna naprava je …**"
 
-#: content/opt-green-handbook/handbook_web.md:79
+#: content/opt-green-handbook/index.md:82
 msgid "Think about it for a minute."
 msgstr "Pomislite o tem za minuto."
 
-#: content/opt-green-handbook/handbook_web.md:81
+#: content/opt-green-handbook/index.md:84
 msgid "Now keep your answer in mind&mdash;we'll come back to it shortly."
 msgstr "Zdaj pa imejte svoj odgovor v mislih – kmalu se bomo vrnili k njemu."
 
-#: content/opt-green-handbook/handbook_web.md:83
+#: content/opt-green-handbook/index.md:86
 msgid ""
 "Digital technology has revolutionized how we live, and it is often praised "
 "for bringing not only convenience but also efficiency to our daily lives. "
@@ -9356,7 +9355,7 @@ msgstr ""
 "našega vsakdanjega življenja, danes pa preprosto niso več potrebni, saj zdaj "
 "obstajajo skoraj izključno v digitalni obliki na naših napravah."
 
-#: content/opt-green-handbook/handbook_web.md:85
+#: content/opt-green-handbook/index.md:88
 msgid ""
 "For all the ways that digitization has made our lives more convenient and "
 "more efficient, it may seem like these technological developments are also "
@@ -9366,7 +9365,7 @@ msgstr ""
 "priročna in učinkovitejša, se morda zdi, da so ti tehnološki dosežki tudi "
 "manj materialni in manj potratni. Pa je res tako?"
 
-#: content/opt-green-handbook/handbook_web.md:87
+#: content/opt-green-handbook/index.md:90
 msgid ""
 "Short answer, no. The internet and the computers we use to connect to it "
 "require physical infrastructure. This includes the extraction of materials "
@@ -9396,7 +9395,7 @@ msgstr ""
 "infrastrukture. Poleg tega programska oprema določa porabo energije in virov "
 "naprave, medtem ko jo še uporabljate."
 
-#: content/opt-green-handbook/handbook_web.md:89
+#: content/opt-green-handbook/index.md:92
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper from e-"
 "waste at Agbogbloshie, Ghana, as another metal scrap worker arrives with "
@@ -9414,7 +9413,7 @@ msgstr ""
 "objavljeno pod [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) "
 "license.)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019.webp)"
 
-#: content/opt-green-handbook/handbook_web.md:91
+#: content/opt-green-handbook/index.md:94
 msgid ""
 "This handbook will take a closer look at some of the ways digital technology "
 "is contributing to environmental harm and the climate crisis. To be clear, "
@@ -9435,7 +9434,7 @@ msgstr ""
 "programske opreme takoj in pomembno vplivajo na številna vprašanja, o "
 "katerih razpravlja ta priročnik."
 
-#: content/opt-green-handbook/handbook_web.md:93
+#: content/opt-green-handbook/index.md:96
 msgid ""
 "In order to address a problem effectively, however, we must first understand "
 "the problem. So let's explore what is meant by the digital environmental "
@@ -9445,7 +9444,7 @@ msgstr ""
 "je ta problem. Zato si poglejmo, kaj pomeni digitalni okoljski odtis in kako "
 "je s tem povezana programska oprema, ki jo uporabljamo vsak dan."
 
-#: content/opt-green-handbook/handbook_web.md:97
+#: content/opt-green-handbook/index.md:100
 msgid ""
 "Digital technology is often (and erroneously) associated with being "
 "immaterial. But there is a very real, very material aspect to digitization, "
@@ -9461,7 +9460,7 @@ msgstr ""
 "kontejnerske ladje, ki prevažajo množično proizvedeno strojno opremo, ter "
 "kable in podatkovne centre, ki jih povezujejo z globalnimi omrežji."
 
-#: content/opt-green-handbook/handbook_web.md:99
+#: content/opt-green-handbook/index.md:102
 msgid ""
 "We use more digital devices than ever before. The number of internet-"
 "connected devices, including laptops and smartphones, but also smart TVs, "
@@ -9483,7 +9482,7 @@ msgstr ""
 "redkih zemeljskih kovin, potrebnih za njihovo delovanje, ter njihov prevoz, "
 "uporaba in morebitno odstranjevanje, imajo vpliv na okolje."
 
-#: content/opt-green-handbook/handbook_web.md:101
+#: content/opt-green-handbook/index.md:104
 msgid ""
 "![Two charts comparing (left) the greenhouse gas emissions of the aviation "
 "industry in blue with the ICT sector in green, and (right) projected "
@@ -9506,7 +9505,7 @@ msgstr ""
 "(https://spdx.org/licenses/CC-BY-3.0.html). Oblikovanje: Lana Lutz.)](images/"
 "sec1_acm-report.png)"
 
-#: content/opt-green-handbook/handbook_web.md:103
+#: content/opt-green-handbook/index.md:106
 msgid ""
 "In fact, the environmental impact of the industry as a whole, in particular "
 "in terms of CO~2~ emissions, is currently on par with the aviation industry. "
@@ -9536,7 +9535,7 @@ msgstr ""
 "tehnologija »lahko pomaga ublažiti podnebne spremembe«, vendar »mora najprej "
 "prenehati prispevati k njim«."
 
-#: content/opt-green-handbook/handbook_web.md:105
+#: content/opt-green-handbook/index.md:108
 msgid ""
 "To estimate digital technology's contributions to environmental harm, it is "
 "necessary to account for its entire lifecycle. This includes the costs of "
@@ -9563,7 +9562,7 @@ msgstr ""
 "postane e-odpadek. Ko si bomo ogledali odlagališča in odlagališča odpadkov, "
 "bomo raziskali vpliv proizvodnje strojne opreme in uporabe naprav na okolje."
 
-#: content/opt-green-handbook/handbook_web.md:107
+#: content/opt-green-handbook/index.md:110
 msgid ""
 "![Image of \"WEEE Man\" statue, which is made from 3.3 metric tons of "
 "electrical waste, the average amount of e-waste that one UK individual "
@@ -9579,11 +9578,11 @@ msgstr ""
 "BY-SA-2.0](https://spdx.org/licenses/CC-BY-SA-2.0.html).)](images/"
 "sec1_geograph-2637892-by-James-T-M-Towill_1600x1200.jpg)"
 
-#: content/opt-green-handbook/handbook_web.md:109
+#: content/opt-green-handbook/index.md:112
 msgid "A \"Tsunami Of E-Waste\""
 msgstr "Tsunami e-odpadkov"
 
-#: content/opt-green-handbook/handbook_web.md:111
+#: content/opt-green-handbook/index.md:114
 msgid ""
 "At seven meter's tall, the \"WEEE Man\" is a giant. Taking its name from the "
 "2003 Waste Electrical and Electronic Equipment (WEEE) directive, which sets "
@@ -9597,7 +9596,7 @@ msgstr ""
 "izdelan iz 3,3 metričnih ton električnih odpadkov. To je povprečna količina "
 "e-odpadkov, ki jih en prebivalec Združenega kraljestva ustvari v življenju."
 
-#: content/opt-green-handbook/handbook_web.md:113
+#: content/opt-green-handbook/index.md:116
 msgid ""
 "[^1]: In 2005, two years after the directive was transposed into European "
 "law, the Royal Society of Arts in the UK unveiled \"WEEE Man\". Originally "
@@ -9609,7 +9608,7 @@ msgstr ""
 "Prvotno je bil postavljen na južnem bregu Londona, nato pa so visoko figuro "
 "preselili v projekt Eden v Cornwallu, kjer je trenutno."
 
-#: content/opt-green-handbook/handbook_web.md:115
+#: content/opt-green-handbook/index.md:118
 msgid ""
 "In 2015, as e-waste was on its way to becoming the \"[fastest-growing waste "
 "stream in the world](https://www.weforum.org/reports/a-new-circular-vision-"
@@ -9643,7 +9642,7 @@ msgstr ""
 "tovornjakov, ki se od odbijača do odbijača ovijajo okoli zemeljskega "
 "ekvatorja. To je 40.075 kilometrov elektronskih odpadkov. V enem letu!"
 
-#: content/opt-green-handbook/handbook_web.md:117
+#: content/opt-green-handbook/index.md:120
 msgid ""
 "![62 billion kg of e-waste was generated in 2022. This is equivalent to 1.55 "
 "million trucks wrapped all the way around the Earth's equator. The amount "
@@ -9657,7 +9656,7 @@ msgstr ""
 "BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html). Oblikovanje: Anita "
 "Sengupta.)](images/sec1_e-waste-trucks-on-equator-illustration.png)"
 
-#: content/opt-green-handbook/handbook_web.md:119
+#: content/opt-green-handbook/index.md:122
 msgid ""
 "The numbers continue to rise. According to the same report, the amount of e-"
 "waste is rising by about 2.3 billion kilogams each year&mdash;and we are on "
@@ -9697,7 +9696,7 @@ msgstr ""
 "stroje, pomivalne stroje, velike tiskalnike, fotokopirne stroje (skupaj "
 "imenovane \"velika oprema\"); fotonapetostne panele in druge."
 
-#: content/opt-green-handbook/handbook_web.md:121
+#: content/opt-green-handbook/index.md:124
 msgid ""
 "Of all these devices, computer technology e-waste is particularly bad. "
 "Electronic scrap components like CPUs contain potentially harmful materials "
@@ -9734,7 +9733,7 @@ msgstr ""
 "morskih živalih, v pridelkih, ki jih uživajo tako živali kot ljudje, in v "
 "pitni vodi."
 
-#: content/opt-green-handbook/handbook_web.md:123
+#: content/opt-green-handbook/index.md:126
 msgid ""
 "This handbook concerns itself primarily with desktop computers and laptops, "
 "but the issues addressed here relate to any device requiring software to "
@@ -9752,7 +9751,7 @@ msgstr ""
 "z vgrajenimi računalniki. Imamo računalnike s stvarmi, ki so nanje "
 "pritrjene.« Schneier nadaljuje (poudarek dodan):"
 
-#: content/opt-green-handbook/handbook_web.md:125
+#: content/opt-green-handbook/index.md:128
 msgid ""
 "Your modern refrigerator is a *computer* that keeps things cold. Your oven, "
 "similarly, is a *computer* that makes things hot. An ATM is a *computer* "
@@ -9770,7 +9769,7 @@ msgstr ""
 "motorjem. In seveda so vaši telefoni leta 2007, ko je bil predstavljen "
 "iPhone, postali polnozmogljivi *računalniki* za splošno uporabo."
 
-#: content/opt-green-handbook/handbook_web.md:127
+#: content/opt-green-handbook/index.md:130
 msgid ""
 "We wear *computers*: fitness trackers and computer-enabled medical "
 "devices&mdash;and, of course, we carry our smartphones everywhere. Our homes "
@@ -9790,7 +9789,7 @@ msgstr ""
 "resnici le *računalnik*, ki proizvaja elektriko in – tako kot vse ostalo, "
 "kar smo pravkar našteli – je na internetu."
 
-#: content/opt-green-handbook/handbook_web.md:129
+#: content/opt-green-handbook/index.md:132
 msgid ""
 "All of these computerized devices are on the internet, [many are collecting "
 "data about you](https://www.nytimes.com/wirecutter/reviews/advice-smart-"
@@ -9801,11 +9800,11 @@ msgstr ""
 "tracking/) – in, kar je ključno, vse za delovanje potrebujejo programsko "
 "opremo."
 
-#: content/opt-green-handbook/handbook_web.md:131
+#: content/opt-green-handbook/index.md:134
 msgid "Embodied Harm&mdash;Before A Device Is Ever Used"
 msgstr "Utelešena škoda – preden se naprava sploh kdaj uporabi"
 
-#: content/opt-green-handbook/handbook_web.md:133
+#: content/opt-green-handbook/index.md:136
 msgid ""
 "Now let's assess the start of the lifecycle, when the device is produced. "
 "When a functioning device goes in the landfill, all of energy costs and "
@@ -9826,7 +9825,7 @@ msgstr ""
 "naprave. V večini primerov so emisije ogljika, povezane z proizvodnjo, močno "
 "nesorazmerne z uporabo."
 
-#: content/opt-green-handbook/handbook_web.md:135
+#: content/opt-green-handbook/index.md:138
 msgid ""
 "![A comparison of carbon emission proportions across three devices. The "
 "assumed product lifetime is 4 years for the laptop and desktop, and 6 years "
@@ -9855,7 +9854,7 @@ msgstr ""
 "sec1_embodied-vs-usage-proportions.png){#fig:co2prop width=400px "
 "height=262px}"
 
-#: content/opt-green-handbook/handbook_web.md:137
+#: content/opt-green-handbook/index.md:140
 msgid ""
 "<!--In a 2019 report from the International Energy Agency, the ICT sector is "
 "estimated to consume [2000 TWH of energy](https://dl.acm.org/doi/"
@@ -9878,7 +9877,7 @@ msgstr ""
 "energije v IKT se porabi za proizvodnjo naprav, toda kaj točno je ogljični "
 "odtis? \\cmt{CHECK}-->\n"
 
-#: content/opt-green-handbook/handbook_web.md:139
+#: content/opt-green-handbook/index.md:142
 msgid ""
 "Embodied carbon is critical when considering the carbon footprint of our "
 "devices. Consider three common end user devices: laptops, desktops, and "
@@ -9901,7 +9900,7 @@ msgstr ""
 "povečanje učinkovitosti novo proizvedenih naprav upravičilo njihov nakup. "
 "Poročilo navaja (poudarek dodan):"
 
-#: content/opt-green-handbook/handbook_web.md:141
+#: content/opt-green-handbook/index.md:144
 msgid ""
 "[T]he environmental impacts of the production phase of a [notebook](https://"
 "en.wiktionary.org/wiki/notebook_computer#English) are so high, that they "
@@ -9919,7 +9918,7 @@ msgstr ""
 "prenosnika upravičena šele *po 33 do 89 letih*, če se upoštevajo okoljski "
 "vidiki."
 
-#: content/opt-green-handbook/handbook_web.md:143
+#: content/opt-green-handbook/index.md:146
 msgid ""
 "In light of the e-waste problem and the embodied carbon of end user devices, "
 "let us return to that sentence which introduced this section. How did you "
@@ -9929,14 +9928,14 @@ msgstr ""
 "uporabnikov, se vrnimo k stavku, ki je uvedel ta razdelek. Kako ste "
 "zaključili to izjavo: »Najbolj okolju prijazna naprava je ...«?"
 
-#: content/opt-green-handbook/handbook_web.md:145
+#: content/opt-green-handbook/index.md:148
 msgid ""
 "Our response: **The most environmentally-friendly device is the one you "
 "already own!**"
 msgstr ""
 "Naš odgovor: **Najbolj okolju prijazna naprava je tista, ki jo že imate!**"
 
-#: content/opt-green-handbook/handbook_web.md:147
+#: content/opt-green-handbook/index.md:150
 msgid ""
 "![Image from KDE Eco [leaflet](https://invent.kde.org/teams/eco/opt-green/-/"
 "blob/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg) "
@@ -9948,7 +9947,7 @@ msgstr ""
 "(spremenjeno) objavljeno pod licenco [CC-BY-SA-4.0](https://spdx.org/"
 "licenses/CC-BY-SA-4.0.html).](images/sec1_leaflet.png)"
 
-#: content/opt-green-handbook/handbook_web.md:149
+#: content/opt-green-handbook/index.md:152
 msgid ""
 "Now let us consider *how* software increases the demands on hardware as well "
 "as *why* we often discard devices which still work in order to buy new ones. "
@@ -9958,11 +9957,11 @@ msgstr ""
 "opreme in *zakaj* pogosto zavržemo naprave, ki še vedno delujejo, da bi "
 "kupili nove. Da bi to storili, moramo pogledati na programsko opremo."
 
-#: content/opt-green-handbook/handbook_web.md:151
+#: content/opt-green-handbook/index.md:154
 msgid "Hardware, Meet Software"
 msgstr "Strojna oprema, sreča programsko opremo"
 
-#: content/opt-green-handbook/handbook_web.md:153
+#: content/opt-green-handbook/index.md:156
 msgid ""
 "Let us now turn to the middle of a device's lifecycle, that is, the years "
 "you use your computer."
@@ -9970,7 +9969,7 @@ msgstr ""
 "Poglejmo zdaj sredino življenjskega cikla naprave, torej leta uporabe "
 "računalnika."
 
-#: content/opt-green-handbook/handbook_web.md:155
+#: content/opt-green-handbook/index.md:158
 msgid ""
 "Software engineering has an important but often unseen role in defining our "
 "digital consumption patterns. There are often economic&mdash;and not "
@@ -10003,7 +10002,7 @@ msgstr ""
 "energetske učinkovitosti in varstva naravnih virov ni v strojni opremi, "
 "temveč predvsem v programski opremi\"."
 
-#: content/opt-green-handbook/handbook_web.md:157
+#: content/opt-green-handbook/index.md:160
 msgid ""
 "To understand a device's energy consumption and how software is involved, "
 "this section will explore three aspects:"
@@ -10011,7 +10010,7 @@ msgstr ""
 "Da bi razumeli porabo energije naprave in kako je pri tem vključena "
 "programska oprema, bomo v tem razdelku raziskali tri vidike:"
 
-#: content/opt-green-handbook/handbook_web.md:159
+#: content/opt-green-handbook/index.md:162
 msgid ""
 "*Demands* &mdash; Software determines energy consumption and minimum system "
 "requirements."
@@ -10019,7 +10018,7 @@ msgstr ""
 "*Zahteve* – Programska oprema določa porabo energije in minimalne sistemske "
 "zahteve."
 
-#: content/opt-green-handbook/handbook_web.md:160
+#: content/opt-green-handbook/index.md:163
 msgid ""
 "*Dependencies* &mdash; Software can hardcode dependencies on external "
 "services and companies."
@@ -10027,7 +10026,7 @@ msgstr ""
 "*Odvisnosti* – programska oprema lahko trdno kodira odvisnosti od zunanjih "
 "storitev in podjetij."
 
-#: content/opt-green-handbook/handbook_web.md:161
+#: content/opt-green-handbook/index.md:164
 msgid ""
 "*Longevity* &mdash; Software is responsible for how long devices remain "
 "(safely) in use."
@@ -10035,11 +10034,11 @@ msgstr ""
 "*Dolgoživost* – programska oprema je odgovorna za to, kako dolgo so naprave "
 "(varno) v uporabi."
 
-#: content/opt-green-handbook/handbook_web.md:163
+#: content/opt-green-handbook/index.md:166
 msgid "Hardware Demands"
 msgstr "Zahteve glede strojne opreme"
 
-#: content/opt-green-handbook/handbook_web.md:165
+#: content/opt-green-handbook/index.md:168
 msgid ""
 "Software consumes energy. Unwanted software components create inefficiencies "
 "and drive up hardware demands by occupying memory, wasting processing time, "
@@ -10066,7 +10065,7 @@ msgstr ""
 "(https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
 "%20215-202001-en-Criteria-V2.pdf)\":"
 
-#: content/opt-green-handbook/handbook_web.md:167
+#: content/opt-green-handbook/index.md:170
 msgid ""
 "Processing power has doubled about every two years since 1970. This means "
 "that functions are processed twice as fast and thus less energy is required "
@@ -10084,7 +10083,7 @@ msgstr ""
 "različice v različico vse bolj napuhnjena, tako da je za minimalno ali celo "
 "nič izboljšanja funkcionalnosti potrebnih več virov."
 
-#: content/opt-green-handbook/handbook_web.md:169
+#: content/opt-green-handbook/index.md:172
 msgid ""
 "What is more, data mining, advertising, third-party tracking, and "
 "personalized engagement-maximizing algorithms all drive up energy "
@@ -10121,7 +10120,7 @@ msgstr ""
 "sledenja in blokirali oglase. To je ogromno CO~2~ za nekaj, česar si večina "
 "uporabnikov sploh ne želi!"
 
-#: content/opt-green-handbook/handbook_web.md:171
+#: content/opt-green-handbook/index.md:174
 msgid ""
 "Meanwhile, systems bundled with Large Language Models and other forms of "
 "generative AI drive up not only hardware demands and energy consumption, "
@@ -10185,11 +10184,11 @@ msgstr ""
 "potrošnike](https://arstechnica.com/gadgets/2024/12/generative-ai-has-done-"
 "one-unambiguously-good-thing-for-pcs-and-macs-16gb-of-ram/) že zastarele."
 
-#: content/opt-green-handbook/handbook_web.md:173
+#: content/opt-green-handbook/index.md:176
 msgid "External Dependencies"
 msgstr "Zunanje odvisnosti"
 
-#: content/opt-green-handbook/handbook_web.md:175
+#: content/opt-green-handbook/index.md:178
 msgid ""
 "Network dependencies can play a critical role in hardware longevity. "
 "Underlying infrastructure which people may depend on to run an "
@@ -10221,7 +10220,7 @@ msgstr ""
 "zahtevajo dodatno obdelavo in s tem porabljajo vire in energijo, pogosto več "
 "kot je potrebno za predvideni namen programske opreme."
 
-#: content/opt-green-handbook/handbook_web.md:177
+#: content/opt-green-handbook/index.md:180
 msgid ""
 "As Ars Technica [reports](https://arstechnica.com/cars/2026/02/what-happens-"
 "to-a-car-when-the-company-behind-its-software-goes-under/) regarding "
@@ -10233,7 +10232,7 @@ msgstr ""
 "definiranih avtomobilov, ki se zanašajo na \"centralizirane strežnike, "
 "naročnine in lastniško programsko opremo\":"
 
-#: content/opt-green-handbook/handbook_web.md:179
+#: content/opt-green-handbook/index.md:182
 msgid ""
 "The lesson is clear: In today’s cars, the engine or electric motor isn’t "
 "always what keeps you moving&mdash;the software does. When that software "
@@ -10251,11 +10250,11 @@ msgstr ""
 "njegove kode. Ko ta koda umre, postane dovoz ali avtocesta – ne pa servisna "
 "delavnica – zadnja postaja."
 
-#: content/opt-green-handbook/handbook_web.md:181
+#: content/opt-green-handbook/index.md:184
 msgid "Device Longevity"
 msgstr "Dolgoživost naprave"
 
-#: content/opt-green-handbook/handbook_web.md:183
+#: content/opt-green-handbook/index.md:186
 msgid ""
 "All of this additional processing to run bloated software or have integrated "
 "generative AI tools in user applications (whether you want it or not), to "
@@ -10283,7 +10282,7 @@ msgstr ""
 "jo hitreje obrabijo. Vprašanje je: Ali ste si sploh želeli te dodatne "
 "zmožnosti? In ali jo lahko odstranite, če želite?"
 
-#: content/opt-green-handbook/handbook_web.md:185
+#: content/opt-green-handbook/index.md:188
 msgid ""
 "There is another common way that software can render a device obsolete. "
 "Software [end-of-life](https://en.wikipedia.org/wiki/"
@@ -10314,7 +10313,7 @@ msgstr ""
 "programska oprema mora prejemati posodobitve, da bodo vaši podatki varni. "
 "Več o tem v naslednjem delu tega priročnika."
 
-#: content/opt-green-handbook/handbook_web.md:187
+#: content/opt-green-handbook/index.md:190
 msgid ""
 "In Part I, we have explored the environmental harm of digitization and "
 "identified several ways software can render a functioning device obsolete. "
@@ -10329,11 +10328,11 @@ msgstr ""
 "zagotavljanju nadaljnje podpore napravam. Najprej pa se vprašajmo: Ali se "
 "res splača osredotočiti na programsko opremo?"
 
-#: content/opt-green-handbook/handbook_web.md:189
+#: content/opt-green-handbook/index.md:192
 msgid "Is Focusing On Software Worth It?"
 msgstr "Ali se splača osredotočiti na programsko opremo?"
 
-#: content/opt-green-handbook/handbook_web.md:191
+#: content/opt-green-handbook/index.md:194
 msgid ""
 "In the bigger picture, the environmental harm driven by software may be less "
 "significant when compared to other industries. Therefore it seems reasonable "
@@ -10343,7 +10342,7 @@ msgstr ""
 "morda manjša v primerjavi z drugimi panogami. Zato se zdi smiselno vprašati: "
 "Ali se splača obravnavati to?"
 
-#: content/opt-green-handbook/handbook_web.md:193
+#: content/opt-green-handbook/index.md:196
 msgid ""
 "There are a few things we might consider here. The first is a rejection of "
 "the [\"Not As Bad As\"](https://rationalwiki.org/wiki/Not_as_bad_as) "
@@ -10368,7 +10367,7 @@ msgstr ""
 "ene ali druge težave, medtem ko je v resnici okolju prijazna zasnova "
 "programske opreme le en delček večje sestavljanke."
 
-#: content/opt-green-handbook/handbook_web.md:195
+#: content/opt-green-handbook/index.md:198
 msgid ""
 "![XKCD comic [\"2368: Bigger Problem\"](https://xkcd.com/2368/) (published "
 "under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5.html) "
@@ -10378,7 +10377,7 @@ msgstr ""
 "under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5.html) "
 "license).](images/sec1_bigger_problem.png)"
 
-#: content/opt-green-handbook/handbook_web.md:197
+#: content/opt-green-handbook/index.md:200
 msgid ""
 "Let's not [be like XKCD's](https://www.explainxkcd.com/wiki/index.php/2368:"
 "_Bigger_Problem) White Hat, and appeal to worse problems as an excuse to do "
@@ -10388,7 +10387,7 @@ msgstr ""
 "_Bigger_Problem) beli klobuki in se ne sklicujmo na hujše težave kot "
 "izgovor, da ne storimo ničesar!"
 
-#: content/opt-green-handbook/handbook_web.md:199
+#: content/opt-green-handbook/index.md:202
 msgid ""
 "Second, focusing only on fixing the \"biggest problem\" is not necessarily "
 "the most effective strategy. It's also important to weigh the likelihood of "
@@ -10410,7 +10409,7 @@ msgstr ""
 "posodabljanje in vzdrževanje programske opreme brez odvisnosti od "
 "prodajalcev ali umetnih omejitev, pogosto po nižjih stroških."
 
-#: content/opt-green-handbook/handbook_web.md:201
+#: content/opt-green-handbook/index.md:204
 msgid ""
 "Finally, it's hopefully clear by now that software *does* significantly "
 "contribute to energy and resource consumption as well as waste, and these "
@@ -10420,7 +10419,7 @@ msgstr ""
 "prispeva k porabi energije in virov ter k odpadkom, in ti prispevki se bodo "
 "le še poslabšali, če ne bomo naredili resničnih sprememb."
 
-#: content/opt-green-handbook/handbook_web.md:203
+#: content/opt-green-handbook/index.md:206
 msgid ""
 "Changing our software and using our hardware more sustainably may seem like "
 "a small gesture in addressing an issue as complex as climate change. It's "
@@ -10439,7 +10438,7 @@ msgstr ""
 "upravljati na individualni ravni. Vendar pomislite, kaj je nekoč pripomnila "
 "antropologinja Margaret Mead:"
 
-#: content/opt-green-handbook/handbook_web.md:205
+#: content/opt-green-handbook/index.md:208
 msgid ""
 "\"Never doubt that a small group of thoughtful, committed citizens can "
 "change the world; indeed, it’s the only thing that ever has.\""
@@ -10448,7 +10447,7 @@ msgstr ""
 "državljanov spremeni svet; pravzaprav je to edino, kar ga je kdajkoli "
 "spremenilo.«"
 
-#: content/opt-green-handbook/handbook_web.md:207
+#: content/opt-green-handbook/index.md:210
 msgid ""
 "Structural change happens when dedicated, passionate people organize to "
 "confront pressing societal issues. With decades of experience successfully "
@@ -10468,7 +10467,7 @@ msgstr ""
 "se v boju proti okoljski škodi, ki jo povzroča programska oprema. "
 "Spodbujajmo kulturo digitalne trajnosti v naših skupnostih in drugod."
 
-#: content/opt-green-handbook/handbook_web.md:210
+#: content/opt-green-handbook/index.md:213
 msgid ""
 "What does the environmental impact of software have to do with Free & Open "
 "Source Software? Before we explore this topic in detail, let's first take a "
@@ -10480,11 +10479,11 @@ msgstr ""
 "kaj točno je FOSS in kako se razlikuje od svojega ekvivalenta, lastniške "
 "programske opreme."
 
-#: content/opt-green-handbook/handbook_web.md:212
+#: content/opt-green-handbook/index.md:215
 msgid "What Is Free & Open Source Software (FOSS)?"
 msgstr "Kaj je prosta in odprtokodna programska oprema (FOSS)?"
 
-#: content/opt-green-handbook/handbook_web.md:214
+#: content/opt-green-handbook/index.md:217
 msgid ""
 "Free & Open Source Software, often referred to by its acronym FOSS, is "
 "software available under a license that guarantees users certain rights. "
@@ -10506,7 +10505,7 @@ msgstr ""
 "jih prinaša licenca za programsko opremo. Govorimo o pomenu besede »prosto«, "
 "kot v besedni zvezi »svobodna družba«!"
 
-#: content/opt-green-handbook/handbook_web.md:216
+#: content/opt-green-handbook/index.md:219
 msgid ""
 "![Screenshot illustrating the four essential freedoms to use, study, share, "
 "and improve software. Image from video \"What is Free Software (Open "
@@ -10519,7 +10518,7 @@ msgstr ""
 "programske opreme, razložena v manj kot treh minutah!« iz FSFE.](images/"
 "sec2_fsfe-free-software.png)"
 
-#: content/opt-green-handbook/handbook_web.md:218
+#: content/opt-green-handbook/index.md:221
 msgid ""
 "What do each of these rights mean, exactly? The Free Software Foundation "
 "Europe (FSFE) [explains](https://fsfe.org/freesoftware/index.en.html):"
@@ -10528,7 +10527,7 @@ msgstr ""
 "programsko opremo (FSFE) [pojasnjuje](https://fsfe.org/freesoftware/index.en."
 "html):"
 
-#: content/opt-green-handbook/handbook_web.md:220
+#: content/opt-green-handbook/index.md:223
 msgid ""
 "*Use*: FOSS \"can be used for any purpose and is free of restrictions such "
 "as licence expiry or geographic limitations.\""
@@ -10536,7 +10535,7 @@ msgstr ""
 "*Uporaba*: FOSS \"se lahko uporablja za kateri koli namen in je brez "
 "omejitev, kot so poteki licence ali geografske omejitve.\""
 
-#: content/opt-green-handbook/handbook_web.md:221
+#: content/opt-green-handbook/index.md:224
 msgid ""
 "*Study*: FOSS \"and its code can be studied by anyone, without non‐"
 "disclosure agreements or similar restrictions.\""
@@ -10544,11 +10543,11 @@ msgstr ""
 "*Študija*: FOSS \"in njegovo kodo lahko preučuje kdorkoli, brez sporazumov o "
 "nerazkritju ali podobnih omejitev.\""
 
-#: content/opt-green-handbook/handbook_web.md:222
+#: content/opt-green-handbook/index.md:225
 msgid "*Share*: FOSS \"can be shared and copied at virtually no cost.\""
 msgstr "*Deljenje*: FOSS \"se lahko deli in kopira praktično brez stroškov.\""
 
-#: content/opt-green-handbook/handbook_web.md:223
+#: content/opt-green-handbook/index.md:226
 msgid ""
 "*Improve*: FOSS \"can be modified by anyone, and these improvements can be "
 "shared publicly.\""
@@ -10556,7 +10555,7 @@ msgstr ""
 "*Izboljšanje*: FOSS \"se lahko spreminja kdorkoli, te izboljšave pa se lahko "
 "javno delijo.\""
 
-#: content/opt-green-handbook/handbook_web.md:225
+#: content/opt-green-handbook/index.md:228
 msgid ""
 "The video [\"What is Free Software (Open Source)?\"](https://media.fsfe.org/"
 "w/p/9gYSyoEYggsqBExLWjRejL?playlistPosition=1) from the FSFE provides a "
@@ -10569,7 +10568,7 @@ msgstr ""
 "kratek uvod v temo FOSS in njegov pomen za družbo. Oglejte si ga, če želite "
 "več informacij o povezavi med programsko opremo in svobodo."
 
-#: content/opt-green-handbook/handbook_web.md:227
+#: content/opt-green-handbook/index.md:230
 msgid ""
 "A whole section about software licenses?! How boring! Well, it may sound dry "
 "and technical, but it is actually quite exciting. Really. And we hope you "
@@ -10589,7 +10588,7 @@ msgstr ""
 "neprofitnih organizacij, bolnišnic in tako naprej. Danes se vsi zanašajo na "
 "digitalno tehnologijo. In vsa ta tehnologija zahteva programsko opremo."
 
-#: content/opt-green-handbook/handbook_web.md:229
+#: content/opt-green-handbook/index.md:232
 msgid ""
 "Since this software is shaping our lives and communities, shouldn't we have "
 "a say in how it works? [KDE](https://kde.org/community/whatiskde/), the Free "
@@ -10604,7 +10603,7 @@ msgstr ""
 "Vision). Lepo povzema svet, za katerega si prizadevajo FOSS in njegovi "
 "podporniki."
 
-#: content/opt-green-handbook/handbook_web.md:231
+#: content/opt-green-handbook/index.md:234
 msgid ""
 "\"A world in which everyone has control over their digital life and enjoys "
 "freedom and privacy.\""
@@ -10612,7 +10611,7 @@ msgstr ""
 "\"Svet, v katerem ima vsakdo nadzor nad svojim digitalnim življenjem in "
 "uživa svobodo in zasebnost.\""
 
-#: content/opt-green-handbook/handbook_web.md:233
+#: content/opt-green-handbook/index.md:236
 msgid ""
 "KDE Eco would only add: \"… enjoys freedom, privacy, *and a more sustainable "
 "use of digital technology*\"!"
@@ -10620,7 +10619,7 @@ msgstr ""
 "KDE Eco bi dodal le: \"… uživa svobodo, zasebnost *in bolj trajnostno "
 "uporabo digitalne tehnologije*\"!"
 
-#: content/opt-green-handbook/handbook_web.md:235
+#: content/opt-green-handbook/index.md:238
 msgid ""
 "In this text we use the term Free & Open Source Software, but the reader may "
 "also come across the [terms](https://fsfe.org/freesoftware/index.en."
@@ -10637,11 +10636,11 @@ msgstr ""
 "opreme. In te pravice so neposredno povezane z dostopnostjo izvorne kode "
 "programske opreme."
 
-#: content/opt-green-handbook/handbook_web.md:237
+#: content/opt-green-handbook/index.md:240
 msgid "What Is Source Code?"
 msgstr "Kaj je izvorna koda?"
 
-#: content/opt-green-handbook/handbook_web.md:239
+#: content/opt-green-handbook/index.md:242
 msgid ""
 "FOSS's opposite is \"proprietary software\". Proprietary software is "
 "licensed to give users no agency over the code behind the software they use. "
@@ -10653,15 +10652,15 @@ msgstr ""
 "na kodo programske opreme, ki jo uporabljajo. Pravzaprav se lastniška "
 "programska oprema običajno distribuira z nerazkrito izvorno kodo."
 
-#: content/opt-green-handbook/handbook_web.md:241
+#: content/opt-green-handbook/index.md:244
 msgid "Wait a minute, what is source code, you wonder?"
 msgstr "Počakajte malo, kaj je izvorna koda, se sprašujete?"
 
-#: content/opt-green-handbook/handbook_web.md:243
+#: content/opt-green-handbook/index.md:246
 msgid "Actually, what is software for that matter?"
 msgstr "Kaj pa pravzaprav je programska oprema?"
 
-#: content/opt-green-handbook/handbook_web.md:245
+#: content/opt-green-handbook/index.md:248
 msgid ""
 "At its most basic, software is a recipe for the computer. Programmers write "
 "the recipes in \"source code\", which is, simply put, a human-readable set "
@@ -10679,7 +10678,7 @@ msgstr ""
 "– celo vi! Pravzaprav poskusite sami: Ali lahko uganete, kaj počne spodnja "
 "izvorna koda?[^2]"
 
-#: content/opt-green-handbook/handbook_web.md:247
+#: content/opt-green-handbook/index.md:250
 msgid ""
 "[^2]: Example from E. Buckman \\& Joshua Gray, ``A Note On Software'' in "
 "*[Free Software, Free Society (First Edition)](https://dn790008.ca.archive."
@@ -10690,7 +10689,7 @@ msgstr ""
 "Software, Free Society (Prva izdaja)](https://dn790008.ca.archive.org/0/"
 "items/Free_Software_Free_Society/Free_Software_Free_Society.pdf)*."
 
-#: content/opt-green-handbook/handbook_web.md:256
+#: content/opt-green-handbook/index.md:259
 msgid ""
 "You probably guessed correctly: it prints the phrase \"Hello World!\" on the "
 "screen. Even if you know nothing about the programming language (a language "
@@ -10707,7 +10706,7 @@ msgstr ""
 "neprogramer. Na primer, če govorite drug jezik, lahko prevedete besedilo, "
 "natisnjeno na zaslonu, ali pa ga napišete tako, da pove nekaj povsem drugega."
 
-#: content/opt-green-handbook/handbook_web.md:258
+#: content/opt-green-handbook/index.md:261
 msgid ""
 "This source code, this recipe, is great for humans, but it is actually not "
 "so great for computers. A computer requires the recipe to be encoded in "
@@ -10725,7 +10724,7 @@ msgstr ""
 "računalniško prijazno binarno kodo. Hura! Razmislite o istem lahko berljivem "
 "delčku kode zgoraj, vendar zdaj v binarni obliki:"
 
-#: content/opt-green-handbook/handbook_web.md:269
+#: content/opt-green-handbook/index.md:272
 msgid ""
 "Can you read this code? Can you do anything with it? Modify it in some "
 "meaningful way? Fret not, no human can! Proprietary software is typically "
@@ -10746,7 +10745,7 @@ msgstr ""
 "vedeti, kako je bila torta narejena in s katerimi sestavinami, in je "
 "zagotovo ne morete spremeniti."
 
-#: content/opt-green-handbook/handbook_web.md:271
+#: content/opt-green-handbook/index.md:274
 msgid ""
 "[^3]: Although \"decompilers\" which convert binary code back into source "
 "code do exist, the output is often distorted from the original and can be "
@@ -10756,12 +10755,12 @@ msgstr ""
 "izvorno kodo, je izhod pogosto popačen glede na izvirnik in ga je lahko "
 "težko razumeti."
 
-#: content/opt-green-handbook/handbook_web.md:273
+#: content/opt-green-handbook/index.md:276
 msgid "In short, whoever controls the recipe will decide the cake we eat."
 msgstr ""
 "Skratka, kdor koli nadzoruje recept, bo odločal o torti, ki jo bomo jedli."
 
-#: content/opt-green-handbook/handbook_web.md:275
+#: content/opt-green-handbook/index.md:278
 msgid ""
 "If only we were just talking about recipes for cake! In fact, what we are "
 "talking about is the code shaping every aspect of life in the digital age, "
@@ -10775,7 +10774,7 @@ msgstr ""
 "raziskav. In vse ostalo, kar ves čas počnemo z našimi računalniki in "
 "pametnimi telefoni."
 
-#: content/opt-green-handbook/handbook_web.md:277
+#: content/opt-green-handbook/index.md:280
 msgid ""
 "In contrast to proprietary software, FOSS ensures the rights of users to "
 "access source code and do things with the software independently from the "
@@ -10792,7 +10791,7 @@ msgstr ""
 "spreminjanja navsezadnje povezana s pravicami, ki jih imamo kot ljudje in "
 "družba."
 
-#: content/opt-green-handbook/handbook_web.md:279
+#: content/opt-green-handbook/index.md:282
 msgid ""
 "What we are talking about is control and freedom&mdash;and it has big "
 "implications for us and for the environment. That is very exciting, isn't "
@@ -10801,7 +10800,7 @@ msgstr ""
 "Govorimo o nadzoru in svobodi – in to ima velike posledice za nas in za "
 "okolje. To je zelo razburljivo, kajne?!"
 
-#: content/opt-green-handbook/handbook_web.md:281
+#: content/opt-green-handbook/index.md:284
 msgid ""
 "There are many misconceptions of FOSS which we address in an appendix at the "
 "end of this chapter, continuing with the analogy to recipes. If you're "
@@ -10817,15 +10816,15 @@ msgstr ""
 "druga podobna vprašanja, lahko skočite na konec tega razdelka, kjer boste "
 "našli nekaj odgovorov!"
 
-#: content/opt-green-handbook/handbook_web.md:283
+#: content/opt-green-handbook/index.md:286
 msgid "FOSS Is Better For The Environment"
 msgstr "FOSS je boljši za okolje"
 
-#: content/opt-green-handbook/handbook_web.md:285
+#: content/opt-green-handbook/index.md:288
 msgid "Improving Code&mdash;By Users & For Users"
 msgstr "Izboljšanje kode &mdash; s strani uporabnikov in za uporabnike"
 
-#: content/opt-green-handbook/handbook_web.md:287
+#: content/opt-green-handbook/index.md:290
 msgid ""
 "With FOSS, the source code can be modified to ensure that the software is "
 "not doing things unnecessarily, thus reducing the hardware demands, saving "
@@ -10849,7 +10848,7 @@ msgstr ""
 "stvar in dosegajo enak rezultat, na strojno opremo postavljata različne "
 "zahteve in imata drastično različne energijske profile."
 
-#: content/opt-green-handbook/handbook_web.md:289
+#: content/opt-green-handbook/index.md:292
 msgid ""
 "The study included a comparison of two word processing programs: Word "
 "Processor 1 is identified as \"Open Source\", while Word Processor 2 is "
@@ -10865,7 +10864,7 @@ msgstr ""
 "besedil 2 je porabilo štirikrat več energije v primerjavi z urejevalnikom "
 "besedil 1 – in to je treba poudariti, da bi opravilo isto nalogo!"
 
-#: content/opt-green-handbook/handbook_web.md:291
+#: content/opt-green-handbook/index.md:294
 msgid ""
 "![Plot comparing two word processors during execution of a Standard Usage "
 "Scenario script. Word Processor 1 is an Open Source program. This word "
@@ -10882,7 +10881,7 @@ msgstr ""
 "je prirejena po poročilu Nemške agencije za okolje.)](images/sec2_uba-sus."
 "png)"
 
-#: content/opt-green-handbook/handbook_web.md:293
+#: content/opt-green-handbook/index.md:296
 msgid ""
 "Looking at the two word processors' power use over time, it's also clear how "
 "the two programs behave quite differently … and perhaps contrary to what you "
@@ -10911,7 +10910,7 @@ msgstr ""
 "odjavijo od te vrste analitike? No, to je odvisno od zasnove programske "
 "opreme."
 
-#: content/opt-green-handbook/handbook_web.md:295
+#: content/opt-green-handbook/index.md:298
 msgid ""
 "![Plot comparing two word processors over time when running the Standard "
 "Usage Scenario script. The Open Source Word Processor 1 (*top*) goes into an "
@@ -10936,7 +10935,7 @@ msgstr ""
 "ND-4.0.html); posnetek zaslona objavljen tukaj z dovoljenjem.)](images/"
 "sec2_energy-consumption_time.png)"
 
-#: content/opt-green-handbook/handbook_web.md:297
+#: content/opt-green-handbook/index.md:300
 msgid ""
 "In these cases, user autonomy can make a big difference in the energy "
 "profile of a software product. Proprietary software may provide some "
@@ -10963,7 +10962,7 @@ msgstr ""
 "odkrije in izboljša neučinkovitosti – kar je pri lastniški programski opremi "
 "preprosto nemogoče."
 
-#: content/opt-green-handbook/handbook_web.md:299
+#: content/opt-green-handbook/index.md:302
 msgid ""
 "Do changes in code efficiency really matter? At scale, they most certainly "
 "do! Given that applications such as word processors run in just about every "
@@ -10995,7 +10994,7 @@ msgstr ""
 "v porabi energije« – kar pomeni, da bodo majhne spremembe prinesle velike "
 "rezultate."
 
-#: content/opt-green-handbook/handbook_web.md:301
+#: content/opt-green-handbook/index.md:304
 msgid ""
 "Just one example has been discussed here, but the same logic applies to "
 "other examples of software's hardware demands, external dependencies, and "
@@ -11017,11 +11016,11 @@ msgstr ""
 "trajnostno uporabo virov. Zdaj se bomo posvetili temu, kaj to pomeni posebej "
 "za življenjsko dobo strojne opreme."
 
-#: content/opt-green-handbook/handbook_web.md:303
+#: content/opt-green-handbook/index.md:306
 msgid "FOSS Isn't Made For Only The Latest And Greatest"
 msgstr "FOSS ni narejen samo za najnovejše in najboljše"
 
-#: content/opt-green-handbook/handbook_web.md:305
+#: content/opt-green-handbook/index.md:308
 msgid ""
 "FOSS helps keep older models of hardware in action, operating long past the "
 "point that proprietary software might have made them obsolete. Let's discuss "
@@ -11034,7 +11033,7 @@ msgstr ""
 "naprav in kaj lahka, neodvisna programska oprema pomeni za trajnostno "
 "uporabo strojne opreme."
 
-#: content/opt-green-handbook/handbook_web.md:307
+#: content/opt-green-handbook/index.md:310
 msgid ""
 "First, software determines not only how much energy hardware needs, it also "
 "determines how powerful hardware must be to run the software. Consider the "
@@ -11054,26 +11053,26 @@ msgstr ""
 "prejemajo varnostne posodobitve od začetka leta 2026, pri čemer je Sonoma "
 "najstarejša različica macOS, ki jo Apple še vedno podpira."
 
-#: content/opt-green-handbook/handbook_web.md:309
+#: content/opt-green-handbook/index.md:312
 msgid "Proprietary OS"
 msgstr "Lastniški operacijski sistem"
 
-#: content/opt-green-handbook/handbook_web.md:309
-#: content/opt-green-handbook/handbook_web.md:317
+#: content/opt-green-handbook/index.md:312
+#: content/opt-green-handbook/index.md:320
 msgid "RAM"
 msgstr "RAM"
 
-#: content/opt-green-handbook/handbook_web.md:309
-#: content/opt-green-handbook/handbook_web.md:317
+#: content/opt-green-handbook/index.md:312
+#: content/opt-green-handbook/index.md:320
 msgid "Processor"
 msgstr "Procesor"
 
-#: content/opt-green-handbook/handbook_web.md:309
-#: content/opt-green-handbook/handbook_web.md:317
+#: content/opt-green-handbook/index.md:312
+#: content/opt-green-handbook/index.md:320
 msgid "Storage"
 msgstr "Shramba"
 
-#: content/opt-green-handbook/handbook_web.md:311
+#: content/opt-green-handbook/index.md:314
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
@@ -11081,57 +11080,57 @@ msgstr ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
 
-#: content/opt-green-handbook/handbook_web.md:311
-#: content/opt-green-handbook/handbook_web.md:321
+#: content/opt-green-handbook/index.md:314
+#: content/opt-green-handbook/index.md:324
 msgid "4 GB"
 msgstr "4 GB"
 
-#: content/opt-green-handbook/handbook_web.md:311
+#: content/opt-green-handbook/index.md:314
 msgid "certain 64 bit processors"
 msgstr "nekateri 64-bitni procesorji"
 
-#: content/opt-green-handbook/handbook_web.md:311
+#: content/opt-green-handbook/index.md:314
 msgid "64 GB"
 msgstr "64 GB"
 
-#: content/opt-green-handbook/handbook_web.md:312
+#: content/opt-green-handbook/index.md:315
 msgid "+ Copilot genAI"
 msgstr "+ Copilot genAI"
 
-#: content/opt-green-handbook/handbook_web.md:312
+#: content/opt-green-handbook/index.md:315
 msgid "16 GB"
 msgstr "16 GB"
 
-#: content/opt-green-handbook/handbook_web.md:312
+#: content/opt-green-handbook/index.md:315
 msgid "+ NPU"
 msgstr "+ NPU"
 
-#: content/opt-green-handbook/handbook_web.md:312
+#: content/opt-green-handbook/index.md:315
 msgid "256 GB"
 msgstr "256 GB"
 
-#: content/opt-green-handbook/handbook_web.md:313
+#: content/opt-green-handbook/index.md:316
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 msgstr "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 
-#: content/opt-green-handbook/handbook_web.md:313
-#: content/opt-green-handbook/handbook_web.md:320
+#: content/opt-green-handbook/index.md:316
+#: content/opt-green-handbook/index.md:323
 msgid "8 GB"
 msgstr "8 GB"
 
-#: content/opt-green-handbook/handbook_web.md:313
-#: content/opt-green-handbook/handbook_web.md:319
-#: content/opt-green-handbook/handbook_web.md:320
-#: content/opt-green-handbook/handbook_web.md:321
-#: content/opt-green-handbook/handbook_web.md:322
+#: content/opt-green-handbook/index.md:316
+#: content/opt-green-handbook/index.md:322
+#: content/opt-green-handbook/index.md:323
+#: content/opt-green-handbook/index.md:324
+#: content/opt-green-handbook/index.md:325
 msgid "64 bit"
 msgstr "64 bit"
 
-#: content/opt-green-handbook/handbook_web.md:313
+#: content/opt-green-handbook/index.md:316
 msgid "25 GB"
 msgstr "25 GB"
 
-#: content/opt-green-handbook/handbook_web.md:315
+#: content/opt-green-handbook/index.md:318
 msgid ""
 "The proprietary operating systems have generally higher minimum system "
 "requirements and no low-end hardware support. By contrast, when considering "
@@ -11158,11 +11157,11 @@ msgstr ""
 "težave z [napihnjenostjo programske opreme](https://en.wikipedia.org/wiki/"
 "Software_bloat) manj pomembne."
 
-#: content/opt-green-handbook/handbook_web.md:317
+#: content/opt-green-handbook/index.md:320
 msgid "FOSS-based OS"
 msgstr "Operacijski sistem, ki temelji na prosti in odprti kodi"
 
-#: content/opt-green-handbook/handbook_web.md:319
+#: content/opt-green-handbook/index.md:322
 msgid ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
@@ -11170,65 +11169,65 @@ msgstr ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:319
-#: content/opt-green-handbook/handbook_web.md:320
-#: content/opt-green-handbook/handbook_web.md:322
+#: content/opt-green-handbook/index.md:322
+#: content/opt-green-handbook/index.md:323
+#: content/opt-green-handbook/index.md:325
 msgid "2 GB"
 msgstr "2 GB"
 
-#: content/opt-green-handbook/handbook_web.md:319
+#: content/opt-green-handbook/index.md:322
 msgid "15 GB"
 msgstr "15 GB"
 
-#: content/opt-green-handbook/handbook_web.md:320
+#: content/opt-green-handbook/index.md:323
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 msgstr "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:321
+#: content/opt-green-handbook/index.md:324
 msgid ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 msgstr ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:321
-#: content/opt-green-handbook/handbook_web.md:323
+#: content/opt-green-handbook/index.md:324
+#: content/opt-green-handbook/index.md:326
 msgid "512 MB"
 msgstr "512 MB"
 
-#: content/opt-green-handbook/handbook_web.md:322
+#: content/opt-green-handbook/index.md:325
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 msgstr "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 
-#: content/opt-green-handbook/handbook_web.md:322
+#: content/opt-green-handbook/index.md:325
 msgid "512 MiB"
 msgstr "512 MiB"
 
-#: content/opt-green-handbook/handbook_web.md:323
+#: content/opt-green-handbook/index.md:326
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 msgstr "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 
-#: content/opt-green-handbook/handbook_web.md:323
-#: content/opt-green-handbook/handbook_web.md:324
+#: content/opt-green-handbook/index.md:326
+#: content/opt-green-handbook/index.md:327
 msgid "32 or 64 bit"
 msgstr "32 ali 64 bitov"
 
-#: content/opt-green-handbook/handbook_web.md:323
+#: content/opt-green-handbook/index.md:326
 msgid "1 GB"
 msgstr "1 GB"
 
-#: content/opt-green-handbook/handbook_web.md:324
+#: content/opt-green-handbook/index.md:327
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
 msgstr "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
 
-#: content/opt-green-handbook/handbook_web.md:324
+#: content/opt-green-handbook/index.md:327
 msgid "384 MiB"
 msgstr "384 MiB"
 
-#: content/opt-green-handbook/handbook_web.md:324
+#: content/opt-green-handbook/index.md:327
 msgid "1.5 GB"
 msgstr "1.5 GB"
 
-#: content/opt-green-handbook/handbook_web.md:327
+#: content/opt-green-handbook/index.md:330
 msgid ""
 "By contrast, the base operating systems in the FOSS ecosystem typically are "
 "just that, a base system, with fewer background services and applications, "
@@ -11244,7 +11243,7 @@ msgstr ""
 "programske opreme, nameščene na njem, kot so namizno okolje, upravitelj oken "
 "in aplikacije. Ta višja raven prilagajanja pomeni večji nadzor uporabnikov."
 
-#: content/opt-green-handbook/handbook_web.md:329
+#: content/opt-green-handbook/index.md:332
 msgid ""
 "It is not just end users that customize the systems. Many FOSS distributions "
 "(or distros) build on these base systems and distribute them along with "
@@ -11270,7 +11269,7 @@ msgstr ""
 "raven prilagajanja, ponuja veliko večjo variabilnost pri podpori strojne "
 "opreme, vključno z nadaljnjo podporo za naprave nižjega cenovnega razreda."
 
-#: content/opt-green-handbook/handbook_web.md:331
+#: content/opt-green-handbook/index.md:334
 msgid ""
 "Keep in mind that aging machines which merely satisfy the minimum technical "
 "requirements might not meet today's expectations of speed and convenience. "
@@ -11285,7 +11284,7 @@ msgstr ""
 "uporabnik. Kljub temu lahko desetletja stari računalniki s FOSS še vedno "
 "poganjajo posodobljeno programsko opremo!"
 
-#: content/opt-green-handbook/handbook_web.md:333
+#: content/opt-green-handbook/index.md:336
 msgid ""
 "By imposing computationally expensive \"features\" and restricting who can "
 "modify source code, proprietary software excludes hardware from ongoing "
@@ -11307,7 +11306,7 @@ msgstr ""
 "in energije. Vendar pa FOSS dovoljuje vsakomur, da še naprej podpira katero "
 "koli strojno opremo, če se tako odloči, lastniške licence to preprečujejo."
 
-#: content/opt-green-handbook/handbook_web.md:335
+#: content/opt-green-handbook/index.md:338
 msgid ""
 "If you aim to buy a new device, these may be all non-issues for you. "
 "However, if you already own a computer&mdash;one that still functions but is "
@@ -11325,11 +11324,11 @@ msgstr ""
 "posodobitvami. Posodobitve programske opreme so pomemben del te zgodbe in "
 "glavna tema naslednjega razdelka."
 
-#: content/opt-green-handbook/handbook_web.md:337
+#: content/opt-green-handbook/index.md:340
 msgid "Software Is Buggy, And That's Risky"
 msgstr "Programska oprema je polna hroščev in to je tvegano"
 
-#: content/opt-green-handbook/handbook_web.md:339
+#: content/opt-green-handbook/index.md:342
 msgid ""
 "Software contains defects, known as bugs. All software, whether it is "
 "[Windows](https://www.microsoft.com/en-us/security/blog/threat-intelligence/"
@@ -11363,7 +11362,7 @@ msgstr ""
 "licenses/by-sa/3.0/deed.en)).](images/sec2_Harvard_Mark_I_program_tape.agr."
 "jpg)"
 
-#: content/opt-green-handbook/handbook_web.md:341
+#: content/opt-green-handbook/index.md:344
 msgid ""
 "![A patch with program tape on the Harvard Mark I, one of the first digital "
 "computers (image from [Wikipedia](https://en.wikipedia.org/wiki/File:"
@@ -11377,7 +11376,7 @@ msgstr ""
 "(https://creativecommons.org/licenses/by-sa/3.0/deed.en)).](images/"
 "sec2_Harvard_Mark_I_program_tape.agr.jpg)"
 
-#: content/opt-green-handbook/handbook_web.md:343
+#: content/opt-green-handbook/index.md:346
 msgid ""
 "So how do we keep our systems secure? Just as you would patch a hole in "
 "clothing with a tear in it, software gets \"patched\" to fix defects. In "
@@ -11407,7 +11406,7 @@ msgstr ""
 "security-pros-about-staying-safe-online/) uvrščajo med najpomembnejše "
 "varnostne prakse, ki jih lahko uvedete."
 
-#: content/opt-green-handbook/handbook_web.md:345
+#: content/opt-green-handbook/index.md:348
 msgid ""
 "Security updates are essential. Any device requiring software to run, "
 "whether it is a laptop or smartphone or automobile, requires software "
@@ -11446,7 +11445,7 @@ msgstr ""
 "party-software-component-may-introduce) bodo morda še vedno potrebovali "
 "popravke za odpravo napak."
 
-#: content/opt-green-handbook/handbook_web.md:347
+#: content/opt-green-handbook/index.md:350
 msgid ""
 "![Logo for the \"[End Of 10](https://endof10.org/)\". The campaign helps new "
 "users find in-person support with Linux. ([Image](https://invent.kde.org/"
@@ -11460,7 +11459,7 @@ msgstr ""
 "objavljena pod licenco [CC BY 4.0](https://creativecommons.org/licenses/"
 "by/4.0/).)](images/sec2_social-media-avatar-circle.png)"
 
-#: content/opt-green-handbook/handbook_web.md:349
+#: content/opt-green-handbook/index.md:352
 msgid ""
 "What is referred to as the [End of Life](https://en.wikipedia.org/wiki/"
 "Software_release_life_cycle#End-of-life) for software means that no new "
@@ -11497,7 +11496,7 @@ msgstr ""
 "zaradi česar imajo uporabniki teh zapuščenih naprav nepodprto programsko "
 "opremo in so v ranljivem položaju."
 
-#: content/opt-green-handbook/handbook_web.md:351
+#: content/opt-green-handbook/index.md:354
 msgid ""
 "Although Windows 10 computers may still turn on and be \"usable\" after "
 "support ends, newer applications will eventually stop working, and, most "
@@ -11523,12 +11522,12 @@ msgstr ""
 "pomeni izdelavo in transport nove, kar pa ima ogromne ekološke stroške. "
 "Spomnimo se:"
 
-#: content/opt-green-handbook/handbook_web.md:353
+#: content/opt-green-handbook/index.md:356
 msgid ""
 "**The most environmentally-friendly device is the one you already own.**"
 msgstr "**Najbolj okolju prijazna naprava je tista, ki jo že imate.**"
 
-#: content/opt-green-handbook/handbook_web.md:355
+#: content/opt-green-handbook/index.md:358
 msgid ""
 "There are better ways to solve software-driven hardware obsolescence than "
 "buying a new computer. The one we recommend is to install new software, one "
@@ -11546,7 +11545,7 @@ msgstr ""
 "becoming-insecure-Quick-change-required-10486647.html) kot enega od načinov "
 "za varno uporabo zapuščenih naprav Windows 10."
 
-#: content/opt-green-handbook/handbook_web.md:357
+#: content/opt-green-handbook/index.md:360
 msgid ""
 "Maintaining and testing software is certainly a lot more complex than simply "
 "having Free & Open Source code. Nonetheless, only FOSS permits software to "
@@ -11572,37 +11571,37 @@ msgstr ""
 "opreme ključni del širšega gibanja [Pravica do popravila](https://en."
 "wikipedia.org/wiki/Right_to_repair)."
 
-#: content/opt-green-handbook/handbook_web.md:358
+#: content/opt-green-handbook/index.md:361
 msgid "Appendix: Common Misconceptions"
 msgstr "Dodatek: Pogoste zmote"
 
-#: content/opt-green-handbook/handbook_web.md:360
+#: content/opt-green-handbook/index.md:363
 msgid ""
 "In this section, we'll debunk five of the most common misconceptions about "
 "FOSS:"
 msgstr "V tem razdelku bomo ovrgli pet najpogostejših zmot o FOSS:"
 
-#: content/opt-green-handbook/handbook_web.md:362
+#: content/opt-green-handbook/index.md:365
 msgid "\"Anyone can modify the application I am using.\""
 msgstr "»Vsakdo lahko spremeni aplikacijo, ki jo uporabljam.«"
 
-#: content/opt-green-handbook/handbook_web.md:363
+#: content/opt-green-handbook/index.md:366
 msgid "\"You never know where the software came from.\""
 msgstr "»Nikoli ne veš, od kod je prišla programska oprema.«"
 
-#: content/opt-green-handbook/handbook_web.md:364
+#: content/opt-green-handbook/index.md:367
 msgid "\"FOSS is less secure.\""
 msgstr "»FOSS je manj varen.«"
 
-#: content/opt-green-handbook/handbook_web.md:365
+#: content/opt-green-handbook/index.md:368
 msgid "\"I need to be a developer to benefit from FOSS.\""
 msgstr "»Moram biti razvijalec, da lahko izkoristim prednosti FOSS.«"
 
-#: content/opt-green-handbook/handbook_web.md:366
+#: content/opt-green-handbook/index.md:369
 msgid "\"FOSS is free of cost because it is developed by volunteers.\""
 msgstr "»FOSS je brezplačen, ker ga razvijajo prostovoljci.«"
 
-#: content/opt-green-handbook/handbook_web.md:368
+#: content/opt-green-handbook/index.md:371
 msgid ""
 "All of these statements are incorrect, and the following explanations will "
 "reveal more about how FOSS works as a software, as an ecosystem, and as a "
@@ -11611,11 +11610,11 @@ msgstr ""
 "Vse te trditve so napačne in naslednje razlage bodo razkrile več o tem, kako "
 "FOSS deluje kot programska oprema, kot ekosistem in kot podjetje."
 
-#: content/opt-green-handbook/handbook_web.md:370
+#: content/opt-green-handbook/index.md:373
 msgid "**Misconception 1: Anyone can modify the application I am using.**"
 msgstr "**Zmota 1: Vsakdo lahko spremeni aplikacijo, ki jo uporabljam.**"
 
-#: content/opt-green-handbook/handbook_web.md:372
+#: content/opt-green-handbook/index.md:375
 msgid ""
 "The misconception is the idea that any and all code changes actually end up "
 "in the software you download and use. This is not the case. A core team of "
@@ -11637,7 +11636,7 @@ msgstr ""
 "niso vse predlagane spremembe kode samodejno vključene v programsko opremo, "
 "ki jo izdajo osrednji razvijalci – in se nato zaženejo v vašem računalniku."
 
-#: content/opt-green-handbook/handbook_web.md:374
+#: content/opt-green-handbook/index.md:377
 msgid ""
 "To make an analogy with cooking: When a famous chef publishes a recipe, "
 "anyone can modify the recipe themselves when preparing the dish. These "
@@ -11660,11 +11659,11 @@ msgstr ""
 "kakršne koli spremembe, vendar to ne pomeni, da bodo te spremembe dodane "
 "prvotnemu receptu – ali da bodo končale na vašem krožniku."
 
-#: content/opt-green-handbook/handbook_web.md:376
+#: content/opt-green-handbook/index.md:379
 msgid "**Misconception 2: You never know where the software came from.**"
 msgstr "**Zmota 2: Nikoli ne veste, od kod je prišla programska oprema.**"
 
-#: content/opt-green-handbook/handbook_web.md:378
+#: content/opt-green-handbook/index.md:381
 msgid ""
 "It's true that anyone can modify FOSS and release their changes to the "
 "public, but the misconception here is that modified software is "
@@ -11693,7 +11692,7 @@ msgstr ""
 "isto blagovno znamko kot original; pravno mora biti prepoznavna kot "
 "spremenjena programska oprema, da lahko natančno vidite, od kod prihaja."
 
-#: content/opt-green-handbook/handbook_web.md:380
+#: content/opt-green-handbook/index.md:383
 msgid ""
 "Using the cooking analogy: Even if any cook may change a recipe when "
 "preparing a dish, they cannot publish it under the name of the original "
@@ -11707,11 +11706,11 @@ msgstr ""
 "celo objavite svoje spremembe, vendar ne morete trditi, da so te spremembe "
 "od prvotnega kuharja."
 
-#: content/opt-green-handbook/handbook_web.md:382
+#: content/opt-green-handbook/index.md:385
 msgid "**Misconception 3: FOSS is less secure.**"
 msgstr "**Zmota 3: FOSS je manj varen.**"
 
-#: content/opt-green-handbook/handbook_web.md:384
+#: content/opt-green-handbook/index.md:387
 msgid ""
 "This is perhaps one of the most common misconceptions about FOSS, and the "
 "opposite is actually true. Though FOSS can still contain bugs or malicious "
@@ -11737,7 +11736,7 @@ msgstr ""
 "zagotavlja varnega sistema. Vendar pa v tem procesu ponuja znatne strateške "
 "prednosti.«"
 
-#: content/opt-green-handbook/handbook_web.md:386
+#: content/opt-green-handbook/index.md:389
 msgid ""
 "Once again, using the cooking analogy: It's more difficult to add harmful or "
 "unwanted elements to a recipe when the ingredient list is visible to all. "
@@ -11753,11 +11752,11 @@ msgstr ""
 "zagotoviti, da recept ne vsebuje neželenih sestavin, vendar ima resnične "
 "prednosti za njihovo iskanje in odstranjevanje."
 
-#: content/opt-green-handbook/handbook_web.md:388
+#: content/opt-green-handbook/index.md:391
 msgid "**Misconception 4: I need to be a developer to benefit from FOSS.**"
 msgstr "**Zmota 4: Moram biti razvijalec, da bi imel kako korist od FOSS.**"
 
-#: content/opt-green-handbook/handbook_web.md:390
+#: content/opt-green-handbook/index.md:393
 msgid ""
 "You do not need to be a software engineer to use FOSS and gain its benefits. "
 "You can download and install it, and be assured that necessary updates will "
@@ -11787,7 +11786,7 @@ msgstr ""
 "storiti ničesar od tega, da bi uživali v prosti in odprtokodni programski "
 "opremi."
 
-#: content/opt-green-handbook/handbook_web.md:392
+#: content/opt-green-handbook/index.md:395
 msgid ""
 "Using the cooking analogy: You don't need to be a cook to enjoy the results "
 "of a good recipe. If you can't cook, you probably know someone who does, and "
@@ -11811,7 +11810,7 @@ msgstr ""
 "saj ponujajo vse vrste nekoderskih veščin, kot so oblikovanje, ozaveščanje, "
 "prevajanje, promocija in še veliko več."
 
-#: content/opt-green-handbook/handbook_web.md:394
+#: content/opt-green-handbook/index.md:397
 msgid ""
 "In Part III of this handbook, you'll learn how to run install events and "
 "support new users with FOSS. Helping new users get started is a great way to "
@@ -11822,13 +11821,13 @@ msgstr ""
 "uporabnikom pri začetku je odličen način, da prispevate k programski opremi, "
 "ki jo uporabljate in imate radi."
 
-#: content/opt-green-handbook/handbook_web.md:396
+#: content/opt-green-handbook/index.md:399
 msgid ""
 "**Misconception 5: FOSS is free of cost because it is developed by "
 "volunteers.**"
 msgstr "**Zmota 5: FOSS je brezplačen, ker ga razvijajo prostovoljci.**"
 
-#: content/opt-green-handbook/handbook_web.md:398
+#: content/opt-green-handbook/index.md:401
 msgid ""
 "This is not true, not at all. FOSS is not necessarily free of cost, nor is "
 "it developed only by volunteers. FOSS is developed by both paid software "
@@ -11862,7 +11861,7 @@ msgstr ""
 "odprtokodna programska oprema, ne glede na to, koliko denarja se zasluži pri "
 "tem."
 
-#: content/opt-green-handbook/handbook_web.md:400
+#: content/opt-green-handbook/index.md:403
 msgid ""
 "The cooking analogy has its limits. One important difference to note: Even "
 "if a recipe can be shared with an unlimited number of people, an individual "
@@ -11882,7 +11881,7 @@ msgstr ""
 "sodelavec (morda vi!), je mogoče razširiti na milijone, celo stotine "
 "milijonov uporabnikov programske opreme!"
 
-#: content/opt-green-handbook/handbook_web.md:403
+#: content/opt-green-handbook/index.md:406
 msgid ""
 "Hopefully by now you're convinced to use FOSS yourself and to help others "
 "install a FOSS operating system and apps on their computers. This way, you "
@@ -11895,7 +11894,7 @@ msgstr ""
 "do konca življenjske dobe strojne opreme in ne zavržete delujočih "
 "računalnikov, ko se konča podpora za lastniško programsko opremo."
 
-#: content/opt-green-handbook/handbook_web.md:405
+#: content/opt-green-handbook/index.md:408
 msgid ""
 "This part of the handbook focuses on how to upgrade user devices to FOSS. In "
 "fact, the easiest and most direct way is to assist your friends, family, and "
@@ -11906,7 +11905,7 @@ msgstr ""
 "pomagate svojim prijateljem, družini in ljubljenim. Ne podcenjujte, kako "
 "pomembna je ta podpora!"
 
-#: content/opt-green-handbook/handbook_web.md:407
+#: content/opt-green-handbook/index.md:410
 msgid ""
 "That said, our focus here is on FOSS support with a wider public through "
 "outreach and install parties and other types of organized meetups to help "
@@ -11927,7 +11926,7 @@ msgstr ""
 "Day, namestitvenih zabavah Linuxa, kripto zabavah in tako naprej. Če v vaši "
 "bližini ni nobene, jo lahko ustvarite – o tem se bomo pogovorili kasneje."
 
-#: content/opt-green-handbook/handbook_web.md:409
+#: content/opt-green-handbook/index.md:412
 msgid ""
 "![Two posters from the End Of 10 [campaign website](https://invent.kde.org/"
 "websites/endof10-org/-/tree/master/static/assets/posters). (The End Of 10 "
@@ -11943,7 +11942,7 @@ msgstr ""
 "izdana pod licenco [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)]"
 "(images/sec3_end_of_10.png)"
 
-#: content/opt-green-handbook/handbook_web.md:411
+#: content/opt-green-handbook/index.md:414
 msgid ""
 "We don't assume you have previous experience with organizing install events, "
 "and the first section offers suggestions of ways to gain more experience. We "
@@ -11963,7 +11962,7 @@ msgstr ""
 "bomo v besedilu uporabili številne vire skupnosti KDE. Obstaja nekaj "
 "razlogov, zakaj ne ponujamo konkretnih navodil po korakih:"
 
-#: content/opt-green-handbook/handbook_web.md:413
+#: content/opt-green-handbook/index.md:416
 msgid ""
 "The specifics often change as new versions of software are released, which "
 "would quickly render the handbook out-of-date."
@@ -11971,7 +11970,7 @@ msgstr ""
 "Podrobnosti se pogosto spreminjajo z izdajo novih različic programske "
 "opreme, zaradi česar priročnik hitro zastara."
 
-#: content/opt-green-handbook/handbook_web.md:414
+#: content/opt-green-handbook/index.md:417
 msgid ""
 "The details depend on the specific software being installed, for which there "
 "already exist numerous online guides. No need to re-invent the wheel!"
@@ -11980,7 +11979,7 @@ msgstr ""
 "katero že obstajajo številni spletni vodniki. Ni treba znova izumljati "
 "kolesa!"
 
-#: content/opt-green-handbook/handbook_web.md:416
+#: content/opt-green-handbook/index.md:419
 msgid ""
 "There are certainly other ways this is an incomplete text, but we hope the "
 "handbook nonetheless provides a good basis for getting started with new user "
@@ -11990,7 +11989,7 @@ msgstr ""
 "upamo, da priročnik kljub temu ponuja dobro osnovo za začetek uporabe "
 "podpore za FOSS za nove uporabnike."
 
-#: content/opt-green-handbook/handbook_web.md:418
+#: content/opt-green-handbook/index.md:421
 msgid ""
 "The text here is also opinionated, and the reader may disagree with some of "
 "the suggestions. We nonetheless think it is useful. By noting areas of "
@@ -12006,27 +12005,27 @@ msgstr ""
 "dogodkov. Kljub temu smo veseli vaših povratnih informacij, komentarjev, "
 "predlogov in konstruktivnih prispevkov!"
 
-#: content/opt-green-handbook/handbook_web.md:420
+#: content/opt-green-handbook/index.md:423
 msgid "From here, this section is broken down into 4 stages:"
 msgstr "Od tu naprej je ta razdelek razdeljen na 4 faze:"
 
-#: content/opt-green-handbook/handbook_web.md:422
+#: content/opt-green-handbook/index.md:425
 msgid "Gaining Experience with FOSS and FOSS groups"
 msgstr "Pridobivanje izkušenj s FOSS in skupinami FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:423
+#: content/opt-green-handbook/index.md:426
 msgid "Before Install Events"
 msgstr "Dogodki pred namestitvijo"
 
-#: content/opt-green-handbook/handbook_web.md:424
+#: content/opt-green-handbook/index.md:427
 msgid "During Install Events"
 msgstr "Med namestitvenimi dogodki"
 
-#: content/opt-green-handbook/handbook_web.md:425
+#: content/opt-green-handbook/index.md:428
 msgid "After Install Events"
 msgstr "Dogodki po namestitvi"
 
-#: content/opt-green-handbook/handbook_web.md:427
+#: content/opt-green-handbook/index.md:430
 msgid ""
 "Ideally, you can repeat these steps like the shampoo algorithm: [lather, "
 "rinse, repeat](https://en.wikipedia.org/wiki/Lather,_rinse,_repeat). That "
@@ -12040,7 +12039,7 @@ msgstr ""
 "k neprekinjeni dejavnosti in ne kot k enkratnemu dogodku. To bomo ponovno "
 "obravnavali proti koncu razdelka."
 
-#: content/opt-green-handbook/handbook_web.md:429
+#: content/opt-green-handbook/index.md:432
 msgid ""
 "As you dig deeper into the FOSS ecosystem, you may come across several new "
 "terms. Here is a short glossary of useful vocabulary:"
@@ -12048,11 +12047,11 @@ msgstr ""
 "Ko boste globlje prodrli v ekosistem FOSS, boste morda naleteli na več novih "
 "izrazov. Tukaj je kratek glosar uporabnega besedišča:"
 
-#: content/opt-green-handbook/handbook_web.md:431
+#: content/opt-green-handbook/index.md:434
 msgid "**PC**: a laptop or desktop computer"
 msgstr "**PC**: prenosni ali namizni računalnik"
 
-#: content/opt-green-handbook/handbook_web.md:432
+#: content/opt-green-handbook/index.md:435
 msgid ""
 "**FOSS Operating System** (OS): Linux is the most popular, but there are "
 "others such as OpenBSD and Haiku"
@@ -12060,11 +12059,11 @@ msgstr ""
 "**Operacijski sistem FOSS** (OS): Linux je najbolj priljubljen, obstajajo pa "
 "tudi drugi, kot sta OpenBSD in Haiku"
 
-#: content/opt-green-handbook/handbook_web.md:433
+#: content/opt-green-handbook/index.md:436
 msgid "**Proprietary Operating System** (OS): MS Windows, MacOS"
 msgstr "**Lastniški operacijski sistem** (OS): MS Windows, MacOS"
 
-#: content/opt-green-handbook/handbook_web.md:434
+#: content/opt-green-handbook/index.md:437
 msgid ""
 "**Distribution** (or Distro): A FOSS OS and accompanying software, often "
 "obtained from a website"
@@ -12072,7 +12071,7 @@ msgstr ""
 "**Distribucija** (ali Distro): Operacijski sistem FOSS in spremljajoča "
 "programska oprema, pogosto pridobljena s spletnega mesta"
 
-#: content/opt-green-handbook/handbook_web.md:435
+#: content/opt-green-handbook/index.md:438
 msgid ""
 "**ISO** / **image file**: the file that contains the operating system to be "
 "installed"
@@ -12080,7 +12079,7 @@ msgstr ""
 "**ISO** / **slikovna datoteka**: datoteka, ki vsebuje operacijski sistem, ki "
 "ga je treba namestiti"
 
-#: content/opt-green-handbook/handbook_web.md:436
+#: content/opt-green-handbook/index.md:439
 msgid ""
 "**Graphical User Interface** (GUI): a graphics-based way to interact with "
 "the computer (e.g., point and click with the mouse)"
@@ -12088,7 +12087,7 @@ msgstr ""
 "**Grafični uporabniški vmesnik** (GUI): grafični način interakcije z "
 "računalnikom (npr. kaži in klikni z miško)"
 
-#: content/opt-green-handbook/handbook_web.md:437
+#: content/opt-green-handbook/index.md:440
 msgid ""
 "**Desktop Environment**: the [Graphical User Interface](https://en.wikipedia."
 "org/wiki/Graphical_user_interface) (GUI) used to interact with or administer "
@@ -12098,7 +12097,7 @@ msgstr ""
 "wiki/Graphical_user_interface) (GUI), ki se uporablja za interakcijo z "
 "operacijskim sistemom ali njegovo upravljanje"
 
-#: content/opt-green-handbook/handbook_web.md:438
+#: content/opt-green-handbook/index.md:441
 msgid ""
 "**Applications** (or Apps): computer programs for end-user tasks, e.g., PDF "
 "readers, text editors, games, rather than for administering the system (cf. "
@@ -12108,7 +12107,7 @@ msgstr ""
 "uporabnikov, npr. bralniki PDF-jev, urejevalniki besedil, igre, namesto za "
 "upravljanje sistema (prim. Namizno okolje)"
 
-#: content/opt-green-handbook/handbook_web.md:439
+#: content/opt-green-handbook/index.md:442
 msgid ""
 "With proprietary operating systems, applications are often downloaded and "
 "installed from an external website, although nowadays some applications can "
@@ -12118,7 +12117,7 @@ msgstr ""
 "nameščene z zunanjega spletnega mesta, čeprav je danes nekatere aplikacije "
 "mogoče namestiti tudi prek trgovine z aplikacijami."
 
-#: content/opt-green-handbook/handbook_web.md:440
+#: content/opt-green-handbook/index.md:443
 msgid ""
 "In the FOSS ecosystem, applications are most typically installed through the "
 "software or package manager of the Desktop Environment."
@@ -12126,7 +12125,7 @@ msgstr ""
 "V ekosistemu FOSS se aplikacije najpogosteje namestijo prek programske "
 "opreme ali upravitelja paketov namiznega okolja."
 
-#: content/opt-green-handbook/handbook_web.md:441
+#: content/opt-green-handbook/index.md:444
 msgid ""
 "**CPU** (Central Processing Unit): primarily [Intel](https://en.wikipedia."
 "org/wiki/Intel) or [AMD](https://en.wikipedia.org/wiki/AMD) CPUs based on "
@@ -12140,7 +12139,7 @@ msgstr ""
 "arhitekturo [32-bitno](https://en.wikipedia.org/wiki/IA-32) ali [64-bitno]"
 "(https://en.wikipedia.org/wiki/X86-64), vendar ne samo"
 
-#: content/opt-green-handbook/handbook_web.md:442
+#: content/opt-green-handbook/index.md:445
 msgid ""
 "**RAM** (or working memory): impermanent memory that is lost when the PC is "
 "turned off. More RAM typically means faster processing."
@@ -12148,7 +12147,7 @@ msgstr ""
 "**RAM** (ali delovni pomnilnik): začasni pomnilnik, ki se izgubi, ko je "
 "računalnik izklopljen. Več RAM-a običajno pomeni hitrejšo obdelavo."
 
-#: content/opt-green-handbook/handbook_web.md:443
+#: content/opt-green-handbook/index.md:446
 msgid ""
 "**Mass storage**: Hard Disk Drive (HDD), Solid State Drive (SSD), SD card, "
 "etc."
@@ -12156,7 +12155,7 @@ msgstr ""
 "**Masovni pomnilnik**: trdi disk (HDD), pogon SSD (Solid State Drive), "
 "kartica SD itd."
 
-#: content/opt-green-handbook/handbook_web.md:444
+#: content/opt-green-handbook/index.md:447
 msgid ""
 "**Repositories** (for Linux and other FOSS ecosystems): The source from "
 "which the system and applications can be updated and new applications can be "
@@ -12165,7 +12164,7 @@ msgstr ""
 "**Repozitoriji** (za Linux in druge ekosisteme FOSS): Vir, iz katerega je "
 "mogoče posodobiti sistem in aplikacije ter namestiti nove aplikacije."
 
-#: content/opt-green-handbook/handbook_web.md:445
+#: content/opt-green-handbook/index.md:448
 msgid ""
 "**Command Line Interface** (CLI) / **Terminal**: a text-based interface (e."
 "g., typing commands with the keyboard) as compared to a GUI."
@@ -12174,11 +12173,11 @@ msgstr ""
 "**Terminal**: besedilni vmesnik (npr. tipkanje ukazov s tipkovnico) v "
 "primerjavi z grafičnim uporabniškim vmesnikom."
 
-#: content/opt-green-handbook/handbook_web.md:447
+#: content/opt-green-handbook/index.md:450
 msgid "Stage 1. Gaining Experience"
 msgstr "1. faza. Pridobivanje izkušenj"
 
-#: content/opt-green-handbook/handbook_web.md:449
+#: content/opt-green-handbook/index.md:452
 msgid ""
 "The easiest and cheapest way to gain experience with a FOSS OS is to find an "
 "unused computer, preferably not too old (<10 years) so you can really "
@@ -12201,7 +12200,7 @@ msgstr ""
 "družina. Povprašajte naokoli! Presenečeni boste, kako enostavno je najti "
 "delujoč, a zapuščen računalnik v vaših družabnih krogih."
 
-#: content/opt-green-handbook/handbook_web.md:451
+#: content/opt-green-handbook/index.md:454
 msgid ""
 "So you found a computer for testing FOSS, but at this point you may be "
 "wondering: How can I decide which FOSS operating system and desktop "
@@ -12225,11 +12224,11 @@ msgstr ""
 "sistema vedno možnost. Pravzaprav je »prehajanje med distribucijami« pogost "
 "pojav med novimi uporabniki FOSS."
 
-#: content/opt-green-handbook/handbook_web.md:453
+#: content/opt-green-handbook/index.md:456
 msgid "A couple of things to note at this point:"
 msgstr "Na tej točki je treba opozoriti na nekaj stvari:"
 
-#: content/opt-green-handbook/handbook_web.md:455
+#: content/opt-green-handbook/index.md:458
 msgid ""
 "FOSS is typically made available through a \"distribution\" (or \"distro\" "
 "for short) which offer different default setups and user interfaces for "
@@ -12239,7 +12238,7 @@ msgstr ""
 "ponuja različne privzete nastavitve in uporabniške vmesnike za različne "
 "uporabniške potrebe in strojno opremo."
 
-#: content/opt-green-handbook/handbook_web.md:456
+#: content/opt-green-handbook/index.md:459
 msgid ""
 "If you have a particularly old computer with low hardware specs, you will "
 "want to look for a \"lightweight\" OS designed for low-powered devices. "
@@ -12249,7 +12248,7 @@ msgstr ""
 "želeli poiskati »lahek« operacijski sistem, zasnovan za naprave z nizko "
 "porabo energije. Poiščite na spletu in našli boste veliko priporočil."
 
-#: content/opt-green-handbook/handbook_web.md:457
+#: content/opt-green-handbook/index.md:460
 msgid ""
 "If you have a newer computer that offers more hardware power, you can "
 "install just about any OS. The main differences you'll notice are the "
@@ -12261,7 +12260,7 @@ msgstr ""
 "so namizno okolje, privzete sistemske nastavitve in podobno. Prebrskajte "
 "različne distribucije, da najdete tisto, ki vam najbolj ustreza."
 
-#: content/opt-green-handbook/handbook_web.md:458
+#: content/opt-green-handbook/index.md:461
 msgid ""
 "Since most hardware was *not* designed for FOSS, you may run into problems "
 "with drivers for graphics cards, WiFi, webcams, among others. These issues "
@@ -12273,7 +12272,7 @@ msgstr ""
 "težave je pogosto mogoče rešiti z malo truda, vendar boste morda morali "
 "opraviti nekaj raziskav, da najdete rešitve."
 
-#: content/opt-green-handbook/handbook_web.md:459
+#: content/opt-green-handbook/index.md:462
 msgid ""
 "Some distributions include GUI software to detect and install proprietary "
 "drivers. This is recommended before getting your hands dirty with the "
@@ -12283,7 +12282,7 @@ msgstr ""
 "namestitev lastniških gonilnikov. To je priporočljivo, preden se lotite "
 "uporabe vmesnika ukazne vrstice."
 
-#: content/opt-green-handbook/handbook_web.md:461
+#: content/opt-green-handbook/index.md:464
 msgid ""
 "If you want in-person support while getting started, we recommend visiting "
 "the [End Of 10](https://endof10.org) website to find a place or event in "
@@ -12295,7 +12294,7 @@ msgstr ""
 "bližini. V naslednjem razdelku si oglejte tudi nasvete o tem, kako zgraditi "
 "močno ekipo FOSS!"
 
-#: content/opt-green-handbook/handbook_web.md:463
+#: content/opt-green-handbook/index.md:466
 msgid ""
 "As this is a handbook from the KDE Eco initiative, we recommend trying a "
 "distribution with the [KDE Plasma](https://kde.org/plasma-desktop/) desktop "
@@ -12317,7 +12316,7 @@ msgstr ""
 "community.kde.org/Distributions). Če imate SteamDeck, morda že uporabljate "
 "KDE Plasma."
 
-#: content/opt-green-handbook/handbook_web.md:466
+#: content/opt-green-handbook/index.md:469
 msgid ""
 "![The KDE Plasma Desktop Environment. Here you can see GUIs for modifying "
 "System Settings, for updating and installing software with Discover, as well "
@@ -12331,15 +12330,15 @@ msgstr ""
 "Digital Clock. (Slika iz KDE, izdana pod licenco [CC-BY-4.0](https://spdx."
 "org/licenses/CC-BY-4.0.html).)](images/sec3_fullscreen_with_apps.png)"
 
-#: content/opt-green-handbook/handbook_web.md:468
+#: content/opt-green-handbook/index.md:471
 msgid "KDE Plasma's slogan is:"
 msgstr "Slogan KDE Plasma je:"
 
-#: content/opt-green-handbook/handbook_web.md:470
+#: content/opt-green-handbook/index.md:473
 msgid "\"Simple by default, powerful when needed.\""
 msgstr "\"Privzeto preprosto, zmogljivo, ko je potrebno.\""
 
-#: content/opt-green-handbook/handbook_web.md:472
+#: content/opt-green-handbook/index.md:475
 msgid ""
 "In other words, although the out-of-the-box settings make it simple to use "
 "with no additional tweaking, KDE Plasma is in fact very powerful software, "
@@ -12370,11 +12369,11 @@ msgstr ""
 "(https://kde.org/for/students/) ali [znanstvenik](https://kde.org/for/"
 "scientists/) in drugi."
 
-#: content/opt-green-handbook/handbook_web.md:474
+#: content/opt-green-handbook/index.md:477
 msgid "Stage 2. Before Install Events"
 msgstr "2. faza: Dogodki pred namestitvijo"
 
-#: content/opt-green-handbook/handbook_web.md:476
+#: content/opt-green-handbook/index.md:479
 msgid ""
 "In this section we'll explore building FOSS teams as well as some ways to "
 "prepare for and promote an event, before you find yourself in a room packed "
@@ -12384,11 +12383,11 @@ msgstr ""
 "pripravo in promocijo dogodka, preden se znajdete v sobi, polni radovednih "
 "in živčnih novih uporabnikov."
 
-#: content/opt-green-handbook/handbook_web.md:478
+#: content/opt-green-handbook/index.md:481
 msgid "Finding Other FOSS Angels"
 msgstr "Iskanje drugih angelov FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:480
+#: content/opt-green-handbook/index.md:483
 msgid ""
 "If there are no Linux User Groups or Linux Cafes in your area (see next "
 "section), that is a pity but also an opportunity: you can start one!"
@@ -12397,7 +12396,7 @@ msgstr ""
 "naslednji razdelek), je to škoda, a hkrati tudi priložnost: lahko jih "
 "ustanovite!"
 
-#: content/opt-green-handbook/handbook_web.md:482
+#: content/opt-green-handbook/index.md:485
 msgid ""
 "In KDE Eco's \"Opt Green\" project we have had contact with many "
 "organizations and individuals offering FOSS support. One story in particular "
@@ -12417,7 +12416,7 @@ msgstr ""
 "in občinstvo vprašali (a) kdo bi bil zainteresiran za namestitev FOSS in (b) "
 "kdo bi bil zainteresiran za pomoč drugim pri tem."
 
-#: content/opt-green-handbook/handbook_web.md:484
+#: content/opt-green-handbook/index.md:487
 msgid ""
 "[^4]: We use the term \"angel\" following the terminology used by the Chaos "
 "Computer Club in Germany for volunteers at their events."
@@ -12425,7 +12424,7 @@ msgstr ""
 "[^4]: Izraz »angel« uporabljamo po terminologiji, ki jo Chaos Computer Club "
 "v Nemčiji uporablja za prostovoljce na svojih dogodkih."
 
-#: content/opt-green-handbook/handbook_web.md:486
+#: content/opt-green-handbook/index.md:489
 msgid ""
 "From this event they built a team of 20 volunteers who met over several "
 "weeks for pizza and beer in order to gain experience and troubleshoot "
@@ -12443,7 +12442,7 @@ msgstr ""
 "na FOSS. Zaradi uspeha te pobude zdaj načrtujejo Linux Cafe na svojem "
 "območju, da bi svoji skupnosti nudili stalno podporo!"
 
-#: content/opt-green-handbook/handbook_web.md:488
+#: content/opt-green-handbook/index.md:491
 msgid ""
 "By following this excellent example, you too can build a FOSS power team in "
 "your area."
@@ -12451,7 +12450,7 @@ msgstr ""
 "S sledenjem temu odličnemu zgledu lahko tudi vi zgradite močno ekipo FOSS na "
 "svojem območju."
 
-#: content/opt-green-handbook/handbook_web.md:490
+#: content/opt-green-handbook/index.md:493
 msgid ""
 "![Group photos of two major FOSS development communities at their annual "
 "conferences: The KDE community at [Akademy](https://akademy.kde.org/"
@@ -12474,7 +12473,7 @@ msgstr ""
 "objavljeni pod licenco [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0."
 "html).)](images/sec3_Akademy2025-Guadec2025.png)"
 
-#: content/opt-green-handbook/handbook_web.md:492
+#: content/opt-green-handbook/index.md:495
 msgid ""
 "If you like this idea but feel you live in a FOSS desert, don't forget that "
 "contributors to FOSS projects live all over the world. It is truly a global "
@@ -12495,7 +12494,7 @@ msgstr ""
 "kažejo zanimanje za njihovo delo, in verjetno boste precej hitro dobili "
 "povratne informacije."
 
-#: content/opt-green-handbook/handbook_web.md:494
+#: content/opt-green-handbook/index.md:497
 msgid ""
 "Starting a Linux or Repair Café is more work than organizing an event, but "
 "well worth it for ongoing support. Here are some resources on how start one:"
@@ -12504,7 +12503,7 @@ msgstr ""
 "vendar se splača zaradi stalne podpore. Tukaj je nekaj virov o tem, kako "
 "začeti:"
 
-#: content/opt-green-handbook/handbook_web.md:496
+#: content/opt-green-handbook/index.md:499
 msgid ""
 "[Repair Cafe International](https://www.repaircafe.org/en/visit/) has very "
 "helpful information at the \"[Start Your Own](https://www.repaircafe.org/en/"
@@ -12516,7 +12515,7 @@ msgstr ""
 "repaircafe.org/en/join/start-your-own/)« in »[Linux Repair Café](https://www."
 "repaircafe.org/linux-repair-cafe/)«."
 
-#: content/opt-green-handbook/handbook_web.md:497
+#: content/opt-green-handbook/index.md:500
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/) has prepared a \"[End of Windows 10: A Toolkit for "
@@ -12528,7 +12527,7 @@ msgstr ""
 "za skupine za popravila v skupnosti](https://therestartproject.org/end-of-"
 "windows-10-toolkit-for-repair-groups/)«."
 
-#: content/opt-green-handbook/handbook_web.md:499
+#: content/opt-green-handbook/index.md:502
 msgid ""
 "Organizing the first of many install events or starting a Repair Café is "
 "very doable. Many people like you are leading the way! Don't be discouraged "
@@ -12538,11 +12537,11 @@ msgstr ""
 "je zelo izvedljiva. Mnogi ljudje, kot ste vi, so na čelu! Ne obupajte, če je "
 "zanimanje sprva majhno. Za izgradnjo skupnosti je potreben čas in energija."
 
-#: content/opt-green-handbook/handbook_web.md:501
+#: content/opt-green-handbook/index.md:504
 msgid "Joining An Organization"
 msgstr "Pridružitev organizaciji"
 
-#: content/opt-green-handbook/handbook_web.md:503
+#: content/opt-green-handbook/index.md:506
 msgid ""
 "Why start from scratch when a motivated group may already be active in your "
 "area? For example, repair initiatives offering software support, Linux User "
@@ -12554,15 +12553,15 @@ msgstr ""
 "programsko opremo, uporabniške skupine Linuxa, CryptoParties in drugo, lahko "
 "najdete po vsem svetu. Nekatera mesta, kjer lahko začnete, so:"
 
-#: content/opt-green-handbook/handbook_web.md:505
+#: content/opt-green-handbook/index.md:508
 msgid "[End Of 10](https://endof10.org) directory"
 msgstr "imenik [End Of 10](https://endof10.org)"
 
-#: content/opt-green-handbook/handbook_web.md:506
+#: content/opt-green-handbook/index.md:509
 msgid "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 msgstr "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 
-#: content/opt-green-handbook/handbook_web.md:507
+#: content/opt-green-handbook/index.md:510
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/)"
@@ -12570,7 +12569,7 @@ msgstr ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/)"
 
-#: content/opt-green-handbook/handbook_web.md:508
+#: content/opt-green-handbook/index.md:511
 msgid ""
 "[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf"
 "%C3%A9) repair café directory"
@@ -12578,15 +12577,15 @@ msgstr ""
 "[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf"
 "%C3%A9) imenik repair café"
 
-#: content/opt-green-handbook/handbook_web.md:509
+#: content/opt-green-handbook/index.md:512
 msgid "[Linux User Groups](https://linux-events.org/SL_LUGs)"
 msgstr "[Uporabniške skupine Linuxa](https://linux-events.org/SL_LUGs)"
 
-#: content/opt-green-handbook/handbook_web.md:510
+#: content/opt-green-handbook/index.md:513
 msgid "[CryptoParties](https://cryptoparty.in/)"
 msgstr "[CryptoParties](https://cryptoparty.in/)"
 
-#: content/opt-green-handbook/handbook_web.md:511
+#: content/opt-green-handbook/index.md:514
 msgid ""
 "Student and FOSS clubs (such as the [FOSS United Clubs](https://fossunited."
 "org/clubs) in India)"
@@ -12594,11 +12593,11 @@ msgstr ""
 "Študentski in odprtokodni klubi FOSS (kot so [FOSS United Clubs](https://"
 "fossunited.org/clubs) v Indiji)"
 
-#: content/opt-green-handbook/handbook_web.md:512
+#: content/opt-green-handbook/index.md:515
 msgid "IT stores offering Linux support"
 msgstr "Trgovine IT, ki ponujajo podporo za Linux"
 
-#: content/opt-green-handbook/handbook_web.md:514
+#: content/opt-green-handbook/index.md:517
 msgid ""
 "Reach out and ask what they need help with. Don't be shy! From experience, "
 "such groups are always happy to have more helpers. You can get involved by "
@@ -12617,11 +12616,11 @@ msgstr ""
 "sredstva ali karkoli drugega, kar organizacija počne za promocijo in podporo "
 "proste in odprtokodne programske opreme za nove uporabnike."
 
-#: content/opt-green-handbook/handbook_web.md:516
+#: content/opt-green-handbook/index.md:519
 msgid "Planning An Install Party"
 msgstr "Načrtovanje namestitvene zabave"
 
-#: content/opt-green-handbook/handbook_web.md:518
+#: content/opt-green-handbook/index.md:521
 msgid ""
 "It is worth emphasizing that installation is only one of many steps in the "
 "migration process. So let's think about it from the user perspective. The "
@@ -12631,23 +12630,23 @@ msgstr ""
 "migracije. Zato razmislimo o tem z vidika uporabnika. Glavne faze za novega "
 "uporabnika so lahko naslednje:"
 
-#: content/opt-green-handbook/handbook_web.md:520
+#: content/opt-green-handbook/index.md:523
 msgid "Stage 0: Deciding to install a FOSS OS"
 msgstr "Faza 0: Odločitev za namestitev operacijskega sistema FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:521
+#: content/opt-green-handbook/index.md:524
 msgid "Stage 1: Securing their data"
 msgstr "Faza 1: Zaščita podatkov"
 
-#: content/opt-green-handbook/handbook_web.md:522
+#: content/opt-green-handbook/index.md:525
 msgid "Stage 2: Installation"
 msgstr "Faza 2: Namestitev"
 
-#: content/opt-green-handbook/handbook_web.md:523
+#: content/opt-green-handbook/index.md:526
 msgid "Stage 3: Getting follow-up support"
 msgstr "Faza 3: Pridobitev nadaljnje podpore"
 
-#: content/opt-green-handbook/handbook_web.md:525
+#: content/opt-green-handbook/index.md:528
 msgid ""
 "By considering each of these stages, you can best meet a user's needs (i) "
 "*before* the event by doing effective promotion, (ii) *during* the event by "
@@ -12659,7 +12658,7 @@ msgstr ""
 "zagotavljanjem, da vse poteka gladko, in (iii) *po* dogodku, če se pojavijo "
 "težave."
 
-#: content/opt-green-handbook/handbook_web.md:527
+#: content/opt-green-handbook/index.md:530
 msgid ""
 "Note: The easiest first step for new users may be to use cross-platform FOSS "
 "apps on their existing proprietary OS before installing a new operating "
@@ -12682,12 +12681,12 @@ msgstr ""
 "in mnogi drugi. Ko bodo enkrat prešli na operacijski sistem FOSS, jim bo "
 "nekatera programska oprema že znana!"
 
-#: content/opt-green-handbook/handbook_web.md:529
+#: content/opt-green-handbook/index.md:532
 msgid "Why A New User Decides (Not) To Install A FOSS OS"
 msgstr ""
 "Zakaj se novi uporabnik odloči (ne) namestiti operacijskega sistema FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:531
+#: content/opt-green-handbook/index.md:534
 msgid ""
 "Many installation guides start right at the installation step or perhaps "
 "with data backup, but very few start with what is the most important step of "
@@ -12701,7 +12700,7 @@ msgstr ""
 "FOSS. Razumevanje motivacije uporabnikov za prehod vam bo pomagalo pri "
 "pripravi na ozaveščanje in promocijo dogodkov."
 
-#: content/opt-green-handbook/handbook_web.md:533
+#: content/opt-green-handbook/index.md:536
 msgid ""
 "Many potential users would never think to try a FOSS OS. This can be for "
 "many reasons, such as:"
@@ -12709,37 +12708,37 @@ msgstr ""
 "Mnogi potencialni uporabniki nikoli ne bi pomislili na preizkus "
 "operacijskega sistema FOSS. To je lahko iz več razlogov, na primer:"
 
-#: content/opt-green-handbook/handbook_web.md:535
+#: content/opt-green-handbook/index.md:538
 msgid "They don't know FOSS operating systems even exist."
 msgstr "Ne vedo, da operacijski sistemi FOSS sploh obstajajo."
 
-#: content/opt-green-handbook/handbook_web.md:536
+#: content/opt-green-handbook/index.md:539
 msgid "They believe FOSS won't meet their needs."
 msgstr "Verjamejo, da FOSS ne bo zadovoljil njihovih potreb."
 
-#: content/opt-green-handbook/handbook_web.md:537
+#: content/opt-green-handbook/index.md:540
 msgid "They think it's too hard to use."
 msgstr "Menijo, da je pretežak za uporabo."
 
-#: content/opt-green-handbook/handbook_web.md:538
+#: content/opt-green-handbook/index.md:541
 msgid "They see that their out-of-date software still works, so why bother."
 msgstr ""
 "Vidijo, da njihova zastarela programska oprema še vedno deluje, zakaj bi se "
 "torej trudili."
 
-#: content/opt-green-handbook/handbook_web.md:539
+#: content/opt-green-handbook/index.md:542
 msgid "They've heard that many things won't work."
 msgstr "Slišali so, da veliko stvari ne bo delovalo."
 
-#: content/opt-green-handbook/handbook_web.md:540
+#: content/opt-green-handbook/index.md:543
 msgid "They fear they won't have support when problems arise."
 msgstr "Bojijo se, da ne bodo imeli podpore, ko se pojavijo težave."
 
-#: content/opt-green-handbook/handbook_web.md:541
+#: content/opt-green-handbook/index.md:544
 msgid "They don't know anyone else who uses FOSS."
 msgstr "Ne poznajo nikogar drugega, ki bi uporabljal FOSS."
 
-#: content/opt-green-handbook/handbook_web.md:543
+#: content/opt-green-handbook/index.md:546
 msgid ""
 "And certainly more. It's important to consider these reasons in order to "
 "understand how to best address them. Some ideas that may help:"
@@ -12747,7 +12746,7 @@ msgstr ""
 "In zagotovo še več. Pomembno je upoštevati te razloge, da bi razumeli, kako "
 "jih najbolje obravnavati. Nekaj ​​idej, ki bi vam lahko pomagale:"
 
-#: content/opt-green-handbook/handbook_web.md:545
+#: content/opt-green-handbook/index.md:548
 msgid ""
 "Show, don't tell! Always have a demo computer which users can try. This can "
 "be at the install event itself, or before the event at a public presentation "
@@ -12760,7 +12759,7 @@ msgstr ""
 "uporabljajo napravo in se neposredno prepričajo, kako dobro deluje. Mnogi so "
 "presenečeni nad udobjem uporabe!"
 
-#: content/opt-green-handbook/handbook_web.md:546
+#: content/opt-green-handbook/index.md:549
 msgid ""
 "End of software support is a great moment to mention FOSS as a viable "
 "option. For example, when Microsoft or Apple discontinue support for their "
@@ -12774,7 +12773,7 @@ msgstr ""
 "ne ostane nobene druge možnosti kot nakup nove strojne opreme&mdash;FOSS je "
 "mogoče predstaviti kot način, da to napravo ohranijo v uporabi."
 
-#: content/opt-green-handbook/handbook_web.md:547
+#: content/opt-green-handbook/index.md:550
 msgid ""
 "Since the user may be ready to buy a new device anyway, this option has "
 "almost no risk (as long as they have backed up their data). They can try it "
@@ -12786,7 +12785,7 @@ msgstr ""
 "preizkusijo, ne da bi porabili denar, in morda bodo zadovoljni, kako dobro "
 "jim deluje."
 
-#: content/opt-green-handbook/handbook_web.md:548
+#: content/opt-green-handbook/index.md:551
 msgid ""
 "If you're really enthusiastic, consider demoing devices running FOSS that "
 "would otherwise be considered e-waste at markets or environmental festivals "
@@ -12804,7 +12803,7 @@ msgstr ""
 "hitrejša in bolj odzivna od programske opreme, ki jo oseba trenutno "
 "uporablja."
 
-#: content/opt-green-handbook/handbook_web.md:549
+#: content/opt-green-handbook/index.md:552
 msgid ""
 "Learn about a user's computing needs and help them assess whether a FOSS "
 "system will be suitable. For instance, determine if the user depends on some "
@@ -12816,7 +12815,7 @@ msgstr ""
 "lastniške programske opreme (npr. izdelkov Adobe) ali zunanje strojne opreme "
 "(npr. specializirane laboratorijske opreme), ki ne deluje (dobro) s FOSS."
 
-#: content/opt-green-handbook/handbook_web.md:550
+#: content/opt-green-handbook/index.md:553
 msgid ""
 "It may help to point out that other FOSS applications may meet their "
 "needs&mdash;highlighting that the software is not better or worse, just "
@@ -12829,7 +12828,7 @@ msgstr ""
 "preizkusijo. In ne pozabite: v redu je, če se odločijo, da alternativa zanje "
 "ni prava."
 
-#: content/opt-green-handbook/handbook_web.md:551
+#: content/opt-green-handbook/index.md:554
 msgid ""
 "Find out what peripherals they use such as printers and other external "
 "equipment and check if they are supported. If not, make that clear to them."
@@ -12837,7 +12836,7 @@ msgstr ""
 "Ugotovite, katere zunanje naprave uporabljajo, kot so tiskalniki in druga "
 "zunanja oprema, in preverite, ali so podprte. Če ne, jim to pojasnite."
 
-#: content/opt-green-handbook/handbook_web.md:552
+#: content/opt-green-handbook/index.md:555
 msgid ""
 "Explain why updates are important to fix security vulnerabilities, and how "
 "this is true for all software."
@@ -12845,7 +12844,7 @@ msgstr ""
 "Pojasnite, zakaj so posodobitve pomembne za odpravljanje varnostnih "
 "ranljivosti in kako to velja za vso programsko opremo."
 
-#: content/opt-green-handbook/handbook_web.md:553
+#: content/opt-green-handbook/index.md:556
 msgid ""
 "Point out specific examples to new users, when possible. There is sometimes "
 "media attention to the issue of security vulnerabilities in software. For "
@@ -12861,7 +12860,7 @@ msgstr ""
 "support-for-Windows-10-10351445.html) o tem, kaj lahko uporabniki storijo "
 "pred koncem življenjske dobe za Windows 10, vključno z namestitvijo Linuxa."
 
-#: content/opt-green-handbook/handbook_web.md:554
+#: content/opt-green-handbook/index.md:557
 msgid ""
 "Make a list of places nearby that offer support outside of the event. For "
 "instance, see the [places](https://endof10.org/places) listed at End Of 10, "
@@ -12873,7 +12872,7 @@ msgstr ""
 "se obrnite na druge lokalne organizacije in neodvisne računalniške trgovine, "
 "ki ponujajo podporo FOSS. Dajte ta seznam uporabnikom pred in po dogodku."
 
-#: content/opt-green-handbook/handbook_web.md:555
+#: content/opt-green-handbook/index.md:558
 msgid ""
 "Rather than to individuals, promote your event to groups of potential users "
 "together. For instance, approach a school, an environmental or political "
@@ -12889,7 +12888,7 @@ msgstr ""
 "med seboj, bo pomagala pri neformalni podpori po namestitvi novega "
 "operacijskega sistema."
 
-#: content/opt-green-handbook/handbook_web.md:556
+#: content/opt-green-handbook/index.md:559
 msgid ""
 "Here is an example of how KDE worked together with the Cape Verdean American "
 "Community Development community in Rhode Island to upgrade unused devices: "
@@ -12904,7 +12903,7 @@ msgstr ""
 "web/20240905233749/https://engineering.upvest.co/posts/sponsoring-future-"
 "engineers/)«."
 
-#: content/opt-green-handbook/handbook_web.md:557
+#: content/opt-green-handbook/index.md:560
 msgid ""
 "Here is an example of how KDE Eco worked together with a school in Hannover "
 "and a local company that donated hardware to teach 9th graders about the "
@@ -12918,7 +12917,7 @@ msgstr ""
 "upgrade-your-old-computer-to-linux). Morda bodo nekateri od teh razlogov "
 "odmevali pri vaši ciljni publiki."
 
-#: content/opt-green-handbook/handbook_web.md:558
+#: content/opt-green-handbook/index.md:561
 msgid ""
 "Think about the many benefits of switching to FOSS and communicate that "
 "clearly to new users. The End Of 10 website has a list of [5 reasons to "
@@ -12932,7 +12931,7 @@ msgstr ""
 "reasons-to-upgrade-your-old-computer-to-linux). Morda bodo nekateri od "
 "razlogov, ki so tam navedeni, odmevali pri vaši ciljni publiki."
 
-#: content/opt-green-handbook/handbook_web.md:559
+#: content/opt-green-handbook/index.md:562
 msgid ""
 "Don't be a fanatic: Respect that user freedom also means users can choose "
 "differently than you!"
@@ -12940,7 +12939,7 @@ msgstr ""
 "Ne bodite fanatik: spoštujte, da svoboda uporabnika pomeni tudi, da lahko "
 "uporabniki izbirajo drugače kot vi!"
 
-#: content/opt-green-handbook/handbook_web.md:561
+#: content/opt-green-handbook/index.md:564
 msgid ""
 "These are just some ideas. Do you have more? Don't hesitate to reach out to "
 "us and we can add them to future versions of this handbook."
@@ -12948,7 +12947,7 @@ msgstr ""
 "To je le nekaj idej. Imate še kaj? Brez oklevanja se obrnite na nas in jih "
 "bomo dodali v prihodnje različice tega priročnika."
 
-#: content/opt-green-handbook/handbook_web.md:563
+#: content/opt-green-handbook/index.md:566
 msgid ""
 "![KDE Eco stands at the *Lange Nacht der Wissenschaften* ('Long Night Of The "
 "Sciences') at the German Environment Agency office and at the "
@@ -12974,11 +12973,11 @@ msgstr ""
 "BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](images/sec3_stands_lndw-"
 "umweltfestival.jpg)"
 
-#: content/opt-green-handbook/handbook_web.md:565
+#: content/opt-green-handbook/index.md:568
 msgid "Venue, Logistics, and Outreach"
 msgstr "Prizorišče, logistika in ozaveščanje"
 
-#: content/opt-green-handbook/handbook_web.md:567
+#: content/opt-green-handbook/index.md:570
 msgid ""
 "Once you and your team of FOSS angels are ready, and you have some ideas "
 "about how to promote the event, it's time to start organizing the specifics. "
@@ -12988,7 +12987,7 @@ msgstr ""
 "kako promovirati dogodek, je čas, da začnete organizirati podrobnosti. Tukaj "
 "je seznam nekaterih glavnih vidikov, ki jih morate upoštevati:"
 
-#: content/opt-green-handbook/handbook_web.md:569
+#: content/opt-green-handbook/index.md:572
 msgid ""
 "You will need a venue and any necessary supplies. Examples of places that "
 "may offer free rooms include libraries, community centers, cafes, churches, "
@@ -13007,7 +13006,7 @@ msgstr ""
 "gnujev, vodnike FOSS in drugo gradivo za spodbujanje in motiviranje novih "
 "uporabnikov."
 
-#: content/opt-green-handbook/handbook_web.md:571
+#: content/opt-green-handbook/index.md:574
 msgid ""
 "A USB WiFi dongle is useful if the device cannot connect to the internet "
 "after installation. This issue often pops up with Apple laptops with the "
@@ -13021,7 +13020,7 @@ msgstr ""
 "znajdete v takšni situaciji, je USB WiFi ključek koristen za namestitev "
 "potrebnih gonilnikov, če so na voljo, naknadno."
 
-#: content/opt-green-handbook/handbook_web.md:573
+#: content/opt-green-handbook/index.md:576
 msgid ""
 "Prepare a Code of Conduct (CoC) for volunteers and attendees. Make sure "
 "everyone is aware of it and have a plan for how to deal with violations. An "
@@ -13034,7 +13033,7 @@ msgstr ""
 "kodeksa ravnanja iz skupnosti FOSS najdete v skupnosti [KDE](https://kde.org/"
 "code-of-conduct/), s hitrim iskanjem na spletu pa je še veliko več primerov."
 
-#: content/opt-green-handbook/handbook_web.md:575
+#: content/opt-green-handbook/index.md:578
 msgid ""
 "Spread the word, online and offline. If you're volunteering with an "
 "organization, ask what they're doing for outreach. Hang posters in your "
@@ -13056,7 +13055,7 @@ msgstr ""
 "lahko celo promovirata dogodek (glejte [tukaj](https://nachhaltig-in-graz.at/"
 "linux-statt-microsoft/) za primer v Gradcu v Avstriji)."
 
-#: content/opt-green-handbook/handbook_web.md:577
+#: content/opt-green-handbook/index.md:580
 msgid ""
 "Local media is an effective way to reach people in your area. Put an ad in "
 "your local paper, write local journalists, contact local radio stations, "
@@ -13072,7 +13071,7 @@ msgstr ""
 "dobro medijsko privlačnostjo, na primer ob koncu podpore za Windows 10 ali "
 "pri sodelovanju z okoljskimi ali družbeno usmerjenimi skupnostmi."
 
-#: content/opt-green-handbook/handbook_web.md:579
+#: content/opt-green-handbook/index.md:582
 msgid ""
 "And don't forget: Invite entire groups and communities, not just "
 "individuals. It is easier to overcome network effects and get support when "
@@ -13082,11 +13081,11 @@ msgstr ""
 "Lažje je premagati omrežne učinke in pridobiti podporo, če vaš družabni krog "
 "uporablja FOSS!"
 
-#: content/opt-green-handbook/handbook_web.md:581
+#: content/opt-green-handbook/index.md:584
 msgid "Securing User Data: Before Or During The Event?"
 msgstr "Zaščita uporabniških podatkov: pred ali med dogodkom?"
 
-#: content/opt-green-handbook/handbook_web.md:583
+#: content/opt-green-handbook/index.md:586
 msgid ""
 "Before installing anything, it's critical to have backups of all data on the "
 "device. This is important enough to repeat: it is critical to have backups "
@@ -13097,7 +13096,7 @@ msgstr ""
 "pomena je, da imate varnostne kopije vseh podatkov, preden karkoli "
 "namestite. Tega koraka ne preskočite!"
 
-#: content/opt-green-handbook/handbook_web.md:585
+#: content/opt-green-handbook/index.md:588
 msgid ""
 "Data backups can be done either before or during the event. Either way, your "
 "outreach should communicate clearly what you expect. The downside of doing "
@@ -13114,7 +13113,7 @@ msgstr ""
 "traja veliko časa. V vsakem primeru se prepričajte, da obiskovalci vedo, kaj "
 "pričakujete, preden pridejo."
 
-#: content/opt-green-handbook/handbook_web.md:587
+#: content/opt-green-handbook/index.md:590
 msgid ""
 "In the Opt Green project, we've seen that many people keep old devices as "
 "archives of their data, not realizing that the data can be secured on an "
@@ -13133,15 +13132,15 @@ msgstr ""
 "verjetno organizirate več dogodkov, lahko pridejo na naslednjega, da "
 "namestijo svoj novi operacijski sistem."
 
-#: content/opt-green-handbook/handbook_web.md:589
+#: content/opt-green-handbook/index.md:592
 msgid "Stage 3. During Install Events"
 msgstr "3. faza: Med namestitvenimi dogodki"
 
-#: content/opt-green-handbook/handbook_web.md:591
+#: content/opt-green-handbook/index.md:594
 msgid "Showing, Not Telling"
 msgstr "Prikazovanje, ne pripovedovanje"
 
-#: content/opt-green-handbook/handbook_web.md:593
+#: content/opt-green-handbook/index.md:596
 msgid ""
 "Even better than telling a curious user what FOSS can do, show them. Have a "
 "demo computer ready or boot into a live environment (although be careful "
@@ -13162,7 +13161,7 @@ msgstr ""
 "kot bi pričakovali od katerega koli sodobnega operacijskega sistema, se "
 "mnogi strahovi hitro umirijo."
 
-#: content/opt-green-handbook/handbook_web.md:595
+#: content/opt-green-handbook/index.md:598
 msgid ""
 "Stick to familiar interfaces whenever possible. What does that mean? For "
 "example, when software can be installed using a GUI, use that, and not the "
@@ -13180,7 +13179,7 @@ msgstr ""
 "kar bi morali storiti, ali pa jih vprašajte, ali jih zanima več. Večina "
 "uporabnikov išče najpreprostejši način, da nekaj naredijo. Dajte jim to!"
 
-#: content/opt-green-handbook/handbook_web.md:597
+#: content/opt-green-handbook/index.md:600
 msgid ""
 "![Screenshot from KDE Eco blog showing a command line interface in [Konsole]"
 "(https://apps.kde.org/konsole/). This is really scary to many new users! "
@@ -13193,11 +13192,11 @@ msgstr ""
 "licenco [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](images/"
 "sec3_konsole.png)"
 
-#: content/opt-green-handbook/handbook_web.md:599
+#: content/opt-green-handbook/index.md:602
 msgid "Getting To Know A User's Computing Needs"
 msgstr "Spoznavanje uporabnikovih računalniških potreb"
 
-#: content/opt-green-handbook/handbook_web.md:601
+#: content/opt-green-handbook/index.md:604
 msgid ""
 "Before you install anything, get to know the needs of the person you're "
 "helping and inform them how FOSS may be different or similar. Have them try "
@@ -13226,7 +13225,7 @@ msgstr ""
 "računalnik? Kaj želijo z njim početi? Katero programsko opremo potrebujejo "
 "ali redno uporabljajo?"
 
-#: content/opt-green-handbook/handbook_web.md:603
+#: content/opt-green-handbook/index.md:606
 msgid ""
 "A user's needs is often determined by their work or study, which can present "
 "insurmountable obstacles. If you need a particular computer program and it "
@@ -13242,7 +13241,7 @@ msgstr ""
 "uporabnikov operacijski sistem. Ne želite, da oseba ne more početi tistega, "
 "kar mora početi s svojim računalnikom za delo!"
 
-#: content/opt-green-handbook/handbook_web.md:605
+#: content/opt-green-handbook/index.md:608
 msgid ""
 "For some proprietary applications, a web-based version of the software may "
 "be available (for example, Microsoft Word also has a web version). Look into "
@@ -13258,7 +13257,7 @@ msgstr ""
 "opremi, ki lahko zadovoljijo uporabnikove potrebe. Pokažite te možnosti "
 "novim uporabnikom. Na spletu poiščite številne predloge."
 
-#: content/opt-green-handbook/handbook_web.md:607
+#: content/opt-green-handbook/index.md:610
 msgid ""
 "In some cases it may be possible to run Windows software on a FOSS system "
 "using a compatability layer such as [Wine](https://www.winehq.org/) or Wine-"
@@ -13282,11 +13281,11 @@ msgstr ""
 "igrajo na svojem novem operacijskem sistemu. Obstajajo celo distribucije, "
 "prilagojene posebej za igranje iger."
 
-#: content/opt-green-handbook/handbook_web.md:609
+#: content/opt-green-handbook/index.md:612
 msgid "Securing User Data"
 msgstr "Zaščita uporabniških podatkov"
 
-#: content/opt-green-handbook/handbook_web.md:611
+#: content/opt-green-handbook/index.md:614
 msgid ""
 "See above for whether to do data backups before or during the event. The "
 "most straightforward way to backup data is to manually copy-and-paste the "
@@ -13303,7 +13302,7 @@ msgstr ""
 "(https://www.repaircafe-hilpoltstein.de/offene-werkstatt/pc-upgrades/"
 "festplatte-austauschen) (v nemščini), ki opisuje, kako to storiti."
 
-#: content/opt-green-handbook/handbook_web.md:613
+#: content/opt-green-handbook/index.md:616
 msgid ""
 "If you're working with a non-profit organization, there may be issues with "
 "selling SDDs at the event. Some volunteers have told us they sell the SSD "
@@ -13315,7 +13314,7 @@ msgstr ""
 "prodajajo po nabavni vrednosti in uporabnikom dajo račun, da bi se izognili "
 "pravnim težavam. Preden to storite, se najprej pozanimajte."
 
-#: content/opt-green-handbook/handbook_web.md:615
+#: content/opt-green-handbook/index.md:618
 msgid ""
 "Often overlooked is finding out where user passwords are stored. Ask users "
 "if they know. And they may not! Many browsers store passwords, so you may "
@@ -13325,7 +13324,7 @@ msgstr ""
 "uporabnike, ali vedo. In morda ne! Mnogi brskalniki shranjujejo gesla, zato "
 "boste morda želeli varnostno kopirati tudi te podatke, za vsak slučaj."
 
-#: content/opt-green-handbook/handbook_web.md:617
+#: content/opt-green-handbook/index.md:620
 msgid ""
 "If a user has data backed up on the cloud, this can also be used to migrate "
 "their data to the new system. Although you may have opinions about the "
@@ -13339,11 +13338,11 @@ msgstr ""
 "zasebnosti in podobnem. Uporabite tisto, kar uporabljajo oni, in jim "
 "ponudite alternative, če jih to zanima."
 
-#: content/opt-green-handbook/handbook_web.md:619
+#: content/opt-green-handbook/index.md:622
 msgid "Installing A FOSS Operating System"
 msgstr "Namestitev operacijskega sistema FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:621
+#: content/opt-green-handbook/index.md:624
 msgid ""
 "Make sure all user data is backed up and secure before doing anything else. "
 "It is also important to have a disclaimer before the event, such as:"
@@ -13352,27 +13351,27 @@ msgstr ""
 "podatki varnostno kopirani in varni. Pomembno je tudi, da imate pred "
 "dogodkom izjavo o omejitvi odgovornosti, na primer:"
 
-#: content/opt-green-handbook/handbook_web.md:623
+#: content/opt-green-handbook/index.md:626
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
 "To je prostovoljna pomoč, s katero novim uporabnikom pokažemo, kako si lahko "
 "pomagajo sami."
 
-#: content/opt-green-handbook/handbook_web.md:624
+#: content/opt-green-handbook/index.md:627
 msgid "No contract is being established."
 msgstr "Ne sklepamo nobene pogodbe."
 
-#: content/opt-green-handbook/handbook_web.md:625
+#: content/opt-green-handbook/index.md:628
 msgid "Devices and data can break when you touch them."
 msgstr "Naprave in podatki se lahko pokvarijo, ko se jih dotaknete."
 
-#: content/opt-green-handbook/handbook_web.md:626
+#: content/opt-green-handbook/index.md:629
 msgid ""
 "Attendees are responsible for their devices and for having data backups."
 msgstr ""
 "Udeleženci so odgovorni za svoje naprave in za varnostne kopije podatkov."
 
-#: content/opt-green-handbook/handbook_web.md:628
+#: content/opt-green-handbook/index.md:631
 msgid ""
 "Tip: It's always best practice to ask before touching someone else's "
 "computer! Ideally you will not need to touch the device, as the user can "
@@ -13382,7 +13381,7 @@ msgstr ""
 "nekoga drugega! V idealnem primeru se vam naprave ne bo treba dotikati, saj "
 "se uporabnik lahko z vašim vodstvom nauči, kako vse narediti sam."
 
-#: content/opt-green-handbook/handbook_web.md:630
+#: content/opt-green-handbook/index.md:633
 msgid ""
 "The disclaimer can be presented orally, but it's also worth having it in "
 "writing with a signature before installing anything. If you feel they are "
@@ -13398,23 +13397,23 @@ msgstr ""
 "html). Za pravno zavezujočo prisotnost teh dokumentov se obrnite na "
 "pristojne organe."
 
-#: content/opt-green-handbook/handbook_web.md:632
+#: content/opt-green-handbook/index.md:635
 msgid "The installation process generally follows these 3 steps:"
 msgstr "Postopek namestitve običajno sledi tem trem korakom:"
 
-#: content/opt-green-handbook/handbook_web.md:634
+#: content/opt-green-handbook/index.md:637
 msgid "Prepare a bootable USB drive or DVD"
 msgstr "Priprava zagonskega pogona USB ali DVD-ja"
 
-#: content/opt-green-handbook/handbook_web.md:635
+#: content/opt-green-handbook/index.md:638
 msgid "Enter into BIOS and boot from the drive"
 msgstr "Vstop v BIOS in zagon s pogona"
 
-#: content/opt-green-handbook/handbook_web.md:636
+#: content/opt-green-handbook/index.md:639
 msgid "Install the OS"
 msgstr "Namestitev operacijskega sistema"
 
-#: content/opt-green-handbook/handbook_web.md:638
+#: content/opt-green-handbook/index.md:641
 msgid ""
 "There are numerous online guides for all distributions for how to prepare a "
 "bootable drive. There is also cross-platform software to prepare the drive, "
@@ -13430,7 +13429,7 @@ msgstr ""
 "priporočamo, da to storite, da se prepričate, da datoteka ni poškodovana in "
 "da gre za predvideno programsko opremo, ki so jo izdali razvijalci."
 
-#: content/opt-green-handbook/handbook_web.md:640
+#: content/opt-green-handbook/index.md:643
 msgid ""
 "![Screenshot of Fedora Media Writer. The process could not be easier: Choose "
 "which OS to install, select the USB drive to write to, slowly sip your tea "
@@ -13447,7 +13446,7 @@ msgstr ""
 "(https://creativecommons.org/licenses/by-sa/4.0/legalcode).)](images/"
 "sec3_FMW-select-image-source1.png)"
 
-#: content/opt-green-handbook/handbook_web.md:642
+#: content/opt-green-handbook/index.md:645
 msgid ""
 "In order to boot into BIOS or boot menu, you must press and hold a "
 "particular key at boot (usually F2, F10, F12, Esc, etc. for Windows devices "
@@ -13463,7 +13462,7 @@ msgstr ""
 "potrebnih za vstop v BIOS ali zagonski meni, glejte [tukaj](https://lug-vs."
 "org/index.php/Umstieg_auf_Linux#Von_Bootmedium_starten)."
 
-#: content/opt-green-handbook/handbook_web.md:644
+#: content/opt-green-handbook/index.md:647
 msgid ""
 "We recommend booting into a so-called live environment. This allows a user "
 "to try out the software on their own device before installing anything (make "
@@ -13488,7 +13487,7 @@ msgstr ""
 "da bodo po namestitvi potrebni dodatni koraki. Vendar pa tudi če vse deluje "
 "v živem okolju, to ni zagotovilo, da bo delovalo tudi po namestitvi."
 
-#: content/opt-green-handbook/handbook_web.md:646
+#: content/opt-green-handbook/index.md:649
 msgid ""
 "During installation it will be necessary to create a new username, password, "
 "etc. Have the user write these down on a piece of paper. Do not skip this "
@@ -13500,11 +13499,11 @@ msgstr ""
 "Pogosta težava po namestitvi je, da pozabite novo geslo, včasih pa celo "
 "uporabniško ime!"
 
-#: content/opt-green-handbook/handbook_web.md:648
+#: content/opt-green-handbook/index.md:651
 msgid "Using The FOSS Operating System"
 msgstr "Uporaba operacijskega sistema FOSS"
 
-#: content/opt-green-handbook/handbook_web.md:650
+#: content/opt-green-handbook/index.md:653
 msgid ""
 "At this point you'll want to show the user how to do things in their new OS. "
 "Some tips so they can use their new system:"
@@ -13512,7 +13511,7 @@ msgstr ""
 "Na tej točki boste želeli uporabniku pokazati, kako naj počne stvari v "
 "svojem novem operacijskem sistemu. Nekaj ​​nasvetov za uporabo novega sistema:"
 
-#: content/opt-green-handbook/handbook_web.md:652
+#: content/opt-green-handbook/index.md:655
 msgid ""
 "Navigating their new system such as application menu, software center, "
 "volume adjustment, printer administration, and so on (it helps to let them "
@@ -13522,11 +13521,11 @@ msgstr ""
 "prilagajanje glasnosti, upravljanje tiskalnika itd. (koristno je, če jim "
 "pustite, da to storijo sami, in jim pustite, da postavljajo vprašanja)"
 
-#: content/opt-green-handbook/handbook_web.md:653
+#: content/opt-green-handbook/index.md:656
 msgid "Installing or unsinstalling applications"
 msgstr "Nameščanje ali odstranjevanje aplikacij"
 
-#: content/opt-green-handbook/handbook_web.md:654
+#: content/opt-green-handbook/index.md:657
 msgid ""
 "Updating the system and applications (completing this action may take some "
 "time)"
@@ -13534,7 +13533,7 @@ msgstr ""
 "Posodabljanje sistema in aplikacij (dokončanje tega dejanja lahko traja "
 "nekaj časa)"
 
-#: content/opt-green-handbook/handbook_web.md:655
+#: content/opt-green-handbook/index.md:658
 msgid ""
 "Copying the user's backed up data onto the new OS (completing this action "
 "may take some time)"
@@ -13542,7 +13541,7 @@ msgstr ""
 "Kopiranje varnostno kopiranih podatkov uporabnika v nov operacijski sistem "
 "(dokončanje tega dejanja lahko traja nekaj časa)"
 
-#: content/opt-green-handbook/handbook_web.md:656
+#: content/opt-green-handbook/index.md:659
 msgid ""
 "Optional: Setting up automated backup software with their external hard "
 "drive (completing this action may take some time)"
@@ -13550,7 +13549,7 @@ msgstr ""
 "Izbirno: Nastavitev programske opreme za samodejno varnostno kopiranje z "
 "zunanjim trdim diskom (dokončanje tega dejanja lahko traja nekaj časa)"
 
-#: content/opt-green-handbook/handbook_web.md:658
+#: content/opt-green-handbook/index.md:661
 msgid ""
 "![Image of [Discover](https://apps.kde.org/discover/) in KDE Plasma. "
 "Discover is used to update the system as well as to find and install "
@@ -13564,7 +13563,7 @@ msgstr ""
 "licenco [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](images/"
 "sec3_plasma-discover.png)"
 
-#: content/opt-green-handbook/handbook_web.md:660
+#: content/opt-green-handbook/index.md:663
 msgid ""
 "It may help to demonstrate how installing software may differ from their "
 "past system. Unlike with proprietary operating systems, installing and "
@@ -13579,11 +13578,11 @@ msgstr ""
 "Pojasnite, da je to priporočen način nameščanja in posodabljanja programske "
 "opreme v ekosistemu FOSS."
 
-#: content/opt-green-handbook/handbook_web.md:662
+#: content/opt-green-handbook/index.md:665
 msgid "Stage 4. After Install Events"
 msgstr "Faza 4. Dogodki po namestitvi"
 
-#: content/opt-green-handbook/handbook_web.md:664
+#: content/opt-green-handbook/index.md:667
 msgid ""
 "Although we'll only briefly cover this here, do not underestimate the "
 "importance of offering follow-up support. The installation itself may go "
@@ -13595,7 +13594,7 @@ msgstr ""
 "na nov operacijski sistem v mnogih primerih zahtevalo dodatno pomoč, na "
 "primer:"
 
-#: content/opt-green-handbook/handbook_web.md:666
+#: content/opt-green-handbook/index.md:669
 msgid ""
 "They have specific software needs (e.g., applications they use for work, tax "
 "software) and need extra guidance."
@@ -13604,7 +13603,7 @@ msgstr ""
 "uporabljajo za delo, davčna programska oprema) in potrebujejo dodatno "
 "vodstvo."
 
-#: content/opt-green-handbook/handbook_web.md:667
+#: content/opt-green-handbook/index.md:670
 msgid ""
 "They have peripheral devices (e.g., printers, scanners) that do not seem to "
 "work with their new operating system."
@@ -13612,11 +13611,11 @@ msgstr ""
 "Imajo periferne naprave (npr. tiskalnike, optične bralnike), ki očitno ne "
 "delujejo z njihovim novim operacijskim sistemom."
 
-#: content/opt-green-handbook/handbook_web.md:668
+#: content/opt-green-handbook/index.md:671
 msgid "An update seems to have broken their system."
 msgstr "Zdi se, da je posodobitev pokvarila njihov sistem."
 
-#: content/opt-green-handbook/handbook_web.md:669
+#: content/opt-green-handbook/index.md:672
 msgid ""
 "Their bootloader appears to be broken (all too often the case with dual boot "
 "setups)."
@@ -13624,7 +13623,7 @@ msgstr ""
 "Zdi se, da je njihov zagonski nalagalnik pokvarjen (prepogosto se to zgodi "
 "pri nastavitvah dvojnega zagona)."
 
-#: content/opt-green-handbook/handbook_web.md:671
+#: content/opt-green-handbook/index.md:674
 msgid ""
 "In some cases these problems are easy to resolve, but it takes know-how that "
 "a new user may not have. In other cases, it may take more work and time on "
@@ -13634,7 +13633,7 @@ msgstr ""
 "znanje, ki ga nov uporabnik morda nima. V drugih primerih lahko pomočnik "
 "vloži več dela in časa."
 
-#: content/opt-green-handbook/handbook_web.md:673
+#: content/opt-green-handbook/index.md:676
 msgid ""
 "Regarding a user's specific software needs, ideally these are identified "
 "*before* installing anything; nonetheless, it is easy to overlook something "
@@ -13647,7 +13646,7 @@ msgstr ""
 "posvetovanju pred namestitvijo. Bodite pripravljeni pomagati novim "
 "uporabnikom, ko se pojavijo te nepričakovane težave."
 
-#: content/opt-green-handbook/handbook_web.md:675
+#: content/opt-green-handbook/index.md:678
 msgid ""
 "We recommend having regular FOSS consultation hours (e.g., once a week or "
 "once a month), if you have the capacity to do so. Letting new users know "
@@ -13658,7 +13657,7 @@ msgstr ""
 "sami, ko se bodo pojavile težave, lahko to resnično zmanjša ovire za "
 "sprejetje."
 
-#: content/opt-green-handbook/handbook_web.md:677
+#: content/opt-green-handbook/index.md:680
 msgid ""
 "If you're organizing multiple events, let users know about the date and "
 "times of the next events. If there are other organizations in your area that "
@@ -13670,7 +13669,7 @@ msgstr ""
 "podporo za FOSS, tudi za plačilo, sestavite seznam in ga dajte udeležencem "
 "vaših dogodkov."
 
-#: content/opt-green-handbook/handbook_web.md:679
+#: content/opt-green-handbook/index.md:682
 msgid ""
 "Don't forget to demonstrate how they can help themselves as well. There is a "
 "plethora of online resources, and although these are not for everyone (many "
@@ -13688,7 +13687,7 @@ msgstr ""
 "Sestavite seznam forumov in poštnih seznamov, ki so pomembni za njihov novi "
 "operacijski sistem."
 
-#: content/opt-green-handbook/handbook_web.md:681
+#: content/opt-green-handbook/index.md:684
 msgid ""
 "![XKCD comic [\"627: Tech Support Cheat Sheet\"](https://xkcd.com/627/) "
 "(published under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5."
@@ -13698,7 +13697,7 @@ msgstr ""
 "com/627/) (objavljeno pod licenco [CC-BY-NC-2.5](https://spdx.org/licenses/"
 "CC-BY-NC-2.5.html)).](images/sec3_tech_support_cheat_sheet.png)"
 
-#: content/opt-green-handbook/handbook_web.md:683
+#: content/opt-green-handbook/index.md:686
 msgid ""
 "For online support, it helps to demonstrate a workflow for resolving "
 "problems. This includes:"
@@ -13706,7 +13705,7 @@ msgstr ""
 "Za spletno podporo je koristno prikazati potek dela za reševanje težav. To "
 "vključuje:"
 
-#: content/opt-green-handbook/handbook_web.md:685
+#: content/opt-green-handbook/index.md:688
 msgid ""
 "Always having a recent backup. If something goes wrong, having a backup "
 "makes it much easier to start over without risk of data loss."
@@ -13714,7 +13713,7 @@ msgstr ""
 "Vedno imeti nedavno varnostno kopijo. Če gre kaj narobe, varnostna kopija "
 "olajša nov začetek brez tveganja izgube podatkov."
 
-#: content/opt-green-handbook/handbook_web.md:686
+#: content/opt-green-handbook/index.md:689
 msgid ""
 "Read error messages. In many cases, the error message will give you critical "
 "information for fixing an issue."
@@ -13722,7 +13721,7 @@ msgstr ""
 "Prebrati sporočila o napakah. V mnogih primerih vam bo sporočilo o napaki "
 "dalo ključne informacije za odpravo težave."
 
-#: content/opt-green-handbook/handbook_web.md:687
+#: content/opt-green-handbook/index.md:690
 msgid ""
 "Search online for solutions. It sometimes helps to paste the error message "
 "along with \"solved\" in a search engine to find a solution more quickly."
@@ -13730,7 +13729,7 @@ msgstr ""
 "Poiščite rešitve na spletu. Včasih pomaga, da sporočilo o napaki skupaj z "
 "besedo »rešeno« prilepite v iskalnik, da hitreje najdete rešitev."
 
-#: content/opt-green-handbook/handbook_web.md:688
+#: content/opt-green-handbook/index.md:691
 msgid ""
 "Read forum posts. Don't try copy-and-paste terminal commands willy-nilly. "
 "Read the entire post first to see if the suggested solutions actually helped "
@@ -13740,7 +13739,7 @@ msgstr ""
 "ukazov terminala. Najprej preberite celotno objavo, da vidite, ali so "
 "predlagane rešitve dejansko pomagale, preden sami poskusite kaj takega."
 
-#: content/opt-green-handbook/handbook_web.md:689
+#: content/opt-green-handbook/index.md:692
 msgid ""
 "Post your problem to a forum. Find the right forum, include information "
 "about the system (software, version, hardware, actions that triggered the "
@@ -13756,7 +13755,7 @@ msgstr ""
 "navsezadnje govorimo o internetu – vendar naj vas to ne prizadene. Mnogi "
 "bodo potrpežljivi in ​​​​ustrežljivi. Osredotočite svojo energijo nanje!"
 
-#: content/opt-green-handbook/handbook_web.md:691
+#: content/opt-green-handbook/index.md:694
 msgid ""
 "![Screenshot of [KDE's forum](https://discuss.kde.org/), where users can ask "
 "and answer questions about KDE Plasma on various distros.](images/"
@@ -13766,7 +13765,7 @@ msgstr ""
 "uporabniki postavljajo in odgovarjajo na vprašanja o KDE Plasmi na različnih "
 "distribucijah.](images/sec3_discuss-kde-org.png)"
 
-#: content/opt-green-handbook/handbook_web.md:693
+#: content/opt-green-handbook/index.md:696
 msgid ""
 "Some people offer additional support at an hourly cost outside of events. If "
 "you are a helper and decide to do this, make sure you are on the right side "
@@ -13778,15 +13777,15 @@ msgstr ""
 "vseh pravnih vprašanj, ki jih to lahko predstavlja, in da se organizacija, "
 "ki stoji za dogodkom, s tem strinja."
 
-#: content/opt-green-handbook/handbook_web.md:695
+#: content/opt-green-handbook/index.md:698
 msgid "Additional Resources"
 msgstr "Dodatni viri"
 
-#: content/opt-green-handbook/handbook_web.md:697
+#: content/opt-green-handbook/index.md:700
 msgid "Organizing An Install Event"
 msgstr "Organizacija namestitvenega dogodka"
 
-#: content/opt-green-handbook/handbook_web.md:699
+#: content/opt-green-handbook/index.md:702
 msgid ""
 "More can be found at [New User Support Awesome List](https://invent.kde.org/"
 "teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md)."
@@ -13795,7 +13794,7 @@ msgstr ""
 "uporabnikom](https://invent.kde.org/teams/eco/opt-green/-/blob/master/"
 "awesome-list-new-user-linux-support.md)."
 
-#: content/opt-green-handbook/handbook_web.md:701
+#: content/opt-green-handbook/index.md:704
 msgid ""
 "[How do I organize an install party?](https://endof10.org/faq/#how-do-i-"
 "organize-an-install-party) -- Short guide to organizing an install party, "
@@ -13805,7 +13804,7 @@ msgstr ""
 "organize-an-install-party) -- Kratek vodnik za organizacijo namestitvene "
 "zabave, iz pogostih vprašanj kampanje End Of 10 (2025)"
 
-#: content/opt-green-handbook/handbook_web.md:702
+#: content/opt-green-handbook/index.md:705
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/"
 "Umstieg_auf_Linux) -- Preparing for a Linux install party, from LUG "
@@ -13815,7 +13814,7 @@ msgstr ""
 "Umstieg_auf_Linux) -- Priprava na namestitveno zabavo Linuxa, iz LUG "
 "Villingen-Schwenningen e.V. (nemščina) (2025)"
 
-#: content/opt-green-handbook/handbook_web.md:703
+#: content/opt-green-handbook/index.md:706
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux) -- Guides to getting started with Linux, from Repair-Café "
@@ -13825,7 +13824,7 @@ msgstr ""
 "werkstatt/linux) -- Vodniki za začetek dela z Linuxom, iz Repair-Café "
 "Hilpoltstein (nemščina) (2025)"
 
-#: content/opt-green-handbook/handbook_web.md:704
+#: content/opt-green-handbook/index.md:707
 msgid ""
 "[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
 "-- Organizing an installation event, from the Fedora Linux community (2019)"
@@ -13833,7 +13832,7 @@ msgstr ""
 "[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
 "-- Organizacija namestitvenega dogodka, iz skupnosti Fedora Linux (2019)"
 
-#: content/opt-green-handbook/handbook_web.md:705
+#: content/opt-green-handbook/index.md:708
 msgid ""
 "[Linux Installfest HOWTO](https://tldp.org/HOWTO/Installfest-HOWTO/index."
 "html) -- Guidelines for running a successful installfest, from The Linux "
@@ -13843,11 +13842,11 @@ msgstr ""
 "html) -- Smernice za uspešno izvedbo namestitvenega dogodka, iz Projekta "
 "dokumentacije Linux (2012)"
 
-#: content/opt-green-handbook/handbook_web.md:707
+#: content/opt-green-handbook/index.md:710
 msgid "FOSS On Other Devices"
 msgstr "FOSS na drugih napravah"
 
-#: content/opt-green-handbook/handbook_web.md:709
+#: content/opt-green-handbook/index.md:712
 msgid ""
 "We have focused on PCs in this handbook, but many other devices can also be "
 "upgraded to FOSS. In some cases, the Free & Open Source Software may still "
@@ -13862,11 +13861,11 @@ msgstr ""
 "Pozor! Vendar pa boste morda želeli raziskati vznemirljiv svet FOSS na "
 "drugih napravah. Tukaj je nekaj primerov:"
 
-#: content/opt-green-handbook/handbook_web.md:711
+#: content/opt-green-handbook/index.md:714
 msgid "Smartphones & Tablets"
 msgstr "Pametni telefoni in tablični računalniki"
 
-#: content/opt-green-handbook/handbook_web.md:712
+#: content/opt-green-handbook/index.md:715
 msgid ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
@@ -13874,21 +13873,21 @@ msgstr ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
 
-#: content/opt-green-handbook/handbook_web.md:713
+#: content/opt-green-handbook/index.md:716
 msgid "Android derivatives: Replicant, lineageOS, e/OS"
 msgstr "Izpeljanke Androida: Replicant, lineageOS, e/OS"
 
-#: content/opt-green-handbook/handbook_web.md:714
+#: content/opt-green-handbook/index.md:717
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
 msgstr ""
 "Domači strežnik (FreedomBox za sinhronizacijo datotek, klepet, e-pošto, "
 "medije)"
 
-#: content/opt-green-handbook/handbook_web.md:715
+#: content/opt-green-handbook/index.md:718
 msgid "Home automation (Home Assistant, included with FreedomBox)"
 msgstr "Domača avtomatizacija (Home Assistant, vključen v FreedomBox)"
 
-#: content/opt-green-handbook/handbook_web.md:716
+#: content/opt-green-handbook/index.md:719
 msgid ""
 "Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
@@ -13896,15 +13895,15 @@ msgstr ""
 "Pametni televizorji (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-"
 "bigscreen.org/))"
 
-#: content/opt-green-handbook/handbook_web.md:717
+#: content/opt-green-handbook/index.md:720
 msgid "E-book readers (KOReader)"
 msgstr "Bralniki e-knjig (KOReader)"
 
-#: content/opt-green-handbook/handbook_web.md:718
+#: content/opt-green-handbook/index.md:721
 msgid "Garage door openers (OpenGarage, ratgdo)"
 msgstr "Odpiralniki garažnih vrat (OpenGarage, ratgdo)"
 
-#: content/opt-green-handbook/handbook_web.md:720
+#: content/opt-green-handbook/index.md:723
 msgid ""
 "There are certainly other exciting projects to make your digital life fully "
 "FOSS and independent. It's a big Free & Open Source Software world out there."
@@ -13914,7 +13913,7 @@ msgstr ""
 "(FOSS) in ga naredili neodvisnega. Zunaj je velik svet proste in odprtokodne "
 "programske opreme."
 
-#: content/opt-green-handbook/handbook_web.md:722
+#: content/opt-green-handbook/index.md:725
 msgid ""
 "![Plasma Mobile is an open-source user interface for mobile devices "
 "developed by the KDE community. (Image from KDE released under a [CC-BY-4.0]"
@@ -13925,11 +13924,11 @@ msgstr ""
 "je razvila skupnost KDE. (Slika iz KDE, izdana pod licenco [CC-BY-4.0]"
 "(https://spdx.org/licenses/CC-BY-4.0.html).)](images/sec3_plasmaphone.png)"
 
-#: content/opt-green-handbook/handbook_web.md:724
+#: content/opt-green-handbook/index.md:727
 msgid "Troubleshooting"
 msgstr "Odpravljanje težav"
 
-#: content/opt-green-handbook/handbook_web.md:726
+#: content/opt-green-handbook/index.md:729
 msgid ""
 "Here are some general resources for resolving some problems that may arise. "
 "This list is in no way comprehensive, and it focuses on basic solutions (e."
@@ -13943,7 +13942,7 @@ msgstr ""
 "vrstice). Če imate specifične težave, si oglejte zgornji potek dela za "
 "osnovni vodnik za iskanje rešitev na spletu."
 
-#: content/opt-green-handbook/handbook_web.md:728
+#: content/opt-green-handbook/index.md:731
 msgid ""
 "[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
@@ -13951,7 +13950,7 @@ msgstr ""
 "[Linux se ne namešča](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
 
-#: content/opt-green-handbook/handbook_web.md:729
+#: content/opt-green-handbook/index.md:732
 msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
@@ -13959,7 +13958,7 @@ msgstr ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 
-#: content/opt-green-handbook/handbook_web.md:730
+#: content/opt-green-handbook/index.md:733
 msgid ""
 "[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
 "com/blog/install-linux-nvidia-driver/)"
@@ -13967,7 +13966,7 @@ msgstr ""
 "[Namestitev gonilnikov NVIDIA v Linux: celovit vodnik](https://linuxvox.com/"
 "blog/install-linux-nvidia-driver/)"
 
-#: content/opt-green-handbook/handbook_web.md:731
+#: content/opt-green-handbook/index.md:734
 msgid ""
 "[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
@@ -13975,7 +13974,7 @@ msgstr ""
 "[Kako nastaviti tiskalnik v Linuxu](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
 
-#: content/opt-green-handbook/handbook_web.md:732
+#: content/opt-green-handbook/index.md:735
 msgid ""
 "[Troubleshooting Linux Problems: A Beginner's Guide](https://learn.redhat."
 "com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
@@ -13985,7 +13984,7 @@ msgstr ""
 "t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
 "p/36236)"
 
-#: content/opt-green-handbook/handbook_web.md:733
+#: content/opt-green-handbook/index.md:736
 msgid ""
 "[Troubleshooting Common Linux Problems: Tips for New Users](https://www."
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
@@ -13995,7 +13994,7 @@ msgstr ""
 "www.dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
 "tips-for-new-users/)"
 
-#: content/opt-green-handbook/handbook_web.md:734
+#: content/opt-green-handbook/index.md:737
 msgid ""
 "[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
 "org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
@@ -14003,7 +14002,7 @@ msgstr ""
 "[Odpravljanje pogostih težav v Linuxu: Vodnik za nove uporabnike](https://"
 "codegig.org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 
-#: content/opt-green-handbook/handbook_web.md:737
+#: content/opt-green-handbook/index.md:740
 msgid ""
 "The *Opt Green* project from KDE Eco was funded by the Federal Environment "
 "Agency and the Federal Ministry for the Environment, Climate Action, Nature "
@@ -14014,7 +14013,7 @@ msgstr ""
 "okolje in Zvezno ministrstvo za okolje, podnebne ukrepe, varstvo narave in "
 "jedrsko varnost (BMUKN). Sredstva so na voljo s sklepom nemškega Bundestaga."
 
-#: content/opt-green-handbook/handbook_web.md:741
+#: content/opt-green-handbook/index.md:744
 msgid ""
 "![Logo of the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety.](images/sec4_bmuv.png)"
