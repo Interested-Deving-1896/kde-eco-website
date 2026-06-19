@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-18 02:09+0000\n"
-"PO-Revision-Date: 2026-06-16 12:05+0200\n"
+"POT-Creation-Date: 2026-06-19 02:09+0000\n"
+"PO-Revision-Date: 2026-06-18 16:05+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -124,8 +124,8 @@ msgstr "Het boek is opgedeeld in drie delen:"
 
 #: content/be4foss-handbook/handbook_web.md:30
 #: content/be4foss-handbook/handbook_web.md:37
-#: content/opt-green-handbook/index.md:65
-#: content/opt-green-handbook/index.md:74
+#: content/opt-green-handbook/index.md:66
+#: content/opt-green-handbook/index.md:75
 msgid "Part I: Environmental Impact Of Software"
 msgstr "Deel I: De milieu-impact van software"
 
@@ -393,7 +393,7 @@ msgstr ""
 "hierbij betrokken is."
 
 #: content/be4foss-handbook/handbook_web.md:63
-#: content/opt-green-handbook/index.md:98
+#: content/opt-green-handbook/index.md:99
 msgid "Material Footprint Of Digital Technology"
 msgstr "Materiële voetafdruk van digitale technologie"
 
@@ -1332,7 +1332,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:185
 #: content/be4foss-handbook/handbook_web.md:318
-#: content/opt-green-handbook/index.md:41
+#: content/opt-green-handbook/index.md:42
 msgid "A Note On Sources"
 msgstr ""
 
@@ -4806,7 +4806,7 @@ msgid "About"
 msgstr "Info over"
 
 #: content/be4foss-handbook/handbook_web.md:1219
-#: content/opt-green-handbook/index.md:25
+#: content/opt-green-handbook/index.md:26
 msgid "Authors"
 msgstr ""
 
@@ -4835,7 +4835,7 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1225
-#: content/opt-green-handbook/index.md:29
+#: content/opt-green-handbook/index.md:30
 msgid "Acknowledgments"
 msgstr ""
 
@@ -4879,7 +4879,7 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1233
-#: content/opt-green-handbook/index.md:52
+#: content/opt-green-handbook/index.md:53
 msgid "License"
 msgstr ""
 
@@ -4896,7 +4896,7 @@ msgstr ""
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
 #: content/blog/2022-03-05-energy-conservation-day.md:33
 #: content/blog/2024-05-29_introducing-ns4nh.md:114 content/blog/post-1.md:59
-#: content/opt-green-handbook/index.md:738
+#: content/opt-green-handbook/index.md:739
 msgid "Funding Notice"
 msgstr "Financieringsopmerking"
 
@@ -4914,7 +4914,7 @@ msgstr ""
 "Bondsdag."
 
 #: content/be4foss-handbook/handbook_web.md:1241
-#: content/opt-green-handbook/index.md:742
+#: content/opt-green-handbook/index.md:743
 msgid "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 msgstr ""
 
@@ -4928,7 +4928,7 @@ msgstr ""
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
 #: content/blog/2024-05-29_introducing-ns4nh.md:126 content/blog/post-1.md:71
-#: content/opt-green-handbook/index.md:746
+#: content/opt-green-handbook/index.md:747
 msgid "The publisher is responsible for the content of this publication."
 msgstr "De uitgever is verantwoordelijk voor de inhoud van deze publicatie."
 
@@ -5263,16 +5263,16 @@ msgid ""
 "bring them into the KDE community -- see, e.g., [this discussion](https://"
 "invent.kde.org/teams/eco/blue-angel-application/-/issues/56)."
 msgstr ""
-"Bedrijven doe software met eigendomsrechten uitgeven, typisch met "
-"gecentraliseerd gebruik van hun producten, zullen deze problemen niet "
-"hebben. In het licht hiervan, sprak de groep een mogelijkheid om alleen de "
-"broncode van een programma te certificeren, waarbij men neutraal blijft over "
-"verschillen in hoe een softwareproduct verpakt en gedistribueerd wordt. Een "
-"andere mogelijkheid is het certificeren van distributie-specifieke uitgaven, "
-"zoals die voor de Microsoft Store. In feite kan deze laatste gebruikt worden "
-"voor marketingdoelen om nieuwe gebruikers te bereiken en ze inbrengen in de "
-"KDE gemeenschap -- zie, bijv., [deze discussie](https://invent.kde.org/teams/"
-"eco/blue-angel-application/-/issues/56)."
+"Bedrijven doe software bedrijfseigen uitgeven, typisch met gecentraliseerd "
+"gebruik van hun producten, zullen deze problemen niet hebben. In het licht "
+"hiervan, sprak de groep een mogelijkheid om alleen de broncode van een "
+"programma te certificeren, waarbij men neutraal blijft over verschillen in "
+"hoe een softwareproduct verpakt en gedistribueerd wordt. Een andere "
+"mogelijkheid is het certificeren van distributie-specifieke uitgaven, zoals "
+"die voor de Microsoft Store. In feite kan deze laatste gebruikt worden voor "
+"marketingdoelen om nieuwe gebruikers te bereiken en ze inbrengen in de KDE "
+"gemeenschap -- zie, bijv., [deze discussie](https://invent.kde.org/teams/eco/"
+"blue-angel-application/-/issues/56)."
 
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:69
 msgid ""
@@ -7832,22 +7832,22 @@ msgid "Opting Green"
 msgstr "Kiezen voor groen"
 
 #: content/opt-green-handbook/index.md:0
-msgid "KDE Opt Green Handbook"
-msgstr "Handboek van KDE Kiezen voor groen"
-
-#: content/opt-green-handbook/index.md:0
 msgid "How Sustainable Software Makes for Sustainable Hardware"
 msgstr "Hoe duurzame software leidt tot duurzame hardware"
+
+#: content/opt-green-handbook/index.md:0
+msgid "KDE Opt Green Handbook"
+msgstr "Handboek van KDE Kiezen voor groen"
 
 #: content/opt-green-handbook/index.md:0
 msgid "htb"
 msgstr "htb"
 
-#: content/opt-green-handbook/index.md:23
+#: content/opt-green-handbook/index.md:24
 msgid "About This Handbook"
 msgstr "Over dit handboek"
 
-#: content/opt-green-handbook/index.md:27
+#: content/opt-green-handbook/index.md:28
 msgid ""
 "The text of this version of the handbook was written and compiled from "
 "various sources by Joseph P. De Veaugh-Geiss. Annie Musgrove edited the text "
@@ -7855,7 +7855,7 @@ msgid ""
 "Baichoo made the book and website design beautiful."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:31
+#: content/opt-green-handbook/index.md:32
 msgid ""
 "A general thank you to the many contributors to the KDE Eco initiative, the "
 "Opt Green project, and End Of 10 campaign. An incomplete list (in "
@@ -7869,7 +7869,7 @@ msgid ""
 "inspiration."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:33
+#: content/opt-green-handbook/index.md:34
 msgid ""
 "People interested in contributing to KDE Eco are encouraged to join the "
 "[Matrix room](https://webchat.kde.org/#/room/#kde-eco:kde.org). Contributors "
@@ -7877,7 +7877,7 @@ msgid ""
 "meetups. Learn more at our [website](https://eco.kde.org/get-involved/)."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:35
+#: content/opt-green-handbook/index.md:36
 msgid ""
 "The Opt Green project has benefited from many informative discussions that "
 "took place at the following conferences, workshops, meetups, and festivals: "
@@ -7888,11 +7888,11 @@ msgid ""
 "Thank you!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:37
+#: content/opt-green-handbook/index.md:38
 msgid "No Generative AI or LLMs"
 msgstr "Geen generatieve AI of LLM's"
 
-#: content/opt-green-handbook/index.md:39
+#: content/opt-green-handbook/index.md:40
 msgid ""
 "No Generative AI or LLMs were used at any stage in the preparation or "
 "writing of this handbook, despite what the frequent use of [em-dashes]"
@@ -7900,7 +7900,7 @@ msgid ""
 "communication.html) might otherwise suggest."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:43
+#: content/opt-green-handbook/index.md:44
 msgid ""
 "Some text in Parts I & II have been adapted from the KDE Eco handbook "
 "[\"Applying The Blue Angel Criteria To Free Software\"](https://eco.kde.org/"
@@ -7909,31 +7909,31 @@ msgid ""
 "license."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:45
+#: content/opt-green-handbook/index.md:46
 msgid ""
 "Part III benefited from the following texts by the Linux User Group "
 "Villingen-Schwenningen and Repair-Café Hilpoltstein:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:47
+#: content/opt-green-handbook/index.md:48
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:48
+#: content/opt-green-handbook/index.md:49
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:50
+#: content/opt-green-handbook/index.md:51
 msgid ""
 "Wikipedia provided references to several texts included here. Thank you to "
 "the commons community for making such excellent resources available for all "
 "of us."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:54
+#: content/opt-green-handbook/index.md:55
 msgid ""
 "Unless indicated otherwise, all contents released under the [Creative "
 "Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)](https://"
@@ -7942,11 +7942,11 @@ msgid ""
 "community.kde.org/Policies/Licensing_Policy)."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:57
+#: content/opt-green-handbook/index.md:58
 msgid "Introduction: What's This All About?"
 msgstr "Introductie: Waar gaat dit over?"
 
-#: content/opt-green-handbook/index.md:59
+#: content/opt-green-handbook/index.md:60
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software and how Free & Open Source Software (FOSS) provides a solution."
@@ -7954,7 +7954,7 @@ msgstr ""
 "Dit handboek geeft een kort overzicht van de milieuschade veroorzaakt door "
 "software en hoe vrije en open source software (FOSS) een oplossing biedt."
 
-#: content/opt-green-handbook/index.md:61
+#: content/opt-green-handbook/index.md:62
 msgid ""
 "At this point, you might wonder: What does sustainability have to do with "
 "software? How can something so seemingly immaterial as software have an "
@@ -7963,7 +7963,7 @@ msgid ""
 "in some case such developments are not necessary."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:63
+#: content/opt-green-handbook/index.md:64
 msgid ""
 "In this book, we'll take a closer look at the ways software, and the "
 "hardware that runs it, is contributing to the climate crisis, and what you "
@@ -7971,17 +7971,17 @@ msgid ""
 "main parts:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:66
-#: content/opt-green-handbook/index.md:211
+#: content/opt-green-handbook/index.md:67
+#: content/opt-green-handbook/index.md:212
 msgid "Part II: Digital Sustainability"
 msgstr "Deel II: Digitale duurzaamheid"
 
-#: content/opt-green-handbook/index.md:67
-#: content/opt-green-handbook/index.md:404
+#: content/opt-green-handbook/index.md:68
+#: content/opt-green-handbook/index.md:405
 msgid "Part III: Upgrading Devices With FOSS"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:69
+#: content/opt-green-handbook/index.md:70
 msgid ""
 "While Part I explores the *why* and Part II the *what*, Part III discusses "
 "the *how* by exploring what you need to consider when helping others upgrade "
@@ -7993,7 +7993,7 @@ msgid ""
 "information."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:71
+#: content/opt-green-handbook/index.md:72
 msgid ""
 "The target audience for Parts I & II is anyone who cares about the "
 "environment and the role software plays in digital sustainability. Part III "
@@ -8005,36 +8005,36 @@ msgid ""
 "Install Parties, CryptoParties, and so on."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:73
+#: content/opt-green-handbook/index.md:74
 msgid "Let's get started!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:76
+#: content/opt-green-handbook/index.md:77
 msgid ""
 "<!--![Photograph of e-waste. (Image published under a [CC0-1.0](https://spdx."
 "org/licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste."
 "jpg)-->\n"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:78
+#: content/opt-green-handbook/index.md:79
 msgid ""
 "Before we dive into the environmental impact of software, consider how you "
 "would complete this sentence:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:80
+#: content/opt-green-handbook/index.md:81
 msgid "**The most environmentally-friendly device is …**"
 msgstr "**Het meest milieuvriendelijke apparaat is …**"
 
-#: content/opt-green-handbook/index.md:82
+#: content/opt-green-handbook/index.md:83
 msgid "Think about it for a minute."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:84
+#: content/opt-green-handbook/index.md:85
 msgid "Now keep your answer in mind&mdash;we'll come back to it shortly."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:86
+#: content/opt-green-handbook/index.md:87
 msgid ""
 "Digital technology has revolutionized how we live, and it is often praised "
 "for bringing not only convenience but also efficiency to our daily lives. "
@@ -8051,14 +8051,14 @@ msgid ""
 "almost solely in digital form on our devices."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:88
+#: content/opt-green-handbook/index.md:89
 msgid ""
 "For all the ways that digitization has made our lives more convenient and "
 "more efficient, it may seem like these technological developments are also "
 "less material and less wasteful. But are they really?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:90
+#: content/opt-green-handbook/index.md:91
 msgid ""
 "Short answer, no. The internet and the computers we use to connect to it "
 "require physical infrastructure. This includes the extraction of materials "
@@ -8075,7 +8075,7 @@ msgid ""
 "still using it."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:92
+#: content/opt-green-handbook/index.md:93
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper from e-"
 "waste at Agbogbloshie, Ghana, as another metal scrap worker arrives with "
@@ -8090,7 +8090,7 @@ msgstr ""
 "licenses/CC-BY-SA-4.0.html) licentie.)](images/sec1_800px-"
 "Agbogbloshie_Ghana_September_2019.jpg)"
 
-#: content/opt-green-handbook/index.md:94
+#: content/opt-green-handbook/index.md:95
 msgid ""
 "This handbook will take a closer look at some of the ways digital technology "
 "is contributing to environmental harm and the climate crisis. To be clear, "
@@ -8102,14 +8102,14 @@ msgid ""
 "influence on many of the issues discussed throughout this handbook."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:96
+#: content/opt-green-handbook/index.md:97
 msgid ""
 "In order to address a problem effectively, however, we must first understand "
 "the problem. So let's explore what is meant by the digital environmental "
 "footprint and how the software we use everyday is involved."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:100
+#: content/opt-green-handbook/index.md:101
 msgid ""
 "Digital technology is often (and erroneously) associated with being "
 "immaterial. But there is a very real, very material aspect to digitization, "
@@ -8119,7 +8119,7 @@ msgid ""
 "centers which connect them to global networks."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:102
+#: content/opt-green-handbook/index.md:103
 msgid ""
 "We use more digital devices than ever before. The number of internet-"
 "connected devices, including laptops and smartphones, but also smart TVs, "
@@ -8132,7 +8132,7 @@ msgid ""
 "an environmental impact."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:104
+#: content/opt-green-handbook/index.md:105
 msgid ""
 "![Two charts comparing (left) the greenhouse gas emissions of the aviation "
 "industry in blue with the ICT sector in green, and (right) projected "
@@ -8145,7 +8145,7 @@ msgid ""
 "BY-3.0.html) license. Design by Lana Lutz.)](images/sec1_acm-report.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:106
+#: content/opt-green-handbook/index.md:107
 msgid ""
 "In fact, the environmental impact of the industry as a whole, in particular "
 "in terms of CO~2~ emissions, is currently on par with the aviation industry. "
@@ -8162,7 +8162,7 @@ msgid ""
 "mitigate climate change\", but it \"must first cease contributing to it\"."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:108
+#: content/opt-green-handbook/index.md:109
 msgid ""
 "To estimate digital technology's contributions to environmental harm, it is "
 "necessary to account for its entire lifecycle. This includes the costs of "
@@ -8178,7 +8178,7 @@ msgid ""
 "environmental impact of hardware production and device use."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:110
+#: content/opt-green-handbook/index.md:111
 msgid ""
 "![Image of \"WEEE Man\" statue, which is made from 3.3 metric tons of "
 "electrical waste, the average amount of e-waste that one UK individual "
@@ -8188,11 +8188,11 @@ msgid ""
 "by-James-T-M-Towill_1600x1200.jpg)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:112
+#: content/opt-green-handbook/index.md:113
 msgid "A \"Tsunami Of E-Waste\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:114
+#: content/opt-green-handbook/index.md:115
 msgid ""
 "At seven meter's tall, the \"WEEE Man\" is a giant. Taking its name from the "
 "2003 Waste Electrical and Electronic Equipment (WEEE) directive, which sets "
@@ -8201,7 +8201,7 @@ msgid ""
 "amount of e-waste that one UK individual generates in a lifetime."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:116
+#: content/opt-green-handbook/index.md:117
 msgid ""
 "[^1]: In 2005, two years after the directive was transposed into European "
 "law, the Royal Society of Arts in the UK unveiled \"WEEE Man\". Originally "
@@ -8209,7 +8209,7 @@ msgid ""
 "to the Eden Project in Cornwall, where it currently resides."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:118
+#: content/opt-green-handbook/index.md:119
 msgid ""
 "In 2015, as e-waste was on its way to becoming the \"[fastest-growing waste "
 "stream in the world](https://www.weforum.org/reports/a-new-circular-vision-"
@@ -8228,7 +8228,7 @@ msgid ""
 "year!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:120
+#: content/opt-green-handbook/index.md:121
 msgid ""
 "![62 billion kg of e-waste was generated in 2022. This is equivalent to 1.55 "
 "million trucks wrapped all the way around the Earth's equator. The amount "
@@ -8243,7 +8243,7 @@ msgstr ""
 "html) licentie. Ontwerp door Anita Sengupta.)](images/sec1_e-waste-trucks-on-"
 "equator-illustration.png)"
 
-#: content/opt-green-handbook/index.md:122
+#: content/opt-green-handbook/index.md:123
 msgid ""
 "The numbers continue to rise. According to the same report, the amount of e-"
 "waste is rising by about 2.3 billion kilogams each year&mdash;and we are on "
@@ -8265,7 +8265,7 @@ msgid ""
 "\"large equipment\"); photovoltaic panels, among others."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:124
+#: content/opt-green-handbook/index.md:125
 msgid ""
 "Of all these devices, computer technology e-waste is particularly bad. "
 "Electronic scrap components like CPUs contain potentially harmful materials "
@@ -8285,7 +8285,7 @@ msgid ""
 "drinking water."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:126
+#: content/opt-green-handbook/index.md:127
 msgid ""
 "This handbook concerns itself primarily with desktop computers and laptops, "
 "but the issues addressed here relate to any device requiring software to "
@@ -8296,7 +8296,7 @@ msgid ""
 "\" Schneier continues (emphasis added):"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:128
+#: content/opt-green-handbook/index.md:129
 msgid ""
 "Your modern refrigerator is a *computer* that keeps things cold. Your oven, "
 "similarly, is a *computer* that makes things hot. An ATM is a *computer* "
@@ -8307,7 +8307,7 @@ msgid ""
 "*computers* in 2007, when the iPhone was introduced."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:130
+#: content/opt-green-handbook/index.md:131
 msgid ""
 "We wear *computers*: fitness trackers and computer-enabled medical "
 "devices&mdash;and, of course, we carry our smartphones everywhere. Our homes "
@@ -8319,18 +8319,18 @@ msgid ""
 "listed&mdash;it's on the internet."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:132
+#: content/opt-green-handbook/index.md:133
 msgid ""
 "All of these computerized devices are on the internet, [many are collecting "
 "data about you](https://www.nytimes.com/wirecutter/reviews/advice-smart-"
 "devices-data-tracking/)&mdash;and, crucially, they all need software to work."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:134
+#: content/opt-green-handbook/index.md:135
 msgid "Embodied Harm&mdash;Before A Device Is Ever Used"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:136
+#: content/opt-green-handbook/index.md:137
 msgid ""
 "Now let's assess the start of the lifecycle, when the device is produced. "
 "When a functioning device goes in the landfill, all of energy costs and "
@@ -8342,7 +8342,7 @@ msgid ""
 "from production are grossly disproportionate to usage."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:138
+#: content/opt-green-handbook/index.md:139
 msgid ""
 "![A comparison of carbon emission proportions across three devices. The "
 "assumed product lifetime is 4 years for the laptop and desktop, and 6 years "
@@ -8358,7 +8358,7 @@ msgid ""
 "proportions.png){#fig:co2prop width=400px height=262px}"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:140
+#: content/opt-green-handbook/index.md:141
 msgid ""
 "<!--In a 2019 report from the International Energy Agency, the ICT sector is "
 "estimated to consume [2000 TWH of energy](https://dl.acm.org/doi/"
@@ -8371,7 +8371,7 @@ msgid ""
 "production, but what exactly is the carbon footprint? \\cmt{CHECK}-->\n"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:142
+#: content/opt-green-handbook/index.md:143
 msgid ""
 "Embodied carbon is critical when considering the carbon footprint of our "
 "devices. Consider three common end user devices: laptops, desktops, and "
@@ -8384,7 +8384,7 @@ msgid ""
 "warrant their purchase. The report states (emphasis added):"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:144
+#: content/opt-green-handbook/index.md:145
 msgid ""
 "[T]he environmental impacts of the production phase of a [notebook](https://"
 "en.wiktionary.org/wiki/notebook_computer#English) are so high, that they "
@@ -8395,14 +8395,14 @@ msgid ""
 "considered."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:146
+#: content/opt-green-handbook/index.md:147
 msgid ""
 "In light of the e-waste problem and the embodied carbon of end user devices, "
 "let us return to that sentence which introduced this section. How did you "
 "finish this statement: \"The most environmentally-friendly device is …\"?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:148
+#: content/opt-green-handbook/index.md:149
 msgid ""
 "Our response: **The most environmentally-friendly device is the one you "
 "already own!**"
@@ -8410,7 +8410,7 @@ msgstr ""
 "Ons antwoord: **Het meest milieuvriendelijke apparaat is diegene die u al "
 "bezit!**"
 
-#: content/opt-green-handbook/index.md:150
+#: content/opt-green-handbook/index.md:151
 msgid ""
 "![Image from KDE Eco [leaflet](https://invent.kde.org/teams/eco/opt-green/-/"
 "blob/master/materials/leaflets/EN/kde-eco-umweltfestival-flyer-EN_final.jpg) "
@@ -8418,24 +8418,24 @@ msgid ""
 "SA-4.0.html) license.](images/sec1_leaflet.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:152
+#: content/opt-green-handbook/index.md:153
 msgid ""
 "Now let us consider *how* software increases the demands on hardware as well "
 "as *why* we often discard devices which still work in order to buy new ones. "
 "To do so, we must look to the software."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:154
+#: content/opt-green-handbook/index.md:155
 msgid "Hardware, Meet Software"
 msgstr "Hardware, maak kennis met software"
 
-#: content/opt-green-handbook/index.md:156
+#: content/opt-green-handbook/index.md:157
 msgid ""
 "Let us now turn to the middle of a device's lifecycle, that is, the years "
 "you use your computer."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:158
+#: content/opt-green-handbook/index.md:159
 msgid ""
 "Software engineering has an important but often unseen role in defining our "
 "digital consumption patterns. There are often economic&mdash;and not "
@@ -8453,35 +8453,35 @@ msgid ""
 "lies not with the hardware but rather above all with the software\"."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:160
+#: content/opt-green-handbook/index.md:161
 msgid ""
 "To understand a device's energy consumption and how software is involved, "
 "this section will explore three aspects:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:162
+#: content/opt-green-handbook/index.md:163
 msgid ""
 "*Demands* &mdash; Software determines energy consumption and minimum system "
 "requirements."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:163
+#: content/opt-green-handbook/index.md:164
 msgid ""
 "*Dependencies* &mdash; Software can hardcode dependencies on external "
 "services and companies."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:164
+#: content/opt-green-handbook/index.md:165
 msgid ""
 "*Longevity* &mdash; Software is responsible for how long devices remain "
 "(safely) in use."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:166
+#: content/opt-green-handbook/index.md:167
 msgid "Hardware Demands"
 msgstr "Hardware-eisen"
 
-#: content/opt-green-handbook/index.md:168
+#: content/opt-green-handbook/index.md:169
 msgid ""
 "Software consumes energy. Unwanted software components create inefficiencies "
 "and drive up hardware demands by occupying memory, wasting processing time, "
@@ -8496,7 +8496,7 @@ msgid ""
 "pdf)\":"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:170
+#: content/opt-green-handbook/index.md:171
 msgid ""
 "Processing power has doubled about every two years since 1970. This means "
 "that functions are processed twice as fast and thus less energy is required "
@@ -8507,7 +8507,7 @@ msgid ""
 "or even no enhancement of the functionality."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:172
+#: content/opt-green-handbook/index.md:173
 msgid ""
 "What is more, data mining, advertising, third-party tracking, and "
 "personalized engagement-maximizing algorithms all drive up energy "
@@ -8527,7 +8527,7 @@ msgid ""
 "awful lot of CO~2~ for something most users don't even want!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:174
+#: content/opt-green-handbook/index.md:175
 msgid ""
 "Meanwhile, systems bundled with Large Language Models and other forms of "
 "generative AI drive up not only hardware demands and energy consumption, "
@@ -8560,11 +8560,11 @@ msgid ""
 "unambiguously-good-thing-for-pcs-and-macs-16gb-of-ram/) obsolete."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:176
+#: content/opt-green-handbook/index.md:177
 msgid "External Dependencies"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:178
+#: content/opt-green-handbook/index.md:179
 msgid ""
 "Network dependencies can play a critical role in hardware longevity. "
 "Underlying infrastructure which people may depend on to run an "
@@ -8582,7 +8582,7 @@ msgid ""
 "purpose of the software."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:180
+#: content/opt-green-handbook/index.md:181
 msgid ""
 "As Ars Technica [reports](https://arstechnica.com/cars/2026/02/what-happens-"
 "to-a-car-when-the-company-behind-its-software-goes-under/) regarding "
@@ -8590,7 +8590,7 @@ msgid ""
 "subscriptions, and proprietary software\":"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:182
+#: content/opt-green-handbook/index.md:183
 msgid ""
 "The lesson is clear: In today’s cars, the engine or electric motor isn’t "
 "always what keeps you moving&mdash;the software does. When that software "
@@ -8601,11 +8601,11 @@ msgid ""
 "shop&mdash;becomes the final stop."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:184
+#: content/opt-green-handbook/index.md:185
 msgid "Device Longevity"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:186
+#: content/opt-green-handbook/index.md:187
 msgid ""
 "All of this additional processing to run bloated software or have integrated "
 "generative AI tools in user applications (whether you want it or not), to "
@@ -8621,7 +8621,7 @@ msgid ""
 "to?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:188
+#: content/opt-green-handbook/index.md:189
 msgid ""
 "There is another common way that software can render a device obsolete. "
 "Software [end-of-life](https://en.wikipedia.org/wiki/"
@@ -8638,7 +8638,7 @@ msgid ""
 "safe and secure. More on this in the next part of this handbook."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:190
+#: content/opt-green-handbook/index.md:191
 msgid ""
 "In Part I, we have explored the environmental harm of digitization and "
 "identified several ways software can render a functioning device obsolete. "
@@ -8647,18 +8647,18 @@ msgid ""
 "But first, let's ask ourselves: Is focusing on software really worth it?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:192
+#: content/opt-green-handbook/index.md:193
 msgid "Is Focusing On Software Worth It?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:194
+#: content/opt-green-handbook/index.md:195
 msgid ""
 "In the bigger picture, the environmental harm driven by software may be less "
 "significant when compared to other industries. Therefore it seems reasonable "
 "to ask: Is it worth addressing?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:196
+#: content/opt-green-handbook/index.md:197
 msgid ""
 "There are a few things we might consider here. The first is a rejection of "
 "the [\"Not As Bad As\"](https://rationalwiki.org/wiki/Not_as_bad_as) "
@@ -8673,21 +8673,21 @@ msgid ""
 "bigger puzzle."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:198
+#: content/opt-green-handbook/index.md:199
 msgid ""
 "![XKCD comic [\"2368: Bigger Problem\"](https://xkcd.com/2368/) (published "
 "under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5.html) "
 "license).](images/sec1_bigger_problem.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:200
+#: content/opt-green-handbook/index.md:201
 msgid ""
 "Let's not [be like XKCD's](https://www.explainxkcd.com/wiki/index.php/2368:"
 "_Bigger_Problem) White Hat, and appeal to worse problems as an excuse to do "
 "nothing!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:202
+#: content/opt-green-handbook/index.md:203
 msgid ""
 "Second, focusing only on fixing the \"biggest problem\" is not necessarily "
 "the most effective strategy. It's also important to weigh the likelihood of "
@@ -8700,14 +8700,14 @@ msgid ""
 "lower cost."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:204
+#: content/opt-green-handbook/index.md:205
 msgid ""
 "Finally, it's hopefully clear by now that software *does* significantly "
 "contribute to energy and resource consumption as well as waste, and these "
 "contributions will just get worse unless we make real changes."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:206
+#: content/opt-green-handbook/index.md:207
 msgid ""
 "Changing our software and using our hardware more sustainably may seem like "
 "a small gesture in addressing an issue as complex as climate change. It's "
@@ -8718,13 +8718,13 @@ msgid ""
 "anthropologist Margaret Mead once observed:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:208
+#: content/opt-green-handbook/index.md:209
 msgid ""
 "\"Never doubt that a small group of thoughtful, committed citizens can "
 "change the world; indeed, it’s the only thing that ever has.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:210
+#: content/opt-green-handbook/index.md:211
 msgid ""
 "Structural change happens when dedicated, passionate people organize to "
 "confront pressing societal issues. With decades of experience successfully "
@@ -8736,7 +8736,7 @@ msgid ""
 "of digital sustainability in our communities and beyond."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:213
+#: content/opt-green-handbook/index.md:214
 msgid ""
 "What does the environmental impact of software have to do with Free & Open "
 "Source Software? Before we explore this topic in detail, let's first take a "
@@ -8744,11 +8744,11 @@ msgid ""
 "proprietary software."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:215
+#: content/opt-green-handbook/index.md:216
 msgid "What Is Free & Open Source Software (FOSS)?"
 msgstr "Wat is vrije en open-source software (FOSS)?"
 
-#: content/opt-green-handbook/index.md:217
+#: content/opt-green-handbook/index.md:218
 msgid ""
 "Free & Open Source Software, often referred to by its acronym FOSS, is "
 "software available under a license that guarantees users certain rights. "
@@ -8761,7 +8761,7 @@ msgid ""
 "\"free society\"!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:219
+#: content/opt-green-handbook/index.md:220
 msgid ""
 "![Screenshot illustrating the four essential freedoms to use, study, share, "
 "and improve software. Image from video \"What is Free Software (Open "
@@ -8769,35 +8769,35 @@ msgid ""
 "FSFE.](images/sec2_fsfe-free-software.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:221
+#: content/opt-green-handbook/index.md:222
 msgid ""
 "What do each of these rights mean, exactly? The Free Software Foundation "
 "Europe (FSFE) [explains](https://fsfe.org/freesoftware/index.en.html):"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:223
+#: content/opt-green-handbook/index.md:224
 msgid ""
 "*Use*: FOSS \"can be used for any purpose and is free of restrictions such "
 "as licence expiry or geographic limitations.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:224
+#: content/opt-green-handbook/index.md:225
 msgid ""
 "*Study*: FOSS \"and its code can be studied by anyone, without non‐"
 "disclosure agreements or similar restrictions.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:225
+#: content/opt-green-handbook/index.md:226
 msgid "*Share*: FOSS \"can be shared and copied at virtually no cost.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:226
+#: content/opt-green-handbook/index.md:227
 msgid ""
 "*Improve*: FOSS \"can be modified by anyone, and these improvements can be "
 "shared publicly.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:228
+#: content/opt-green-handbook/index.md:229
 msgid ""
 "The video [\"What is Free Software (Open Source)?\"](https://media.fsfe.org/"
 "w/p/9gYSyoEYggsqBExLWjRejL?playlistPosition=1) from the FSFE provides a "
@@ -8806,7 +8806,7 @@ msgid ""
 "software and freedom."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:230
+#: content/opt-green-handbook/index.md:231
 msgid ""
 "A whole section about software licenses?! How boring! Well, it may sound dry "
 "and technical, but it is actually quite exciting. Really. And we hope you "
@@ -8818,7 +8818,7 @@ msgid ""
 "this technology requires software."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:232
+#: content/opt-green-handbook/index.md:233
 msgid ""
 "Since this software is shaping our lives and communities, shouldn't we have "
 "a say in how it works? [KDE](https://kde.org/community/whatiskde/), the Free "
@@ -8827,19 +8827,19 @@ msgid ""
 "nicely the kind of world FOSS and its supporters are working toward."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:234
+#: content/opt-green-handbook/index.md:235
 msgid ""
 "\"A world in which everyone has control over their digital life and enjoys "
 "freedom and privacy.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:236
+#: content/opt-green-handbook/index.md:237
 msgid ""
 "KDE Eco would only add: \"… enjoys freedom, privacy, *and a more sustainable "
 "use of digital technology*\"!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:238
+#: content/opt-green-handbook/index.md:239
 msgid ""
 "In this text we use the term Free & Open Source Software, but the reader may "
 "also come across the [terms](https://fsfe.org/freesoftware/index.en."
@@ -8849,11 +8849,11 @@ msgid ""
 "directly linked to the accessibility of software's source code."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:240
+#: content/opt-green-handbook/index.md:241
 msgid "What Is Source Code?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:242
+#: content/opt-green-handbook/index.md:243
 msgid ""
 "FOSS's opposite is \"proprietary software\". Proprietary software is "
 "licensed to give users no agency over the code behind the software they use. "
@@ -8861,15 +8861,15 @@ msgid ""
 "source code."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:244
+#: content/opt-green-handbook/index.md:245
 msgid "Wait a minute, what is source code, you wonder?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:246
+#: content/opt-green-handbook/index.md:247
 msgid "Actually, what is software for that matter?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:248
+#: content/opt-green-handbook/index.md:249
 msgid ""
 "At its most basic, software is a recipe for the computer. Programmers write "
 "the recipes in \"source code\", which is, simply put, a human-readable set "
@@ -8880,14 +8880,14 @@ msgid ""
 "source code below does?[^2]"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:250
+#: content/opt-green-handbook/index.md:251
 msgid ""
 "[^2]: Example from E. Buckman \\& Joshua Gray, ``A Note On Software'' in "
 "*[Free Software, Free Society (First Edition)](https://dn790008.ca.archive."
 "org/0/items/Free_Software_Free_Society/Free_Software_Free_Society.pdf)*."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:259
+#: content/opt-green-handbook/index.md:260
 msgid ""
 "You probably guessed correctly: it prints the phrase \"Hello World!\" on the "
 "screen. Even if you know nothing about the programming language (a language "
@@ -8898,7 +8898,7 @@ msgid ""
 "else entirely."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:261
+#: content/opt-green-handbook/index.md:262
 msgid ""
 "This source code, this recipe, is great for humans, but it is actually not "
 "so great for computers. A computer requires the recipe to be encoded in "
@@ -8909,7 +8909,7 @@ msgid ""
 "binary form:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:272
+#: content/opt-green-handbook/index.md:273
 msgid ""
 "Can you read this code? Can you do anything with it? Modify it in some "
 "meaningful way? Fret not, no human can! Proprietary software is typically "
@@ -8921,18 +8921,18 @@ msgid ""
 "was made and with which ingredients, and you certainly cannot modify it."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:274
+#: content/opt-green-handbook/index.md:275
 msgid ""
 "[^3]: Although \"decompilers\" which convert binary code back into source "
 "code do exist, the output is often distorted from the original and can be "
 "difficult to understand."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:276
+#: content/opt-green-handbook/index.md:277
 msgid "In short, whoever controls the recipe will decide the cake we eat."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:278
+#: content/opt-green-handbook/index.md:279
 msgid ""
 "If only we were just talking about recipes for cake! In fact, what we are "
 "talking about is the code shaping every aspect of life in the digital age, "
@@ -8941,7 +8941,7 @@ msgid ""
 "smartphones all the time."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:280
+#: content/opt-green-handbook/index.md:281
 msgid ""
 "In contrast to proprietary software, FOSS ensures the rights of users to "
 "access source code and do things with the software independently from the "
@@ -8951,14 +8951,14 @@ msgid ""
 "rights we have as a people and society."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:282
+#: content/opt-green-handbook/index.md:283
 msgid ""
 "What we are talking about is control and freedom&mdash;and it has big "
 "implications for us and for the environment. That is very exciting, isn't "
 "it?!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:284
+#: content/opt-green-handbook/index.md:285
 msgid ""
 "There are many misconceptions of FOSS which we address in an appendix at the "
 "end of this chapter, continuing with the analogy to recipes. If you're "
@@ -8968,15 +8968,15 @@ msgid ""
 "some answers!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:286
+#: content/opt-green-handbook/index.md:287
 msgid "FOSS Is Better For The Environment"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:288
+#: content/opt-green-handbook/index.md:289
 msgid "Improving Code&mdash;By Users & For Users"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:290
+#: content/opt-green-handbook/index.md:291
 msgid ""
 "With FOSS, the source code can be modified to ensure that the software is "
 "not doing things unnecessarily, thus reducing the hardware demands, saving "
@@ -8990,7 +8990,7 @@ msgid ""
 "drastically different energy profiles."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:292
+#: content/opt-green-handbook/index.md:293
 msgid ""
 "The study included a comparison of two word processing programs: Word "
 "Processor 1 is identified as \"Open Source\", while Word Processor 2 is "
@@ -9000,7 +9000,7 @@ msgid ""
 "1&mdash;again, and this cannot be stressed enough, to do the same task!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:294
+#: content/opt-green-handbook/index.md:295
 msgid ""
 "![Plot comparing two word processors during execution of a Standard Usage "
 "Scenario script. Word Processor 1 is an Open Source program. This word "
@@ -9010,7 +9010,7 @@ msgid ""
 "from the German Environment Agency report.)](images/sec2_uba-sus.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:296
+#: content/opt-green-handbook/index.md:297
 msgid ""
 "Looking at the two word processors' power use over time, it's also clear how "
 "the two programs behave quite differently … and perhaps contrary to what you "
@@ -9026,7 +9026,7 @@ msgid ""
 "types of analytics? Well, that depends on the software design."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:298
+#: content/opt-green-handbook/index.md:299
 msgid ""
 "![Plot comparing two word processors over time when running the Standard "
 "Usage Scenario script. The Open Source Word Processor 1 (*top*) goes into an "
@@ -9040,7 +9040,7 @@ msgid ""
 "(images/sec2_energy-consumption_time.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:300
+#: content/opt-green-handbook/index.md:301
 msgid ""
 "In these cases, user autonomy can make a big difference in the energy "
 "profile of a software product. Proprietary software may provide some "
@@ -9055,7 +9055,7 @@ msgid ""
 "that is simply impossible with proprietary software."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:302
+#: content/opt-green-handbook/index.md:303
 msgid ""
 "Do changes in code efficiency really matter? At scale, they most certainly "
 "do! Given that applications such as word processors run in just about every "
@@ -9072,7 +9072,7 @@ msgid ""
 "consumption\"&mdash;which is to say, small changes will yield big results."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:304
+#: content/opt-green-handbook/index.md:305
 msgid ""
 "Just one example has been discussed here, but the same logic applies to "
 "other examples of software's hardware demands, external dependencies, and "
@@ -9085,11 +9085,11 @@ msgid ""
 "longevity."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:306
+#: content/opt-green-handbook/index.md:307
 msgid "FOSS Isn't Made For Only The Latest And Greatest"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:308
+#: content/opt-green-handbook/index.md:309
 msgid ""
 "FOSS helps keep older models of hardware in action, operating long past the "
 "point that proprietary software might have made them obsolete. Let's discuss "
@@ -9097,7 +9097,7 @@ msgid ""
 "software means for sustainable hardware use."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:310
+#: content/opt-green-handbook/index.md:311
 msgid ""
 "First, software determines not only how much energy hardware needs, it also "
 "determines how powerful hardware must be to run the software. Consider the "
@@ -9109,82 +9109,82 @@ msgid ""
 "by Apple."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:312
+#: content/opt-green-handbook/index.md:313
 msgid "Proprietary OS"
-msgstr ""
+msgstr "Bedrijfseigen besturingssysteem"
 
-#: content/opt-green-handbook/index.md:312
-#: content/opt-green-handbook/index.md:320
+#: content/opt-green-handbook/index.md:313
+#: content/opt-green-handbook/index.md:321
 msgid "RAM"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:312
-#: content/opt-green-handbook/index.md:320
+#: content/opt-green-handbook/index.md:313
+#: content/opt-green-handbook/index.md:321
 msgid "Processor"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:312
-#: content/opt-green-handbook/index.md:320
+#: content/opt-green-handbook/index.md:313
+#: content/opt-green-handbook/index.md:321
 msgid "Storage"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:314
+#: content/opt-green-handbook/index.md:315
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:314
-#: content/opt-green-handbook/index.md:324
+#: content/opt-green-handbook/index.md:315
+#: content/opt-green-handbook/index.md:325
 msgid "4 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:314
+#: content/opt-green-handbook/index.md:315
 msgid "certain 64 bit processors"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:314
+#: content/opt-green-handbook/index.md:315
 msgid "64 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:315
+#: content/opt-green-handbook/index.md:316
 msgid "+ Copilot genAI"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:315
+#: content/opt-green-handbook/index.md:316
 msgid "16 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:315
+#: content/opt-green-handbook/index.md:316
 msgid "+ NPU"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:315
+#: content/opt-green-handbook/index.md:316
 msgid "256 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:316
+#: content/opt-green-handbook/index.md:317
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:316
-#: content/opt-green-handbook/index.md:323
+#: content/opt-green-handbook/index.md:317
+#: content/opt-green-handbook/index.md:324
 msgid "8 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:316
-#: content/opt-green-handbook/index.md:322
+#: content/opt-green-handbook/index.md:317
 #: content/opt-green-handbook/index.md:323
 #: content/opt-green-handbook/index.md:324
 #: content/opt-green-handbook/index.md:325
+#: content/opt-green-handbook/index.md:326
 msgid "64 bit"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:316
+#: content/opt-green-handbook/index.md:317
 msgid "25 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:318
+#: content/opt-green-handbook/index.md:319
 msgid ""
 "The proprietary operating systems have generally higher minimum system "
 "requirements and no low-end hardware support. By contrast, when considering "
@@ -9199,74 +9199,74 @@ msgid ""
 "Software_bloat) will be less relevant."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:320
+#: content/opt-green-handbook/index.md:321
 msgid "FOSS-based OS"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:322
+#: content/opt-green-handbook/index.md:323
 msgid ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:322
 #: content/opt-green-handbook/index.md:323
-#: content/opt-green-handbook/index.md:325
+#: content/opt-green-handbook/index.md:324
+#: content/opt-green-handbook/index.md:326
 msgid "2 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:322
+#: content/opt-green-handbook/index.md:323
 msgid "15 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:323
+#: content/opt-green-handbook/index.md:324
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:324
+#: content/opt-green-handbook/index.md:325
 msgid ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:324
-#: content/opt-green-handbook/index.md:326
+#: content/opt-green-handbook/index.md:325
+#: content/opt-green-handbook/index.md:327
 msgid "512 MB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:325
+#: content/opt-green-handbook/index.md:326
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:325
+#: content/opt-green-handbook/index.md:326
 msgid "512 MiB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:326
+#: content/opt-green-handbook/index.md:327
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:326
 #: content/opt-green-handbook/index.md:327
+#: content/opt-green-handbook/index.md:328
 msgid "32 or 64 bit"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:326
+#: content/opt-green-handbook/index.md:327
 msgid "1 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:327
+#: content/opt-green-handbook/index.md:328
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:327
+#: content/opt-green-handbook/index.md:328
 msgid "384 MiB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:327
+#: content/opt-green-handbook/index.md:328
 msgid "1.5 GB"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:330
+#: content/opt-green-handbook/index.md:331
 msgid ""
 "By contrast, the base operating systems in the FOSS ecosystem typically are "
 "just that, a base system, with fewer background services and applications, "
@@ -9276,7 +9276,7 @@ msgid ""
 "applications. This higher level of customization means more user control."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:332
+#: content/opt-green-handbook/index.md:333
 msgid ""
 "It is not just end users that customize the systems. Many FOSS distributions "
 "(or distros) build on these base systems and distribute them along with "
@@ -9291,7 +9291,7 @@ msgid ""
 "including continued support for low-end devices."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:334
+#: content/opt-green-handbook/index.md:335
 msgid ""
 "Keep in mind that aging machines which merely satisfy the minimum technical "
 "requirements might not meet today's expectations of speed and convenience. "
@@ -9300,7 +9300,7 @@ msgid ""
 "decades old computers can still run up-to-date software with FOSS!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:336
+#: content/opt-green-handbook/index.md:337
 msgid ""
 "By imposing computationally expensive \"features\" and restricting who can "
 "modify source code, proprietary software excludes hardware from ongoing "
@@ -9313,7 +9313,7 @@ msgid ""
 "preclude it."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:338
+#: content/opt-green-handbook/index.md:339
 msgid ""
 "If you aim to buy a new device, these may be all non-issues for you. "
 "However, if you already own a computer&mdash;one that still functions but is "
@@ -9324,11 +9324,11 @@ msgid ""
 "story and the main topic of the next section."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:340
+#: content/opt-green-handbook/index.md:341
 msgid "Software Is Buggy, And That's Risky"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:342
+#: content/opt-green-handbook/index.md:343
 msgid ""
 "Software contains defects, known as bugs. All software, whether it is "
 "[Windows](https://www.microsoft.com/en-us/security/blog/threat-intelligence/"
@@ -9344,7 +9344,7 @@ msgid ""
 "wherever computers are embedded, including our own bodies."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:344
+#: content/opt-green-handbook/index.md:345
 msgid ""
 "![A patch with program tape on the Harvard Mark I, one of the first digital "
 "computers (image from [Wikipedia](https://en.wikipedia.org/wiki/File:"
@@ -9353,7 +9353,7 @@ msgid ""
 "sec2_Harvard_Mark_I_program_tape.agr.jpg)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:346
+#: content/opt-green-handbook/index.md:347
 msgid ""
 "So how do we keep our systems secure? Just as you would patch a hole in "
 "clothing with a tear in it, software gets \"patched\" to fix defects. In "
@@ -9369,7 +9369,7 @@ msgid ""
 "the most important safety practices you can implement."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:348
+#: content/opt-green-handbook/index.md:349
 msgid ""
 "Security updates are essential. Any device requiring software to run, "
 "whether it is a laptop or smartphone or automobile, requires software "
@@ -9390,7 +9390,7 @@ msgid ""
 "component-may-introduce) may still require patches to fix defects."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:350
+#: content/opt-green-handbook/index.md:351
 msgid ""
 "![Logo for the \"[End Of 10](https://endof10.org/)\". The campaign helps new "
 "users find in-person support with Linux. ([Image](https://invent.kde.org/"
@@ -9399,7 +9399,7 @@ msgid ""
 "license.)](images/sec2_social-media-avatar-circle.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:352
+#: content/opt-green-handbook/index.md:353
 msgid ""
 "What is referred to as the [End of Life](https://en.wikipedia.org/wiki/"
 "Software_release_life_cycle#End-of-life) for software means that no new "
@@ -9419,7 +9419,7 @@ msgid ""
 "unsupported software and in a vulnerable position."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:354
+#: content/opt-green-handbook/index.md:355
 msgid ""
 "Although Windows 10 computers may still turn on and be \"usable\" after "
 "support ends, newer applications will eventually stop working, and, most "
@@ -9433,12 +9433,12 @@ msgid ""
 "transporting a new one, and that comes with a huge ecological cost. Recall:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:356
+#: content/opt-green-handbook/index.md:357
 msgid ""
 "**The most environmentally-friendly device is the one you already own.**"
 msgstr "**Het meest milieuvriendelijke apparaat is diegene die u al bezit.**"
 
-#: content/opt-green-handbook/index.md:358
+#: content/opt-green-handbook/index.md:359
 msgid ""
 "There are better ways to solve software-driven hardware obsolescence than "
 "buying a new computer. The one we recommend is to install new software, one "
@@ -9449,7 +9449,7 @@ msgid ""
 "devices securely in use."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:360
+#: content/opt-green-handbook/index.md:361
 msgid ""
 "Maintaining and testing software is certainly a lot more complex than simply "
 "having Free & Open Source code. Nonetheless, only FOSS permits software to "
@@ -9464,48 +9464,48 @@ msgid ""
 "movement."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:361
+#: content/opt-green-handbook/index.md:362
 msgid "Appendix: Common Misconceptions"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:363
+#: content/opt-green-handbook/index.md:364
 msgid ""
 "In this section, we'll debunk five of the most common misconceptions about "
 "FOSS:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:365
+#: content/opt-green-handbook/index.md:366
 msgid "\"Anyone can modify the application I am using.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:366
+#: content/opt-green-handbook/index.md:367
 msgid "\"You never know where the software came from.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:367
+#: content/opt-green-handbook/index.md:368
 msgid "\"FOSS is less secure.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:368
+#: content/opt-green-handbook/index.md:369
 msgid "\"I need to be a developer to benefit from FOSS.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:369
+#: content/opt-green-handbook/index.md:370
 msgid "\"FOSS is free of cost because it is developed by volunteers.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:371
+#: content/opt-green-handbook/index.md:372
 msgid ""
 "All of these statements are incorrect, and the following explanations will "
 "reveal more about how FOSS works as a software, as an ecosystem, and as a "
 "business."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:373
+#: content/opt-green-handbook/index.md:374
 msgid "**Misconception 1: Anyone can modify the application I am using.**"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:375
+#: content/opt-green-handbook/index.md:376
 msgid ""
 "The misconception is the idea that any and all code changes actually end up "
 "in the software you download and use. This is not the case. A core team of "
@@ -9518,7 +9518,7 @@ msgid ""
 "released by the core developers&mdash;and then run on your computer."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:377
+#: content/opt-green-handbook/index.md:378
 msgid ""
 "To make an analogy with cooking: When a famous chef publishes a recipe, "
 "anyone can modify the recipe themselves when preparing the dish. These "
@@ -9532,11 +9532,11 @@ msgid ""
 "recipe&mdash;or end up on your plate."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:379
+#: content/opt-green-handbook/index.md:380
 msgid "**Misconception 2: You never know where the software came from.**"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:381
+#: content/opt-green-handbook/index.md:382
 msgid ""
 "It's true that anyone can modify FOSS and release their changes to the "
 "public, but the misconception here is that modified software is "
@@ -9552,7 +9552,7 @@ msgid ""
 "you can see exactly where it came from."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:383
+#: content/opt-green-handbook/index.md:384
 msgid ""
 "Using the cooking analogy: Even if any cook may change a recipe when "
 "preparing a dish, they cannot publish it under the name of the original "
@@ -9561,11 +9561,11 @@ msgid ""
 "the original chef."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:385
+#: content/opt-green-handbook/index.md:386
 msgid "**Misconception 3: FOSS is less secure.**"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:387
+#: content/opt-green-handbook/index.md:388
 msgid ""
 "This is perhaps one of the most common misconceptions about FOSS, and the "
 "opposite is actually true. Though FOSS can still contain bugs or malicious "
@@ -9580,7 +9580,7 @@ msgid ""
 "significant strategic advantages in this process.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:389
+#: content/opt-green-handbook/index.md:390
 msgid ""
 "Once again, using the cooking analogy: It's more difficult to add harmful or "
 "unwanted elements to a recipe when the ingredient list is visible to all. "
@@ -9590,11 +9590,11 @@ msgid ""
 "advantages for finding and removing them."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:391
+#: content/opt-green-handbook/index.md:392
 msgid "**Misconception 4: I need to be a developer to benefit from FOSS.**"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:393
+#: content/opt-green-handbook/index.md:394
 msgid ""
 "You do not need to be a software engineer to use FOSS and gain its benefits. "
 "You can download and install it, and be assured that necessary updates will "
@@ -9611,7 +9611,7 @@ msgid ""
 "Software."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:395
+#: content/opt-green-handbook/index.md:396
 msgid ""
 "Using the cooking analogy: You don't need to be a cook to enjoy the results "
 "of a good recipe. If you can't cook, you probably know someone who does, and "
@@ -9625,20 +9625,20 @@ msgid ""
 "much more."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:397
+#: content/opt-green-handbook/index.md:398
 msgid ""
 "In Part III of this handbook, you'll learn how to run install events and "
 "support new users with FOSS. Helping new users get started is a great way to "
 "contribute back to the software you use and love."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:399
+#: content/opt-green-handbook/index.md:400
 msgid ""
 "**Misconception 5: FOSS is free of cost because it is developed by "
 "volunteers.**"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:401
+#: content/opt-green-handbook/index.md:402
 msgid ""
 "This is not true, not at all. FOSS is not necessarily free of cost, nor is "
 "it developed only by volunteers. FOSS is developed by both paid software "
@@ -9656,7 +9656,7 @@ msgid ""
 "Open Source Software, regardless of how much money is made."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:403
+#: content/opt-green-handbook/index.md:404
 msgid ""
 "The cooking analogy has its limits. One important difference to note: Even "
 "if a recipe can be shared with an unlimited number of people, an individual "
@@ -9668,7 +9668,7 @@ msgid ""
 "hundreds of millions, of software users!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:406
+#: content/opt-green-handbook/index.md:407
 msgid ""
 "Hopefully by now you're convinced to use FOSS yourself and to help others "
 "install a FOSS operating system and apps on their computers. This way, you "
@@ -9676,14 +9676,14 @@ msgid ""
 "and not discard functioning computers when proprietary software support ends."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:408
+#: content/opt-green-handbook/index.md:409
 msgid ""
 "This part of the handbook focuses on how to upgrade user devices to FOSS. In "
 "fact, the easiest and most direct way is to assist your friends, family, and "
 "loved ones directly. Do not underestimate how important that support is!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:410
+#: content/opt-green-handbook/index.md:411
 msgid ""
 "That said, our focus here is on FOSS support with a wider public through "
 "outreach and install parties and other types of organized meetups to help "
@@ -9696,7 +9696,7 @@ msgid ""
 "later on."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:412
+#: content/opt-green-handbook/index.md:413
 msgid ""
 "![Two posters from the End Of 10 [campaign website](https://invent.kde.org/"
 "websites/endof10-org/-/tree/master/static/assets/posters). (The End Of 10 "
@@ -9706,7 +9706,7 @@ msgid ""
 "spdx.org/licenses/CC-BY-4.0.html) license.)](images/sec3_end_of_10.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:414
+#: content/opt-green-handbook/index.md:415
 msgid ""
 "We don't assume you have previous experience with organizing install events, "
 "and the first section offers suggestions of ways to gain more experience. We "
@@ -9718,26 +9718,26 @@ msgid ""
 "are a couple of reasons we aren't providing specific step-by-step guidance:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:416
+#: content/opt-green-handbook/index.md:417
 msgid ""
 "The specifics often change as new versions of software are released, which "
 "would quickly render the handbook out-of-date."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:417
+#: content/opt-green-handbook/index.md:418
 msgid ""
 "The details depend on the specific software being installed, for which there "
 "already exist numerous online guides. No need to re-invent the wheel!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:419
+#: content/opt-green-handbook/index.md:420
 msgid ""
 "There are certainly other ways this is an incomplete text, but we hope the "
 "handbook nonetheless provides a good basis for getting started with new user "
 "FOSS support."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:421
+#: content/opt-green-handbook/index.md:422
 msgid ""
 "The text here is also opinionated, and the reader may disagree with some of "
 "the suggestions. We nonetheless think it is useful. By noting areas of "
@@ -9747,27 +9747,27 @@ msgid ""
 "constructive input!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:423
+#: content/opt-green-handbook/index.md:424
 msgid "From here, this section is broken down into 4 stages:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:425
+#: content/opt-green-handbook/index.md:426
 msgid "Gaining Experience with FOSS and FOSS groups"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:426
+#: content/opt-green-handbook/index.md:427
 msgid "Before Install Events"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:427
+#: content/opt-green-handbook/index.md:428
 msgid "During Install Events"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:428
+#: content/opt-green-handbook/index.md:429
 msgid "After Install Events"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:430
+#: content/opt-green-handbook/index.md:431
 msgid ""
 "Ideally, you can repeat these steps like the shampoo algorithm: [lather, "
 "rinse, repeat](https://en.wikipedia.org/wiki/Lather,_rinse,_repeat). That "
@@ -9776,72 +9776,72 @@ msgid ""
 "section."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:432
+#: content/opt-green-handbook/index.md:433
 msgid ""
 "As you dig deeper into the FOSS ecosystem, you may come across several new "
 "terms. Here is a short glossary of useful vocabulary:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:434
+#: content/opt-green-handbook/index.md:435
 msgid "**PC**: a laptop or desktop computer"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:435
+#: content/opt-green-handbook/index.md:436
 msgid ""
 "**FOSS Operating System** (OS): Linux is the most popular, but there are "
 "others such as OpenBSD and Haiku"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:436
+#: content/opt-green-handbook/index.md:437
 msgid "**Proprietary Operating System** (OS): MS Windows, MacOS"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:437
+#: content/opt-green-handbook/index.md:438
 msgid ""
 "**Distribution** (or Distro): A FOSS OS and accompanying software, often "
 "obtained from a website"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:438
+#: content/opt-green-handbook/index.md:439
 msgid ""
 "**ISO** / **image file**: the file that contains the operating system to be "
 "installed"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:439
+#: content/opt-green-handbook/index.md:440
 msgid ""
 "**Graphical User Interface** (GUI): a graphics-based way to interact with "
 "the computer (e.g., point and click with the mouse)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:440
+#: content/opt-green-handbook/index.md:441
 msgid ""
 "**Desktop Environment**: the [Graphical User Interface](https://en.wikipedia."
 "org/wiki/Graphical_user_interface) (GUI) used to interact with or administer "
 "the operating system"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:441
+#: content/opt-green-handbook/index.md:442
 msgid ""
 "**Applications** (or Apps): computer programs for end-user tasks, e.g., PDF "
 "readers, text editors, games, rather than for administering the system (cf. "
 "Desktop Environment)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:442
+#: content/opt-green-handbook/index.md:443
 msgid ""
 "With proprietary operating systems, applications are often downloaded and "
 "installed from an external website, although nowadays some applications can "
 "also be installed through an app store."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:443
+#: content/opt-green-handbook/index.md:444
 msgid ""
 "In the FOSS ecosystem, applications are most typically installed through the "
 "software or package manager of the Desktop Environment."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:444
+#: content/opt-green-handbook/index.md:445
 msgid ""
 "**CPU** (Central Processing Unit): primarily [Intel](https://en.wikipedia."
 "org/wiki/Intel) or [AMD](https://en.wikipedia.org/wiki/AMD) CPUs based on "
@@ -9850,36 +9850,36 @@ msgid ""
 "wiki/X86-64) architecture, but not only"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:445
+#: content/opt-green-handbook/index.md:446
 msgid ""
 "**RAM** (or working memory): impermanent memory that is lost when the PC is "
 "turned off. More RAM typically means faster processing."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:446
+#: content/opt-green-handbook/index.md:447
 msgid ""
 "**Mass storage**: Hard Disk Drive (HDD), Solid State Drive (SSD), SD card, "
 "etc."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:447
+#: content/opt-green-handbook/index.md:448
 msgid ""
 "**Repositories** (for Linux and other FOSS ecosystems): The source from "
 "which the system and applications can be updated and new applications can be "
 "installed."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:448
+#: content/opt-green-handbook/index.md:449
 msgid ""
 "**Command Line Interface** (CLI) / **Terminal**: a text-based interface (e."
 "g., typing commands with the keyboard) as compared to a GUI."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:450
+#: content/opt-green-handbook/index.md:451
 msgid "Stage 1. Gaining Experience"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:452
+#: content/opt-green-handbook/index.md:453
 msgid ""
 "The easiest and cheapest way to gain experience with a FOSS OS is to find an "
 "unused computer, preferably not too old (<10 years) so you can really "
@@ -9892,7 +9892,7 @@ msgid ""
 "find a functioning yet abandoned computer in your social circles."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:454
+#: content/opt-green-handbook/index.md:455
 msgid ""
 "So you found a computer for testing FOSS, but at this point you may be "
 "wondering: How can I decide which FOSS operating system and desktop "
@@ -9906,25 +9906,25 @@ msgid ""
 "is a common phenomenon among new users to FOSS."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:456
+#: content/opt-green-handbook/index.md:457
 msgid "A couple of things to note at this point:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:458
+#: content/opt-green-handbook/index.md:459
 msgid ""
 "FOSS is typically made available through a \"distribution\" (or \"distro\" "
 "for short) which offer different default setups and user interfaces for "
 "various user needs and hardware."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:459
+#: content/opt-green-handbook/index.md:460
 msgid ""
 "If you have a particularly old computer with low hardware specs, you will "
 "want to look for a \"lightweight\" OS designed for low-powered devices. "
 "Search online and you will find many recommendations."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:460
+#: content/opt-green-handbook/index.md:461
 msgid ""
 "If you have a newer computer that offers more hardware power, you can "
 "install just about any OS. The main differences you'll notice are the "
@@ -9932,7 +9932,7 @@ msgid ""
 "distros to find the one that works best for you."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:461
+#: content/opt-green-handbook/index.md:462
 msgid ""
 "Since most hardware was *not* designed for FOSS, you may run into problems "
 "with drivers for graphics cards, WiFi, webcams, among others. These issues "
@@ -9940,14 +9940,14 @@ msgid ""
 "research to find solutions."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:462
+#: content/opt-green-handbook/index.md:463
 msgid ""
 "Some distributions include GUI software to detect and install proprietary "
 "drivers. This is recommended before getting your hands dirty with the "
 "command line interface."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:464
+#: content/opt-green-handbook/index.md:465
 msgid ""
 "If you want in-person support while getting started, we recommend visiting "
 "the [End Of 10](https://endof10.org) website to find a place or event in "
@@ -9955,7 +9955,7 @@ msgid ""
 "team!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:466
+#: content/opt-green-handbook/index.md:467
 msgid ""
 "As this is a handbook from the KDE Eco initiative, we recommend trying a "
 "distribution with the [KDE Plasma](https://kde.org/plasma-desktop/) desktop "
@@ -9968,7 +9968,7 @@ msgid ""
 "using KDE Plasma already."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:469
+#: content/opt-green-handbook/index.md:470
 msgid ""
 "![The KDE Plasma Desktop Environment. Here you can see GUIs for modifying "
 "System Settings, for updating and installing software with Discover, as well "
@@ -9977,15 +9977,15 @@ msgid ""
 "license.)](images/sec3_fullscreen_with_apps.png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:471
+#: content/opt-green-handbook/index.md:472
 msgid "KDE Plasma's slogan is:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:473
+#: content/opt-green-handbook/index.md:474
 msgid "\"Simple by default, powerful when needed.\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:475
+#: content/opt-green-handbook/index.md:476
 msgid ""
 "In other words, although the out-of-the-box settings make it simple to use "
 "with no additional tweaking, KDE Plasma is in fact very powerful software, "
@@ -10002,28 +10002,28 @@ msgid ""
 "more."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:477
+#: content/opt-green-handbook/index.md:478
 msgid "Stage 2. Before Install Events"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:479
+#: content/opt-green-handbook/index.md:480
 msgid ""
 "In this section we'll explore building FOSS teams as well as some ways to "
 "prepare for and promote an event, before you find yourself in a room packed "
 "with curious and nervous new users."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:481
+#: content/opt-green-handbook/index.md:482
 msgid "Finding Other FOSS Angels"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:483
+#: content/opt-green-handbook/index.md:484
 msgid ""
 "If there are no Linux User Groups or Linux Cafes in your area (see next "
 "section), that is a pity but also an opportunity: you can start one!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:485
+#: content/opt-green-handbook/index.md:486
 msgid ""
 "In KDE Eco's \"Opt Green\" project we have had contact with many "
 "organizations and individuals offering FOSS support. One story in particular "
@@ -10035,13 +10035,13 @@ msgid ""
 "themselves and (b) who would be interested in helping others do so."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:487
+#: content/opt-green-handbook/index.md:488
 msgid ""
 "[^4]: We use the term \"angel\" following the terminology used by the Chaos "
 "Computer Club in Germany for volunteers at their events."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:489
+#: content/opt-green-handbook/index.md:490
 msgid ""
 "From this event they built a team of 20 volunteers who met over several "
 "weeks for pizza and beer in order to gain experience and troubleshoot "
@@ -10052,13 +10052,13 @@ msgid ""
 "Cafe in their area to offer ongoing support to their community!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:491
+#: content/opt-green-handbook/index.md:492
 msgid ""
 "By following this excellent example, you too can build a FOSS power team in "
 "your area."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:493
+#: content/opt-green-handbook/index.md:494
 msgid ""
 "![Group photos of two major FOSS development communities at their annual "
 "conferences: The KDE community at [Akademy](https://akademy.kde.org/"
@@ -10072,7 +10072,7 @@ msgid ""
 "png)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:495
+#: content/opt-green-handbook/index.md:496
 msgid ""
 "If you like this idea but feel you live in a FOSS desert, don't forget that "
 "contributors to FOSS projects live all over the world. It is truly a global "
@@ -10084,13 +10084,13 @@ msgid ""
 "interest in their work, and you'll likely get feedback pretty quickly."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:497
+#: content/opt-green-handbook/index.md:498
 msgid ""
 "Starting a Linux or Repair Café is more work than organizing an event, but "
 "well worth it for ongoing support. Here are some resources on how start one:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:499
+#: content/opt-green-handbook/index.md:500
 msgid ""
 "[Repair Cafe International](https://www.repaircafe.org/en/visit/) has very "
 "helpful information at the \"[Start Your Own](https://www.repaircafe.org/en/"
@@ -10098,7 +10098,7 @@ msgid ""
 "linux-repair-cafe/)\" webpages."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:500
+#: content/opt-green-handbook/index.md:501
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/) has prepared a \"[End of Windows 10: A Toolkit for "
@@ -10106,18 +10106,18 @@ msgid ""
 "toolkit-for-repair-groups/)\"."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:502
+#: content/opt-green-handbook/index.md:503
 msgid ""
 "Organizing the first of many install events or starting a Repair Café is "
 "very doable. Many people like you are leading the way! Don't be discouraged "
 "if interest is low at first. It takes time and energy to build a community."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:504
+#: content/opt-green-handbook/index.md:505
 msgid "Joining An Organization"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:506
+#: content/opt-green-handbook/index.md:507
 msgid ""
 "Why start from scratch when a motivated group may already be active in your "
 "area? For example, repair initiatives offering software support, Linux User "
@@ -10125,45 +10125,45 @@ msgid ""
 "places to get started are:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:508
+#: content/opt-green-handbook/index.md:509
 msgid "[End Of 10](https://endof10.org) directory"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:509
+#: content/opt-green-handbook/index.md:510
 msgid "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:510
+#: content/opt-green-handbook/index.md:511
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:511
+#: content/opt-green-handbook/index.md:512
 msgid ""
 "[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf"
 "%C3%A9) repair café directory"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:512
+#: content/opt-green-handbook/index.md:513
 msgid "[Linux User Groups](https://linux-events.org/SL_LUGs)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:513
+#: content/opt-green-handbook/index.md:514
 msgid "[CryptoParties](https://cryptoparty.in/)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:514
+#: content/opt-green-handbook/index.md:515
 msgid ""
 "Student and FOSS clubs (such as the [FOSS United Clubs](https://fossunited."
 "org/clubs) in India)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:515
+#: content/opt-green-handbook/index.md:516
 msgid "IT stores offering Linux support"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:517
+#: content/opt-green-handbook/index.md:518
 msgid ""
 "Reach out and ask what they need help with. Don't be shy! From experience, "
 "such groups are always happy to have more helpers. You can get involved by "
@@ -10174,34 +10174,34 @@ msgid ""
 "doing to promote and support Free & Open Source Software for new users."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:519
+#: content/opt-green-handbook/index.md:520
 msgid "Planning An Install Party"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:521
+#: content/opt-green-handbook/index.md:522
 msgid ""
 "It is worth emphasizing that installation is only one of many steps in the "
 "migration process. So let's think about it from the user perspective. The "
 "main stages for a new user may look like the following:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:523
+#: content/opt-green-handbook/index.md:524
 msgid "Stage 0: Deciding to install a FOSS OS"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:524
+#: content/opt-green-handbook/index.md:525
 msgid "Stage 1: Securing their data"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:525
+#: content/opt-green-handbook/index.md:526
 msgid "Stage 2: Installation"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:526
+#: content/opt-green-handbook/index.md:527
 msgid "Stage 3: Getting follow-up support"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:528
+#: content/opt-green-handbook/index.md:529
 msgid ""
 "By considering each of these stages, you can best meet a user's needs (i) "
 "*before* the event by doing effective promotion, (ii) *during* the event by "
@@ -10209,7 +10209,7 @@ msgid ""
 "issues arise."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:530
+#: content/opt-green-handbook/index.md:531
 msgid ""
 "Note: The easiest first step for new users may be to use cross-platform FOSS "
 "apps on their existing proprietary OS before installing a new operating "
@@ -10222,11 +10222,11 @@ msgid ""
 "software will already be familiar!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:532
+#: content/opt-green-handbook/index.md:533
 msgid "Why A New User Decides (Not) To Install A FOSS OS"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:534
+#: content/opt-green-handbook/index.md:535
 msgid ""
 "Many installation guides start right at the installation step or perhaps "
 "with data backup, but very few start with what is the most important step of "
@@ -10235,47 +10235,47 @@ msgid ""
 "event promotion."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:536
+#: content/opt-green-handbook/index.md:537
 msgid ""
 "Many potential users would never think to try a FOSS OS. This can be for "
 "many reasons, such as:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:538
+#: content/opt-green-handbook/index.md:539
 msgid "They don't know FOSS operating systems even exist."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:539
+#: content/opt-green-handbook/index.md:540
 msgid "They believe FOSS won't meet their needs."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:540
+#: content/opt-green-handbook/index.md:541
 msgid "They think it's too hard to use."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:541
+#: content/opt-green-handbook/index.md:542
 msgid "They see that their out-of-date software still works, so why bother."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:542
+#: content/opt-green-handbook/index.md:543
 msgid "They've heard that many things won't work."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:543
+#: content/opt-green-handbook/index.md:544
 msgid "They fear they won't have support when problems arise."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:544
+#: content/opt-green-handbook/index.md:545
 msgid "They don't know anyone else who uses FOSS."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:546
+#: content/opt-green-handbook/index.md:547
 msgid ""
 "And certainly more. It's important to consider these reasons in order to "
 "understand how to best address them. Some ideas that may help:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:548
+#: content/opt-green-handbook/index.md:549
 msgid ""
 "Show, don't tell! Always have a demo computer which users can try. This can "
 "be at the install event itself, or before the event at a public presentation "
@@ -10283,7 +10283,7 @@ msgid ""
 "works. Many are surprised by how comfortable it is to use!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:549
+#: content/opt-green-handbook/index.md:550
 msgid ""
 "End of software support is a great moment to mention FOSS as a viable "
 "option. For example, when Microsoft or Apple discontinue support for their "
@@ -10292,7 +10292,7 @@ msgid ""
 "keep that device in use."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:550
+#: content/opt-green-handbook/index.md:551
 msgid ""
 "Since the user may be ready to buy a new device anyway, this option has "
 "almost no risk (as long as they have backed up their data). They can try it "
@@ -10300,7 +10300,7 @@ msgid ""
 "for them."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:551
+#: content/opt-green-handbook/index.md:552
 msgid ""
 "If you're really enthusiastic, consider demoing devices running FOSS that "
 "would otherwise be considered e-waste at markets or environmental festivals "
@@ -10311,7 +10311,7 @@ msgid ""
 "currently uses."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:552
+#: content/opt-green-handbook/index.md:553
 msgid ""
 "Learn about a user's computing needs and help them assess whether a FOSS "
 "system will be suitable. For instance, determine if the user depends on some "
@@ -10319,7 +10319,7 @@ msgid ""
 "specialized lab equipment) that does not work (well) with FOSS."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:553
+#: content/opt-green-handbook/index.md:554
 msgid ""
 "It may help to point out that other FOSS applications may meet their "
 "needs&mdash;highlighting that the software is not better or worse, just "
@@ -10327,19 +10327,19 @@ msgid ""
 "don't forget: It's ok if they decide the alternative is not right for them."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:554
+#: content/opt-green-handbook/index.md:555
 msgid ""
 "Find out what peripherals they use such as printers and other external "
 "equipment and check if they are supported. If not, make that clear to them."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:555
+#: content/opt-green-handbook/index.md:556
 msgid ""
 "Explain why updates are important to fix security vulnerabilities, and how "
 "this is true for all software."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:556
+#: content/opt-green-handbook/index.md:557
 msgid ""
 "Point out specific examples to new users, when possible. There is sometimes "
 "media attention to the issue of security vulnerabilities in software. For "
@@ -10349,7 +10349,7 @@ msgid ""
 "Windows 10, including installing Linux."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:557
+#: content/opt-green-handbook/index.md:558
 msgid ""
 "Make a list of places nearby that offer support outside of the event. For "
 "instance, see the [places](https://endof10.org/places) listed at End Of 10, "
@@ -10357,7 +10357,7 @@ msgid ""
 "that offer FOSS support. Give this list to users before and after the event."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:558
+#: content/opt-green-handbook/index.md:559
 msgid ""
 "Rather than to individuals, promote your event to groups of potential users "
 "together. For instance, approach a school, an environmental or political "
@@ -10367,7 +10367,7 @@ msgid ""
 "new OS."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:559
+#: content/opt-green-handbook/index.md:560
 msgid ""
 "Here is an example of how KDE worked together with the Cape Verdean American "
 "Community Development community in Rhode Island to upgrade unused devices: "
@@ -10377,7 +10377,7 @@ msgid ""
 "valuable-tech-skills/72340312007/)\""
 msgstr ""
 
-#: content/opt-green-handbook/index.md:560
+#: content/opt-green-handbook/index.md:561
 msgid ""
 "Here is an example of how KDE Eco worked together with a school in Hannover "
 "and a local company that donated hardware to teach 9th graders about the "
@@ -10386,7 +10386,7 @@ msgid ""
 "engineers/)\"."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:561
+#: content/opt-green-handbook/index.md:562
 msgid ""
 "Think about the many benefits of switching to FOSS and communicate that "
 "clearly to new users. The End Of 10 website has a list of [5 reasons to "
@@ -10395,19 +10395,19 @@ msgid ""
 "resonate with your target audience."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:562
+#: content/opt-green-handbook/index.md:563
 msgid ""
 "Don't be a fanatic: Respect that user freedom also means users can choose "
 "differently than you!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:564
+#: content/opt-green-handbook/index.md:565
 msgid ""
 "These are just some ideas. Do you have more? Don't hesitate to reach out to "
 "us and we can add them to future versions of this handbook."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:566
+#: content/opt-green-handbook/index.md:567
 msgid ""
 "![KDE Eco stands at the *Lange Nacht der Wissenschaften* ('Long Night Of The "
 "Sciences') at the German Environment Agency office and at the "
@@ -10422,18 +10422,18 @@ msgid ""
 "sec3_stands_lndw-umweltfestival.jpg)"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:568
+#: content/opt-green-handbook/index.md:569
 msgid "Venue, Logistics, and Outreach"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:570
+#: content/opt-green-handbook/index.md:571
 msgid ""
 "Once you and your team of FOSS angels are ready, and you have some ideas "
 "about how to promote the event, it's time to start organizing the specifics. "
 "Here's a list of some main aspects you should consider:"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:572
+#: content/opt-green-handbook/index.md:573
 msgid ""
 "You will need a venue and any necessary supplies. Examples of places that "
 "may offer free rooms include libraries, community centers, cafes, churches, "
@@ -10444,7 +10444,7 @@ msgid ""
 "guides, and other material to encourage and motivate new users."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:574
+#: content/opt-green-handbook/index.md:575
 msgid ""
 "A USB WiFi dongle is useful if the device cannot connect to the internet "
 "after installation. This issue often pops up with Apple laptops with the "
@@ -10453,7 +10453,7 @@ msgid ""
 "to install the necessary drivers, when available, after the fact."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:576
+#: content/opt-green-handbook/index.md:577
 msgid ""
 "Prepare a Code of Conduct (CoC) for volunteers and attendees. Make sure "
 "everyone is aware of it and have a plan for how to deal with violations. An "
@@ -10462,7 +10462,7 @@ msgid ""
 "quick search online."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:578
+#: content/opt-green-handbook/index.md:579
 msgid ""
 "Spread the word, online and offline. If you're volunteering with an "
 "organization, ask what they're doing for outreach. Hang posters in your "
@@ -10475,7 +10475,7 @@ msgid ""
 "example in Graz, Austria)."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:580
+#: content/opt-green-handbook/index.md:581
 msgid ""
 "Local media is an effective way to reach people in your area. Put an ad in "
 "your local paper, write local journalists, contact local radio stations, "
@@ -10485,25 +10485,25 @@ msgid ""
 "or socially-oriented communities."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:582
+#: content/opt-green-handbook/index.md:583
 msgid ""
 "And don't forget: Invite entire groups and communities, not just "
 "individuals. It is easier to overcome network effects and get support when "
 "your social circle is using FOSS!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:584
+#: content/opt-green-handbook/index.md:585
 msgid "Securing User Data: Before Or During The Event?"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:586
+#: content/opt-green-handbook/index.md:587
 msgid ""
 "Before installing anything, it's critical to have backups of all data on the "
 "device. This is important enough to repeat: it is critical to have backups "
 "of all data before installing anything. Do not skip this step!"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:588
+#: content/opt-green-handbook/index.md:589
 msgid ""
 "Data backups can be done either before or during the event. Either way, your "
 "outreach should communicate clearly what you expect. The downside of doing "
@@ -10513,7 +10513,7 @@ msgid ""
 "visitors know what you expect before they arrive."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:590
+#: content/opt-green-handbook/index.md:591
 msgid ""
 "In the Opt Green project, we've seen that many people keep old devices as "
 "archives of their data, not realizing that the data can be secured on an "
@@ -10524,15 +10524,15 @@ msgid ""
 "events, they can come to the next one to install their new OS."
 msgstr ""
 
-#: content/opt-green-handbook/index.md:592
+#: content/opt-green-handbook/index.md:593
 msgid "Stage 3. During Install Events"
 msgstr ""
 
-#: content/opt-green-handbook/index.md:594
+#: content/opt-green-handbook/index.md:595
 msgid "Showing, Not Telling"
-msgstr ""
+msgstr "Laten zie, niet vertellen"
 
-#: content/opt-green-handbook/index.md:596
+#: content/opt-green-handbook/index.md:597
 msgid ""
 "Even better than telling a curious user what FOSS can do, show them. Have a "
 "demo computer ready or boot into a live environment (although be careful "
@@ -10543,8 +10543,17 @@ msgid ""
 "misconceptions. Once they see that FOSS works as one would expect from any "
 "modern OS, many fears are quickly abated."
 msgstr ""
+"Nog beter dan een nieuwsgierige gebruiker te vertellen wat FOSS kan, is het "
+"te laten zien. Zorg dat er een demo-computer klaarstaat of start op in een "
+"live-omgeving (maar let op dat er niets permanent wordt geblokkeerd bij het "
+"opstarten vanaf een USB-schijf, zoals kan gebeuren met Windows Bitlocker; "
+"zie [hier](https://documentation.ubuntu.com/desktop/en/latest/reference/"
+"bitlocker-during-ubuntu-installation/)). Soms kan alleen al het zien van een "
+"computer waarop FOSS draait, misvattingen wegnemen. Zodra ze zien dat FOSS "
+"werkt zoals je van elk modern besturingssysteem zou verwachten, verdwijnen "
+"veel angsten snel."
 
-#: content/opt-green-handbook/index.md:598
+#: content/opt-green-handbook/index.md:599
 msgid ""
 "Stick to familiar interfaces whenever possible. What does that mean? For "
 "example, when software can be installed using a GUI, use that, and not the "
@@ -10554,20 +10563,33 @@ msgid ""
 "or ask if they are interested in learning more. For most users, what they "
 "are looking for is the simplest way to get something done. Give that to them!"
 msgstr ""
+"Gebruik waar mogelijk vertrouwde interfaces. Wat betekent dat? Als software "
+"bijvoorbeeld via een grafische gebruikersinterface (GUI) geïnstalleerd kan "
+"worden, gebruik die dan en niet de commandoregel. Voor veel nieuwe "
+"gebruikers versterkt de commandoregelinterface alleen maar het idee dat FOSS "
+"(Free and Open Source Software) voor experts is. Als u per se iets via de "
+"commandoregel moet doen, leg dan uit dat dit niet nodig is of vraag of ze er "
+"meer over willen leren. De meeste gebruikers zijn op zoek naar de "
+"eenvoudigste manier om iets voor elkaar te krijgen. Geef ze die!"
 
-#: content/opt-green-handbook/index.md:600
+#: content/opt-green-handbook/index.md:601
 msgid ""
 "![Screenshot from KDE Eco blog showing a command line interface in [Konsole]"
 "(https://apps.kde.org/konsole/). This is really scary to many new users! "
 "(Screenshot from Aakarsh MJ published under a [CC-BY-4.0](https://spdx.org/"
 "licenses/CC-BY-4.0.html) license.)](images/sec3_konsole.png)"
 msgstr ""
+"![Schermafdruk van de KDE Eco-blog met een commandoregelinterface in "
+"[Konsole](https://apps.kde.org/konsole/). Dit is voor veel nieuwe gebruikers "
+"best eng! (Schermafdruk van Aakarsh MJ, gepubliceerd onder een [CC-BY-4.0]"
+"(https://spdx.org/licenses/CC-BY-4.0.html) licentie.)](images/sec3_konsole."
+"png)"
 
-#: content/opt-green-handbook/index.md:602
+#: content/opt-green-handbook/index.md:603
 msgid "Getting To Know A User's Computing Needs"
-msgstr ""
+msgstr "De computerbehoeften van een gebruiker leren kennen"
 
-#: content/opt-green-handbook/index.md:604
+#: content/opt-green-handbook/index.md:605
 msgid ""
 "Before you install anything, get to know the needs of the person you're "
 "helping and inform them how FOSS may be different or similar. Have them try "
@@ -10582,8 +10604,22 @@ msgid ""
 "computer? What do they want to do with it? What software do they need or use "
 "regularly?"
 msgstr ""
+"Voordat u iets installeert, is het belangrijk om de behoeften van de persoon "
+"die u helpt te leren kennen en uit te leggen hoe FOSS (Free and Open Source "
+"Software) verschilt van of juist overeenkomt met bestaande software. Laat ze "
+"FOSS uitproberen in een live omgeving of op een demo-computer. Ontdek wat "
+"een gebruiker precies wil doen. Voor veel gebruikers is dit misschien niet "
+"eens duidelijk. Daarom hebben sommige evenementen korte vragenlijsten die "
+"gebruikers samen kunnen invullen. Zie [hier](https://invent.kde.org/teams/"
+"eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md#forms) "
+"voor links naar enkele voorbeeldformulieren, waaronder formulieren voor het "
+"verzamelen van hardware-informatie. Afhankelijk van hoe technisch het "
+"formulier is (en zeer technische formulieren kunnen bezoekers afschrikken), "
+"vult u deze formulieren samen met de gebruiker in. Enkele algemene vragen "
+"zijn: Hoe oud is hun computer? Wat willen ze ermee doen? Welke software "
+"hebben ze nodig of gebruiken ze regelmatig?"
 
-#: content/opt-green-handbook/index.md:606
+#: content/opt-green-handbook/index.md:607
 msgid ""
 "A user's needs is often determined by their work or study, which can present "
 "insurmountable obstacles. If you need a particular computer program and it "
@@ -10592,8 +10628,15 @@ msgid ""
 "user's operating system. You do not want to leave a person unable to do what "
 "they need to do with their computer for work!"
 msgstr ""
+"De behoeften van een gebruiker worden vaak bepaald door zijn of haar werk of "
+"studie, wat onoverkomelijke obstakels kan opleveren. Als je een bepaald "
+"computerprogramma nodig hebt en het draait alleen op een niet-FOSS "
+"besturingssysteem, is het moeilijk of zelfs onmogelijk om over te stappen. "
+"Het is belangrijk om je bewust te zijn van deze obstakels voordat u het "
+"besturingssysteem van een gebruiker wijzigt. U wilt immers niet dat iemand "
+"niet meer kan doen wat hij of zij met de computer moet doen voor het werk!"
 
-#: content/opt-green-handbook/index.md:608
+#: content/opt-green-handbook/index.md:609
 msgid ""
 "For some proprietary applications, a web-based version of the software may "
 "be available (for example, Microsoft Word also has a web version). Look into "
@@ -10602,8 +10645,15 @@ msgid ""
 "meet the user's needs. Show these options to new users. Look online for many "
 "suggestions."
 msgstr ""
+"Voor sommige bedrijfseigen toepassingen is mogelijk een webversie van de "
+"software beschikbaar (Microsoft Word heeft bijvoorbeeld ook een webversie). "
+"Onderzoek deze opties, want dit kan de overstap naar een ander "
+"besturingssysteem vergemakkelijken. Er zijn ook veel alternatieven voor "
+"bedrijfseigen software die mogelijk beter aansluiten bij de behoeften van de "
+"gebruiker. Laat deze opties aan nieuwe gebruikers zien. Zoek online naar "
+"suggesties."
 
-#: content/opt-green-handbook/index.md:610
+#: content/opt-green-handbook/index.md:611
 msgid ""
 "In some cases it may be possible to run Windows software on a FOSS system "
 "using a compatability layer such as [Wine](https://www.winehq.org/) or Wine-"
@@ -10615,12 +10665,23 @@ msgid ""
 "at your event, let them know that they can play many of their games on their "
 "new OS. There are even distros tailored specifically for gaming."
 msgstr ""
+"In sommige gevallen is het mogelijk om Windows-software op een FOSS-systeem "
+"te draaien met behulp van een compatibiliteitslaag zoals [Wine](https://www."
+"winehq.org/) of Wine-gebaseerde software zoals [Proton](https://github.com/"
+"ValveSoftware/Proton) voor gaming. Dit is een meer technische oplossing en "
+"werkt mogelijk niet in alle gevallen. Wine heeft een [database](https://www."
+"winehq.org/) met software waarvan bekend is dat deze werkt, en Proton heeft "
+"een vergelijkbare [database](https://www.protondb.com/), maar dan voor "
+"games. Gaming op Linux heeft in feite een enorme ontwikkeling doorgemaakt. "
+"Als er gamers op je evenement zijn, laat ze dan weten dat ze veel van hun "
+"games op hun nieuwe besturingssysteem kunnen spelen. Er zijn zelfs "
+"distributies die specifiek voor gaming zijn ontwikkeld."
 
-#: content/opt-green-handbook/index.md:612
+#: content/opt-green-handbook/index.md:613
 msgid "Securing User Data"
-msgstr ""
+msgstr "Gebruikersgegevens veilig stellen"
 
-#: content/opt-green-handbook/index.md:614
+#: content/opt-green-handbook/index.md:615
 msgid ""
 "See above for whether to do data backups before or during the event. The "
 "most straightforward way to backup data is to manually copy-and-paste the "
@@ -10629,23 +10690,41 @@ msgid ""
 "Hilpoltstein has a [guide](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/pc-upgrades/festplatte-austauschen) (in German) for how to do this."
 msgstr ""
+"Zie hierboven voor informatie over het maken van reservekopieën van gegevens "
+"vóór of tijdens het evenement. De meest eenvoudige manier om een "
+"reservekopie van gegevens te maken, is door de gegevens handmatig te "
+"kopiëren en te plakken naar een externe schijf. Een andere optie is om SSD-"
+"schijven aan te bieden ter vervanging van de HDD en de oude schijf te "
+"bewaren als reservekopie van het volledige systeem. Repair Café Hilpoltstein "
+"heeft een [handleiding](https://www.repaircafe-hilpoltstein.de/offene-"
+"werkstatt/pc-upgrades/festplatte-austauschen) (in het Duits) over hoe dit te "
+"doen."
 
-#: content/opt-green-handbook/index.md:616
+#: content/opt-green-handbook/index.md:617
 msgid ""
 "If you're working with a non-profit organization, there may be issues with "
 "selling SDDs at the event. Some volunteers have told us they sell the SSD "
 "drive at cost and give the users the receipt to avoid legal issues. Inform "
 "yourself first before doing so."
 msgstr ""
+"Als u voor een non-profitorganisatie werkt, kunnen er problemen ontstaan ​​met "
+"de verkoop van SSD's tijdens het evenement. Sommige vrijwilligers hebben ons "
+"verteld dat ze de SSD's tegen kostprijs verkopen en de gebruikers een bon "
+"geven om juridische problemen te voorkomen. Informeer u eerst goed voordat u "
+"dit doet."
 
-#: content/opt-green-handbook/index.md:618
+#: content/opt-green-handbook/index.md:619
 msgid ""
 "Often overlooked is finding out where user passwords are stored. Ask users "
 "if they know. And they may not! Many browsers store passwords, so you may "
 "want to back up that data as well just to be safe."
 msgstr ""
+"Er wordt vaak over het hoofd gezien waar gebruikerswachtwoorden worden "
+"opgeslagen. Vraag gebruikers of ze het weten. En misschien weten ze het "
+"niet! Veel browsers slaan wachtwoorden op, dus het is misschien verstandig "
+"om ook een back-up van die gegevens te maken, voor de zekerheid."
 
-#: content/opt-green-handbook/index.md:620
+#: content/opt-green-handbook/index.md:621
 msgid ""
 "If a user has data backed up on the cloud, this can also be used to migrate "
 "their data to the new system. Although you may have opinions about the "
@@ -10653,44 +10732,58 @@ msgid ""
 "about privacy and the like. Use what they use, and offer to show them "
 "alternatives if they're interested."
 msgstr ""
+"Als een gebruiker een reservekopie van zijn gegevens in de cloud heeft, kan "
+"deze ook worden gebruikt om zijn gegevens naar het nieuwe systeem te "
+"migreren. Hoewel u wellicht een mening hebt over de platformen die anderen "
+"gebruiken, is dit waarschijnlijk niet het moment om een ​​debat aan te gaan "
+"over privacy en dergelijke. Gebruik wat zij gebruiken en bied aan om "
+"henalternatieven te laten zien als ze geïnteresseerd zijn."
 
-#: content/opt-green-handbook/index.md:622
+#: content/opt-green-handbook/index.md:623
 msgid "Installing A FOSS Operating System"
 msgstr "Een FOSS besturingssysteem installeren"
 
-#: content/opt-green-handbook/index.md:624
+#: content/opt-green-handbook/index.md:625
 msgid ""
 "Make sure all user data is backed up and secure before doing anything else. "
 "It is also important to have a disclaimer before the event, such as:"
 msgstr ""
+"Zorg ervoor dat alle gebruikersgegevens een reservekopie hebben en veilig "
+"zijn opgeslagen voordat u iets anders doet. Het is ook belangrijk om "
+"voorafgaand aan het evenement een disclaimer te publiceren, bijvoorbeeld:"
 
-#: content/opt-green-handbook/index.md:626
+#: content/opt-green-handbook/index.md:627
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
 "Dit is vrijwillige hulp om nieuwe gebruikers te tonen hoe ze zichzelf kunnen "
 "helpen."
 
-#: content/opt-green-handbook/index.md:627
-msgid "No contract is being established."
-msgstr ""
-
 #: content/opt-green-handbook/index.md:628
-msgid "Devices and data can break when you touch them."
-msgstr ""
+msgid "No contract is being established."
+msgstr "Er wordt geen contract gesloten."
 
 #: content/opt-green-handbook/index.md:629
+msgid "Devices and data can break when you touch them."
+msgstr "Apparaten en gegevens kunnen breken wanneer u ze aanraakt."
+
+#: content/opt-green-handbook/index.md:630
 msgid ""
 "Attendees are responsible for their devices and for having data backups."
 msgstr ""
+"Deelnemers zijn verantwoordelijk voor hun eigen apparaten en hebben "
+"reservekopieën van hum gegevens."
 
-#: content/opt-green-handbook/index.md:631
+#: content/opt-green-handbook/index.md:632
 msgid ""
 "Tip: It's always best practice to ask before touching someone else's "
 "computer! Ideally you will not need to touch the device, as the user can "
 "learn how to do everything on their own with your guidance."
 msgstr ""
+"Tip: Het is altijd verstandig om eerst toestemming te vragen voordat u "
+"iemands computer aanraakt! Idealiter hoeft u het apparaat niet aan te raken, "
+"omdat de gebruiker met jouw begeleiding alles zelf kan leren."
 
-#: content/opt-green-handbook/index.md:633
+#: content/opt-green-handbook/index.md:634
 msgid ""
 "The disclaimer can be presented orally, but it's also worth having it in "
 "writing with a signature before installing anything. If you feel they are "
@@ -10699,24 +10792,31 @@ msgid ""
 "legalprotection.html). Check with the relevant authorities to be certain "
 "these documents are legally binding."
 msgstr ""
+"De disclaimer kan mondeling worden voorgelezen, maar het is ook verstandig "
+"om deze schriftelijk en met een handtekening vast te leggen voordat u iets "
+"installeert. Als u denkt dat ze nodig zijn, zijn er juridische documenten "
+"beschikbaar via reparatie-initiatieven en [The Linux Document Project]"
+"(https://tldp.org/HOWTO/Installfest-HOWTO/legalprotection.html). Neem "
+"contact op met de relevante autoriteiten om er zeker van te zijn dat deze "
+"documenten juridisch bindend zijn."
 
-#: content/opt-green-handbook/index.md:635
+#: content/opt-green-handbook/index.md:636
 msgid "The installation process generally follows these 3 steps:"
-msgstr ""
-
-#: content/opt-green-handbook/index.md:637
-msgid "Prepare a bootable USB drive or DVD"
-msgstr ""
+msgstr "Het installatieproces bestaat doorgaans uit deze 3 stappen:"
 
 #: content/opt-green-handbook/index.md:638
-msgid "Enter into BIOS and boot from the drive"
-msgstr ""
+msgid "Prepare a bootable USB drive or DVD"
+msgstr "Zorg voor een op te starten USB-stick of dvd."
 
 #: content/opt-green-handbook/index.md:639
-msgid "Install the OS"
-msgstr ""
+msgid "Enter into BIOS and boot from the drive"
+msgstr "Ga naar de BIOS en start op vanaf het apparaat."
 
-#: content/opt-green-handbook/index.md:641
+#: content/opt-green-handbook/index.md:640
+msgid "Install the OS"
+msgstr "Installeer het besturingssysteem"
+
+#: content/opt-green-handbook/index.md:642
 msgid ""
 "There are numerous online guides for all distributions for how to prepare a "
 "bootable drive. There is also cross-platform software to prepare the drive, "
@@ -10725,8 +10825,15 @@ msgid ""
 "recommend doing so to make sure the file is not corrupt and it is the "
 "intended software released by the developers."
 msgstr ""
+"Er zijn talloze online handleidingen voor alle distributies over hoe je een "
+"opstartbare schijf kunt voorbereiden. Er is ook platformonafhankelijke "
+"software om de schijf voor te bereiden, zoals Fedora Media Writer en [Rufus]"
+"(https://rufus.ie/). Het controleren van het gedownloade ISO-bestand of de "
+"image vereist een paar extra stappen, maar we raden aan dit te doen om er "
+"zeker van te zijn dat het bestand niet beschadigd is en dat het de door de "
+"ontwikkelaars bedoelde software is."
 
-#: content/opt-green-handbook/index.md:643
+#: content/opt-green-handbook/index.md:644
 msgid ""
 "![Screenshot of Fedora Media Writer. The process could not be easier: Choose "
 "which OS to install, select the USB drive to write to, slowly sip your tea "
@@ -10735,8 +10842,15 @@ msgid ""
 "released under a [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-"
 "sa/4.0/legalcode) license.)](images/sec3_FMW-select-image-source1.png)"
 msgstr ""
+"![Schermafdruk van Fedora Media Writer. Het proces kan niet eenvoudiger: "
+"kies welk besturingssysteem u wilt installeren, selecteer de USB-schijf "
+"waarop u wilt schrijven, neem rustig een slokje thee en voilà! U hebt een op "
+"te starten USB-schijf. ([Afbeelding](https://docs.fedoraproject.org/en-US/"
+"fedora/latest/preparing-boot-media/) van Fedora uitgebracht onder een [CC-BY-"
+"SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) licentie.)]"
+"(images/sec3_FMW-select-image-source1.png)"
 
-#: content/opt-green-handbook/index.md:645
+#: content/opt-green-handbook/index.md:646
 msgid ""
 "In order to boot into BIOS or boot menu, you must press and hold a "
 "particular key at boot (usually F2, F10, F12, Esc, etc. for Windows devices "
@@ -10745,8 +10859,15 @@ msgid ""
 "Umstieg_auf_Linux#Von_Bootmedium_starten) for a table of devices and key "
 "combinations needed to enter BIOS or boot menu."
 msgstr ""
+"Om in de BIOS of het opstartmenu te komen, moet u tijdens het opstarten een "
+"bepaalde toets ingedrukt houden (meestal F2, F10, F12, Esc, enz. voor "
+"Windows-apparaten en de Option-toets voor Apple-apparaten). U kunt dan de "
+"schijf selecteren waarvan u wilt opstarten. Zie [hier](https://lug-vs.org/"
+"index.php/Umstieg_auf_Linux#Von_Bootmedium_starten) voor een tabel met "
+"apparaten en toetscombinaties die nodig zijn om de BIOS of het opstartmenu "
+"te openen."
 
-#: content/opt-green-handbook/index.md:647
+#: content/opt-green-handbook/index.md:648
 msgid ""
 "We recommend booting into a so-called live environment. This allows a user "
 "to try out the software on their own device before installing anything (make "
@@ -10760,55 +10881,84 @@ msgid ""
 "if everything works in the live environment, this is not a guarantee it will "
 "work after installation."
 msgstr ""
+"We raden aan om op te starten in een zogenaamde live-omgeving. Hiermee kan "
+"een gebruiker de software op zijn of haar eigen apparaat uitproberen voordat "
+"er iets wordt geïnstalleerd (zorg ervoor dat [Bitlocker](https://"
+"documentation.ubuntu.com/desktop/en/latest/reference/bitlocker-during-ubuntu-"
+"installation/) is uitgeschakeld op een Windows-apparaat, of zorg dat u een "
+"Bitlocker-herstelsleutel bij de hand hebt voor het geval de gebruiker "
+"buitengesloten raakt van zijn of haar systeem). In de live-omgeving is het "
+"een goede gelegenheid om de wifi, webcam, enz. te testen om er zeker van te "
+"zijn dat alles direct werkt voordat de installatie begint. Als iets niet "
+"werkt, is dit eenindicatie dat er na de installatie extra stappen nodig "
+"zijn. Zelfs als alles in de live-omgeving werkt, is dit echter geen garantie "
+"dat het ook na de installatie zal werken."
 
-#: content/opt-green-handbook/index.md:649
+#: content/opt-green-handbook/index.md:650
 msgid ""
 "During installation it will be necessary to create a new username, password, "
 "etc. Have the user write these down on a piece of paper. Do not skip this "
 "step. A common issue after installation is forgetting the new password, and "
 "even sometimes the username!"
 msgstr ""
+"Tijdens de installatie is het nodig om een ​​nieuwe gebruikersnaam, "
+"wachtwoord, enz. aan te maken. Laat de gebruiker deze gegevens op een "
+"briefje schrijven. Sla deze stap niet over. Een veelvoorkomend probleem na "
+"de installatie is het vergeten van het nieuwe wachtwoord, en soms zelfs de "
+"gebruikersnaam!"
 
-#: content/opt-green-handbook/index.md:651
+#: content/opt-green-handbook/index.md:652
 msgid "Using The FOSS Operating System"
 msgstr "Het FOSS-besturingssysteem gebruiken"
 
-#: content/opt-green-handbook/index.md:653
+#: content/opt-green-handbook/index.md:654
 msgid ""
 "At this point you'll want to show the user how to do things in their new OS. "
 "Some tips so they can use their new system:"
 msgstr ""
+"Op dit punt wilt u de gebruiker laten zien hoe hij of zij dingen moet doen "
+"in het nieuwe besturingssysteem. Enkele tips voor het gebruik van het nieuwe "
+"systeem:"
 
-#: content/opt-green-handbook/index.md:655
+#: content/opt-green-handbook/index.md:656
 msgid ""
 "Navigating their new system such as application menu, software center, "
 "volume adjustment, printer administration, and so on (it helps to let them "
 "do this on their own and have them ask questions)"
 msgstr ""
-
-#: content/opt-green-handbook/index.md:656
-msgid "Installing or unsinstalling applications"
-msgstr ""
+"Het navigeren door hun nieuwe systeem, zoals het toepassingenmenu, het "
+"softwarecentrum, het aanpassen van het volume, printerbeheer, enzovoort (het "
+"helpt om ze dit zelf te laten doen en ze vragen te laten stellen)."
 
 #: content/opt-green-handbook/index.md:657
+msgid "Installing or unsinstalling applications"
+msgstr "Toepassingen installeren of verwijderen"
+
+#: content/opt-green-handbook/index.md:658
 msgid ""
 "Updating the system and applications (completing this action may take some "
 "time)"
 msgstr ""
+"Het systeem en de toepassingen bijwerken (het voltooien van deze actie kan "
+"enige tijd in beslag nemen)."
 
-#: content/opt-green-handbook/index.md:658
+#: content/opt-green-handbook/index.md:659
 msgid ""
 "Copying the user's backed up data onto the new OS (completing this action "
 "may take some time)"
 msgstr ""
+"De reservekopiegegevens van de gebruiker kopiëren naar het nieuwe "
+"besturingssysteem (het voltooien van deze actie kan enige tijd duren)"
 
-#: content/opt-green-handbook/index.md:659
+#: content/opt-green-handbook/index.md:660
 msgid ""
 "Optional: Setting up automated backup software with their external hard "
 "drive (completing this action may take some time)"
 msgstr ""
+"Optioneel: Automatische reservekopiesoftware instellen met hun externe harde "
+"schijf (dit kan enige tijd in beslag nemen)."
 
-#: content/opt-green-handbook/index.md:661
+#: content/opt-green-handbook/index.md:662
 msgid ""
 "![Image of [Discover](https://apps.kde.org/discover/) in KDE Plasma. "
 "Discover is used to update the system as well as to find and install "
@@ -10816,8 +10966,14 @@ msgid ""
 "released under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
 "license.)](images/sec3_plasma-discover.png)"
 msgstr ""
+"![Afbeelding van [Ontdekken](https://apps.kde.org/discover/) in KDE Plasma. "
+"Ontdekken wordt gebruikt om het systeem bij te werken en om toepassingen, "
+"games en hulpmiddelen te vinden en te installeren via verschillende "
+"opslagruimten. (Afbeelding van KDE uitgebracht onder een [CC-BY-4.0](https://"
+"spdx.org/licenses/CC-BY-4.0.html) licentie.)](images/sec3_plasma-discover."
+"png)"
 
-#: content/opt-green-handbook/index.md:663
+#: content/opt-green-handbook/index.md:664
 msgid ""
 "It may help to demonstrate how installing software may differ from their "
 "past system. Unlike with proprietary operating systems, installing and "
@@ -10825,72 +10981,107 @@ msgid ""
 "with a software or package manager. Explain that this is the recommended way "
 "to install and update software in the FOSS ecosystem."
 msgstr ""
+"Het kan helpen om te demonstreren hoe het installeren van software verschilt "
+"van hun vorige systeem. In tegenstelling tot fabrieksmatige "
+"besturingssystemen, worden het installeren en verwijderen van toepassingen, "
+"evenals elementen voor software bijwerken, doorgaans gedaan met een "
+"software- of pakketbeheerder. Leg uit dat dit de aanbevolen manier is om "
+"software te installeren en bij te werken in het FOSS-ecosysteem."
 
-#: content/opt-green-handbook/index.md:665
+#: content/opt-green-handbook/index.md:666
 msgid "Stage 4. After Install Events"
-msgstr ""
+msgstr "Fase 4. Na na de installatie-evenementen"
 
-#: content/opt-green-handbook/index.md:667
+#: content/opt-green-handbook/index.md:668
 msgid ""
 "Although we'll only briefly cover this here, do not underestimate the "
 "importance of offering follow-up support. The installation itself may go "
 "smoothly, but getting used to the new OS will in many cases require "
 "additional help, such as:"
 msgstr ""
+"Hoewel we dit hier slechts kort zullen behandelen, onderschat het belang van "
+"het bieden van nazorg niet. De installatie zelf kan soepel verlopen, maar "
+"wennen aan het nieuwe besturingssysteem vereist in veel gevallen extra hulp, "
+"zoals:"
 
-#: content/opt-green-handbook/index.md:669
+#: content/opt-green-handbook/index.md:670
 msgid ""
 "They have specific software needs (e.g., applications they use for work, tax "
 "software) and need extra guidance."
 msgstr ""
+"Ze hebben specifieke softwarebehoeften (bijv. toepassingen die ze voor hun "
+"werk gebruiken, belastingsoftware) en hebben extra begeleiding nodig."
 
-#: content/opt-green-handbook/index.md:670
+#: content/opt-green-handbook/index.md:671
 msgid ""
 "They have peripheral devices (e.g., printers, scanners) that do not seem to "
 "work with their new operating system."
 msgstr ""
-
-#: content/opt-green-handbook/index.md:671
-msgid "An update seems to have broken their system."
-msgstr ""
+"Ze hebben randapparatuur (bijv. printers, scanners) die niet lijkt te werken "
+"met hun nieuwe besturingssysteem."
 
 #: content/opt-green-handbook/index.md:672
+msgid "An update seems to have broken their system."
+msgstr "Het bijwerken lijkt hun systeem te hebben ontregeld."
+
+#: content/opt-green-handbook/index.md:673
 msgid ""
 "Their bootloader appears to be broken (all too often the case with dual boot "
 "setups)."
 msgstr ""
+"Hun bootloader lijkt defect te zijn (wat helaas maar al te vaak voorkomt bij "
+"dual-boot-systemen)."
 
-#: content/opt-green-handbook/index.md:674
+#: content/opt-green-handbook/index.md:675
 msgid ""
 "In some cases these problems are easy to resolve, but it takes know-how that "
 "a new user may not have. In other cases, it may take more work and time on "
 "the side of the helper."
 msgstr ""
+"In sommige gevallen zijn deze problemen eenvoudig op te lossen, maar het "
+"vereist kennis die een nieuwe gebruiker mogelijk niet heeft. In andere "
+"gevallen kan het meer werk en tijd van de helper vergen."
 
-#: content/opt-green-handbook/index.md:676
+#: content/opt-green-handbook/index.md:677
 msgid ""
 "Regarding a user's specific software needs, ideally these are identified "
 "*before* installing anything; nonetheless, it is easy to overlook something "
 "and not all use cases will always be covered in pre-install consultation. Be "
 "prepared to help new users as these unexpected issues come up."
 msgstr ""
+"Wat betreft de specifieke softwarebehoeften van een gebruiker, is het ideaal "
+"dat deze worden vastgesteld *voordat* er iets wordt geïnstalleerd; "
+"desondanks is het gemakkelijk om iets over het hoofd te zien en zullen niet "
+"alle gebruiksscenario's altijd aan bod komen tijdens een consult voorafgaand "
+"aan de installatie. Wees voorbereid om nieuwe gebruikers te helpen wanneer "
+"deze onverwachte problemen zich voordoen."
 
-#: content/opt-green-handbook/index.md:678
+#: content/opt-green-handbook/index.md:679
 msgid ""
 "We recommend having regular FOSS consultation hours (e.g., once a week or "
 "once a month), if you have the capacity to do so. Letting new users know "
 "they won't be alone when issues arise can really lower barriers to adoption."
 msgstr ""
+"We raden aan om regelmatig FOSS-consultatie-uren te houden (bijvoorbeeld "
+"eens per week of eens per maand), indien u daartoe de mogelijkheid heeft. "
+"Door nieuwe gebruikers te laten weten dat ze er niet alleen voor staan ​​als "
+"er problemen ontstaan, kunnen we de drempel voor adoptie aanzienlijk "
+"verlagen."
 
-#: content/opt-green-handbook/index.md:680
+#: content/opt-green-handbook/index.md:681
 msgid ""
 "If you're organizing multiple events, let users know about the date and "
 "times of the next events. If there are other organizations in your area that "
 "offer FOSS support, even for a fee, make a list and give this to attendees "
 "at your events."
 msgstr ""
+"Als u meerdere evenementen organiseert, laat de gebruikers dan weten wat de "
+"datum en tijd van de volgende evenementen zijn. Als er andere organisaties "
+"in uw omgeving zijn die FOSS-ondersteuning bieden, al dan niet tegen "
+"betaling, maak dan een lijst en geef deze aan de deelnemers van uw "
+"evenementen."
 
-#: content/opt-green-handbook/index.md:682
+#: content/opt-green-handbook/index.md:683
 msgid ""
 "Don't forget to demonstrate how they can help themselves as well. There is a "
 "plethora of online resources, and although these are not for everyone (many "
@@ -10908,7 +11099,7 @@ msgstr ""
 "wetenschap dat er online hulp beschikbaar is. Maak een lijst van de forums "
 "en mailinglijsten die relevant zijn voor hun nieuwe besturingssysteem."
 
-#: content/opt-green-handbook/index.md:684
+#: content/opt-green-handbook/index.md:685
 msgid ""
 "![XKCD comic [\"627: Tech Support Cheat Sheet\"](https://xkcd.com/627/) "
 "(published under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5."
@@ -10918,7 +11109,7 @@ msgstr ""
 "(gepubliceerd onder een [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-"
 "NC-2.5.html) licentie).](images/sec3_tech_support_cheat_sheet.png)"
 
-#: content/opt-green-handbook/index.md:686
+#: content/opt-green-handbook/index.md:687
 msgid ""
 "For online support, it helps to demonstrate a workflow for resolving "
 "problems. This includes:"
@@ -10926,7 +11117,7 @@ msgstr ""
 "Voor online ondersteuning is het handig om een ​​werkmethode voor het oplossen "
 "van problemen te demonstreren. Deze werkmethode omvat:"
 
-#: content/opt-green-handbook/index.md:688
+#: content/opt-green-handbook/index.md:689
 msgid ""
 "Always having a recent backup. If something goes wrong, having a backup "
 "makes it much easier to start over without risk of data loss."
@@ -10935,7 +11126,7 @@ msgstr ""
 "reservekopie het veel gemakkelijker om opnieuw te beginnen zonder risico op "
 "gegevensverlies."
 
-#: content/opt-green-handbook/index.md:689
+#: content/opt-green-handbook/index.md:690
 msgid ""
 "Read error messages. In many cases, the error message will give you critical "
 "information for fixing an issue."
@@ -10943,7 +11134,7 @@ msgstr ""
 "Lees de foutmeldingen. In veel gevallen bevat de foutmelding cruciale "
 "informatie voor het oplossen van een probleem."
 
-#: content/opt-green-handbook/index.md:690
+#: content/opt-green-handbook/index.md:691
 msgid ""
 "Search online for solutions. It sometimes helps to paste the error message "
 "along with \"solved\" in a search engine to find a solution more quickly."
@@ -10952,7 +11143,7 @@ msgstr ""
 "met \"opgelost\" in een zoekmachine te plakken om sneller een oplossing te "
 "vinden."
 
-#: content/opt-green-handbook/index.md:691
+#: content/opt-green-handbook/index.md:692
 msgid ""
 "Read forum posts. Don't try copy-and-paste terminal commands willy-nilly. "
 "Read the entire post first to see if the suggested solutions actually helped "
@@ -10962,7 +11153,7 @@ msgstr ""
 "en te plakken. Lees eerst het hele bericht om te zien of de voorgestelde "
 "oplossingen daadwerkelijk hebben geholpen voordat u zelf iets probeert."
 
-#: content/opt-green-handbook/index.md:692
+#: content/opt-green-handbook/index.md:693
 msgid ""
 "Post your problem to a forum. Find the right forum, include information "
 "about the system (software, version, hardware, actions that triggered the "
@@ -10979,7 +11170,7 @@ msgstr ""
 "ontmoedigen. Veel meer mensen zullen geduldig en behulpzaam zijn. Richt uw "
 "energie op hen!"
 
-#: content/opt-green-handbook/index.md:694
+#: content/opt-green-handbook/index.md:695
 msgid ""
 "![Screenshot of [KDE's forum](https://discuss.kde.org/), where users can ask "
 "and answer questions about KDE Plasma on various distros.](images/"
@@ -10989,7 +11180,7 @@ msgstr ""
 "gebruikers vragen kunnen stellen en beantwoorden over KDE Plasma op "
 "verschillende distributies.](images/sec3_discuss-kde-org.png)"
 
-#: content/opt-green-handbook/index.md:696
+#: content/opt-green-handbook/index.md:697
 msgid ""
 "Some people offer additional support at an hourly cost outside of events. If "
 "you are a helper and decide to do this, make sure you are on the right side "
@@ -11002,15 +11193,15 @@ msgstr ""
 "zich mee kan brengen en dat de organisatie achter het evenement ermee "
 "instemt."
 
-#: content/opt-green-handbook/index.md:698
+#: content/opt-green-handbook/index.md:699
 msgid "Additional Resources"
 msgstr "Aanvullende hulpbronnen"
 
-#: content/opt-green-handbook/index.md:700
+#: content/opt-green-handbook/index.md:701
 msgid "Organizing An Install Event"
 msgstr "Organiseer een installatie-evenement"
 
-#: content/opt-green-handbook/index.md:702
+#: content/opt-green-handbook/index.md:703
 msgid ""
 "More can be found at [New User Support Awesome List](https://invent.kde.org/"
 "teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md)."
@@ -11019,7 +11210,7 @@ msgstr ""
 "invent.kde.org/teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-"
 "support.md)."
 
-#: content/opt-green-handbook/index.md:704
+#: content/opt-green-handbook/index.md:705
 msgid ""
 "[How do I organize an install party?](https://endof10.org/faq/#how-do-i-"
 "organize-an-install-party) -- Short guide to organizing an install party, "
@@ -11029,7 +11220,7 @@ msgstr ""
 "organize-an-install-party) -- Korte handleiding voor het organiseren van een "
 "installatiefeest, uit de FAQ van de Eind 10-campagne (2025)"
 
-#: content/opt-green-handbook/index.md:705
+#: content/opt-green-handbook/index.md:706
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/"
 "Umstieg_auf_Linux) -- Preparing for a Linux install party, from LUG "
@@ -11039,7 +11230,7 @@ msgstr ""
 "Umstieg_auf_Linux) -- Voorbereiding op een Linux-installatieparty, van LUG "
 "Villingen-Schwenningen e.V. (German) (2025)"
 
-#: content/opt-green-handbook/index.md:706
+#: content/opt-green-handbook/index.md:707
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux) -- Guides to getting started with Linux, from Repair-Café "
@@ -11049,7 +11240,7 @@ msgstr ""
 "werkstatt/linux) -- Gidsen om te beginnen met Linux, van Repair-Café "
 "Hilpoltstein (German) (2025)"
 
-#: content/opt-green-handbook/index.md:707
+#: content/opt-green-handbook/index.md:708
 msgid ""
 "[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
 "-- Organizing an installation event, from the Fedora Linux community (2019)"
@@ -11058,7 +11249,7 @@ msgstr ""
 "-- Organiseren van een installatie-evenement, van de Fedora Linux community "
 "(2019)"
 
-#: content/opt-green-handbook/index.md:708
+#: content/opt-green-handbook/index.md:709
 msgid ""
 "[Linux Installfest HOWTO](https://tldp.org/HOWTO/Installfest-HOWTO/index."
 "html) -- Guidelines for running a successful installfest, from The Linux "
@@ -11068,11 +11259,11 @@ msgstr ""
 "html) -- Richtlijnen voor het succesvol organiseren van een "
 "installatieparty, van The Linux Documentation Project (2012)"
 
-#: content/opt-green-handbook/index.md:710
+#: content/opt-green-handbook/index.md:711
 msgid "FOSS On Other Devices"
 msgstr "FOSS op andere apparaten"
 
-#: content/opt-green-handbook/index.md:712
+#: content/opt-green-handbook/index.md:713
 msgid ""
 "We have focused on PCs in this handbook, but many other devices can also be "
 "upgraded to FOSS. In some cases, the Free & Open Source Software may still "
@@ -11087,11 +11278,11 @@ msgstr ""
 "veel gebruikers. Let op! U kunt echter de spannende wereld van FOSS op "
 "andere apparaten verkennen. Hier zijn enkele voorbeelden:"
 
-#: content/opt-green-handbook/index.md:714
+#: content/opt-green-handbook/index.md:715
 msgid "Smartphones & Tablets"
 msgstr "Smartphones & Tablets"
 
-#: content/opt-green-handbook/index.md:715
+#: content/opt-green-handbook/index.md:716
 msgid ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
@@ -11099,20 +11290,20 @@ msgstr ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
 
-#: content/opt-green-handbook/index.md:716
+#: content/opt-green-handbook/index.md:717
 msgid "Android derivatives: Replicant, lineageOS, e/OS"
 msgstr "Android afgeleiden: Replicant, lineageOS, e/OS"
 
-#: content/opt-green-handbook/index.md:717
+#: content/opt-green-handbook/index.md:718
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
 msgstr ""
 "Thuisserver (FreedomBox voor bestandssynchronisatie, chat, e-mail en media)"
 
-#: content/opt-green-handbook/index.md:718
+#: content/opt-green-handbook/index.md:719
 msgid "Home automation (Home Assistant, included with FreedomBox)"
 msgstr "Home automation (Home Assistant, zit in FreedomBox)"
 
-#: content/opt-green-handbook/index.md:719
+#: content/opt-green-handbook/index.md:720
 msgid ""
 "Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
@@ -11120,15 +11311,15 @@ msgstr ""
 "Smart TV's (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
 
-#: content/opt-green-handbook/index.md:720
-msgid "E-book readers (KOReader)"
-msgstr ""
-
 #: content/opt-green-handbook/index.md:721
-msgid "Garage door openers (OpenGarage, ratgdo)"
-msgstr ""
+msgid "E-book readers (KOReader)"
+msgstr "E-book readers (KOReader)"
 
-#: content/opt-green-handbook/index.md:723
+#: content/opt-green-handbook/index.md:722
+msgid "Garage door openers (OpenGarage, ratgdo)"
+msgstr "Garagedeuropeners (OpenGarage, ratgdo)"
+
+#: content/opt-green-handbook/index.md:724
 msgid ""
 "There are certainly other exciting projects to make your digital life fully "
 "FOSS and independent. It's a big Free & Open Source Software world out there."
@@ -11137,7 +11328,7 @@ msgstr ""
 "FOSS en onafhankelijk te maken. De wereld van vrije en open source software "
 "is enorm."
 
-#: content/opt-green-handbook/index.md:725
+#: content/opt-green-handbook/index.md:726
 msgid ""
 "![Plasma Mobile is an open-source user interface for mobile devices "
 "developed by the KDE community. (Image from KDE released under a [CC-BY-4.0]"
@@ -11149,11 +11340,11 @@ msgstr ""
 "onder een [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) licentie.)]"
 "(images/sec3_plasmaphone.png)"
 
-#: content/opt-green-handbook/index.md:727
+#: content/opt-green-handbook/index.md:728
 msgid "Troubleshooting"
 msgstr "Probleemoplossing"
 
-#: content/opt-green-handbook/index.md:729
+#: content/opt-green-handbook/index.md:730
 msgid ""
 "Here are some general resources for resolving some problems that may arise. "
 "This list is in no way comprehensive, and it focuses on basic solutions (e."
@@ -11168,7 +11359,7 @@ msgstr ""
 "raadpleeg dan de bovenstaande werkmethode voor een basisgids voor het online "
 "zoeken naar oplossingen."
 
-#: content/opt-green-handbook/index.md:731
+#: content/opt-green-handbook/index.md:732
 msgid ""
 "[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
@@ -11176,7 +11367,7 @@ msgstr ""
 "[Linux wordt niet geïnstalleerd](https://www.ifixit.com/Troubleshooting/"
 "Linux/Not+Installing/616642)"
 
-#: content/opt-green-handbook/index.md:732
+#: content/opt-green-handbook/index.md:733
 msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
@@ -11184,7 +11375,7 @@ msgstr ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 
-#: content/opt-green-handbook/index.md:733
+#: content/opt-green-handbook/index.md:734
 msgid ""
 "[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
 "com/blog/install-linux-nvidia-driver/)"
@@ -11192,7 +11383,7 @@ msgstr ""
 "[NVIDIA-stuurprogramma's installeren op Linux: een uitgebreide handleiding]"
 "(https://linuxvox.com/blog/install-linux-nvidia-driver/)"
 
-#: content/opt-green-handbook/index.md:734
+#: content/opt-green-handbook/index.md:735
 msgid ""
 "[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
@@ -11200,7 +11391,7 @@ msgstr ""
 "[Hoe een printer in Linux in te stellen](https://www.maketecheasier.com/set-"
 "up-a-printer-in-linux/)"
 
-#: content/opt-green-handbook/index.md:735
+#: content/opt-green-handbook/index.md:736
 msgid ""
 "[Troubleshooting Linux Problems: A Beginner's Guide](https://learn.redhat."
 "com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
@@ -11210,7 +11401,7 @@ msgstr ""
 "redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-"
 "Guide/td-p/36236)"
 
-#: content/opt-green-handbook/index.md:736
+#: content/opt-green-handbook/index.md:737
 msgid ""
 "[Troubleshooting Common Linux Problems: Tips for New Users](https://www."
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
@@ -11220,7 +11411,7 @@ msgstr ""
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
 "tips-for-new-users/)"
 
-#: content/opt-green-handbook/index.md:737
+#: content/opt-green-handbook/index.md:738
 msgid ""
 "[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
 "org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
@@ -11229,7 +11420,7 @@ msgstr ""
 "(https://codegig.org/troubleshooting-common-linux-issues-a-guide-for-new-"
 "users/)"
 
-#: content/opt-green-handbook/index.md:740
+#: content/opt-green-handbook/index.md:741
 msgid ""
 "The *Opt Green* project from KDE Eco was funded by the Federal Environment "
 "Agency and the Federal Ministry for the Environment, Climate Action, Nature "
@@ -11241,7 +11432,7 @@ msgstr ""
 "Natuurbehoud en Kernveiligheid (BMUKN). De middelen werden beschikbaar "
 "gesteld door een besluit van de Duitse Bondsdag."
 
-#: content/opt-green-handbook/index.md:744
+#: content/opt-green-handbook/index.md:745
 msgid ""
 "![Logo of the Federal Ministry for the Environment, Climate Action, Nature "
 "Conservation and Nuclear Safety.](images/sec4_bmuv.png)"
