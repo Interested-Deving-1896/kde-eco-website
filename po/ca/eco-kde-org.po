@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-06-19 22:31+0200\n"
+"PO-Revision-Date: 2026-06-20 19:03+0200\n"
 "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca\n"
@@ -13613,12 +13613,10 @@ msgid "Stage 3. During Install Events"
 msgstr "Etapa 3. Durant els esdeveniments d'instal·lació"
 
 #: content/opt-green-handbook/index.md:595
-#, fuzzy
 msgid "Showing, Not Telling"
-msgstr "Mostrar, no dir"
+msgstr "Mostreu, no ho expliqueu"
 
 #: content/opt-green-handbook/index.md:597
-#, fuzzy
 msgid ""
 "Even better than telling a curious user what FOSS can do, show them. Have a "
 "demo computer ready or boot into a live environment (although be careful "
@@ -13629,18 +13627,17 @@ msgid ""
 "misconceptions. Once they see that FOSS works as one would expect from any "
 "modern OS, many fears are quickly abated."
 msgstr ""
-"Fins i tot millor que dir a un usuari curiós el que el FOSS pot fer, mostrar-"
-"los. Tenir un ordinador de demostració llest o arrencar en un entorn viu "
-"(encara que tingueu cura que res es bloquegi permanentment en arrencar des "
-"d'una unitat USB, com pot passar amb Windows Bitlocker; vegeu [aquí](https://"
-"documentation.ubuntu.com/desktop/en/latest/reference/bitlocker-during-ubuntu-"
-"installation/)). De vegades, només veure un ordinador executant el FOSS pot "
-"depurar els conceptes erronis de la gent. Una vegada que veuen que el FOSS "
-"funciona com es podria esperar de qualsevol sistema operatiu modern, molts "
-"temors es redueixen ràpidament."
+"Fins i tot millor que explicar a un usuari curiós el que el FOSS pot fer, "
+"mostreu-ho. Tingueu un ordinador de demostració preparat o arrenqueu en un "
+"entorn en viu (encara que tingueu cura que no es bloquegi res permanentment "
+"en arrencar des d'una unitat USB, com pot passar amb Windows BitLocker; "
+"vegeu [aquí](https://documentation.ubuntu.com/desktop/en/latest/reference/"
+"bitlocker-during-ubuntu-installation/)). De vegades, només veure un "
+"ordinador executant el FOSS pot desmentir els conceptes erronis de la gent. "
+"Una vegada que veuen que el FOSS funciona com es podria esperar de qualsevol "
+"sistema operatiu modern, molts temors es redueixen ràpidament."
 
 #: content/opt-green-handbook/index.md:599
-#, fuzzy
 msgid ""
 "Stick to familiar interfaces whenever possible. What does that mean? For "
 "example, when software can be installed using a GUI, use that, and not the "
@@ -13650,17 +13647,16 @@ msgid ""
 "or ask if they are interested in learning more. For most users, what they "
 "are looking for is the simplest way to get something done. Give that to them!"
 msgstr ""
-"Enganxa't a les interfícies familiars sempre que sigui possible. Què vol dir "
+"Manteniu les interfícies familiars sempre que sigui possible. Què vol dir "
 "això? Per exemple, quan el programari es pot instal·lar utilitzant una "
-"interfície gràfica d'usuari, utilitzeu-lo, i no la línia de comandes. Per a "
+"interfície gràfica d'usuari, utilitzeu-la, i no la línia d'ordes. Per a "
 "molts usuaris nous, les interfícies de línia d'ordres només reforcen la idea "
 "que el FOSS és per a experts. Si heu de fer alguna cosa a la línia d'ordres, "
-"o bé explicar que això no és una cosa que hauran de fer, o preguntar si "
+"o bé expliqueu que això no és una cosa que hauran de fer, o pregunteu si "
 "estan interessats en aprendre més. Per a la majoria d'usuaris, el que "
-"busquen és la manera més senzilla de fer alguna cosa. Dona-li això!"
+"busquen és la manera més senzilla de fer alguna cosa. Doneu-los això!"
 
 #: content/opt-green-handbook/index.md:601
-#, fuzzy
 msgid ""
 "![Screenshot from KDE Eco blog showing a command line interface in [Konsole]"
 "(https://apps.kde.org/konsole/). This is really scary to many new users! "
@@ -13674,12 +13670,10 @@ msgstr ""
 "sec3_konsole.png)"
 
 #: content/opt-green-handbook/index.md:603
-#, fuzzy
 msgid "Getting To Know A User's Computing Needs"
-msgstr "Conèixer les necessitats de computació d'un usuari"
+msgstr "Coneixeu les necessitats de computació d'un usuari"
 
 #: content/opt-green-handbook/index.md:605
-#, fuzzy
 msgid ""
 "Before you install anything, get to know the needs of the person you're "
 "helping and inform them how FOSS may be different or similar. Have them try "
@@ -13694,22 +13688,21 @@ msgid ""
 "computer? What do they want to do with it? What software do they need or use "
 "regularly?"
 msgstr ""
-"Abans d'instal·lar res, coneix les necessitats de la persona a qui esteu "
-"ajudant i informa de com el FOSS pot ser diferent o similar. Fer que provi "
-"el FOSS en un entorn viu o en un ordinador de demostració. Esbrinar què ha "
-"de fer un usuari. Per a molts usuaris, això pot no ser clar ni tan sols per "
-"a ells. Per aquest motiu, alguns esdeveniments tenen qüestionaris curts "
-"perquè els usuaris s'omplin junts. Vegeu [aquí](https://invent.kde.org/teams/"
-"eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md.forms) "
-"per als enllaços a alguns formularis d'exemple, incloent-hi la recopilació "
-"d'informació de maquinari. Depenent de la tècnica del formulari (i els "
-"formularis molt tècnics poden espantar un visitant lluny), completeu aquests "
-"formularis juntament amb l'usuari. Algunes dades generals inclouen: Quina "
-"edat té el seu ordinador? Què volen fer amb ella? Quin programari necessiten "
-"o utilitzen regularment?"
+"Abans d'instal·lar res, coneixeu les necessitats de la persona a qui esteu "
+"ajudant i informeu de com el FOSS pot ser diferent o similar. Fer que provi "
+"el FOSS en un entorn en viu o en un ordinador de demostració. Esbrineu què "
+"ha de fer l'usuari. Per a molts usuaris, això pot no ser clar ni tan sols "
+"per a ells. Per aquest motiu, alguns esdeveniments tenen qüestionaris curts "
+"perquè els usuaris l'omplin junts. Vegeu [aquí](https://invent.kde.org/teams/"
+"eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md#forms) "
+"els enllaços a alguns formularis d'exemple, incloent-hi la recopilació "
+"d'informació de maquinari. Depenent de com sigui de tècnic el formulari (i "
+"els formularis molt tècnics poden espantar i allunyar un visitant), "
+"completeu aquests formularis juntament amb l'usuari. Algunes dades generals "
+"inclouen: Quina edat té el seu ordinador? Què volen fer amb ell? Quin "
+"programari necessiten o utilitzen normalment?"
 
 #: content/opt-green-handbook/index.md:607
-#, fuzzy
 msgid ""
 "A user's needs is often determined by their work or study, which can present "
 "insurmountable obstacles. If you need a particular computer program and it "
@@ -13718,16 +13711,15 @@ msgid ""
 "user's operating system. You do not want to leave a person unable to do what "
 "they need to do with their computer for work!"
 msgstr ""
-"Les necessitats d'un usuari sovint es determinen pel seu treball o estudi, "
+"Les necessitats d'un usuari sovint es determinen pel seu treball o estudis, "
 "que pot presentar obstacles insalvables. Si necessiteu un programa "
 "informàtic en particular i només funciona en un sistema operatiu no FOSS, "
 "serà difícil o impossible canviar. És important ser conscients d'aquests "
-"obstacles abans de canviar el sistema operatiu d'un usuari. No vols deixar a "
-"una persona incapaç de fer el que necessita fer amb el seu ordinador per "
+"obstacles abans de canviar el sistema operatiu d'un usuari. No voleu deixar "
+"a una persona incapaç de fer el que necessita fer amb el seu ordinador per "
 "treballar!"
 
 #: content/opt-green-handbook/index.md:609
-#, fuzzy
 msgid ""
 "For some proprietary applications, a web-based version of the software may "
 "be available (for example, Microsoft Word also has a web version). Look into "
@@ -13738,13 +13730,12 @@ msgid ""
 msgstr ""
 "Per a algunes aplicacions propietàries, pot estar disponible una versió del "
 "programari basada en web (per exemple, Microsoft Word també té una versió "
-"web). Consulteu aquestes opcions, ja que pot reduir la fricció en commutar "
-"sistemes operatius. També hi ha moltes alternatives al programari privatiu "
-"que poden satisfer les necessitats de l'usuari. Mostra aquestes opcions als "
-"usuaris nous. Cerca en línia molts suggeriments."
+"web). Consulteu aquestes opcions, ja que pot reduir la fricció en canviar "
+"els sistemes operatius. També hi ha moltes alternatives al programari "
+"privatiu que poden satisfer les necessitats de l'usuari. Mostreu aquestes "
+"opcions als usuaris nous. Cerqueu en línia molts suggeriments."
 
 #: content/opt-green-handbook/index.md:611
-#, fuzzy
 msgid ""
 "In some cases it may be possible to run Windows software on a FOSS system "
 "using a compatability layer such as [Wine](https://www.winehq.org/) or Wine-"
@@ -13763,18 +13754,16 @@ msgstr ""
 "ser que no funcioni en tots els casos. Wine té una [base de dades](https://"
 "www.winehq.org/) de programari que se sap que funciona, i Proton té una "
 "[base de dades](https://www.protondb.com/) similar però per a jocs. De fet, "
-"els jocs a Linux han recorregut un llarg camí. Si teniu jugadors en el "
+"els jocs al Linux han recorregut un llarg camí. Si teniu jugadors en el "
 "vostre esdeveniment, feu-los saber que poden jugar molts dels seus jocs en "
-"el seu nou sistema operatiu. Fins i tot hi ha distribucions adaptades "
+"el sistema operatiu nou. Fins i tot hi ha distribucions adaptades "
 "específicament per a jocs."
 
 #: content/opt-green-handbook/index.md:613
-#, fuzzy
 msgid "Securing User Data"
-msgstr "S'estan assegurant les dades de l'usuari"
+msgstr "Assegurar les dades dels usuaris"
 
 #: content/opt-green-handbook/index.md:615
-#, fuzzy
 msgid ""
 "See above for whether to do data backups before or during the event. The "
 "most straightforward way to backup data is to manually copy-and-paste the "
@@ -13787,13 +13776,11 @@ msgstr ""
 "o durant l'esdeveniment. La manera més senzilla de fer còpies de seguretat "
 "de les dades és copiar i enganxar manualment les dades a una unitat externa. "
 "Una altra opció és oferir unitats SDD per reemplaçar el HDD i mantenir el "
-"disc antic com a còpia de seguretat del sistema complet. El Cafè de "
-"reparació Hilpoltstein té una [guia](https://www.repaircafe-hilpoltstein.de/"
-"offene-werkstatt/pc-upgrades/festplatte-austauschen) (en alemany) per com "
-"fer-ho."
+"disc antic com a còpia de seguretat del sistema complet. El Repair Café "
+"Hilpoltstein té una [guia](https://www.repaircafe-hilpoltstein.de/offene-"
+"werkstatt/pc-upgrades/festplatte-austauschen) (en alemany) sobre com fer-ho."
 
 #: content/opt-green-handbook/index.md:617
-#, fuzzy
 msgid ""
 "If you're working with a non-profit organization, there may be issues with "
 "selling SDDs at the event. Some volunteers have told us they sell the SSD "
@@ -13802,23 +13789,21 @@ msgid ""
 msgstr ""
 "Si treballeu amb una organització sense ànim de lucre, pot haver-hi "
 "problemes amb la venda de SDD a l'esdeveniment. Alguns voluntaris ens han "
-"dit que venen el disc SSD a cost i donen als usuaris la recepció per evitar "
-"problemes legals. Informa't primer abans de fer-ho."
+"dit que venen el disc SSD a cost i donen als usuaris la factura per evitar "
+"problemes legals. Informeu-vos primer abans de fer-ho."
 
 #: content/opt-green-handbook/index.md:619
-#, fuzzy
 msgid ""
 "Often overlooked is finding out where user passwords are stored. Ask users "
 "if they know. And they may not! Many browsers store passwords, so you may "
 "want to back up that data as well just to be safe."
 msgstr ""
 "Sovint es passa per alt esbrinar on s'emmagatzemen les contrasenyes "
-"d'usuari. Pregunta als usuaris si ho saben. I potser no! Molts navegadors "
+"d'usuari. Pregunteu als usuaris si ho saben. I potser no! Molts navegadors "
 "emmagatzemen contrasenyes, de manera que és possible que vulgueu fer una "
-"còpia de seguretat d'aquestes dades també per ser segur."
+"còpia de seguretat d'aquestes dades també per assegurar-se."
 
 #: content/opt-green-handbook/index.md:621
-#, fuzzy
 msgid ""
 "If a user has data backed up on the cloud, this can also be used to migrate "
 "their data to the new system. Although you may have opinions about the "
@@ -13827,10 +13812,10 @@ msgid ""
 "alternatives if they're interested."
 msgstr ""
 "Si un usuari té una còpia de seguretat de les dades al núvol, això també es "
-"pot utilitzar per migrar les seves dades al nou sistema. Tot i que pot tenir "
+"pot utilitzar per migrar les seves dades al sistema nou. Tot i que pot tenir "
 "opinions sobre les plataformes que altres poden utilitzar, aquest "
 "probablement no és el moment d'entrar en un debat sobre la privacitat i "
-"similars. Utilitza el que utilitzen i ofereix mostrar-los alternatives si "
+"similars. Utilitzeu el que utilitzen i ofereix mostrar-los alternatives si "
 "estan interessats."
 
 #: content/opt-green-handbook/index.md:623
@@ -13838,14 +13823,13 @@ msgid "Installing A FOSS Operating System"
 msgstr "Instal·leu un sistema operatiu FOSS"
 
 #: content/opt-green-handbook/index.md:625
-#, fuzzy
 msgid ""
 "Make sure all user data is backed up and secure before doing anything else. "
 "It is also important to have a disclaimer before the event, such as:"
 msgstr ""
-"Assegureu-vos que totes les dades de l'usuari estiguin protegides i segures "
-"abans de fer qualsevol altra cosa. També és important tenir un exclamant "
-"abans de l'esdeveniment, com ara:"
+"Assegureu-vos que totes les dades de l'usuari tinguin còpia de seguretat i "
+"estiguin protegides abans de fer qualsevol altra cosa. També és important "
+"tenir una renúncia de responsabilitat abans de l'esdeveniment, com ara:"
 
 #: content/opt-green-handbook/index.md:627
 msgid "This is voluntary help to show new users how they can help themselves."
@@ -13869,18 +13853,16 @@ msgstr ""
 "seguretat de les dades."
 
 #: content/opt-green-handbook/index.md:632
-#, fuzzy
 msgid ""
 "Tip: It's always best practice to ask before touching someone else's "
 "computer! Ideally you will not need to touch the device, as the user can "
 "learn how to do everything on their own with your guidance."
 msgstr ""
-"Consell: Sempre és la millor pràctica preguntar abans de tocar l'ordinador "
-"d'una altra persona! L'ideal és que no hagi de tocar el dispositiu, ja que "
-"l'usuari pot aprendre a fer-ho tot pel seu compte amb la seva orientació."
+"Consell: Sempre és una bona pràctica preguntar abans de tocar l'ordinador "
+"d'una altra persona! L'ideal és que no hàgiu de tocar el dispositiu, ja que "
+"l'usuari pot aprendre a fer-ho tot pel seu compte amb la vostra orientació."
 
 #: content/opt-green-handbook/index.md:634
-#, fuzzy
 msgid ""
 "The disclaimer can be presented orally, but it's also worth having it in "
 "writing with a signature before installing anything. If you feel they are "
@@ -13889,34 +13871,30 @@ msgid ""
 "legalprotection.html). Check with the relevant authorities to be certain "
 "these documents are legally binding."
 msgstr ""
-"L'anul·lació es pot presentar oralment, però també val la pena tenir-la per "
-"escrit amb signatura abans d'instal·lar res. Si creieu que són necessaris, "
-"hi ha documents legals disponibles de les iniciatives de reparació, així com "
-"del [Projecte de Documents Linux](https://tldp.org/HOWTO/Installfest-HOWTO/"
-"legalprotection.html). Consulteu amb les autoritats competents si aquests "
-"documents són jurídicament vinculants."
+"La renúncia de responsabilitat es pot presentar oralment, però també val la "
+"pena tenir-la per escrit amb una signatura abans d'instal·lar res. Si creieu "
+"que són necessaris, hi ha documents legals disponibles de les iniciatives de "
+"reparació, així com del [Projecte de Documents de Linux](https://tldp.org/"
+"HOWTO/Installfest-HOWTO/legalprotection.html). Consulteu amb les autoritats "
+"competents si aquests documents són jurídicament vinculants."
 
 #: content/opt-green-handbook/index.md:636
-#, fuzzy
 msgid "The installation process generally follows these 3 steps:"
 msgstr "El procés d'instal·lació generalment segueix aquests 3 passos:"
 
 #: content/opt-green-handbook/index.md:638
-#, fuzzy
 msgid "Prepare a bootable USB drive or DVD"
-msgstr "Prepara una unitat USB o DVD arrencada"
+msgstr "Preparar una unitat USB o DVD d'arrencada"
 
 #: content/opt-green-handbook/index.md:639
-#, fuzzy
 msgid "Enter into BIOS and boot from the drive"
-msgstr "Entra a la BIOS i arrenca des de la unitat"
+msgstr "Entrar a la BIOS i arrencar des de la unitat"
 
 #: content/opt-green-handbook/index.md:640
 msgid "Install the OS"
 msgstr "Instal·leu el SO"
 
 #: content/opt-green-handbook/index.md:642
-#, fuzzy
 msgid ""
 "There are numerous online guides for all distributions for how to prepare a "
 "bootable drive. There is also cross-platform software to prepare the drive, "
@@ -13925,15 +13903,15 @@ msgid ""
 "recommend doing so to make sure the file is not corrupt and it is the "
 "intended software released by the developers."
 msgstr ""
-"Hi ha nombroses guies en línia per a totes les distribucions per a com "
-"preparar una unitat arrencada. També hi ha programari multiplataforma per "
-"preparar la unitat, com ara Fedora Media Writer i [Rufus](https://rufus."
-"ie/). Verificar el fitxer o imatge ISO descarregada requerirà uns passos "
+"Hi ha nombroses guies en línia per a totes les distribucions de com preparar "
+"una unitat d'arrencada. També hi ha programari multiplataforma per preparar "
+"la unitat, com ara Fedora Media Writer i [Rufus](https://rufus.ie/). "
+"Verificar el fitxer o imatge ISO descarregada requerirà alguns passos "
 "addicionals, però recomanem fer-ho per assegurar-se que el fitxer no està "
-"malmès i és el programari previst llançat pels desenvolupadors."
+"malmès i és el programari previst publicat pels desenvolupadors."
 
+# skip-rule: da-te
 #: content/opt-green-handbook/index.md:644
-#, fuzzy
 msgid ""
 "![Screenshot of Fedora Media Writer. The process could not be easier: Choose "
 "which OS to install, select the USB drive to write to, slowly sip your tea "
@@ -13943,15 +13921,14 @@ msgid ""
 "sa/4.0/legalcode) license.)](images/sec3_FMW-select-image-source1.png)"
 msgstr ""
 "![Captura de pantalla de Fedora Media Writer. El procés no pot ser més "
-"fàcil: tria quin sistema operatiu instal·lar, selecciona la unitat USB per "
-"escriure, pren-te lentament el te i voilà! teniu una unitat USB arrencada. "
-"([Imatge](https://docs.fedoraproject.org/ca-US/fedora/latest/preparing-boot-"
-"media/) de Fedora publicada segons una llicència [CC-BY-SA-4.0](https://"
-"creativecommons.org/licenses/by-sa/4.0/legalcode).](images/sec3_FMW-select-"
-"image-source1.png)"
+"fàcil: trieu quin sistema operatiu instal·lar, seleccioneu la unitat USB per "
+"escriure, preneu lentament el te i heus aquí! Teniu una unitat USB "
+"d'arrencada. ([Imatge](https://docs.fedoraproject.org/ca-US/fedora/latest/"
+"preparing-boot-media/) de Fedora publicada segons una llicència [CC-BY-"
+"SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).](images/"
+"sec3_FMW-select-image-source1.png)"
 
 #: content/opt-green-handbook/index.md:646
-#, fuzzy
 msgid ""
 "In order to boot into BIOS or boot menu, you must press and hold a "
 "particular key at boot (usually F2, F10, F12, Esc, etc. for Windows devices "
@@ -13960,17 +13937,17 @@ msgid ""
 "Umstieg_auf_Linux#Von_Bootmedium_starten) for a table of devices and key "
 "combinations needed to enter BIOS or boot menu."
 msgstr ""
-"Per poder arrencar a la BIOS o al menú d'arrencada, heu de prémer i mantenir "
-"premuda una tecla en particular a l'arrencada (normalment F2, F10, F12, Esc, "
-"etc. per a dispositius Windows i la tecla Opció per a dispositius Apple). En "
-"aquest punt podeu seleccionar la unitat des de la qual voleu arrencar. Vegeu "
-"[aquí](https://lug-vs.org/index.php/"
+"Per poder arrencar des de la BIOS o del menú d'arrencada, heu de prémer i "
+"mantenir premuda una tecla en particular durant l'arrencada (normalment F2, "
+"F10, F12, Esc, etc. per a dispositius Windows i la tecla Opció per a "
+"dispositius Apple). En aquest punt podeu seleccionar la unitat des de la "
+"qual voleu arrencar. Vegeu [aquí](https://lug-vs.org/index.php/"
 "Umstieg_auf_Linux#Von_Bootmedium_starten) per a una taula de dispositius i "
-"combinacions de tecles necessàries per a introduir la BIOS o el menú "
+"combinacions de tecles necessàries per a entrar a la BIOS o al menú "
 "d'arrencada."
 
+# skip-rule: kct-box
 #: content/opt-green-handbook/index.md:648
-#, fuzzy
 msgid ""
 "We recommend booting into a so-called live environment. This allows a user "
 "to try out the software on their own device before installing anything (make "
@@ -13984,63 +13961,58 @@ msgid ""
 "if everything works in the live environment, this is not a guarantee it will "
 "work after installation."
 msgstr ""
-"Recomanem arrencar en un entorn anomenat viu. Això permet a un usuari provar "
-"el programari en el seu propi dispositiu abans d'instal·lar res (assegureu-"
-"vos que el [Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/"
-"reference/bitlocker-during-ubuntu-installation/) estigui desactivat en un "
-"dispositiu Windows, o que hi hagi una clau de recuperació Bitlocker "
-"disponible en cas que l'usuari es tanqui fora del seu sistema). En l'entorn "
-"en viu és una bona oportunitat per provar el Wifi, webcam, etc. per "
-"assegurar-se que tot funciona fora de la caixa abans d'instal·lar. Si alguna "
-"cosa no funciona, això és una indicació que es necessitaran passos "
-"addicionals després de la instal·lació. No obstant això, fins i tot si tot "
-"funciona en l'entorn viu, això no és una garantia que funcionarà després de "
-"la instal·lació."
+"Recomanem arrencar en un entorn anomenat en viu. Això permet a un usuari "
+"provar el programari en el seu propi dispositiu abans d'instal·lar res "
+"(assegureu-vos que el [BitLocker](https://documentation.ubuntu.com/desktop/"
+"en/latest/reference/bitlocker-during-ubuntu-installation/) estigui "
+"desactivat en un dispositiu Windows, o que hi hagi una clau de recuperació "
+"del BitLocker disponible en cas que l'usuari quedi bloquejat fora del seu "
+"sistema). A l'entorn en viu és una bona oportunitat per provar la Wifi, "
+"webcam, etc. per assegurar-se que tot funciona directament abans "
+"d'instal·lar. Si alguna cosa no funciona, això és una indicació que es "
+"necessitaran passos addicionals després de la instal·lació. No obstant això, "
+"fins i tot si tot funciona a l'entorn en viu, això no és una garantia que "
+"funcionarà després de la instal·lació."
 
 #: content/opt-green-handbook/index.md:650
-#, fuzzy
 msgid ""
 "During installation it will be necessary to create a new username, password, "
 "etc. Have the user write these down on a piece of paper. Do not skip this "
 "step. A common issue after installation is forgetting the new password, and "
 "even sometimes the username!"
 msgstr ""
-"Durant la instal·lació serà necessari crear un nou nom d'usuari, "
-"contrasenya, etc. Fer que l'usuari els escrigui en un tros de paper. No "
-"ometis aquest pas. Un problema comú després de la instal·lació és oblidar la "
-"nova contrasenya, i fins i tot de vegades el nom d'usuari!"
+"Durant la instal·lació serà necessari crear un nom d'usuari nou, "
+"contrasenya, etc. Feu que l'usuari els escrigui en un tros de paper. No "
+"ometeu aquest pas. Un problema comú després de la instal·lació és oblidar la "
+"contrasenya nova, i fins i tot de vegades el nom d'usuari!"
 
 #: content/opt-green-handbook/index.md:652
 msgid "Using The FOSS Operating System"
 msgstr "Ús del sistema operatiu FOSS"
 
 #: content/opt-green-handbook/index.md:654
-#, fuzzy
 msgid ""
 "At this point you'll want to show the user how to do things in their new OS. "
 "Some tips so they can use their new system:"
 msgstr ""
-"En aquest moment voldreu mostrar a l'usuari com fer les coses en el seu nou "
-"SO. Alguns consells perquè puguin utilitzar el seu nou sistema:"
+"En aquest moment voldreu mostrar a l'usuari com fer les coses en el seu SO "
+"nou. Alguns consells perquè puguin utilitzar el sistema nou:"
 
 #: content/opt-green-handbook/index.md:656
-#, fuzzy
 msgid ""
 "Navigating their new system such as application menu, software center, "
 "volume adjustment, printer administration, and so on (it helps to let them "
 "do this on their own and have them ask questions)"
 msgstr ""
-"Navegant pel seu nou sistema com el menú d'aplicacions, el centre de "
+"Navegueu pel seu sistema nou com el menú d'aplicacions, el centre de "
 "programari, l'ajust del volum, l'administració de la impressora, etc. (ajuda "
-"a deixar que ho facin pel seu compte i fer-los preguntes)"
+"a deixar que ho facin pel seu compte i que ens preguntin)"
 
 #: content/opt-green-handbook/index.md:657
-#, fuzzy
 msgid "Installing or unsinstalling applications"
 msgstr "Instal·lació o desinstal·lació d'aplicacions"
 
 #: content/opt-green-handbook/index.md:658
-#, fuzzy
 msgid ""
 "Updating the system and applications (completing this action may take some "
 "time)"
@@ -14049,25 +14021,22 @@ msgstr ""
 "acció pot trigar una estona)"
 
 #: content/opt-green-handbook/index.md:659
-#, fuzzy
 msgid ""
 "Copying the user's backed up data onto the new OS (completing this action "
 "may take some time)"
 msgstr ""
-"Copiar les dades de la còpia de seguretat de l'usuari al nou SO (completar "
+"Copiar les dades de la còpia de seguretat de l'usuari al SO nou (completar "
 "aquesta acció pot trigar una estona)"
 
 #: content/opt-green-handbook/index.md:660
-#, fuzzy
 msgid ""
 "Optional: Setting up automated backup software with their external hard "
 "drive (completing this action may take some time)"
 msgstr ""
-"Opcional: Configuració de programari de còpia de seguretat automatitzat amb "
+"Opcional: configuració de programari de còpia de seguretat automatitzat amb "
 "el seu disc dur extern (completar aquesta acció pot trigar una estona)"
 
 #: content/opt-green-handbook/index.md:662
-#, fuzzy
 msgid ""
 "![Image of [Discover](https://apps.kde.org/discover/) in KDE Plasma. "
 "Discover is used to update the system as well as to find and install "
@@ -14075,14 +14044,13 @@ msgid ""
 "released under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
 "license.)](images/sec3_plasma-discover.png)"
 msgstr ""
-"![Imatge del [Discover](https://apps.kde.org/discover/) al Plasma del KDE. "
-"El Discover s'utilitza per actualitzar el sistema, així com per trobar i "
+"![Imatge del [Discover](https://apps.kde.org/discover/) al Plasma de KDE. El "
+"Discover s'utilitza per actualitzar el sistema, així com per trobar i "
 "instal·lar aplicacions, jocs i eines utilitzant diversos repositoris. "
 "(Imatge de KDE publicada segons una llicència [CC-BY-4.0](https://spdx.org/"
 "licenses/CC-BY-4.0.html).)](images/sec3_plasma-discover.png)"
 
 #: content/opt-green-handbook/index.md:664
-#, fuzzy
 msgid ""
 "It may help to demonstrate how installing software may differ from their "
 "past system. Unlike with proprietary operating systems, installing and "
@@ -14094,16 +14062,14 @@ msgstr ""
 "sistema anterior. A diferència dels sistemes operatius propietaris, la "
 "instal·lació i desinstal·lació d'aplicacions, així com les actualitzacions "
 "de programari, es fan normalment amb un gestor de programari o de paquets. "
-"Explica que aquesta és la forma recomanada d'instal·lar i actualitzar "
+"Expliqueu que aquesta és la forma recomanada d'instal·lar i actualitzar "
 "programari en l'ecosistema FOSS."
 
 #: content/opt-green-handbook/index.md:666
-#, fuzzy
 msgid "Stage 4. After Install Events"
-msgstr "Etapa 4. Després d'instal·lar esdeveniments"
+msgstr "Etapa 4. Després dels esdeveniments d'instal·lació"
 
 #: content/opt-green-handbook/index.md:668
-#, fuzzy
 msgid ""
 "Although we'll only briefly cover this here, do not underestimate the "
 "importance of offering follow-up support. The installation itself may go "
@@ -14112,11 +14078,10 @@ msgid ""
 msgstr ""
 "Tot i que només ho cobrirem breument aquí, no subestimeu la importància "
 "d'oferir suport de seguiment. La instal·lació en si pot anar sense "
-"problemes, però acostumar-se al nou sistema operatiu requerirà en molts "
+"problemes, però acostumar-se al sistema operatiu nou requerirà en molts "
 "casos ajuda addicional, com ara:"
 
 #: content/opt-green-handbook/index.md:670
-#, fuzzy
 msgid ""
 "They have specific software needs (e.g., applications they use for work, tax "
 "software) and need extra guidance."
@@ -14125,41 +14090,36 @@ msgstr ""
 "utilitzen per al treball, programari fiscal) i necessiten orientació extra."
 
 #: content/opt-green-handbook/index.md:671
-#, fuzzy
 msgid ""
 "They have peripheral devices (e.g., printers, scanners) that do not seem to "
 "work with their new operating system."
 msgstr ""
 "Tenen dispositius perifèrics (per exemple, impressores, escàners) que no "
-"semblen funcionar amb el seu nou sistema operatiu."
+"semblen funcionar amb el sistema operatiu nou."
 
 #: content/opt-green-handbook/index.md:672
-#, fuzzy
 msgid "An update seems to have broken their system."
 msgstr "Sembla que una actualització ha trencat el seu sistema."
 
 #: content/opt-green-handbook/index.md:673
-#, fuzzy
 msgid ""
 "Their bootloader appears to be broken (all too often the case with dual boot "
 "setups)."
 msgstr ""
-"El seu carregador d'arrencada sembla estar trencat (amb massa freqüència el "
-"cas de les configuracions d'arrencada dual)."
+"El seu carregador d'arrencada sembla estar trencat (és amb massa freqüència "
+"el cas de configuracions d'arrencada duals)."
 
 #: content/opt-green-handbook/index.md:675
-#, fuzzy
 msgid ""
 "In some cases these problems are easy to resolve, but it takes know-how that "
 "a new user may not have. In other cases, it may take more work and time on "
 "the side of the helper."
 msgstr ""
 "En alguns casos aquests problemes són fàcils de resoldre, però es necessita "
-"saber fer que un usuari nou pot no tenir. En altres casos, pot requerir més "
-"treball i temps al costat de l'ajudant."
+"un coneixement que un usuari nou podria no tenir. En altres casos, pot "
+"requerir més treball i temps al costat de l'ajudant."
 
 #: content/opt-green-handbook/index.md:677
-#, fuzzy
 msgid ""
 "Regarding a user's specific software needs, ideally these are identified "
 "*before* installing anything; nonetheless, it is easy to overlook something "
@@ -14169,36 +14129,33 @@ msgstr ""
 "Pel que fa a les necessitats de programari específiques d'un usuari, "
 "idealment s'identifiquen *abans* instal·lant qualsevol cosa; no obstant "
 "això, és fàcil passar per alt alguna cosa i no tots els casos d'ús sempre es "
-"cobriran en la consulta de preinstal·lació. Estigues preparat per ajudar els "
+"cobriran en la consulta de preinstal·lació. Estigueu preparat per ajudar els "
 "usuaris nous a mesura que sorgeixin aquests problemes inesperats."
 
 #: content/opt-green-handbook/index.md:679
-#, fuzzy
 msgid ""
 "We recommend having regular FOSS consultation hours (e.g., once a week or "
 "once a month), if you have the capacity to do so. Letting new users know "
 "they won't be alone when issues arise can really lower barriers to adoption."
 msgstr ""
 "Recomanem disposar d'hores regulars de consulta del FOSS (p. ex., un cop a "
-"la setmana o un cop al mes), si teniu capacitat per fer-ho. Deixar que els "
+"la setmana o un cop al mes), si teniu capacitat per fer-ho. Permeteu que els "
 "usuaris nous sàpiguen que no estaran sols quan sorgeixin problemes realment "
-"pot reduir les barreres a l'adopció."
+"pot reduir les barreres d'adopció."
 
 #: content/opt-green-handbook/index.md:681
-#, fuzzy
 msgid ""
 "If you're organizing multiple events, let users know about the date and "
 "times of the next events. If there are other organizations in your area that "
 "offer FOSS support, even for a fee, make a list and give this to attendees "
 "at your events."
 msgstr ""
-"Si esteu organitzant múltiples esdeveniments, feu que els usuaris coneguin "
-"la data i l'hora dels propers esdeveniments. Si hi ha altres organitzacions "
-"de la teva àrea que ofereixen suport al FOSS, fins i tot per un preu, fes "
-"una llista i dona-ho als assistents als teus esdeveniments."
+"Si esteu organitzant diversos esdeveniments, feu que els usuaris coneguin la "
+"data i l'hora dels pròxims esdeveniments. Si hi ha altres organitzacions de "
+"la vostra àrea que ofereixen suport al FOSS, fins i tot per un preu, feu una "
+"llista i dona-la als assistents dels vostres esdeveniments."
 
 #: content/opt-green-handbook/index.md:683
-#, fuzzy
 msgid ""
 "Don't forget to demonstrate how they can help themselves as well. There is a "
 "plethora of online resources, and although these are not for everyone (many "
@@ -14208,16 +14165,15 @@ msgid ""
 "online for help. Make a list of the forums and mailing lists which are "
 "relevant for their new operating system."
 msgstr ""
-"No t'oblidis de demostrar com poden ajudar-se a si mateixos també. Hi ha una "
-"gran quantitat de recursos en línia, i tot i que aquests no són per a tothom "
-"(molts usuaris només volen que un ordinador funcioni i no estan disposats a "
-"llegir a través dels missatges del fòrum, i molt menys donar-se d'alta en un "
-"compte per fer una pregunta), hi haurà alguns assistents que es beneficiaran "
-"sabent que hi ha llocs en línia per a l'ajuda. Fer una llista dels fòrums i "
-"llistes de correu que són rellevants per al seu nou sistema operatiu."
+"No us oblideu de demostrar com poden ajudar-se a si mateixos també. Hi ha "
+"una quantitat gran de recursos en línia, i tot i que aquests no són per a "
+"tothom (molts usuaris només volen que un ordinador funcioni i no estan "
+"disposats a llegir entre els missatges d'un fòrum, i molt menys donar-se "
+"d'alta en un compte per fer una pregunta), hi haurà alguns assistents que es "
+"beneficiaran de saber que hi ha llocs en línia d'ajuda. Fer una llista dels "
+"fòrums i llistes de correu que són rellevants per al seu sistema operatiu."
 
 #: content/opt-green-handbook/index.md:685
-#, fuzzy
 msgid ""
 "![XKCD comic [\"627: Tech Support Cheat Sheet\"](https://xkcd.com/627/) "
 "(published under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5."
@@ -14228,56 +14184,50 @@ msgstr ""
 "BY-NC-2.5.html).](images/sec3_tech_support_cheat_sheet.png)"
 
 #: content/opt-green-handbook/index.md:687
-#, fuzzy
 msgid ""
 "For online support, it helps to demonstrate a workflow for resolving "
 "problems. This includes:"
 msgstr ""
-"Per al suport en línia, ajuda a demostrar un flux de treball per resoldre "
+"Per al suport en línia, ajuda mostrar un flux de treball per resoldre "
 "problemes. Això inclou:"
 
 #: content/opt-green-handbook/index.md:689
-#, fuzzy
 msgid ""
 "Always having a recent backup. If something goes wrong, having a backup "
 "makes it much easier to start over without risk of data loss."
 msgstr ""
-"Sempre tenint una còpia de seguretat recent. Si alguna cosa va malament, "
+"Tenir sempre una còpia de seguretat recent. Si alguna cosa va malament, "
 "tenir una còpia de seguretat fa que sigui molt més fàcil començar de nou "
 "sense risc de pèrdua de dades."
 
 #: content/opt-green-handbook/index.md:690
-#, fuzzy
 msgid ""
 "Read error messages. In many cases, the error message will give you critical "
 "information for fixing an issue."
 msgstr ""
-"Llegeix els missatges d'error. En molts casos, el missatge d'error us donarà "
+"Llegiu els missatges d'error. En molts casos, el missatge d'error us donarà "
 "informació crítica per solucionar un problema."
 
 #: content/opt-green-handbook/index.md:691
-#, fuzzy
 msgid ""
 "Search online for solutions. It sometimes helps to paste the error message "
 "along with \"solved\" in a search engine to find a solution more quickly."
 msgstr ""
 "Cerca solucions en línia. De vegades ajuda a enganxar el missatge d'error "
-"juntament amb «solució» en un motor de cerca per trobar una solució més "
-"ràpidament."
+"juntament amb «solucionat» (o «solved») en un motor de cerca per trobar una "
+"solució més ràpidament."
 
 #: content/opt-green-handbook/index.md:692
-#, fuzzy
 msgid ""
 "Read forum posts. Don't try copy-and-paste terminal commands willy-nilly. "
 "Read the entire post first to see if the suggested solutions actually helped "
 "before trying something yourself."
 msgstr ""
-"Llegeix els missatges del fòrum. No intentis copiar i enganxar ordres de "
-"terminal Willy-nilly. Llegiu tot l'entrada primer per veure si les solucions "
+"Llegiu missatges de fòrums. No intenteu copiar i enganxar ordres de terminal "
+"de qualsevol manera. Primer llegiu tot l'article per veure si les solucions "
 "suggerides realment van ajudar abans de provar alguna cosa."
 
 #: content/opt-green-handbook/index.md:693
-#, fuzzy
 msgid ""
 "Post your problem to a forum. Find the right forum, include information "
 "about the system (software, version, hardware, actions that triggered the "
@@ -14286,27 +14236,24 @@ msgid ""
 "about the internet, after all&mdash;but don't let it get to you. Many more "
 "will be patient and helpful. Focus your energy on them!"
 msgstr ""
-"Publica el teu problema a un fòrum. Troba el fòrum adequat, inclou "
+"Publiqueu el vostre problema en un fòrum. Trobeu el fòrum adequat, inclogueu "
 "informació sobre el sistema (programari, versió, maquinari, accions que van "
 "desencadenar el problema perquè pugui ser replicat per altres, qualsevol "
 "missatge d'error), i ser amable i agraït. Algunes persones poden trobar-se "
-"com rude &mdash; estem parlant d'Internet, després de all &mdash; però no "
-"deixeu que arribi a vós. Molts més seran pacients i útils. Centra la teva "
-"energia en ells!"
+"amb rudesa, després de tot estem parlant d'Internet, però no permeteu que us "
+"afecti. Molts més seran pacients i útils. Centreu la vostra energia en ells!"
 
 #: content/opt-green-handbook/index.md:695
-#, fuzzy
 msgid ""
 "![Screenshot of [KDE's forum](https://discuss.kde.org/), where users can ask "
 "and answer questions about KDE Plasma on various distros.](images/"
 "sec3_discuss-kde-org.png)"
 msgstr ""
-"![Captura de pantalla del [fòrum del KDE](https://discuss.kde.org/), on els "
-"usuaris poden preguntar i respondre preguntes sobre el Plasma del KDE en "
-"diverses distros.](images/sec3_discuss-kde-org.png)"
+"![Captura de pantalla del [fòrum de KDE](https://discuss.kde.org/), on els "
+"usuaris poden preguntar i respondre preguntes sobre el Plasma de KDE en "
+"diverses distribucions.](images/sec3_discuss-kde-org.png)"
 
 #: content/opt-green-handbook/index.md:697
-#, fuzzy
 msgid ""
 "Some people offer additional support at an hourly cost outside of events. If "
 "you are a helper and decide to do this, make sure you are on the right side "
@@ -14314,26 +14261,24 @@ msgid ""
 "event is ok with it."
 msgstr ""
 "Algunes persones ofereixen suport addicional a un cost per hora fora dels "
-"esdeveniments. Si ets un ajudant i decideixes fer-ho, assegura't que esteu "
+"esdeveniments. Si sou un ajudant i decidiu fer-ho, assegureu-vos que esteu "
 "en el costat correcte de qualsevol problema legal que això pugui presentar i "
-"que l'organització darrere de l'esdeveniment està d'acord amb ell."
+"que l'organització darrere de l'esdeveniment està d'acord amb això."
 
 #: content/opt-green-handbook/index.md:699
 msgid "Additional Resources"
 msgstr "Recursos addicionals"
 
 #: content/opt-green-handbook/index.md:701
-#, fuzzy
 msgid "Organizing An Install Event"
-msgstr "Organitzant un esdeveniment d'instal·lació"
+msgstr "Organització d'un esdeveniment d'instal·lació"
 
 #: content/opt-green-handbook/index.md:703
-#, fuzzy
 msgid ""
 "More can be found at [New User Support Awesome List](https://invent.kde.org/"
 "teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md)."
 msgstr ""
-"Es poden trobar més a la [Llista nova d'Ajuda d'Usuaris Awesome](https://"
+"Es pot trobar més informació a la [New User Support Awesome List](https://"
 "invent.kde.org/teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-"
 "support.md)."
 
@@ -14349,54 +14294,49 @@ msgstr ""
 "10» (2025)"
 
 #: content/opt-green-handbook/index.md:706
-#, fuzzy
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/"
 "Umstieg_auf_Linux) -- Preparing for a Linux install party, from LUG "
 "Villingen-Schwenningen e.V. (German) (2025)"
 msgstr ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/"
-"Umstieg_auf_Linux) -- Preparant per a un grup d'instal·lació de Linux, de "
-"LUG Villingen-Schwenningen e.V. (alemany) (2025)"
+"Umstieg_auf_Linux) -- Preparant-se per a una festa d'instal·lació de Linux, "
+"del LUG Villingen-Schwenningen e.V. (alemany) (2025)"
 
 #: content/opt-green-handbook/index.md:707
-#, fuzzy
 msgid ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
 "werkstatt/linux) -- Guides to getting started with Linux, from Repair-Café "
 "Hilpoltstein (German) (2025)"
 msgstr ""
 "[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
-"werkstatt/linux) -- Guies per començar amb Linux, des de Repair-Café "
+"werkstatt/linux) -- Guies per començar amb el Linux, des de Repair-Café "
 "Hilpoltstein (alemany) (2025)"
 
 #: content/opt-green-handbook/index.md:708
-#, fuzzy
 msgid ""
 "[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
 "-- Organizing an installation event, from the Fedora Linux community (2019)"
 msgstr ""
 "[Fedora Wiki «InstallParty»](https://fedoraproject.org/wiki/InstallParty) -- "
-"Organitzant un esdeveniment d'instal·lació, des de la comunitat Fedora Linux "
+"Organització d'un esdeveniment d'instal·lació, de la comunitat Fedora Linux "
 "(2019)"
 
 #: content/opt-green-handbook/index.md:709
-#, fuzzy
 msgid ""
 "[Linux Installfest HOWTO](https://tldp.org/HOWTO/Installfest-HOWTO/index."
 "html) -- Guidelines for running a successful installfest, from The Linux "
 "Documentation Project (2012)"
 msgstr ""
 "[Linux Installfest HOWTO](https://tldp.org/HOWTO/Installfest-HOWTO/index."
-"html) -- Directrius per a executar un installfest amb èxit, des del Projecte "
-"de Documentació Linux (2012)"
+"html) -- Directrius per efectuar una festa d'instal·lació amb èxit, del "
+"Projecte de Documentació Linux (2012)"
 
 #: content/opt-green-handbook/index.md:711
 msgid "FOSS On Other Devices"
 msgstr "FOSS en altres dispositius"
 
 #: content/opt-green-handbook/index.md:713
-#, fuzzy
 msgid ""
 "We have focused on PCs in this handbook, but many other devices can also be "
 "upgraded to FOSS. In some cases, the Free & Open Source Software may still "
@@ -14407,9 +14347,9 @@ msgstr ""
 "En aquest manual ens hem centrat en els PC, però molts altres dispositius "
 "també es poden actualitzar a FOSS. En alguns casos, el programari lliure de "
 "codi obert pot estar en desenvolupament (per exemple, Linux en telèfons "
-"intel·ligents) i pot no satisfer les necessitats de molts usuaris. Caveat "
-"emptor! No obstant això, és possible que vulgueu explorar l'apassionant món "
-"del FOSS en altres dispositius. Aquí teniu alguns exemples:"
+"intel·ligents) i pot no satisfer les necessitats de molts usuaris. S'ofereix "
+"tal com és! No obstant això, és possible que vulgueu explorar l'apassionant "
+"món del FOSS en altres dispositius. Aquí teniu alguns exemples:"
 
 #: content/opt-green-handbook/index.md:715
 msgid "Smartphones & Tablets"
@@ -14434,9 +14374,8 @@ msgstr ""
 "correu electrònic, multimèdia)"
 
 #: content/opt-green-handbook/index.md:719
-#, fuzzy
 msgid "Home automation (Home Assistant, included with FreedomBox)"
-msgstr "Domòtica (Assistent domèstic, inclòs amb FreedomBox)"
+msgstr "Domòtica (Home Assistant, inclòs amb FreedomBox)"
 
 #: content/opt-green-handbook/index.md:720
 msgid ""
@@ -14455,13 +14394,12 @@ msgid "Garage door openers (OpenGarage, ratgdo)"
 msgstr "Obertura de portes de garatges (OpenGarage, ratgdo)"
 
 #: content/opt-green-handbook/index.md:724
-#, fuzzy
 msgid ""
 "There are certainly other exciting projects to make your digital life fully "
 "FOSS and independent. It's a big Free & Open Source Software world out there."
 msgstr ""
 "Hi ha sens dubte altres projectes emocionants per fer la seva vida digital "
-"totalment FOSS i independent. És un gran món de programari lliure de codi "
+"totalment FOSS i independent. Hi ha un gran món de programari lliure de codi "
 "obert."
 
 # skip-rule: t-sc-blog
@@ -14482,7 +14420,6 @@ msgid "Troubleshooting"
 msgstr "Solució de problemes"
 
 #: content/opt-green-handbook/index.md:730
-#, fuzzy
 msgid ""
 "Here are some general resources for resolving some problems that may arise. "
 "This list is in no way comprehensive, and it focuses on basic solutions (e."
@@ -14494,8 +14431,8 @@ msgstr ""
 "sorgir. Aquesta llista no és completa, i se centra en les solucions bàsiques "
 "(per exemple, utilitzant una interfície gràfica d'usuari sobre una "
 "interfície de línia d'ordres). Si teniu problemes específics, consulteu el "
-"flux de treball anterior per a una guia bàsica per a la cerca de solucions "
-"en línia."
+"flux de treball anterior per a una guia bàsica de la cerca de solucions en "
+"línia."
 
 #: content/opt-green-handbook/index.md:732
 msgid ""
@@ -14510,7 +14447,7 @@ msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 msgstr ""
-"[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
+"[BitLocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 
 #: content/opt-green-handbook/index.md:734
@@ -15287,7 +15224,6 @@ msgstr "Llegiu el Manual de suport d'Opció verda"
 
 #. grow-green.handbook.description
 #: i18n/en.yaml:217
-#, fuzzy
 msgid ""
 "Learn about sustainable software and how to support new users with FOSS."
 msgstr ""
@@ -15301,33 +15237,29 @@ msgstr "Distribuïu el full de mà de programari sostenible"
 
 #. grow-green.flyer.description
 #: i18n/en.yaml:221
-#, fuzzy
 msgid ""
 "Spread the word about independent, sustainable FOSS and long-term hardware "
 "use."
 msgstr ""
-"Difondre la paraula sobre el FOSS independent i sostenible i l'ús de "
+"Difoneu la paraula sobre el FOSS independent i sostenible i l'ús de "
 "maquinari a llarg termini."
 
 #. grow-green.install-party.title
 #: i18n/en.yaml:223 i18n/en.yaml:239
-#, fuzzy
 msgid "Host Install Parties In Your Community"
-msgstr "Amfitrions instal·la les parts a la vostra comunitat"
+msgstr "Allotgeu festes d'instal·lació a la vostra comunitat"
 
 #. grow-green.install-party.description
 #: i18n/en.yaml:225
-#, fuzzy
 msgid ""
 "Join initiatives such as End of 10 and DI.Day to bring FOSS to your "
 "community."
 msgstr ""
-"Uneix-te a iniciatives com End of 10 i DI.Dia per portar el FOSS a la teva "
-"comunitat."
+"Uniu-vos a iniciatives com «Final del 10» i DI.Day per portar el FOSS a la "
+"vostra comunitat."
 
 #. grow-green.handbook-section.description
 #: i18n/en.yaml:229
-#, fuzzy
 msgid ""
 "Free & Open Source Software (FOSS) makes it possible to keep hardware in use "
 "for longer. That is not only good for your wallet, but it also reduces "
@@ -15336,15 +15268,15 @@ msgid ""
 "can help new users get started with Free & Open Source Software."
 msgstr ""
 "El programari lliure de codi obert (FOSS) permet mantenir el maquinari en ús "
-"durant més temps. Això no sols és bo per a la seva cartera, sinó que també "
+"durant més temps. Això no sols és bo per a la vostra cartera, sinó que també "
 "redueix els residus electrònics innecessaris i les emissions de CO2 "
-"perjudicials. Al manual d'Opt Green, apreneu per què el programari "
-"sostenible fa per a maquinari sostenible i com podeu ajudar els usuaris nous "
-"a començar amb el programari lliure de codi obert."
+"perjudicials. Al manual d'Opt Green, apreneu què fa el programari sostenible "
+"per al maquinari sostenible i com podeu ajudar els usuaris nous a començar "
+"amb el programari lliure de codi obert."
 
+# skip-rule: t-ad_sp
 #. grow-green.flyer-section.description
 #: i18n/en.yaml:235
-#, fuzzy
 msgid ""
 "The \"Environmentally-Friendly Software?!\" leaflet provides an overview of "
 "the environmental harm driven by e-waste and hardware manufacturing – and "
@@ -15353,12 +15285,12 @@ msgid ""
 "distribute it in your community now. Let your neighbors know why the most "
 "environmentally-friendly device is the one they already own!"
 msgstr ""
-"El fulletó «Environmentally-Friendly Software?!» proporciona una visió "
-"general del dany ambiental impulsat pels residus electrònics i la fabricació "
-"de maquinari - i com combatre'l amb programari lliure de codi obert (FOSS). "
-"El fulletó s'allibera segons una llicència Creative Commons, el que "
-"significa que podeu imprimir-lo i distribuir-lo a la vostra comunitat ara. "
-"Fes saber als teus veïns per què el dispositiu més respectuós amb el medi "
+"El fulletó «Programari respectuós amb el medi ambient?!» proporciona una "
+"visió general del dany ambiental impulsat pels residus electrònics i la "
+"fabricació de maquinari, i com combatre'l amb programari lliure de codi "
+"obert (FOSS). El fulletó es publica segons una llicència Creative Commons, "
+"que significa que podeu imprimir-lo i distribuir-lo a la vostra comunitat "
+"ara. Feu saber als veïns per què el dispositiu més respectuós amb el medi "
 "ambient és el que ja tenen!"
 
 #. grow-green.flyer-section.button
@@ -15368,7 +15300,6 @@ msgstr "Aconseguiu el full de mà"
 
 #. grow-green.install-party-section.description
 #: i18n/en.yaml:241
-#, fuzzy
 msgid ""
 "With initiatives like End Of 10 and Digital Independence Day (DI.Day), "
 "enthusiasts around the world in repair collectives, independent computer "
@@ -15379,11 +15310,11 @@ msgid ""
 msgstr ""
 "Amb iniciatives com «Final del 10» i el Dia de la Independència Digital (DI."
 "Day), entusiastes de tot el món en col·lectius de reparació, botigues "
-"d'ordinadors independents, grups d'usuaris de Linux, FabLabs i MakerSpaces "
-"estan ajudant als usuaris nous a començar amb el Programari Lliure de Codi "
-"Obert (FOSS). Tu també pots involucrar-te i organitzar una instal·lació a la "
-"teva comunitat. Més informació al final del 10 i [DI.Llocs web del dia]"
-"(https://di.day/)."
+"independents d'ordinadors, grups d'usuaris de Linux, FabLabs i MakerSpaces "
+"ajuden als usuaris nous a començar amb el Programari lliure de codi obert "
+"(FOSS). També podeu involucrar-vos i organitzar una instal·lació a la vostra "
+"comunitat. Més informació als llocs web «Final del 10» i [DI.Day](https://di."
+"day/)."
 
 #. grow-green.install-party-section.button
 #: i18n/en.yaml:243
