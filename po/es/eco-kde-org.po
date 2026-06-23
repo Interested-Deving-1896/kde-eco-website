@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-06-18 18:48+0200\n"
+"PO-Revision-Date: 2026-06-23 01:54+0200\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -9852,33 +9852,35 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:362
 msgid "Appendix: Common Misconceptions"
-msgstr ""
+msgstr "Apéndice: Ideas erróneas comunes"
 
 #: content/opt-green-handbook/index.md:364
 msgid ""
 "In this section, we'll debunk five of the most common misconceptions about "
 "FOSS:"
 msgstr ""
+"En esta sección desmentiremos cinco de los conceptos erróneos más comunes "
+"sobre el software libre:"
 
 #: content/opt-green-handbook/index.md:366
 msgid "\"Anyone can modify the application I am using.\""
-msgstr ""
+msgstr "«Cualquiera puede modificar la aplicación que estoy usando»."
 
 #: content/opt-green-handbook/index.md:367
 msgid "\"You never know where the software came from.\""
-msgstr ""
+msgstr "«Nunca sabes de dónde proviene el software»."
 
 #: content/opt-green-handbook/index.md:368
 msgid "\"FOSS is less secure.\""
-msgstr ""
+msgstr "«El FOSS es menos seguro»."
 
 #: content/opt-green-handbook/index.md:369
 msgid "\"I need to be a developer to benefit from FOSS.\""
-msgstr ""
+msgstr "«Tengo que ser desarrollador para beneficiarme del FOSS»."
 
 #: content/opt-green-handbook/index.md:370
 msgid "\"FOSS is free of cost because it is developed by volunteers.\""
-msgstr ""
+msgstr "«El FOSS es gratuito porque está desarrollado por voluntarios»."
 
 #: content/opt-green-handbook/index.md:372
 msgid ""
@@ -9886,10 +9888,15 @@ msgid ""
 "reveal more about how FOSS works as a software, as an ecosystem, and as a "
 "business."
 msgstr ""
+"Todas estas frases son incorrectas. Las siguientes explicaciones revelarán "
+"más sobre cómo el FOSS funciona como software, como ecosistema y como "
+"negocio."
 
 #: content/opt-green-handbook/index.md:374
 msgid "**Misconception 1: Anyone can modify the application I am using.**"
 msgstr ""
+"**Idea errónea 1: Cualquiera puede modificar la aplicación que estoy usando."
+"**"
 
 #: content/opt-green-handbook/index.md:376
 msgid ""
@@ -9920,7 +9927,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:380
 msgid "**Misconception 2: You never know where the software came from.**"
-msgstr ""
+msgstr "**Idea errónea 2: Nunca sabes de dónde proviene el software.**"
 
 #: content/opt-green-handbook/index.md:382
 msgid ""
@@ -9949,7 +9956,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:386
 msgid "**Misconception 3: FOSS is less secure.**"
-msgstr ""
+msgstr "**Idea errónea 3: El FOSS es menos seguro.**"
 
 #: content/opt-green-handbook/index.md:388
 msgid ""
@@ -9979,6 +9986,7 @@ msgstr ""
 #: content/opt-green-handbook/index.md:392
 msgid "**Misconception 4: I need to be a developer to benefit from FOSS.**"
 msgstr ""
+"**Idea errónea 4: Tengo que ser desarrollador para beneficiarme del FOSS.**"
 
 #: content/opt-green-handbook/index.md:394
 msgid ""
@@ -10023,6 +10031,8 @@ msgid ""
 "**Misconception 5: FOSS is free of cost because it is developed by "
 "volunteers.**"
 msgstr ""
+"**Idea errónea 5: El FOSS es gratuito porque está desarrollado por "
+"voluntarios.**"
 
 #: content/opt-green-handbook/index.md:402
 msgid ""
@@ -10135,23 +10145,23 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:424
 msgid "From here, this section is broken down into 4 stages:"
-msgstr ""
+msgstr "A partir de aquí, esta sección está dividida en cuatro etapas:"
 
 #: content/opt-green-handbook/index.md:426
 msgid "Gaining Experience with FOSS and FOSS groups"
-msgstr ""
+msgstr "Adquirir experiencia con software libre y grupos de software libre"
 
 #: content/opt-green-handbook/index.md:427
 msgid "Before Install Events"
-msgstr ""
+msgstr "Eventos previos a la instalación"
 
 #: content/opt-green-handbook/index.md:428
 msgid "During Install Events"
-msgstr ""
+msgstr "Eventos durante la instalación"
 
 #: content/opt-green-handbook/index.md:429
 msgid "After Install Events"
-msgstr ""
+msgstr "Eventos posteriores a la instalación"
 
 #: content/opt-green-handbook/index.md:431
 msgid ""
@@ -10263,7 +10273,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:451
 msgid "Stage 1. Gaining Experience"
-msgstr ""
+msgstr "Etapa 1: Adquirir experiencia"
 
 #: content/opt-green-handbook/index.md:453
 msgid ""
@@ -10294,7 +10304,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:457
 msgid "A couple of things to note at this point:"
-msgstr ""
+msgstr "Hay un par de cosas que conviene tener en cuenta en este punto:"
 
 #: content/opt-green-handbook/index.md:459
 msgid ""
@@ -10365,11 +10375,11 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:472
 msgid "KDE Plasma's slogan is:"
-msgstr ""
+msgstr "El eslogan de KDE Plasma es:"
 
 #: content/opt-green-handbook/index.md:474
 msgid "\"Simple by default, powerful when needed.\""
-msgstr ""
+msgstr "«Sencillo de forma predeterminada, potente cuando es necesario»."
 
 #: content/opt-green-handbook/index.md:476
 msgid ""
@@ -10390,7 +10400,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:478
 msgid "Stage 2. Before Install Events"
-msgstr ""
+msgstr "Etapa 2: Eventos previos a la instalación"
 
 #: content/opt-green-handbook/index.md:480
 msgid ""
@@ -10401,7 +10411,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:482
 msgid "Finding Other FOSS Angels"
-msgstr ""
+msgstr "Encontrar otros ángeles del software libre"
 
 #: content/opt-green-handbook/index.md:484
 msgid ""
@@ -10501,7 +10511,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:505
 msgid "Joining An Organization"
-msgstr ""
+msgstr "Unirse a una organización"
 
 #: content/opt-green-handbook/index.md:507
 msgid ""
@@ -10513,41 +10523,47 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:509
 msgid "[End Of 10](https://endof10.org) directory"
-msgstr ""
+msgstr "Directorio de [Fin de 10](https://endof10.org)"
 
 #: content/opt-green-handbook/index.md:510
 msgid "[Repair Café International](https://www.repaircafe.org/en/visit/)"
-msgstr ""
+msgstr "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 
 #: content/opt-green-handbook/index.md:511
 msgid ""
 "[Restart Project](https://therestartproject.org/repair-options/find-your-"
 "repair-community/)"
 msgstr ""
+"[Restart Project](https://therestartproject.org/repair-options/find-your-"
+"repair-community/)"
 
 #: content/opt-green-handbook/index.md:512
 msgid ""
 "[iFixit](https://www.ifixit.com/Wiki/How_to_Find_your_Local_Repair_Caf"
 "%C3%A9) repair café directory"
 msgstr ""
+"Directorio del café de reparación [iFixit](https://www.ifixit.com/Wiki/"
+"How_to_Find_your_Local_Repair_Caf%C3%A9)"
 
 #: content/opt-green-handbook/index.md:513
 msgid "[Linux User Groups](https://linux-events.org/SL_LUGs)"
-msgstr ""
+msgstr "[Grupos de usuarios de Linux](https://linux-events.org/SL_LUGs)"
 
 #: content/opt-green-handbook/index.md:514
 msgid "[CryptoParties](https://cryptoparty.in/)"
-msgstr ""
+msgstr "[CryptoParties](https://cryptoparty.in/)"
 
 #: content/opt-green-handbook/index.md:515
 msgid ""
 "Student and FOSS clubs (such as the [FOSS United Clubs](https://fossunited."
 "org/clubs) in India)"
 msgstr ""
+"Clubs de estudiantes y FOSS (como el [FOSS United Clubs](https://fossunited."
+"org/clubs) de la India)"
 
 #: content/opt-green-handbook/index.md:516
 msgid "IT stores offering Linux support"
-msgstr ""
+msgstr "Tiendas informáticas que ofrecen soporte de Linux"
 
 #: content/opt-green-handbook/index.md:518
 msgid ""
@@ -10562,7 +10578,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:520
 msgid "Planning An Install Party"
-msgstr ""
+msgstr "Planificación de una fiesta de instalación"
 
 #: content/opt-green-handbook/index.md:522
 msgid ""
@@ -10573,19 +10589,19 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:524
 msgid "Stage 0: Deciding to install a FOSS OS"
-msgstr ""
+msgstr "Etapa 0: Decidir instalar un SO FOSS"
 
 #: content/opt-green-handbook/index.md:525
 msgid "Stage 1: Securing their data"
-msgstr ""
+msgstr "Etapa 1: Asegurar sus datos"
 
 #: content/opt-green-handbook/index.md:526
 msgid "Stage 2: Installation"
-msgstr ""
+msgstr "Etapa 2: Instalación"
 
 #: content/opt-green-handbook/index.md:527
 msgid "Stage 3: Getting follow-up support"
-msgstr ""
+msgstr "Etapa 3: Obtener apoyo de seguimiento"
 
 #: content/opt-green-handbook/index.md:529
 msgid ""
@@ -10930,7 +10946,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:593
 msgid "Stage 3. During Install Events"
-msgstr ""
+msgstr "Etapa 3: Eventos durante la instalación"
 
 #: content/opt-green-handbook/index.md:595
 msgid "Showing, Not Telling"
@@ -11022,7 +11038,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:613
 msgid "Securing User Data"
-msgstr ""
+msgstr "Asegurar los datos del usuario"
 
 #: content/opt-green-handbook/index.md:615
 msgid ""
@@ -11067,23 +11083,31 @@ msgid ""
 "Make sure all user data is backed up and secure before doing anything else. "
 "It is also important to have a disclaimer before the event, such as:"
 msgstr ""
+"Asegúrate de que haber hecho una copia de seguridad de todos los datos de "
+"los usuarios y que esté a buen recaudo antes de hacer cualquier otra cosa. "
+"También es importante incluir una cláusula de exención de responsabilidad "
+"antes del evento, como por ejemplo:"
 
 #: content/opt-green-handbook/index.md:627
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
+"Se trata de ayuda voluntaria para mostrar a los nuevos usuarios cómo pueden "
+"ayudarse a sí mismos."
 
 #: content/opt-green-handbook/index.md:628
 msgid "No contract is being established."
-msgstr ""
+msgstr "No se está formalizando ningún contrato."
 
 #: content/opt-green-handbook/index.md:629
 msgid "Devices and data can break when you touch them."
-msgstr ""
+msgstr "Los dispositivos y los datos pueden dañarse al tocarlos."
 
 #: content/opt-green-handbook/index.md:630
 msgid ""
 "Attendees are responsible for their devices and for having data backups."
 msgstr ""
+"Los asistentes son responsables de sus dispositivos y de tener copias de "
+"seguridad de sus datos."
 
 #: content/opt-green-handbook/index.md:632
 msgid ""
@@ -11091,6 +11115,9 @@ msgid ""
 "computer! Ideally you will not need to touch the device, as the user can "
 "learn how to do everything on their own with your guidance."
 msgstr ""
+"Consejo: ¡Siempre es mejor preguntar antes de tocar el ordenador de otra "
+"persona! Lo ideal es que no tengas que tocar el dispositivo, ya que el "
+"usuario podrá aprender a hacerlo todo por sí mismo con tu ayuda."
 
 #: content/opt-green-handbook/index.md:634
 msgid ""
@@ -11101,22 +11128,29 @@ msgid ""
 "legalprotection.html). Check with the relevant authorities to be certain "
 "these documents are legally binding."
 msgstr ""
+"La exención de responsabilidad puede presentarse de forma oral, pero también "
+"conviene tenerla por escrito y firmada antes de instalar nada. Si lo "
+"consideras necesario, existen documentos legales disponibles en iniciativas "
+"de reparación, así como en [The Linux Document Project](https://tldp.org/"
+"HOWTO/Installfest-HOWTO/legalprotection.html). Consulta con las autoridades "
+"pertinentes para asegurarte de que estos documentos sean legalmente "
+"vinculantes."
 
 #: content/opt-green-handbook/index.md:636
 msgid "The installation process generally follows these 3 steps:"
-msgstr ""
+msgstr "Por lo general, el proceso de instalación sigue estos tres pasos:"
 
 #: content/opt-green-handbook/index.md:638
 msgid "Prepare a bootable USB drive or DVD"
-msgstr ""
+msgstr "Preparar una unidad USB o DVD arrancable."
 
 #: content/opt-green-handbook/index.md:639
 msgid "Enter into BIOS and boot from the drive"
-msgstr ""
+msgstr "Entrar en la BIOS y arrancar con dicha unidad."
 
 #: content/opt-green-handbook/index.md:640
 msgid "Install the OS"
-msgstr ""
+msgstr "Instalar el SO."
 
 #: content/opt-green-handbook/index.md:642
 msgid ""
@@ -11180,6 +11214,8 @@ msgid ""
 "At this point you'll want to show the user how to do things in their new OS. "
 "Some tips so they can use their new system:"
 msgstr ""
+"Llegados a este punto, querrás enseñar al usuario cómo puede hacer cosas en "
+"su nuevo SO. Algunos consejos para que pueda usar su nuevo sistema:"
 
 #: content/opt-green-handbook/index.md:656
 msgid ""
@@ -11187,28 +11223,37 @@ msgid ""
 "volume adjustment, printer administration, and so on (it helps to let them "
 "do this on their own and have them ask questions)"
 msgstr ""
+"Aprender a navegar por su nuevo sistema, como el menú de aplicaciones, el "
+"centro de software, el ajuste de volumen, la gestión de la impresora, etc. "
+"(resulta útil dejar que lo hagan por sí mismos y que hagan preguntas)."
 
 #: content/opt-green-handbook/index.md:657
 msgid "Installing or unsinstalling applications"
-msgstr ""
+msgstr "Instalación y desinstalación de aplicaciones."
 
 #: content/opt-green-handbook/index.md:658
 msgid ""
 "Updating the system and applications (completing this action may take some "
 "time)"
 msgstr ""
+"Actualización del sistema y de las aplicaciones (completar esta acción puede "
+"tardar cierto tiempo)."
 
 #: content/opt-green-handbook/index.md:659
 msgid ""
 "Copying the user's backed up data onto the new OS (completing this action "
 "may take some time)"
 msgstr ""
+"Copia de los datos de la copia de seguridad del usuario en su nuevo SO "
+"(completar esta acción puede tardar cierto tiempo)."
 
 #: content/opt-green-handbook/index.md:660
 msgid ""
 "Optional: Setting up automated backup software with their external hard "
 "drive (completing this action may take some time)"
 msgstr ""
+"Opcional: configuración de software de copia de seguridad automática en su "
+"disco duro externo (completar esta acción puede tardar cierto tiempo)."
 
 #: content/opt-green-handbook/index.md:662
 msgid ""
@@ -11218,6 +11263,11 @@ msgid ""
 "released under a [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) "
 "license.)](images/sec3_plasma-discover.png)"
 msgstr ""
+"![Imagen de [Discover](https://apps.kde.org/discover/) en KDE Plasma. "
+"Discover se usa para actualizar el sistema y para buscar e instalar "
+"aplicaciones, juegos y herramientas existentes en diversos repositorios. "
+"(Imagen de KDE publicada bajo licencia [CC-BY-4.0](https://spdx.org/licenses/"
+"CC-BY-4.0.html).)](images/sec3_plasma-discover.png)"
 
 #: content/opt-green-handbook/index.md:664
 msgid ""
@@ -11230,7 +11280,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:666
 msgid "Stage 4. After Install Events"
-msgstr ""
+msgstr "Etapa 4: Eventos posteriores a la instalación"
 
 #: content/opt-green-handbook/index.md:668
 msgid ""
@@ -11357,6 +11407,9 @@ msgid ""
 "and answer questions about KDE Plasma on various distros.](images/"
 "sec3_discuss-kde-org.png)"
 msgstr ""
+"![Captura de pantalla del [foro de KDE](https://discuss.kde.org/), donde los "
+"usuarios pueden preguntar y responder consultas sobre KDE Plasma en "
+"distintas distribuciones.](images/sec3_discuss-kde-org.png)"
 
 #: content/opt-green-handbook/index.md:697
 msgid ""
@@ -11372,13 +11425,16 @@ msgstr "Recursos adicionales"
 
 #: content/opt-green-handbook/index.md:701
 msgid "Organizing An Install Event"
-msgstr ""
+msgstr "Organización de un evento de instalación"
 
 #: content/opt-green-handbook/index.md:703
 msgid ""
 "More can be found at [New User Support Awesome List](https://invent.kde.org/"
 "teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-support.md)."
 msgstr ""
+"Se puede encontrar más en la [New User Support Awesome List](https://invent."
+"kde.org/teams/eco/opt-green/-/blob/master/awesome-list-new-user-linux-"
+"support.md)."
 
 #: content/opt-green-handbook/index.md:705
 msgid ""
@@ -11386,6 +11442,9 @@ msgid ""
 "organize-an-install-party) -- Short guide to organizing an install party, "
 "from the End Of 10 campaign FAQ (2025)"
 msgstr ""
+"[¿Cómo organizo una fiesta de instalación?](https://endof10.org/faq/#how-do-"
+"i-organize-an-install-party): Guía breve para organizar una fiesta de "
+"instalación, de las preguntas frecuentes de la campaña «Fin de 10» (2025)."
 
 #: content/opt-green-handbook/index.md:706
 msgid ""
@@ -11393,6 +11452,9 @@ msgid ""
 "Umstieg_auf_Linux) -- Preparing for a Linux install party, from LUG "
 "Villingen-Schwenningen e.V. (German) (2025)"
 msgstr ""
+"[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/"
+"Umstieg_auf_Linux): Preparación para una fiesta de instalación Linux, del "
+"LUG Villingen-Schwenningen e.V. (en alemán) (2025)."
 
 #: content/opt-green-handbook/index.md:707
 msgid ""
@@ -11400,12 +11462,18 @@ msgid ""
 "werkstatt/linux) -- Guides to getting started with Linux, from Repair-Café "
 "Hilpoltstein (German) (2025)"
 msgstr ""
+"[Offene Linux-Werkstatt](https://www.repaircafe-hilpoltstein.de/offene-"
+"werkstatt/linux): Guías para empezar con Linux, del Repair-Café Hilpoltstein "
+"(en alemán) (2025)."
 
 #: content/opt-green-handbook/index.md:708
 msgid ""
 "[Fedora Wiki \"InstallParty\"](https://fedoraproject.org/wiki/InstallParty) "
 "-- Organizing an installation event, from the Fedora Linux community (2019)"
 msgstr ""
+"[Fedora Wiki «InstallParty»](https://fedoraproject.org/wiki/InstallParty): "
+"Organización de un evento de instalación, de la comunidad de Fedora Linux "
+"(2019)."
 
 #: content/opt-green-handbook/index.md:709
 msgid ""
@@ -11413,10 +11481,13 @@ msgid ""
 "html) -- Guidelines for running a successful installfest, from The Linux "
 "Documentation Project (2012)"
 msgstr ""
+"[Linux Installfest HOWTO](https://tldp.org/HOWTO/Installfest-HOWTO/index."
+"html): Directrices para llevar a cabo un festival de instalación con éxito, "
+"del «Proyecto de documentación de Linux» (2012)."
 
 #: content/opt-green-handbook/index.md:711
 msgid "FOSS On Other Devices"
-msgstr ""
+msgstr "FOSS en otros dispositivos"
 
 #: content/opt-green-handbook/index.md:713
 msgid ""
@@ -11426,48 +11497,62 @@ msgid ""
 "the needs of many users. Caveat emptor! However, you may want to explore the "
 "exciting world of FOSS on other devices. Here are some examples:"
 msgstr ""
+"En este manual nos hemos centrado en los PC, pero hay muchos más "
+"dispositivos que también se pueden actualizar con software FOSS. En algunos "
+"casos, el software libre y de código abierto aún puede estar en desarrollo "
+"(por ejemplo, Linux en teléfonos inteligentes) y quizá no satisfaga las "
+"necesidades de muchos usuarios. ¡Advertencia! Sin embargo, puede que te "
+"interese explorar el apasionante mundo del FOSS en otros dispositivos. Aquí "
+"tienes algunos ejemplos:"
 
 #: content/opt-green-handbook/index.md:715
 msgid "Smartphones & Tablets"
-msgstr ""
+msgstr "Teléfonos inteligentes y tabletas"
 
 #: content/opt-green-handbook/index.md:716
 msgid ""
 "Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
 "Ubuntu Touch, Phosh"
 msgstr ""
+"Linux: postmarketOS, mobian, [Plasma Mobile](https://plasma-mobile.org/), "
+"Ubuntu Touch, Phosh"
 
 #: content/opt-green-handbook/index.md:717
 msgid "Android derivatives: Replicant, lineageOS, e/OS"
-msgstr ""
+msgstr "Derivados de Android: Replicant, lineageOS, e/OS"
 
 #: content/opt-green-handbook/index.md:718
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
-msgstr ""
+msgstr "Servidor doméstico (FreedomBox for file sync, chat, email, media)"
 
 #: content/opt-green-handbook/index.md:719
 msgid "Home automation (Home Assistant, included with FreedomBox)"
-msgstr ""
+msgstr "Automatización del hogar (Home Assistant, incluido con FreedomBox)"
 
 #: content/opt-green-handbook/index.md:720
 msgid ""
 "Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
 msgstr ""
+"Televisores inteligentes (Kodi, Jellyfin, [Plasma Bigscreen](https://plasma-"
+"bigscreen.org/))"
 
 #: content/opt-green-handbook/index.md:721
 msgid "E-book readers (KOReader)"
-msgstr ""
+msgstr "Lectores de libros electrónicos (KOReader)"
 
 #: content/opt-green-handbook/index.md:722
 msgid "Garage door openers (OpenGarage, ratgdo)"
-msgstr ""
+msgstr "Apertura de puertas de garaje (OpenGarage, ratgdo)"
 
 #: content/opt-green-handbook/index.md:724
 msgid ""
 "There are certainly other exciting projects to make your digital life fully "
 "FOSS and independent. It's a big Free & Open Source Software world out there."
 msgstr ""
+"Sin duda, existen otros proyectos interesantes para que tu vida digital sea "
+"totalmente libre e independiente. El mundo del software libre y de código "
+"abierto es inmenso."
 
 #: content/opt-green-handbook/index.md:726
 msgid ""
@@ -11483,7 +11568,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:728
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Solución de problemas"
 
 #: content/opt-green-handbook/index.md:730
 msgid ""
@@ -11493,30 +11578,43 @@ msgid ""
 "problems, see the workflow above for a basic guide to searching for "
 "solutions online."
 msgstr ""
+"Estos son algunos recursos generales para resolver algunos de los problemas "
+"que puedan surgir. Esta lista no es exhaustiva y se centra en soluciones "
+"básicas (por ejemplo, el uso de una interfaz gráfica sobre una interfaz de "
+"consola). Si tienes problemas específicos, consulta el procedimiento "
+"anterior para una guía básica para buscar soluciones en línea."
 
 #: content/opt-green-handbook/index.md:732
 msgid ""
 "[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
 msgstr ""
+"[Linux no se instala](https://www.ifixit.com/Troubleshooting/Linux/Not"
+"+Installing/616642)"
 
 #: content/opt-green-handbook/index.md:733
 msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 msgstr ""
+"[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
+"bitlocker-during-ubuntu-installation/)"
 
 #: content/opt-green-handbook/index.md:734
 msgid ""
 "[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
 "com/blog/install-linux-nvidia-driver/)"
 msgstr ""
+"[Instalación de controladores de NVIDIA en Linux: Guía completa](https://"
+"linuxvox.com/blog/install-linux-nvidia-driver/)"
 
 #: content/opt-green-handbook/index.md:735
 msgid ""
 "[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
 msgstr ""
+"[Cómo configurar una impresora en Linux](https://www.maketecheasier.com/set-"
+"up-a-printer-in-linux/)"
 
 #: content/opt-green-handbook/index.md:736
 msgid ""
@@ -11524,6 +11622,9 @@ msgid ""
 "com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
 "p/36236)"
 msgstr ""
+"[Solución de problemas de Linux: Guía para principiantes](https://learn."
+"redhat.com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-"
+"Guide/td-p/36236)"
 
 #: content/opt-green-handbook/index.md:737
 msgid ""
@@ -11531,12 +11632,17 @@ msgid ""
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
 "tips-for-new-users/)"
 msgstr ""
+"[Solución de problemas comunes de Linux: Consejos para nuevos usuarios]"
+"(https://www.dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-"
+"problems-tips-for-new-users/)"
 
 #: content/opt-green-handbook/index.md:738
 msgid ""
 "[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
 "org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 msgstr ""
+"[Solución de problemas comunes de Linux: Guía para nuevos usuarios](https://"
+"codegig.org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 
 #: content/opt-green-handbook/index.md:741
 msgid ""
