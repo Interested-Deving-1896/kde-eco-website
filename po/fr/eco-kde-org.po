@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-06-13 10:20+0200\n"
+"PO-Revision-Date: 2026-06-22 16:44+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: fr\n"
 "Language: fr\n"
@@ -3855,7 +3855,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:944
 msgid "(5) *MQTT Broker Setup*"
-msgstr ""
+msgstr "(5) *Configuration du courtier MQTT*"
 
 #: content/be4foss-handbook/handbook_web.md:946
 msgid ""
@@ -3917,7 +3917,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:970
 msgid "(7) *Verifying MQTT Communication*"
-msgstr ""
+msgstr "(7) *Vérification de la communication avec MQTT*"
 
 #: content/be4foss-handbook/handbook_web.md:972
 msgid ""
@@ -4352,7 +4352,7 @@ msgstr "2.6 Modularité"
 
 #: content/be4foss-handbook/handbook_web.md:1127
 msgid "Information to document includes:"
-msgstr ""
+msgstr "Les informations à documenter comprennent :"
 
 #: content/be4foss-handbook/handbook_web.md:1129
 msgid ""
@@ -8637,7 +8637,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:193
 msgid "Is Focusing On Software Worth It?"
-msgstr ""
+msgstr "Est-ce que se concentrer sur les logiciels en vaut la peine ?"
 
 #: content/opt-green-handbook/index.md:195
 msgid ""
@@ -8960,7 +8960,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:287
 msgid "FOSS Is Better For The Environment"
-msgstr ""
+msgstr "Les logiciels libres « FOSS » sont meilleurs pour l'environnement"
 
 #: content/opt-green-handbook/index.md:289
 msgid "Improving Code&mdash;By Users & For Users"
@@ -9101,22 +9101,22 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:313
 msgid "Proprietary OS"
-msgstr ""
+msgstr "Système d'exploitation propriétaire"
 
 #: content/opt-green-handbook/index.md:313
 #: content/opt-green-handbook/index.md:321
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 #: content/opt-green-handbook/index.md:313
 #: content/opt-green-handbook/index.md:321
 msgid "Processor"
-msgstr ""
+msgstr "Processeur"
 
 #: content/opt-green-handbook/index.md:313
 #: content/opt-green-handbook/index.md:321
 msgid "Storage"
-msgstr ""
+msgstr "Espace d'enregistrement"
 
 #: content/opt-green-handbook/index.md:315
 msgid ""
@@ -9127,31 +9127,31 @@ msgstr ""
 #: content/opt-green-handbook/index.md:315
 #: content/opt-green-handbook/index.md:325
 msgid "4 GB"
-msgstr ""
+msgstr "4 Go"
 
 #: content/opt-green-handbook/index.md:315
 msgid "certain 64 bit processors"
-msgstr ""
+msgstr "certains processeurs 64 bits"
 
 #: content/opt-green-handbook/index.md:315
 msgid "64 GB"
-msgstr ""
+msgstr "64 Go"
 
 #: content/opt-green-handbook/index.md:316
 msgid "+ Copilot genAI"
-msgstr ""
+msgstr "+ Copilote genAI"
 
 #: content/opt-green-handbook/index.md:316
 msgid "16 GB"
-msgstr ""
+msgstr "16 Go"
 
 #: content/opt-green-handbook/index.md:316
 msgid "+ NPU"
-msgstr ""
+msgstr "+ NPU"
 
 #: content/opt-green-handbook/index.md:316
 msgid "256 GB"
-msgstr ""
+msgstr "256 Go"
 
 #: content/opt-green-handbook/index.md:317
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
@@ -9160,7 +9160,7 @@ msgstr ""
 #: content/opt-green-handbook/index.md:317
 #: content/opt-green-handbook/index.md:324
 msgid "8 GB"
-msgstr ""
+msgstr "8 Go"
 
 #: content/opt-green-handbook/index.md:317
 #: content/opt-green-handbook/index.md:323
@@ -9168,11 +9168,11 @@ msgstr ""
 #: content/opt-green-handbook/index.md:325
 #: content/opt-green-handbook/index.md:326
 msgid "64 bit"
-msgstr ""
+msgstr "64 bits"
 
 #: content/opt-green-handbook/index.md:317
 msgid "25 GB"
-msgstr ""
+msgstr "25 Go"
 
 #: content/opt-green-handbook/index.md:319
 msgid ""
@@ -9191,7 +9191,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:321
 msgid "FOSS-based OS"
-msgstr ""
+msgstr "Système d'exploitation de la famille « FOSS »"
 
 #: content/opt-green-handbook/index.md:323
 msgid ""
@@ -9203,11 +9203,11 @@ msgstr ""
 #: content/opt-green-handbook/index.md:324
 #: content/opt-green-handbook/index.md:326
 msgid "2 GB"
-msgstr ""
+msgstr "2 Go"
 
 #: content/opt-green-handbook/index.md:323
 msgid "15 GB"
-msgstr ""
+msgstr "15 Go"
 
 #: content/opt-green-handbook/index.md:324
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
@@ -9221,7 +9221,7 @@ msgstr ""
 #: content/opt-green-handbook/index.md:325
 #: content/opt-green-handbook/index.md:327
 msgid "512 MB"
-msgstr ""
+msgstr "512 Mo"
 
 #: content/opt-green-handbook/index.md:326
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
@@ -9229,7 +9229,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:326
 msgid "512 MiB"
-msgstr ""
+msgstr "512 Mo"
 
 #: content/opt-green-handbook/index.md:327
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
@@ -9238,11 +9238,11 @@ msgstr ""
 #: content/opt-green-handbook/index.md:327
 #: content/opt-green-handbook/index.md:328
 msgid "32 or 64 bit"
-msgstr ""
+msgstr "32 ou 64 bits"
 
 #: content/opt-green-handbook/index.md:327
 msgid "1 GB"
-msgstr ""
+msgstr "1 Go"
 
 #: content/opt-green-handbook/index.md:328
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
@@ -9250,11 +9250,11 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:328
 msgid "384 MiB"
-msgstr ""
+msgstr "384 Mo"
 
 #: content/opt-green-handbook/index.md:328
 msgid "1.5 GB"
-msgstr ""
+msgstr "1,5 Go"
 
 #: content/opt-green-handbook/index.md:331
 msgid ""
@@ -10666,7 +10666,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:628
 msgid "No contract is being established."
-msgstr ""
+msgstr "Aucun contrat n'est en cours d'établissement."
 
 #: content/opt-green-handbook/index.md:629
 msgid "Devices and data can break when you touch them."
