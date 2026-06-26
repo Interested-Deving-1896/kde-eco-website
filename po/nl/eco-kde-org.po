@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-06-22 11:43+0200\n"
+"PO-Revision-Date: 2026-06-25 13:55+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -2411,6 +2411,11 @@ msgid ""
 "protection for our environment and health for 40 years in an independent and "
 "credible way."
 msgstr ""
+"Steeds meer mensen letten bij de aanschaf van producten op duurzaamheid en "
+"milieuvriendelijkheid. Precies daarvoor staat de Blauwe Engel (Blue Angel). "
+"Dit milieukeurmerk vormt al 40 jaar op onafhankelijke en geloofwaardige "
+"wijze een garantie voor hoge standaarden op het gebied van milieu- en "
+"gezondheidsbescherming."
 
 #: content/be4foss-handbook/handbook_web.md:298
 msgid ""
@@ -2422,24 +2427,35 @@ msgid ""
 "the booklet, they identify some of the general criteria they consider when "
 "eco-certifying a product, such as:"
 msgstr ""
+"In hun informatiebrochure ter gelegenheid van het 40-jarig jubileum, [“*Blue "
+"Angel &mdsah; 40 years. Good for me. Good for the environment*”](https://www."
+"umweltbundesamt.de/sites/default/files/medien/1410/publikationen/"
+"uba_40jahreblauerengel_publikation_en_web.pdf), heeft het Duitse "
+"milieuagentschap (UBA) de geschiedenis, de huidige status en de toekomst van "
+"het ecolabel in kaart gebracht. In de brochure worden enkele algemene "
+"criteria genoemd die worden gehanteerd bij de milieucertificering van een "
+"product, zoals:"
 
 #: content/be4foss-handbook/handbook_web.md:300
 msgid ""
 "reduced emissions of harmful substances in the ground, air, water and "
 "indoors;"
 msgstr ""
+"verminderde uitstoot van schadelijke stoffen in de bodem, de lucht, het "
+"water en binnenshuis;"
 
 #: content/be4foss-handbook/handbook_web.md:302
 msgid "sustainable production of resources;"
-msgstr ""
+msgstr "duurzame productie van hulpbronnen;"
 
 #: content/be4foss-handbook/handbook_web.md:304
 msgid "longevity, ability to repair and recycle the product; and"
 msgstr ""
+"levensduur, de mogelijkheid om het product te repareren en te recyclen; en"
 
 #: content/be4foss-handbook/handbook_web.md:306
 msgid "efficient use, e.g. products which save energy."
-msgstr ""
+msgstr "efficiënt gebruik, bijv. energiebesparende producten."
 
 #: content/be4foss-handbook/handbook_web.md:308
 msgid ""
@@ -2447,6 +2463,9 @@ msgid ""
 "with the Blue Angel award criteria for desktop software promotes the above "
 "environmental benefits, among others."
 msgstr ""
+"Nu u aan het einde van dit gedeelte bent gekomen, hopen we dat duidelijk is "
+"hoe naleving van de criteria voor het 'Blauwe Engel'-keurmerk voor "
+"bureaubladsoftware onder meer bijdraagt ​​aan de bovengenoemde milieuvoordelen."
 
 #: content/be4foss-handbook/handbook_web.md:310
 msgid ""
@@ -2456,10 +2475,15 @@ msgid ""
 "consumers and public institutions with reliable guidance for environmentally "
 "conscious purchasing.”"
 msgstr ""
+"Milieukeurmerken kunnen een instrument zijn om markten in de richting van "
+"duurzame producten te bewegen. Zoals op de website van de Blauwe Engel (Blue "
+"Angel) staat: \"Het doel van het milieukeurmerk is om particuliere klanten, "
+"grote institutionele afnemers en overheidsinstellingen betrouwbare "
+"richtlijnen te bieden voor milieubewuste inkoop.\""
 
 #: content/be4foss-handbook/handbook_web.md:312
 msgid "So what does the market say?"
-msgstr ""
+msgstr "Wat zegt de markt dus?"
 
 #: content/be4foss-handbook/handbook_web.md:314
 msgid ""
@@ -2473,6 +2497,17 @@ msgid ""
 "of direction of the EU market&mdash;and they are even sometimes used as a "
 "guideline for optimizing products."
 msgstr ""
+"Uit een onderzoek blijkt dat 92% van de Duitsers het ecolabel herkent en dat "
+"het label bij 37% van hen van invloed is op de aankoopbeslissing. Het "
+"ecolabel is ook buiten Duitsland herkenbaar; tot wel 15% van de bedrijven "
+"die het 'Blauwe Engel'-keurmerk (Blue Angel) voeren, is buiten Duitsland "
+"gevestigd. Een reden hiervoor is dat de 'Blauwe Engel' – in tegenstelling "
+"tot sommige andere ecolabels – geen eisen stelt aan de regio waar een "
+"product op de markt mag worden gebracht. Bovendien geniet het 'Blauwe Engel'-"
+"keurmerk internationaal aanzien als teken van hoge kwaliteit; de "
+"toekenningscriteria worden beschouwd als een graadmeter voor de koers van de "
+"EU-markt en dienen soms zelfs als richtlijn bij het optimaliseren van "
+"producten."
 
 #: content/be4foss-handbook/handbook_web.md:316
 msgid ""
