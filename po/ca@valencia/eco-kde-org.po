@@ -13515,7 +13515,7 @@ msgstr ""
 "drets humans (encara que no tècnics), contacteu també amb ells. Els residus "
 "electrònics i l'obsolescència planificada són directament rellevants per a "
 "tots dos grups i fins i tot poden promoure l'esdeveniment (vegeu [ací]"
-"(https://nachhaltig-in-graz.at/linux-statt-microsoft/) per exemple a Graz, "
+"(https://nachhaltig-in-graz.at/linux-statt-microsoft/) per exemple en Graz, "
 "Àustria)."
 
 #: content/opt-green-handbook/index.md:581
