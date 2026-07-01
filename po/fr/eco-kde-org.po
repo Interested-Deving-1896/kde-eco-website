@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-06-24 18:25+0200\n"
+"PO-Revision-Date: 2026-06-29 11:47+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: fr\n"
 "Language: fr\n"
@@ -43,14 +43,8 @@ msgid "KDE Demo Handbook"
 msgstr "Manuel de démonstration pour KDE Eco"
 
 #: content/be4foss-handbook/handbook_web.md:0
-#, fuzzy
-#| msgid ""
-#| "\"Applying The Blue Angel Criteria To Free Software\" details how to eco-"
-#| "certify software and why it matters."
 msgid "Applying The Blue Angel Criteria To Free Software"
-msgstr ""
-"Le document « Application des critères « Blue Angel » aux logiciels libres » "
-"détaille comment éco-certifier des logiciels et pourquoi cela est important."
+msgstr "Application des critères « Blue Angel » aux logiciels libres »"
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "A Handbook To Certifying Software As Sustainable (February 2023)"
@@ -143,7 +137,7 @@ msgstr "Partie II : Certification éco-responsable des logiciels de bureau"
 #: content/be4foss-handbook/handbook_web.md:32
 #: content/be4foss-handbook/handbook_web.md:323
 msgid "Part III: Fulfilling The Blue Angel Award Criteria"
-msgstr ""
+msgstr "Partie III : réponses aux critères du label « Blue Angel »"
 
 #: content/be4foss-handbook/handbook_web.md:34
 msgid ""
@@ -414,7 +408,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:83
 msgid "Relative Harm &mdash; Or, When Less Is Not More"
-msgstr ""
+msgstr "Dommage relatif — Ou, quand moins n'est pas plus"
 
 #: content/be4foss-handbook/handbook_web.md:85
 msgid ""
@@ -831,7 +825,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:145
 msgid "“The Very Contrary Is The Truth”: Jevons’ Paradox"
-msgstr ""
+msgstr "« Le Très Contraire Est La Vérité » : Le Paradoxe de Jevons"
 
 #: content/be4foss-handbook/handbook_web.md:147
 msgid ""
@@ -1390,7 +1384,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:266
 msgid "Okular, The First Eco-Certified Computer Program"
-msgstr ""
+msgstr "Okular, le premier logiciel certifié éco-certifié"
 
 #: content/be4foss-handbook/handbook_web.md:268
 msgid ""
@@ -2083,10 +2077,10 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:413
-#, fuzzy
-#| msgid "Standard Usage Scenarios"
 msgid "Preparing The Standard Usage Scenario (SUS)"
-msgstr "Scénarios d'usage standard"
+msgstr ""
+"Préparation d'un scénarios d'utilisation standard (SUS, Standard Usage "
+"Scenario)"
 
 #: content/be4foss-handbook/handbook_web.md:415
 msgid "Preparing the SUS requires the following:"
@@ -2286,6 +2280,7 @@ msgstr "`-s cdmn`"
 #: content/be4foss-handbook/handbook_web.md:474
 msgid "collect CPU, Disk, memory, and network data"
 msgstr ""
+"collecter des données sur le processeur, le disque, la mémoire et le réseau"
 
 #: content/be4foss-handbook/handbook_web.md:476
 msgid "`-i1`"
@@ -2383,7 +2378,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:512
 msgid "Redirect the power meter output to a CSV file."
-msgstr ""
+msgstr "Redirigez la sortie du wattmètre vers un fichier au format « CSV »."
 
 #: content/be4foss-handbook/handbook_web.md:514
 msgid ""
@@ -2429,7 +2424,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:530
 msgid "[Running instance](https://oscar.umwelt-campus.de/)"
-msgstr ""
+msgstr "[Instance en cours d'exécution](https://oscar.umwelt-campus.de/)"
 
 #: content/be4foss-handbook/handbook_web.md:532
 msgid ""
@@ -2850,7 +2845,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:625
 msgid "Remove all information above the header row."
-msgstr ""
+msgstr "Supprimez toutes les informations au-dessus de la ligne d'en-tête."
 
 #: content/be4foss-handbook/handbook_web.md:627
 msgid "Remove all \\# characters from the file."
@@ -2900,7 +2895,7 @@ msgstr "[NET]RxKBTot = Réseau - Kilooctets reçus / s"
 
 #: content/be4foss-handbook/handbook_web.md:642
 msgid "[NET]TxKBTot = Network - Kilobytes transmitted/s"
-msgstr ""
+msgstr "[NET]TxKBTot = Réseau - Kilooctets transmis / s"
 
 #: content/be4foss-handbook/handbook_web.md:643
 msgid "[DSK]ReadKBTot = Disk - Kilobytes read/s"
@@ -2910,7 +2905,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:644
 msgid "[DSK]WriteKBTot = Disk - kilobytes written/s."
-msgstr ""
+msgstr "[DSK]WriteKBTot = Disque - Kilo-octets écrits / s."
 
 #: content/be4foss-handbook/handbook_web.md:646
 msgid ""
@@ -3337,7 +3332,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:759
 msgid "*Zeitstempel*: Datetime (i.e., ‘Date-Time’)"
-msgstr ""
+msgstr "*Zeitstempel* : horodatage (C'est-à-dire « Date-Heure »)"
 
 #: content/be4foss-handbook/handbook_web.md:760
 msgid "*CPU-Auslastung*: CPU (i.e., ‘X.CPU.Totl’)"
@@ -3345,7 +3340,7 @@ msgstr "*CPU-Auslastung* : processeur (C'est-à-dire « X.CPU.Totl »)"
 
 #: content/be4foss-handbook/handbook_web.md:761
 msgid "*RAM-Auslastung*: RAM (i.e., ‘X.MEM.Used’)"
-msgstr ""
+msgstr "*RAM-Auslastung* : mémoire RAM (C’est-à-dire, « X.MEM.Used »)"
 
 #: content/be4foss-handbook/handbook_web.md:762
 msgid "*Über Netzwerk gesendet*: Network transmitted (i.e., ‘X.NET.TxKBTot’)"
@@ -3385,7 +3380,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:774
 msgid "*Messungen*: Measurements (e.g., Idle Mode or SUS)"
-msgstr ""
+msgstr "*Messungen* : mesures (Par exemple, mode de veille ou SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:775
 msgid "*Aktionen*: Actions (i.e., log file of actions taken)"
@@ -3419,7 +3414,7 @@ msgstr "*Leerlauf* : « Inactif » (C'est-à-dire, mode inactif)"
 
 #: content/be4foss-handbook/handbook_web.md:781
 msgid "*Nutzungsszenario*: ‘Usage scenario’ (i.e., SUS)"
-msgstr ""
+msgstr "*Nutzungsszenario* : « Scénario d'utilisation » (C'est-à-dire SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:783
 msgid "*Formatierung Messdaten*: ‘Formatting measurement data’"
@@ -3439,7 +3434,7 @@ msgstr "*Textqualifizierer* : ‘Délimiteur de chaines’"
 
 #: content/be4foss-handbook/handbook_web.md:788
 msgid "*Dezimaltrennzeichen*: ‘Decimal separator’"
-msgstr ""
+msgstr "*Dezimaltrennzeichen* : « Séparateur décimal »"
 
 #: content/be4foss-handbook/handbook_web.md:789
 msgid "*Erste Zeile enthält Überschriften*: ‘First line contains headings’"
@@ -3471,7 +3466,7 @@ msgstr "*RAM-Auslastung* : « Utilisation de la mémoire RAM »"
 
 #: content/be4foss-handbook/handbook_web.md:797
 msgid "*Über Netzwerk gesendet*: ‘Sent via network’"
-msgstr ""
+msgstr "*Über Netzwerk gesendet*: « Envoyé via le réseau »"
 
 #: content/be4foss-handbook/handbook_web.md:798
 msgid "*Über Netzwerk empfangen*: ‘Received via network’"
@@ -3479,11 +3474,11 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:799
 msgid "*Von Festplatte gelesen*: ‘Read from disk’"
-msgstr ""
+msgstr "*Von Festplatte gelesen* : « Lu depuis le disque »"
 
 #: content/be4foss-handbook/handbook_web.md:800
 msgid "*Auf Festplatte geschrieben*: ‘Written to disk’"
-msgstr ""
+msgstr "*Auf Festplatte geschrieben* : « Écrit sur le disque »"
 
 #: content/be4foss-handbook/handbook_web.md:801
 msgid "*Auslastung Auslagerungsdatei*: ‘Swap file utlization’"
@@ -3491,7 +3486,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:803
 msgid "Step 3: Generating The Reports (Idle, SUS)"
-msgstr ""
+msgstr "Étape 3 : génération des rapports (Inactif, SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:805
 msgid ""
@@ -3541,7 +3536,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:816
 msgid "Preparing The Documentation For Blue Angel"
-msgstr ""
+msgstr "Préparation de la documentation pour le label « Blue Angel »"
 
 #: content/be4foss-handbook/handbook_web.md:818
 msgid ""
@@ -3624,6 +3619,7 @@ msgstr "*Charge nette* : charge « IDLE / SUS » - Charge standard"
 #: content/be4foss-handbook/handbook_web.md:841
 msgid "*Allocation Factor*: Net Load/(Full Load - Base Load)"
 msgstr ""
+"*Facteur d'allocation* : charge nette / (charge maximale - charge à vide)"
 
 #: content/be4foss-handbook/handbook_web.md:842
 msgid "*Effective Load*: Net Load + Allocation Factor * Base Load"
@@ -3768,7 +3764,7 @@ msgstr "(3) *Configuration de Tasmota*"
 #: content/be4foss-handbook/handbook_web.md:892
 #: content/be4foss-handbook/handbook_web.md:918
 msgid "Open the address from step (2) in a browser."
-msgstr ""
+msgstr "Ouvrez l'adresse de l'étape (2) dans un navigateur."
 
 #: content/be4foss-handbook/handbook_web.md:894
 msgid ""
@@ -3803,7 +3799,7 @@ msgstr "Cliquer sur « Enregistrer »."
 
 #: content/be4foss-handbook/handbook_web.md:912
 msgid "The device will restart; connect to it again."
-msgstr ""
+msgstr "L'appareil va redémarrer. Reconnectez-vous à lui."
 
 #: content/be4foss-handbook/handbook_web.md:914
 msgid ""
@@ -3823,7 +3819,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:922
 msgid "Switch on power by clicking “Toggle” if needed."
-msgstr ""
+msgstr "Allumez l'alimentation en cliquant sur « Basculer » si nécessaire."
 
 #: content/be4foss-handbook/handbook_web.md:924
 msgid ""
@@ -4074,7 +4070,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1017
 msgid "*Reference System Year* &mdash; e.g., 2015"
-msgstr ""
+msgstr "*Année du système de référence* — Par exemple, 2015"
 
 #: content/be4foss-handbook/handbook_web.md:1019
 msgid "*Model* &mdash; e.g., Fujitsu Esprimo 920"
@@ -4098,7 +4094,7 @@ msgstr "*RAM* &mdash; par exemple, 4 Go"
 
 #: content/be4foss-handbook/handbook_web.md:1029
 msgid "*Hard Disk (SSD/HDD)* &mdash; e.g., 500 GB"
-msgstr ""
+msgstr "*Disque dur (SSD / HDD)* — Par exemple, 500 Go"
 
 #: content/be4foss-handbook/handbook_web.md:1031
 msgid "*Graphics Card* &mdash; e.g., Intel Ivybridge Desktop"
@@ -4114,7 +4110,7 @@ msgstr "*Cache* &mdash; par exemple, 6144 Ko"
 
 #: content/be4foss-handbook/handbook_web.md:1037
 msgid "*Mainboard* &mdash; e.g., Fujitsu D3171-A1"
-msgstr ""
+msgstr "*Carte mère* — Par exemple, Fujitsu D3171-A1"
 
 #: content/be4foss-handbook/handbook_web.md:1039
 msgid "*Operating System* &mdash; e.g., Ubuntu 18.04"
@@ -4236,7 +4232,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1084
 msgid "[Source code](https://invent.kde.org/pim/kmail)"
-msgstr ""
+msgstr "[Code Source](https://invent.kde.org/pim/kmail)"
 
 #: content/be4foss-handbook/handbook_web.md:1086
 msgid "[License](https://invent.kde.org/pim/kmail/-/blob/master/LICENSES)"
@@ -4269,7 +4265,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1099
 msgid "Statement that updates are free of charge."
-msgstr ""
+msgstr "Déclaration selon laquelle les mises à jour sont gratuites."
 
 #: content/be4foss-handbook/handbook_web.md:1101
 msgid ""
@@ -4428,7 +4424,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1155
 msgid "Who supports the development of the software?"
-msgstr ""
+msgstr "Qui soutient le développement des logiciels ?"
 
 #: content/be4foss-handbook/handbook_web.md:1157
 msgid ""
@@ -7977,14 +7973,10 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/index.md:81
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid "**The most environmentally-friendly device is …**"
 msgstr ""
-"Notre devise : **Le périphérique le plus respectueux de l'environnement est "
-"celui que vous possédez déjà.**"
+"**Le périphérique le plus respectueux de l'environnement est...** celui que "
+"vous possédez déjà"
 
 #: content/opt-green-handbook/index.md:83
 msgid "Think about it for a minute."
@@ -8310,7 +8302,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:135
 msgid "Embodied Harm&mdash;Before A Device Is Ever Used"
-msgstr ""
+msgstr "Dommage intégré — Avant qu’un périphérique ne soit utilisé"
 
 #: content/opt-green-handbook/index.md:137
 msgid ""
@@ -8731,10 +8723,8 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/index.md:216
-#, fuzzy
-#| msgid "Install Free & Open Source Software"
 msgid "What Is Free & Open Source Software (FOSS)?"
-msgstr "Installer des logiciels libres et « Open source »"
+msgstr "Qu'est-ce que des logiciels libres et « Open source » (FOSS) ?"
 
 #: content/opt-green-handbook/index.md:218
 msgid ""
@@ -8852,10 +8842,11 @@ msgstr ""
 #: content/opt-green-handbook/index.md:245
 msgid "Wait a minute, what is source code, you wonder?"
 msgstr ""
+"Attendez une minute. Qu'est-ce que le code source, vous demandez-vous ?"
 
 #: content/opt-green-handbook/index.md:247
 msgid "Actually, what is software for that matter?"
-msgstr ""
+msgstr "Au fait, qu’est-ce qu’un logiciel ?"
 
 #: content/opt-green-handbook/index.md:249
 msgid ""
@@ -9076,6 +9067,8 @@ msgstr ""
 #: content/opt-green-handbook/index.md:307
 msgid "FOSS Isn't Made For Only The Latest And Greatest"
 msgstr ""
+"Les logiciels « FOSS » ne sont pas conçus uniquement pour les dernières et "
+"les plus importantes nouveautés"
 
 #: content/opt-green-handbook/index.md:309
 msgid ""
@@ -9244,7 +9237,7 @@ msgstr "1 Go"
 
 #: content/opt-green-handbook/index.md:328
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
-msgstr ""
+msgstr "[Haiku](https://www.haiku-os.org/about/faq/)(BeOS)"
 
 #: content/opt-green-handbook/index.md:328
 msgid "384 MiB"
@@ -9470,7 +9463,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:366
 msgid "\"Anyone can modify the application I am using.\""
-msgstr ""
+msgstr "« N'importe qui peut modifier l'application que j'utilise. »"
 
 #: content/opt-green-handbook/index.md:367
 msgid "\"You never know where the software came from.\""
@@ -9482,7 +9475,7 @@ msgstr "« Les logiciels FOSS sont moins sécurisés »."
 
 #: content/opt-green-handbook/index.md:369
 msgid "\"I need to be a developer to benefit from FOSS.\""
-msgstr ""
+msgstr "« Je dois être développeur pour profiter des logiciels libres. »"
 
 #: content/opt-green-handbook/index.md:370
 msgid "\"FOSS is free of cost because it is developed by volunteers.\""
@@ -9979,7 +9972,7 @@ msgstr "La devise de KDE Plasma est :"
 
 #: content/opt-green-handbook/index.md:474
 msgid "\"Simple by default, powerful when needed.\""
-msgstr ""
+msgstr "« Simple par défaut, puissant lorsque nécessaire. »"
 
 #: content/opt-green-handbook/index.md:476
 msgid ""
@@ -10123,7 +10116,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:509
 msgid "[End Of 10](https://endof10.org) directory"
-msgstr ""
+msgstr "Dossier [Fin de Windows 10](https://endof10.org)"
 
 #: content/opt-green-handbook/index.md:510
 msgid "[Repair Café International](https://www.repaircafe.org/en/visit/)"
@@ -10221,6 +10214,8 @@ msgstr ""
 #: content/opt-green-handbook/index.md:533
 msgid "Why A New User Decides (Not) To Install A FOSS OS"
 msgstr ""
+"Pourquoi un nouvel utilisateur décide (ou pas) d'installer un système "
+"d'exploitation « FOSS »"
 
 #: content/opt-green-handbook/index.md:535
 msgid ""
@@ -10240,6 +10235,7 @@ msgstr ""
 #: content/opt-green-handbook/index.md:539
 msgid "They don't know FOSS operating systems even exist."
 msgstr ""
+"Ils ne savent même pas que les systèmes d'exploitation « FOSS » existent."
 
 #: content/opt-green-handbook/index.md:540
 msgid "They believe FOSS won't meet their needs."
@@ -10257,7 +10253,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:543
 msgid "They've heard that many things won't work."
-msgstr ""
+msgstr "Ils ont entendu dire que beaucoup de choses ne fonctionneraient pas."
 
 #: content/opt-green-handbook/index.md:544
 msgid "They fear they won't have support when problems arise."
@@ -10265,7 +10261,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:545
 msgid "They don't know anyone else who uses FOSS."
-msgstr ""
+msgstr "Ils ne connaissent personne d'autre utilisant des logiciels libres."
 
 #: content/opt-green-handbook/index.md:547
 msgid ""
@@ -10493,6 +10489,7 @@ msgstr ""
 #: content/opt-green-handbook/index.md:585
 msgid "Securing User Data: Before Or During The Event?"
 msgstr ""
+"Sécuriser les données des utilisateurs : avant ou pendant l’événement ?"
 
 #: content/opt-green-handbook/index.md:587
 msgid ""
@@ -10674,6 +10671,8 @@ msgstr "Aucun contrat n'est en cours d'établissement."
 #: content/opt-green-handbook/index.md:629
 msgid "Devices and data can break when you touch them."
 msgstr ""
+"Les périphériques et les données peuvent s'altérer lorsque vous les "
+"manipulez."
 
 #: content/opt-green-handbook/index.md:630
 msgid ""
@@ -11034,7 +11033,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:717
 msgid "Android derivatives: Replicant, lineageOS, e/OS"
-msgstr ""
+msgstr "Dérivés Android : Replicant, lineageOS, e / OS"
 
 #: content/opt-green-handbook/index.md:718
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
