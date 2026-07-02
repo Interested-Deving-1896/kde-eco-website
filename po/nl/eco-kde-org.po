@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-06-30 14:10+0200\n"
+"PO-Revision-Date: 2026-07-01 14:20+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -2719,20 +2719,25 @@ msgid ""
 "Mai (2021): “*Vergleichende Analyse und Bewertung von Betriebssystemen "
 "hinsichtlich ihrer Energieeffizienz*” (German only)"
 msgstr ""
+"Mei (2021): “*Vergleichende Analyse und Bewertung von Betriebssystemen "
+"hinsichtlich ihrer Energieeffizienz*” (alleen Duits)"
 
 #: content/be4foss-handbook/handbook_web.md:359
 msgid ""
 "[“*OSCAR Manual*”](https://gitlab.umwelt-campus.de/y.becker/oscar-public/"
 "blob/master/OSCAR/static/OSCAR_Gesamt.pdf) (German only)"
 msgstr ""
+"[“*OSCAR Manual*”](https://gitlab.umwelt-campus.de/y.becker/oscar-public/"
+"blob/master/OSCAR/static/OSCAR_Gesamt.pdf) (alleen Duits)"
 
 #: content/be4foss-handbook/handbook_web.md:361
 msgid "Overview Of Laboratory Setup"
-msgstr ""
+msgstr "Overzicht van de laboratoriumopstelling"
 
 #: content/be4foss-handbook/handbook_web.md:363
 msgid "The laboratory setup requires 1 power meter and at least 2 computers:"
 msgstr ""
+"De laboratoriumopstelling vereist 1 vermogensmeter en ten minste 2 computers:"
 
 #: content/be4foss-handbook/handbook_web.md:365
 msgid "*Power Meter*"
@@ -2750,16 +2755,28 @@ msgid ""
 "EPC_HTTP_Interface), and the device supports various protocols such as SNMP "
 "or syslog."
 msgstr ""
+"Een van de apparaten die door de Blauwe Engel (Blue Angel) worden "
+"aanbevolen, is de [Gude Expert Power Control 1202-serie](https://www.gude."
+"info/en/power-distribution/switched-metered-pdu/expert-power-control-1202-"
+"series.html) ([handleiding](https://gude-systems.com/app/uploads/2022/05/"
+"manual-epc1202-series.pdf)). Het apparaat biedt aansluitingen voor de "
+"stroomvoorziening van de computer en meet de stroom tijdens het gebruik. Het "
+"kan worden aangestuurd en uitgelezen via een bedrade Ethernet-verbinding. Er "
+"is een webgebaseerde gebruikersinterface en een [REST API](http://wiki.gude."
+"info/EPC_HTTP_Interface) beschikbaar, en het apparaat ondersteunt diverse "
+"protocollen zoals SNMP of syslog."
 
 #: content/be4foss-handbook/handbook_web.md:369
 msgid "*Computer 1: Data Aggregator & Evaluator*"
-msgstr ""
+msgstr "*Computer 1: Data-aggregator & evaluator*"
 
 #: content/be4foss-handbook/handbook_web.md:371
 msgid ""
 "The computer will be used for collecting and evaluating results from the "
 "power meter."
 msgstr ""
+"De computer zal worden gebruikt voor het verzamelen en evalueren van de "
+"resultaten van de vermogensmeter."
 
 #: content/be4foss-handbook/handbook_web.md:373
 msgid ""
@@ -2767,6 +2784,9 @@ msgid ""
 "Series is available at the [FEEP repository](https://invent.kde.org/teams/"
 "eco/feep/-/tree/master/tools/GUDEPowerMeter)."
 msgstr ""
+"Een Python-script om de gegevens van de Gude Expert Power Control 1202-serie "
+"uit te lezen, is beschikbaar in de [FEEP-repository](https://invent.kde.org/"
+"teams/eco/feep/-/tree/master/tools/GUDEPowerMeter)."
 
 #: content/be4foss-handbook/handbook_web.md:375
 msgid ""
@@ -2775,6 +2795,10 @@ msgid ""
 "[Labplot](https://apps.kde.org/labplot2/), for instance; read more [here]"
 "(#sec:labplot)."
 msgstr ""
+"Het wordt aanbevolen om de voortgang live te volgen met de tweede computer, "
+"om er zeker van te zijn dat alles soepel verloopt. Dit kan bijvoorbeeld met "
+"KDE's [Labplot](https://apps.kde.org/labplot2/); lees hier meer over [hier]"
+"(#sec:labplot)."
 
 #: content/be4foss-handbook/handbook_web.md:377
 msgid ""
@@ -2782,14 +2806,17 @@ msgid ""
 "Power Grid Monitoring Software](https://www.gridvis.com/gridvis-overview."
 "html)."
 msgstr ""
+"Voor andere vermogensmeters is mogelijk niet-vrije software vereist, zoals "
+"Janitza's [GridVis Power Grid Monitoring Software](https://www.gridvis.com/"
+"gridvis-overview.html)."
 
 #: content/be4foss-handbook/handbook_web.md:379
 msgid "![Screenshot of the Gude Power Meter.](images/sec3_gude-pm.jpg)"
-msgstr ""
+msgstr "![Schermafdruk van de Gude Power Meter.](images/sec3_gude-pm.jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:381
 msgid "*Computer 2: System Under Test*"
-msgstr ""
+msgstr "*Computer 2: Systeem onder test*"
 
 #: content/be4foss-handbook/handbook_web.md:383
 msgid ""
@@ -2799,6 +2826,12 @@ msgid ""
 "the standard usage scenario[^2] and (iii) collecting the hardware "
 "performance results."
 msgstr ""
+"Het referentiesysteem is de hardware die wordt gebruikt om het "
+"energieverbruik van het \"te testen systeem\" (SUT) te meten. Het SUT omvat "
+"het besturingssysteem en de software die zijn geïnstalleerd voor (i) het "
+"testen van het softwareproduct, (ii) het emuleren van het "
+"standaardgebruiksscenario[^2] en (iii) het verzamelen van de resultaten met "
+"betrekking tot de hardwareprestaties."
 
 #: content/be4foss-handbook/handbook_web.md:385
 msgid ""
@@ -2808,10 +2841,16 @@ msgid ""
 "generator can be [found at the FEEP repository](https://invent.kde.org/teams/"
 "eco/feep/-/tree/master/tools/arduino-board_external-workload-generator.md)."
 msgstr ""
+"[^2]: Het is mogelijk om een ​​opstelling met drie computers te gebruiken, "
+"waarbij de emulatie van het standaardgebruiksscenario wordt gegenereerd op "
+"een computer die losstaat van het SUT; zie Kern et al. (2018). Details over "
+"een dergelijke opstelling met een externe workloadgenerator zijn te vinden "
+"in de [FEEP-repository](https://invent.kde.org/teams/eco/feep/-/tree/master/"
+"tools/arduino-board_external-workload-generator.md)."
 
 #: content/be4foss-handbook/handbook_web.md:387
 msgid "Note the following:"
-msgstr ""
+msgstr "Let op het volgende:"
 
 #: content/be4foss-handbook/handbook_web.md:389
 msgid ""
@@ -2819,6 +2858,10 @@ msgid ""
 "blauer-engel.de/en/productworld/resources-and-energy-efficient-software-"
 "products) require one of several Fujitsu computers as the reference system."
 msgstr ""
+"Voor GNU/Linux-systemen vereisen de [Blue Angel-criteria (sectie 1.1)]"
+"(https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-"
+"software-products) een van de diverse Fujitsu-computers als "
+"referentiesysteem."
 
 #: content/be4foss-handbook/handbook_web.md:391
 msgid ""
@@ -2828,6 +2871,12 @@ msgid ""
 "feep/-/tree/master/tools/KdeEcoTest), or [`Actiona`](https://wiki.actiona."
 "tools/doku.php?id=en:start) (GPLv3) can be used."
 msgstr ""
+"Voor het simuleren van activiteit in het standaardgebruiksscenario kunnen "
+"tools voor taakautomatisering uit de wereld van vrije software worden "
+"gebruikt, zoals [`xdotool`](https://github.com/jordansissel/xdotool), [`KDE "
+"Eco Tester` (in ontwikkeling)](https://invent.kde.org/teams/eco/feep/-/tree/"
+"master/tools/KdeEcoTest) of [`Actiona`](https://wiki.actiona.tools/doku.php?"
+"id=en:start) (GPLv3)."
 
 #: content/be4foss-handbook/handbook_web.md:393
 msgid ""
@@ -2836,6 +2885,10 @@ msgid ""
 "[`Collectl`](https://sourceforge.net/projects/collectl/) (GPLv2/Artistic "
 "License) is available."
 msgstr ""
+"Voor het verzamelen van hardwareprestatiegegevens (bijv. processor- en RAM-"
+"gebruik, hardeschijfactiviteit, netwerkverkeer) is de vrije-softwaretool "
+"[`Collectl`](https://sourceforge.net/projects/collectl/) (GPLv2/Artistic "
+"License) beschikbaar."
 
 #: content/be4foss-handbook/handbook_web.md:395
 msgid ""
@@ -2844,6 +2897,10 @@ msgid ""
 "tools.html); see Section [“Alternative: Gosund SP111 Setup”](#sec:gosundPM) "
 "for set up instructions."
 msgstr ""
+"Het is ook mogelijk om [goedkope schakelbare stopcontacten om te bouwen tot "
+"meetapparatuur](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
+"measurement-tools.html); zie sectie [“Alternatief: Gosund SP111-"
+"configuratie”](#sec:gosundPM) voor instructies over de installatie."
 
 #: content/be4foss-handbook/handbook_web.md:397
 msgid ""
@@ -2860,7 +2917,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:399
 msgid "System Under Test (SUT)"
-msgstr ""
+msgstr "Systeem onder test (SUT)"
 
 #: content/be4foss-handbook/handbook_web.md:401
 msgid ""
@@ -2869,6 +2926,10 @@ msgid ""
 "systems; see Appendix D in the award criteria for other recommended Fujitsu "
 "systems."
 msgstr ""
+"De Fujitsu Esprimo P920 Desktop-PC proGreen-selectie (Intel Core i5-4570 3,6 "
+"GHz, 4 GB RAM, 500 GB HDD) is bijvoorbeeld een van de aanbevolen "
+"referentiesystemen; zie bijlage D bij de gunningscriteria voor andere "
+"aanbevolen Fujitsu-systemen."
 
 #: content/be4foss-handbook/handbook_web.md:403
 msgid ""
@@ -2877,16 +2938,24 @@ msgid ""
 "consumption and have a standardized configuration. Recommended is the "
 "following:"
 msgstr ""
+"Op het referentiesysteem moet u het SUT (System Under Test) inrichten, "
+"oftewel het systeem waarop u de software gaat testen. Het SUT moet een "
+"minimaal, niet-relevant energieverbruik hebben en over een "
+"gestandaardiseerde configuratie beschikken. Het volgende wordt aanbevolen:"
 
 #: content/be4foss-handbook/handbook_web.md:405
 msgid "Overwrite the entire hard drive of the machine with a standardized OS."
 msgstr ""
+"Overschrijf de volledige harde schijf van de machine met een "
+"gestandaardiseerd besturingssysteem."
 
 #: content/be4foss-handbook/handbook_web.md:407
 msgid ""
 "Deactivate all possible background processes (automatic updates, backups, "
 "indexing, etc.)."
 msgstr ""
+"Schakel alle mogelijke achtergrondprocessen uit (automatische updates, back-"
+"ups, indexering, enz.)."
 
 #: content/be4foss-handbook/handbook_web.md:409
 msgid ""
@@ -2894,6 +2963,9 @@ msgid ""
 "as the user emulation (e.g., `xdotool`) and hardware performance data (e.g., "
 "`Collectl`) software."
 msgstr ""
+"Installeer de benodigde software, d.w.z. de te meten applicatie, evenals de "
+"software voor gebruikers-emulatie (bijv. `xdotool`) en voor hardware-"
+"prestatiegegevens (bijv. `Collectl`)."
 
 #: content/be4foss-handbook/handbook_web.md:411
 msgid ""
