@@ -1,11 +1,12 @@
 #
 # SPDX-FileCopyrightText: 2021-2026 Freek de Kruijf <freekdekruijf@kde.nl>
+# SPDX-FileCopyrightText: 2026 Joep Truijens <joep.truijens@hermesmail.nl>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-07-01 14:20+0200\n"
+"PO-Revision-Date: 2026-07-03 10:51+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -1474,7 +1475,7 @@ msgid ""
 "households."
 msgstr ""
 "Ten derde is het hopelijk inmiddels duidelijk dat software wel degelijk een "
-"aanzienlijke impact heeft op het energieverbruik en de afvalproductie, wat "
+"aanzienlijke *impact heeft* op het energieverbruik en de afvalproductie, wat "
 "beide gevolgen heeft voor het milieu. Bovendien kunnen minimale aanpassingen "
 "in het softwareontwerp, op grote schaal bekeken, leiden tot besparingen die "
 "vergelijkbaar zijn met het jaarlijkse energieverbruik van complete steden. "
@@ -1733,9 +1734,9 @@ msgstr ""
 "De Blauwe Engel, geïntroduceerd in 1978, is het eerste milieukeurmerk ter "
 "wereld en het officiële milieukeurmerk dat door de Duitse overheid wordt "
 "toegekend. Het keurmerk wordt beheerd door het Duitse federale ministerie "
-"voor Milieu, Natuurbehoud, Kernveiligheid en Consumentenbescherming "
-"(Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und "
-"Verbraucherschutz, of BMUV). Het Blauwe Engel-keurmerk is ook lid van het "
+"voor Milieu, Natuurbehoud, Kernveiligheid en Consumentenbescherming (Duits: "
+"*Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und "
+"Verbraucherschutz*, of BMUV). Het Blauwe Engel-keurmerk is ook lid van het "
 "Global Ecolabelling Network (GEN), een internationaal netwerk van Type I-"
 "milieukeurmerken dat op het moment van schrijven 37 leden telt in bijna 60 "
 "landen."
@@ -1825,7 +1826,7 @@ msgstr ""
 "Belangrijk is dat de Blauwe Engel niet garandeert dat een product volledig "
 "onschadelijk is. Gecertificeerde producten vertegenwoordigen een \"minder "
 "kwaad\" met betrekking tot milieuschade – dit kan worden samengevat met het "
-"motto 'zo min mogelijk, zo veel als nodig'. In plaats van verschillende "
+"motto *zo min mogelijk, zo veel als nodig*. In plaats van verschillende "
 "producten met elkaar te vergelijken, geeft het Blauwe Engel-ecolabel aan dat "
 "een product voldoet aan een lijst met eisen voor een specifieke categorie."
 
@@ -2185,9 +2186,9 @@ msgid ""
 "**S**oftware **C**onsumption **A**nalysis in **R**).](images/sec2_okular-"
 "energy-consumption.png)"
 msgstr ""
-"![Het energieverbruiksrapport van Okular van OSCAR (**Open source **Software "
-"**C**onsumption **A**analysis in **R**).](images/sec2_okular-energy-"
-"consumption.png)"
+"![Het energieverbruiksrapport van Okular van OSCAR (**O**pen source "
+"**S**oftware **C**onsumption **A**analysis in **R**).](images/sec2_okular-"
+"energy-consumption.png)"
 
 #: content/be4foss-handbook/handbook_web.md:270
 msgid ""
@@ -2646,7 +2647,7 @@ msgid ""
 "**End-User Information**: Highlight to your users the ways your software is "
 "already sustainably designed by using the Blue Angel criteria as a benchmark."
 msgstr ""
-"*Informatie voor eindgebruikers**: wijs uw gebruikers op de manieren waarop "
+"**Informatie voor eindgebruikers**: wijs uw gebruikers op de manieren waarop "
 "uw software al duurzaam is ontworpen, door de criteria van de 'Blauwe "
 "Engel' (Blue Angel) als maatstaf te gebruiken."
 
@@ -2972,6 +2973,8 @@ msgid ""
 "When running the usage scenario scripts, the cache should be cleared between "
 "runs and any new files deleted before starting the next measurement."
 msgstr ""
+"Wanneer de scenarioscripts worden uitgevoerd, moet de cache worden geleegd "
+"en nieuwe bestanden dienen verwijderd te worden vóór de nieuwe meting."
 
 #: content/be4foss-handbook/handbook_web.md:413
 msgid "Preparing The Standard Usage Scenario (SUS)"
@@ -2979,35 +2982,42 @@ msgstr "Voorbereiden van het standaard scenario's voor gebruik (SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:415
 msgid "Preparing the SUS requires the following:"
-msgstr ""
+msgstr "Het voorbereiden van de SUS vereist:"
 
 #: content/be4foss-handbook/handbook_web.md:417
 msgid ""
 "Identifying tasks users typically carry out when using the application under "
 "consideration."
 msgstr ""
+"Het  identificeren van de taken die gebruikers bij normaal gebruik uitvoeren."
 
 #: content/be4foss-handbook/handbook_web.md:419
 msgid ""
 "Identifying functionalities which require high energy demand or high "
 "resource utilization."
 msgstr ""
+"Het herkennen van functionaliteiten die leiden tot veel energie- of "
+"systeembronnenverbruik."
 
 #: content/be4foss-handbook/handbook_web.md:421
 msgid ""
 "Based on the above, scheduling a flow chart of individual actions and "
 "emulating these actions with a task automation tool."
 msgstr ""
+"Op basis van het bovenstaande wordt een stroomschema van acties opgesteld en "
+"worden deze acties nagebootst met een tool voor taaktautomatisering."
 
 #: content/be4foss-handbook/handbook_web.md:423
 msgid ""
 "Scheduling a wait-period of 60 seconds before starting the measurement is "
 "recommended."
 msgstr ""
+"Het is aanbevolen om een wacht-periode van 60 seconden in te plannen vooraf "
+"aan het starten van de metingen."
 
 #: content/be4foss-handbook/handbook_web.md:425
 msgid "Running the SUS for at least 5 minutes."
-msgstr ""
+msgstr "De SUS voor ten minste 5 minuten uitvoeren."
 
 #: content/be4foss-handbook/handbook_web.md:427
 msgid ""
@@ -3027,6 +3037,9 @@ msgid ""
 "human intervention. In this way the script can be run repeatedly in a well-"
 "defined manner to provide accurate measurements."
 msgstr ""
+"Een hulpmiddel voor automatisering is nodig om de scenario's uit te voeren "
+"zodat menselijke interactie niet nodig is. Zo kan het script herhaaldelijk "
+"worden uitgevoerd op duidelijke wijze om betrouwbare resultaten te krijgen."
 
 #: content/be4foss-handbook/handbook_web.md:431
 msgid ""
@@ -3037,6 +3050,12 @@ msgid ""
 "org/teams/eco/feep/-/tree/master/measurements) used to test Krita and Okular "
 "for further examples."
 msgstr ""
+"Voorbeeldtaken en functies getest in de SUS voor KMail [`KMail`](https://"
+"apps.kde.org/kmail2/) omvatten het zoeken naar een e-mail, het schrijven van "
+"een mail, het doorsturen van een mail, een bijlage opslaan, een map "
+"verwijderen, etc. Zie de [Actiona scripts](https://invent.kde.org/teams/eco/"
+"feep/-/tree/master/measurements) gebruikt om Krita en Okular te testen, voor "
+"extra voorbeelden."
 
 #: content/be4foss-handbook/handbook_web.md:433
 msgid ""
@@ -3046,6 +3065,11 @@ msgid ""
 "laboratory computer, all pixel coordinates will have to be reset for the "
 "laboratory environment."
 msgstr ""
+"Belangrijk: Als de emulatiehulpmiddelen pixelcoördinaten gebruikt om de "
+"positie van de geautomatiseerde klikken op te slaan (bijvoorbeeld `Actiona`) "
+"en bovendien de schermresolutie van de computer die bij de voorbereiding is "
+"gebruikt, afwijkt van die van de laboratoriumcomputer, moeten alle "
+"pixelcoördinaten opnieuw worden ingesteld voor de laboratoriumomgeving."
 
 #: content/be4foss-handbook/handbook_web.md:435
 msgid "More Emulation Tools"
@@ -3063,6 +3087,15 @@ msgid ""
 "X11-specific features, and thus do not work on Wayland systems. There are a "
 "few possible approaches here:"
 msgstr ""
+"Behalve [`xdotool`](https://github.com/jordansissel/xdotool), [`KDE Eco "
+"Tester` (in ontwikkeling)](https://invent.kde.org/teams/eco/feep/-/tree/"
+"master/tools/KdeEcoTest), of [`Actiona`](https://github.com/Jmgr/actiona), "
+"er zijn andere hulpmiddelen die mogelijk voldoen aan de vereisten. Zie een "
+"lijst van KDE Contributor David Hurka in de presentatie [“*Visual Workflow "
+"Automation Tools*”](https://invent.kde.org/teams/eco/feep/-/tree/master/"
+"tools/presentation_Visual_Workflow_Automation_Tools). De meeste hulpmiddelen "
+"gebruiken X11-specifieke functies, en werken niet op Wayland-systemen. Er "
+"zijn een paar mogelijke aanpakken in dit geval:"
 
 #: content/be4foss-handbook/handbook_web.md:439
 msgid ""
@@ -3070,36 +3103,46 @@ msgid ""
 "webdriver-at-spi) (currently in testing for [Season of KDE 2023](https://dot."
 "kde.org/2023/01/23/season-kde-2023-mentees-and-projects))"
 msgstr ""
+"[Selenium Webdriver AT-SPI worden gebruikt](https://invent.kde.org/sdk/"
+"selenium-webdriver-at-spi) (wordt getest voor [Season of KDE 2023](https://"
+"dot.kde.org/2023/01/23/season-kde-2023-mentees-and-projects))"
 
 #: content/be4foss-handbook/handbook_web.md:441
 msgid ""
 "[The XDG RemoteDesktop portal](https://docs.flatpak.org/en/latest/portal-api-"
 "reference.html#gdbus-org.freedesktop.portal.RemoteDesktop)"
 msgstr ""
+"[Het XDG RemoteDesktop portaal](https://docs.flatpak.org/en/latest/portal-"
+"api-reference.html#gdbus-org.freedesktop.portal.RemoteDesktop)"
 
 #: content/be4foss-handbook/handbook_web.md:443
 msgid "Various Wayland protocols (support varies between compositors):"
 msgstr ""
+"Diverse Wayland-protocollen (de ondersteuning verschilt per compositor):"
 
 #: content/be4foss-handbook/handbook_web.md:444
 msgid ""
 "<https://github.com/swaywm/wlr-protocols/blob/master/unstable/wlr-virtual-"
 "pointer-unstable-v1.xml>"
 msgstr ""
+"<https://github.com/swaywm/wlr-protocols/blob/master/unstable/wlr-virtual-"
+"pointer-unstable-v1.xml>"
 
 #: content/be4foss-handbook/handbook_web.md:445
 msgid ""
 "<https://api.kde.org/frameworks/kwayland/html/"
 "classKWayland_1_1Client_1_1FakeInput.html>"
 msgstr ""
+"<https://api.kde.org/frameworks/kwayland/html/"
+"classKWayland_1_1Client_1_1FakeInput.html>"
 
 #: content/be4foss-handbook/handbook_web.md:447
 msgid "[libinput user devices](https://lwn.net/Articles/801767/)"
-msgstr ""
+msgstr "[libinput gebruikersapparaten](https://lwn.net/Articles/801767/)"
 
 #: content/be4foss-handbook/handbook_web.md:449
 msgid "Measurement Process"
-msgstr ""
+msgstr "Meetproces"
 
 #: content/be4foss-handbook/handbook_web.md:451
 msgid ""
@@ -3109,14 +3152,19 @@ msgid ""
 "and performance indicators with a granularity of 1-second so that they can "
 "be processed and average values can be calculated."
 msgstr ""
+"Het meetproces is gedefinieerd in Appendix A van de [Basic Award Criteria]"
+"(https://www.blauer-engel.de/en/productworld/resources-and-energy-efficient-"
+"software-products). Het vereist het opnemen en loggen van energiegegevens en "
+"prestatie-indicatoren met een resolutie van 1 seconde opdat ze kunnen worden "
+"verwerkt en gemiddelden kunnen worden berekent."
 
 #: content/be4foss-handbook/handbook_web.md:453
 msgid "Some general comments:"
-msgstr ""
+msgstr "Enige algemene opmerkingen:"
 
 #: content/be4foss-handbook/handbook_web.md:455
 msgid "Times between the PM and DAE must be synchronized."
-msgstr ""
+msgstr "Tijden tussen de PM en DAE moeten gesynchroniseerd worden."
 
 #: content/be4foss-handbook/handbook_web.md:457
 msgid ""
@@ -3124,18 +3172,26 @@ msgid ""
 "the console of the SUT; also, check that the required CSV file is correctly "
 "generated before testing."
 msgstr ""
+"Wanneer `Collectl` wordt gebruikt om systeemlading te verzamelen, controleer "
+"dat het in de console wordt uitgevoerd van de SUT; controleer ook dat de "
+"benodigde CSV-bestand correct is gegenereerd vóór het testen."
 
 #: content/be4foss-handbook/handbook_web.md:459
 msgid ""
 "Since each run of the usage scenarios results in changes to the standard "
 "operating system, clearing the cache between runs is recommended."
 msgstr ""
+"Gezien iedere uitvoering tot veranderingen leidt in het systeem, wordt het "
+"aanbevolen om de cache te ledigen tussen uitvoeringen."
 
 #: content/be4foss-handbook/handbook_web.md:461
 msgid ""
 "All runs (Baseline, Idle Mode, Standard Usage Scenario) must be for the same "
 "length of time, based on the time needed to run the usage scenario script."
 msgstr ""
+"Uitvoeringen (Baseline, Passieve modus, Standaard Scenario) moeten voor "
+"dezelfde tijd zijn, gebaseerd op de benodigde tijd voor het uitvoeren van de "
+"scenario's."
 
 #: content/be4foss-handbook/handbook_web.md:463
 msgid ""
@@ -3143,6 +3199,9 @@ msgid ""
 "correctly before and/or during testing (e.g., with a live graph using "
 "`LabPlot`)."
 msgstr ""
+"Op de DAE wilt u wellicht controleren of het gewenste stopcontact correct "
+"wordt weergegeven vóór en/of tijdens het testen (bijvoorbeeld met een "
+"realtime grafiek met behulp van `LabPlot`)."
 
 #: content/be4foss-handbook/handbook_web.md:466
 msgid ""
@@ -3151,56 +3210,62 @@ msgid ""
 "processor utilisation, RAM utilisation, hard disk activity, and network "
 "traffic. Use the following command to obtain this hardware performance data:"
 msgstr ""
+"Tijdens de energiemetingen wordt [`Collectl`](https://sourceforge.net/"
+"projects/collectl/) gebruikt om een set aan prestatie-indicatoren op te "
+"nemen: CPU-gebruik, RAM-gebruik, activiteit van opslag en netwerkverkeer. "
+"Gebruik de volgende opdracht om de prestatiegegevens te verkrijgen:"
 
 #: content/be4foss-handbook/handbook_web.md:468
 msgid "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<FILENAME>.csv`"
-msgstr ""
+msgstr "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<BESTANDSNAAM>.csv`"
 
 #: content/be4foss-handbook/handbook_web.md:470
 msgid "The options are as follows:"
-msgstr ""
+msgstr "De opties zijn:"
 
 #: content/be4foss-handbook/handbook_web.md:472
 msgid "`-s cdmn`"
-msgstr ""
+msgstr "`-s cdmn`"
 
 #: content/be4foss-handbook/handbook_web.md:474
 msgid "collect CPU, Disk, memory, and network data"
-msgstr ""
+msgstr "verzamelen van CPU, Schrijf, geheugen, and netwerk gegevens"
 
 #: content/be4foss-handbook/handbook_web.md:476
 msgid "`-i1`"
-msgstr ""
+msgstr "`-i1`"
 
 #: content/be4foss-handbook/handbook_web.md:478
 msgid "sampling interval of 1 second"
-msgstr ""
+msgstr "meetinterval van 1 seconde"
 
 #: content/be4foss-handbook/handbook_web.md:480
 msgid "`-P`"
-msgstr ""
+msgstr "`-P`"
 
 #: content/be4foss-handbook/handbook_web.md:482
 msgid ""
 "output in plot format (separated data which consists of a header with one "
 "line per sampling interval)"
 msgstr ""
+"uitvoer in grafiekformaat (gescheiden gegevens bestaande uit een header met "
+"een regel per meetinterval"
 
 #: content/be4foss-handbook/handbook_web.md:484
 msgid "`--sep 59`"
-msgstr ""
+msgstr "`--sep 59`"
 
 #: content/be4foss-handbook/handbook_web.md:486
 msgid "semicolon separator"
-msgstr ""
+msgstr "scheidingsteken: puntkomma"
 
 #: content/be4foss-handbook/handbook_web.md:488
 msgid "`-f </PATH/TO/FILE>.csv`"
-msgstr ""
+msgstr "`-f </PAD/NAAR/BESTAND>.csv`"
 
 #: content/be4foss-handbook/handbook_web.md:490
 msgid "save file at specified path"
-msgstr ""
+msgstr "sla het bestand op op het gespecificeerde pad"
 
 #: content/be4foss-handbook/handbook_web.md:492
 msgid "Measuring Baseline, Idle Mode, And Standard Usage Scenarios"
@@ -12475,8 +12540,8 @@ msgstr ""
 "vinden in de [KDE Eco opslagruimte](https://invent.kde.org/websites/eco-kde-"
 "org). Deze website is gecontroleerd door de [greenwebfoundation.org](https://"
 "www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Feco.kde."
-"org) en is heeft het label \"Hosted Green\". Website wordt gehost door: "
-"Hetzner Online AG. Ondersteunend bewijs voor de claims van deze hoster: "
+"org) en heeft het label \"Hosted Green\". Website wordt gehost door: Hetzner "
+"Online AG. Ondersteunend bewijs voor de claims van deze hoster: "
 "[Duurzaamheidspagina](https://www.hetzner.com/unternehmen/umweltschutz)."
 
 #. home.eco-handbook.alt
