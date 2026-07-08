@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-07-03 10:51+0200\n"
+"PO-Revision-Date: 2026-07-07 17:11+0200\n"
 "Last-Translator: Freek de Kruijf <freekdekruijf@kde.nl>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 26.04.2\n"
+"X-Generator: Lokalize 26.04.3\n"
 
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -2989,7 +2989,7 @@ msgid ""
 "Identifying tasks users typically carry out when using the application under "
 "consideration."
 msgstr ""
-"Het  identificeren van de taken die gebruikers bij normaal gebruik uitvoeren."
+"Het identificeren van de taken die gebruikers bij normaal gebruik uitvoeren."
 
 #: content/be4foss-handbook/handbook_web.md:419
 msgid ""
@@ -3065,7 +3065,7 @@ msgid ""
 "laboratory computer, all pixel coordinates will have to be reset for the "
 "laboratory environment."
 msgstr ""
-"Belangrijk: Als de emulatiehulpmiddelen pixelcoördinaten gebruikt om de "
+"Belangrijk: Als het emulatiehulpmiddel pixelcoördinaten gebruikt om de "
 "positie van de geautomatiseerde klikken op te slaan (bijvoorbeeld `Actiona`) "
 "en bovendien de schermresolutie van de computer die bij de voorbereiding is "
 "gebruikt, afwijkt van die van de laboratoriumcomputer, moeten alle "
@@ -3091,7 +3091,7 @@ msgstr ""
 "Tester` (in ontwikkeling)](https://invent.kde.org/teams/eco/feep/-/tree/"
 "master/tools/KdeEcoTest), of [`Actiona`](https://github.com/Jmgr/actiona), "
 "er zijn andere hulpmiddelen die mogelijk voldoen aan de vereisten. Zie een "
-"lijst van KDE Contributor David Hurka in de presentatie [“*Visual Workflow "
+"lijst van KDE bijdrager David Hurka in de presentatie [“*Visual Workflow "
 "Automation Tools*”](https://invent.kde.org/teams/eco/feep/-/tree/master/"
 "tools/presentation_Visual_Workflow_Automation_Tools). De meeste hulpmiddelen "
 "gebruiken X11-specifieke functies, en werken niet op Wayland-systemen. Er "
@@ -3270,20 +3270,23 @@ msgstr "sla het bestand op op het gespecificeerde pad"
 #: content/be4foss-handbook/handbook_web.md:492
 msgid "Measuring Baseline, Idle Mode, And Standard Usage Scenarios"
 msgstr ""
+"Het meten van de uitgangswaarde, de ruststand en standaardgebruiksscenario’s"
 
 #: content/be4foss-handbook/handbook_web.md:494
 msgid "Baseline Scenario: *Operating System* (OS)"
-msgstr ""
+msgstr "Uitganswaarde scenario: *Besturingssysteem* (OS)"
 
 #: content/be4foss-handbook/handbook_web.md:496
 msgid ""
 "To establish the baseline, a scenario is measured in which the OS is running "
 "but no actions are taken."
 msgstr ""
+"Om een uitgangswaarde te bereiken, wordt een scenario gemeten waarin het OS "
+"draait, maar waarin niets gebeurt."
 
 #: content/be4foss-handbook/handbook_web.md:498
 msgid "Idle Mode Scenario: *OS + Application While Idle*"
-msgstr ""
+msgstr "Rustmodus scenario: *OS + programma terwijl het passief is*"
 
 #: content/be4foss-handbook/handbook_web.md:500
 msgid ""
@@ -3291,6 +3294,9 @@ msgid ""
 "application while idle, a scenario is measured in which the application "
 "under consideration is opened but no action is taken."
 msgstr ""
+"Om het energieverbruik en de prestatiegegevens van de hardware te bepalen, "
+"terwijl het programma in staat van rust is, wordt een scenario gemeten "
+"waarin het programma wordt geopend, maar geen handeling wordt ondernomen."
 
 #: content/be4foss-handbook/handbook_web.md:502
 msgid ""
@@ -3300,6 +3306,12 @@ msgid ""
 "each is considered sufficient to obtain a representative sample (Seiwert & "
 "Zaczyk 2021)."
 msgstr ""
+"Belangrijk: de basislijn- en rustmodus moeten even lang worden uitgevoerd "
+"als de tijd die nodig is om het standaardgebruiksscenario uit te voeren. "
+"Aangezien het stroomverbruik voor de basislijn- en rustmodus relatief "
+"constant is, worden tien herhalingen voor elk scenario als voldoende "
+"beschouwd om een representatieve steekproef te verkrijgen (Seiwert & Zaczyk "
+"2021)."
 
 #: content/be4foss-handbook/handbook_web.md:504
 msgid "Standard Usage Scenario: *OS + Application In Use*"
@@ -3314,26 +3326,37 @@ msgid ""
 "higher number of repetitions is necessary to obtain a representative sample "
 "as the energy consumption and performance data may vary across measurements."
 msgstr ""
+"Om het energieverbruik en de hardwareprestaties van de actieve toepassing te "
+"meten, moet het standaardgebruiksscenario worden uitgevoerd; zie de "
+"opmerkingen over de voorbereiding van het SUS hierboven. De meting van het "
+"standaardgebruiksscenario moet 30 keer worden herhaald, wat enkele uren in "
+"beslag zal nemen. Het grotere aantal herhalingen is nodig om een "
+"representatieve steekproef te verkrijgen, aangezien het energieverbruik en "
+"de prestatiegegevens per meting kunnen variëren."
 
 #: content/be4foss-handbook/handbook_web.md:508
 msgid "<a name=\"sec:labplot\"></a> Monitoring Output With Labplot"
-msgstr ""
+msgstr "<a name=\"sec:labplot\"></a> Uitvoer controleren met Labplot"
 
 #: content/be4foss-handbook/handbook_web.md:510
 msgid ""
 "You can use KDE’s [LabPlot](https://apps.kde.org/labplot2/) to monitor the "
 "output live as data is coming in. To do this:"
 msgstr ""
+"KDE's [LabPlot](https://apps.kde.org/labplot2/) kan gebruikt worden om de "
+"uitvoer te controleren terwijl de gegevens binnenkomen:"
 
 #: content/be4foss-handbook/handbook_web.md:512
 msgid "Redirect the power meter output to a CSV file."
-msgstr ""
+msgstr "Leidt de uitvoer van de vermogensmeter naar een CSV-bestand."
 
 #: content/be4foss-handbook/handbook_web.md:514
 msgid ""
 "In LabPlot, import the CSV file by selecting `File > Add New > Live Data "
 "Source…`"
 msgstr ""
+"In Labplot, importeer het CSV-bestand door `Bestand->Nieuw toevoegen-> "
+"Actieve gegevensbron…`"
 
 #: content/be4foss-handbook/handbook_web.md:516
 msgid ""
@@ -3347,7 +3370,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:520
 msgid "If everything looks good, click OK."
-msgstr ""
+msgstr "Als alles er goed uitziet, klik dan op Oké."
 
 #: content/be4foss-handbook/handbook_web.md:522
 msgid ""
@@ -3357,7 +3380,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:524
 msgid "Analysis Of The Results With OSCAR"
-msgstr ""
+msgstr "Analyse van de resultaten met OSCAR"
 
 #: content/be4foss-handbook/handbook_web.md:526
 msgid ""
@@ -3365,49 +3388,61 @@ msgid ""
 "for generating reports called `OSCAR` (**O**pen source **S**oftware "
 "**C**onsumption **A**nalysis in **R**):"
 msgstr ""
+"De Umwelt Campus Birkenfeld biedt een handig hulpmiddel voor het genereren "
+"van rapporten voor wanneer je de resultaten hebt, genaamd `OSCAR` (**O**pen "
+"source **S**oftware **C**onsumption **A**nalysis and **R**eporting (Analyse "
+"en rapportage van het gebruik van open-bron-software))"
 
 #: content/be4foss-handbook/handbook_web.md:528
 msgid ""
 "[Source Code](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 msgstr ""
+"[Broncode](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 
 #: content/be4foss-handbook/handbook_web.md:530
 msgid "[Running instance](https://oscar.umwelt-campus.de/)"
-msgstr ""
+msgstr "[Draaiende instatntie](https://oscar.umwelt-campus.de/)"
 
 #: content/be4foss-handbook/handbook_web.md:532
 msgid ""
 "See also the OSCAR Manual with detailed instructions, including additional "
 "screenshots on how to use `OSCAR`."
 msgstr ""
+"Zie ook de OSCAR handleiding met uitgebreide instructies, inclusief "
+"schermopnamen over hoe `OSCAR` moet worden gebruikt."
 
 #: content/be4foss-handbook/handbook_web.md:534
 msgid "CSV Files"
-msgstr ""
+msgstr "CSV-bestanden"
 
 #: content/be4foss-handbook/handbook_web.md:536
 msgid ""
 "Analysis with `OSCAR` requires uploading the following files to the [OSCAR "
 "website](https://oscar.umwelt-campus.de/):"
 msgstr ""
+"Analyse met `OSCAR` vereist het uploaden van de volgende bestanden naar de "
+"[OSCAR website](https://oscar.umwelt-campus.de/):"
 
 #: content/be4foss-handbook/handbook_web.md:538
 msgid "(i) a log file of actions taken,"
-msgstr ""
+msgstr "(i) een logbestand van de ondernomen acties,"
 
 #: content/be4foss-handbook/handbook_web.md:539
 msgid "(ii) the energy consumption data, and"
-msgstr ""
+msgstr "(ii) de energieverbruiksgegevens"
 
 #: content/be4foss-handbook/handbook_web.md:540
 msgid "(iii) the hardware performance data."
-msgstr ""
+msgstr "(iii) de prestatiegegevens van de hardware"
 
 #: content/be4foss-handbook/handbook_web.md:542
 msgid ""
 "All files should be CSV files. Some preprocessing of the raw data may be "
 "necessary (e.g., performance data measured by `Collectl`; see below)."
 msgstr ""
+"Alle bestanden moeten CSV-bestanden zijn. Voorverwerking van de ruwe "
+"gegevens zou nodig kunnen zijn (bijv. prestatiegegevens gemeten met "
+"`Collectl`; zie hieronder)"
 
 #: content/be4foss-handbook/handbook_web.md:544
 msgid ""
@@ -3417,6 +3452,11 @@ msgid ""
 "from your CSV files, make sure CSV files are as similar as possible to those "
 "shown here."
 msgstr ""
+"Belangrijk: `OSCAR` is **erg** kieskeurig wat betreft de indeling van "
+"dataframes, inclusief kolomnamen en celwaarden. De hier gegeven tabellen "
+"geven voorbeelden waarvan zeker is dat ze werken. Als u problemen ondervindt "
+"met het genereren van het rapport, controleer dan dat uw CSV-bestanden zo "
+"veel mogelijk lijken op deze voorbeelden."
 
 #: content/be4foss-handbook/handbook_web.md:546
 msgid ""
@@ -3428,10 +3468,17 @@ msgid ""
 "org/teams/eco/feep/-/blob/master/measurements/okular/2022-09-22/Bericht"
 "%20OSCAR%20Standardnutzungsszenario.pdf)."
 msgstr ""
+"Als u alleen maar OSCAR wilt testen, dan kunt u gegevens van Okular "
+"downloaden in [dit ZIP-archief](https://invent.kde.org/teams/eco/feep/-/blob/"
+"master/measurements/okular/2022-09-22/2022-okular-data.zip). Het is "
+"bevestigd dat de gegevens succesvol een rapport genereren met behulp van "
+"OSCAR v0.190404. Het gegenereerde rapport kan worden gedownload van de [FEEP-"
+"repository](https://invent.kde.org/teams/eco/feep/-/blob/master/measurements/"
+"okular/2022-09-22/Bericht%20OSCAR%20Standardnutzungsszenario.pdf)."
 
 #: content/be4foss-handbook/handbook_web.md:548
 msgid "Log File Of Actions"
-msgstr ""
+msgstr "Logbestand met acties"
 
 #: content/be4foss-handbook/handbook_web.md:550
 msgid ""
@@ -3441,6 +3488,12 @@ msgid ""
 "must be labelled with ‘startTestrun’ and ‘stopTestrun’ in the second column, "
 "whereas the actions can be listed with any name."
 msgstr ""
+"Het logbestand met acties moet het volgende formaat hebben. Merk op dat de "
+"kolommen zijn gescheiden door een puntkomma. En bovendien, de kolommen "
+"hebben geen namen (er staat geen koptekst in het CSV-bestand). Let erop dat "
+"het begin en het einde van elke iteratie in de tweede kolom moeten worden "
+"aangeduid met ‘startTestrun’ en ‘stopTestrun’, terwijl de acties onder elke "
+"gewenste naam kunnen worden vermeld."
 
 #: content/be4foss-handbook/handbook_web.md:554
 #: content/be4foss-handbook/handbook_web.md:555
@@ -3448,12 +3501,12 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:557
 #: content/be4foss-handbook/handbook_web.md:558
 msgid "YYYY-MM-DD HH:MM:SS ;"
-msgstr ""
+msgstr "YYYY-MM-DD HH:MM:SS ;"
 
 #: content/be4foss-handbook/handbook_web.md:554
 #: content/be4foss-handbook/handbook_web.md:564
 msgid "startTestrun ;"
-msgstr ""
+msgstr "startTestrun ;"
 
 #: content/be4foss-handbook/handbook_web.md:555
 #: content/be4foss-handbook/handbook_web.md:556
@@ -3471,24 +3524,24 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid ";"
-msgstr ""
+msgstr ";"
 
 #: content/be4foss-handbook/handbook_web.md:555
 msgid "action1"
-msgstr ""
+msgstr "handeling1"
 
 #: content/be4foss-handbook/handbook_web.md:556
 msgid "action2"
-msgstr ""
+msgstr "handeling2"
 
 #: content/be4foss-handbook/handbook_web.md:557
 msgid "action3"
-msgstr ""
+msgstr "handeling3"
 
 #: content/be4foss-handbook/handbook_web.md:558
 #: content/be4foss-handbook/handbook_web.md:575
 msgid "stopTestrun ;"
-msgstr ""
+msgstr "stopTestrun;"
 
 #: content/be4foss-handbook/handbook_web.md:560
 msgid ""
@@ -3496,91 +3549,94 @@ msgid ""
 "[`Kate`](https://apps.kde.org/kate/). The (i) date and time as well as (ii) "
 "start and stop times and (iii) actions are listed in three columns."
 msgstr ""
+"Een voorbeeld logbestand voor de acties voor het meten van KDE's tekst en "
+"code bewerker [`Kate`](https://apps.kde.org/kate/). De (i) tijd en datum en "
+"de (ii) start en stop tijden en de (iii) staan op een rij in drie kolommen."
 
 #: content/be4foss-handbook/handbook_web.md:564
 msgid "2022-05-21 18:54:36 ;"
-msgstr ""
+msgstr "2022-05-21 18:54:36 ;"
 
 #: content/be4foss-handbook/handbook_web.md:565
 msgid "2022-05-21 18:55:41 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:41 ;"
 
 #: content/be4foss-handbook/handbook_web.md:565
 msgid "go to line 100"
-msgstr ""
+msgstr "ga naar regel 100"
 
 #: content/be4foss-handbook/handbook_web.md:566
 msgid "2022-05-21 18:55:46 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:46 ;"
 
 #: content/be4foss-handbook/handbook_web.md:566
 msgid "toggle comment"
-msgstr ""
+msgstr "toelichting omschakelen"
 
 #: content/be4foss-handbook/handbook_web.md:567
 msgid "2022-05-21 18:55:50 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:50 ;"
 
 #: content/be4foss-handbook/handbook_web.md:567
 msgid "find kconfig"
-msgstr ""
+msgstr "zoek kconfig"
 
 #: content/be4foss-handbook/handbook_web.md:568
 msgid "2022-05-21 18:55:55 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:55 ;"
 
 #: content/be4foss-handbook/handbook_web.md:568
 msgid "move between searches 6 times"
-msgstr ""
+msgstr "beweeg 6 keer tussen zoekopdrachten"
 
 #: content/be4foss-handbook/handbook_web.md:569
 #: content/be4foss-handbook/handbook_web.md:570
 msgid "2022-05-21 18:56:05 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:05 ;"
 
 #: content/be4foss-handbook/handbook_web.md:569
 msgid "close find bar"
-msgstr ""
+msgstr "sluit de zoekbalk"
 
 #: content/be4foss-handbook/handbook_web.md:570
 msgid "standby 30 sec"
-msgstr ""
+msgstr "wacht voor 30 seconden"
 
 #: content/be4foss-handbook/handbook_web.md:571
 msgid "2022-05-21 18:56:35 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:35 ;"
 
 #: content/be4foss-handbook/handbook_web.md:571
 msgid "go to line 200"
-msgstr ""
+msgstr "ga naar regel 200"
 
 #: content/be4foss-handbook/handbook_web.md:572
 msgid "2022-05-21 18:56:40 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:40 ;"
 
 #: content/be4foss-handbook/handbook_web.md:572
 msgid "select 10 lines"
-msgstr ""
+msgstr "selecteer 10 regels"
 
 #: content/be4foss-handbook/handbook_web.md:573
 msgid "2022-05-21 18:56:43 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:43 ;"
 
 #: content/be4foss-handbook/handbook_web.md:573
 msgid "delete selected text"
-msgstr ""
+msgstr "verwijder geselecteerde tekst"
 
 #: content/be4foss-handbook/handbook_web.md:574
 msgid "[…] ;"
-msgstr ""
+msgstr "[…] ;"
 
 #: content/be4foss-handbook/handbook_web.md:574
 msgid "[…]"
-msgstr ""
+msgstr "[…]"
 
 #: content/be4foss-handbook/handbook_web.md:575
 msgid "2022-05-21 18:59:13 ;"
-msgstr ""
+msgstr "2022-05-21 18:59:13 ;"
 
 #: content/be4foss-handbook/handbook_web.md:577
 msgid "Energy Consumption Data"
@@ -3596,16 +3652,23 @@ msgid ""
 "date-time as a character string with the date and time separated by a comma, "
 "and (iii) no string delimiter used in the CSV file."
 msgstr ""
+"De energieverbruikdata heeft de volgende indeling: de eerste kolom is het "
+"kolommen zoals hier beneden geschreven (\"Zeit\" en \"Wert 1-avg[W]\") (ii) "
+"de datum en tijd als karakterreeksen, gescheiden met een komma en (iii) er "
+"wordt geen teken als scheiregelnummer, de tweede kolom is de datum en de "
+"tijd in toenames van een second en de derde kolom is de meting uitvoer in "
+"watts. Let op dat het volgende bevestigd is om te werken met OSCAR: (i) de "
+"namen van de tweede en derde scheidingsteken gebruikt in het CSV-bestand."
 
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid "Zeit ;"
-msgstr ""
+msgstr "Zeit ;"
 
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid "Wert 1-avg[W]"
-msgstr ""
+msgstr "Wert 1-avg[W]"
 
 #: content/be4foss-handbook/handbook_web.md:583
 #: content/be4foss-handbook/handbook_web.md:616
@@ -3618,45 +3681,45 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "1 ;"
-msgstr ""
+msgstr "1 ;"
 
 #: content/be4foss-handbook/handbook_web.md:583
 #: content/be4foss-handbook/handbook_web.md:584
 #: content/be4foss-handbook/handbook_web.md:585
 #: content/be4foss-handbook/handbook_web.md:586
 msgid "DD.MM.YY, HH:MM:SS ;"
-msgstr ""
+msgstr "DD.MM.YY, HH:MM:SS ;"
 
 #: content/be4foss-handbook/handbook_web.md:583
 msgid "value1"
-msgstr ""
+msgstr "waarde1"
 
 #: content/be4foss-handbook/handbook_web.md:584
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "2 ;"
-msgstr ""
+msgstr "2"
 
 #: content/be4foss-handbook/handbook_web.md:584
 msgid "value2"
-msgstr ""
+msgstr "waarde2"
 
 #: content/be4foss-handbook/handbook_web.md:585
 msgid "3 ;"
-msgstr ""
+msgstr "3 ;"
 
 #: content/be4foss-handbook/handbook_web.md:585
 msgid "value3"
-msgstr ""
+msgstr "waarde3"
 
 #: content/be4foss-handbook/handbook_web.md:586
 #: content/be4foss-handbook/handbook_web.md:651
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "4 ;"
-msgstr ""
+msgstr "4 ;"
 
 #: content/be4foss-handbook/handbook_web.md:586
 msgid "value4"
-msgstr ""
+msgstr "waarde4"
 
 #: content/be4foss-handbook/handbook_web.md:588
 msgid ""
@@ -3668,50 +3731,53 @@ msgid ""
 "the Python script. The first column shows the timestamp. The second column "
 "is the readout from the power meter in Watts."
 msgstr ""
+"Wanneer de Gude Power Meter wordt gebruikt met het [Python script](https://"
+"invent.kde.org/teams/eco/feep/-/tree/master/tools/GUDEPowerMeter) "
+"beschikbaar op de FEEP"
 
 #: content/be4foss-handbook/handbook_web.md:592
 msgid "1661611923019071 ;"
-msgstr ""
+msgstr "1661611923019071 ;"
 
 #: content/be4foss-handbook/handbook_web.md:592
 #: content/be4foss-handbook/handbook_web.md:593
 msgid "43"
-msgstr ""
+msgstr "43"
 
 #: content/be4foss-handbook/handbook_web.md:593
 msgid "1661611923142924 ;"
-msgstr ""
+msgstr "1661611923142924 ;"
 
 #: content/be4foss-handbook/handbook_web.md:594
 msgid "1661611924293989 ;"
-msgstr ""
+msgstr "1661611924293989 ;"
 
 #: content/be4foss-handbook/handbook_web.md:594
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #: content/be4foss-handbook/handbook_web.md:595
 msgid "1661611924417017 ;"
-msgstr ""
+msgstr "1661611924417017 ;"
 
 #: content/be4foss-handbook/handbook_web.md:595
 #: content/be4foss-handbook/handbook_web.md:596
 #: content/be4foss-handbook/handbook_web.md:597
 #: content/be4foss-handbook/handbook_web.md:598
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #: content/be4foss-handbook/handbook_web.md:596
 msgid "1661611924744885 ;"
-msgstr ""
+msgstr "1661611924744885 ;"
 
 #: content/be4foss-handbook/handbook_web.md:597
 msgid "1661611924869051 ;"
-msgstr ""
+msgstr "1661611924869051 ;"
 
 #: content/be4foss-handbook/handbook_web.md:598
 msgid "1661611924992392 ;"
-msgstr ""
+msgstr "1661611924992392 ;"
 
 #: content/be4foss-handbook/handbook_web.md:600
 msgid ""
@@ -3720,6 +3786,11 @@ msgid ""
 "origin = '1970-01-01', tz = 'Europe/Berlin')`. For example, the nanoseconds "
 "in row 1 from the raw output is “2022-08-27 16:52:03 CEST” after conversion."
 msgstr ""
+"De ruwe gegevens kunnen worden voorbewerkt in R: nanoseconden in Epoch-tijd "
+"kunnen worden omgezet naar datum-tijd met het commando `as."
+"POSIXct(<NANOSECONDEN>/1000000, origin = '1970-01-01', tz = 'Europe/"
+"Berlin')`. De nanoseconden in rij 1 van de ruwe uitvoer zijn na conversie "
+"bijvoorbeeld “2022-08-27 16:52:03 CEST”."
 
 #: content/be4foss-handbook/handbook_web.md:602
 msgid ""
@@ -3729,12 +3800,19 @@ msgid ""
 "column in the data frame); replace the YYYY-MM-DD date with the date of your "
 "measurements:"
 msgstr ""
+"Voor gebruik met OSCAR, moet deze datum en tijd worden omgevormd naar een "
+"tekenreeks met de datum als: DD.MM.YY gevolgd door een komma. Dit kan "
+"allemaal bereikt worden met een opdracht: (deze bewerking kan over de gehele "
+"kolom in het dataframe worden gevectoriseerd); vervang de YYYY-MM-DD datum "
+"door de datum van uw metingen:"
 
 #: content/be4foss-handbook/handbook_web.md:604
 msgid ""
 "`stringr::str_replace(as.character(as.POSIXct(1661611923019071/1000000, "
 "origin = '1970-01-01', tz = 'Europe/Berlin')), '2022-08-27', '27.08.22,')`"
 msgstr ""
+"`stringr::str_replace(as.character(as.POSIXct(1661611923019071/1000000, "
+"origin = '1970-01-01', tz = 'Europe/Berlin')), '2022-08-27', '27.08.22,')`"
 
 #: content/be4foss-handbook/handbook_web.md:606
 msgid ""
@@ -3742,6 +3820,10 @@ msgid ""
 "shown below after processing with R; note the 7 values above are averaged "
 "per second, resulting in two rows."
 msgstr ""
+"Er moet een gemiddelde per seconde worden genomen van de uitvoer in watt. "
+"Dezezelfde gegevens zijn weergeven na het verwerken met R; let op dat de "
+"bovenstaande 7 waarden het gemiddelde per seconde zijn, resulterend in twee "
+"rijen."
 
 #: content/be4foss-handbook/handbook_web.md:608
 msgid ""
@@ -3749,78 +3831,96 @@ msgid ""
 "names starting at the number 1, and no string delimiter, use the following R "
 "command:"
 msgstr ""
+"Om het CSV-bestand op te slaan met een puntkomma scheidingsteken, moet de "
+"eerste kolom met rijnamen, beginnend bij nummer 1, zonder scheidingsteken, "
+"de volgende R opdracht gebruiken:"
 
 #: content/be4foss-handbook/handbook_web.md:610
 msgid ""
 "`write.csv2(<DATAFRAME>, file = <PATH/TO/FILE.csv>, row.names = TRUE, quote "
 "= FALSE)`"
 msgstr ""
+"`write.csv2(<DATAFRAME>, file = <PATH/TO/FILE.csv>, row.names = TRUE, quote "
+"= FALSE)`"
 
 #: content/be4foss-handbook/handbook_web.md:612
 msgid "The result should look something like the following:"
-msgstr ""
+msgstr "Het resultaat zou er zo uit moeten zien:"
 
 #: content/be4foss-handbook/handbook_web.md:616
 msgid "27.08.22, 16:52:03 ;"
-msgstr ""
+msgstr "27.08.22, 16:52:03 ;"
 
 #: content/be4foss-handbook/handbook_web.md:616
 msgid "43.00000"
-msgstr ""
+msgstr "43.00000"
 
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "27.08.22, 16:52:04 ;"
-msgstr ""
+msgstr "27.08.22, 16:52:04 ;"
 
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "28.20000"
-msgstr ""
+msgstr "28.20000"
 
 #: content/be4foss-handbook/handbook_web.md:619
 msgid "Performance Data (Raw)"
-msgstr ""
+msgstr "Prestatiegegevens (ruw)"
 
 #: content/be4foss-handbook/handbook_web.md:621
 msgid ""
 "When using `Collectl` for hardware performance data, it is necessary to do "
 "the following before uploading the data to OSCAR.[^3]"
 msgstr ""
+"Wanneer `Collectl` voor prestatiegegevens van de hardware wordt gebruikt, is "
+"het nodig om het volgende te doen alvorens de data te uploaden naar OSCAR."
+"[^3]"
 
 #: content/be4foss-handbook/handbook_web.md:623
 msgid ""
 "[^3]: See Seiwert & Zaczyk 2021: p. 13 for details; see also Appendix A 2 on "
 "p. 46 for a Python script to automate some of these tasks."
 msgstr ""
+"[^3]: Zie Seiwert & Zaczyk 2021: p. 13 voor meer informatie; zie ook "
+"Appendix A 2 op pagina 46 voor een Python script om enkele van deze taken te "
+"automatiseren."
 
 #: content/be4foss-handbook/handbook_web.md:625
 msgid "Remove all information above the header row."
-msgstr ""
+msgstr "Verwijder alle informatie boven de koptekstrij."
 
 #: content/be4foss-handbook/handbook_web.md:627
 msgid "Remove all \\# characters from the file."
-msgstr ""
+msgstr "Verwijder alle \\# karakters van het bestand."
 
 #: content/be4foss-handbook/handbook_web.md:629
 msgid ""
 "In the first column, no separator value should come between the data-time "
 "(otherwise, the date and time will be interpreted as two separate columns)."
 msgstr ""
+"In de eerste kolom mag er geen scheidingsteken tussen de datum en de tijd "
+"staan ( anders worden de datum en de tijd als twee afzonderlijke kolommen "
+"geïnterpreteerd)."
 
 #: content/be4foss-handbook/handbook_web.md:631
 msgid ""
 "The date should also have a character inserted between YYYYMMDD, e.g., MM.DD."
 "YYYY as above. Whatever character is used must be specified in `OSCAR`."
 msgstr ""
+"De datum moet ook een teken hebben tussen YYYYMMDD, bijv.: MM.DD.YYYYY zoals "
+"hierboven. Welk teken wordt gebruikt, moet gespecificeerd worden in `OSCAR`."
 
 #: content/be4foss-handbook/handbook_web.md:633
 msgid ""
 "Column names can be anything you want as they will be specified within "
 "`OSCAR`."
 msgstr ""
+"Kolomnamen kunnen alles zijn wat je wilt gezien die gespecificeerd worden in "
+"`OSCAR`."
 
 #: content/be4foss-handbook/handbook_web.md:635
 msgid "The file must be saved in CSV format."
-msgstr ""
+msgstr "Het bestand moet in CSV-formaat worden opgeslagen."
 
 #: content/be4foss-handbook/handbook_web.md:637
 msgid ""
@@ -3828,30 +3928,33 @@ msgid ""
 "columns that are not necessary for analysis. The only measurements that need "
 "to be specified are the following columns:"
 msgstr ""
+"Bovendien bevat de hardwareprestatie-uitvoer van `Collectl` veel kolommen "
+"die niet nodig zijn voor de analyse. De enige metingen die moeten worden "
+"gespecificeerd, zijn de volgende kolommen:"
 
 #: content/be4foss-handbook/handbook_web.md:639
 msgid "[CPU]Totl = Processor"
-msgstr ""
+msgstr "[CPU]Totl = Processor"
 
 #: content/be4foss-handbook/handbook_web.md:640
 msgid "[MEM]Used = Main memory - used kilobytes"
-msgstr ""
+msgstr "[MEM]Used = Main memory - used kilobytes"
 
 #: content/be4foss-handbook/handbook_web.md:641
 msgid "[NET]RxKBTot = Network - Kilobytes received/s"
-msgstr ""
+msgstr "[NET]RxKBTot = Network - Kilobytes received/s"
 
 #: content/be4foss-handbook/handbook_web.md:642
 msgid "[NET]TxKBTot = Network - Kilobytes transmitted/s"
-msgstr ""
+msgstr "[NET]TxKBTot = Network - Kilobytes transmitted/s"
 
 #: content/be4foss-handbook/handbook_web.md:643
 msgid "[DSK]ReadKBTot = Disk - Kilobytes read/s"
-msgstr ""
+msgstr "[DSK]ReadKBTot = Disk - Kilobytes read/s"
 
 #: content/be4foss-handbook/handbook_web.md:644
 msgid "[DSK]WriteKBTot = Disk - kilobytes written/s."
-msgstr ""
+msgstr "[DSK]WriteKBTot = Disk - kilobytes written/s."
 
 #: content/be4foss-handbook/handbook_web.md:646
 msgid ""
@@ -3859,38 +3962,41 @@ msgid ""
 "the performance data for Kate. The timestamp increases in one-second "
 "increments."
 msgstr ""
+"Hieronder is een voorbeeld van de voorbewerkte resultaten van de metingen "
+"van `Collectl` die de prestatiegegevens meet van Kate. De tijdstempel loopt "
+"op in één seconde stappen."
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "Date-Time ;"
-msgstr ""
+msgstr "Date-Time ; "
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "cpu ;"
-msgstr ""
+msgstr "cpu ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "mem ;"
-msgstr ""
+msgstr "mem ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "net_rec ;"
-msgstr ""
+msgstr "net_rec ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "net_trn ;"
-msgstr ""
+msgstr "net_trn ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "dsc_rd ;"
-msgstr ""
+msgstr "dsc_rd ;"
 
 #: content/be4foss-handbook/handbook_web.md:648
 msgid "dsc_wr"
-msgstr ""
+msgstr "dsc_wr"
 
 #: content/be4foss-handbook/handbook_web.md:650
 msgid "27.08.2022 16:47:10 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:10 ;"
 
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
@@ -3903,7 +4009,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:658
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "7131968 ;"
-msgstr ""
+msgstr "7131968 ;"
 
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
@@ -3916,7 +4022,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:658
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "0 ;"
-msgstr ""
+msgstr "0 ;"
 
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
@@ -3925,63 +4031,63 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: content/be4foss-handbook/handbook_web.md:651
 msgid "27.08.2022 16:47:11 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:11 ;"
 
 #: content/be4foss-handbook/handbook_web.md:652
 msgid "27.08.2022 16:47:12 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:12 ;"
 
 #: content/be4foss-handbook/handbook_web.md:653
 msgid "27.08.2022 16:47:13 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:13 ;"
 
 #: content/be4foss-handbook/handbook_web.md:653
 msgid "120"
-msgstr ""
+msgstr "120"
 
 #: content/be4foss-handbook/handbook_web.md:654
 msgid "27.08.2022 16:47:14 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:14 ;"
 
 #: content/be4foss-handbook/handbook_web.md:655
 msgid "27.08.2022 16:47:15 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:15 ;"
 
 #: content/be4foss-handbook/handbook_web.md:655
 msgid "56"
-msgstr ""
+msgstr "56"
 
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "27.08.2022 16:47:16 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:16 ;"
 
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "48"
-msgstr ""
+msgstr "48"
 
 #: content/be4foss-handbook/handbook_web.md:657
 msgid "27.08.2022 16:47:17 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:17 ;"
 
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "27.08.2022 16:47:18 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:18 ;"
 
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "27.08.2022 16:47:19 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:19 ;"
 
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "132"
-msgstr ""
+msgstr "132"
 
 #: content/be4foss-handbook/handbook_web.md:661
 msgid "Uploading Data"
-msgstr ""
+msgstr "Gegevens uploaden"
 
 #: content/be4foss-handbook/handbook_web.md:663
 msgid ""
@@ -3990,29 +4096,36 @@ msgid ""
 "certification or for your own data-driven purposes. In the `OSCAR` "
 "interface, note the following:"
 msgstr ""
+"Wanneer de CSV bestanden klaar zijn, dan kunt u de analyse in OSCAR "
+"uitvoeren, hetgeen een samenvattingsrapport zal genereren die u kunt "
+"gebruiken voor de eco-certificering of voor eigen data-gestuurde doelen. In "
+"de `OSCAR` interface, let op het volgende:"
 
 #: content/be4foss-handbook/handbook_web.md:665
 msgid ""
 "The interface language is currently German only; see below for translations."
 msgstr ""
+"De interface-taal is momenteel alleen Duits; zie hieronder voor vertalingen."
 
 #: content/be4foss-handbook/handbook_web.md:667
 msgid "The duration of the measurements in seconds must be specified."
-msgstr ""
+msgstr "De duur van de metingen in seconden moet gespecificeerd worden."
 
 #: content/be4foss-handbook/handbook_web.md:669
 msgid "A semicolon separator is used."
-msgstr ""
+msgstr "Een puntkomma scheidingsteken is gebruikt."
 
 #: content/be4foss-handbook/handbook_web.md:671
 msgid ""
 "The correct formatting of the time stamp must be specified for each of the "
 "uploaded files, e.g.,`%Y-%m-%d %H:%M:%OS`."
 msgstr ""
+"De correcte opmaak van de tijdstempel moet gespecificeerd worden voor ieder "
+"van de geüploade bestanden, bijv. `%Y-%m-%d %H:%M:%OS`."
 
 #: content/be4foss-handbook/handbook_web.md:673
 msgid "Step 1: Obtain Measurement Data"
-msgstr ""
+msgstr "Stap 1: Meetdata verzamelen"
 
 #: content/be4foss-handbook/handbook_web.md:675
 msgid ""
@@ -4021,12 +4134,18 @@ msgid ""
 "this point in the process, you should have already measured your software "
 "and prepared the CSV files."
 msgstr ""
+"De startpagina van de website (beneden) geeft aan dat de eerste stap is om "
+"het verzamelen van de meetgegevens (Duits: *Erfassung Messdaten*). Als u op "
+"dit punt bent in het proces, dan zou u uw software al doorgemeten moeten "
+"hebben en de CSV-bestanden hebben voorbereid."
 
 #: content/be4foss-handbook/handbook_web.md:677
 msgid ""
 "![First obtain the measurement data (German: *Erfassung Messdaten*) in a "
 "laboratory.](images/sec3_oscar_1_landing.png)"
 msgstr ""
+"![Verzamel eerst de gegevens (Duits: *Erfassung Messdaten*) in een "
+"laboratorium.](images/sec3_oscar_1_landing.png)"
 
 #: content/be4foss-handbook/handbook_web.md:679
 msgid ""
@@ -4034,16 +4153,22 @@ msgid ""
 "invent.kde.org/teams/eco/feep/-/blob/master/measurements/"
 "okular/2022-09-22/2022-okular-data.zip)."
 msgstr ""
+"Al deze voorbeelden zijn gebaseerd op de Okular gegevens in [dit ZIP-archief]"
+"(https://invent.kde.org/teams/eco/feep/-/blob/master/measurements/"
+"okular/2022-09-22/2022-okular-data.zip)."
 
 #: content/be4foss-handbook/handbook_web.md:681
 msgid "Step 2: Upload Measurement Data"
-msgstr ""
+msgstr "Stap 2: Upload de meetgegevens"
 
 #: content/be4foss-handbook/handbook_web.md:683
 msgid ""
 "Once you have the CSV files for the baseline, idle mode, and standard usage "
 "scenario measurements ready, click on *(2) Upload Messdaten* > *Upload*."
 msgstr ""
+"Zodra u de CSV-bestanden voor de basislijn, de ruststand en de "
+"standaardgebruiks-scenario-metingen bij de hand heeft, klikt u op *(2) "
+"Upload Messdaten* > *Upload*."
 
 #: content/be4foss-handbook/handbook_web.md:685
 msgid ""
@@ -4051,12 +4176,17 @@ msgid ""
 "(German: *Aktionen*), energy consumption (German: *Elektrische Leistung*), "
 "and hardware performance data (German: *Hardware-Auslastung*)."
 msgstr ""
+"De meetgegevens (Duits: *Messdaten*) bevatten het logbestand van de "
+"handelingen (Duits: *Aktionen*), energieverbruik (Duits: *Elektrische "
+"Leistung*) en hardwareprestatiegegevens (Duits: *Hardware-Auslastung*)"
 
 #: content/be4foss-handbook/handbook_web.md:687
 msgid ""
 "Under *Messungen*, upload either the idle mode or standard usage scenario "
 "measurement data."
 msgstr ""
+"Onder *Messungen*, upload ofwel de rustmodus- of de standaard "
+"gebruiksscenario meetgegevens."
 
 #: content/be4foss-handbook/handbook_web.md:689
 msgid ""
@@ -4064,39 +4194,52 @@ msgid ""
 "select *Leerlauf* (‘Idle Mode’) or *Nutzungsszenario* (‘Usage Scenario’) "
 "depending on which report you wish to generate."
 msgstr ""
+"Voor *Art der Messung* (type metingen) rechtsonder in de UX, selecteer "
+"*Leerlauf* (rustmodus) of *Nutzungsszenario* (gebruiksscenario), afhankelijk "
+"van welk rapport u wilt genereren."
 
 #: content/be4foss-handbook/handbook_web.md:691
 msgid "Under *Baselines* upload the baseline measurement data."
-msgstr ""
+msgstr "Onder *Baselines* upload de basislijnmeetwaarden (uitgangswaarden)."
 
 #: content/be4foss-handbook/handbook_web.md:693
 msgid ""
 "Indicate the duration of the measurement scenarios in seconds (German: "
 "*Dauer der Einzelmessungen (s)*)."
 msgstr ""
+"Geef de duur van de meetscenario's aan in seconden (Duits: *Dauer der "
+"Einzelmessungen (s)*)."
 
 #: content/be4foss-handbook/handbook_web.md:695
 msgid ""
 "Note that the baseline measurements are always uploaded along with either "
 "the idle mode or standard usage scenario measurements."
 msgstr ""
+"Merk op dat de uitgangsmetingen altijd geüpload worden samen met of de "
+"rustmodus of standaardgebruiksscenariometingen."
 
 #: content/be4foss-handbook/handbook_web.md:697
 msgid ""
 "See below for what a completed upload for the *Nutzungsszenario* looks like."
 msgstr ""
+"Zie onderstaand voor hoe een voltooide upload voor de *Nutzungsszenario* er "
+"uit ziet."
 
 #: content/be4foss-handbook/handbook_web.md:699
 msgid ""
 "![Uploading the measurement data (German: *Upload Messdaten*).](images/"
 "sec3_oscar_2_upload.png)"
 msgstr ""
+"![Meetgegevens uploaden (Duits: *Upload Messdaten*).](images/"
+"sec3_oscar_2_upload.png)"
 
 #: content/be4foss-handbook/handbook_web.md:701
 msgid ""
 "***Timestamps*** &nbsp;&nbsp; Once the data has been uploaded, you will need "
 "to tell `OSCAR` how to read the data."
 msgstr ""
+"***Tijdstempels*** &nbsp;&nbsp; Zodra de gegevens zijn geüpload, moet u "
+"OSCAR vertellen hoe de gegevens moeten worden gelezen."
 
 #: content/be4foss-handbook/handbook_web.md:703
 msgid ""
@@ -4105,22 +4248,31 @@ msgid ""
 "correctly. This is done under *(2) Upload Messdaten* > *Formatierung "
 "Zeitstempel*."
 msgstr ""
+"Laten we beginnen met het tijdstempelformaat (Duits: Formatierung "
+"Zeitstempel*). Dit is een aspect van het proces dat problemen kan "
+"veroorzaken als het niet correct wordt uitgevoerd. Dit word gedaan onder "
+"*(2) Upload Messdaten* > *Formatierung  Zeitstempel*."
 
 #: content/be4foss-handbook/handbook_web.md:705
 msgid "Consider the Okular data:"
-msgstr ""
+msgstr "Neem bijvoorbeeld de Okular gegevens:"
 
 #: content/be4foss-handbook/handbook_web.md:707
 msgid ""
 "For the log file of actions, the datetime is encoded as *YYYY-MM-DD HH:MM:"
 "SS* (e.g., \"2022-10-04 12:32:43.656\" in “okularActions.csv”)."
 msgstr ""
+"Voor het logbestand van de handelingen, is de tijdstempel gecodeerd als "
+"*YYYY-MM-DD HH:MM:SS* (bijv. \"2022-10-04 12:32:43.656\" in \"okularActions."
+"csv\")."
 
 #: content/be4foss-handbook/handbook_web.md:709
 msgid ""
 "In `OSCAR`, this is specified as \"%Y-%m-%d %H:%M:%OS\" (see screenshot "
 "below). OSCAR will take care of the fractional seconds."
 msgstr ""
+"In `OSCAR` is dit gespecificeerd als \"%Y-%m-%d %H:%M:%OS\" (zie "
+"onderstaande schermafbeelding). OSCAR zorgt voor de fracties van seconden."
 
 #: content/be4foss-handbook/handbook_web.md:711
 msgid ""
@@ -4129,12 +4281,20 @@ msgid ""
 "Note the period in the date and the comma seperating date from time, as well "
 "as only having two digits for the year."
 msgstr ""
+"Voor de energieverbruiksgegevens, de datum en tijd zijn gecodeerd als *DD.MM."
+"YY, HH:MM:SS* (e.g., \"04.10.22, 12:32:43\" in "
+"“okular_baseline_eletrLeistung.csv”). Let op de punt in de datum en de komma "
+"die datum van tijd scheidt, net zoals dat er maar twee cijfers zijn voor het "
+"jaar."
 
 #: content/be4foss-handbook/handbook_web.md:713
 msgid ""
 "In `OSCAR` this is specified as \"%d.%m.%y, %H:%M:%OS\" (see screenshot "
 "below), in which the lowercase “%y” indicates a year with two digits."
 msgstr ""
+"In `OSCAR` is dit gespecificeerd als \"%d.%m.%y, %H:%M:%OS\" (zie "
+"onderstaande schermafdruk), waarin de (in kleine letters) “%y” aangeeft dat "
+"het om een jaar met twee cijfers gaat."
 
 #: content/be4foss-handbook/handbook_web.md:715
 msgid ""
@@ -4142,12 +4302,19 @@ msgid ""
 "MM:SS* (e.g., \"04.10.2022 12:31:43\" in “baseline_hardware_formatiert."
 "csv”). Note the period in the date and the four-digit year."
 msgstr ""
+"Voor de hardwareprestatiegegevens, zijn de tijd en datum gecodeerd als *DD."
+"MM.YYYY HH:MM:SS* (bijv. \"04.10.2022 12:31:43\" in "
+"\"baseline_hardware_formatiert.csv\"). Let op de punt in de datum en het "
+"viercijferige jaar."
 
 #: content/be4foss-handbook/handbook_web.md:717
 msgid ""
 "In `OSCAR`, this is specified as: \"%d.%m.%Y %H:%M:%OS\" (see screenshot "
 "below), in which the uppercase “%Y” indicates a year with four digits."
 msgstr ""
+"In `OSCAR`, is dit gespecificeerd als \"%d.%m.%Y %H:%M:%OS\" (zie "
+"onderstaand schermafdruk), waarin de in grote letters \"%Y\" aangeeft dat "
+"het om een viercijferig jaar gaat."
 
 #: content/be4foss-handbook/handbook_web.md:719
 msgid ""
