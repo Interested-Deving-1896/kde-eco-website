@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-06-29 11:47+0200\n"
+"PO-Revision-Date: 2026-07-08 20:17+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: fr\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 26.04.2\n"
+"X-Generator: Lokalize 26.04.3\n"
 
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -1227,6 +1227,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:230
 msgid "Data Formats &mdash; *Interoperability To Give Users Choice*"
 msgstr ""
+"Formats de données &mdash; *Interopérabilité pour offrir le choix aux "
+"utilisateurs*"
 
 #: content/be4foss-handbook/handbook_web.md:232
 msgid ""
@@ -1314,7 +1316,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:250
 msgid "Modularity &mdash; *To Decrease Memory And Energy Demands*"
-msgstr ""
+msgstr "Modularité — *Pour réduire les besoins en mémoire et en énergie*"
 
 #: content/be4foss-handbook/handbook_web.md:252
 msgid ""
@@ -1705,7 +1707,7 @@ msgstr "production durable des ressources ;"
 
 #: content/be4foss-handbook/handbook_web.md:304
 msgid "longevity, ability to repair and recycle the product; and"
-msgstr ""
+msgstr "longévité, capacité à réparer et recycler le produit et"
 
 #: content/be4foss-handbook/handbook_web.md:306
 msgid "efficient use, e.g. products which save energy."
@@ -2209,6 +2211,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:447
 msgid "[libinput user devices](https://lwn.net/Articles/801767/)"
 msgstr ""
+"[Périphériques utilisateur sous la bibliothèque « libinput »](https://lwn."
+"net/Articles/801767/)"
 
 #: content/be4foss-handbook/handbook_web.md:449
 msgid "Measurement Process"
@@ -2229,7 +2233,7 @@ msgstr "Quelques commentaires généraux :"
 
 #: content/be4foss-handbook/handbook_web.md:455
 msgid "Times between the PM and DAE must be synchronized."
-msgstr ""
+msgstr "Les horaires entre le PM et le DAE doivent être synchronisés."
 
 #: content/be4foss-handbook/handbook_web.md:457
 msgid ""
@@ -2267,7 +2271,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:468
 msgid "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<FILENAME>.csv`"
-msgstr ""
+msgstr "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<FILENAME>.csv`"
 
 #: content/be4foss-handbook/handbook_web.md:470
 msgid "The options are as follows:"
@@ -2319,6 +2323,8 @@ msgstr "enregistrer le fichier à l'emplacement spécifié"
 #: content/be4foss-handbook/handbook_web.md:492
 msgid "Measuring Baseline, Idle Mode, And Standard Usage Scenarios"
 msgstr ""
+"Mesurer le mode de base, le mode de veille et les scénarios d'utilisation "
+"standard"
 
 #: content/be4foss-handbook/handbook_web.md:494
 msgid "Baseline Scenario: *Operating System* (OS)"
@@ -2332,7 +2338,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:498
 msgid "Idle Mode Scenario: *OS + Application While Idle*"
-msgstr ""
+msgstr "Scénario de mode veille : *OS + application en veille*"
 
 #: content/be4foss-handbook/handbook_web.md:500
 msgid ""
@@ -2351,10 +2357,10 @@ msgid ""
 msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:504
-#, fuzzy
-#| msgid "Standard Usage Scenarios"
 msgid "Standard Usage Scenario: *OS + Application In Use*"
-msgstr "Scénarios d'usage standard"
+msgstr ""
+"Scénarios d'usage standard : *Système d'exploitation + Application en cours "
+"d'utilisation*"
 
 #: content/be4foss-handbook/handbook_web.md:506
 msgid ""
@@ -2368,7 +2374,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:508
 msgid "<a name=\"sec:labplot\"></a> Monitoring Output With Labplot"
-msgstr ""
+msgstr "<a name=\"sec:labplot\"></a> Surveillance de la sortie avec Labplot"
 
 #: content/be4foss-handbook/handbook_web.md:510
 msgid ""
@@ -2809,7 +2815,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:612
 msgid "The result should look something like the following:"
-msgstr ""
+msgstr "Le résultat devrait ressembler à quelque chose comme ce qui suit :"
 
 #: content/be4foss-handbook/handbook_web.md:616
 msgid "27.08.22, 16:52:03 ;"
@@ -3052,7 +3058,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:667
 msgid "The duration of the measurements in seconds must be specified."
-msgstr ""
+msgstr "La durée des mesures en secondes doit être spécifiée."
 
 #: content/be4foss-handbook/handbook_web.md:669
 msgid "A semicolon separator is used."
@@ -3238,7 +3244,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:729
 msgid "Additionally, you will need to specify the following:"
-msgstr ""
+msgstr "De plus, vous devrez spécifier ce qui suit :"
 
 #: content/be4foss-handbook/handbook_web.md:731
 msgid ""
@@ -3253,7 +3259,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:733
 msgid "the character encoding (German: *Zeichensatz (Encoding)*)."
-msgstr ""
+msgstr "L'encodage des caractères (Allemand : *Zeichensatz (Encodage)*)."
 
 #: content/be4foss-handbook/handbook_web.md:735
 msgid ""
@@ -3353,6 +3359,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:764
 msgid "*Von Festplatte gelesen*: Disk read (i.e., ‘X.DSK.ReadKBTot’)"
 msgstr ""
+"*Von Festplatte gelesen* : lecture du disque (C'est-à-dire « X.DSK."
+"ReadKBTot »)"
 
 #: content/be4foss-handbook/handbook_web.md:765
 msgid "*Auf Festplatte geschrieben*: Disk written (i.e., ‘X.DSK.WriteKBTot’)"
@@ -3360,7 +3368,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:766
 msgid "*Auslastung Auslagerungsdatei*: Swap (here, ‘N/A’)"
-msgstr ""
+msgstr "*Auslastung Auslagerungsdatei* : fichier d’échange (Ici, « N/A »)"
 
 #: content/be4foss-handbook/handbook_web.md:768
 msgid ""
@@ -3384,7 +3392,7 @@ msgstr "*Messungen* : mesures (Par exemple, mode de veille ou SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:775
 msgid "*Aktionen*: Actions (i.e., log file of actions taken)"
-msgstr ""
+msgstr "*Aktionen* : Actions (C'est-à-dire le journal des actions effectuées)"
 
 #: content/be4foss-handbook/handbook_web.md:776
 msgid ""
@@ -3418,11 +3426,11 @@ msgstr "*Nutzungsszenario* : « Scénario d'utilisation » (C'est-à-dire SUS
 
 #: content/be4foss-handbook/handbook_web.md:783
 msgid "*Formatierung Messdaten*: ‘Formatting measurement data’"
-msgstr ""
+msgstr "*Formatierung Messdaten* : « Formatage des données de mesure »"
 
 #: content/be4foss-handbook/handbook_web.md:784
 msgid "*Formatierung Zeitstempel*: ‘Formatting timestamp’"
-msgstr ""
+msgstr "*Formatierung Zeitstempel* : « Formatage de l’horodatage »"
 
 #: content/be4foss-handbook/handbook_web.md:786
 msgid "*Trennzeichen* ‘Separator’"
@@ -3442,11 +3450,11 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:790
 msgid "*Anzahl zu überspringender Zeilen*: ‘Number of lines to skip’"
-msgstr ""
+msgstr "*Anzahl zu überspringender Zeilen* : « Nombre de lignes à ignorer »"
 
 #: content/be4foss-handbook/handbook_web.md:791
 msgid "*Zeichensatz (Encoding)*: ‘Character set (encoding)’"
-msgstr ""
+msgstr "*Zeichensatz (Encodage)* : « Jeu de caractères (Encodage) »"
 
 #: content/be4foss-handbook/handbook_web.md:793
 msgid "*Spalten*: Columns"
@@ -3470,7 +3478,7 @@ msgstr "*Über Netzwerk gesendet*: « Envoyé via le réseau »"
 
 #: content/be4foss-handbook/handbook_web.md:798
 msgid "*Über Netzwerk empfangen*: ‘Received via network’"
-msgstr ""
+msgstr "*Über Netzwerk empfangen* : « Reçu par le réseau »"
 
 #: content/be4foss-handbook/handbook_web.md:799
 msgid "*Von Festplatte gelesen*: ‘Read from disk’"
@@ -3482,7 +3490,7 @@ msgstr "*Auf Festplatte geschrieben* : « Écrit sur le disque »"
 
 #: content/be4foss-handbook/handbook_web.md:801
 msgid "*Auslastung Auslagerungsdatei*: ‘Swap file utlization’"
-msgstr ""
+msgstr "*Auslastung Auslagerungsdatei* : « Utilisation du fichier d’échange »"
 
 #: content/be4foss-handbook/handbook_web.md:803
 msgid "Step 3: Generating The Reports (Idle, SUS)"
@@ -3624,6 +3632,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:842
 msgid "*Effective Load*: Net Load + Allocation Factor * Base Load"
 msgstr ""
+"*Charge efficace* : charge nette + facteur d'allocation * charge de base"
 
 #: content/be4foss-handbook/handbook_web.md:843
 msgid "*Hardware Utilization* (SUS only): Effective Load * Time (seconds)"
@@ -3652,6 +3661,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:852
 msgid "<a name=\"sec:gosundPM\"></a> Alternative: Gosund SP111 Setup"
 msgstr ""
+"<a name=\"sec:gosundPM\"></a> Alternative : configuration du Gosund SP111"
 
 #: content/be4foss-handbook/handbook_web.md:854
 msgid ""
@@ -3834,6 +3844,7 @@ msgstr "Cliquez sur « Console »."
 #: content/be4foss-handbook/handbook_web.md:928
 msgid "Enter the following commands one at a time and press enter:"
 msgstr ""
+"Saisissez les commandes suivantes une par une et appuyez sur « Entrée » :"
 
 #: content/be4foss-handbook/handbook_web.md:938
 msgid ""
@@ -3883,6 +3894,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:956
 msgid "start Mosquitto using `systemctl start mosquitto.service`"
 msgstr ""
+"démarrez Mosquitto en utilisant la commande « systemctl start mosquitto."
+"service »"
 
 #: content/be4foss-handbook/handbook_web.md:958
 msgid "(6) *MQTT Tasmota Setup*"
@@ -3896,7 +3909,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:962
 msgid "Enter the IP address of the MQTT broker into the “Host” field."
-msgstr ""
+msgstr "Saisissez l'adresse IP du courtier MQTT dans le champ « Hôte »."
 
 #: content/be4foss-handbook/handbook_web.md:964
 msgid ""
@@ -3931,6 +3944,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:976
 msgid "In terminal 1, run `mosquitto_sub -t 'stat/<topic>/STATUS10'`"
 msgstr ""
+"Dans le terminal 1, veuillez lancer « mosquitto_sub -t 'stat/<topic>/"
+"STATUS10' »"
 
 #: content/be4foss-handbook/handbook_web.md:977
 msgid "In terminal 2, run `mosquitto_pub -t 'cmnd/<topic>/STATUS' -m '10'`"
@@ -4098,7 +4113,7 @@ msgstr "*Disque dur (SSD / HDD)* — Par exemple, 500 Go"
 
 #: content/be4foss-handbook/handbook_web.md:1031
 msgid "*Graphics Card* &mdash; e.g., Intel Ivybridge Desktop"
-msgstr ""
+msgstr "*Carte graphique* &mdash; Par exemple, Intel Ivybridge Desktop"
 
 #: content/be4foss-handbook/handbook_web.md:1033
 msgid "*Network* &mdash; e.g., Realtek Ethernet"
@@ -4189,7 +4204,7 @@ msgstr "2.1 Formats de données"
 
 #: content/be4foss-handbook/handbook_web.md:1067
 msgid "The main information to include in documentation:"
-msgstr ""
+msgstr "Les informations principales à inclure dans la documentation :"
 
 #: content/be4foss-handbook/handbook_web.md:1069
 msgid ""
@@ -4252,6 +4267,7 @@ msgstr "2.3 Continuité de l'aide"
 #: content/be4foss-handbook/handbook_web.md:1093
 msgid "Details about continuity of support to document include:"
 msgstr ""
+"Les détails sur la continuité de la prise en charge au document comprennent :"
 
 #: content/be4foss-handbook/handbook_web.md:1095
 msgid ""
@@ -4485,11 +4501,10 @@ msgid "Example Submission Documents"
 msgstr "Exemples de documents de soumission"
 
 #: content/be4foss-handbook/handbook_web.md:1173
-#, fuzzy
-#| msgid "Completing the Blauer Engel application for Okular"
 msgid "Below are examples of Blue Angel documentation for Okular."
 msgstr ""
-"Remplissage de la demande pour l'éco-label « Blauer Engel » pour Okular"
+"Ci-dessous se trouvent des exemples de documentation « Blauer Engel » pour "
+"Okular :"
 
 #: content/be4foss-handbook/handbook_web.md:1175
 msgid ""
@@ -4589,7 +4604,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1203
 msgid "[Green Coding Berlin](https://www.green-coding.berlin/)"
-msgstr ""
+msgstr "[Codage vert Berlin](https://www.green-coding.berlin/)"
 
 #: content/be4foss-handbook/handbook_web.md:1205
 msgid ""
@@ -7782,10 +7797,8 @@ msgid "Opting Green"
 msgstr "Optez pour le vert"
 
 #: content/opt-green-handbook/index.md:0
-#, fuzzy
-#| msgid "Opt Green: Sustainable Software For Sustainable Hardware"
 msgid "How Sustainable Software Makes for Sustainable Hardware"
-msgstr "Opt Green : des logiciels durables pour des matériels durables"
+msgstr "Comment les logiciels durables deviennent du matériel durable"
 
 #: content/opt-green-handbook/index.md:0
 msgid "KDE Opt Green Handbook"
@@ -9737,7 +9750,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:424
 msgid "From here, this section is broken down into 4 stages:"
-msgstr ""
+msgstr "A partir de là, cette section se décompose en 4 étapes :"
 
 #: content/opt-green-handbook/index.md:426
 msgid "Gaining Experience with FOSS and FOSS groups"
@@ -9783,7 +9796,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:437
 msgid "**Proprietary Operating System** (OS): MS Windows, MacOS"
-msgstr ""
+msgstr "**Système d'exploitation propriétaire** (OS) : comme MS Windows, macOS"
 
 #: content/opt-green-handbook/index.md:438
 msgid ""
@@ -10136,7 +10149,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:513
 msgid "[Linux User Groups](https://linux-events.org/SL_LUGs)"
-msgstr ""
+msgstr "[Groupes d'utilisateurs Linux](https://linux-events.org/SL_LUGs)"
 
 #: content/opt-green-handbook/index.md:514
 msgid "[CryptoParties](https://cryptoparty.in/)"
@@ -10258,6 +10271,7 @@ msgstr "Ils ont entendu dire que beaucoup de choses ne fonctionneraient pas."
 #: content/opt-green-handbook/index.md:544
 msgid "They fear they won't have support when problems arise."
 msgstr ""
+"Ils craignent de ne pas bénéficier d'aide lorsque des problèmes surgissent."
 
 #: content/opt-green-handbook/index.md:545
 msgid "They don't know anyone else who uses FOSS."
@@ -10698,7 +10712,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:636
 msgid "The installation process generally follows these 3 steps:"
-msgstr ""
+msgstr "Le processus d'installation suit généralement ces 3 étapes :"
 
 #: content/opt-green-handbook/index.md:638
 msgid "Prepare a bootable USB drive or DVD"
@@ -11038,10 +11052,12 @@ msgstr "Dérivés Android : Replicant, lineageOS, e / OS"
 #: content/opt-green-handbook/index.md:718
 msgid "Home server (FreedomBox for file sync, chat, email, media)"
 msgstr ""
+"Serveur domestique (FreedomBox pour la synchronisation de fichiers, les "
+"forums de discussions, la messagerie électronique, les média)"
 
 #: content/opt-green-handbook/index.md:719
 msgid "Home automation (Home Assistant, included with FreedomBox)"
-msgstr ""
+msgstr "Domotique (Home Assistant, inclus avec FreedomBox)"
 
 #: content/opt-green-handbook/index.md:720
 msgid ""
@@ -11877,8 +11893,6 @@ msgstr "Objectifs des logiciels durables de KDE"
 
 #. grow-green.header-subtitle
 #: i18n/en.yaml:213
-#, fuzzy
-#| msgid "Develop Energy-Efficient Free & Open Source Software"
 msgid "Advocate for Energy-Efficient Free & Open Source Software"
 msgstr "Développer des logiciels économes en énergie et « Open source »"
 
