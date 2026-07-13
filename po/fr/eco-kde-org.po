@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-06-19 02:09+0000\n"
-"PO-Revision-Date: 2026-07-08 20:17+0200\n"
+"PO-Revision-Date: 2026-07-11 21:50+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: fr\n"
 "Language: fr\n"
@@ -49,6 +49,8 @@ msgstr "Application des critères « Blue Angel » aux logiciels libres »"
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "A Handbook To Certifying Software As Sustainable (February 2023)"
 msgstr ""
+"Un manuel pour la certification des logiciels en terme de durabilité "
+"(Février 2023)"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/index.md:0
@@ -1245,6 +1247,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:234
 msgid "Transparency &mdash; *Removing User Dependencies For Long-Term Use*"
 msgstr ""
+"Transparence — *Suppression des dépendances utilisateur pour une utilisation "
+"sur le long terme*"
 
 #: content/be4foss-handbook/handbook_web.md:236
 msgid ""
@@ -1262,6 +1266,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:238
 msgid "Continuity Of Support &mdash; *Security Updates To Prevent E-Waste*"
 msgstr ""
+"Continuité de l'aide — *Mises à jour de sécurité pour limiter les déchets "
+"électroniques*"
 
 #: content/be4foss-handbook/handbook_web.md:240
 msgid ""
@@ -1606,6 +1612,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:284
 msgid "![Icon for KDE’s popular application Okular.](images/sec2_okular.png)"
 msgstr ""
+"![Icône de Okular, une application populaire de KDE.](images/sec2_okular.png)"
 
 #: content/be4foss-handbook/handbook_web.md:286
 #, fuzzy
@@ -1875,6 +1882,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:353
 msgid "See also the following resources from the Umwelt Campus Birkenfeld:"
 msgstr ""
+"Voir également les ressources suivantes du « Campus Umwelt » de Birkenfeld :"
 
 #: content/be4foss-handbook/handbook_web.md:355
 msgid ""
@@ -1903,6 +1911,8 @@ msgstr "Aperçu de la configuration du laboratoire"
 #: content/be4foss-handbook/handbook_web.md:363
 msgid "The laboratory setup requires 1 power meter and at least 2 computers:"
 msgstr ""
+"L'installation du laboratoire nécessite un wattmètre et au moins 2 "
+"ordinateurs :"
 
 #: content/be4foss-handbook/handbook_web.md:365
 msgid "*Power Meter*"
@@ -1956,6 +1966,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:379
 msgid "![Screenshot of the Gude Power Meter.](images/sec3_gude-pm.jpg)"
 msgstr ""
+"![Capture d’écran du compteur électrique Gude.](images/sec3_gude-pm.jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:381
 msgid "*Computer 2: System Under Test*"
@@ -2058,6 +2069,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:405
 msgid "Overwrite the entire hard drive of the machine with a standardized OS."
 msgstr ""
+"Écrasez la totalité du disque dur de l'ordinateur avec un système "
+"d'exploitation standardisé."
 
 #: content/be4foss-handbook/handbook_web.md:407
 msgid ""
@@ -2195,6 +2208,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:443
 msgid "Various Wayland protocols (support varies between compositors):"
 msgstr ""
+"Divers protocoles Wayland (Leurs prises en charge dépendent des "
+"compositeurs) :"
 
 #: content/be4foss-handbook/handbook_web.md:444
 msgid ""
@@ -2401,6 +2416,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:518
 msgid "You can check that the output is correct under the “Preview” tab."
 msgstr ""
+"Vous pouvez vérifier que le résultat est correct sous l'onglet « Aperçu »."
 
 #: content/be4foss-handbook/handbook_web.md:520
 msgid "If everything looks good, click OK."
@@ -3128,6 +3144,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:691
 msgid "Under *Baselines* upload the baseline measurement data."
 msgstr ""
+"Sous *Baselines*, veuillez télécharger les données de mesure de référence."
 
 #: content/be4foss-handbook/handbook_web.md:693
 msgid ""
@@ -3351,10 +3368,13 @@ msgstr "*RAM-Auslastung* : mémoire RAM (C’est-à-dire, « X.MEM.Used »)"
 #: content/be4foss-handbook/handbook_web.md:762
 msgid "*Über Netzwerk gesendet*: Network transmitted (i.e., ‘X.NET.TxKBTot’)"
 msgstr ""
+"*Über Netzwerk gesendet* : transmis par le réseau (C'est-à-dire « X.NET."
+"TxKBTot »)"
 
 #: content/be4foss-handbook/handbook_web.md:763
 msgid "*Über Netzwerk empfangen*: Network received (i.e., ‘X.NET.RxKBTot’)"
 msgstr ""
+"*Über Netzwerk empfangen* : réseau reçu (C'est-à-dire « X.NET.RxKBTot) »"
 
 #: content/be4foss-handbook/handbook_web.md:764
 msgid "*Von Festplatte gelesen*: Disk read (i.e., ‘X.DSK.ReadKBTot’)"
@@ -3365,6 +3385,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:765
 msgid "*Auf Festplatte geschrieben*: Disk written (i.e., ‘X.DSK.WriteKBTot’)"
 msgstr ""
+"*Auf Festplatte geschrieben* : disque écrit (C'est-à-dire « X.DSK."
+"WriteKBTot »)"
 
 #: content/be4foss-handbook/handbook_web.md:766
 msgid "*Auslastung Auslagerungsdatei*: Swap (here, ‘N/A’)"
@@ -3447,6 +3469,8 @@ msgstr "*Dezimaltrennzeichen* : « Séparateur décimal »"
 #: content/be4foss-handbook/handbook_web.md:789
 msgid "*Erste Zeile enthält Überschriften*: ‘First line contains headings’"
 msgstr ""
+"*Erste Zeile enthält Überschriften : « La première ligne contient des en-"
+"têtes »"
 
 #: content/be4foss-handbook/handbook_web.md:790
 msgid "*Anzahl zu überspringender Zeilen*: ‘Number of lines to skip’"
@@ -3555,6 +3579,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:820
 msgid "Information that needs to be included in the forms is as follows:"
 msgstr ""
+"Les informations qui doivent être incluses dans les formulaires sont les "
+"suivantes :"
 
 #: content/be4foss-handbook/handbook_web.md:822
 msgid ""
@@ -3587,6 +3613,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:832
 msgid "Energy consumption results found in the `OSCAR` reports or equivalent."
 msgstr ""
+"Résultats de la consommation d'énergie trouvés dans les rapports « OSCAR » "
+"ou équivalents."
 
 #: content/be4foss-handbook/handbook_web.md:834
 msgid ""
@@ -3637,6 +3665,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:843
 msgid "*Hardware Utilization* (SUS only): Effective Load * Time (seconds)"
 msgstr ""
+"*Utilisation du matériel* (Uniquement SUS) : charge effective * Temps "
+"(Secondes)"
 
 #: content/be4foss-handbook/handbook_web.md:845
 msgid ""
@@ -3732,7 +3762,7 @@ msgstr "Appuyer sur le bouton pendant 40 secondes."
 
 #: content/be4foss-handbook/handbook_web.md:876
 msgid "The device will restart and you should be able to continue at (2)."
-msgstr ""
+msgstr "Le périphérique va redémarrer et vous devriez pouvoir continuer à (2)."
 
 #: content/be4foss-handbook/handbook_web.md:878
 msgid "(2) *WiFi Setup*"
@@ -3950,10 +3980,12 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:977
 msgid "In terminal 2, run `mosquitto_pub -t 'cmnd/<topic>/STATUS' -m '10'`"
 msgstr ""
+"Dans le terminal 2, lancez la commande « mosquitto_pub -t 'cmnd/<topic>/"
+"STATUS' -m '10 »"
 
 #: content/be4foss-handbook/handbook_web.md:979
 msgid "Replace `<topic>` with the value noted down in step (6)."
-msgstr ""
+msgstr "Remplacez « <topic> » par la valeur notée à l'étape (6)."
 
 #: content/be4foss-handbook/handbook_web.md:981
 msgid ""
@@ -4134,6 +4166,8 @@ msgstr "*Système d'exploitation* — Par exemple, Ubuntu 18.04"
 #: content/be4foss-handbook/handbook_web.md:1041
 msgid "Again, examples for Okular can be found at the following links:"
 msgstr ""
+"Encore une fois, des exemples pour Okular peuvent être trouvés grâce aux "
+"liens suivants :"
 
 #: content/be4foss-handbook/handbook_web.md:1048
 msgid ""
@@ -4244,6 +4278,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:1082
 msgid "[KDE PIM API documentation](https://api.kde.org/kdepim/index.html)"
 msgstr ""
+"[Documentation de l'API de KDE PIM](https://api.kde.org/kdepim/index.html)"
 
 #: content/be4foss-handbook/handbook_web.md:1084
 msgid "[Source code](https://invent.kde.org/pim/kmail)"
@@ -4251,7 +4286,7 @@ msgstr "[Code Source](https://invent.kde.org/pim/kmail)"
 
 #: content/be4foss-handbook/handbook_web.md:1086
 msgid "[License](https://invent.kde.org/pim/kmail/-/blob/master/LICENSES)"
-msgstr ""
+msgstr "[Licence](https://invent.kde.org/pim/kmail/-/blob/master/LICENSES)"
 
 #: content/be4foss-handbook/handbook_web.md:1088
 msgid ""
@@ -4278,6 +4313,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:1097
 msgid "Release schedule and details (e.g., who maintains the software)."
 msgstr ""
+"Calendrier de publication et détails (Par exemple, quelle est la personne "
+"réalisant la maintenance du logiciel)."
 
 #: content/be4foss-handbook/handbook_web.md:1099
 msgid "Statement that updates are free of charge."
@@ -4375,6 +4412,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:1131
 msgid "Can the software manuals or translations be installed separately?"
 msgstr ""
+"Les manuels ou traductions de logiciels peuvent-ils être installés "
+"séparément ?"
 
 #: content/be4foss-handbook/handbook_web.md:1133
 msgid ""
@@ -4628,7 +4667,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1211
 msgid "[Green Web Foundation](https://www.thegreenwebfoundation.org/)"
-msgstr ""
+msgstr "[Green Web Foundation](https://www.thegreenwebfoundation.org/)"
 
 #: content/be4foss-handbook/handbook_web.md:1213
 msgid ""
@@ -7998,6 +8037,7 @@ msgstr "Pensez y juste une minute."
 #: content/opt-green-handbook/index.md:85
 msgid "Now keep your answer in mind&mdash;we'll come back to it shortly."
 msgstr ""
+"Conservez maintenant votre réponse en tête –- Nous y reviendrons sous peu."
 
 #: content/opt-green-handbook/index.md:87
 msgid ""
@@ -8781,6 +8821,8 @@ msgstr ""
 #: content/opt-green-handbook/index.md:226
 msgid "*Share*: FOSS \"can be shared and copied at virtually no cost.\""
 msgstr ""
+"*Partager* : les logiciels libres « FOSS » « peuvent être partagés et copiés "
+"pratiquement sans frais »."
 
 #: content/opt-green-handbook/index.md:227
 msgid ""
@@ -8923,6 +8965,8 @@ msgstr ""
 #: content/opt-green-handbook/index.md:277
 msgid "In short, whoever controls the recipe will decide the cake we eat."
 msgstr ""
+"En bref, la personne contrôlant la recette décidera du gâteau que nous "
+"mangerons."
 
 #: content/opt-green-handbook/index.md:279
 msgid ""
@@ -9159,7 +9203,7 @@ msgstr "256 Go"
 
 #: content/opt-green-handbook/index.md:317
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
-msgstr ""
+msgstr "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 
 #: content/opt-green-handbook/index.md:317
 #: content/opt-green-handbook/index.md:324
@@ -9215,7 +9259,7 @@ msgstr "15 Go"
 
 #: content/opt-green-handbook/index.md:324
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
-msgstr ""
+msgstr "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 
 #: content/opt-green-handbook/index.md:325
 msgid ""
@@ -9229,7 +9273,7 @@ msgstr "512 Mo"
 
 #: content/opt-green-handbook/index.md:326
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
-msgstr ""
+msgstr "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 
 #: content/opt-green-handbook/index.md:326
 msgid "512 MiB"
@@ -9237,7 +9281,7 @@ msgstr "512 Mo"
 
 #: content/opt-green-handbook/index.md:327
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
-msgstr ""
+msgstr "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 
 #: content/opt-green-handbook/index.md:327
 #: content/opt-green-handbook/index.md:328
@@ -9493,6 +9537,8 @@ msgstr "« Je dois être développeur pour profiter des logiciels libres. »"
 #: content/opt-green-handbook/index.md:370
 msgid "\"FOSS is free of cost because it is developed by volunteers.\""
 msgstr ""
+"« Les logiciels « FOSS » sont gratuits car ils sont développés par des "
+"bénévoles. »"
 
 #: content/opt-green-handbook/index.md:372
 msgid ""
@@ -9504,6 +9550,8 @@ msgstr ""
 #: content/opt-green-handbook/index.md:374
 msgid "**Misconception 1: Anyone can modify the application I am using.**"
 msgstr ""
+"**Idée fausse numéro 1 : n'importe qui peut modifier l'application que "
+"j'utilise.**"
 
 #: content/opt-green-handbook/index.md:376
 msgid ""
@@ -9534,7 +9582,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:380
 msgid "**Misconception 2: You never know where the software came from.**"
-msgstr ""
+msgstr "**Idée fausse numéro 2 : on ne sait jamais d'où vient le logiciel.**"
 
 #: content/opt-green-handbook/index.md:382
 msgid ""
@@ -9594,6 +9642,8 @@ msgstr ""
 #: content/opt-green-handbook/index.md:392
 msgid "**Misconception 4: I need to be a developer to benefit from FOSS.**"
 msgstr ""
+"**Idée fausse numéro 4 : je dois être une personne faisant du développement "
+"de logiciels pour bénéficier des logiciels libres.**"
 
 #: content/opt-green-handbook/index.md:394
 msgid ""
@@ -10133,7 +10183,7 @@ msgstr "Dossier [Fin de Windows 10](https://endof10.org)"
 
 #: content/opt-green-handbook/index.md:510
 msgid "[Repair Café International](https://www.repaircafe.org/en/visit/)"
-msgstr ""
+msgstr "[Repair Café International](https://www.repaircafe.org/en/visit/)"
 
 #: content/opt-green-handbook/index.md:511
 msgid ""
@@ -10263,6 +10313,8 @@ msgstr "Ils pensent que c’est trop difficile à utiliser."
 #: content/opt-green-handbook/index.md:542
 msgid "They see that their out-of-date software still works, so why bother."
 msgstr ""
+"Ils constatent que leurs logiciels obsolètes fonctionnent toujours, alors "
+"pourquoi s'en soucier."
 
 #: content/opt-green-handbook/index.md:543
 msgid "They've heard that many things won't work."
