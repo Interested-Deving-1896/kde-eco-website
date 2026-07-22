@@ -7,24 +7,26 @@ menu:
     weight: 5
 userbase: KDE Eco
 ---
-We need as many motivated people as possible to drive this forward. Here are some channels where you can get more information and contribute.
+
+Here are some places to network with the community, get more information, and contribute.
 
 ### Community & Support
 
-- Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC+2:00/+1:00) (contact us for details)
-- Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org
-- Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-discuss
-- Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-announce
+- KDE Eco [Matrix Room](https://webchat.kde.org/#/room/#kde-eco:kde.org) (Discussion)
+- KDE Eco [Mailing List](https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-discuss) (Discussion)
 
 ### Resources
 
-- Sustainable Software Goal (Community Wiki): https://community.kde.org/Goals/Sustainable_Software
-- "Opt Green" project (GitLab Repository): https://invent.kde.org/teams/eco/opt-green
-- Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/remote-eco-lab
-- FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep
-- BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss
-- Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/eco/blue-angel-application
+- [KEcoLab](https://invent.kde.org/sdk/kecolab) (Repository)
+- [FEEP](https://invent.kde.org/teams/eco/feep) (Repository)
+- [Blue Angel Applications](https://invent.kde.org/teams/eco/blue-angel-application) (Repository)
 
 ### Contact
 
 Email: `joseph [at] kde.org`
+
+### Archive
+
+- [Sustainable Software Goal](https://community.kde.org/Goals/Sustainable_Software) (Wiki)
+- [Opt Green project](https://invent.kde.org/teams/eco/opt-green) (Repository)
+- [BE4FOSS project](https://invent.kde.org/teams/eco/be4foss) (Repository)
