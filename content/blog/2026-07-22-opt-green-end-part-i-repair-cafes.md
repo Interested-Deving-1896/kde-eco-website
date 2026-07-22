@@ -114,9 +114,9 @@ Keep your eyes on this blog for the second installment about End Of 10, the glob
 
 If you would like to start a Repair Café in your town or city, Repair Cafe International has some helpful information at the "[Start Your Own](https://www.repaircafe.org/en/join/start-your-own/)" and "[Linux Repair Café](https://www.repaircafe.org/linux-repair-cafe/)" webpages. Restart Project has prepared a "[End of Windows 10: A Toolkit for Community Repair Groups](https://therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/)". You may also enjoy reading up on some [strategies to getting started](https://eco.kde.org/opt-green-handbook/#stage-1-gaining-experience) in the Opt Green handbook.
 
-### Appendix: When Repair Is Not Possible
+### When Repair Is Not Possible
 
-When you need to buy new hardware, consider buying one of many Linux-supported devices on the market. That way you can use the computer for as long as the hardware keeps working. With devices made for Linux you will have a better out-of-the-box experience, with less tinkering and fewer workarounds needed to get pesky proprietary-software components working.
+When you need to buy new hardware, look into one of many Linux-supported devices on the market. That way you can use the computer for as long as the hardware keeps working. With devices made for Linux you will have a better out-of-the-box experience too, with less tinkering and fewer workarounds needed to get pesky proprietary-software components working.
 
 KDE [supporting members](https://ev.kde.org/supporting-members/) like [Slimbook](https://slimbook.com/), [Kubuntu Focus](https://kfocus.org/), [Tuxedo Computers](https://www.tuxedocomputers.com/), [framework](https://frame.work/) all sell hardware with native Linux support. Many offer hardware replacement parts and repair guides too, so you can easily swap out broken pieces when needed.
 
@@ -130,7 +130,9 @@ We would love to hear from you! Sign up, say hello, and let us know what you are
 
 * Repair Café support at "Forum Werkstätten RC-Hip": <https://forum.makes-hacks-hip.de/>
 * KDE Eco Matrix room: <https://matrix.to/#/#endof10-en:kde.org>
+* KDE Eco on Mastodon: <https://floss.social/@be4foss>
 * End Of 10 working room: <https://matrix.to/#/#endof10:kde.org>
+* End Of 10 on Mastodon: <https://floss.social/@endof10>
 
 The Code of Conduct for KDE communication channels can be found [here](https://kde.org/code-of-conduct/).
 
