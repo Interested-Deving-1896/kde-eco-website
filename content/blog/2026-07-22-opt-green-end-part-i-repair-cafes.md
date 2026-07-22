@@ -4,7 +4,7 @@ title: "Opt Green Has Ended. Long Live Opt Green!"
 subtitle: "Part I: Repair Cafés"
 categories: [Opt Green, Repair]
 author: Joseph P. De Veaugh-Geiss
-summary: "The Opt Green project has come to an end. This blog post takes a closer look at two campaign activities which will have impacts well beyond the project's end. This is Part I."
+summary: "The Opt Green project has come to an end. Two activities of the project will help it live on for years to come. This is Part I."
 featured: true
 thumbnail: /blog/thumbnails/blog-opt-green-optimized.png
 SPDX-License-Identifier: CC-BY-SA-4.0
