@@ -63,7 +63,7 @@ One End Of 10 contributor came up with a slogan which I feel captures this conne
 
 {{< container class="text-center" >}}
 
-![Snippet of a community poster for the End Of 10 campaign. (Image from Finnjan Hofmann published under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license. Redesign by Aaron Rainbolt.)](/blog/images/2026-06-22-foss-instead-of-toss.png)
+![Snippet of a community poster for the End Of 10 campaign. (Image from Finnjan Hofmann published under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license. Redesign by Aaron Rainbolt.)](/blog/images/2026-07-22-foss-instead-of-toss.png)
 
 {{< /container >}}
 
