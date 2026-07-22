@@ -16,6 +16,7 @@ i18n:
       - content/blog/2022-03-03-sok22-kde-eco.md
       - content/blog/2022-02-07-kde-eco-2021-sprint.md
       - content/blog/2024-05-29_introducing-ns4nh.md
+      - content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md
       - content/blog/post-1.md
       globs:
       - content/BE4FOSS/*.md
