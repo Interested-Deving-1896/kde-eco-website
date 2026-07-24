@@ -6223,7 +6223,7 @@ msgstr ""
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid "Repair"
-msgstr ""
+msgstr "Opravit"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid ""
@@ -6910,7 +6910,7 @@ msgstr ""
 
 #: content/get-involved.md:28
 msgid "Archive"
-msgstr ""
+msgstr "Archiv"
 
 #: content/get-involved.md:30
 msgid ""

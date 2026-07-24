@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-23 02:06+0000\n"
-"PO-Revision-Date: 2026-07-17 18:28+0300\n"
+"PO-Revision-Date: 2026-07-23 20:14+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -314,14 +314,6 @@ msgstr ""
 "пристрої, в багатьох випадках без потреби."
 
 #: content/be4foss-handbook/handbook_web.md:53
-#, fuzzy
-#| msgid ""
-#| "“A fact that is even more rarely appreciated is that the key to "
-#| "increasing energy efficiency and protecting natural resources lies not "
-#| "with the hardware but rather above all with the software.” &mdash; Blue "
-#| "Angel Award Critera: [Resource and Energy-Efficient Software Products]"
-#| "(https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
-#| "%20215-202001-en-Criteria-V2.pdf) (p. 5)"
 msgid ""
 "“A fact that is even more rarely appreciated is that the key to increasing "
 "energy efficiency and protecting natural resources lies not with the "
@@ -540,21 +532,6 @@ msgstr ""
 "Малайзія."
 
 #: content/be4foss-handbook/handbook_web.md:79
-#, fuzzy
-#| msgid ""
-#| "At the same time, we use more digital devices than ever before. The "
-#| "number of internet-connected devices, including laptops and smartphones, "
-#| "but also smart TVs, home assistants, and other IoT devices, is rapidly "
-#| "growing, and [expected](https://www.statista.com/statistics/471264/iot-"
-#| "number-of-connected-devices-worldwide/) to surpass 75 billion by 2025. "
-#| "That’s just about 10 devices for every person on earth (though the global "
-#| "distribution of these devices is far from even). Globally, smartphone "
-#| "adoption has increased rapidly, as well as the demands on resources "
-#| "needed to manufacture new and [increasingly powerful devices](https://www."
-#| "oekom.de/buch/smarte-gruene-welt-9783962380205). The production of these "
-#| "devices, including mining for the rare earth metals necessary to make "
-#| "them work, and their transporation, use, and eventual disposal all "
-#| "consume copious amounts of energy."
 msgid ""
 "At the same time, we use more digital devices than ever before. The number "
 "of internet-connected devices, including laptops and smartphones, but also "
@@ -925,6 +902,23 @@ msgid ""
 "eric-lundgren-is-going-to-help-you-recycle-all-your-electronics/) of trash "
 "in landfills, it contributes to almost 70% of the toxic waste found there."
 msgstr ""
+"Електронні відходи [вважаються](https://www.weforum.org/reports/a-new-"
+"circular-vision-for-electronics-time-for-a-global-reboot/) «потоком відходів "
+"у світі, що зростає найшвидше», причому у 2016 році було утворено 44,7 "
+"мільйона метричних тонн, що еквівалентно [4500 Ейфелевим вежам](https://www."
+"itu.int/en/ITU-D/Climate-Change/Documents/GEM%202017/Global-E-waste%20Monitor"
+"%202017%20.pdf), що, якщо їх скласти разом, у 17 разів вище за гору Еверест. "
+"У 2018 році було повідомлено про приблизно 50 мільйонів метричних тонн "
+"електронних відходів, що спонукало ООН назвати це «цунамі електронних "
+"відходів, що розгортається по всьому світу». Цифри продовжують зростати: у "
+"2021 році у світі було утворено приблизно [57 мільйонів метричних тонн]"
+"(https://www.bbc.com/news/science-environment-61350996) електронних "
+"відходів. [Менше 20 відсотків](https://weee-forum.org/ws_news/international-"
+"e-waste-day-2021/) з них збирається та переробляється, і хоча вони "
+"становлять [лише 2%](https://www.forbes.com/sites/vianneyvaute/2019/04/23/"
+"with-love-from-an-oregon-prison-how-eric-lundgren-is-going-to-help-you-"
+"recycle-all-your-electronics/) сміття на звалищах, вони є причиною майже 70% "
+"токсичних відходів, які там перебувають."
 
 #: content/be4foss-handbook/handbook_web.md:113
 msgid ""
@@ -943,6 +937,22 @@ msgid ""
 "Coquet, all licensed under a [CC-BY](https://spdx.org/licenses/CC-BY-3.0."
 "html) license. Design by Lana Lutz.)](images/sec1_e-waste-infographic.png)"
 msgstr ""
+"![У 2016 році було утворено 44,7 мільйона метричних тонн електронних "
+"відходів. За оцінками, це еквівалентно 4500 Ейфелевим вежам, які, складені "
+"одна на одну, у 17 разів вищі за гору Еверест. Менше 20% електронних "
+"відходів збирається та переробляється. Хоча електронні відходи становлять "
+"менше 2% сміття на звалищах, вони складають майже 70% токсичних відходів. "
+"(Зображення з KDE, опубліковане за ліцензією [CC-BY-SA-4.0](https://spdx.org/"
+"licenses/CC-BY-SA-4.0.html). Піктограма [Ейфелевої вежі](https://"
+"thenounproject.com/icon/eiffel-tower-1190637/) від Даніели Баптісти, "
+"піктограма [гори](https://thenounproject.com/icon/moutain-372219/) від Самі "
+"Менай, піктограма [переробка](https://thenounproject.com/icon/"
+"recycling-5458016/) від Косонга Туджуха, піктограма [екскаватора](https://"
+"thenounproject.com/icon/excavator-576937/) від Пітера ван Дріеля, піктограма "
+"[отрути](https://thenounproject.com/icon/poison-3201818/) від Адрієна Коке, "
+"усі зображення ліцензовані за умов дотримання ліцензії [CC-BY](https://spdx."
+"org/licenses/CC-BY-3.0.html). Дизайн Лани Лутц.)](images/sec1_e-waste-"
+"infographic.png)"
 
 #: content/be4foss-handbook/handbook_web.md:115
 msgid ""
@@ -1214,6 +1224,9 @@ msgid ""
 "equivalent to diminished consumption**. The very contrary is the "
 "truth.” [emphasis added]"
 msgstr ""
+"«Це помилка — вважати, що **ощадливе використання палива еквівалентне "
+"зменшенню його споживання**. Правда полягає в протилежному». [виокремлено "
+"автором]"
 
 #: content/be4foss-handbook/handbook_web.md:155
 msgid ""
@@ -7772,10 +7785,8 @@ msgid ""
 msgstr ""
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:83
-#, fuzzy
-#| msgid "Read more"
 msgid "And more."
-msgstr "Дізнатися більше"
+msgstr "І більше."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:85
 msgid ""
@@ -7964,12 +7975,8 @@ msgid ""
 msgstr ""
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:132
-#, fuzzy
-#| msgid ""
-#| "Matrix room: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
 msgid "KDE Eco Matrix room: <https://matrix.to/#/#endof10-en:kde.org>"
-msgstr ""
-"Кімната Matrix: https://webchat.kde.org/#/room/#energy-efficiency:kde.org"
+msgstr "Кімната KDE Eco у Matrix: <https://matrix.to/#/#endof10-en:kde.org>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:133
 msgid "KDE Eco on Mastodon: <https://floss.social/@be4foss>"
@@ -7990,13 +7997,6 @@ msgid ""
 msgstr ""
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:141
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The Opt Green project was funded by the Federal Environment Agency (UBA) and "
 "the Federal Ministry for the Environment, Climate Action, Nature "
@@ -8004,11 +8004,6 @@ msgid ""
 "href=\"#fn.1\">1</a></sup>). The funds are made available by resolution of "
 "the German Bundestag."
 msgstr ""
-"Проєкт BE4FOSS було профінансовано Федеральною Агенцією з навколишнього "
-"середовища та Федеральним міністерством навколишнього середовища, збереження "
-"природи, ядерної безпеки та захисту споживачів (BMUV<sup><a id=\"fnr.1\" "
-"class=\"footref\" href=\"#fn.1\">1</sup>). Доступ до фінансування було "
-"затверджено Бундестагом ФРН."
 
 #: content/blog/_index.md:0
 msgid "Blog"
@@ -8257,26 +8252,20 @@ msgid "Community & Support"
 msgstr "Підтримка і спільнота"
 
 #: content/get-involved.md:15
-#, fuzzy
-#| msgid ""
-#| "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgid ""
 "KDE Eco [Matrix Room](https://webchat.kde.org/#/room/#kde-eco:kde.org) "
 "(Discussion)"
 msgstr ""
-"Кімната Matrix (обговорення): https://webchat.kde.org/#/room/#kde-eco:kde.org"
+"KDE Eco у [Matrix](https://webchat.kde.org/#/room/#kde-eco:kde.org) "
+"(обговорення)"
 
 #: content/get-involved.md:16
-#, fuzzy
-#| msgid ""
-#| "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#| "kde-eco-discuss"
 msgid ""
 "KDE Eco [Mailing List](https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-"
 "discuss) (Discussion)"
 msgstr ""
-"Список листування (обговорення): https://mail.kde.org/cgi-bin/mailman/"
-"listinfo/kde-eco-discuss"
+"KDE Eco, [список листування](https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"kde-eco-discuss) (обговорення)"
 
 #: content/get-involved.md:18
 msgid "Resources"
@@ -8287,22 +8276,16 @@ msgid "[KEcoLab](https://invent.kde.org/sdk/kecolab) (Repository)"
 msgstr ""
 
 #: content/get-involved.md:21
-#, fuzzy
-#| msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
 msgid "[FEEP](https://invent.kde.org/teams/eco/feep) (Repository)"
-msgstr "FEEP (Сховище GitLab): https://invent.kde.org/teams/eco/feep"
+msgstr "[FEEP](https://invent.kde.org/teams/eco/feep) (сховище)"
 
 #: content/get-involved.md:22
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "[Blue Angel Applications](https://invent.kde.org/teams/eco/blue-angel-"
 "application) (Repository)"
 msgstr ""
-"Програми Blue Angel (Сховище GitLab): https://invent.kde.org/teams/eco/blue-"
-"angel-application"
+"[Програми Blue Angel](https://invent.kde.org/teams/eco/blue-angel-"
+"application) (сховище)"
 
 #: content/get-involved.md:26
 msgid "Email: `joseph [at] kde.org`"
@@ -8313,35 +8296,23 @@ msgid "Archive"
 msgstr ""
 
 #: content/get-involved.md:30
-#, fuzzy
-#| msgid ""
-#| "Sustainable Software Goal (Community Wiki): https://community.kde.org/"
-#| "Goals/Sustainable_Software"
 msgid ""
 "[Sustainable Software Goal](https://community.kde.org/Goals/"
 "Sustainable_Software) (Wiki)"
 msgstr ""
-"Мета сталого програмного забезпечення (Вікі спільноти): https://community."
-"kde.org/Goals/Sustainable_Software"
+"[Мета програмного забезпечення для сталого розвитку](https://community.kde."
+"org/Goals/Sustainable_Software) (вікі)"
 
 #: content/get-involved.md:31
-#, fuzzy
-#| msgid ""
-#| "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/opt-green"
 msgid ""
 "[Opt Green project](https://invent.kde.org/teams/eco/opt-green) (Repository)"
 msgstr ""
-"Проєкт «Opt Green» (сховище GitLab): https://invent.kde.org/teams/eco/opt-"
-"green"
+"[Проєкт Opt Green](https://invent.kde.org/teams/eco/opt-green) (сховище)"
 
 #: content/get-involved.md:32
-#, fuzzy
-#| msgid ""
-#| "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgid ""
 "[BE4FOSS project](https://invent.kde.org/teams/eco/be4foss) (Repository)"
-msgstr "BE4FOSS (Сховище GitLab): https://invent.kde.org/teams/eco/be4foss"
+msgstr "[Проєкт BE4FOSS](https://invent.kde.org/teams/eco/be4foss) (сховище)"
 
 #. grow-green.header
 #: content/grow-green/_index.md:0 i18n/en.yaml:211

@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-23 02:06+0000\n"
-"PO-Revision-Date: 2026-06-15 20:10-0300\n"
+"PO-Revision-Date: 2026-07-23 10:19-0300\n"
 "Last-Translator: Marcus Gama <marcus.gama@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
 "Language: pt_BR\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 26.04.2\n"
+"X-Generator: Lokalize 26.04.3\n"
 
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -309,14 +309,6 @@ msgstr ""
 "e transportados, em muitos casos desnecessariamente."
 
 #: content/be4foss-handbook/handbook_web.md:53
-#, fuzzy
-#| msgid ""
-#| "“A fact that is even more rarely appreciated is that the key to "
-#| "increasing energy efficiency and protecting natural resources lies not "
-#| "with the hardware but rather above all with the software.” &mdash; Blue "
-#| "Angel Award Critera: [Resource and Energy-Efficient Software Products]"
-#| "(https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
-#| "%20215-202001-en-Criteria-V2.pdf) (p. 5)"
 msgid ""
 "“A fact that is even more rarely appreciated is that the key to increasing "
 "energy efficiency and protecting natural resources lies not with the "
@@ -537,21 +529,6 @@ msgstr ""
 "como a Suécia ou a Malásia."
 
 #: content/be4foss-handbook/handbook_web.md:79
-#, fuzzy
-#| msgid ""
-#| "At the same time, we use more digital devices than ever before. The "
-#| "number of internet-connected devices, including laptops and smartphones, "
-#| "but also smart TVs, home assistants, and other IoT devices, is rapidly "
-#| "growing, and [expected](https://www.statista.com/statistics/471264/iot-"
-#| "number-of-connected-devices-worldwide/) to surpass 75 billion by 2025. "
-#| "That’s just about 10 devices for every person on earth (though the global "
-#| "distribution of these devices is far from even). Globally, smartphone "
-#| "adoption has increased rapidly, as well as the demands on resources "
-#| "needed to manufacture new and [increasingly powerful devices](https://www."
-#| "oekom.de/buch/smarte-gruene-welt-9783962380205). The production of these "
-#| "devices, including mining for the rare earth metals necessary to make "
-#| "them work, and their transporation, use, and eventual disposal all "
-#| "consume copious amounts of energy."
 msgid ""
 "At the same time, we use more digital devices than ever before. The number "
 "of internet-connected devices, including laptops and smartphones, but also "
@@ -1105,18 +1082,6 @@ msgstr ""
 "ou desejassem removê-las se pudessem. Considere o seguinte:"
 
 #: content/be4foss-handbook/handbook_web.md:127
-#, fuzzy
-#| msgid ""
-#| "“Processing power has doubled about every two years since 1970. This "
-#| "means that functions are processed twice as fast and thus less energy is "
-#| "required for the same functions. A similar improvement in efficiency "
-#| "cannot be observed in the field of software. […] The availability of more "
-#| "and more powerful hardware has resulted in software becoming more and "
-#| "more bloated from version to version so that more resources are required "
-#| "for only minimal or even no enhancement of the functionality.” &mdash; "
-#| "Blue Angel Award Critera: [Resource and Energy-Efficient Software "
-#| "Products](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-"
-#| "UZ%20215-202001-en-Criteria-V2.pdf) (p. 5)"
 msgid ""
 "“Processing power has doubled about every two years since 1970. This means "
 "that functions are processed twice as fast and thus less energy is required "
@@ -1293,22 +1258,6 @@ msgstr ""
 "infraestrutura."
 
 #: content/be4foss-handbook/handbook_web.md:143
-#, fuzzy
-#| msgid ""
-#| "Researchers in the EU have estimated the environmental costs of tracking "
-#| "and advertisements that users cannot opt out of, referred to as “unwanted "
-#| "data use” in the 2021 report [“*Carbon footprint of unwanted data-use by "
-#| "smartphones: An analysis for the EU*”](https://groenlinks.nl/sites/"
-#| "groenlinks/files/2021-09/CE_Delft_210166_Carbon_footprint_unwanted_data-"
-#| "use_smartphones.pdf). The carbon footprint of this smartphone "
-#| "tracking&mdash;between 3 and 8 million metric tons a year in the EU "
-#| "alone&mdash;is “equal to the carbon footprint of between 370 and 950 "
-#| "thousand EU citizens” (at its worse, roughly the [annual footprint of a "
-#| "city](https://doi.org/10.1088/1748-9326/aac72a) like Turin or Lisbon). "
-#| "The report points out that about 60% of European smartphone users say "
-#| "they would opt out of tracking and block advertisements when possible. "
-#| "That’s an awful lot of energy consumption for something most users don’t "
-#| "want in the first place!"
 msgid ""
 "Researchers in the EU have estimated the environmental costs of tracking and "
 "advertisements that users cannot opt out of, referred to as “unwanted data "
@@ -1490,16 +1439,6 @@ msgstr ""
 "html)).](images/sec1_bigger_problem.png)"
 
 #: content/be4foss-handbook/handbook_web.md:167
-#, fuzzy
-#| msgid ""
-#| "Second, focusing only on fixing the “biggest problem” is not necessarily "
-#| "the most effective strategy. It’s also important to weigh the likelihood "
-#| "of success when addressing an issue, as well as the time and resources "
-#| "required to do so. Free & Open Source Software, with its focus on user "
-#| "autonomy and transparency, provides unique opportunities for users, "
-#| "communities, and organizations to directly address intertwined social and "
-#| "ecological issues. FOSS can be adapted, updated, and maintained at lower "
-#| "cost and without vendor dependencies or artifical restrictions."
 msgid ""
 "Second, focusing only on fixing the “biggest problem” is not necessarily the "
 "most effective strategy. It’s also important to weigh the likelihood of "
@@ -2040,19 +1979,6 @@ msgstr ""
 "lixo eletrônico*"
 
 #: content/be4foss-handbook/handbook_web.md:240
-#, fuzzy
-#| msgid ""
-#| "Dependending on suppliers for essential updates should not result in "
-#| "abandoned software products that cannot be used without presenting "
-#| "serious disadvantages for the users, such as vulnerabilities to [malware]"
-#| "(https://en.wikipedia.org/wiki/Malware). Security updates should be "
-#| "provided for up to five years after software development is discontinued. "
-#| "Moreover, security updates should be separable from feature updates so "
-#| "that users are not coerced into adopting unwanted functionalities, e.g., "
-#| "[feature creep](https://en.wikipedia.org/wiki/Feature_creep) and other "
-#| "forms of bloat. Such [abandonware](https://en.wikipedia.org/wiki/"
-#| "Abandonware) and [software bloat](https://en.wikipedia.org/wiki/"
-#| "Software_bloat) leave hardware unusable and produce unnecessary e-waste."
 msgid ""
 "Depending on suppliers for essential updates should not result in abandoned "
 "software products that cannot be used without presenting serious "
@@ -8936,25 +8862,27 @@ msgstr ""
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 #: i18n/en.yaml:2
 msgid "Opt Green"
-msgstr "Opte pelo verde"
+msgstr "Opte pelo Verde"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid "Opt Green Has Ended. Long Live Opt Green!"
-msgstr ""
+msgstr "O Opte pelo Verde chegou ao fim. Vida longa ao Opte pelo Verde!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid "Part I: Repair Cafés"
-msgstr ""
+msgstr "Parte I: Repair Cafés"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid "Repair"
-msgstr ""
+msgstr "Reparar"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid ""
 "The Opt Green project has come to an end. Two activities of the project will "
 "help it live on for years to come. This is Part I."
 msgstr ""
+"O projeto Opte pelo Verde chegou ao fim. Duas atividades do projeto ajudarão "
+"a dar continuidade ao seu legado nos próximos anos. Esta é a Parte I."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:15
 msgid ""
@@ -8986,10 +8914,38 @@ msgid ""
 "@be4foss/113424955829573330) against e-waste driven by Microsoft's software "
 "policies."
 msgstr ""
+"Com o fim de maio, encerrou-se também o projeto \"Opte pelo Verde: Software "
+"Sustentável para Hardware Sustentável\" do KDE Eco. Leia o [anúncio](https://"
+"eco.kde.org/blog/2024-05-29_introducing-ns4nh/) de 2024, feito no início do "
+"projeto. Foram dois anos intensos e empolgantes. Juntamente com uma equipe "
+"maravilhosa do KDE, dezenas de comunidades apoiadoras e milhares de "
+"voluntários, realmente conquistamos muita coisa. Entre os destaques, estão: "
+"a organização de estandes em [festivais ambientais](https://floss.social/"
+"@be4foss/112332015705832479), [feiras](https://floss.social/"
+"@be4foss/114710216026030872) e na [Longa Noite das Ciências](https://floss."
+"social/@be4foss/112683207939133955); a realização de atividades de "
+"divulgação em [conferências internacionais](https://floss.social/"
+"@be4foss/115150588729184584); e a organização de eventos de instalação para "
+"[adultos](https://floss.social/@be4foss/114748408438299075) e [crianças]"
+"(https://floss.social/@be4foss/113708388646578981), além de ministrarmos "
+"[cursos](https://floss.social/@be4foss/112999467563097293) de [upcycling]"
+"(https://floss.social/@be4foss/116697191038161548) em escolas de ensino "
+"médio. Publicamos anúncios, [publieditoriais](https://web.archive.org/"
+"web/20260330152731/https://werde-magazin.de/stories/beitrag/opt-green-eine-"
+"nachhaltigere-digitale-welt-ist-moeglich/?_ppp=9ff391efeb) e [artigos]"
+"(https://floss.social/@be4foss/116798414401293997) em revistas sobre "
+"Software Livre e de Código Aberto (FOSS) e consumo sustentável, e até "
+"coescrevemos um [artigo acadêmico](https://floss.social/"
+"@be4foss/115547259601891579). Criamos novas conexões entre as comunidades de "
+"FOSS e de reparo. Além disso, [mobilizamos](https://floss.social/"
+"@be4foss/113713173732030500) voluntários em todo o mundo para oferecer "
+"suporte presencial para Linux em uma [campanha global](https://floss.social/"
+"@be4foss/113424955829573330) contra o lixo eletrônico gerado pelas políticas "
+"de software da Microsoft."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:17
 msgid "I only wish we had another two years!"
-msgstr ""
+msgstr "Eu só queria que tivéssemos mais dois anos!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:21
 msgid ""
@@ -9002,6 +8958,14 @@ msgid ""
 "licenses/by-sa/4.0/legalcode.en) license. Design by Anita Sengupta.)](/blog/"
 "images/2026-07-22-ad-werde.png)"
 msgstr ""
+"![Um anúncio da campanha [End of 10](https://endof10.org/) em uma revista "
+"ambiental alemã. Ecoconsumidores são um novo público-alvo para o KDE e o "
+"Software Livre e de Código Aberto, sendo um dos principais grupos-alvo do "
+"projeto Opte pelo Verde. Desde a publicação deste anúncio no início de 2026, "
+"a Microsoft estendeu novamente o fim do suporte para o Windows 10 até 12 de "
+"outubro de 2027. (Imagem do KDE publicada sob uma licença [CC BY-SA 4.0]"
+"(https://creativecommons.org/licenses/by-sa/4.0/legalcode.en). Design por "
+"Anita Sengupta.)](/blog/images/2026-07-22-ad-werde.png)"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:25
 msgid ""
@@ -9014,10 +8978,19 @@ msgid ""
 "will take a closer look at the End Of 10 campaign and what comes next after "
 "the unexpected two-year extension of Windows 10 support."
 msgstr ""
+"Não tentarei fazer uma retrospectiva de tudo o que o projeto realizou. Em "
+"vez disso, gostaria de focar em dois aspectos que, acredito, farão com que "
+"os principais objetivos do projeto não apenas continuem, mas prosperem muito "
+"além do seu encerramento. Esta publicação será dividida em duas partes. "
+"Aqui, na Parte I, apresentarei as atividades do Opte pelo Verde voltadas "
+"para a criação de redes e a colaboração com os *Repair Cafés*. Na Parte II, "
+"a ser publicada em breve, analisarei mais detalhadamente a campanha \"End Of "
+"10\" e o que virá a seguir, após a inesperada prorrogação de dois anos no "
+"suporte ao Windows 10."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:27
 msgid "Networking With Repair Cafés"
-msgstr ""
+msgstr "Estabelecendo conexões com Repair Cafés"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:29
 msgid ""
@@ -9033,6 +9006,19 @@ msgid ""
 "Hackerspaces, Fablabs, LUGs, etc. Working with Repair Cafés provides a great "
 "opportunity to reach people well outside the FOSS bubble."
 msgstr ""
+"Coletivos de reparo oferecem espaços comunitários para consertar itens. "
+"Existem muitos grupos que promovem oficinas para criar e consertar coisas, "
+"como [Hackerspaces, Makerspaces](https://en.wikipedia.org/wiki/Makerspace), "
+"[FabLabs](https://en.wikipedia.org/wiki/Fablab) e [Grupos de Usuários Linux]"
+"(https://en.wikipedia.org/wiki/Linux_User_Groups). No entanto, o foco aqui "
+"serão os [Repair Cafés](https://en.wikipedia.org/wiki/Repair_Caf%C3%A9). O "
+"Software Livre e de Código Aberto (FOSS) — e o papel que ele desempenha ao "
+"manter computadores em uso mesmo após o fim do suporte do fabricante — é, em "
+"grande parte, um tema novo para essas comunidades. Além disso, os Repair "
+"Cafés geralmente atraem um público diferente daquele dos Hackerspaces, "
+"FabLabs, Grupos de Usuários, etc. Trabalhar com Repair Cafés oferece uma "
+"excelente oportunidade de alcançar pessoas que estão bem fora da \"bolha\" "
+"do FOSS."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:31
 msgid ""
@@ -9045,6 +9031,15 @@ msgid ""
 "(creators of Right To Repair and Open Repair Alliance), [iFixit](https://www."
 "ifixit.com), [anstiftung](https://anstiftung.de/), among others."
 msgstr ""
+"Os Repair Cafés são espaços destinados ao conserto de objetos do cotidiano, "
+"como roupas, eletrônicos, bicicletas, entre outros. O primeiro Repair Café "
+"foi lançado na Holanda, em 2009, pela jornalista holandesa Martine Postma. "
+"Desde então, milhares deles surgiram ao redor do mundo com o apoio de "
+"organizações como a [Repair Cafe International](https://www.repaircafe.org/) "
+"(fundada por Martine Postma), o [Restart Project](https://therestartproject."
+"org/) (criadores do Right To Repair e da Open Repair Alliance), o [iFixit]"
+"(https://www.ifixit.com), a [anstiftung](https://anstiftung.de/), entre "
+"outras."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:35
 msgid ""
@@ -9053,10 +9048,14 @@ msgid ""
 "show the location of Repair Cafés around Germany.](/blog/images/2026-07-22-"
 "anstiftung.png)"
 msgstr ""
+"![Captura de tela do site [Netzwerk Reparatur-Initiativen](https://www."
+"reparatur-initiativen.de/) da anstiftung. Aqueles pequenos pontos "
+"ensolarados à direita mostram a localização dos Repair Cafés na Alemanha.](/"
+"blog/images/2026-07-22-anstiftung.png)"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:40
 msgid "From Skepticism, To Support"
-msgstr ""
+msgstr "Do ceticismo ao apoio"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:42
 msgid ""
@@ -9065,6 +9064,11 @@ msgid ""
 "simply not seen as being of interest to repair communities. Hardware, yes; "
 "anything related to real physical objects, sure. But software, not so much."
 msgstr ""
+"A iniciativa do projeto de contatar os *Repair Cafés* na Alemanha teve "
+"início no final de 2024 e no início de 2025. Inicialmente, deparamo-nos com "
+"certo ceticismo. O software, pura e simplesmente, não era visto como algo de "
+"interesse para as comunidades de reparo. Hardware, sim; qualquer coisa "
+"relacionada a objetos físicos reais, com certeza. Mas software, nem tanto."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:44
 msgid ""
@@ -9077,6 +9081,15 @@ msgid ""
 "friendly device is the one you already own!\" and \"You don't need a new "
 "computer&mdash;you just need the right software!\" So we kept at it."
 msgstr ""
+"Um dos objetivos do Opte pelo Verde era conscientizar as pessoas sobre a "
+"importância do software para a longevidade do hardware, tanto quanto os "
+"componentes físicos, como baterias, cabos e telas. O lema de reparo "
+"\"Conserte em vez de jogar fora\" (em alemão: \"[*Reparieren statt "
+"Wegwerfen*](https://anstiftung.de/praxis/reparieren)\") estava perfeitamente "
+"alinhado com os objetivos do Opte pelo Verde. O projeto chegou a adotar "
+"lemas com mensagens semelhantes: \"O dispositivo mais ecológico é aquele que "
+"você já possui!\" e \"Você não precisa de um computador novo &mdash; você só "
+"precisa do software certo!\". Então, persistimos."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:46
 msgid ""
@@ -9092,6 +9105,18 @@ msgid ""
 "could extend the operating life of devices to reduce the environmental harm "
 "of hardware production, transportation, and disposal."
 msgstr ""
+"A primeira grande plataforma do projeto a chegar à comunidade de reparação "
+"alemã foi numa [apresentação online em março de 2025](https://web.archive."
+"org/web/20250405225518/https://www.reparatur-initiativen.de/post/das-ende-"
+"von-windows10-und-wie-man-pcs-und-laptops-danach-noch-nutzen-kann) "
+"organizada pelo Opte pelo Verde com a organização de reparos [anstiftung]"
+"(https://anstiftung.de/). Na palestra, destacamos como o software "
+"[impulsiona o lixo eletrônico](https://www.reparatur-initiativen.de/files/"
+"kcfinder/posts/97597/2025-03-24-KDE-linux-anstiftung.pdf) juntamente com "
+"outras formas de consumo de energia e recursos. Mostramos como o reparo de "
+"software &mdash; possibilitado pelas licenças FOSS &mdash; pode prolongar a "
+"vida útil dos dispositivos, reduzindo os danos ambientais da produção, "
+"transporte e descarte de hardware."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:48
 msgid ""
@@ -9099,6 +9124,9 @@ msgid ""
 "suprised to learn that a handful of volunteers were already offering FOSS "
 "support in their Repair Cafés!"
 msgstr ""
+"Cerca de 180 voluntários de Repair Café participaram... e ficamos "
+"agradavelmente surpresos ao saber que alguns deles já ofereciam suporte a "
+"FOSS em seus Repair Cafés!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:50
 msgid ""
@@ -9110,10 +9138,19 @@ msgid ""
 "Repair Café volunteers interested to learn how to install and use FOSS on "
 "their own devices."
 msgstr ""
+"O primeiro encontro foi um sucesso tão grande que, em parceria com a "
+"anstiftung, organizamos um [webinar de acompanhamento em maio](https://www."
+"reparatur-initiativen.de/post/das-ende-von-windows10-und-wie-man-pcs-und-"
+"laptops-danach-noch-nutzen-kann) com Varut e Herbert, colaboradores do "
+"projeto End Of 10. Um agradecimento especial a ambos pela apresentação! Foi "
+"uma alegria ver, novamente no segundo evento, mais de 100 voluntários do "
+"Repair Café interessados ​​em aprender a instalar e usar FOSS em seus próprios "
+"dispositivos."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:52
 msgid "It seems that software is indeed of interest to repair communities!"
 msgstr ""
+"Parece que o software é, de fato, de interesse das comunidades de reparo!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:54
 msgid ""
@@ -9131,6 +9168,20 @@ msgid ""
 "windows-10-toolkit-for-repair-groups/)\" to promote FOSS among repair groups "
 "as a way to keep unsupported Windows devices in use."
 msgstr ""
+"Em julho de 2026, pouco mais de um ano após aquele segundo webinar, o site "
+"do End Of 10 listava mais de 85 locais e 170 eventos, incluindo Repair "
+"Cafés, Linux Cafés (ou seja, Repair Cafés focados especificamente em Linux) "
+"e organizações similares, como IT-Cafés, Technik-Cafés, etc. (Ao incluir "
+"Makerspaces, Hackerspaces, FabLabs, Grupos de Usuários e outras iniciativas "
+"que se mobilizaram para ajudar, o total no site da End Of 10 ultrapassou "
+"1.180 locais e eventos &mdash; falaremos mais sobre isso na Parte II.) Além "
+"disso, a Repair Café International, uma [organização apoiadora do End Of 10]"
+"(https://endof10.org/#supporters), agora lista 40 [Linux Repair Cafés]"
+"(https://www.repaircafe.org/en/linux-repair-cafe/) em seu site. E o Restart "
+"Project publicou seu próprio \"[kit de ferramentas End Of Windows 10]"
+"(https://therestartproject.org/end-of-windows-10-toolkit-for-repair-"
+"groups/)\" para promover o FOSS entre grupos de reparo, como uma forma de "
+"manter em uso dispositivos com Windows que não recebem mais suporte."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:56
 msgid ""
@@ -9138,10 +9189,13 @@ msgid ""
 "connection between repair and Free & Open Source Software beautifully, "
 "namely:"
 msgstr ""
+"Um colaborador do End Of 10 criou um slogan que, a meu ver, captura com "
+"perfeição essa conexão entre o reparo e o Software Livre e de Código Aberto, "
+"a saber:"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:60
 msgid "**\"FOSS Instead Of Toss!\"**"
-msgstr ""
+msgstr "**\"FOSS em vez de Toss (descartar em inglês)!\"**"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:66
 msgid ""
@@ -9150,10 +9204,14 @@ msgid ""
 "licenses/by-sa/4.0/legalcode.en) license. Redesign by Aaron Rainbolt.)](/"
 "blog/images/2026-07-22-foss-instead-of-toss.png)"
 msgstr ""
+"![Trecho de um pôster comunitário para a campanha End Of 10. (Imagem de "
+"Finnjan Hofmann publicada sob uma licença [CC BY-SA 4.0](https://"
+"creativecommons.org/licenses/by-sa/4.0/legalcode.en). Redesign por Aaron "
+"Rainbolt.)](/blog/images/2026-07-22-foss-instead-of-toss.png)"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:71
 msgid "Let's Bring FOSS and Repair Communities Together"
-msgstr ""
+msgstr "Vamos unir as comunidades de FOSS e de reparo"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:73
 msgid ""
@@ -9166,20 +9224,32 @@ msgid ""
 "(east). Half of participants at each event were repair community members, "
 "half FOSS enthusiasts, and some belonged to both communities."
 msgstr ""
+"Para fortalecer ainda mais os laços entre as comunidades de FOSS e de "
+"reparo, o projeto Opte pelo Verde organizou três oficinas presenciais entre "
+"dezembro de 2025 e março de 2026, com o apoio dos financiadores UBA e BMUKN. "
+"A ideia era reunir *Repair Cafés*, *FabLabs*, grupos de usuários de Linux e "
+"comunidades afins para um intercâmbio de habilidades e informações. Cada "
+"evento ocorreu em uma região diferente da Alemanha: Hannover (centro), "
+"Nuremberg (sul) e Dessau (leste). Metade dos participantes de cada evento "
+"integrava a comunidade de reparo e a outra metade era composta por "
+"entusiastas de FOSS, havendo também pessoas que pertenciam a ambas as "
+"comunidades."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:75
 msgid "In the workshops a wide range of topics were covered, such as:"
-msgstr ""
+msgstr "Nos workshops, foi abordada uma ampla variedade de temas, tais como:"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:77
 msgid "How can the FOSS community support Repair Cafés, and vice versa?"
-msgstr ""
+msgstr "Como a comunidade FOSS pode apoiar os Repair Cafés, e vice-versa?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:78
 msgid ""
 "What are the barriers to adoption of Linux? What do new users need to "
 "succeed?"
 msgstr ""
+"Quais são as barreiras para a adoção do Linux? Do que os novos usuários "
+"precisam para obter sucesso?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:79
 msgid ""
@@ -9187,24 +9257,30 @@ msgid ""
 "Would user support fit into regular opening times? Could more technical "
 "problems be directed to collaborators in local FOSS groups?"
 msgstr ""
+"Após a instalação, que nível de suporte os Repair Cafés podem oferecer de "
+"forma realista? O suporte aos usuários caberia no horário de funcionamento "
+"regular? Problemas mais técnicos poderiam ser encaminhados a colaboradores "
+"de grupos locais de FOSS?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:80
 msgid ""
 "How can Linux be promoted in local communities? What are the target groups? "
 "How does one reach them?"
 msgstr ""
+"Como o Linux pode ser promovido em comunidades locais? Quais são os públicos-"
+"alvo? Como chegar até eles?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:81
 msgid ""
 "What platforms are there for Repair Café volunteers to exchange tips and "
 "support each other?"
 msgstr ""
+"Que plataformas existem para que os voluntários do Repair Café troquem dicas "
+"e apoiem uns aos outros?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:83
-#, fuzzy
-#| msgid "Read more"
 msgid "And more."
-msgstr "Leia mais"
+msgstr "E mais."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:85
 msgid ""
@@ -9212,6 +9288,9 @@ msgid ""
 "volunteers new to Linux. That way they could roll their sleeves up and get "
 "some hands-on experience."
 msgstr ""
+"Antes dos workshops, também realizamos um evento de instalação para "
+"voluntários do Repair Café que não tinham experiência com Linux. Assim, eles "
+"puderam colocar a mão na massa e adquirir experiência prática."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:87
 msgid ""
@@ -9224,6 +9303,15 @@ msgid ""
 "workshops in your town. Don't hesitate to be in touch if you want some "
 "guidance!"
 msgstr ""
+"Claramente, não existe uma resposta única e correta para nenhuma das "
+"perguntas acima; o simples fato de haver dois dias para o intercâmbio entre "
+"grupos com redes locais foi tão importante quanto qualquer comentário ou "
+"resposta específica. Embora sempre haja espaço para melhorias, o feedback de "
+"todos os envolvidos nessas oficinas foi, de modo geral, muito positivo. Se "
+"você mora em uma região que conta com *Repair Cafés* e Grupos de Usuários "
+"Linux ativos, recomendo fortemente organizar oficinas semelhantes que "
+"integrem essas comunidades em sua cidade. Não hesite em entrar em contato "
+"caso precise de orientações!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:89
 msgid ""
@@ -9239,14 +9327,27 @@ msgid ""
 "environmental harm driven by software and how FOSS provides a solution, "
 "including many tips for organizing install and support events. Check it out!"
 msgstr ""
+"Você pode ler as atas dos três workshops [aqui](https://invent.kde.org/teams/"
+"eco/opt-green/-/work_items/175#note_1364833) (Hannover), [aqui](https://"
+"invent.kde.org/teams/eco/opt-green/-/work_items/183) (Nuremberg) e [aqui]"
+"(https://invent.kde.org/teams/eco/opt-green/-/work_items/184#note_1446930) "
+"(Dessau). As discussões dos workshops do Repair Café também embasaram o novo "
+"manual do KDE Eco, \"[Opte pelo Verde: Software Sustentável para Hardware "
+"Sustentável &mdash; e Como Coletivos de Reparo Podem Levar Software Livre e "
+"de Código Aberto às Comunidades](https://eco.kde.org/opt-green-handbook/)\". "
+"O manual oferece uma visão geral dos impactos ambientais causados ​​pelo "
+"software e de como o FOSS apresenta uma solução, incluindo diversas dicas "
+"para organizar eventos de instalação e suporte. Confira!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:91
 msgid "After The Workshops"
-msgstr ""
+msgstr "Após os workshops"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:93
 msgid "Since March, several exciting updates have made it into our inbox."
 msgstr ""
+"Desde março, várias atualizações empolgantes chegaram à nossa caixa de "
+"entrada."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:95
 msgid ""
@@ -9261,6 +9362,17 @@ msgid ""
 "[*Haus Drei*](https://haus-drei.de/) in Hamburg now holds regular Linux "
 "installation workshops as well."
 msgstr ""
+"Soubemos que quatro voluntários do [*Repair-Café de Wendelstein*](https://"
+"www.wendelstein-evangelisch.de/repaircafe) que participaram do workshop "
+"começaram a oferecer [suporte para Linux](https://web.archive.org/"
+"web/20260718105937/https://www.wendelstein-evangelisch.de/repaircafe). Além "
+"disso, participantes do [*Reparatur Café de Helmstedt*](https://reparatur-"
+"cafe-he.de/) organizaram dois eventos de instalação e um [treinamento de "
+"usuários de Linux](https://web.archive.org/web/20260721110842/https://"
+"reparatur-cafe-he.de/) em seu espaço desde a realização dos workshops. O "
+"*Repair Café* do centro cultural comunitário [*Haus Drei*](https://haus-drei."
+"de/), em Hamburgo, também passou a realizar workshops regulares de "
+"instalação de Linux."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:97
 msgid ""
@@ -9271,6 +9383,13 @@ msgid ""
 "support for Repair Café volunteers. If you help out at a Repair Café and "
 "want some guidance with Linux, this will be an excellent resource!"
 msgstr ""
+"Além disso, o [*Repair Café Hilpoltstein*](https://www.repaircafe-"
+"hilpoltstein.de/), um dos grupos que já oferecia suporte para Linux (o site "
+"deles está repleto de informações úteis), lançou um [fórum no Discourse]"
+"(https://forum.makes-hacks-hip.de/) (em alemão) para oferecer suporte "
+"comunitário aos voluntários do Repair Café. Se você atua como voluntário em "
+"um Repair Café e precisa de orientações sobre Linux, este será um excelente "
+"recurso!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:99
 msgid ""
@@ -9285,6 +9404,16 @@ msgid ""
 "eco/opt-green/-/tree/master/materials/leaflets/DE/current-version)) from the "
 "Opt Green project."
 msgstr ""
+"Também levamos materiais do KDE Eco para os workshops, a fim de distribuí-"
+"los a grupos interessados ​​na Alemanha e na Áustria. Por isso, foi ótimo ver "
+"que o *Repair Café Hilpoltstein* teve um [estande informativo](https://web."
+"archive.org/web/20260718110459/https://www.repaircafe-hilpoltstein.de/blog/"
+"artikel/pfingstmarkt-in-hip-neues-aus-der-offenen-werkstatt) em uma feira "
+"local em maio, apresentando, entre outras coisas, o [folheto \"Software "
+"Ecologicamente Correto\"](https://invent.kde.org/teams/eco/opt-green/-/tree/"
+"master/materials/leaflets/EN/current-version) ([versão em alemão](https://"
+"invent.kde.org/teams/eco/opt-green/-/tree/master/materials/leaflets/DE/"
+"current-version)) do projeto Opte pelo Verde."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:103
 msgid ""
@@ -9292,6 +9421,9 @@ msgid ""
 "KDE Eco flyer spread across the *Repair Café Hilpoltstein* table.](/blog/"
 "images/2026-07-22-hip-info-stand.jpg)"
 msgstr ""
+"![Foto do Mercado de Pentecostes em Hilpoltstein, Alemanha. É possível ver o "
+"folheto da KDE Eco aberto sobre a mesa do *Repair Café Hilpoltstein*.](/blog/"
+"images/2026-07-22-hip-info-stand.jpg)"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:107
 msgid ""
@@ -9304,6 +9436,16 @@ msgid ""
 "with Microsoft, at least for now](https://www.br.de/nachrichten/bayern/"
 "korrektur-der-staatsregierung-vorerst-kein-deal-mit-microsoft,VLTSkXp)."
 msgstr ""
+"As oficinas do Repair Café também abriram caminho para outras iniciativas de "
+"divulgação. O grupo de Hilpoltstein organizou, em junho, um [encontro "
+"informativo](https://floss.social/@be4foss/116720438501362487) sobre [FOSS "
+"no trabalho voluntário](https://archive.is/2Fnyb) na região de Nuremberg, "
+"contando com o KDE Eco como parceiro na apresentação. Eles também planejam "
+"realizar mais ações de divulgação local em um futuro próximo, especialmente "
+"após a Baviera ter anunciado, em junho, que [não serão firmados novos "
+"contratos com a Microsoft, pelo menos por enquanto](https://www.br.de/"
+"nachrichten/bayern/korrektur-der-staatsregierung-vorerst-kein-deal-mit-"
+"microsoft,VLTSkXp)."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:109
 msgid ""
@@ -9312,6 +9454,11 @@ msgid ""
 "contributing to this. If there are Repair Cafés in your town or city, reach "
 "out to see how you can support their work!"
 msgstr ""
+"FOSS e reparo andam de mãos dadas &mdash; e é empolgante ver as comunidades "
+"de FOSS e de reparo se conectando e crescendo. Tenho orgulho do trabalho que "
+"o Opte pelo Verde realizou para contribuir com isso. Se houver \"Repair Cafés"
+"\" na sua cidade, entre em contato para saber como você pode apoiar o "
+"trabalho deles!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:111
 msgid ""
@@ -9319,10 +9466,14 @@ msgid ""
 "global campaign started by Opt Green to promote FOSS as a way to prevent e-"
 "waste. As some of us in the community are saying: \"FOSS instead of toss!\""
 msgstr ""
+"Fique de olho neste blog para a segunda parte sobre o \"End Of 10\", a "
+"campanha global lançada pelo Opte pelo Verde para promover o FOSS como uma "
+"forma de evitar o lixo eletrônico. Como alguns de nós na comunidade dizemos: "
+"\"FOSS em vez de Toss (descartar)!\""
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:113
 msgid "Starting A Linux Repair Cafe"
-msgstr ""
+msgstr "Como iniciar um Repair Café com Linux"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:115
 msgid ""
@@ -9336,10 +9487,19 @@ msgid ""
 "started](https://eco.kde.org/opt-green-handbook/#stage-1-gaining-experience) "
 "in the Opt Green handbook."
 msgstr ""
+"Se você quiser iniciar um Repair Café em sua cidade, a Repair Cafe "
+"International disponibiliza informações úteis nas páginas \"[Comece o seu "
+"próprio](https://www.repaircafe.org/en/join/start-your-own/)\" e \"[Linux "
+"Repair Café](https://www.repaircafe.org/linux-repair-cafe/)\". O Restart "
+"Project preparou um material intitulado \"[Fim do Windows 10: Um kit de "
+"ferramentas para grupos comunitários de reparo](https://therestartproject."
+"org/end-of-windows-10-toolkit-for-repair-groups/)\". Você também pode "
+"conferir algumas [estratégias para começar](https://eco.kde.org/opt-green-"
+"handbook/#stage-1-gaining-experience) no manual do Opte pelo Verde."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:117
 msgid "When Repair Is Not Possible"
-msgstr ""
+msgstr "Quando o reparo não é possível"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:119
 msgid ""
@@ -9349,6 +9509,12 @@ msgid ""
 "out-of-the-box experience too, with less tinkering and fewer workarounds "
 "needed to get pesky proprietary-software components working."
 msgstr ""
+"Ao precisar comprar hardware novo, considere um dos muitos dispositivos "
+"compatíveis com Linux disponíveis no mercado. Dessa forma, você poderá "
+"utilizar o computador enquanto o hardware continuar funcionando. Com "
+"dispositivos projetados para Linux, você também terá uma experiência melhor "
+"logo de cara, exigindo menos ajustes e menos soluções alternativas para "
+"fazer funcionar aqueles componentes problemáticos de software proprietário."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:121
 msgid ""
@@ -9359,6 +9525,12 @@ msgid ""
 "hardware replacement parts and repair guides too, so you can easily swap out "
 "broken pieces when needed."
 msgstr ""
+"[Membros apoiadores do KDE](https://ev.kde.org/supporting-members/), como "
+"[Slimbook](https://slimbook.com/), [Kubuntu Focus](https://kfocus.org/), "
+"[Tuxedo Computers](https://www.tuxedocomputers.com/) e [framework](https://"
+"frame.work/) vendem hardware com suporte nativo ao Linux. Muitos também "
+"oferecem peças de reposição e guias de reparo, permitindo que você substitua "
+"facilmente peças danificadas quando necessário."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:123
 msgid ""
@@ -9367,6 +9539,10 @@ msgid ""
 "refund4freedom.org/) initiative. Here you can learn how to get a refund for "
 "that Windows license you paid for even when you did not want it."
 msgstr ""
+"Se, em vez disso, você decidir comprar um computador novo com o Microsoft "
+"pré-instalado, mas planeja instalar o Linux, confira a iniciativa [Refund 4 "
+"Freedom](https://en.refund4freedom.org/). Lá, você pode saber como obter o "
+"reembolso daquela licença do Windows pela qual pagou, mesmo sem a querer."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:125
 msgid ""
@@ -9374,6 +9550,9 @@ msgid ""
 "project](https://h-node.org) to learn how well that hardware will work with "
 "Free & Open Source Software."
 msgstr ""
+"Se você comprar hardware usado, talvez queira também visitar o [projeto h-"
+"node](https://h-node.org) para saber quão bem esse hardware funcionará com "
+"Software Livre e de Código Aberto."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:127
 #: content/get-involved.md:24
@@ -9385,43 +9564,42 @@ msgid ""
 "We would love to hear from you! Sign up, say hello, and let us know what you "
 "are interested in."
 msgstr ""
+"Adoraríamos ouvir você! Cadastre-se, dê um \"olá\" e conte-nos pelo que você "
+"se interessa."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:131
 msgid ""
 "Repair Café support at \"Forum Werkstätten RC-Hip\": <https://forum.makes-"
 "hacks-hip.de/>"
 msgstr ""
+"Suporte a Repair Café no \"Forum Werkstätten RC-Hip\": <https://forum.makes-"
+"hacks-hip.de/>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:132
 msgid "KDE Eco Matrix room: <https://matrix.to/#/#endof10-en:kde.org>"
-msgstr ""
+msgstr "Sala do KDE Eco no Matrix: <https://matrix.to/#/#endof10-en:kde.org>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:133
 msgid "KDE Eco on Mastodon: <https://floss.social/@be4foss>"
-msgstr ""
+msgstr "KDE Eco no Mastodon: <https://floss.social/@be4foss>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:134
 msgid "End Of 10 working room: <https://matrix.to/#/#endof10:kde.org>"
-msgstr ""
+msgstr "Sala de trabalho do End Of 10: <https://matrix.to/#/#endof10:kde.org>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:135
 msgid "End Of 10 on Mastodon: <https://floss.social/@endof10>"
-msgstr ""
+msgstr "End Of 10 no Mastodon: <https://floss.social/@endof10>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:137
 msgid ""
 "The Code of Conduct for KDE communication channels can be found [here]"
 "(https://kde.org/code-of-conduct/)."
 msgstr ""
+"O Código de Conduta para os canais de comunicação do KDE pode ser encontrado "
+"[aqui](https://kde.org/code-of-conduct/)."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:141
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The Opt Green project was funded by the Federal Environment Agency (UBA) and "
 "the Federal Ministry for the Environment, Climate Action, Nature "
@@ -9429,11 +9607,11 @@ msgid ""
 "href=\"#fn.1\">1</a></sup>). The funds are made available by resolution of "
 "the German Bundestag."
 msgstr ""
-"O projeto BE4FOSS foi financiado pela Agência Federal do Meio Ambiente e "
-"pelo Ministério Federal do Meio Ambiente, Conservação da Natureza, Segurança "
-"Nuclear e Proteção ao Consumidor (BMUV<sup><a id=\"fnr.1\" class=\"footref\" "
-"href=\"#fn.1\">1</a></sup>). Os recursos são disponibilizados por resolução "
-"do Bundestag Alemão."
+"O projeto Opte pelo Verde foi financiado pela Agência Federal do Meio "
+"Ambiente (UBA, sigla em alemão) e pelo Ministério Federal do Meio Ambiente, "
+"Ação Climática, Conservação da Natureza e Segurança Nuclear (BMUKN<sup><a id="
+"\"fnr.1\" class=\"footref\" href=\"#fn.1\">1</a></sup>). Os recursos são "
+"disponibilizados por resolução do Bundestag alemão."
 
 #: content/blog/_index.md:0
 msgid "Blog"
@@ -9674,60 +9852,48 @@ msgid ""
 "Here are some places to network with the community, get more information, "
 "and contribute."
 msgstr ""
+"Aqui estão alguns lugares para fazer networking com a comunidade, obter mais "
+"informações e contribuir."
 
 #: content/get-involved.md:13
 msgid "Community & Support"
 msgstr "Comunidade & Suporte"
 
 #: content/get-involved.md:15
-#, fuzzy
-#| msgid ""
-#| "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgid ""
 "KDE Eco [Matrix Room](https://webchat.kde.org/#/room/#kde-eco:kde.org) "
 "(Discussion)"
 msgstr ""
-"Sala da Matrix (Discussão): https://webchat.kde.org/#/room/#kde-eco:kde.org"
+"[Sala no Matrix do KDE Eco](https://webchat.kde.org/#/room/#kde-eco:kde.org) "
+"(Discussão)"
 
 #: content/get-involved.md:16
-#, fuzzy
-#| msgid ""
-#| "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#| "kde-eco-discuss"
 msgid ""
 "KDE Eco [Mailing List](https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-"
 "discuss) (Discussion)"
 msgstr ""
-"Lista de e-mail (Discussão): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-"kde-eco-discuss"
+"[Lista de correio do KDE Eco](https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"kde-eco-discuss) (Discussão)"
 
 #: content/get-involved.md:18
 msgid "Resources"
 msgstr "Recursos"
 
 #: content/get-involved.md:20
-#, fuzzy
-#| msgid "[Source code](https://invent.kde.org/pim/kmail)"
 msgid "[KEcoLab](https://invent.kde.org/sdk/kecolab) (Repository)"
-msgstr "[Código fonte](https://invent.kde.org/pim/kmail)"
+msgstr "[KEcoLab](https://invent.kde.org/sdk/kecolab) (Repositório)"
 
 #: content/get-involved.md:21
-#, fuzzy
-#| msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
 msgid "[FEEP](https://invent.kde.org/teams/eco/feep) (Repository)"
-msgstr "FEEP (Repositório GitLab): https://invent.kde.org/teams/eco/feep"
+msgstr "[FEEP](https://invent.kde.org/teams/eco/feep) (Repositório)"
 
 #: content/get-involved.md:22
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "[Blue Angel Applications](https://invent.kde.org/teams/eco/blue-angel-"
 "application) (Repository)"
 msgstr ""
-"Aplicações para o Blue Angel (Repositório GitLab): https://invent.kde.org/"
-"teams/eco/blue-angel-application"
+"[Aplicações para o Blue Angel](https://invent.kde.org/teams/eco/blue-angel-"
+"application) (Repositório)"
 
 #: content/get-involved.md:26
 msgid "Email: `joseph [at] kde.org`"
@@ -9735,38 +9901,28 @@ msgstr "E-mail: `joseph [at] kde.org`"
 
 #: content/get-involved.md:28
 msgid "Archive"
-msgstr ""
+msgstr "Arquivo"
 
 #: content/get-involved.md:30
-#, fuzzy
-#| msgid ""
-#| "Sustainable Software Goal (Community Wiki): https://community.kde.org/"
-#| "Goals/Sustainable_Software"
 msgid ""
 "[Sustainable Software Goal](https://community.kde.org/Goals/"
 "Sustainable_Software) (Wiki)"
 msgstr ""
-"Objetivo de Software Sustentável (Wiki da Comunidade): https://community.kde."
-"org/Goals/Sustainable_Software"
+"[Objetivo de Software Sustentável](https://community.kde.org/Goals/"
+"Sustainable_Software) (Wiki)"
 
 #: content/get-involved.md:31
-#, fuzzy
-#| msgid ""
-#| "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/opt-green"
 msgid ""
 "[Opt Green project](https://invent.kde.org/teams/eco/opt-green) (Repository)"
 msgstr ""
-"Projeto \"Opte pelo Verde\" (Repositório GitLab): https://invent.kde.org/"
-"teams/eco/opt-green"
+"[Projeto \"Opte pelo Verde\" ](https://invent.kde.org/teams/eco/opt-green) "
+"(Repositório)"
 
 #: content/get-involved.md:32
-#, fuzzy
-#| msgid ""
-#| "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgid ""
 "[BE4FOSS project](https://invent.kde.org/teams/eco/be4foss) (Repository)"
-msgstr "BE4FOSS (Repositório GitLab): https://invent.kde.org/teams/eco/be4foss"
+msgstr ""
+"[Projeto BE4FOSS](https://invent.kde.org/teams/eco/be4foss) (Repositório)"
 
 #. grow-green.header
 #: content/grow-green/_index.md:0 i18n/en.yaml:211
