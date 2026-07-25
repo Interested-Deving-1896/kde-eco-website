@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-23 02:06+0000\n"
-"PO-Revision-Date: 2026-07-14 16:55+0100\n"
+"PO-Revision-Date: 2026-07-24 11:39+0100\n"
 "Last-Translator: Eloy Cuadra <ecuadra@eloihr.net>\n"
 "Language-Team: Spanish <kde-l10n-es@kde.org>\n"
 "Language: es\n"
@@ -318,14 +318,6 @@ msgstr ""
 "dispositivos, en muchos casos innecesariamente."
 
 #: content/be4foss-handbook/handbook_web.md:53
-#, fuzzy
-#| msgid ""
-#| "“A fact that is even more rarely appreciated is that the key to "
-#| "increasing energy efficiency and protecting natural resources lies not "
-#| "with the hardware but rather above all with the software.” &mdash; Blue "
-#| "Angel Award Critera: [Resource and Energy-Efficient Software Products]"
-#| "(https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
-#| "%20215-202001-en-Criteria-V2.pdf) (p. 5)"
 msgid ""
 "“A fact that is even more rarely appreciated is that the key to increasing "
 "energy efficiency and protecting natural resources lies not with the "
@@ -546,21 +538,6 @@ msgstr ""
 "países enteros, como Suecia o Malasia."
 
 #: content/be4foss-handbook/handbook_web.md:79
-#, fuzzy
-#| msgid ""
-#| "At the same time, we use more digital devices than ever before. The "
-#| "number of internet-connected devices, including laptops and smartphones, "
-#| "but also smart TVs, home assistants, and other IoT devices, is rapidly "
-#| "growing, and [expected](https://www.statista.com/statistics/471264/iot-"
-#| "number-of-connected-devices-worldwide/) to surpass 75 billion by 2025. "
-#| "That’s just about 10 devices for every person on earth (though the global "
-#| "distribution of these devices is far from even). Globally, smartphone "
-#| "adoption has increased rapidly, as well as the demands on resources "
-#| "needed to manufacture new and [increasingly powerful devices](https://www."
-#| "oekom.de/buch/smarte-gruene-welt-9783962380205). The production of these "
-#| "devices, including mining for the rare earth metals necessary to make "
-#| "them work, and their transporation, use, and eventual disposal all "
-#| "consume copious amounts of energy."
 msgid ""
 "At the same time, we use more digital devices than ever before. The number "
 "of internet-connected devices, including laptops and smartphones, but also "
@@ -8196,10 +8173,8 @@ msgid ""
 msgstr ""
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:83
-#, fuzzy
-#| msgid "Read more"
 msgid "And more."
-msgstr "Leer más"
+msgstr "Y más."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:85
 msgid ""
@@ -8410,13 +8385,6 @@ msgid ""
 msgstr ""
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:141
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The Opt Green project was funded by the Federal Environment Agency (UBA) and "
 "the Federal Ministry for the Environment, Climate Action, Nature "
@@ -8424,11 +8392,11 @@ msgid ""
 "href=\"#fn.1\">1</a></sup>). The funds are made available by resolution of "
 "the German Bundestag."
 msgstr ""
-"El proyecto BE4FOSS fue financiado por la Agencia Federal de Medio Ambiente "
-"y el Ministerio Federal de Medio Ambiente, Protección de la Naturaleza, "
-"Seguridad Nuclear y Protección al Consumidor (BMUV<sup><a id=\"fnr.1\" class="
-"\"footref\" href=\"#fn.1\">1</a></sup>). Los fondos se ponen a disposición "
-"mediante una resolución del Parlamento Federal Alemán."
+"El proyecto Opt Green fue financiado por la Agencia Federal de Medio "
+"Ambiente (UBA) y el Ministerio Federal de Medio Ambiente, Acción Climática, "
+"Protección de la Naturaleza y Seguridad Nuclear (BMUKN<sup><a id=\"fnr.1\" "
+"class=\"footref\" href=\"#fn.1\">1</a></sup>). Los fondos se ponen a "
+"disposición mediante una resolución del Parlamento Federal Alemán."
 
 #: content/blog/_index.md:0
 msgid "Blog"
@@ -8674,54 +8642,40 @@ msgid "Community & Support"
 msgstr "Comunidad y soporte"
 
 #: content/get-involved.md:15
-#, fuzzy
-#| msgid ""
-#| "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgid ""
 "KDE Eco [Matrix Room](https://webchat.kde.org/#/room/#kde-eco:kde.org) "
 "(Discussion)"
 msgstr ""
-"Sala de Matrix (discusión): https://webchat.kde.org/#/room/#kde-eco:kde.org"
+"[Sala de Matrix](https://webchat.kde.org/#/room/#kde-eco:kde.org) de KDE Eco "
+"(discusión)"
 
 #: content/get-involved.md:16
-#, fuzzy
-#| msgid ""
-#| "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#| "kde-eco-discuss"
 msgid ""
 "KDE Eco [Mailing List](https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-"
 "discuss) (Discussion)"
 msgstr ""
-"Lista de correo (discusión): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-"kde-eco-discuss"
+"[Lista de correo](https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-"
+"discuss) de KDE Eco (discusión)"
 
 #: content/get-involved.md:18
 msgid "Resources"
 msgstr "Recursos"
 
 #: content/get-involved.md:20
-#, fuzzy
-#| msgid "[Source code](https://invent.kde.org/pim/kmail)"
 msgid "[KEcoLab](https://invent.kde.org/sdk/kecolab) (Repository)"
-msgstr "[Código fuente](https://invent.kde.org/pim/kmail)"
+msgstr "[KEcoLab](https://invent.kde.org/sdk/kecolab) (repositorio)"
 
 #: content/get-involved.md:21
-#, fuzzy
-#| msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
 msgid "[FEEP](https://invent.kde.org/teams/eco/feep) (Repository)"
-msgstr "FEEP (repositorio de GitLab): https://invent.kde.org/teams/eco/feep"
+msgstr "[FEEP](https://invent.kde.org/teams/eco/feep) (repositorio)"
 
 #: content/get-involved.md:22
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "[Blue Angel Applications](https://invent.kde.org/teams/eco/blue-angel-"
 "application) (Repository)"
 msgstr ""
-"Solicitudes para *Blue Angel* (repositorio de GitLab): https://invent.kde."
-"org/teams/eco/blue-angel-application"
+"[Solicitudes para Blue Angel](https://invent.kde.org/teams/eco/blue-angel-"
+"application) (repositorio)"
 
 #: content/get-involved.md:26
 msgid "Email: `joseph [at] kde.org`"
@@ -8732,36 +8686,25 @@ msgid "Archive"
 msgstr ""
 
 #: content/get-involved.md:30
-#, fuzzy
-#| msgid ""
-#| "Sustainable Software Goal (Community Wiki): https://community.kde.org/"
-#| "Goals/Sustainable_Software"
 msgid ""
 "[Sustainable Software Goal](https://community.kde.org/Goals/"
 "Sustainable_Software) (Wiki)"
 msgstr ""
-"Objetivo del software sostenible (wiki de la comunidad): https://community."
-"kde.org/Goals/Sustainable_Software"
+"[Objetivo del software sostenible](https://community.kde.org/Goals/"
+"Sustainable_Software) (wiki)"
 
 #: content/get-involved.md:31
-#, fuzzy
-#| msgid ""
-#| "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/opt-green"
 msgid ""
 "[Opt Green project](https://invent.kde.org/teams/eco/opt-green) (Repository)"
 msgstr ""
-"Proyecto «Opt Green» (repositorio de GitLab): https://invent.kde.org/teams/"
-"eco/opt-green"
+"[Proyecto Opt Green](https://invent.kde.org/teams/eco/opt-green) "
+"(repositorio)"
 
 #: content/get-involved.md:32
-#, fuzzy
-#| msgid ""
-#| "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgid ""
 "[BE4FOSS project](https://invent.kde.org/teams/eco/be4foss) (Repository)"
 msgstr ""
-"BE4FOSS (repositorio de GitLab): https://invent.kde.org/teams/eco/be4foss"
+"[Proyecto BE4FOSS](https://invent.kde.org/teams/eco/be4foss) (repositorio)"
 
 #. grow-green.header
 #: content/grow-green/_index.md:0 i18n/en.yaml:211
@@ -13173,33 +13116,3 @@ msgstr ""
 #: i18n/en.yaml:247
 msgid "Visit endof10.org"
 msgstr "Visita endof10.org"
-
-#~ msgid ""
-#~ "We need as many motivated people as possible to drive this forward. Here "
-#~ "are some channels where you can get more information and contribute."
-#~ msgstr ""
-#~ "Necesitamos el mayor número posible de personas motivadas para "
-#~ "impulsarlo. Aquí tienes algunos canales en los que puedes obtener más "
-#~ "información y colaborar."
-
-#~ msgid ""
-#~ "Monthly Meet-up (Video Conference): 2nd Wednesdays 19:00 CEST/CET (UTC"
-#~ "+2:00/+1:00) (contact us for details)"
-#~ msgstr ""
-#~ "Reunión mensual (videoconferencia): 2.º miércoles del mes a las 19:00 "
-#~ "CEST/CET (UTC+2:00/+1:00) (ponte en contacto con nosotros para más "
-#~ "detalles)"
-
-#~ msgid ""
-#~ "Mailing List (Announcements): https://mail.kde.org/cgi-bin/mailman/"
-#~ "listinfo/kde-eco-announce"
-#~ msgstr ""
-#~ "Lista de correo (anuncios): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#~ "kde-eco-announce"
-
-#~ msgid ""
-#~ "Remote Eco Lab (GitLab Repository): https://invent.kde.org/teams/eco/"
-#~ "remote-eco-lab"
-#~ msgstr ""
-#~ "Remote Eco Lab (repositorio de GitLab): https://invent.kde.org/teams/eco/"
-#~ "remote-eco-lab"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-23 02:06+0000\n"
-"PO-Revision-Date: 2026-07-11 21:50+0200\n"
+"PO-Revision-Date: 2026-07-23 13:35+0200\n"
 "Last-Translator: Xavier Besnard <xavier.besnard@kde.org>\n"
 "Language-Team: fr\n"
 "Language: fr\n"
@@ -1060,6 +1060,8 @@ msgstr ""
 msgid ""
 "What do construction products, toilet paper, and software have in common?"
 msgstr ""
+"Quel est le point commun entre les produits de construction, le papier "
+"toilette et les logiciels ?"
 
 #: content/be4foss-handbook/handbook_web.md:196
 msgid ""
@@ -1288,6 +1290,8 @@ msgstr ""
 msgid ""
 "Uninstallability &mdash; *Removing Unwanted Software To Increase Efficiency*"
 msgstr ""
+"Capacité à de désinstallation — *Suppression de logiciels indésirables pour "
+"améliorer l'efficacité*"
 
 #: content/be4foss-handbook/handbook_web.md:244
 msgid ""
@@ -1337,6 +1341,8 @@ msgstr ""
 msgid ""
 "Freedom From Advertising &mdash; *Opting-Out To Reduce Energy Consumption*"
 msgstr ""
+"Liberté de la publicité &mdash; *Choisir de se désinscrire pour réduire la "
+"consommation d'énergie*"
 
 #: content/be4foss-handbook/handbook_web.md:256
 msgid ""
@@ -1707,6 +1713,8 @@ msgid ""
 "reduced emissions of harmful substances in the ground, air, water and "
 "indoors;"
 msgstr ""
+"réduction des émissions de substances nocives dans le sol, l'air, l'eau et à "
+"l'intérieur,"
 
 #: content/be4foss-handbook/handbook_web.md:302
 msgid "sustainable production of resources;"
@@ -2443,6 +2451,7 @@ msgstr ""
 msgid ""
 "[Source Code](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 msgstr ""
+"[Code source](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 
 #: content/be4foss-handbook/handbook_web.md:530
 msgid "[Running instance](https://oscar.umwelt-campus.de/)"
@@ -2890,6 +2899,8 @@ msgid ""
 "Column names can be anything you want as they will be specified within "
 "`OSCAR`."
 msgstr ""
+"Les noms de colonnes peuvent être tout ce que vous voulez car ils seront "
+"spécifiés dans « OSCAR »."
 
 #: content/be4foss-handbook/handbook_web.md:635
 msgid "The file must be saved in CSV format."
@@ -3071,6 +3082,8 @@ msgstr ""
 msgid ""
 "The interface language is currently German only; see below for translations."
 msgstr ""
+"La langue de l'interface est actuellement uniquement l'Allemand. Veuillez "
+"regarder ci-dessous concernant les traductions."
 
 #: content/be4foss-handbook/handbook_web.md:667
 msgid "The duration of the measurements in seconds must be specified."
@@ -3162,6 +3175,8 @@ msgstr ""
 msgid ""
 "See below for what a completed upload for the *Nutzungsszenario* looks like."
 msgstr ""
+"Voir ci-dessous à quoi ressemble un téléchargement complet pour le "
+"*Nutzungsszenario*."
 
 #: content/be4foss-handbook/handbook_web.md:699
 msgid ""
@@ -3273,6 +3288,8 @@ msgstr ""
 msgid ""
 "the number of lines to skip (German: *Anzahl zu überspringender Zeilen*); and"
 msgstr ""
+"le nombre de lignes à ignorer (Allemand : *Anzahl zu überspringender "
+"Zeilen*) et"
 
 #: content/be4foss-handbook/handbook_web.md:733
 msgid "the character encoding (German: *Zeichensatz (Encoding)*)."
@@ -3603,6 +3620,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:828
 msgid "Software stack used for the measurements (`xdotool`, `Collectl`, etc.)."
 msgstr ""
+"Pile logicielle utilisée pour les mesures (« xdotool », « Collectl », etc.)."
 
 #: content/be4foss-handbook/handbook_web.md:830
 msgid ""
@@ -3634,6 +3652,8 @@ msgstr ""
 msgid ""
 "*Base Load*: Average load for the reference system in Baseline measurements."
 msgstr ""
+"*Chargement standard* : Charge moyenne pour le système de référence dans les "
+"mesures de référence."
 
 #: content/be4foss-handbook/handbook_web.md:837
 msgid ""
@@ -3920,6 +3940,8 @@ msgstr "Installer le paquet « mosquitto »"
 msgid ""
 "add a file `/etc/mosquitto/conf.d/listen.conf` with the following content:"
 msgstr ""
+"ajoutez un fichier « /etc/mosquitto/conf.d/listen.conf » avec le contenu "
+"suivant :"
 
 #: content/be4foss-handbook/handbook_web.md:956
 msgid "start Mosquitto using `systemctl start mosquitto.service`"
@@ -3970,6 +3992,8 @@ msgstr ""
 msgid ""
 "You need two terminals to verify that MQTT communication works as intended."
 msgstr ""
+"Vous avez besoin de deux terminaux pour vérifier que la communication "
+"« MQTT » fonctionne comme prévu."
 
 #: content/be4foss-handbook/handbook_web.md:976
 msgid "In terminal 1, run `mosquitto_sub -t 'stat/<topic>/STATUS10'`"
@@ -4087,6 +4111,8 @@ msgid ""
 "Again: **DO NOT CONNECT THE DEVICE TO MAIN POWER** as this is life-"
 "threatening."
 msgstr ""
+"Encore une fois : **NE PAS BRANCHER LE PERIPHERIQUE SUR LE SECTEUR** car "
+"c'est dangereux pour la vie."
 
 #: content/be4foss-handbook/handbook_web.md:1009
 msgid "(B) Hardware Operating Life"
@@ -4805,6 +4831,8 @@ msgstr ""
 #: content/opt-green-handbook/index.md:743
 msgid "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 msgstr ""
+"![Logo de l'Agence fédérale allemande pour l'environnement.](images/sec4_uba."
+"jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:1243
 msgid ""
@@ -8444,6 +8472,7 @@ msgstr ""
 msgid ""
 "[Umstieg auf Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 msgstr ""
+"[Passer à Linux](https://lug-vs.org/lugvswiki/index.php/Umstieg_auf_Linux)"
 
 #: content/opt-green-handbook/index.md:49
 msgid ""
@@ -9692,6 +9721,8 @@ msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
 msgstr ""
+"[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
+"specifications)"
 
 #: content/opt-green-handbook/index.md:315
 #: content/opt-green-handbook/index.md:325
@@ -9786,6 +9817,7 @@ msgstr "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 msgid ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 msgstr ""
+"[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html)(Linux)"
 
 #: content/opt-green-handbook/index.md:325
 #: content/opt-green-handbook/index.md:327
@@ -9993,10 +10025,6 @@ msgid ""
 msgstr ""
 
 #: content/opt-green-handbook/index.md:357
-#, fuzzy
-#| msgid ""
-#| "Our motto: **The most environmentally-friendly device is the one you "
-#| "already own.**"
 msgid ""
 "**The most environmentally-friendly device is the one you already own.**"
 msgstr ""
@@ -10434,6 +10462,7 @@ msgid ""
 "**Mass storage**: Hard Disk Drive (HDD), Solid State Drive (SSD), SD card, "
 "etc."
 msgstr ""
+"**Media de masse** : disque dur (HDD), disque « SSD » (SSD), carte SD, etc."
 
 #: content/opt-green-handbook/index.md:448
 msgid ""
@@ -11250,6 +11279,8 @@ msgstr ""
 #: content/opt-green-handbook/index.md:627
 msgid "This is voluntary help to show new users how they can help themselves."
 msgstr ""
+"Il s'agit d'une aide volontaire destinée à montrer aux nouveaux utilisateurs "
+"comment ils peuvent se débrouiller par eux-mêmes."
 
 #: content/opt-green-handbook/index.md:628
 msgid "No contract is being established."
@@ -11265,6 +11296,8 @@ msgstr ""
 msgid ""
 "Attendees are responsible for their devices and for having data backups."
 msgstr ""
+"Les personnes participantes sont responsables de leurs périphériques et des "
+"sauvegardes de données."
 
 #: content/opt-green-handbook/index.md:632
 msgid ""
@@ -11637,6 +11670,8 @@ msgid ""
 "Smart TVs (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-bigscreen."
 "org/))"
 msgstr ""
+"Téléviseurs intelligents (Kodi, Jellyfin, [Plasma Big Screen](https://plasma-"
+"bigscreen.org/))"
 
 #: content/opt-green-handbook/index.md:721
 msgid "E-book readers (KOReader)"
@@ -12474,6 +12509,8 @@ msgstr "Lisez le manuel d'assistance de « Opt Green »"
 msgid ""
 "Learn about sustainable software and how to support new users with FOSS."
 msgstr ""
+"Apprenez plus de choses concernant les logiciels durables et comment prendre "
+"en charge les nouvelles personnes utilisatrices des logiciels « FOSS »."
 
 #. grow-green.flyer.title
 #: i18n/en.yaml:219 i18n/en.yaml:233
@@ -12486,6 +12523,8 @@ msgid ""
 "Spread the word about independent, sustainable FOSS and long-term hardware "
 "use."
 msgstr ""
+"Faites passer le message sur l’utilisation indépendante et durable des "
+"logiciels libres et du matériel sur le long terme."
 
 #. grow-green.install-party.title
 #: i18n/en.yaml:223 i18n/en.yaml:239
@@ -12498,6 +12537,8 @@ msgid ""
 "Join initiatives such as End of 10 and DI.Day to bring FOSS to your "
 "community."
 msgstr ""
+"Rejoignez des initiatives telles que « Fin de windows 10 » et « DI.Day » "
+"pour apporter les logiciels libres « FOSS » à votre communauté."
 
 #. grow-green.handbook-section.description
 #: i18n/en.yaml:229
