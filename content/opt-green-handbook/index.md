@@ -8,7 +8,6 @@ date: 26 February 2026
 title: "Opting Green"
 subtitle: "How Sustainable Software Makes for Sustainable Hardware"
 date: "2026-02-26"
-lang: "en"
 toc : true
 toc-own-page : true
 toc-depth : 2
