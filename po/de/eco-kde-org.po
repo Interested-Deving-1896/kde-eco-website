@@ -5397,7 +5397,7 @@ msgstr ""
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:71
 msgid "**MEASURE** in dedicated labs, such as at KDAB Berlin"
-msgstr "**MESSUNG** in speziellen Laboren, wie z. B. bei KDAB Berlin"
+msgstr "**MESSUNG** in speziellen Laboren, wie z. B. bei KDAB Berlin"
 
 #: content/blog/2022-03-03-sok22-kde-eco.md:72
 msgid ""

@@ -1349,7 +1349,7 @@ msgstr ""
 "wikipedia.org/wiki/Paradoxa_de_Jevons), o «efecte no desitjat». El concepte "
 "prové de l'economista anglés William Stanley Jevons, qui el 1865 va "
 "reconéixer que les millores tecnològiques en l'ús del carbó en realitat "
-"augmentaven el consum de carbó a totes les indústries. Jevons va concloure "
+"augmentaven el consum de carbó en totes les indústries. Jevons va concloure "
 "que:"
 
 # skip-rule: t-com_pu
@@ -2703,11 +2703,11 @@ msgid ""
 msgstr ""
 "La configuració del laboratori consistix en un mesurador d'energia, un "
 "ordinador per agregar i avaluar l'eixida del mesurador d'energia, i un "
-"ordinador d'escriptori per al sistema a provar on s'emula el comportament de "
-"l'usuari. La configuració descrita ací seguix les especificacions de [*Blue "
-"Angel Basic Award Criteria for Resource and Energy-Efficient Software "
-"Products*»](https://www.blauer-engel.de/en/productworld/resources-and-energy-"
-"efficient-software-products)."
+"ordinador d'escriptori per al sistema per a proves on s'emula el "
+"comportament de l'usuari. La configuració descrita ací seguix les "
+"especificacions de [*Blue Angel Basic Award Criteria for Resource and Energy-"
+"Efficient Software Products*»](https://www.blauer-engel.de/en/productworld/"
+"resources-and-energy-efficient-software-products)."
 
 # skip-rule: t-com_obe_tan
 #: content/be4foss-handbook/handbook_web.md:351
@@ -2839,7 +2839,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:381
 msgid "*Computer 2: System Under Test*"
-msgstr "*Ordinador 2: Sistema a provar*"
+msgstr "*Ordinador 2: Sistema per a proves*"
 
 #: content/be4foss-handbook/handbook_web.md:383
 msgid ""
@@ -2850,10 +2850,10 @@ msgid ""
 "performance results."
 msgstr ""
 "El sistema de referència és el maquinari utilitzat per a mesurar el consum "
-"d'energia del «sistema a provar», o SUT (de l'anglés «system under test»). "
-"El SUT inclou el sistema operatiu i el programari instal·lat per (i) provar "
-"el producte de programari, (ii) emular l'escenari d'ús estàndard[^2] i (iii) "
-"arreplegar els resultats de rendiment del maquinari."
+"d'energia del «sistema per a proves», o SUT (de l'anglés «system under "
+"test»). El SUT inclou el sistema operatiu i el programari instal·lat per (i) "
+"provar el producte de programari, (ii) emular l'escenari d'ús estàndard[^2] "
+"i (iii) arreplegar els resultats de rendiment del maquinari."
 
 #: content/be4foss-handbook/handbook_web.md:385
 msgid ""
@@ -2931,15 +2931,16 @@ msgid ""
 "[CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design "
 "by Lana Lutz.)](images/sec3_lab-setup_modified.png)"
 msgstr ""
-"![Vista general de configuració de laboratori: Sistema a provar o «System "
-"Under Test» (SUT), Mesurador d'energia o «Power Meter» (PM), i Agregador i "
-"avaluador de dades o «Data Aggregator and Evaluator» (DAE). (Imatge de KDE "
-"publicada segons una llicència [CC-BY-SA-4.0](https://spdx.org/licenses/CC-"
-"BY-SA-4.0.html). Disseny de Lana Lutz.)](images/sec3_lab-setup_modified.png)"
+"![Vista general de configuració de laboratori: Sistema per a proves o "
+"«System Under Test» (SUT), Mesurador d'energia o «Power Meter» (PM), i "
+"Agregador i avaluador de dades o «Data Aggregator and Evaluator» (DAE). "
+"(Imatge de KDE publicada segons una llicència [CC-BY-SA-4.0](https://spdx."
+"org/licenses/CC-BY-SA-4.0.html). Disseny de Lana Lutz.)](images/sec3_lab-"
+"setup_modified.png)"
 
 #: content/be4foss-handbook/handbook_web.md:399
 msgid "System Under Test (SUT)"
-msgstr "Sistema a provar (SUT, System Under Test)"
+msgstr "Sistema per a proves (SUT, System Under Test)"
 
 #: content/be4foss-handbook/handbook_web.md:401
 msgid ""
@@ -4503,7 +4504,8 @@ msgstr ""
 msgid ""
 "the number of lines to skip (German: *Anzahl zu überspringender Zeilen*); and"
 msgstr ""
-"el nombre de línies a ometre (alemany: *Anzahl zu überspringender Zeilen*); i"
+"el nombre de línies que s'ometran (alemany: *Anzahl zu überspringender "
+"Zeilen*); i"
 
 #: content/be4foss-handbook/handbook_web.md:733
 msgid "the character encoding (German: *Zeichensatz (Encoding)*)."
@@ -4768,7 +4770,7 @@ msgstr ""
 # skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:790
 msgid "*Anzahl zu überspringender Zeilen*: ‘Number of lines to skip’"
-msgstr "*Anzahl zu überspringender Zeilen*: ‘Nombre de línies a ometre'"
+msgstr "*Anzahl zu überspringender Zeilen*: ‘Nombre de línies que s'ometran'"
 
 # skip-rule: t-acc_tan
 #: content/be4foss-handbook/handbook_web.md:791
@@ -5737,7 +5739,7 @@ msgstr "2.1 Formats de dades"
 
 #: content/be4foss-handbook/handbook_web.md:1067
 msgid "The main information to include in documentation:"
-msgstr "La informació principal a incloure en la documentació:"
+msgstr "La informació principal que s'ha d'incloure en la documentació:"
 
 #: content/be4foss-handbook/handbook_web.md:1069
 msgid ""
@@ -7018,7 +7020,7 @@ msgid ""
 "kde.org/teams/eco/feep/-/issues/3)!"
 msgstr ""
 "Per exemple, per als desenvolupadors interessats en realitzar proves "
-"unitàries d'eficiència energètica o a obtindre el segell Blauer Engel, serà "
+"unitàries d'eficiència energètica o en obtindre el segell Blauer Engel, serà "
 "necessari tindre entorns clarament especificats. Llavors, quines són les "
 "maneres còmodes i ràpides de portar el sistema a un estat conegut? Es van "
 "discutir tres idees: (i) prendre instantànies d'un sistema de fitxers (per "
@@ -9247,10 +9249,10 @@ msgid ""
 "(creators of Right To Repair and Open Repair Alliance), [iFixit](https://www."
 "ifixit.com), [anstiftung](https://anstiftung.de/), among others."
 msgstr ""
-"Els Repair Cafés són un lloc per a reparar els objectes utilitzats a la vida "
-"quotidiana, com ara roba, electrònica, bicicletes, etc. El primer Repair "
-"Café el va crear en Holanda el 2009 la periodista holandesa Martine Postma. "
-"Des de llavors, n'han aparegut milers a tot el món amb el suport "
+"Els Repair Cafés són un lloc per a reparar els objectes utilitzats en la "
+"vida quotidiana, com ara roba, electrònica, bicicletes, etc. El primer "
+"Repair Café el va crear en Holanda el 2009 la periodista holandesa Martine "
+"Postma. Des de llavors, n'han aparegut milers a tot el món amb el suport "
 "d'organitzacions com [Repair Cafe International](https://www.repaircafe."
 "org/) (iniciat per Martine Postma), el [Restart Project](https://"
 "therestartproject.org/) (creadors de Right To Repair i Open Repair "
@@ -9326,7 +9328,7 @@ msgstr ""
 "(https://web.archive.org/web/20250405225518/https://www.reparatur-"
 "initiativen.de/post/das-ende-von-windows10-und-wie-man-danach-noch-nutzen-"
 "kann) organitzada per Opt Green amb l'organització de reparació [anstiftung]"
-"(https://anstiftung.de/). En la xerrada, vam subratllat com el programari "
+"(https://anstiftung.de/). En la xarrada, vam subratllat com el programari "
 "[impulsa els residus electrònics](https://www.reparatur-initiativen.de/files/"
 "kcfinder/posts/97597/2025-03-24-KDE-linux-anstiftung.pdf) juntament amb "
 "altres formes de consum d'energia i recursos. Vam mostrar com la reparació "
@@ -9391,14 +9393,14 @@ msgstr ""
 "específicament en Linux), i organitzacions similars com IT-Cafés, Technik-"
 "Cafés, etc. (Una vegada que s'inclouen els Makerspaces, Hackerspaces, "
 "Fablabs, LUG i altres iniciatives que es van presentar per ajudar, hi ha més "
-"de 1180 llocs i esdeveniments en total al lloc web End Of 10; més sobre açò "
-"a la Part II.) A més, Repair Café International, una [organització de suport "
-"de «Final de la 10»](https://endof10.org/#supporters), ara llista 40 [Linux "
-"Repair Cafés](https://www.repaircafe.org/en/linux-repair-cafe/) al seu lloc "
-"web. I el Restart Project va publicar el seu «conjunt d'eines de Final de "
-"Windows 10](https://therestartproject.org/end-of-windows-10-toolkit-for-"
-"repair-groups/)» per promoure el FOSS entre els grups de reparació com una "
-"manera de mantindre en ús els dispositius no compatibles amb Windows."
+"de 1180 llocs i esdeveniments en total al lloc web «Final de la 10»; més "
+"sobre açò a la Part II.) A més, Repair Café International, una [organització "
+"de suport de «Final de la 10»](https://endof10.org/#supporters), ara llista "
+"40 [Linux Repair Cafés](https://www.repaircafe.org/en/linux-repair-cafe/) al "
+"seu lloc web. I el Restart Project va publicar el seu «conjunt d'eines de "
+"Final de Windows 10](https://therestartproject.org/end-of-windows-10-toolkit-"
+"for-repair-groups/)» per promoure el FOSS entre els grups de reparació com "
+"una manera de mantindre en ús els dispositius no compatibles amb Windows."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:56
 msgid ""
@@ -9798,11 +9800,12 @@ msgstr "KDE Eco en Mastodon: <https://floss.social/@be4foss>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:134
 msgid "End Of 10 working room: <https://matrix.to/#/#endof10:kde.org>"
-msgstr "Sala de treball d'End Of 10: <https://matrix.to/#/#endof10:kde.org>"
+msgstr ""
+"Sala de treball de «Final de la 10»: <https://matrix.to/#/#endof10:kde.org>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:135
 msgid "End Of 10 on Mastodon: <https://floss.social/@endof10>"
-msgstr "End Of 10 en Mastodon: <https://floss.social/@endof10>"
+msgstr "«Final de la 10» en Mastodon: <https://floss.social/@endof10>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:137
 msgid ""
@@ -10031,7 +10034,7 @@ msgid ""
 msgstr ""
 "*Esta és una versió modificada del resum [tramés](https://web.archive.org/"
 "web/20211227143613/https://pretalx.c3voc.de/rc3-2021-r3s/talk/UUJGTC/) al "
-"Remote Rhein Ruhr Stage del CCC 2021. Podeu mirar la xerrada [ací](https://"
+"Remote Rhein Ruhr Stage del CCC 2021. Podeu mirar la xarrada [ací](https://"
 "streaming.media.ccc.de/rc3/relive/319).*"
 
 #: content/FEEP/_index.md:9
@@ -13268,8 +13271,8 @@ msgid ""
 "**ISO** / **image file**: the file that contains the operating system to be "
 "installed"
 msgstr ""
-"**ISO** / **fitxer d'imatge**: el fitxer que conté el sistema operatiu a "
-"instal·lar"
+"**ISO** / **fitxer d'imatge**: el fitxer que conté el sistema operatiu que "
+"s'instal·larà"
 
 #: content/opt-green-handbook/index.md:439
 msgid ""
