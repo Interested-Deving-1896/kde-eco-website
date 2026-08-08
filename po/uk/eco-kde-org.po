@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-26 02:08+0000\n"
-"PO-Revision-Date: 2026-08-04 13:52+0300\n"
+"PO-Revision-Date: 2026-08-07 18:17+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -1897,6 +1897,11 @@ msgid ""
 "with details about the hardware on which the software runs and the required "
 "software stack."
 msgstr ""
+"Критерії категорії (B) гарантують, що програмне забезпечення має достатньо "
+"низькі вимоги до продуктивності для роботи на старішому, менш потужному "
+"обладнанні віком щонайменше п'ять років. Відповідність передбачає декларацію "
+"зворотної сумісності з детальною інформацією про обладнання, на якому працює "
+"програмне забезпечення, та необхідний програмний стек."
 
 #: content/be4foss-handbook/handbook_web.md:228
 msgid ""
@@ -1904,10 +1909,13 @@ msgid ""
 "the energy consumption and resource-conserving use of their software. There "
 "are eight categories for the autonomy criteria."
 msgstr ""
+"Нарешті, критерії категорії (C) гарантують, що користувачі мають вплив на "
+"споживання енергії та використання свого програмного забезпечення зі "
+"заощадженням енергії. Існує вісім категорій критеріїв автономності."
 
 #: content/be4foss-handbook/handbook_web.md:230
 msgid "Data Formats &mdash; *Interoperability To Give Users Choice*"
-msgstr ""
+msgstr "Формати даних – *Сумісність, що надає користувачам вибір*"
 
 #: content/be4foss-handbook/handbook_web.md:232
 msgid ""
@@ -1920,10 +1928,20 @@ msgid ""
 "Users should be able to easily change programs and still access all of their "
 "data."
 msgstr ""
+"Формати даних не повинні використовуватися постачальниками для [прив’язки "
+"користувачів](https://en.wikipedia.org/wiki/Vendor_lock-in) до використання "
+"певної комп’ютерної програми, а також не повинні нав'язувати обтяжливі "
+"витрати на перехід. [Широко сумісні](https://en.wikipedia.org/wiki/"
+"Interoperability) формати даних запобігають тому, щоб користувачі застрягли "
+"на програмі, яка споживає багато енергії, коли ефективніша програма може "
+"досягти тих самих результатів з меншими вимогами до обладнання. Користувачі "
+"повинні мати можливість легко змінювати програми і при цьому отримувати "
+"доступ до всіх своїх даних."
 
 #: content/be4foss-handbook/handbook_web.md:234
 msgid "Transparency &mdash; *Removing User Dependencies For Long-Term Use*"
 msgstr ""
+"Прозорість – *Усування залежності користувача для тривалого користування*"
 
 #: content/be4foss-handbook/handbook_web.md:236
 msgid ""
@@ -1941,6 +1959,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:238
 msgid "Continuity Of Support &mdash; *Security Updates To Prevent E-Waste*"
 msgstr ""
+"Неперервна підтримка – *Оновлення захисту для запобігання появі електронних "
+"відходів*"
 
 #: content/be4foss-handbook/handbook_web.md:240
 msgid ""
@@ -1961,6 +1981,8 @@ msgstr ""
 msgid ""
 "Uninstallability &mdash; *Removing Unwanted Software To Increase Efficiency*"
 msgstr ""
+"Можливість вилучення – *Вилучення небажаного програмного забезпечення для "
+"збільшення ефективності*"
 
 #: content/be4foss-handbook/handbook_web.md:244
 msgid ""
