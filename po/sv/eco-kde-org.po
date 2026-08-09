@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-26 02:08+0000\n"
-"PO-Revision-Date: 2026-07-26 15:30+0200\n"
+"PO-Revision-Date: 2026-08-08 19:45+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@gmail.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -49,7 +49,7 @@ msgstr "Applying The Blue Angel Criteria To Free Software"
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "A Handbook To Certifying Software As Sustainable (February 2023)"
-msgstr ""
+msgstr "A Handbook To Certifying Software As Sustainable (februari 2023)"
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "en"
@@ -276,7 +276,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:63
 #: content/opt-green-handbook/index.md:98
 msgid "Material Footprint Of Digital Technology"
-msgstr ""
+msgstr "Materialavtryck för digital teknik"
 
 #: content/be4foss-handbook/handbook_web.md:65
 msgid ""
@@ -324,6 +324,8 @@ msgid ""
 "Digital technology can help mitigate climate change, but it must first cease "
 "contributing to it."
 msgstr ""
+"Digital teknik kan bidra till att mildra klimatförändringarna, men den måste "
+"först sluta bidra till dem."
 
 #: content/be4foss-handbook/handbook_web.md:73
 msgid ""
@@ -394,7 +396,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:83
 msgid "Relative Harm &mdash; Or, When Less Is Not More"
-msgstr ""
+msgstr "Relativ skada, eller när mindre inte är mer"
 
 #: content/be4foss-handbook/handbook_web.md:85
 msgid ""
@@ -531,7 +533,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:103
 msgid "A “Tsunami Of E-Waste”"
-msgstr ""
+msgstr "En “tsunami av elektronikskräp”"
 
 #: content/be4foss-handbook/handbook_web.md:105
 msgid ""
@@ -1135,7 +1137,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:218
 msgid "The ABCs Of The Award Criteria"
-msgstr ""
+msgstr "ABC för utmärkelsekriterier"
 
 #: content/be4foss-handbook/handbook_web.md:220
 msgid ""
@@ -1190,7 +1192,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:230
 msgid "Data Formats &mdash; *Interoperability To Give Users Choice*"
-msgstr ""
+msgstr "Dataformat: *Interoperabilitet för att ge användare valmöjligheter*"
 
 #: content/be4foss-handbook/handbook_web.md:232
 msgid ""
@@ -1206,7 +1208,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:234
 msgid "Transparency &mdash; *Removing User Dependencies For Long-Term Use*"
-msgstr ""
+msgstr "Transparens: *Ta bort användarberoende för långvarig användning*"
 
 #: content/be4foss-handbook/handbook_web.md:236
 msgid ""
@@ -1224,6 +1226,8 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:238
 msgid "Continuity Of Support &mdash; *Security Updates To Prevent E-Waste*"
 msgstr ""
+"Kontinuitet i support: *Säkerhetsuppdateringar för att förhindra "
+"elektronikskräp*"
 
 #: content/be4foss-handbook/handbook_web.md:240
 msgid ""
@@ -8191,7 +8195,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:112
 msgid "A \"Tsunami Of E-Waste\""
-msgstr ""
+msgstr "En \"tsunami av elektronikskräp\""
 
 #: content/opt-green-handbook/index.md:114
 msgid ""
@@ -11068,7 +11072,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:727
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Felsökning"
 
 #: content/opt-green-handbook/index.md:729
 msgid ""
@@ -11084,24 +11088,32 @@ msgid ""
 "[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
 "+Installing/616642)"
 msgstr ""
+"[Linux Not Installing](https://www.ifixit.com/Troubleshooting/Linux/Not"
+"+Installing/616642)"
 
 #: content/opt-green-handbook/index.md:732
 msgid ""
 "[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
 "bitlocker-during-ubuntu-installation/)"
 msgstr ""
+"[Bitlocker](https://documentation.ubuntu.com/desktop/en/latest/reference/"
+"bitlocker-during-ubuntu-installation/)"
 
 #: content/opt-green-handbook/index.md:733
 msgid ""
 "[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
 "com/blog/install-linux-nvidia-driver/)"
 msgstr ""
+"[Installing NVIDIA Drivers on Linux: A Comprehensive Guide](https://linuxvox."
+"com/blog/install-linux-nvidia-driver/)"
 
 #: content/opt-green-handbook/index.md:734
 msgid ""
 "[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
 "printer-in-linux/)"
 msgstr ""
+"[How to Set Up a Printer in Linux](https://www.maketecheasier.com/set-up-a-"
+"printer-in-linux/)"
 
 #: content/opt-green-handbook/index.md:735
 msgid ""
@@ -11109,6 +11121,9 @@ msgid ""
 "com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
 "p/36236)"
 msgstr ""
+"[Troubleshooting Linux Problems: A Beginner's Guide](https://learn.redhat."
+"com/t5/Platform-Linux/Troubleshooting-Linux-Problems-A-Beginner-s-Guide/td-"
+"p/36236)"
 
 #: content/opt-green-handbook/index.md:736
 msgid ""
@@ -11116,12 +11131,17 @@ msgid ""
 "dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
 "tips-for-new-users/)"
 msgstr ""
+"[Troubleshooting Common Linux Problems: Tips for New Users](https://www."
+"dotlinux.net/linux-basics-tutorial/troubleshooting-common-linux-problems-"
+"tips-for-new-users/)"
 
 #: content/opt-green-handbook/index.md:737
 msgid ""
 "[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
 "org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 msgstr ""
+"[Troubleshooting Common Linux Issues: A Guide for New Users](https://codegig."
+"org/troubleshooting-common-linux-issues-a-guide-for-new-users/)"
 
 #: content/opt-green-handbook/index.md:740
 msgid ""
@@ -11881,7 +11901,7 @@ msgstr ""
 #. grow-green.flyer-section.button
 #: i18n/en.yaml:237
 msgid "Get Flyer"
-msgstr ""
+msgstr "Hämta flygblad"
 
 #. grow-green.install-party-section.description
 #: i18n/en.yaml:241
@@ -11897,7 +11917,7 @@ msgstr ""
 #. grow-green.install-party-section.button
 #: i18n/en.yaml:243
 msgid "End Of 10"
-msgstr ""
+msgstr "Slutet för 10"
 
 #. endof10.text
 #: i18n/en.yaml:245
