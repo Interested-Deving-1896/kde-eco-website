@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-26 02:08+0000\n"
-"PO-Revision-Date: 2026-08-09 16:42+0300\n"
+"PO-Revision-Date: 2026-08-10 13:50+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -2072,11 +2072,16 @@ msgid ""
 "limit the range of software functions to those that they either want or "
 "require."
 msgstr ""
+"Користувачі повинні мати можливість встановлювати лише те, що їм потрібно. "
+"Несуттєві функції збільшують споживання пам'яті та енергії, що робить "
+"програмне забезпечення менш ефективним і, можливо, нездатним працювати на "
+"старому обладнанні. Люди повинні мати можливість обмежувати діапазон функцій "
+"програмного забезпечення тими, які вони хочуть або потребують."
 
 #: content/be4foss-handbook/handbook_web.md:254
 msgid ""
 "Freedom From Advertising &mdash; *Opting-Out To Reduce Energy Consumption*"
-msgstr ""
+msgstr "Свобода від реклами – *Відмова для зменшення споживання енергії*"
 
 #: content/be4foss-handbook/handbook_web.md:256
 msgid ""
@@ -2087,12 +2092,21 @@ msgid ""
 "data volume transmitted and thus reduces the energy consumption for network "
 "traffic."
 msgstr ""
+"Небажане використання даних лише в Європейському Союзі приблизно "
+"еквівалентне річному споживанню енергії в такому місті, як Лісабон чи Турин; "
+"див. ЧАСТИНУ I. Уможливлення для користувачів відмови від реклами зменшує "
+"потребу в енергії та ресурсах для пристроїв кінцевих користувачів та "
+"серверів, на яких транслюється реклама. Відмова також зменшує обсяг "
+"переданих даних і, таким чином, зменшує споживання енергії для обміну даними "
+"мережею."
 
 #: content/be4foss-handbook/handbook_web.md:258
 msgid ""
 "Documentation &mdash; *To Support Resource-Conserving, Continuous Use Of "
 "Software … And Therefore Hardware*"
 msgstr ""
+"Документування – *Для підтримки заощадження ресурсів, неперервного "
+"використання програмного забезпечення… а отже, обладнання*"
 
 #: content/be4foss-handbook/handbook_web.md:260
 msgid ""
@@ -2132,7 +2146,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:266
 msgid "Okular, The First Eco-Certified Computer Program"
-msgstr ""
+msgstr "Okular, перша екосертифікована комп'ютерна програма"
 
 #: content/be4foss-handbook/handbook_web.md:268
 msgid ""
