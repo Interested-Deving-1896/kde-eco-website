@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-26 02:08+0000\n"
-"PO-Revision-Date: 2026-06-17 18:02+0300\n"
+"PO-Revision-Date: 2026-08-11 19:09+0300\n"
 "Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
 "SPDX-License-Identifier: LGPL-3.0-or-later\n"
-"X-Generator: Poedit 3.9\n"
+"X-Generator: Lokalize 26.04.2\n"
 
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -12231,7 +12231,7 @@ msgstr ""
 #. grow-green.flyer-section.button
 #: i18n/en.yaml:237
 msgid "Get Flyer"
-msgstr ""
+msgstr "Broşürü Al"
 
 #. grow-green.install-party-section.description
 #: i18n/en.yaml:241
