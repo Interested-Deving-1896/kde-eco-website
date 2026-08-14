@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-26 02:08+0000\n"
-"PO-Revision-Date: 2026-08-08 19:45+0200\n"
+"PO-Revision-Date: 2026-08-13 21:01+0200\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@gmail.com>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
 "Language: sv\n"
@@ -1995,20 +1995,24 @@ msgid ""
 "<https://github.com/swaywm/wlr-protocols/blob/master/unstable/wlr-virtual-"
 "pointer-unstable-v1.xml>"
 msgstr ""
+"<https://github.com/swaywm/wlr-protocols/blob/master/unstable/wlr-virtual-"
+"pointer-unstable-v1.xml>"
 
 #: content/be4foss-handbook/handbook_web.md:445
 msgid ""
 "<https://api.kde.org/frameworks/kwayland/html/"
 "classKWayland_1_1Client_1_1FakeInput.html>"
 msgstr ""
+"<https://api.kde.org/frameworks/kwayland/html/"
+"classKWayland_1_1Client_1_1FakeInput.html>"
 
 #: content/be4foss-handbook/handbook_web.md:447
 msgid "[libinput user devices](https://lwn.net/Articles/801767/)"
-msgstr ""
+msgstr "[libinput-användarenheter](https://lwn.net/Articles/801767/)"
 
 #: content/be4foss-handbook/handbook_web.md:449
 msgid "Measurement Process"
-msgstr ""
+msgstr "Mätprocess"
 
 #: content/be4foss-handbook/handbook_web.md:451
 msgid ""
@@ -2021,7 +2025,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:453
 msgid "Some general comments:"
-msgstr ""
+msgstr "Några allmänna kommentarer:"
 
 #: content/be4foss-handbook/handbook_web.md:455
 msgid "Times between the PM and DAE must be synchronized."
@@ -2063,31 +2067,31 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:468
 msgid "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<FILENAME>.csv`"
-msgstr ""
+msgstr "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<FILNAMN>.csv`"
 
 #: content/be4foss-handbook/handbook_web.md:470
 msgid "The options are as follows:"
-msgstr ""
+msgstr "Väljarna är följande:"
 
 #: content/be4foss-handbook/handbook_web.md:472
 msgid "`-s cdmn`"
-msgstr ""
+msgstr "`-s cdmn`"
 
 #: content/be4foss-handbook/handbook_web.md:474
 msgid "collect CPU, Disk, memory, and network data"
-msgstr ""
+msgstr "samla in processor, disk, minne och nätverksdata"
 
 #: content/be4foss-handbook/handbook_web.md:476
 msgid "`-i1`"
-msgstr ""
+msgstr "`-i1`"
 
 #: content/be4foss-handbook/handbook_web.md:478
 msgid "sampling interval of 1 second"
-msgstr ""
+msgstr "samplingsintervall 1 sekund"
 
 #: content/be4foss-handbook/handbook_web.md:480
 msgid "`-P`"
-msgstr ""
+msgstr "`-P`"
 
 #: content/be4foss-handbook/handbook_web.md:482
 msgid ""
@@ -2097,19 +2101,19 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:484
 msgid "`--sep 59`"
-msgstr ""
+msgstr "`--sep 59`"
 
 #: content/be4foss-handbook/handbook_web.md:486
 msgid "semicolon separator"
-msgstr ""
+msgstr "semikolonavgränsare"
 
 #: content/be4foss-handbook/handbook_web.md:488
 msgid "`-f </PATH/TO/FILE>.csv`"
-msgstr ""
+msgstr "`-f </SÖKVÄG/TILL/FIL>.csv`"
 
 #: content/be4foss-handbook/handbook_web.md:490
 msgid "save file at specified path"
-msgstr ""
+msgstr "spara filen på en angiven sökväg"
 
 #: content/be4foss-handbook/handbook_web.md:492
 msgid "Measuring Baseline, Idle Mode, And Standard Usage Scenarios"
@@ -2162,7 +2166,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:508
 msgid "<a name=\"sec:labplot\"></a> Monitoring Output With Labplot"
-msgstr ""
+msgstr "<a name=\"sec:labplot\"></a> Övervaka utmatning med Labplot"
 
 #: content/be4foss-handbook/handbook_web.md:510
 msgid ""
@@ -2192,7 +2196,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:520
 msgid "If everything looks good, click OK."
-msgstr ""
+msgstr "Om allt ser bra ut, klicka på Ok."
 
 #: content/be4foss-handbook/handbook_web.md:522
 msgid ""
@@ -2202,7 +2206,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:524
 msgid "Analysis Of The Results With OSCAR"
-msgstr ""
+msgstr "Analys av resultaten med OSCAR"
 
 #: content/be4foss-handbook/handbook_web.md:526
 msgid ""
@@ -2215,10 +2219,11 @@ msgstr ""
 msgid ""
 "[Source Code](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 msgstr ""
+"[Källkod](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 
 #: content/be4foss-handbook/handbook_web.md:530
 msgid "[Running instance](https://oscar.umwelt-campus.de/)"
-msgstr ""
+msgstr "[Körande instans](https://oscar.umwelt-campus.de/)"
 
 #: content/be4foss-handbook/handbook_web.md:532
 msgid ""
@@ -2228,7 +2233,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:534
 msgid "CSV Files"
-msgstr ""
+msgstr "CSV-filer"
 
 #: content/be4foss-handbook/handbook_web.md:536
 msgid ""
@@ -2276,7 +2281,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:548
 msgid "Log File Of Actions"
-msgstr ""
+msgstr "Loggfil med åtgärder"
 
 #: content/be4foss-handbook/handbook_web.md:550
 msgid ""
@@ -2293,12 +2298,12 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:557
 #: content/be4foss-handbook/handbook_web.md:558
 msgid "YYYY-MM-DD HH:MM:SS ;"
-msgstr ""
+msgstr "YYYY-MM-DD HH:MM:SS ;"
 
 #: content/be4foss-handbook/handbook_web.md:554
 #: content/be4foss-handbook/handbook_web.md:564
 msgid "startTestrun ;"
-msgstr ""
+msgstr "startTestrun ;"
 
 #: content/be4foss-handbook/handbook_web.md:555
 #: content/be4foss-handbook/handbook_web.md:556
@@ -2316,24 +2321,24 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid ";"
-msgstr ""
+msgstr ";"
 
 #: content/be4foss-handbook/handbook_web.md:555
 msgid "action1"
-msgstr ""
+msgstr "åtgärd 1"
 
 #: content/be4foss-handbook/handbook_web.md:556
 msgid "action2"
-msgstr ""
+msgstr "åtgärd 2"
 
 #: content/be4foss-handbook/handbook_web.md:557
 msgid "action3"
-msgstr ""
+msgstr "åtgärd 3"
 
 #: content/be4foss-handbook/handbook_web.md:558
 #: content/be4foss-handbook/handbook_web.md:575
 msgid "stopTestrun ;"
-msgstr ""
+msgstr "stopTestrun ;"
 
 #: content/be4foss-handbook/handbook_web.md:560
 msgid ""
@@ -2344,88 +2349,88 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:564
 msgid "2022-05-21 18:54:36 ;"
-msgstr ""
+msgstr "2022-05-21 18:54:36 ;"
 
 #: content/be4foss-handbook/handbook_web.md:565
 msgid "2022-05-21 18:55:41 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:41 ;"
 
 #: content/be4foss-handbook/handbook_web.md:565
 msgid "go to line 100"
-msgstr ""
+msgstr "go to line 100"
 
 #: content/be4foss-handbook/handbook_web.md:566
 msgid "2022-05-21 18:55:46 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:46 ;"
 
 #: content/be4foss-handbook/handbook_web.md:566
 msgid "toggle comment"
-msgstr ""
+msgstr "toggle comment"
 
 #: content/be4foss-handbook/handbook_web.md:567
 msgid "2022-05-21 18:55:50 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:50 ;"
 
 #: content/be4foss-handbook/handbook_web.md:567
 msgid "find kconfig"
-msgstr ""
+msgstr "find kconfig"
 
 #: content/be4foss-handbook/handbook_web.md:568
 msgid "2022-05-21 18:55:55 ;"
-msgstr ""
+msgstr "2022-05-21 18:55:55 ;"
 
 #: content/be4foss-handbook/handbook_web.md:568
 msgid "move between searches 6 times"
-msgstr ""
+msgstr "move between searches 6 times"
 
 #: content/be4foss-handbook/handbook_web.md:569
 #: content/be4foss-handbook/handbook_web.md:570
 msgid "2022-05-21 18:56:05 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:05 ;"
 
 #: content/be4foss-handbook/handbook_web.md:569
 msgid "close find bar"
-msgstr ""
+msgstr "close find bar"
 
 #: content/be4foss-handbook/handbook_web.md:570
 msgid "standby 30 sec"
-msgstr ""
+msgstr "standby 30 sec"
 
 #: content/be4foss-handbook/handbook_web.md:571
 msgid "2022-05-21 18:56:35 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:35 ;"
 
 #: content/be4foss-handbook/handbook_web.md:571
 msgid "go to line 200"
-msgstr ""
+msgstr "go to line 200"
 
 #: content/be4foss-handbook/handbook_web.md:572
 msgid "2022-05-21 18:56:40 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:40 ;"
 
 #: content/be4foss-handbook/handbook_web.md:572
 msgid "select 10 lines"
-msgstr ""
+msgstr "select 10 lines"
 
 #: content/be4foss-handbook/handbook_web.md:573
 msgid "2022-05-21 18:56:43 ;"
-msgstr ""
+msgstr "2022-05-21 18:56:43 ;"
 
 #: content/be4foss-handbook/handbook_web.md:573
 msgid "delete selected text"
-msgstr ""
+msgstr "delete selected text"
 
 #: content/be4foss-handbook/handbook_web.md:574
 msgid "[…] ;"
-msgstr ""
+msgstr "[…] ;"
 
 #: content/be4foss-handbook/handbook_web.md:574
 msgid "[…]"
-msgstr ""
+msgstr "[…]"
 
 #: content/be4foss-handbook/handbook_web.md:575
 msgid "2022-05-21 18:59:13 ;"
-msgstr ""
+msgstr "2022-05-21 18:59:13 ;"
 
 #: content/be4foss-handbook/handbook_web.md:577
 msgid "Energy Consumption Data"
@@ -2445,12 +2450,12 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid "Zeit ;"
-msgstr ""
+msgstr "Zeit ;"
 
 #: content/be4foss-handbook/handbook_web.md:581
 #: content/be4foss-handbook/handbook_web.md:614
 msgid "Wert 1-avg[W]"
-msgstr ""
+msgstr "Wert 1-avg[W]"
 
 #: content/be4foss-handbook/handbook_web.md:583
 #: content/be4foss-handbook/handbook_web.md:616
@@ -2463,45 +2468,45 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "1 ;"
-msgstr ""
+msgstr "1 ;"
 
 #: content/be4foss-handbook/handbook_web.md:583
 #: content/be4foss-handbook/handbook_web.md:584
 #: content/be4foss-handbook/handbook_web.md:585
 #: content/be4foss-handbook/handbook_web.md:586
 msgid "DD.MM.YY, HH:MM:SS ;"
-msgstr ""
+msgstr "DD.MM.YY, HH:MM:SS ;"
 
 #: content/be4foss-handbook/handbook_web.md:583
 msgid "value1"
-msgstr ""
+msgstr "värde 1"
 
 #: content/be4foss-handbook/handbook_web.md:584
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "2 ;"
-msgstr ""
+msgstr "2 ;"
 
 #: content/be4foss-handbook/handbook_web.md:584
 msgid "value2"
-msgstr ""
+msgstr "värde 2"
 
 #: content/be4foss-handbook/handbook_web.md:585
 msgid "3 ;"
-msgstr ""
+msgstr "3 ;"
 
 #: content/be4foss-handbook/handbook_web.md:585
 msgid "value3"
-msgstr ""
+msgstr "värde 3"
 
 #: content/be4foss-handbook/handbook_web.md:586
 #: content/be4foss-handbook/handbook_web.md:651
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "4 ;"
-msgstr ""
+msgstr "4 ;"
 
 #: content/be4foss-handbook/handbook_web.md:586
 msgid "value4"
-msgstr ""
+msgstr "värde 4"
 
 #: content/be4foss-handbook/handbook_web.md:588
 msgid ""
@@ -2516,47 +2521,47 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:592
 msgid "1661611923019071 ;"
-msgstr ""
+msgstr "1661611923019071 ;"
 
 #: content/be4foss-handbook/handbook_web.md:592
 #: content/be4foss-handbook/handbook_web.md:593
 msgid "43"
-msgstr ""
+msgstr "43"
 
 #: content/be4foss-handbook/handbook_web.md:593
 msgid "1661611923142924 ;"
-msgstr ""
+msgstr "1661611923142924 ;"
 
 #: content/be4foss-handbook/handbook_web.md:594
 msgid "1661611924293989 ;"
-msgstr ""
+msgstr "1661611924293989 ;"
 
 #: content/be4foss-handbook/handbook_web.md:594
 msgid "29"
-msgstr ""
+msgstr "29"
 
 #: content/be4foss-handbook/handbook_web.md:595
 msgid "1661611924417017 ;"
-msgstr ""
+msgstr "1661611924417017 ;"
 
 #: content/be4foss-handbook/handbook_web.md:595
 #: content/be4foss-handbook/handbook_web.md:596
 #: content/be4foss-handbook/handbook_web.md:597
 #: content/be4foss-handbook/handbook_web.md:598
 msgid "28"
-msgstr ""
+msgstr "28"
 
 #: content/be4foss-handbook/handbook_web.md:596
 msgid "1661611924744885 ;"
-msgstr ""
+msgstr "1661611924744885 ;"
 
 #: content/be4foss-handbook/handbook_web.md:597
 msgid "1661611924869051 ;"
-msgstr ""
+msgstr "1661611924869051 ;"
 
 #: content/be4foss-handbook/handbook_web.md:598
 msgid "1661611924992392 ;"
-msgstr ""
+msgstr "1661611924992392 ;"
 
 #: content/be4foss-handbook/handbook_web.md:600
 msgid ""
@@ -2607,23 +2612,23 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:616
 msgid "27.08.22, 16:52:03 ;"
-msgstr ""
+msgstr "27.08.22, 16:52:03 ;"
 
 #: content/be4foss-handbook/handbook_web.md:616
 msgid "43.00000"
-msgstr ""
+msgstr "43.00000"
 
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "27.08.22, 16:52:04 ;"
-msgstr ""
+msgstr "27.08.22, 16:52:04 ;"
 
 #: content/be4foss-handbook/handbook_web.md:617
 msgid "28.20000"
-msgstr ""
+msgstr "28.20000"
 
 #: content/be4foss-handbook/handbook_web.md:619
 msgid "Performance Data (Raw)"
-msgstr ""
+msgstr "Prestandadata (obehandlat)"
 
 #: content/be4foss-handbook/handbook_web.md:621
 msgid ""
@@ -2735,7 +2740,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:650
 msgid "27.08.2022 16:47:10 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:10 ;"
 
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
@@ -2748,7 +2753,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:658
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "7131968 ;"
-msgstr ""
+msgstr "7131968 ;"
 
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
@@ -2761,7 +2766,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:658
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "0 ;"
-msgstr ""
+msgstr "0 ;"
 
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
@@ -2770,63 +2775,63 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: content/be4foss-handbook/handbook_web.md:651
 msgid "27.08.2022 16:47:11 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:11 ;"
 
 #: content/be4foss-handbook/handbook_web.md:652
 msgid "27.08.2022 16:47:12 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:12 ;"
 
 #: content/be4foss-handbook/handbook_web.md:653
 msgid "27.08.2022 16:47:13 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:13 ;"
 
 #: content/be4foss-handbook/handbook_web.md:653
 msgid "120"
-msgstr ""
+msgstr "120"
 
 #: content/be4foss-handbook/handbook_web.md:654
 msgid "27.08.2022 16:47:14 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:14 ;"
 
 #: content/be4foss-handbook/handbook_web.md:655
 msgid "27.08.2022 16:47:15 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:15 ;"
 
 #: content/be4foss-handbook/handbook_web.md:655
 msgid "56"
-msgstr ""
+msgstr "56"
 
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "27.08.2022 16:47:16 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:16 ;"
 
 #: content/be4foss-handbook/handbook_web.md:656
 msgid "48"
-msgstr ""
+msgstr "48"
 
 #: content/be4foss-handbook/handbook_web.md:657
 msgid "27.08.2022 16:47:17 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:17 ;"
 
 #: content/be4foss-handbook/handbook_web.md:658
 msgid "27.08.2022 16:47:18 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:18 ;"
 
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "27.08.2022 16:47:19 ;"
-msgstr ""
+msgstr "27.08.2022 16:47:19 ;"
 
 #: content/be4foss-handbook/handbook_web.md:659
 msgid "132"
-msgstr ""
+msgstr "132"
 
 #: content/be4foss-handbook/handbook_web.md:661
 msgid "Uploading Data"
-msgstr ""
+msgstr "Ladda upp data"
 
 #: content/be4foss-handbook/handbook_web.md:663
 msgid ""
@@ -2847,7 +2852,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:669
 msgid "A semicolon separator is used."
-msgstr ""
+msgstr "En semikolonavgränsare används."
 
 #: content/be4foss-handbook/handbook_web.md:671
 msgid ""
@@ -2857,7 +2862,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:673
 msgid "Step 1: Obtain Measurement Data"
-msgstr ""
+msgstr "Steg 1: Hämta mätdata"
 
 #: content/be4foss-handbook/handbook_web.md:675
 msgid ""
@@ -2882,7 +2887,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:681
 msgid "Step 2: Upload Measurement Data"
-msgstr ""
+msgstr "Steg 2: Ladda upp mätdata"
 
 #: content/be4foss-handbook/handbook_web.md:683
 msgid ""
@@ -2953,7 +2958,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:705
 msgid "Consider the Okular data:"
-msgstr ""
+msgstr "Betrakta data för Okular:"
 
 #: content/be4foss-handbook/handbook_web.md:707
 msgid ""
@@ -3029,7 +3034,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:729
 msgid "Additionally, you will need to specify the following:"
-msgstr ""
+msgstr "Dessutom behöver man ange följande:"
 
 #: content/be4foss-handbook/handbook_web.md:731
 msgid ""
