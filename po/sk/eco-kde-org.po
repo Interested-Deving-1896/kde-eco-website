@@ -8444,7 +8444,7 @@ msgstr ""
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid "Repair"
-msgstr ""
+msgstr "Opraviť"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid ""
