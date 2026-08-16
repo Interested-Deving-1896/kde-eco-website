@@ -301,14 +301,6 @@ msgstr ""
 "zariadenia, v mnohých prípadoch zbytočne."
 
 #: content/be4foss-handbook/handbook_web.md:53
-#, fuzzy
-#| msgid ""
-#| "“A fact that is even more rarely appreciated is that the key to "
-#| "increasing energy efficiency and protecting natural resources lies not "
-#| "with the hardware but rather above all with the software.” &mdash; Blue "
-#| "Angel Award Critera: [Resource and Energy-Efficient Software Products]"
-#| "(https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-UZ"
-#| "%20215-202001-en-Criteria-V2.pdf) (p. 5)"
 msgid ""
 "“A fact that is even more rarely appreciated is that the key to increasing "
 "energy efficiency and protecting natural resources lies not with the "
@@ -524,21 +516,6 @@ msgstr ""
 "consume) vyžaduje toľko energie ako celé krajiny ako Švédsko alebo Malajzia."
 
 #: content/be4foss-handbook/handbook_web.md:79
-#, fuzzy
-#| msgid ""
-#| "At the same time, we use more digital devices than ever before. The "
-#| "number of internet-connected devices, including laptops and smartphones, "
-#| "but also smart TVs, home assistants, and other IoT devices, is rapidly "
-#| "growing, and [expected](https://www.statista.com/statistics/471264/iot-"
-#| "number-of-connected-devices-worldwide/) to surpass 75 billion by 2025. "
-#| "That’s just about 10 devices for every person on earth (though the global "
-#| "distribution of these devices is far from even). Globally, smartphone "
-#| "adoption has increased rapidly, as well as the demands on resources "
-#| "needed to manufacture new and [increasingly powerful devices](https://www."
-#| "oekom.de/buch/smarte-gruene-welt-9783962380205). The production of these "
-#| "devices, including mining for the rare earth metals necessary to make "
-#| "them work, and their transporation, use, and eventual disposal all "
-#| "consume copious amounts of energy."
 msgid ""
 "At the same time, we use more digital devices than ever before. The number "
 "of internet-connected devices, including laptops and smartphones, but also "
@@ -1074,18 +1051,6 @@ msgstr ""
 "mohli. Zvážte nasledovné:"
 
 #: content/be4foss-handbook/handbook_web.md:127
-#, fuzzy
-#| msgid ""
-#| "“Processing power has doubled about every two years since 1970. This "
-#| "means that functions are processed twice as fast and thus less energy is "
-#| "required for the same functions. A similar improvement in efficiency "
-#| "cannot be observed in the field of software. […] The availability of more "
-#| "and more powerful hardware has resulted in software becoming more and "
-#| "more bloated from version to version so that more resources are required "
-#| "for only minimal or even no enhancement of the functionality.” &mdash; "
-#| "Blue Angel Award Critera: [Resource and Energy-Efficient Software "
-#| "Products](https://produktinfo.blauer-engel.de/uploads/criteriafile/en/DE-"
-#| "UZ%20215-202001-en-Criteria-V2.pdf) (p. 5)"
 msgid ""
 "“Processing power has doubled about every two years since 1970. This means "
 "that functions are processed twice as fast and thus less energy is required "
@@ -1256,22 +1221,6 @@ msgstr ""
 "si vyžadujú výpočtový výkon a infraštruktúru."
 
 #: content/be4foss-handbook/handbook_web.md:143
-#, fuzzy
-#| msgid ""
-#| "Researchers in the EU have estimated the environmental costs of tracking "
-#| "and advertisements that users cannot opt out of, referred to as “unwanted "
-#| "data use” in the 2021 report [“*Carbon footprint of unwanted data-use by "
-#| "smartphones: An analysis for the EU*”](https://groenlinks.nl/sites/"
-#| "groenlinks/files/2021-09/CE_Delft_210166_Carbon_footprint_unwanted_data-"
-#| "use_smartphones.pdf). The carbon footprint of this smartphone "
-#| "tracking&mdash;between 3 and 8 million metric tons a year in the EU "
-#| "alone&mdash;is “equal to the carbon footprint of between 370 and 950 "
-#| "thousand EU citizens” (at its worse, roughly the [annual footprint of a "
-#| "city](https://doi.org/10.1088/1748-9326/aac72a) like Turin or Lisbon). "
-#| "The report points out that about 60% of European smartphone users say "
-#| "they would opt out of tracking and block advertisements when possible. "
-#| "That’s an awful lot of energy consumption for something most users don’t "
-#| "want in the first place!"
 msgid ""
 "Researchers in the EU have estimated the environmental costs of tracking and "
 "advertisements that users cannot opt out of, referred to as “unwanted data "
@@ -1449,16 +1398,6 @@ msgstr ""
 "(images/sec1_bigger_problem.png)"
 
 #: content/be4foss-handbook/handbook_web.md:167
-#, fuzzy
-#| msgid ""
-#| "Second, focusing only on fixing the “biggest problem” is not necessarily "
-#| "the most effective strategy. It’s also important to weigh the likelihood "
-#| "of success when addressing an issue, as well as the time and resources "
-#| "required to do so. Free & Open Source Software, with its focus on user "
-#| "autonomy and transparency, provides unique opportunities for users, "
-#| "communities, and organizations to directly address intertwined social and "
-#| "ecological issues. FOSS can be adapted, updated, and maintained at lower "
-#| "cost and without vendor dependencies or artifical restrictions."
 msgid ""
 "Second, focusing only on fixing the “biggest problem” is not necessarily the "
 "most effective strategy. It’s also important to weigh the likelihood of "
@@ -1982,19 +1921,6 @@ msgstr ""
 "elektronickému odpadu*"
 
 #: content/be4foss-handbook/handbook_web.md:240
-#, fuzzy
-#| msgid ""
-#| "Dependending on suppliers for essential updates should not result in "
-#| "abandoned software products that cannot be used without presenting "
-#| "serious disadvantages for the users, such as vulnerabilities to [malware]"
-#| "(https://en.wikipedia.org/wiki/Malware). Security updates should be "
-#| "provided for up to five years after software development is discontinued. "
-#| "Moreover, security updates should be separable from feature updates so "
-#| "that users are not coerced into adopting unwanted functionalities, e.g., "
-#| "[feature creep](https://en.wikipedia.org/wiki/Feature_creep) and other "
-#| "forms of bloat. Such [abandonware](https://en.wikipedia.org/wiki/"
-#| "Abandonware) and [software bloat](https://en.wikipedia.org/wiki/"
-#| "Software_bloat) leave hardware unusable and produce unnecessary e-waste."
 msgid ""
 "Depending on suppliers for essential updates should not result in abandoned "
 "software products that cannot be used without presenting serious "
@@ -8436,11 +8362,11 @@ msgstr "Opt Green"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid "Opt Green Has Ended. Long Live Opt Green!"
-msgstr ""
+msgstr "Opt Green sa skončil. Nech žije Opt Green!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid "Part I: Repair Cafés"
-msgstr ""
+msgstr "Časť I: Opravárske kaviarne"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:0
 msgid "Repair"
@@ -8451,6 +8377,8 @@ msgid ""
 "The Opt Green project has come to an end. Two activities of the project will "
 "help it live on for years to come. This is Part I."
 msgstr ""
+"Projekt Opt Green sa skončil. Dve jeho aktivity mu pomôžu žiť ďalej ešte "
+"roky. Toto je prvá časť."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:15
 msgid ""
@@ -8482,10 +8410,38 @@ msgid ""
 "@be4foss/113424955829573330) against e-waste driven by Microsoft's software "
 "policies."
 msgstr ""
+"S koncom mája sa skončil aj projekt KDE Eco „Opt Green: Udržateľný softvér "
+"pre udržateľný hardvér“ (nemecky *Nachhaltige Software Für Nachhaltige "
+"Hardware*). Prečítajte si [oznámenie](https://eco.kde.org/"
+"blog/2024-05-29_introducing-ns4nh/) z roku 2024 na začiatku projektu. Boli "
+"to plné a vzrušujúce dva roky. Spolu s úžasným tímom v KDE, desiatkami "
+"podporujúcich komunít a tisíckami dobrovoľníkov sme toho dokázali naozaj "
+"veľa. Z toho najlepšieho: projekt organizoval stánky na [ekologických "
+"festivaloch](https://floss.social/@be4foss/112332015705832479), [trhoch]"
+"(https://floss.social/@be4foss/114710216026030872) a na [Dlhej noci vied]"
+"(https://floss.social/@be4foss/112683207939133955). Predstavovali sme sa na "
+"[medzinárodných konferenciách](https://floss.social/"
+"@be4foss/115150588729184584). Usporiadali sme inštalačné večierky pre "
+"[dospelých](https://floss.social/@be4foss/114748408438299075) aj [deti]"
+"(https://floss.social/@be4foss/113708388646578981) a viedli sme [kurzy]"
+"(https://floss.social/@be4foss/112999467563097293) [upcyklácie](https://"
+"floss.social/@be4foss/116697191038161548) na strednej škole. Uverejnili sme "
+"reklamy, [advertoriály](https://web.archive.org/web/20260330152731/https://"
+"werde-magazin.de/stories/beitrag/opt-green-eine-nachhaltigere-digitale-welt-"
+"ist-moeglich/?_ppp=9ff391efeb) a [články](https://floss.social/"
+"@be4foss/116798414401293997) v časopisoch o slobodnom softvéri s otvoreným "
+"zdrojovým kódom (FOSS) aj v časopisoch pre ekologicky zmýšľajúcich "
+"spotrebiteľov a boli sme spoluautormi [odbornej štúdie](https://floss.social/"
+"@be4foss/115547259601891579). Vybudovali sme nové väzby medzi komunitami "
+"FOSS a opravárov. A [zmobilizovali](https://floss.social/"
+"@be4foss/113713173732030500) sme dobrovoľníkov po celom svete, aby ponúkali "
+"osobnú podporu pri Linuxe v [celosvetovej kampani](https://floss.social/"
+"@be4foss/113424955829573330) proti elektroodpadu, ktorý poháňa softvérová "
+"politika Microsoftu."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:17
 msgid "I only wish we had another two years!"
-msgstr ""
+msgstr "Kiež by sme mali ďalšie dva roky!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:21
 msgid ""
@@ -8498,6 +8454,14 @@ msgid ""
 "licenses/by-sa/4.0/legalcode.en) license. Design by Anita Sengupta.)](/blog/"
 "images/2026-07-22-ad-werde.png)"
 msgstr ""
+"![Reklama na [kampaň End Of 10](https://endof10.org/) v nemeckom ekologickom "
+"časopise. Ekologicky zmýšľajúci spotrebitelia sú pre KDE a slobodný softvér "
+"s otvoreným zdrojovým kódom novou skupinou a jednou z hlavných cieľových "
+"skupín projektu Opt Green. Od uverejnenia tejto reklamy začiatkom roka 2026 "
+"Microsoft opäť predĺžil koniec podpory Windows 10, a to do 12. októbra 2027. "
+"(Obrázok od KDE zverejnený pod licenciou [CC BY-SA 4.0](https://"
+"creativecommons.org/licenses/by-sa/4.0/legalcode.en). Návrh: Anita "
+"Sengupta.)](/blog/images/2026-07-22-ad-werde.png)"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:25
 msgid ""
@@ -8510,10 +8474,18 @@ msgid ""
 "will take a closer look at the End Of 10 campaign and what comes next after "
 "the unexpected two-year extension of Windows 10 support."
 msgstr ""
+"Nebudem sa pokúšať napísať ohliadnutie za všetkým, čo projekt urobil. "
+"Namiesto toho sa chcem sústrediť na dve jeho stránky, vďaka ktorým hlavné "
+"ciele projektu podľa mňa nielen pretrvajú, ale budú sa aj rozvíjať dlho po "
+"jeho skončení. Tento článok vyjde v dvoch častiach. Tu, v prvej časti, "
+"predstavím aktivity Opt Green pri budovaní siete a spolupráci s opravárskymi "
+"kaviarňami. V druhej časti, ktorá vyjde čoskoro, sa bližšie pozriem na "
+"kampaň End Of 10 a na to, čo príde po nečakanom dvojročnom predĺžení podpory "
+"Windows 10."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:27
 msgid "Networking With Repair Cafés"
-msgstr ""
+msgstr "Budovanie siete s opravárskymi kaviarňami"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:29
 msgid ""
@@ -8529,6 +8501,18 @@ msgid ""
 "Hackerspaces, Fablabs, LUGs, etc. Working with Repair Cafés provides a great "
 "opportunity to reach people well outside the FOSS bubble."
 msgstr ""
+"Opravárske kolektívy poskytujú komunitné priestory na opravovanie vecí. "
+"Existuje mnoho skupín, ktoré ponúkajú dielne na výrobu a opravu, napríklad "
+"[hackerspacy, makerspacy](https://en.wikipedia.org/wiki/Makerspace), "
+"[FabLaby](https://en.wikipedia.org/wiki/Fablab) a [používateľské skupiny "
+"Linuxu](https://en.wikipedia.org/wiki/Linux_User_Groups). Tu sa však "
+"zameriame na [opravárske kaviarne](https://en.wikipedia.org/wiki/Repair_Caf"
+"%C3%A9). Slobodný softvér s otvoreným zdrojovým kódom a jeho úloha pri "
+"udržiavaní počítačov v prevádzke po skončení podpory od výrobcu je pre tieto "
+"komunity väčšinou nová téma. Opravárske kaviarne navyše zvyčajne oslovujú "
+"inú skupinu ľudí než hackerspacy, FabLaby, používateľské skupiny Linuxu a "
+"podobne. Práca s opravárskymi kaviarňami je skvelá príležitosť osloviť ľudí "
+"ďaleko za bublinou FOSS."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:31
 msgid ""
@@ -8541,6 +8525,14 @@ msgid ""
 "(creators of Right To Repair and Open Repair Alliance), [iFixit](https://www."
 "ifixit.com), [anstiftung](https://anstiftung.de/), among others."
 msgstr ""
+"Opravárske kaviarne sú miestom na opravu vecí každodennej potreby, napríklad "
+"oblečenia, elektroniky či bicyklov. Prvú opravársku kaviareň otvorila v "
+"Holandsku v roku 2009 holandská novinárka Martine Postma. Odvtedy ich po "
+"svete vznikli tisíce s podporou organizácií ako [Repair Cafe International]"
+"(https://www.repaircafe.org/) (ktorú založila Martine Postma), [Restart "
+"Project](https://therestartproject.org/) (tvorcovia Right To Repair a Open "
+"Repair Alliance), [iFixit](https://www.ifixit.com) či [anstiftung](https://"
+"anstiftung.de/)."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:35
 msgid ""
@@ -8549,10 +8541,14 @@ msgid ""
 "show the location of Repair Cafés around Germany.](/blog/images/2026-07-22-"
 "anstiftung.png)"
 msgstr ""
+"![Snímka zo stránky [Netzwerk Reparatur-Initiativen](https://www.reparatur-"
+"initiativen.de/) organizácie anstiftung. Tie malé slnečné bodky vpravo "
+"ukazujú polohu opravárskych kaviarní po Nemecku.](/blog/images/2026-07-22-"
+"anstiftung.png)"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:40
 msgid "From Skepticism, To Support"
-msgstr ""
+msgstr "Od skepsy k podpore"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:42
 msgid ""
@@ -8561,6 +8557,11 @@ msgid ""
 "simply not seen as being of interest to repair communities. Hardware, yes; "
 "anything related to real physical objects, sure. But software, not so much."
 msgstr ""
+"Oslovovanie opravárskych kaviarní v Nemecku sa v rámci projektu začalo "
+"koncom roka 2024 a začiatkom roka 2025. Spočiatku sme narazili na istú "
+"skepsu. Softvér sa jednoducho nepovažoval za tému, ktorá by opravárske "
+"komunity zaujímala. Hardvér áno; čokoľvek, čo súvisí so skutočnými fyzickými "
+"predmetmi, iste. Ale softvér už menej."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:44
 msgid ""
@@ -8573,6 +8574,14 @@ msgid ""
 "friendly device is the one you already own!\" and \"You don't need a new "
 "computer&mdash;you just need the right software!\" So we kept at it."
 msgstr ""
+"Jedným z cieľov Opt Green bolo upozorniť na to, že softvér je pre životnosť "
+"hardvéru rovnako dôležitý ako fyzické súčiastky, teda batérie, káble či "
+"obrazovky. Opravárske heslo „Opravuj namiesto vyhadzovania“ (nemecky "
+"„[*Reparieren statt Wegwerfen*](https://anstiftung.de/praxis/reparieren)“) "
+"presne zodpovedalo cieľom Opt Green. Projekt si dokonca osvojil heslá s "
+"podobným posolstvom: „Najekologickejšie zariadenie je to, ktoré už máte!“ a "
+"„Nepotrebujete nový počítač &mdash; potrebujete len ten správny softvér!“ "
+"Tak sme vytrvali."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:46
 msgid ""
@@ -8588,6 +8597,17 @@ msgid ""
 "could extend the operating life of devices to reduce the environmental harm "
 "of hardware production, transportation, and disposal."
 msgstr ""
+"Prvou veľkou platformou, cez ktorú projekt oslovil nemeckú opravársku "
+"komunitu, bola [online prezentácia v marci 2025](https://web.archive.org/"
+"web/20250405225518/https://www.reparatur-initiativen.de/post/das-ende-von-"
+"windows10-und-wie-man-pcs-und-laptops-danach-noch-nutzen-kann), ktorú Opt "
+"Green usporiadal s opravárskou organizáciou [anstiftung](https://anstiftung."
+"de/). V prednáške sme zdôraznili, ako softvér [poháňa elektroodpad](https://"
+"www.reparatur-initiativen.de/files/kcfinder/posts/97597/2025-03-24-KDE-linux-"
+"anstiftung.pdf) spolu s ďalšími formami spotreby energie a zdrojov. Ukázali "
+"sme, ako softvérová oprava &mdash; ktorú umožňujú licencie FOSS &mdash; "
+"dokáže predĺžiť prevádzkovú životnosť zariadení a znížiť tak škody na "
+"životnom prostredí spôsobené výrobou, prepravou a likvidáciou hardvéru."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:48
 msgid ""
@@ -8595,6 +8615,8 @@ msgid ""
 "suprised to learn that a handful of volunteers were already offering FOSS "
 "support in their Repair Cafés!"
 msgstr ""
+"Zúčastnilo sa okolo 180 dobrovoľníkov z opravárskych kaviarní… a milo nás "
+"prekvapilo, že hŕstka z nich už podporu FOSS vo svojich kaviarňach ponúkala!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:50
 msgid ""
@@ -8606,10 +8628,17 @@ msgid ""
 "Repair Café volunteers interested to learn how to install and use FOSS on "
 "their own devices."
 msgstr ""
+"Prvé stretnutie malo taký úspech, že sme spolu s anstiftung zorganizovali "
+"[nadväzujúci webinár v máji](https://www.reparatur-initiativen.de/post/das-"
+"ende-von-windows10-und-wie-man-pcs-und-laptops-danach-noch-nutzen-kann) s "
+"prispievateľmi End Of 10 Varutom a Herbertom. Obom srdečná vďaka za "
+"prezentáciu! Aká radosť bolo vidieť na druhom podujatí opäť vyše 100 "
+"dobrovoľníkov z opravárskych kaviarní, ktorí sa chceli naučiť inštalovať a "
+"používať FOSS na vlastných zariadeniach."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:52
 msgid "It seems that software is indeed of interest to repair communities!"
-msgstr ""
+msgstr "Zdá sa, že softvér opravárske komunity naozaj zaujíma!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:54
 msgid ""
@@ -8627,6 +8656,20 @@ msgid ""
 "windows-10-toolkit-for-repair-groups/)\" to promote FOSS among repair groups "
 "as a way to keep unsupported Windows devices in use."
 msgstr ""
+"K júlu 2026, teda niečo vyše roka po tom druhom webinári, je na stránke End "
+"Of 10 uvedených 85+ miest a 170+ podujatí od opravárskych kaviarní, "
+"linuxových kaviarní (teda opravárskych kaviarní zameraných priamo na Linux) "
+"a podobných organizácií ako IT-Cafés či Technik-Cafés. (Ak započítame "
+"makerspacy, hackerspacy, FabLaby, používateľské skupiny Linuxu a ďalšie "
+"iniciatívy, ktoré priložili ruku k dielu, je na stránke End Of 10 celkovo "
+"vyše 1180 miest a podujatí &mdash; o tom viac v druhej časti.) Repair Café "
+"International, [podporujúca organizácia End Of 10](https://endof10.org/"
+"#supporters), navyše teraz na svojej stránke uvádza 40 [linuxových "
+"opravárskych kaviarní](https://www.repaircafe.org/en/linux-repair-cafe/). A "
+"Restart Project vydal vlastnú „[sadu nástrojov ku koncu Windows 10](https://"
+"therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/)“, ktorá "
+"medzi opravárskymi skupinami propaguje FOSS ako spôsob, ako udržať v "
+"prevádzke zariadenia bez podpory Windows."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:56
 msgid ""
@@ -8634,10 +8677,13 @@ msgid ""
 "connection between repair and Free & Open Source Software beautifully, "
 "namely:"
 msgstr ""
+"Jeden z prispievateľov End Of 10 prišiel s heslom, ktoré podľa mňa krásne "
+"vystihuje toto spojenie opráv a slobodného softvéru s otvoreným zdrojovým "
+"kódom:"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:60
 msgid "**\"FOSS Instead Of Toss!\"**"
-msgstr ""
+msgstr "**„FOSS namiesto smetí!“**"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:66
 msgid ""
@@ -8646,10 +8692,14 @@ msgid ""
 "licenses/by-sa/4.0/legalcode.en) license. Redesign by Aaron Rainbolt.)](/"
 "blog/images/2026-07-22-foss-instead-of-toss.png)"
 msgstr ""
+"![Výrez z komunitného plagátu ku kampani End Of 10. (Obrázok od Finnjana "
+"Hofmanna zverejnený pod licenciou [CC BY-SA 4.0](https://creativecommons.org/"
+"licenses/by-sa/4.0/legalcode.en). Redizajn: Aaron Rainbolt.)](/blog/"
+"images/2026-07-22-foss-instead-of-toss.png)"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:71
 msgid "Let's Bring FOSS and Repair Communities Together"
-msgstr ""
+msgstr "Spojme komunity FOSS a opravárov"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:73
 msgid ""
@@ -8662,20 +8712,29 @@ msgid ""
 "(east). Half of participants at each event were repair community members, "
 "half FOSS enthusiasts, and some belonged to both communities."
 msgstr ""
+"Aby sa väzby medzi komunitami FOSS a opravárov ešte posilnili, projekt Opt "
+"Green usporiadal od decembra 2025 do marca 2026 tri osobné dielne s podporou "
+"donorov UBA a BMUKN. Zámerom bolo zísť sa s miestnymi opravárskymi "
+"kaviarňami, FabLabmi, používateľskými skupinami Linuxu a príbuznými "
+"komunitami a vymeniť si zručnosti aj informácie. Každé podujatie sa konalo v "
+"inej časti Nemecka: Hannover (stred), Norimberg (juh) a Dessau (východ). "
+"Polovicu účastníkov každého podujatia tvorili členovia opravárskej komunity, "
+"polovicu nadšenci FOSS a niektorí patrili do oboch."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:75
 msgid "In the workshops a wide range of topics were covered, such as:"
-msgstr ""
+msgstr "Na dielňach sa preberala široká škála tém, napríklad:"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:77
 msgid "How can the FOSS community support Repair Cafés, and vice versa?"
-msgstr ""
+msgstr "Ako môže komunita FOSS podporiť opravárske kaviarne a naopak?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:78
 msgid ""
 "What are the barriers to adoption of Linux? What do new users need to "
 "succeed?"
 msgstr ""
+"Čo bráni prechodu na Linux? Čo noví používatelia potrebujú, aby uspeli?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:79
 msgid ""
@@ -8683,24 +8742,29 @@ msgid ""
 "Would user support fit into regular opening times? Could more technical "
 "problems be directed to collaborators in local FOSS groups?"
 msgstr ""
+"Akú podporu po inštalácii dokážu opravárske kaviarne reálne poskytnúť? "
+"Zmestila by sa podpora používateľov do bežných otváracích hodín? Dali by sa "
+"technickejšie problémy posúvať spolupracovníkom z miestnych skupín FOSS?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:80
 msgid ""
 "How can Linux be promoted in local communities? What are the target groups? "
 "How does one reach them?"
 msgstr ""
+"Ako sa dá Linux propagovať v miestnych komunitách? Aké sú cieľové skupiny? "
+"Ako ich osloviť?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:81
 msgid ""
 "What platforms are there for Repair Café volunteers to exchange tips and "
 "support each other?"
 msgstr ""
+"Aké platformy majú dobrovoľníci z opravárskych kaviarní na výmenu tipov a "
+"vzájomnú podporu?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:83
-#, fuzzy
-#| msgid "Read more"
 msgid "And more."
-msgstr "Čítať viac"
+msgstr "A ďalšie."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:85
 msgid ""
@@ -8708,6 +8772,9 @@ msgid ""
 "volunteers new to Linux. That way they could roll their sleeves up and get "
 "some hands-on experience."
 msgstr ""
+"Pred dielňami sme usporiadali aj inštalačné podujatie pre dobrovoľníkov z "
+"opravárskych kaviarní, ktorí s Linuxom začínali. Mohli si tak vyhrnúť rukávy "
+"a získať praktickú skúsenosť."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:87
 msgid ""
@@ -8720,6 +8787,13 @@ msgid ""
 "workshops in your town. Don't hesitate to be in touch if you want some "
 "guidance!"
 msgstr ""
+"Na žiadnu z uvedených otázok, samozrejme, neexistuje jediná správna odpoveď "
+"a samotné dva dni na výmenu medzi miestne prepojenými skupinami boli rovnako "
+"dôležité ako ktorákoľvek konkrétna poznámka či odpoveď. Hoci je, ako vždy, "
+"čo zlepšovať, spätná väzba od všetkých zúčastnených bola celkovo veľmi "
+"pozitívna. Ak žijete v oblasti s aktívnymi opravárskymi kaviarňami a "
+"používateľskými skupinami Linuxu, vrelo odporúčam zorganizovať podobné "
+"medzikomunitné dielne aj u vás. Ak chcete poradiť, neváhajte sa ozvať!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:89
 msgid ""
@@ -8735,14 +8809,25 @@ msgid ""
 "environmental harm driven by software and how FOSS provides a solution, "
 "including many tips for organizing install and support events. Check it out!"
 msgstr ""
+"Zápisy zo všetkých troch dielní si prečítate [tu](https://invent.kde.org/"
+"teams/eco/opt-green/-/work_items/175#note_1364833) (Hannover), [tu](https://"
+"invent.kde.org/teams/eco/opt-green/-/work_items/183) (Norimberg) a [tu]"
+"(https://invent.kde.org/teams/eco/opt-green/-/work_items/184#note_1446930) "
+"(Dessau). Diskusie z dielní v opravárskych kaviarňach sa premietli aj do "
+"novej príručky KDE Eco „[Opting Green: Udržateľný softvér pre udržateľný "
+"hardvér &mdash; a ako môžu opravárske kolektívy priniesť slobodný softvér s "
+"otvoreným zdrojovým kódom do komunít](https://eco.kde.org/opt-green-"
+"handbook/)“. Príručka prináša prehľad škôd na životnom prostredí, ktoré "
+"poháňa softvér, a toho, ako je FOSS riešením, vrátane množstva tipov na "
+"organizovanie inštalačných a podporných podujatí. Pozrite si ju!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:91
 msgid "After The Workshops"
-msgstr ""
+msgstr "Po dielňach"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:93
 msgid "Since March, several exciting updates have made it into our inbox."
-msgstr ""
+msgstr "Od marca nám do schránky prišlo niekoľko vzrušujúcich noviniek."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:95
 msgid ""
@@ -8757,6 +8842,16 @@ msgid ""
 "[*Haus Drei*](https://haus-drei.de/) in Hamburg now holds regular Linux "
 "installation workshops as well."
 msgstr ""
+"Dozvedeli sme sa, že štyria dobrovoľníci z [*Repair-Café Wendelstein*]"
+"(https://www.wendelstein-evangelisch.de/repaircafe), ktorí boli na dielni, "
+"teraz začali ponúkať [podporu Linuxu](https://web.archive.org/"
+"web/20260718105937/https://www.wendelstein-evangelisch.de/repaircafe). "
+"Účastníci z [*Reparatur Café Helmstedt*](https://reparatur-cafe-he.de/) zas "
+"od dielní usporiadali vo svojej kaviarni dve inštalačné podujatia a jedno "
+"[školenie pre používateľov Linuxu](https://web.archive.org/"
+"web/20260721110842/https://reparatur-cafe-he.de/). Opravárska kaviareň v "
+"susedskom kultúrnom centre [*Haus Drei*](https://haus-drei.de/) v Hamburgu "
+"teraz tiež pravidelne organizuje inštalačné dielne Linuxu."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:97
 msgid ""
@@ -8767,6 +8862,12 @@ msgid ""
 "support for Repair Café volunteers. If you help out at a Repair Café and "
 "want some guidance with Linux, this will be an excellent resource!"
 msgstr ""
+"Navyše [*Repair Café Hilpoltstein*](https://www.repaircafe-hilpoltstein."
+"de/), jedna zo skupín, ktoré podporu Linuxu ponúkali už predtým (ich stránka "
+"je plná užitočných informácií), spustila [fórum na Discourse](https://forum."
+"makes-hacks-hip.de/) (po nemecky), kde poskytuje komunitnú podporu "
+"dobrovoľníkom z opravárskych kaviarní. Ak v takej kaviarni pomáhate a chceli "
+"by ste poradiť s Linuxom, bude to výborný zdroj!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:99
 msgid ""
@@ -8781,6 +8882,16 @@ msgid ""
 "eco/opt-green/-/tree/master/materials/leaflets/DE/current-version)) from the "
 "Opt Green project."
 msgstr ""
+"Na dielne sme priniesli aj materiály KDE Eco, aby sme ich rozdali záujemcom "
+"po Nemecku a Rakúsku. Bolo preto skvelé vidieť, že *Repair Café "
+"Hilpoltstein* mala v máji na miestnom trhu [informačný stánok](https://web."
+"archive.org/web/20260718110459/https://www.repaircafe-hilpoltstein.de/blog/"
+"artikel/pfingstmarkt-in-hip-neues-aus-der-offenen-werkstatt), kde okrem "
+"iného ponúkala [leták „Softvér šetrný k životnému prostrediu“](https://"
+"invent.kde.org/teams/eco/opt-green/-/tree/master/materials/leaflets/EN/"
+"current-version) ([nemecká verzia](https://invent.kde.org/teams/eco/opt-"
+"green/-/tree/master/materials/leaflets/DE/current-version)) z projektu Opt "
+"Green."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:103
 msgid ""
@@ -8788,6 +8899,9 @@ msgid ""
 "KDE Eco flyer spread across the *Repair Café Hilpoltstein* table.](/blog/"
 "images/2026-07-22-hip-info-stand.jpg)"
 msgstr ""
+"![Fotografia z turíčneho trhu v nemeckom Hilpoltsteine. Na stole *Repair "
+"Café Hilpoltstein* vidieť rozložený leták KDE Eco.](/blog/images/2026-07-22-"
+"hip-info-stand.jpg)"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:107
 msgid ""
@@ -8800,6 +8914,14 @@ msgid ""
 "with Microsoft, at least for now](https://www.br.de/nachrichten/bayern/"
 "korrektur-der-staatsregierung-vorerst-kein-deal-mit-microsoft,VLTSkXp)."
 msgstr ""
+"Dielne v opravárskych kaviarňach viedli aj k ďalším príležitostiam osloviť "
+"verejnosť. Skupina z Hilpoltsteinu usporiadala v júni v norimberskom regióne "
+"[informačné stretnutie](https://floss.social/@be4foss/116720438501362487) o "
+"[FOSS v dobrovoľníckej práci](https://archive.is/2Fnyb), pričom KDE Eco bolo "
+"partnerom prezentácie. V blízkej budúcnosti plánujú ďalšie miestne aktivity, "
+"najmä keď Bavorsko v júni oznámilo, že [zatiaľ neuzavrie s Microsoftom "
+"žiadne nové dohody](https://www.br.de/nachrichten/bayern/korrektur-der-"
+"staatsregierung-vorerst-kein-deal-mit-microsoft,VLTSkXp)."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:109
 msgid ""
@@ -8808,6 +8930,10 @@ msgid ""
 "contributing to this. If there are Repair Cafés in your town or city, reach "
 "out to see how you can support their work!"
 msgstr ""
+"FOSS a opravovanie idú spolu &mdash; a je vzrušujúce sledovať, ako sa "
+"komunity FOSS a opravárov spájajú a rastú. Som hrdý na prácu, ktorou k tomu "
+"Opt Green prispel. Ak sú vo vašom meste opravárske kaviarne, ozvite sa im a "
+"zistite, ako môžete podporiť ich prácu!"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:111
 msgid ""
@@ -8815,10 +8941,13 @@ msgid ""
 "global campaign started by Opt Green to promote FOSS as a way to prevent e-"
 "waste. As some of us in the community are saying: \"FOSS instead of toss!\""
 msgstr ""
+"Sledujte tento blog, kde vyjde druhá časť o End Of 10, celosvetovej kampani, "
+"ktorú Opt Green spustil na propagáciu FOSS ako spôsobu, ako predchádzať "
+"elektroodpadu. Ako niektorí v komunite hovoríme: „FOSS namiesto smetí!“"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:113
 msgid "Starting A Linux Repair Cafe"
-msgstr ""
+msgstr "Ako založiť linuxovú opravársku kaviareň"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:115
 msgid ""
@@ -8832,10 +8961,18 @@ msgid ""
 "started](https://eco.kde.org/opt-green-handbook/#stage-1-gaining-experience) "
 "in the Opt Green handbook."
 msgstr ""
+"Ak by ste chceli založiť opravársku kaviareň vo svojom meste, Repair Cafe "
+"International má užitočné informácie na stránkach „[Start Your Own](https://"
+"www.repaircafe.org/en/join/start-your-own/)“ a „[Linux Repair Café](https://"
+"www.repaircafe.org/linux-repair-cafe/)“. Restart Project pripravil „[End of "
+"Windows 10: sadu nástrojov pre komunitné opravárske skupiny](https://"
+"therestartproject.org/end-of-windows-10-toolkit-for-repair-groups/)“. Možno "
+"vás poteší aj čítanie o [stratégiách, ako začať](https://eco.kde.org/opt-"
+"green-handbook/#stage-1-gaining-experience) v príručke Opt Green."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:117
 msgid "When Repair Is Not Possible"
-msgstr ""
+msgstr "Keď oprava nie je možná"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:119
 msgid ""
@@ -8845,6 +8982,12 @@ msgid ""
 "out-of-the-box experience too, with less tinkering and fewer workarounds "
 "needed to get pesky proprietary-software components working."
 msgstr ""
+"Keď si potrebujete kúpiť nový hardvér, pozrite sa po niektorom z mnohých "
+"zariadení na trhu s podporou Linuxu. Počítač tak budete môcť používať "
+"dovtedy, kým bude hardvér fungovať. Pri zariadeniach robených pre Linux máte "
+"navyše lepší zážitok hneď po vybalení, s menej kutením a menším počtom "
+"obchádzok, aby ste rozbehli otravné súčasti závislé od proprietárneho "
+"softvéru."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:121
 msgid ""
@@ -8855,6 +8998,12 @@ msgid ""
 "hardware replacement parts and repair guides too, so you can easily swap out "
 "broken pieces when needed."
 msgstr ""
+"[Podporujúci členovia](https://ev.kde.org/supporting-members/) KDE ako "
+"[Slimbook](https://slimbook.com/), [Kubuntu Focus](https://kfocus.org/), "
+"[Tuxedo Computers](https://www.tuxedocomputers.com/) či [framework](https://"
+"frame.work/) predávajú hardvér s natívnou podporou Linuxu. Mnohí ponúkajú aj "
+"náhradné diely a návody na opravu, takže pokazené kusy jednoducho vymeníte, "
+"keď treba."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:123
 msgid ""
@@ -8863,6 +9012,11 @@ msgid ""
 "refund4freedom.org/) initiative. Here you can learn how to get a refund for "
 "that Windows license you paid for even when you did not want it."
 msgstr ""
+"Ak sa napriek tomu rozhodnete kúpiť si nový počítač s predinštalovaným "
+"systémom od Microsoftu, ale plánujete naň nainštalovať Linux, pozrite si "
+"iniciatívu [Refund 4 Freedom](https://en.refund4freedom.org/). Dozviete sa, "
+"ako získať späť peniaze za licenciu Windows, ktorú ste zaplatili, hoci ste "
+"ju nechceli."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:125
 msgid ""
@@ -8870,6 +9024,9 @@ msgid ""
 "project](https://h-node.org) to learn how well that hardware will work with "
 "Free & Open Source Software."
 msgstr ""
+"Ak kupujete použitý hardvér, možno vás bude zaujímať aj [projekt h-node]"
+"(https://h-node.org), kde zistíte, ako dobre bude ten hardvér fungovať so "
+"slobodným softvérom s otvoreným zdrojovým kódom."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:127
 #: content/get-involved.md:24
@@ -8881,43 +9038,43 @@ msgid ""
 "We would love to hear from you! Sign up, say hello, and let us know what you "
 "are interested in."
 msgstr ""
+"Radi sa od vás dozvieme! Zaregistrujte sa, pozdravte a dajte nám vedieť, čo "
+"vás zaujíma."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:131
 msgid ""
 "Repair Café support at \"Forum Werkstätten RC-Hip\": <https://forum.makes-"
 "hacks-hip.de/>"
 msgstr ""
+"Podpora pre opravárske kaviarne na „Forum Werkstätten RC-Hip“: <https://"
+"forum.makes-hacks-hip.de/>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:132
 msgid "KDE Eco Matrix room: <https://matrix.to/#/#endof10-en:kde.org>"
 msgstr ""
+"Miestnosť KDE Eco na Matrixe: <https://matrix.to/#/#endof10-en:kde.org>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:133
 msgid "KDE Eco on Mastodon: <https://floss.social/@be4foss>"
-msgstr ""
+msgstr "KDE Eco na Mastodone: <https://floss.social/@be4foss>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:134
 msgid "End Of 10 working room: <https://matrix.to/#/#endof10:kde.org>"
-msgstr ""
+msgstr "Pracovná miestnosť End Of 10: <https://matrix.to/#/#endof10:kde.org>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:135
 msgid "End Of 10 on Mastodon: <https://floss.social/@endof10>"
-msgstr ""
+msgstr "End Of 10 na Mastodone: <https://floss.social/@endof10>"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:137
 msgid ""
 "The Code of Conduct for KDE communication channels can be found [here]"
 "(https://kde.org/code-of-conduct/)."
 msgstr ""
+"Kódex správania pre komunikačné kanály KDE nájdete [tu](https://kde.org/code-"
+"of-conduct/)."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:141
-#, fuzzy
-#| msgid ""
-#| "The BE4FOSS project was funded by the Federal Environment Agency and the "
-#| "Federal Ministry for the Environment, Nature Conservation, Nuclear Safety "
-#| "and Consumer Protection (BMUV<sup><a id=\"fnr.1\" class=\"footref\" href="
-#| "\"#fn.1\">1</a></sup>). The funds are made available by resolution of the "
-#| "German Bundestag."
 msgid ""
 "The Opt Green project was funded by the Federal Environment Agency (UBA) and "
 "the Federal Ministry for the Environment, Climate Action, Nature "
@@ -8925,11 +9082,11 @@ msgid ""
 "href=\"#fn.1\">1</a></sup>). The funds are made available by resolution of "
 "the German Bundestag."
 msgstr ""
-"Projekt BE4FOSS bol financovany Spolkovym uradom pre zivotne prostredie a "
-"Spolkovym ministerstvom pre zivotne prostredie, ochranu prirody, jadrovu "
-"bezpecnost a ochranu spotrebitelov (BMUV<sup><a id=\"fnr.1\" class=\"footref"
-"\" href=\"#fn.1\">1</a></sup>). Financne prostriedky su poskytovane na "
-"zaklade rozhodnutia Nemeckeho spolkoveho snemu."
+"Projekt Opt Green financovala Spolková agentúra pre životné prostredie (UBA) "
+"a Spolkové ministerstvo pre životné prostredie, ochranu klímy, ochranu "
+"prírody a jadrovú bezpečnosť (BMUKN<sup><a id=\"fnr.1\" class=\"footref\" "
+"href=\"#fn.1\">1</a></sup>). Prostriedky sa poskytujú na základe uznesenia "
+"Nemeckého spolkového snemu."
 
 #: content/blog/_index.md:0
 msgid "Blog"
@@ -9147,60 +9304,48 @@ msgid ""
 "Here are some places to network with the community, get more information, "
 "and contribute."
 msgstr ""
+"Tu je niekoľko miest, kde sa dá spojiť s komunitou, získať viac informácií a "
+"prispieť."
 
 #: content/get-involved.md:13
 msgid "Community & Support"
 msgstr "Komunita a podpora"
 
 #: content/get-involved.md:15
-#, fuzzy
-#| msgid ""
-#| "Matrix Room (Discussion): https://webchat.kde.org/#/room/#kde-eco:kde.org"
 msgid ""
 "KDE Eco [Matrix Room](https://webchat.kde.org/#/room/#kde-eco:kde.org) "
 "(Discussion)"
 msgstr ""
-"Matrix miestnost (diskusia): https://webchat.kde.org/#/room/#kde-eco:kde.org"
+"[Miestnosť KDE Eco na Matrixe](https://webchat.kde.org/#/room/#kde-eco:kde."
+"org) (diskusia)"
 
 #: content/get-involved.md:16
-#, fuzzy
-#| msgid ""
-#| "Mailing List (Discussion): https://mail.kde.org/cgi-bin/mailman/listinfo/"
-#| "kde-eco-discuss"
 msgid ""
 "KDE Eco [Mailing List](https://mail.kde.org/cgi-bin/mailman/listinfo/kde-eco-"
 "discuss) (Discussion)"
 msgstr ""
-"Mailing list (diskusia): https://mail.kde.org/cgi-bin/mailman/listinfo/kde-"
-"eco-discuss"
+"[Poštová konferencia KDE Eco](https://mail.kde.org/cgi-bin/mailman/listinfo/"
+"kde-eco-discuss) (diskusia)"
 
 #: content/get-involved.md:18
 msgid "Resources"
 msgstr "Zdroje"
 
 #: content/get-involved.md:20
-#, fuzzy
-#| msgid "[Source code](https://invent.kde.org/pim/kmail)"
 msgid "[KEcoLab](https://invent.kde.org/sdk/kecolab) (Repository)"
-msgstr "[Zdrojový kód](https://invent.kde.org/pim/kmail)"
+msgstr "[KEcoLab](https://invent.kde.org/sdk/kecolab) (repozitár)"
 
 #: content/get-involved.md:21
-#, fuzzy
-#| msgid "FEEP (GitLab Repository): https://invent.kde.org/teams/eco/feep"
 msgid "[FEEP](https://invent.kde.org/teams/eco/feep) (Repository)"
-msgstr "FEEP (GitLab repozitar): https://invent.kde.org/teams/eco/feep"
+msgstr "[FEEP](https://invent.kde.org/teams/eco/feep) (repozitár)"
 
 #: content/get-involved.md:22
-#, fuzzy
-#| msgid ""
-#| "Blue Angel Applications (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/blue-angel-application"
 msgid ""
 "[Blue Angel Applications](https://invent.kde.org/teams/eco/blue-angel-"
 "application) (Repository)"
 msgstr ""
-"Blue Angel Applications (GitLab repozitar): https://invent.kde.org/teams/eco/"
-"blue-angel-application"
+"[Blue Angel Applications](https://invent.kde.org/teams/eco/blue-angel-"
+"application) (repozitár)"
 
 #: content/get-involved.md:26
 msgid "Email: `joseph [at] kde.org`"
@@ -9208,38 +9353,27 @@ msgstr "E-mail: `joseph [at] kde.org`"
 
 #: content/get-involved.md:28
 msgid "Archive"
-msgstr ""
+msgstr "Archív"
 
 #: content/get-involved.md:30
-#, fuzzy
-#| msgid ""
-#| "Sustainable Software Goal (Community Wiki): https://community.kde.org/"
-#| "Goals/Sustainable_Software"
 msgid ""
 "[Sustainable Software Goal](https://community.kde.org/Goals/"
 "Sustainable_Software) (Wiki)"
 msgstr ""
-"Ciel udrzatelneho softveru (komunitna wiki): https://community.kde.org/Goals/"
-"Sustainable_Software"
+"[Cieľ Udržateľný softvér](https://community.kde.org/Goals/"
+"Sustainable_Software) (wiki)"
 
 #: content/get-involved.md:31
-#, fuzzy
-#| msgid ""
-#| "\"Opt Green\" project (GitLab Repository): https://invent.kde.org/teams/"
-#| "eco/opt-green"
 msgid ""
 "[Opt Green project](https://invent.kde.org/teams/eco/opt-green) (Repository)"
 msgstr ""
-"Projekt \"Opt Green\" (GitLab repozitar): https://invent.kde.org/teams/eco/"
-"opt-green"
+"[Projekt Opt Green](https://invent.kde.org/teams/eco/opt-green) (repozitár)"
 
 #: content/get-involved.md:32
-#, fuzzy
-#| msgid ""
-#| "BE4FOSS (GitLab Repository): https://invent.kde.org/teams/eco/be4foss"
 msgid ""
 "[BE4FOSS project](https://invent.kde.org/teams/eco/be4foss) (Repository)"
-msgstr "BE4FOSS (GitLab repozitar): https://invent.kde.org/teams/eco/be4foss"
+msgstr ""
+"[Projekt BE4FOSS](https://invent.kde.org/teams/eco/be4foss) (repozitár)"
 
 #. grow-green.header
 #: content/grow-green/_index.md:0 i18n/en.yaml:211
@@ -11239,80 +11373,68 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:312
 msgid "Proprietary OS"
-msgstr ""
+msgstr "Proprietárny OS"
 
 #: content/opt-green-handbook/index.md:312
 #: content/opt-green-handbook/index.md:320
 msgid "RAM"
-msgstr ""
+msgstr "RAM"
 
 #: content/opt-green-handbook/index.md:312
 #: content/opt-green-handbook/index.md:320
-#, fuzzy
-#| msgid "[CPU]Totl = Processor"
 msgid "Processor"
-msgstr "[CPU]Totl = Procesor"
+msgstr "Procesor"
 
 #: content/opt-green-handbook/index.md:312
 #: content/opt-green-handbook/index.md:320
 msgid "Storage"
-msgstr ""
+msgstr "Úložisko"
 
 #: content/opt-green-handbook/index.md:314
-#, fuzzy
-#| msgid ""
-#| "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
-#| "specifications) 4 GB certain 64 bit processors 64 GB"
 msgid ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
 "specifications)"
 msgstr ""
 "[Windows 11](https://www.microsoft.com/en-us/windows/windows-11-"
-"specifications) 4 GB určité 64-bitové procesory 64 GB"
+"specifications)"
 
 #: content/opt-green-handbook/index.md:314
 #: content/opt-green-handbook/index.md:324
 msgid "4 GB"
-msgstr ""
+msgstr "4 GB"
 
 #: content/opt-green-handbook/index.md:314
 msgid "certain 64 bit processors"
-msgstr ""
+msgstr "niektoré 64-bitové procesory"
 
 #: content/opt-green-handbook/index.md:314
 msgid "64 GB"
-msgstr ""
+msgstr "64 GB"
 
 #: content/opt-green-handbook/index.md:315
 msgid "+ Copilot genAI"
-msgstr ""
+msgstr "+ Copilot genAI"
 
 #: content/opt-green-handbook/index.md:315
 msgid "16 GB"
-msgstr ""
+msgstr "16 GB"
 
 #: content/opt-green-handbook/index.md:315
 msgid "+ NPU"
-msgstr ""
+msgstr "+ NPU"
 
 #: content/opt-green-handbook/index.md:315
 msgid "256 GB"
-msgstr ""
+msgstr "256 GB"
 
 #: content/opt-green-handbook/index.md:316
-#, fuzzy
-#| msgid ""
-#| "Copilot genAI 16 GB + NPU 256 GB [macOS 14](https://mackeeper.com/blog/"
-#| "macos-sonoma-compatibility/) 8 GB 64 bit 25 GB"
 msgid "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
-msgstr ""
-"Copilot genAI 16 GB + NPU 256 GB [macOS 14](https://mackeeper.com/blog/macos-"
-"sonoma-compatibility/) 8 GB 64-bit 25 GB"
+msgstr "[macOS 14](https://mackeeper.com/blog/macos-sonoma-compatibility/)"
 
 #: content/opt-green-handbook/index.md:316
 #: content/opt-green-handbook/index.md:323
 msgid "8 GB"
-msgstr ""
+msgstr "8 GB"
 
 #: content/opt-green-handbook/index.md:316
 #: content/opt-green-handbook/index.md:322
@@ -11320,11 +11442,11 @@ msgstr ""
 #: content/opt-green-handbook/index.md:324
 #: content/opt-green-handbook/index.md:325
 msgid "64 bit"
-msgstr ""
+msgstr "64-bitový"
 
 #: content/opt-green-handbook/index.md:316
 msgid "25 GB"
-msgstr ""
+msgstr "25 GB"
 
 #: content/opt-green-handbook/index.md:318
 msgid ""
@@ -11355,70 +11477,73 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:320
 msgid "FOSS-based OS"
-msgstr ""
+msgstr "OS založený na FOSS"
 
 #: content/opt-green-handbook/index.md:322
 msgid ""
 "[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
 "hardware_overview/) (Linux)"
 msgstr ""
+"[Fedora](https://docs.fedoraproject.org/en-US/fedora/latest/release-notes/"
+"hardware_overview/) (Linux)"
 
 #: content/opt-green-handbook/index.md:322
 #: content/opt-green-handbook/index.md:323
 #: content/opt-green-handbook/index.md:325
 msgid "2 GB"
-msgstr ""
+msgstr "2 GB"
 
 #: content/opt-green-handbook/index.md:322
 msgid "15 GB"
-msgstr ""
+msgstr "15 GB"
 
 #: content/opt-green-handbook/index.md:323
 msgid "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
-msgstr ""
+msgstr "[openSUSE](https://en.opensuse.org/Hardware_requirements) (Linux)"
 
 #: content/opt-green-handbook/index.md:324
 msgid ""
 "[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 msgstr ""
+"[Debian](https://www.debian.org/releases/stable/amd64/ch02.en.html) (Linux)"
 
 #: content/opt-green-handbook/index.md:324
 #: content/opt-green-handbook/index.md:326
 msgid "512 MB"
-msgstr ""
+msgstr "512 MB"
 
 #: content/opt-green-handbook/index.md:325
 msgid "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
-msgstr ""
+msgstr "[Arch](https://wiki.archlinux.org/title/Installation_guide) (Linux)"
 
 #: content/opt-green-handbook/index.md:325
 msgid "512 MiB"
-msgstr ""
+msgstr "512 MiB"
 
 #: content/opt-green-handbook/index.md:326
 msgid "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
-msgstr ""
+msgstr "[OpenBSD](https://www.openbsdhandbook.com/installation/) (BSD)"
 
 #: content/opt-green-handbook/index.md:326
 #: content/opt-green-handbook/index.md:327
 msgid "32 or 64 bit"
-msgstr ""
+msgstr "32- alebo 64-bitový"
 
 #: content/opt-green-handbook/index.md:326
 msgid "1 GB"
-msgstr ""
+msgstr "1 GB"
 
 #: content/opt-green-handbook/index.md:327
 msgid "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
-msgstr ""
+msgstr "[Haiku](https://www.haiku-os.org/about/faq/) (BeOS)"
 
 #: content/opt-green-handbook/index.md:327
 msgid "384 MiB"
-msgstr ""
+msgstr "384 MiB"
 
 #: content/opt-green-handbook/index.md:327
 msgid "1.5 GB"
-msgstr ""
+msgstr "1,5 GB"
 
 #: content/opt-green-handbook/index.md:330
 msgid ""
