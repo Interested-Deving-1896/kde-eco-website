@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-07-26 02:08+0000\n"
-"PO-Revision-Date: 2026-08-16 15:29+0300\n"
+"PO-Revision-Date: 2026-08-17 16:32+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -2351,6 +2351,14 @@ msgid ""
 "org/graphics/okular) for all to use, study, share, improve, and most of all, "
 "enjoy."
 msgstr ""
+"Okular надає змогу перевіряти цифрові підписи та підписувати документи "
+"самостійно, а також додавати анотований текст і коментарі безпосередньо в "
+"документ. Okular працює у Linux, Windows, Android та Plasma Mobile, і його "
+"можна отримати для усіх дистрибутивів GNU/Linux, як окремий пакет з Flathub "
+"та Snap Store, через сховище випусків KDE F-Droid для Android, а також з "
+"Microsoft Store. Вихідний код також легко доступний у [сховищі Okular на "
+"GitLab](https://invent.kde.org/graphics/okular) для використання, вивчення, "
+"обміну, вдосконалення та, найголовніше, насолоди."
 
 #: content/be4foss-handbook/handbook_web.md:288
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:36
@@ -4748,55 +4756,55 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:1017
 msgid "*Reference System Year* &mdash; e.g., 2015"
-msgstr ""
+msgstr "*Еталонний рік системи* &mdash; наприклад, 2015"
 
 #: content/be4foss-handbook/handbook_web.md:1019
 msgid "*Model* &mdash; e.g., Fujitsu Esprimo 920"
-msgstr ""
+msgstr "*Модель* &mdash; наприклад, Fujitsu Esprimo 920"
 
 #: content/be4foss-handbook/handbook_web.md:1021
 msgid "*Processor* &mdash; e.g., Intel Core i5-4570"
-msgstr ""
+msgstr "*Процесор* &mdash; наприклад, Intel Core i5-4570"
 
 #: content/be4foss-handbook/handbook_web.md:1023
 msgid "*Cores* &mdash; e.g., 4"
-msgstr ""
+msgstr "*Ядра* &mdash; наприклад, 4"
 
 #: content/be4foss-handbook/handbook_web.md:1025
 msgid "*Clock Speed* &mdash; e.g., 3,6 GHz"
-msgstr ""
+msgstr "*Тактова частота* &mdash; наприклад, 3,6 ГГц"
 
 #: content/be4foss-handbook/handbook_web.md:1027
 msgid "*RAM* &mdash; e.g., 4 GB"
-msgstr ""
+msgstr "*Оперативна пам'ять* &mdash; наприклад, 4 ГБ"
 
 #: content/be4foss-handbook/handbook_web.md:1029
 msgid "*Hard Disk (SSD/HDD)* &mdash; e.g., 500 GB"
-msgstr ""
+msgstr "*Жорсткий диск (SSD/HDD)* &mdash; наприклад, 500 ГБ"
 
 #: content/be4foss-handbook/handbook_web.md:1031
 msgid "*Graphics Card* &mdash; e.g., Intel Ivybridge Desktop"
-msgstr ""
+msgstr "*Графічна картка* &mdash; наприклад, Intel Ivybridge Desktop"
 
 #: content/be4foss-handbook/handbook_web.md:1033
 msgid "*Network* &mdash; e.g., Realtek Ethernet"
-msgstr ""
+msgstr "*Мережа* &mdash; наприклад, Realtek Ethernet"
 
 #: content/be4foss-handbook/handbook_web.md:1035
 msgid "*Cache* &mdash; e.g., 6144 KB"
-msgstr ""
+msgstr "*Кеш* &mdash; наприклад, 6144 КБ"
 
 #: content/be4foss-handbook/handbook_web.md:1037
 msgid "*Mainboard* &mdash; e.g., Fujitsu D3171-A1"
-msgstr ""
+msgstr "*Базова плата* &mdash; наприклад, Fujitsu D3171-A1"
 
 #: content/be4foss-handbook/handbook_web.md:1039
 msgid "*Operating System* &mdash; e.g., Ubuntu 18.04"
-msgstr ""
+msgstr "*Операційна система* &mdash; наприклад, Ubuntu 18.04"
 
 #: content/be4foss-handbook/handbook_web.md:1041
 msgid "Again, examples for Okular can be found at the following links:"
-msgstr ""
+msgstr "Знову ж таки, приклади для Okular можна знайти за такими посиланнями:"
 
 #: content/be4foss-handbook/handbook_web.md:1048
 msgid ""
@@ -4822,15 +4830,15 @@ msgstr "Неможливість вилучення"
 
 #: content/be4foss-handbook/handbook_web.md:1054
 msgid "Offline Capability"
-msgstr ""
+msgstr "Автономні можливості"
 
 #: content/be4foss-handbook/handbook_web.md:1055
 msgid "Modularity"
-msgstr ""
+msgstr "Модульність"
 
 #: content/be4foss-handbook/handbook_web.md:1056
 msgid "Freedom From Advertising"
-msgstr ""
+msgstr "Свобода від реклами"
 
 #: content/be4foss-handbook/handbook_web.md:1057
 msgid "Documentation"
