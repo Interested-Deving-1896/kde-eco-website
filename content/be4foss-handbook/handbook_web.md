@@ -1228,7 +1228,7 @@ Thank you to the many contributors to the KDE Eco initiative in general (listed 
 
 People who are interested in contributing to KDE Eco are encouraged to join the [mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-efficiency) or [Matrix room](https://webchat.kde.org/#/room/#energy-efficiency:kde.org). Contributors are also invited to join one of the KDE Eco sprints and in-person or online meetups. Learn more at out [website](https://eco.kde.org/get-involved/).
 
-The KDE Eco initiative has benefitted from many informative discussions that took place at the following conferences and workshops: Akademy 2022, Linux App Summit 2022, FOSDEM 2023, rC3: NOWHERE 2021, SFSCon 2021/2022, Grazer Linuxtage 2022, Qt World Summit 2022, QtDevCon 2022, Fedora Nest 2022, Green Coding Berlin meetups, Sustainable Digital Infrastructure Alliance hackathon, EnviroInfo 2022, and Bits & Bäume 2022. Thank you!
+The KDE Eco initiative has benefited from many informative discussions that took place at the following conferences and workshops: Akademy 2022, Linux App Summit 2022, FOSDEM 2023, rC3: NOWHERE 2021, SFSCon 2021/2022, Grazer Linuxtage 2022, Qt World Summit 2022, QtDevCon 2022, Fedora Nest 2022, Green Coding Berlin meetups, Sustainable Digital Infrastructure Alliance hackathon, EnviroInfo 2022, and Bits & Bäume 2022. Thank you!
 
 ## License
 
