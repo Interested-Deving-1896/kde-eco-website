@@ -7915,7 +7915,7 @@ msgstr "Après les ateliers"
 msgid "Since March, several exciting updates have made it into our inbox."
 msgstr ""
 "Depuis mars, plusieurs mises à jour intéressantes sont arrivées dans notre "
-"boîte de réception."
+"boite de réception."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:95
 msgid ""
