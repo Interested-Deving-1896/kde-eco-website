@@ -1983,7 +1983,7 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:379
 msgid "![Screenshot of the Gude Power Meter.](images/sec3_gude-pm.jpg)"
 msgstr ""
-"![Capture d’écran du compteur électrique Gude.](images/sec3_gude-pm.jpg)"
+"![Capture d'écran du compteur électrique Gude.](images/sec3_gude-pm.jpg)"
 
 #: content/be4foss-handbook/handbook_web.md:381
 msgid "*Computer 2: System Under Test*"
@@ -3415,7 +3415,7 @@ msgstr "*CPU-Auslastung* : processeur (C'est-à-dire « X.CPU.Totl »)"
 
 #: content/be4foss-handbook/handbook_web.md:761
 msgid "*RAM-Auslastung*: RAM (i.e., ‘X.MEM.Used’)"
-msgstr "*RAM-Auslastung* : mémoire RAM (C’est-à-dire, « X.MEM.Used »)"
+msgstr "*RAM-Auslastung* : mémoire RAM (C'est-à-dire, « X.MEM.Used »)"
 
 #: content/be4foss-handbook/handbook_web.md:762
 msgid "*Über Netzwerk gesendet*: Network transmitted (i.e., ‘X.NET.TxKBTot’)"
@@ -3442,7 +3442,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:766
 msgid "*Auslastung Auslagerungsdatei*: Swap (here, ‘N/A’)"
-msgstr "*Auslastung Auslagerungsdatei* : fichier d’échange (Ici, « N/A »)"
+msgstr "*Auslastung Auslagerungsdatei* : fichier d'échange (Ici, « N/A »)"
 
 #: content/be4foss-handbook/handbook_web.md:768
 msgid ""
@@ -3474,7 +3474,7 @@ msgid ""
 "measurements)"
 msgstr ""
 "*Elektrische Leistung* : « Puissance électrique » (C'est-à-dire mesures de "
-"consommation d’énergie)"
+"consommation d'énergie)"
 
 #: content/be4foss-handbook/handbook_web.md:777
 msgid ""
@@ -3508,7 +3508,7 @@ msgstr "*Formatierung Messdaten* : « Formatage des données de mesure »"
 
 #: content/be4foss-handbook/handbook_web.md:784
 msgid "*Formatierung Zeitstempel*: ‘Formatting timestamp’"
-msgstr "*Formatierung Zeitstempel* : « Formatage de l’horodatage »"
+msgstr "*Formatierung Zeitstempel* : « Formatage de l'horodatage »"
 
 #: content/be4foss-handbook/handbook_web.md:786
 msgid "*Trennzeichen* ‘Separator’"
@@ -3516,7 +3516,7 @@ msgstr "*Trennzeichen* « Séparateur »"
 
 #: content/be4foss-handbook/handbook_web.md:787
 msgid "*Textqualifizierer*: ‘String delimiter’"
-msgstr "*Textqualifizierer* : ‘Délimiteur de chaines’"
+msgstr "*Textqualifizierer* : ‘« élimiteur de chaines »"
 
 #: content/be4foss-handbook/handbook_web.md:788
 msgid "*Dezimaltrennzeichen*: ‘Decimal separator’"
@@ -3546,7 +3546,7 @@ msgstr "*Zeitstempel* : « Horodatage »"
 
 #: content/be4foss-handbook/handbook_web.md:795
 msgid "*CPU-Auslastung*: ‘CPU utilization’"
-msgstr "*CPU-Auslastung* : « Utilisation du CPU »"
+msgstr "*CPU-Auslastung* : « Utilisation du CPU »"
 
 #: content/be4foss-handbook/handbook_web.md:796
 msgid "*RAM-Auslastung*: ‘RAM utilization’"
@@ -3570,7 +3570,7 @@ msgstr "*Auf Festplatte geschrieben* : « Écrit sur le disque »"
 
 #: content/be4foss-handbook/handbook_web.md:801
 msgid "*Auslastung Auslagerungsdatei*: ‘Swap file utlization’"
-msgstr "*Auslastung Auslagerungsdatei* : « Utilisation du fichier d’échange »"
+msgstr "*Auslastung Auslagerungsdatei* : « Utilisation du fichier d'échange »"
 
 #: content/be4foss-handbook/handbook_web.md:803
 msgid "Step 3: Generating The Reports (Idle, SUS)"
@@ -4263,7 +4263,7 @@ msgid ""
 "As discussed in PART II, the Blue Angel user autonomy criteria cover eight "
 "general areas:"
 msgstr ""
-"Comme discuté dans la partie II, les critères d’autonomie « Blue Angel » "
+"Comme discuté dans la partie II, les critères d'autonomie « Blue Angel » "
 "pour les personnes utilisatrices couvrent huit domaines généraux :"
 
 #: content/be4foss-handbook/handbook_web.md:1050
@@ -7845,7 +7845,7 @@ msgid ""
 "What are the barriers to adoption of Linux? What do new users need to "
 "succeed?"
 msgstr ""
-"Quels sont les obstacles à l’adoption de Linux ? De quoi ont besoin les "
+"Quels sont les obstacles à l'adoption de Linux ? De quoi ont besoin les "
 "nouvelles personnes utilisatrices pour réussir cette transition ?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:79
@@ -7867,7 +7867,7 @@ msgid ""
 "support each other?"
 msgstr ""
 "Quelles sont les plate-formes permettant aux bénévoles du Café Réparation "
-"d’échanger des conseils et de s'aider mutuellement ?"
+"d'échanger des conseils et de s'aider mutuellement ?"
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:83
 msgid "And more."
@@ -8054,7 +8054,7 @@ msgid ""
 "We would love to hear from you! Sign up, say hello, and let us know what you "
 "are interested in."
 msgstr ""
-"Nous serions ravis d’avoir de vos nouvelles ! Inscrivez-vous, dites "
+"Nous serions ravis d'avoir de vos nouvelles ! Inscrivez-vous, dites "
 "« Bonjour » et dites-nous ce qui vous intéresse."
 
 #: content/blog/2026-07-22-opt-green-end-part-i-repair-cafes.md:131
@@ -8359,7 +8359,7 @@ msgid ""
 "and contribute."
 msgstr ""
 "Voici quelques endroits pour réseauter avec la communauté, obtenir plus "
-"d’informations et contribuer."
+"d'informations et contribuer."
 
 #: content/get-involved.md:13
 msgid "Community & Support"
@@ -8565,7 +8565,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:57
 msgid "Introduction: What's This All About?"
-msgstr "Introduction : De quoi s’agit-il ?"
+msgstr "Introduction : De quoi s'agit-il ?"
 
 #: content/opt-green-handbook/index.md:59
 msgid ""
@@ -8972,7 +8972,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:134
 msgid "Embodied Harm&mdash;Before A Device Is Ever Used"
-msgstr "Dommage intégré — Avant qu’un périphérique ne soit utilisé"
+msgstr "Dommage intégré — Avant qu'un périphérique ne soit utilisé"
 
 #: content/opt-green-handbook/index.md:136
 msgid ""
@@ -9524,7 +9524,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:246
 msgid "Actually, what is software for that matter?"
-msgstr "Au fait, qu’est-ce qu’un logiciel ?"
+msgstr "Au fait, qu'est-ce qu'un logiciel ?"
 
 #: content/opt-green-handbook/index.md:248
 msgid ""
@@ -10930,7 +10930,7 @@ msgid ""
 "many reasons, such as:"
 msgstr ""
 "De nombreuses personnes potentielles ne penseraient jamais à essayer un "
-"système d’exploitation libre « FOSS ». Cela peut être dû à de nombreuses "
+"système d'exploitation libre « FOSS ». Cela peut être dû à de nombreuses "
 "raisons, telles que :"
 
 #: content/opt-green-handbook/index.md:538
@@ -10946,7 +10946,7 @@ msgstr ""
 
 #: content/opt-green-handbook/index.md:540
 msgid "They think it's too hard to use."
-msgstr "Ils pensent que c’est trop difficile à utiliser."
+msgstr "Ils pensent que c'est trop difficile à utiliser."
 
 #: content/opt-green-handbook/index.md:541
 msgid "They see that their out-of-date software still works, so why bother."
@@ -11196,7 +11196,7 @@ msgstr ""
 #: content/opt-green-handbook/index.md:584
 msgid "Securing User Data: Before Or During The Event?"
 msgstr ""
-"Sécuriser les données des utilisateurs : avant ou pendant l’événement ?"
+"Sécuriser les données des utilisateurs : avant ou pendant l'événement ?"
 
 #: content/opt-green-handbook/index.md:586
 msgid ""
@@ -12629,7 +12629,7 @@ msgid ""
 "Spread the word about independent, sustainable FOSS and long-term hardware "
 "use."
 msgstr ""
-"Faites passer le message sur l’utilisation indépendante et durable des "
+"Faites passer le message sur l'utilisation indépendante et durable des "
 "logiciels libres et du matériel sur le long terme."
 
 #. grow-green.install-party.title
