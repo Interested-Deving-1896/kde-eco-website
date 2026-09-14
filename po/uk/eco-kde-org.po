@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-09-01 02:14+0000\n"
-"PO-Revision-Date: 2026-09-12 21:17+0300\n"
+"PO-Revision-Date: 2026-09-13 15:29+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -2431,24 +2431,32 @@ msgid ""
 "the booklet, they identify some of the general criteria they consider when "
 "eco-certifying a product, such as:"
 msgstr ""
+"У своєму інформаційному буклеті, присвяченому 40-річчю екомаркування [«Blue "
+"Angel — 40 років. Добре для мене. Добре для довкілля»](https://www."
+"umweltbundesamt.de/sites/default/files/medien/1410/publikationen/"
+"uba_40jahreblauerengel_publikation_en_web.pdf), Німецьке агентство з охорони "
+"довкілля (UBA) розглянуло історію, сучасний стан і майбутнє цього "
+"екопозначки. У виданні також визначено деякі загальні критерії, що "
+"враховуються під час екосертифікації продукції, зокрема:"
 
 #: content/be4foss-handbook/handbook_web.md:300
 msgid ""
 "reduced emissions of harmful substances in the ground, air, water and "
 "indoors;"
 msgstr ""
+"зменшення викидів шкідливих речовин у ґрунт, повітря, воду та приміщення;"
 
 #: content/be4foss-handbook/handbook_web.md:302
 msgid "sustainable production of resources;"
-msgstr ""
+msgstr "стале виробництво ресурсів;"
 
 #: content/be4foss-handbook/handbook_web.md:304
 msgid "longevity, ability to repair and recycle the product; and"
-msgstr ""
+msgstr "довговічність, можливість ремонту та переробки виробу; та"
 
 #: content/be4foss-handbook/handbook_web.md:306
 msgid "efficient use, e.g. products which save energy."
-msgstr ""
+msgstr "ефективне використання, наприклад, енергоощадні вироби."
 
 #: content/be4foss-handbook/handbook_web.md:308
 msgid ""
@@ -2456,6 +2464,10 @@ msgid ""
 "with the Blue Angel award criteria for desktop software promotes the above "
 "environmental benefits, among others."
 msgstr ""
+"Завершуючи цей розділ, ми сподіваємося, що стало зрозуміло, як дотримання "
+"критеріїв екологічного маркування «Blue Angel» для програмного забезпечення "
+"робочих станцій сприяє досягненню згаданих вище екологічних переваг (серед "
+"інших)."
 
 #: content/be4foss-handbook/handbook_web.md:310
 msgid ""
