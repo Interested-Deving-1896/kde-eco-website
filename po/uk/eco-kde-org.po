@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-09-01 02:14+0000\n"
-"PO-Revision-Date: 2026-09-17 15:35+0300\n"
+"PO-Revision-Date: 2026-09-18 14:41+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -2485,7 +2485,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:312
 msgid "So what does the market say?"
-msgstr ""
+msgstr "А що говорить ринок?"
 
 #: content/be4foss-handbook/handbook_web.md:314
 msgid ""
@@ -2499,6 +2499,15 @@ msgid ""
 "of direction of the EU market&mdash;and they are even sometimes used as a "
 "guideline for optimizing products."
 msgstr ""
+"Опитування, результати якого наведено в інформаційному буклеті, засвідчило, "
+"що 92% німців упізнають це екомаркування, а для 37% воно впливає на вибір "
+"товарів. Цей екознак відомий і за межами Німеччини: до 15% його отримувачів "
+"перебувають поза її межами. Однією з причин цього є те, що, на відміну від "
+"деяких інших екомаркувань, «Blue Angel» не висуває вимог щодо географії "
+"збуту продукції. Крім того, знак «Blue Angel» вважається міжнародним "
+"свідченням високої якості, а критерії його присвоєння розглядаються як "
+"орієнтир для розвитку ринку ЄС і навіть іноді слугують основою для "
+"вдосконалення продукції."
 
 #: content/be4foss-handbook/handbook_web.md:316
 msgid ""
@@ -2515,6 +2524,16 @@ msgid ""
 "sustainability, and it gives your product visibility both in Germany and "
 "abroad."
 msgstr ""
+"Отримання екомаркування «Blue Angel» може підвищити статус вашого продукту "
+"не лише серед приватних споживачів, а й серед великих організацій. "
+"Ініціативи у сфері «зелених» державних закупівель (GPP), спрямовані на "
+"заохочення закупівлі товарів, послуг і робіт із меншим впливом на довкілля "
+"протягом усього їхнього життєвого циклу (за визначенням Європейської "
+"комісії), впливають на рішення щодо закупівель як у державному, так і в "
+"приватному секторі. Екологічна сертифікація вашого програмного продукту за "
+"стандартом «Blue Angel» свідчить про відданість принципам довгострокової "
+"цифрової сталості та забезпечує вашому продукту впізнаваність як у "
+"Німеччині, так і за її межами."
 
 #: content/be4foss-handbook/handbook_web.md:320
 msgid ""
@@ -2530,6 +2549,18 @@ msgid ""
 "the [Creative Commons Attribution-ShareAlike 4.0 International License]"
 "(https://spdx.org/licenses/CC-BY-SA-4.0.html)."
 msgstr ""
+"Частина матеріалу в цьому розділі безпосередньо ґрунтується на тексті двох "
+"статей Вікіпедії: (i) [«Blue Angel (certification)»](https://en.wikipedia."
+"org/wiki/Blue_Angel_(certification)) та (ii) [«Software bloat»](https://en."
+"wikipedia.org/wiki/Software_bloat). Обидва тексти поширюються за умов "
+"дотримання [Creative Commons Attribution-Share-Alike License 3.0](https://"
+"spdx.org/licenses/CC-BY-SA-3.0.html). Також частина матеріалу в цьому "
+"розділі безпосередньо ґрунтується на дописі в блозі KDE Eco під назвою "
+"[«First Ever Eco-Certified Computer Program: KDE’s Popular PDF Reader "
+"Okular»](https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-"
+"angel/), який поширюється за умов дотримання [Creative Commons Attribution-"
+"ShareAlike 4.0 International License](https://spdx.org/licenses/CC-BY-SA-4.0."
+"html)."
 
 #: content/be4foss-handbook/handbook_web.md:325
 msgid ""
@@ -2538,25 +2569,32 @@ msgid ""
 "(https://creativecommons.org/licenses/by-nc-nd/4.0/) license.)](images/"
 "sec3_labplot_live-measurement.png)"
 msgstr ""
+"![Моніторинг енергоспоживання та використання апаратних ресурсів у реальному "
+"часі за допомогою програми `LabPlot` від KDE. (Зображення від Олександра "
+"Семке, опубліковане за умов дотримання [CC-BY-NC-ND-4.0](https://"
+"creativecommons.org/licenses/by-nc-nd/4.0/).)](images/sec3_labplot_live-"
+"measurement.png)"
 
 #: content/be4foss-handbook/handbook_web.md:327
 msgid ""
 "The three main categories of the Blue Angel award criteria for desktop "
 "software are:"
 msgstr ""
+"Три основні категорії критеріїв нагородження знаком «Blue Angel» для "
+"програмного забезпечення для робочих станцій — це:"
 
 #: content/be4foss-handbook/handbook_web.md:329
 msgid "(A) Resource & Energy Efficiency"
-msgstr ""
+msgstr "(А) Ресурсо- та енергоефективність"
 
 #: content/be4foss-handbook/handbook_web.md:331
 msgid "(B) Potential Hardware Operating Life"
-msgstr ""
+msgstr "(Б) Потенційне розширення експлуатаційного ресурсу обладнання"
 
 #: content/be4foss-handbook/handbook_web.md:333
 #: content/be4foss-handbook/handbook_web.md:1046
 msgid "(C) User Autonomy"
-msgstr ""
+msgstr "(В) Автономність користувача"
 
 #: content/be4foss-handbook/handbook_web.md:335
 msgid ""
@@ -2566,6 +2604,11 @@ msgid ""
 "with the hardware operating life and user autonomy criteria, you get the "
 "benefits of:"
 msgstr ""
+"У цьому розділі ми наведемо практичні рекомендації щодо виконання кожного з "
+"критеріїв. Відповідність базовим критеріям отримання відзнаки має низку "
+"переваг. Забезпечуючи прозорість енергоспоживання вашого програмного "
+"забезпечення та дотримуючись вимог щодо терміну служби обладнання і "
+"автономності користувача, ви отримуєте такі переваги:"
 
 #: content/be4foss-handbook/handbook_web.md:337
 msgid ""
@@ -2573,6 +2616,9 @@ msgid ""
 "users, companies, and governmental organizations that your software is "
 "designed sustainably."
 msgstr ""
+"**Екосертифікація**: подайте заявку на отримання екомаркування «Blue Angel», "
+"щоб продемонструвати користувачам, компаніям і державним установам, що ваше "
+"програмне забезпечення розроблено з урахуванням принципів сталого розвитку."
 
 #: content/be4foss-handbook/handbook_web.md:339
 msgid ""
@@ -2580,6 +2626,9 @@ msgid ""
 "hardware consumption, and make data-driven decisions for your software "
 "development."
 msgstr ""
+"**Розробка на основі даних**: виявляйте неефективність у споживанні енергії "
+"та апаратних ресурсів і приймайте обґрунтовані рішення в процесі розробки "
+"програмного забезпечення."
 
 #: content/be4foss-handbook/handbook_web.md:341
 msgid ""
