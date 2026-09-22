@@ -1,11 +1,11 @@
 #
-# SPDX-FileCopyrightText: 2024 Kisaragi Hiu <mail@kisaragi-hiu.com>
+# SPDX-FileCopyrightText: 2024, 2026 Kisaragi Hiu <mail@kisaragi-hiu.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-09-01 02:14+0000\n"
-"PO-Revision-Date: 2024-06-12 02:40+0900\n"
+"PO-Revision-Date: 2026-09-22 01:40+0900\n"
 "Last-Translator: Kisaragi Hiu <mail@kisaragi-hiu.com>\n"
 "Language-Team: Traditional Chinese <zh-l10n@lists.slat.org>\n"
 "Language: zh_TW\n"
@@ -15,7 +15,7 @@ msgstr ""
 "SPDX-FileCopyrightText: FULL NAME <EMAIL@ADDRESS>\n"
 "SPDX-License-Identifier: LGPL-3.0-or-later\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Lokalize 24.04.70\n"
+"X-Generator: Lokalize 26.11.70\n"
 
 #: config.yaml:0 content/_index.md:0 content/be4foss-handbook/handbook_web.md:0
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:0
@@ -26,7 +26,7 @@ msgstr "KDE Eco"
 
 #: config.yaml:0
 msgid "Building Energy-Efficient Free Software"
-msgstr ""
+msgstr "製作省能源的自由軟體"
 
 #: config.yaml:0
 msgid "Donate"
@@ -38,16 +38,12 @@ msgid "Be Green"
 msgstr ""
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "Handbook"
-msgstr "KDE Eco 手冊"
+msgstr "手冊"
 
 #: content/be4foss-handbook/_index.md:0
-#, fuzzy
-#| msgid "KDE Eco Handbook"
 msgid "KDE Demo Handbook"
-msgstr "KDE Eco 手冊"
+msgstr "KDE Demo 手冊"
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "Applying The Blue Angel Criteria To Free Software"
