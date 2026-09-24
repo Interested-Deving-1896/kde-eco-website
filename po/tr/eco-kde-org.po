@@ -11493,7 +11493,7 @@ msgid ""
 "hardware use."
 msgstr ""
 "Uzun dönemli donanım kullanımı için bağımsız, enerjiyi hesaplı kullanan, "
-"özgür ve açık kaynaklı yazılımlar."
+"özgür ve açık kaynaklı yazılımlar"
 
 #. home.sustainability-title
 #: i18n/en.yaml:6
