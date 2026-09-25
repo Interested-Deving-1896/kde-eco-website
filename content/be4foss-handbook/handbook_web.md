@@ -3,7 +3,6 @@ author: KDE Eco
 title: "Applying The Blue Angel Criteria To Free Software"
 subtitle: "A Handbook To Certifying Software As Sustainable (February 2023)"
 date: "2023-03-06"
-lang: "en"
 toc : true
 toc-own-page : true
 toc-depth : 2
