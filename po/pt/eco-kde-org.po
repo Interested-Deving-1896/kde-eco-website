@@ -86,7 +86,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "en"
-msgstr ""
+msgstr "pt"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/index.md:0

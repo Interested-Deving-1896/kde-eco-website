@@ -53,7 +53,7 @@ msgstr ""
 
 #: content/be4foss-handbook/handbook_web.md:0
 msgid "en"
-msgstr ""
+msgstr "ga"
 
 #: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/index.md:0
