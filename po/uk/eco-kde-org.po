@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-09-01 02:14+0000\n"
+"POT-Creation-Date: 2026-09-26 02:25+0000\n"
 "PO-Revision-Date: 2026-09-18 14:41+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
@@ -55,10 +55,6 @@ msgstr ""
 "забезпечення для сталого розвитку (лютий 2023 року)"
 
 #: content/be4foss-handbook/handbook_web.md:0
-msgid "en"
-msgstr "uk"
-
-#: content/be4foss-handbook/handbook_web.md:0
 #: content/opt-green-handbook/index.md:0
 msgid "\\ "
 msgstr "\\ "
@@ -72,11 +68,11 @@ msgstr "\\thepage"
 msgid "ht"
 msgstr "ht"
 
-#: content/be4foss-handbook/handbook_web.md:20
+#: content/be4foss-handbook/handbook_web.md:19
 msgid "Introduction: What’s This All About?"
 msgstr "Вступ: про що це все?"
 
-#: content/be4foss-handbook/handbook_web.md:22
+#: content/be4foss-handbook/handbook_web.md:21
 msgid ""
 "This handbook provides a brief overview of environmental harm driven by "
 "software, and how the Blue Angel ecolabel&mdash;the official environmental "
@@ -89,7 +85,7 @@ msgstr ""
 "ваше розпорядження інструменти виміру дизайну програмного забезпечення для "
 "сталого розвитку."
 
-#: content/be4foss-handbook/handbook_web.md:24
+#: content/be4foss-handbook/handbook_web.md:23
 msgid ""
 "The Blue Angel is awarded to a range of products and services, from "
 "household cleaning agents to small appliances to construction products. In "
@@ -106,7 +102,7 @@ msgstr ""
 "два стовпи вільного програмного забезпечення з відкритим вихідним кодом "
 "(FOSS) – зі сталим розвитком."
 
-#: content/be4foss-handbook/handbook_web.md:26
+#: content/be4foss-handbook/handbook_web.md:25
 msgid ""
 "At this point, you might wonder: What does sustainability have to do with "
 "software at all? How can something so seemingly immaterial as software have "
@@ -123,29 +119,29 @@ msgstr ""
 "дотримання критеріїв екологічної сертифікації програмного забезпечення «Blue "
 "Angel»."
 
-#: content/be4foss-handbook/handbook_web.md:28
+#: content/be4foss-handbook/handbook_web.md:27
 msgid "The book is divided into three parts:"
 msgstr "Книгу поділено та три частини:"
 
-#: content/be4foss-handbook/handbook_web.md:30
-#: content/be4foss-handbook/handbook_web.md:37
+#: content/be4foss-handbook/handbook_web.md:29
+#: content/be4foss-handbook/handbook_web.md:36
 #: content/opt-green-handbook/index.md:65
 #: content/opt-green-handbook/index.md:74
 msgid "Part I: Environmental Impact Of Software"
 msgstr "Частина I: Вплив програмного забезпечення на навколишнє середовища"
 
-#: content/be4foss-handbook/handbook_web.md:31
-#: content/be4foss-handbook/handbook_web.md:190
+#: content/be4foss-handbook/handbook_web.md:30
+#: content/be4foss-handbook/handbook_web.md:189
 msgid "Part II: Eco-Certifying Desktop Software"
 msgstr ""
 "Частина II: Екосертифікація програмного забезпечення для робочих станцій"
 
-#: content/be4foss-handbook/handbook_web.md:32
-#: content/be4foss-handbook/handbook_web.md:323
+#: content/be4foss-handbook/handbook_web.md:31
+#: content/be4foss-handbook/handbook_web.md:322
 msgid "Part III: Fulfilling The Blue Angel Award Criteria"
 msgstr "Частина III: Виконання критерії нагородження Blue Angel"
 
-#: content/be4foss-handbook/handbook_web.md:34
+#: content/be4foss-handbook/handbook_web.md:33
 msgid ""
 "While Part I explores the *why* and Part II the *what* of software eco-"
 "certification, Part III discusses the *how* by explaining what you need to "
@@ -163,7 +159,7 @@ msgstr ""
 "енергії, (B) Потенційний термін служби обладнання та (C) Автономність "
 "користувача."
 
-#: content/be4foss-handbook/handbook_web.md:39
+#: content/be4foss-handbook/handbook_web.md:38
 msgid ""
 "![Photograph of e-waste. (Image published under a [CC0-1.0](https://spdx.org/"
 "licenses/CC0-1.0.html) public domain license.)](images/sec1_e-waste.jpg)"
@@ -172,7 +168,7 @@ msgstr ""
 "ліцензування [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html) для "
 "громадського домену.)](images/sec1_e-waste.jpg)"
 
-#: content/be4foss-handbook/handbook_web.md:41
+#: content/be4foss-handbook/handbook_web.md:40
 msgid ""
 "In 2021, the Association of Computing Machinery (ACM), the oldest scientific "
 "and educational computing society in the world, released a Technology Policy "
@@ -202,7 +198,7 @@ msgstr ""
 "викиди вуглецю, пов'язані з сектором ІКТ, зростуть до понад 30% усіх викидів "
 "у світі."
 
-#: content/be4foss-handbook/handbook_web.md:43
+#: content/be4foss-handbook/handbook_web.md:42
 msgid ""
 "![Two charts comparing (left) the greenhouse gas emissions of the aviation "
 "industry in blue with the ICT sector in green, and (right) projected "
@@ -225,7 +221,7 @@ msgstr ""
 "від Sari Braga, ліцензована за ліцензією [CC-BY](https://spdx.org/licenses/"
 "CC-BY-3.0.html). Дизайн Лани Лутц.)](images/sec1_acm-report.png)"
 
-#: content/be4foss-handbook/handbook_web.md:45
+#: content/be4foss-handbook/handbook_web.md:44
 msgid ""
 "In their conclusions, the authors acknowledge an inherent contradiction of "
 "digitization: digital technology “can help mitigate climate change”, but it "
@@ -271,7 +267,7 @@ msgstr ""
 "навіть перші побачення… і все це тепер можливо, не виходячи з дому за "
 "допомогою пристрою, з'єднаного з інтернетом."
 
-#: content/be4foss-handbook/handbook_web.md:47
+#: content/be4foss-handbook/handbook_web.md:46
 msgid ""
 "For all the ways that technological developments have seemingly made our "
 "lives less material and less wasteful, and thus more convenient and more "
@@ -283,11 +279,11 @@ msgstr ""
 "ефективнішим, може здатися, що швидкі темпи цифровізації приносять більше "
 "користі, коли йдеться про досягнення цілей сталого розвитку, ніж шкоди."
 
-#: content/be4foss-handbook/handbook_web.md:49
+#: content/be4foss-handbook/handbook_web.md:48
 msgid "But does it really?"
 msgstr "Але чи насправді все це актуальне?"
 
-#: content/be4foss-handbook/handbook_web.md:51
+#: content/be4foss-handbook/handbook_web.md:50
 msgid ""
 "The internet and the devices we use to connect to it require "
 "infrastructure&mdash;real, physical hardware which demand energy and consume "
@@ -312,7 +308,7 @@ msgstr ""
 "навколишнього середовища. Потім виробляються та транспортуються нові "
 "пристрої, в багатьох випадках без потреби."
 
-#: content/be4foss-handbook/handbook_web.md:53
+#: content/be4foss-handbook/handbook_web.md:52
 msgid ""
 "“A fact that is even more rarely appreciated is that the key to increasing "
 "energy efficiency and protecting natural resources lies not with the "
@@ -327,7 +323,7 @@ msgstr ""
 "енергоефективні програмні продукти] (https://produktinfo.blauer-engel.de/"
 "uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-V2.pdf) (с. 5)"
 
-#: content/be4foss-handbook/handbook_web.md:55
+#: content/be4foss-handbook/handbook_web.md:54
 msgid ""
 "Within this broader picture, the critical role that software plays in "
 "contributing to environmental harm may be overlooked. Indeed, in many cases "
@@ -355,7 +351,7 @@ msgstr ""
 "тому, що завдяки розробці програмного забезпечення розробники можуть мати "
 "негайний та значний вплив на багато питань, що обговорюються тут."
 
-#: content/be4foss-handbook/handbook_web.md:57
+#: content/be4foss-handbook/handbook_web.md:56
 msgid ""
 "Throughout the text, and especially in later sections, the Blue Angel "
 "ecolabel for desktop software will serve as a benchmark for sustainable "
@@ -366,7 +362,7 @@ msgstr ""
 "орієнтиром для розробки програмного забезпечення для сталого розвитку. Але "
 "що взагалі означає «Blue Angel»?"
 
-#: content/be4foss-handbook/handbook_web.md:59
+#: content/be4foss-handbook/handbook_web.md:58
 msgid ""
 "The Blue Angel ecolabel (German: *Blauer Engel Umweltzeichen*) is the "
 "official environmental label of the German government. In 2020, the German "
@@ -387,7 +383,7 @@ msgstr ""
 "реальну перевагу. Сподіваємося, що до кінця цього підручника ви краще "
 "зрозумієте, як це зробити."
 
-#: content/be4foss-handbook/handbook_web.md:61
+#: content/be4foss-handbook/handbook_web.md:60
 msgid ""
 "But in order to address a problem effectively, we must first identify what "
 "the problem is. So let us first understand what is meant by the digital "
@@ -398,12 +394,12 @@ msgstr ""
 "мають на увазі під цифровим вуглецевим слідом і як у цьому задіяне програмне "
 "забезпечення, яке ми використовуємо щодня."
 
-#: content/be4foss-handbook/handbook_web.md:63
+#: content/be4foss-handbook/handbook_web.md:62
 #: content/opt-green-handbook/index.md:98
 msgid "Material Footprint Of Digital Technology"
 msgstr "Матеріальні наслідки цифрових технологій"
 
-#: content/be4foss-handbook/handbook_web.md:65
+#: content/be4foss-handbook/handbook_web.md:64
 msgid ""
 "Digital technology is often (and erroneously) associated with being "
 "immaterial. When we send an email or upload data to the cloud, it can be "
@@ -427,7 +423,7 @@ msgstr ""
 "Sobriety»] (https://theshiftproject.org/wp-content/uploads/2019/03/Lean-ICT-"
 "Report_The-Shift-Project_2019.pdf) описує цю проблему так:"
 
-#: content/be4foss-handbook/handbook_web.md:67
+#: content/be4foss-handbook/handbook_web.md:66
 msgid ""
 "[T]he material footprint of digital technology is largely underestimated by "
 "its users, given the miniaturization of equipment and the “invisibility” of "
@@ -443,7 +439,7 @@ msgstr ""
 "непомітною та призводить до недооцінки прямого впливу цифрових технологій на "
 "навколишнє середовище. (с. 10)"
 
-#: content/be4foss-handbook/handbook_web.md:69
+#: content/be4foss-handbook/handbook_web.md:68
 msgid ""
 "As one New York Times [article](https://www.nytimes.com/"
 "interactive/2019/03/10/technology/internet-cables-oceans.html) quipped, "
@@ -473,7 +469,7 @@ msgstr ""
 "cop27-warned-we-are-highway-climate-hell-2022-11-07/), коли заявив: «Ми "
 "йдемо по шосе до кліматичного пекла, тримаючи ногу на педалі газу»."
 
-#: content/be4foss-handbook/handbook_web.md:71
+#: content/be4foss-handbook/handbook_web.md:70
 msgid ""
 "Digital technology can help mitigate climate change, but it must first cease "
 "contributing to it."
@@ -481,7 +477,7 @@ msgstr ""
 "Цифрові технології можуть допомогти пом'якшити зміну клімату, але спочатку "
 "вони повинні перестати сприяти їй."
 
-#: content/be4foss-handbook/handbook_web.md:73
+#: content/be4foss-handbook/handbook_web.md:72
 msgid ""
 "![World map of submarine communication cables. (Cable data by Greg "
 "Mahlknecht, KML file released under [GPLv3](https://www.gnu.org/licenses/"
@@ -493,13 +489,13 @@ msgstr ""
 "www.gnu.org/licenses/gpl-3.0.html); карта світу від учасників "
 "Openstreetmap.)](images/sec1_submarine_cable_map.png)"
 
-#: content/be4foss-handbook/handbook_web.md:75
+#: content/be4foss-handbook/handbook_web.md:74
 msgid ""
 "Within the ICT sector, what is contributing to the atmospheric rise of "
 "CO<sub>2</sub>?"
 msgstr "Що в секторі ІКТ сприяє підвищенню рівня CO<sub>2</sub> в атмосфері?"
 
-#: content/be4foss-handbook/handbook_web.md:77
+#: content/be4foss-handbook/handbook_web.md:76
 msgid ""
 "Between 2012 and 2018, the energy demand of artificial intelligence (AI) "
 "increased 300,000 times, and it currently [doubles every few months](https://"
@@ -530,7 +526,7 @@ msgstr ""
 "consume), потребує стільки ж енергії, скільки цілі країни, такі як Швеція чи "
 "Малайзія."
 
-#: content/be4foss-handbook/handbook_web.md:79
+#: content/be4foss-handbook/handbook_web.md:78
 msgid ""
 "At the same time, we use more digital devices than ever before. The number "
 "of internet-connected devices, including laptops and smartphones, but also "
@@ -560,7 +556,7 @@ msgstr ""
 "їхньої роботи, їхнього транспортування, використання та остаточна "
 "утилізація, споживають значну кількість енергії."
 
-#: content/be4foss-handbook/handbook_web.md:81
+#: content/be4foss-handbook/handbook_web.md:80
 msgid ""
 "It is crucial to underscore here, however, that energy consumption is not "
 "the same as carbon emissions. Carbon emissions depend on the particular mix "
@@ -595,11 +591,11 @@ msgstr ""
 "від цього балансу: наприклад, споживання енергії зі 100% вуглецево-"
 "нейтральних джерел не призводить до прямих викидів CO<sub>2</sub>."
 
-#: content/be4foss-handbook/handbook_web.md:83
+#: content/be4foss-handbook/handbook_web.md:82
 msgid "Relative Harm &mdash; Or, When Less Is Not More"
 msgstr "Відносна шкода — Або, коли менше це не більше"
 
-#: content/be4foss-handbook/handbook_web.md:85
+#: content/be4foss-handbook/handbook_web.md:84
 msgid ""
 "Digitization is often associated with “dematerialization”: printing concert "
 "or travel tickets on paper is no longer necessary, as they can be downloaded "
@@ -617,7 +613,7 @@ msgstr ""
 "пережитком минулого. У багатьох випадках для всього вищезазначеного — і "
 "багато-багато іншого — використовується один пристрій, смартфон."
 
-#: content/be4foss-handbook/handbook_web.md:87
+#: content/be4foss-handbook/handbook_web.md:86
 msgid ""
 "Each of those material objects were once a major part of our daily lives … "
 "but today, they are simply no longer necessary. That must be better for the "
@@ -627,7 +623,7 @@ msgstr ""
 "повсякденного життя… але сьогодні вони просто більше не потрібні. Мабуть, це "
 "краще для Землі, чи не так?"
 
-#: content/be4foss-handbook/handbook_web.md:89
+#: content/be4foss-handbook/handbook_web.md:88
 msgid ""
 "While digital devices might reduce some forms of waste, estimating the true "
 "environmental impact of digital technologies requires accounting for the "
@@ -664,7 +660,7 @@ msgstr ""
 "виробництва (74%), транспортування (5%) та обробки після закінчення терміну "
 "служби (<1%). Лише 19% стосуються від фактичного використання пристроїв."
 
-#: content/be4foss-handbook/handbook_web.md:91
+#: content/be4foss-handbook/handbook_web.md:90
 msgid ""
 "So when are the costs of manufacturing a digital device to replace all of "
 "those analogue objects worth it? The book [“Smarte Grüne Welt”](https://www."
@@ -684,7 +680,7 @@ msgstr ""
 "досліджують вплив друку паперових книг на навколишнє середовище порівняно з "
 "виробництвом електронних книг (стор. 29–31; переклад з німецької):"
 
-#: content/be4foss-handbook/handbook_web.md:93
+#: content/be4foss-handbook/handbook_web.md:92
 msgid ""
 "Making electronic devices is obviously more energy-intensive and resource-"
 "intensive than printing a single book. For example, the production of an e-"
@@ -728,7 +724,7 @@ msgstr ""
 "країнах глобального Півдня, а потім утилізуються там після закінчення "
 "терміну служби як екологічно шкідливі електронні відходи."
 
-#: content/be4foss-handbook/handbook_web.md:95
+#: content/be4foss-handbook/handbook_web.md:94
 msgid ""
 "Despite all of this, the e-reader may be better than the book. This "
 "ultimately depends on two factors: How many books are read on the e-reader "
@@ -759,7 +755,7 @@ msgstr ""
 "електронній читалці приблизно в п'ять разів енергоефективніший, ніж книга. "
 "Однак ця перевага зникає, коли кілька людей спільно використовують книгу."
 
-#: content/be4foss-handbook/handbook_web.md:97
+#: content/be4foss-handbook/handbook_web.md:96
 msgid ""
 "![To produce one e-reader, 15 kilograms of different materials, 300 liters "
 "of water, and 170 kilograms of the greenhouse gas carbon dioxide are needed. "
@@ -775,7 +771,7 @@ msgstr ""
 "опубліковане за умов ліцензування [CC-BY-SA-4.0](https://spdx.org/licenses/"
 "CC-BY-SA-4.0.html). Дизайн Лани Лутц.)](images/sec1_e-reader-infographic.png)"
 
-#: content/be4foss-handbook/handbook_web.md:99
+#: content/be4foss-handbook/handbook_web.md:98
 msgid ""
 "So, does replacing physical objects via digital technology result in a "
 "reduced environmental impact? Well, it depends. For example, if you buy an e-"
@@ -798,7 +794,7 @@ msgstr ""
 "екологічним вибором. Але скільки споживачів переходять на наступний, "
 "блискучий новий пристрій задовго до цього часу?"
 
-#: content/be4foss-handbook/handbook_web.md:101
+#: content/be4foss-handbook/handbook_web.md:100
 msgid ""
 "It’s also worth asking whether a device will remain supported by a company "
 "for the amount of time it would take to be the less harmful choice. At the "
@@ -832,11 +828,11 @@ msgstr ""
 "технічно застарілими, використовуються в середньому настільки інтенсивно, "
 "щоб досягти загальної екологічної користі» (с. 31; переклад з німецької)."
 
-#: content/be4foss-handbook/handbook_web.md:103
+#: content/be4foss-handbook/handbook_web.md:102
 msgid "A “Tsunami Of E-Waste”"
 msgstr "«Цунамі електронного сміття»"
 
-#: content/be4foss-handbook/handbook_web.md:105
+#: content/be4foss-handbook/handbook_web.md:104
 msgid ""
 "At seven meter’s tall, the “WEEE Man” is a giant. Taking its name from the "
 "2003 Waste Electrical and Electronic Equipment (WEEE) directive, which sets "
@@ -851,7 +847,7 @@ msgstr ""
 "виготовлена ​​з 3,3 метричних тонн електровідходів, або середньої кількості "
 "електронних відходів, яку один мешканець Британії створює за життя."
 
-#: content/be4foss-handbook/handbook_web.md:107
+#: content/be4foss-handbook/handbook_web.md:106
 msgid ""
 "[^1]: In 2005, two years after the directive was transposed into European "
 "law, the Royal Society of Arts in the UK unveiled “WEEE Man”, designed by "
@@ -866,7 +862,7 @@ msgstr ""
 "південному березі Лондона, згодом цю величну фігуру було перенесено до "
 "проєкту Eden у Корнуоллі, де вона й зараз знаходиться."
 
-#: content/be4foss-handbook/handbook_web.md:109
+#: content/be4foss-handbook/handbook_web.md:108
 msgid ""
 "![Image of “WEEE Man” statue, which is made from 3.3 metric tons of "
 "electrical waste, the average amount of e-waste that one UK individual "
@@ -882,7 +878,7 @@ msgstr ""
 "ліцензування [CC-BY-SA-2.0](https://spdx.org/licenses/CC-BY-SA-2.0.html).]"
 "(images/sec1_geograph-2637892-by-James-T-M-Towill_1600x1200.jpg)"
 
-#: content/be4foss-handbook/handbook_web.md:111
+#: content/be4foss-handbook/handbook_web.md:110
 msgid ""
 "E-waste is [considered](https://www.weforum.org/reports/a-new-circular-"
 "vision-for-electronics-time-for-a-global-reboot/) the “fastest-growing waste "
@@ -919,7 +915,7 @@ msgstr ""
 "recycle-all-your-electronics/) сміття на звалищах, вони є причиною майже 70% "
 "токсичних відходів, які там перебувають."
 
-#: content/be4foss-handbook/handbook_web.md:113
+#: content/be4foss-handbook/handbook_web.md:112
 msgid ""
 "![In 2016, 44.7 million metric tons of e-waste was generated. This is "
 "estimated to be equivalent to 4,500 Eiffel Towers, which, when stacked, is "
@@ -953,7 +949,7 @@ msgstr ""
 "org/licenses/CC-BY-3.0.html). Дизайн Лани Лутц.)](images/sec1_e-waste-"
 "infographic.png)"
 
-#: content/be4foss-handbook/handbook_web.md:115
+#: content/be4foss-handbook/handbook_web.md:114
 msgid ""
 "The environmental impacts of e-waste are enormous. Electronic scrap "
 "components like CPUs contain potentially harmful materials such as lead, "
@@ -991,11 +987,11 @@ msgstr ""
 "у сільськогосподарські культури, які споживають як тварини, так і люди, та у "
 "питну воду. Це забруднення є вирішальним аспектом шкоди цифрових технологій."
 
-#: content/be4foss-handbook/handbook_web.md:117
+#: content/be4foss-handbook/handbook_web.md:116
 msgid "Look To The Software"
 msgstr "Погляд на програмне забезпечення"
 
-#: content/be4foss-handbook/handbook_web.md:119
+#: content/be4foss-handbook/handbook_web.md:118
 msgid ""
 "What is the cause of all this e-waste, and why do digital devices that still "
 "work end up in landfills? Software engineering has an important but often "
@@ -1017,7 +1013,7 @@ msgstr ""
 "мірою економічні, а не технологічні причини, чому працездатне обладнання "
 "стає електронними відходами."
 
-#: content/be4foss-handbook/handbook_web.md:121
+#: content/be4foss-handbook/handbook_web.md:120
 msgid ""
 "![A young man is pictured burning electrical wires to recover copper at "
 "Agbogbloshie, Ghana, as another metal scrap worker arrives with more wires "
@@ -1032,7 +1028,7 @@ msgstr ""
 "SA-4.0.html).)](/blog/images/sec1_800px-Agbogbloshie_Ghana_September_2019."
 "jpg)"
 
-#: content/be4foss-handbook/handbook_web.md:123
+#: content/be4foss-handbook/handbook_web.md:122
 msgid ""
 "[Software lock-out](https://en.wikipedia.org/wiki/"
 "Planned_obsolescence#Software_lock-out) and [programmed obsolescence]"
@@ -1064,7 +1060,7 @@ msgstr ""
 "ладу, іноді назавжди. Користувачі можуть не мати змоги продовжувати "
 "використовувати «застаріле» обладнання, навіть якби хотіли."
 
-#: content/be4foss-handbook/handbook_web.md:125
+#: content/be4foss-handbook/handbook_web.md:124
 msgid ""
 "[Feature creep](https://en.wikipedia.org/wiki/Feature_creep) and other forms "
 "of [software bloat](https://en.wikipedia.org/wiki/Software_bloat) may render "
@@ -1078,7 +1074,7 @@ msgstr ""
 "навіть якщо клієнти ніколи не просили про додаткові можливості або, можливо, "
 "хотіли б їх позбутися, якби мали таку можливість. Врахуйте наступне:"
 
-#: content/be4foss-handbook/handbook_web.md:127
+#: content/be4foss-handbook/handbook_web.md:126
 msgid ""
 "“Processing power has doubled about every two years since 1970. This means "
 "that functions are processed twice as fast and thus less energy is required "
@@ -1103,7 +1099,7 @@ msgstr ""
 "engel.de/uploads/criteriafile/en/DE-UZ%20215-202001-en-Criteria-V2.pdf) (с. "
 "5)"
 
-#: content/be4foss-handbook/handbook_web.md:129
+#: content/be4foss-handbook/handbook_web.md:128
 msgid ""
 "In these cases, vendor dependencies and user restrictions attributable to "
 "software design and licensing mean that still-functioning devices are tossed "
@@ -1115,7 +1111,7 @@ msgstr ""
 "що все ще функціональні пристрої викидаються на смітник, тоді як на "
 "виробництво та транспортування нових витрачається більше ресурсів."
 
-#: content/be4foss-handbook/handbook_web.md:131
+#: content/be4foss-handbook/handbook_web.md:130
 msgid ""
 "When not rendering functioning hardware obsolete, software design which "
 "requires license servers, suffers from feature creep, etc., also results in "
@@ -1136,7 +1132,7 @@ msgstr ""
 "дві програми, які виконують одну й ту саму дію та досягають одного й того ж "
 "результату, можуть мати разюче різні енергетичні профілі."
 
-#: content/be4foss-handbook/handbook_web.md:133
+#: content/be4foss-handbook/handbook_web.md:132
 msgid ""
 "![Plot comparing two word processors during execution of a Standard Usage "
 "Scenario script. Word Processor 1 is an Open Source program. This word "
@@ -1154,7 +1150,7 @@ msgstr ""
 "Зображення адаптовано з рисунка 1 на сторінці 24 у звіті Німецького "
 "агентства з охорони навколишнього середовища.)](images/sec1_uba-sus.png)"
 
-#: content/be4foss-handbook/handbook_web.md:135
+#: content/be4foss-handbook/handbook_web.md:134
 msgid ""
 "Data from the study includes a comparison of two word processing programs: "
 "Word Processor 1 is identified as Open Source, while Word Processor 2 is "
@@ -1180,7 +1176,7 @@ msgstr ""
 "процесором 1 — знову ж таки, і це неможливо переоцінити, для виконання того "
 "самого завдання!"
 
-#: content/be4foss-handbook/handbook_web.md:137
+#: content/be4foss-handbook/handbook_web.md:136
 msgid ""
 "Looking more closely at the two word processors’ power use over time, it’s "
 "also clear how the two programs behave quite differently … and perhaps "
@@ -1202,7 +1198,7 @@ msgstr ""
 "можна було очікувати). Натомість текстовий процесор 2 продовжує працювати, "
 "споживаючи енергію, навіть після завершення скрипту."
 
-#: content/be4foss-handbook/handbook_web.md:139
+#: content/be4foss-handbook/handbook_web.md:138
 msgid ""
 "![Plot comparing two word processors over time when running the Standard "
 "Usage Scenario script. The Open Source Word processor 1 (*top*) goes into an "
@@ -1227,7 +1223,7 @@ msgstr ""
 "[CC-BY-NC-ND](https://spdx.org/licenses/CC-BY-NC-ND-4.0.html); знімок екрана "
 "опубліковано тут з дозволу автора.)](images/sec1_energy-consumption_time.png)"
 
-#: content/be4foss-handbook/handbook_web.md:141
+#: content/be4foss-handbook/handbook_web.md:140
 msgid ""
 "It’s worth asking what the additional activities from 440 to 600 seconds are "
 "for: Are the actions of Word Processor 2 necessary for the functionality of "
@@ -1252,7 +1248,7 @@ msgstr ""
 "навчання алгоритмів на них вимагають обчислювальної потужності та "
 "інфраструктури."
 
-#: content/be4foss-handbook/handbook_web.md:143
+#: content/be4foss-handbook/handbook_web.md:142
 msgid ""
 "Researchers in the EU have estimated the environmental costs of tracking and "
 "advertisements that users cannot opt out of, referred to as “unwanted data "
@@ -1282,11 +1278,11 @@ msgstr ""
 "б рекламу, коли це можливо. Це надзвичайно багато енергії, адже більшість "
 "користувачів цього взагалі не хочуть!"
 
-#: content/be4foss-handbook/handbook_web.md:145
+#: content/be4foss-handbook/handbook_web.md:144
 msgid "“The Very Contrary Is The Truth”: Jevons’ Paradox"
 msgstr "«Вірно якраз протилежне» — парадокс Джевонса"
 
-#: content/be4foss-handbook/handbook_web.md:147
+#: content/be4foss-handbook/handbook_web.md:146
 msgid ""
 "Increases in software efficiency alone do not necessarily translate to "
 "lighter environmental footprints. For example, the “rebound effect” (also "
@@ -1299,7 +1295,7 @@ msgstr ""
 "ефективності може призвести до змін у використанні, які зменшують або навіть "
 "зводять нанівець початкові здобутки."
 
-#: content/be4foss-handbook/handbook_web.md:149
+#: content/be4foss-handbook/handbook_web.md:148
 msgid ""
 "Imagine that a change in software results in a 5% improvement in energy "
 "efficiency. However, because of the increased energy savings, you might end "
@@ -1320,7 +1316,7 @@ msgstr ""
 "початкове підвищення ефективності зменшилося на 80%, практично зводячи "
 "нанівець будь-яке заощадження від покращень!"
 
-#: content/be4foss-handbook/handbook_web.md:151
+#: content/be4foss-handbook/handbook_web.md:150
 msgid ""
 "If the rebound effect goes over 100%, meaning more energy ends up being used "
 "than before, this is referred to as [Jevons’ Paradox](http://en.wikipedia."
@@ -1337,7 +1333,7 @@ msgstr ""
 "збільшили споживання вугілля в усіх галузях промисловості. Джевонс дійшов "
 "висновку, що:"
 
-#: content/be4foss-handbook/handbook_web.md:153
+#: content/be4foss-handbook/handbook_web.md:152
 msgid ""
 "“It is a confusion of ideas to suppose that the **economical use of fuel is "
 "equivalent to diminished consumption**. The very contrary is the "
@@ -1347,7 +1343,7 @@ msgstr ""
 "зменшенню його споживання**. Правда полягає в протилежному». [виокремлено "
 "автором]"
 
-#: content/be4foss-handbook/handbook_web.md:155
+#: content/be4foss-handbook/handbook_web.md:154
 msgid ""
 "A practical interpretation of this paradox is that efficiency gains must be "
 "combined with conservation practices in order to have a meaningful effect, "
@@ -1369,11 +1365,11 @@ msgstr ""
 "слід враховувати в боротьбі зі шкодою для навколишнього середовища, "
 "спричиненою програмним забезпеченням."
 
-#: content/be4foss-handbook/handbook_web.md:157
+#: content/be4foss-handbook/handbook_web.md:156
 msgid "Is All Of This Worth It?"
 msgstr "Чи варте усе це зусиль?"
 
-#: content/be4foss-handbook/handbook_web.md:159
+#: content/be4foss-handbook/handbook_web.md:158
 msgid ""
 "Looking at the bigger picture, software-driven environmental harm and global "
 "greenhouse gas emissions may be less significant when compared to other "
@@ -1388,7 +1384,7 @@ msgstr ""
 "середовище, проблемі, яка може здаватися відносно незначною в загальній "
 "схемі речей?"
 
-#: content/be4foss-handbook/handbook_web.md:161
+#: content/be4foss-handbook/handbook_web.md:160
 msgid ""
 "There are a few things we might consider here. The first is a rejection of "
 "the [“Not As Bad As”](https://rationalwiki.org/wiki/Not_as_bad_as) fallacy, "
@@ -1414,7 +1410,7 @@ msgstr ""
 "однієї проблеми або іншої, тоді як насправді екологічно чистий дизайн "
 "програмного забезпечення – це лише один елемент більшої складанки."
 
-#: content/be4foss-handbook/handbook_web.md:163
+#: content/be4foss-handbook/handbook_web.md:162
 msgid ""
 "Let’s not [be like XKCD’s](https://www.explainxkcd.com/wiki/index.php/2368:"
 "_Bigger_Problem) White Hat, and appeal to worse problems as an excuse not to "
@@ -1424,7 +1420,7 @@ msgstr ""
 "wiki/index.php/2368:_Bigger_Problem) і не порівнюватимемо проблему з гіршими "
 "для виправдання бездіяльності!"
 
-#: content/be4foss-handbook/handbook_web.md:165
+#: content/be4foss-handbook/handbook_web.md:164
 msgid ""
 "![XKCD comic [“2368: Bigger Problem”](https://xkcd.com/2368/) (published "
 "under a [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-NC-2.5.html) "
@@ -1434,7 +1430,7 @@ msgstr ""
 "за умов дотримання ліцензії [CC-BY-NC-2.5](https://spdx.org/licenses/CC-BY-"
 "NC-2.5.html)).](images/sec1_bigger_problem.png)"
 
-#: content/be4foss-handbook/handbook_web.md:167
+#: content/be4foss-handbook/handbook_web.md:166
 msgid ""
 "Second, focusing only on fixing the “biggest problem” is not necessarily the "
 "most effective strategy. It’s also important to weigh the likelihood of "
@@ -1456,7 +1452,7 @@ msgstr ""
 "підтримувати з меншими витратами та без залежності від постачальників чи "
 "штучних обмежень."
 
-#: content/be4foss-handbook/handbook_web.md:169
+#: content/be4foss-handbook/handbook_web.md:168
 msgid ""
 "Third, it’s hopefully clear by now that software *does* have significant "
 "impacts on energy consumption and the production of waste, both of which "
@@ -1484,7 +1480,7 @@ msgstr ""
 "просто шляхом масштабування. Ця економія порівнянна з річним споживанням "
 "енергії понад 30 тисячами домогосподарств з двох осіб."
 
-#: content/be4foss-handbook/handbook_web.md:171
+#: content/be4foss-handbook/handbook_web.md:170
 msgid ""
 "![A one CPU-second reduction is roughly equivalent to 10 watt-second "
 "savings. If 1.5 million people are using the software, and there are 20 "
@@ -1507,7 +1503,7 @@ msgstr ""
 "ліцензована за умовами [CC-BY](https://spdx.org/licenses/CC-BY-3.0.html). "
 "Приклад від Детлефа Томса. Дизайн від Лани Лутц.)](images/sec1_CPU-time.png)"
 
-#: content/be4foss-handbook/handbook_web.md:173
+#: content/be4foss-handbook/handbook_web.md:172
 msgid ""
 "![If 500 developers make 10 one CPU-second reductions, this is equal to 95 "
 "thousand megawatt-hours of savings, or the energy consumption of 30-thousand "
@@ -1527,7 +1523,7 @@ msgstr ""
 "BY](https://spdx.org/licenses/CC-BY-3.0.html). Приклад від Детлефа Томса. "
 "Дизайн від Лани Лутц.)](images/sec1_CPU-savings.png)"
 
-#: content/be4foss-handbook/handbook_web.md:175
+#: content/be4foss-handbook/handbook_web.md:174
 msgid ""
 "As Detlef Thoms states in the video: “Often, it is a quite manageable set of "
 "decisions which lead to significant differences in power consumption”."
@@ -1535,7 +1531,7 @@ msgstr ""
 "Як зазначає Детлеф Томс у відео: «Часто саме досить керований набір рішень "
 "призводить до значних відмінностей у споживанні енергії»."
 
-#: content/be4foss-handbook/handbook_web.md:177
+#: content/be4foss-handbook/handbook_web.md:176
 msgid ""
 "Finally, in order to make claims about relative harm, it is necessary to "
 "first have estimates about actual effects. Since research in the area of "
@@ -1549,7 +1545,7 @@ msgstr ""
 "для того, щоб робити заяви на основі даних. За допомогою цього підручника та "
 "екомаркування Blue Angel як орієнтира, KDE сподівається допомогти змінити це."
 
-#: content/be4foss-handbook/handbook_web.md:179
+#: content/be4foss-handbook/handbook_web.md:178
 msgid ""
 "Changing our software may seem like a small gesture in addressing an issue "
 "as complex as climate change. It’s also clear that simply changing our "
@@ -1573,7 +1569,7 @@ msgstr ""
 "цю відповідальність не можна керувати на індивідуальному рівні. Але "
 "подумайте, що колись зазначила антрополог Маргарет Мід:"
 
-#: content/be4foss-handbook/handbook_web.md:181
+#: content/be4foss-handbook/handbook_web.md:180
 msgid ""
 "“Never doubt that a small group of thoughtful, committed citizens can change "
 "the world; indeed, it’s the only thing that ever has.”"
@@ -1581,7 +1577,7 @@ msgstr ""
 "«Ніколи не сумнівайтеся, що невелика група вдумливих, відданих громадян може "
 "змінити світ; насправді, це єдине, що будь-коли це робило»."
 
-#: content/be4foss-handbook/handbook_web.md:183
+#: content/be4foss-handbook/handbook_web.md:182
 msgid ""
 "Structural change happens when dedicated, passionate people organize to "
 "confront pressing societal issues. With decades of experience successfully "
@@ -1604,13 +1600,13 @@ msgstr ""
 "стійкості в наших програмних спільнотах. Давайте разом створювати енерго- та "
 "ресурсоефективне програмне забезпечення!"
 
-#: content/be4foss-handbook/handbook_web.md:185
-#: content/be4foss-handbook/handbook_web.md:318
+#: content/be4foss-handbook/handbook_web.md:184
+#: content/be4foss-handbook/handbook_web.md:317
 #: content/opt-green-handbook/index.md:41
 msgid "A Note On Sources"
 msgstr "Зауваження щодо джерел"
 
-#: content/be4foss-handbook/handbook_web.md:187
+#: content/be4foss-handbook/handbook_web.md:186
 msgid ""
 "Some material in this section is based directly on text from two Wikipedia "
 "articles: (i) [“*Waste Electrical and Electronic Equipment Directive*”]"
@@ -1628,7 +1624,7 @@ msgstr ""
 "опубліковані за дотримання умов ліцензування [Creative Commons Attribution-"
 "Share-Alike License 3.0](https://spdx.org/licenses/CC-BY-SA-3.0.html)."
 
-#: content/be4foss-handbook/handbook_web.md:192
+#: content/be4foss-handbook/handbook_web.md:191
 msgid ""
 "![KDE’s popular multi-platform PDF reader and universal document viewer "
 "Okular was awarded the Blue Angel ecolabel in 2022. (Image from KDE "
@@ -1641,14 +1637,14 @@ msgstr ""
 "[CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html).)](images/sec2_okular-"
 "BE-logo.png)"
 
-#: content/be4foss-handbook/handbook_web.md:194
+#: content/be4foss-handbook/handbook_web.md:193
 msgid ""
 "What do construction products, toilet paper, and software have in common?"
 msgstr ""
 "Що спільного між будівельними виробами, туалетним папером та програмним "
 "забезпеченням?"
 
-#: content/be4foss-handbook/handbook_web.md:196
+#: content/be4foss-handbook/handbook_web.md:195
 msgid ""
 "Each of these can be eco-certified by the Blue Angel environmental label, "
 "the official environmental label of the German government!"
@@ -1656,7 +1652,7 @@ msgstr ""
 "Кожен із них може бути екосертифікований екологічним знаком «Blue Angel» – "
 "офіційним екологічним знаком уряду Німеччини!"
 
-#: content/be4foss-handbook/handbook_web.md:198
+#: content/be4foss-handbook/handbook_web.md:197
 msgid ""
 "The Blue Angel ecolabel is awarded to a range of products and services, from "
 "paper products and construction materials to printers, and it certifies that "
@@ -1674,7 +1670,7 @@ msgstr ""
 "до них програмні продукти, що стало першою екологічною сертифікацією, яка "
 "пов’язує прозорість та автономію користувача зі сталим розвитком."
 
-#: content/be4foss-handbook/handbook_web.md:200
+#: content/be4foss-handbook/handbook_web.md:199
 msgid ""
 "Specifically, the eco-certification criteria requires transparency about the "
 "software’s energy consumption when in use, while also ensuring that the "
@@ -1688,7 +1684,7 @@ msgstr ""
 "критерії включають перелік вимог, пов'язаних з автономністю користувача, що "
 "може зменшити вплив програмного забезпечення на навколишнє середовище."
 
-#: content/be4foss-handbook/handbook_web.md:202
+#: content/be4foss-handbook/handbook_web.md:201
 msgid ""
 "This section provides a broad overview of the Blue Angel and the ABCs of the "
 "[award criteria for desktop software](https://www.blauer-engel.de/en/"
@@ -1708,11 +1704,11 @@ msgstr ""
 "критеріїв нагородження «Blue Angel», до яких ми повернемося в ЧАСТИНІ III. "
 "Але спочатку короткий вступ до програми «Blue Angel» та ініціативи KDE Eco."
 
-#: content/be4foss-handbook/handbook_web.md:204
+#: content/be4foss-handbook/handbook_web.md:203
 msgid "The Blue Angel For Desktop Software"
 msgstr "«Blue Angel» для програмного забезпечення для робочих станцій"
 
-#: content/be4foss-handbook/handbook_web.md:206
+#: content/be4foss-handbook/handbook_web.md:205
 msgid ""
 "Introduced in 1978, the Blue Angel is the first ecolabel worldwide and the "
 "official environmental label awarded by the German government. The label is "
@@ -1736,7 +1732,7 @@ msgstr ""
 "яка [на момент написання статті](https://web.archive.org/web/20221026003053/"
 "https://globalecolabelling.net/) налічує 37 членів майже з 60 країн."
 
-#: content/be4foss-handbook/handbook_web.md:208
+#: content/be4foss-handbook/handbook_web.md:207
 msgid ""
 "![Logo of the Blue Angel ecolabel. The logo is intentionally designed to "
 "correspond to the logo of the United Nations Environment Programme. This "
@@ -1750,7 +1746,7 @@ msgstr ""
 "опубліковано за умов дотримання [CC-BY-SA-4.0](https://creativecommons.org/"
 "licenses/by-sa/4.0/deed.de).)](images/sec2_blauer-engel-logo.png)"
 
-#: content/be4foss-handbook/handbook_web.md:210
+#: content/be4foss-handbook/handbook_web.md:209
 msgid ""
 "The Blue Angel was not the first Type I ecolabel for software&mdash;the Hong "
 "Kong Green Council, also a member of the Global Ecolabelling Network, "
@@ -1767,7 +1763,7 @@ msgstr ""
 "вимірювання енергоспоживання програмним забезпеченням та вказують способи, "
 "якими незалежність користувача зменшує шкоду для навколишнього середовища."
 
-#: content/be4foss-handbook/handbook_web.md:212
+#: content/be4foss-handbook/handbook_web.md:211
 msgid ""
 "You may be wondering: *What is a Type I environmental label?* For these "
 "ecolabels, the entire life cycle of the product is taken into account. "
@@ -1781,7 +1777,7 @@ msgstr ""
 "(Відповідність екологічному маркуванню типу II, для порівняння, є "
 "самодекларованою та не потребує жодного стороннього аудиту.)"
 
-#: content/be4foss-handbook/handbook_web.md:214
+#: content/be4foss-handbook/handbook_web.md:213
 msgid ""
 "The Blue Angel ecolabel has been awarded to around 100 product groups and "
 "services across a variety of sectors, including paper and construction "
@@ -1800,7 +1796,7 @@ msgstr ""
 "Okular від KDE, цей список також включає програмне забезпечення для робочих "
 "станцій."
 
-#: content/be4foss-handbook/handbook_web.md:216
+#: content/be4foss-handbook/handbook_web.md:215
 msgid ""
 "The award criteria for certification are developed transparently by the "
 "German Environment Agency. The process includes the Environmental Label "
@@ -1825,11 +1821,11 @@ msgstr ""
 "необхідно*». Замість порівняння різних продуктів, екомаркування «Blue Angel» "
 "вказує на те, що продукт відповідає переліку вимог для певної категорії."
 
-#: content/be4foss-handbook/handbook_web.md:218
+#: content/be4foss-handbook/handbook_web.md:217
 msgid "The ABCs Of The Award Criteria"
 msgstr "Абетка критеріїв надання"
 
-#: content/be4foss-handbook/handbook_web.md:220
+#: content/be4foss-handbook/handbook_web.md:219
 msgid ""
 "The Blue Angel’s award criteria for [“Resource and Energy-Efficient Software "
 "Products”](https://www.blauer-engel.de/en/products/electric-devices/"
@@ -1856,7 +1852,7 @@ msgstr ""
 "нагородження: (A) Ресурсо- та енергоефективність, (B) Потенційний термін "
 "служби апаратного забезпечення, (C) Автономія користувача."
 
-#: content/be4foss-handbook/handbook_web.md:222
+#: content/be4foss-handbook/handbook_web.md:221
 msgid ""
 "![The ABCs of the award criteria. (Image from KDE published under a [CC-BY-"
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. [Time](https://"
@@ -1870,7 +1866,7 @@ msgstr ""
 "Коке, ліцензована за [CC-BY](https://spdx.org/licenses/CC-BY-3.0.html). "
 "Дизайн Лани Лутц.)](images/sec2_ABC-BE.png)"
 
-#: content/be4foss-handbook/handbook_web.md:224
+#: content/be4foss-handbook/handbook_web.md:223
 msgid ""
 "The criteria in category (A) requires that the energy consumption of a "
 "software product be measured and reported, and states that the energy "
@@ -1889,7 +1885,7 @@ msgstr ""
 "програмного забезпечення у репрезентативний спосіб. Ми повернемося до цього "
 "у ЧАСТИНІ III."
 
-#: content/be4foss-handbook/handbook_web.md:226
+#: content/be4foss-handbook/handbook_web.md:225
 msgid ""
 "The criteria in category (B) ensure that the software has low-enough "
 "performance requirements to run on older, less powerful hardware at least "
@@ -1903,7 +1899,7 @@ msgstr ""
 "зворотної сумісності з детальною інформацією про обладнання, на якому працює "
 "програмне забезпечення, та необхідний програмний стек."
 
-#: content/be4foss-handbook/handbook_web.md:228
+#: content/be4foss-handbook/handbook_web.md:227
 msgid ""
 "Finally, the criteria in category (C) ensure that users have an influence on "
 "the energy consumption and resource-conserving use of their software. There "
@@ -1913,11 +1909,11 @@ msgstr ""
 "споживання енергії та використання свого програмного забезпечення зі "
 "заощадженням енергії. Існує вісім категорій критеріїв автономності."
 
-#: content/be4foss-handbook/handbook_web.md:230
+#: content/be4foss-handbook/handbook_web.md:229
 msgid "Data Formats &mdash; *Interoperability To Give Users Choice*"
 msgstr "Формати даних – *Сумісність, що надає користувачам вибір*"
 
-#: content/be4foss-handbook/handbook_web.md:232
+#: content/be4foss-handbook/handbook_web.md:231
 msgid ""
 "Data formats should not be used by vendors to [lock users into](https://en."
 "wikipedia.org/wiki/Vendor_lock-in) using a specific computer program, nor "
@@ -1938,12 +1934,12 @@ msgstr ""
 "повинні мати можливість легко змінювати програми і при цьому отримувати "
 "доступ до всіх своїх даних."
 
-#: content/be4foss-handbook/handbook_web.md:234
+#: content/be4foss-handbook/handbook_web.md:233
 msgid "Transparency &mdash; *Removing User Dependencies For Long-Term Use*"
 msgstr ""
 "Прозорість – *Усування залежності користувача для тривалого користування*"
 
-#: content/be4foss-handbook/handbook_web.md:236
+#: content/be4foss-handbook/handbook_web.md:235
 msgid ""
 "Transparency in software code and application interfaces means removing any "
 "dependencies on a particular company or organization. It also means removing "
@@ -1966,13 +1962,13 @@ msgstr ""
 "програмного забезпечення не повинно обмежуватися обмежувальними або "
 "недокументованими програмними інтерфейсами (API)."
 
-#: content/be4foss-handbook/handbook_web.md:238
+#: content/be4foss-handbook/handbook_web.md:237
 msgid "Continuity Of Support &mdash; *Security Updates To Prevent E-Waste*"
 msgstr ""
 "Неперервна підтримка – *Оновлення захисту для запобігання появі електронних "
 "відходів*"
 
-#: content/be4foss-handbook/handbook_web.md:240
+#: content/be4foss-handbook/handbook_web.md:239
 msgid ""
 "Depending on suppliers for essential updates should not result in abandoned "
 "software products that cannot be used without presenting serious "
@@ -2001,14 +1997,14 @@ msgstr ""
 "обладнання непридатним для використання та створюють непотрібні електронні "
 "відходи."
 
-#: content/be4foss-handbook/handbook_web.md:242
+#: content/be4foss-handbook/handbook_web.md:241
 msgid ""
 "Uninstallability &mdash; *Removing Unwanted Software To Increase Efficiency*"
 msgstr ""
 "Можливість вилучення – *Вилучення небажаного програмного забезпечення для "
 "збільшення ефективності*"
 
-#: content/be4foss-handbook/handbook_web.md:244
+#: content/be4foss-handbook/handbook_web.md:243
 msgid ""
 "Being able to completely uninstall software that is not needed has "
 "ecological benefits. Software bloat, feature creep, and unwanted software "
@@ -2027,7 +2023,7 @@ msgstr ""
 "бажає продовжувати використовувати комп'ютерну програму, має бути можливість "
 "повністю витерти її з системи, зберігаючи всі дані, створені користувачем."
 
-#: content/be4foss-handbook/handbook_web.md:246
+#: content/be4foss-handbook/handbook_web.md:245
 msgid ""
 "Offline Capability &mdash; *To Avoid Dependencies And Decrease Energy "
 "Consumption*"
@@ -2035,7 +2031,7 @@ msgstr ""
 "Можливість автономної роботи — *щоб уникнути залежностей та зменшити "
 "споживання енергії*"
 
-#: content/be4foss-handbook/handbook_web.md:248
+#: content/be4foss-handbook/handbook_web.md:247
 msgid ""
 "Use of the software should be possible without an internet connection&mdash;"
 "unless, of course, a network connection is necessary for the software’s "
@@ -2060,11 +2056,11 @@ msgstr ""
 "трафіку і, таким чином, споживають енергію понад ту, що потрібна для "
 "передбачуваного призначення програмного забезпечення."
 
-#: content/be4foss-handbook/handbook_web.md:250
+#: content/be4foss-handbook/handbook_web.md:249
 msgid "Modularity &mdash; *To Decrease Memory And Energy Demands*"
 msgstr "Модулярність – *Для зменшення вимог до пам'яті та енергоспоживання*"
 
-#: content/be4foss-handbook/handbook_web.md:252
+#: content/be4foss-handbook/handbook_web.md:251
 msgid ""
 "Users should be able to install only what they need. Non-essential functions "
 "increase memory and energy demands, making the software less efficient and "
@@ -2078,12 +2074,12 @@ msgstr ""
 "старому обладнанні. Люди повинні мати можливість обмежувати діапазон функцій "
 "програмного забезпечення тими, які вони хочуть або потребують."
 
-#: content/be4foss-handbook/handbook_web.md:254
+#: content/be4foss-handbook/handbook_web.md:253
 msgid ""
 "Freedom From Advertising &mdash; *Opting-Out To Reduce Energy Consumption*"
 msgstr "Свобода від реклами – *Відмова для зменшення споживання енергії*"
 
-#: content/be4foss-handbook/handbook_web.md:256
+#: content/be4foss-handbook/handbook_web.md:255
 msgid ""
 "Unwanted data use in the European Union alone is roughly equivalent to the "
 "annual energy consumption of a city like Lisbon or Turin; see PART I. "
@@ -2100,7 +2096,7 @@ msgstr ""
 "переданих даних і, таким чином, зменшує споживання енергії для обміну даними "
 "мережею."
 
-#: content/be4foss-handbook/handbook_web.md:258
+#: content/be4foss-handbook/handbook_web.md:257
 msgid ""
 "Documentation &mdash; *To Support Resource-Conserving, Continuous Use Of "
 "Software … And Therefore Hardware*"
@@ -2108,7 +2104,7 @@ msgstr ""
 "Документування – *Для підтримки заощадження ресурсів, неперервного "
 "використання програмного забезпечення… а отже, обладнання*"
 
-#: content/be4foss-handbook/handbook_web.md:260
+#: content/be4foss-handbook/handbook_web.md:259
 msgid ""
 "Documentation is a prerequisite for the long-term viability of a software "
 "product. Documentation must also demonstrate the software’s capacity for "
@@ -2125,7 +2121,7 @@ msgstr ""
 "як розробники можуть підтримувати програмне забезпечення без залежностей або "
 "обмежень, що накладаються постачальниками."
 
-#: content/be4foss-handbook/handbook_web.md:262
+#: content/be4foss-handbook/handbook_web.md:261
 msgid ""
 "Software design that complies with the award criteria is less likely to "
 "suffer from various forms of inefficiencies. This in turn can help mitigate "
@@ -2150,7 +2146,7 @@ msgstr ""
 "– чи то шляхом тривалішого використання пристроїв, чи то шляхом зменшення "
 "споживання енергії та ресурсів програмним забезпеченням під час використання."
 
-#: content/be4foss-handbook/handbook_web.md:264
+#: content/be4foss-handbook/handbook_web.md:263
 msgid ""
 "With its focus on transparency in resource and energy-efficiency, hardware "
 "operating life, and user autonomy, the Blue Angel award criteria for "
@@ -2172,11 +2168,11 @@ msgstr ""
 "багатьох сенсах ми вже перебуваємо на передовій сталого розробки програмного "
 "забезпечення!"
 
-#: content/be4foss-handbook/handbook_web.md:266
+#: content/be4foss-handbook/handbook_web.md:265
 msgid "Okular, The First Eco-Certified Computer Program"
 msgstr "Okular, перша екосертифікована комп'ютерна програма"
 
-#: content/be4foss-handbook/handbook_web.md:268
+#: content/be4foss-handbook/handbook_web.md:267
 msgid ""
 "![Okular’s energy consumption report from OSCAR (**O**pen source "
 "**S**oftware **C**onsumption **A**nalysis in **R**).](images/sec2_okular-"
@@ -2186,7 +2182,7 @@ msgstr ""
 "**S**oftware **C**onsumption **A**nalysis in **R**).](images/sec2_okular-"
 "energy-consumption.png)"
 
-#: content/be4foss-handbook/handbook_web.md:270
+#: content/be4foss-handbook/handbook_web.md:269
 msgid ""
 "In 2022 [Okular](https://okular.kde.org/), KDE’s popular multi-platform PDF "
 "reader and universal document viewer, was the first software product to be "
@@ -2201,7 +2197,7 @@ msgstr ""
 "є першою екологічно сертифікованою комп’ютерною програмою в рамках "
 "Глобальної мережі екологічного маркування."
 
-#: content/be4foss-handbook/handbook_web.md:272
+#: content/be4foss-handbook/handbook_web.md:271
 msgid ""
 "Okular is just one software product maintained by KDE, a world-wide "
 "community of software engineers, artists, writers, translators, and creators "
@@ -2222,7 +2218,7 @@ msgstr ""
 "ж, Okular, програму для перегляду PDF-файлів, коміксів, наукових та "
 "академічних робіт, а також технічних креслень."
 
-#: content/be4foss-handbook/handbook_web.md:274
+#: content/be4foss-handbook/handbook_web.md:273
 msgid ""
 "With KDE’s long-standing mission and guiding vision since its founding in "
 "1996, as well as the talent and capabilities of its community members, KDE "
@@ -2251,7 +2247,7 @@ msgstr ""
 "включені до критеріїв сталого розвитку, встановлених Німецькою агенцією з "
 "охорони навколишнього середовища через екомаркування Blue Angel."
 
-#: content/be4foss-handbook/handbook_web.md:276
+#: content/be4foss-handbook/handbook_web.md:275
 msgid ""
 "![Logo of the KDE Eco initiative. (Image from KDE published under a [CC-BY-"
 "SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html) license. Design by Lana "
@@ -2261,7 +2257,7 @@ msgstr ""
 "дотримання [CC-BY-SA-4.0](https://spdx.org/licenses/CC-BY-SA-4.0.html). "
 "Дизайн Лани Лутц.)](images/sec2_kde-eco-logo-domain.png)"
 
-#: content/be4foss-handbook/handbook_web.md:278
+#: content/be4foss-handbook/handbook_web.md:277
 msgid ""
 "With the first ever eco-certified software product, the KDE community "
 "[celebrated the achievement](https://eco.kde.org/blog/2022-09-28_okular_blue-"
@@ -2287,7 +2283,7 @@ msgstr ""
 "дослідники вимірювали споживання ресурсів та енергії Okular та іншого "
 "програмного забезпечення KDE."
 
-#: content/be4foss-handbook/handbook_web.md:280
+#: content/be4foss-handbook/handbook_web.md:279
 msgid ""
 "The Blue Angel award criteria reflect KDE’s values and those of the larger "
 "FOSS movement seamlessly. Free & Open Source Software guarantees "
@@ -2324,7 +2320,7 @@ msgstr ""
 "спільноти можуть впливати на фактори, які визначають споживання ресурсів "
 "їхнім програмним забезпеченням!"
 
-#: content/be4foss-handbook/handbook_web.md:282
+#: content/be4foss-handbook/handbook_web.md:281
 msgid ""
 "Released under the GPLv2+ license, Okular is FOSS and therefore already "
 "fulfilling many of the user autonomy criteria necessary to obtain the Blue "
@@ -2343,12 +2339,12 @@ msgstr ""
 "також передбачено підтримку можливості подовження терміну експлуатації "
 "апаратного забезпечення пристроїв."
 
-#: content/be4foss-handbook/handbook_web.md:284
+#: content/be4foss-handbook/handbook_web.md:283
 msgid "![Icon for KDE’s popular application Okular.](images/sec2_okular.png)"
 msgstr ""
 "![Піктограма для популярної програми KDE Okular.](images/sec2_okular.png)"
 
-#: content/be4foss-handbook/handbook_web.md:286
+#: content/be4foss-handbook/handbook_web.md:285
 msgid ""
 "Okular lets you check digital signatures and sign documents yourself, as "
 "well as include annotated text and comments directly embedded into the "
@@ -2369,7 +2365,7 @@ msgstr ""
 "GitLab](https://invent.kde.org/graphics/okular) для використання, вивчення, "
 "обміну, вдосконалення та, найголовніше, насолоди."
 
-#: content/be4foss-handbook/handbook_web.md:288
+#: content/be4foss-handbook/handbook_web.md:287
 #: content/blog/2022-03-16-press-release-okular-blue-angel.md:36
 msgid ""
 "KDE and the Free Software community would like to send a heartfelt thank you "
@@ -2380,7 +2376,7 @@ msgstr ""
 "Okular за створення дружнього до середовища програмного забезпечення для "
 "усіх нас!"
 
-#: content/be4foss-handbook/handbook_web.md:290
+#: content/be4foss-handbook/handbook_web.md:289
 msgid ""
 "In PART III of this handbook, we will look at the steps you need to complete "
 "to join us in having your Free Software project also recognized for its "
@@ -2392,11 +2388,11 @@ msgstr ""
 "екологічно сталий дизайн. Але спершу з’ясуймо: які саме переваги дає "
 "отримання екомаркування «Blue Angel»?"
 
-#: content/be4foss-handbook/handbook_web.md:292
+#: content/be4foss-handbook/handbook_web.md:291
 msgid "Benefits Of Blue Angel"
 msgstr "Переваги «Blue Angel»"
 
-#: content/be4foss-handbook/handbook_web.md:294
+#: content/be4foss-handbook/handbook_web.md:293
 msgid ""
 "Steffi Lemke, Federal Minister for the Environment, Nature Conservation, "
 "Nuclear Safety and Consumer Protection (BMUV), has said this [about the "
@@ -2408,7 +2404,7 @@ msgstr ""
 "екомаркування «Blue Angel»](https://www.blauer-engel.de/en/blue-angel/our-"
 "label-environment):"
 
-#: content/be4foss-handbook/handbook_web.md:296
+#: content/be4foss-handbook/handbook_web.md:295
 msgid ""
 "An increasing number of people focus on durability and environmental "
 "friendliness when purchasing products. This is precisely what the Blue Angel "
@@ -2421,7 +2417,7 @@ msgstr ""
 "Упродовж 40 років цей знак слугує незалежною та авторитетною гарантією "
 "дотримання високих стандартів захисту довкілля та охорони здоров'я."
 
-#: content/be4foss-handbook/handbook_web.md:298
+#: content/be4foss-handbook/handbook_web.md:297
 msgid ""
 "Indeed, in their 40<sup>th</sup> anniversary info-booklet [“*Blue Angel "
 "&ndash; 40 years. Good for me. Good for the environment*”](https://www."
@@ -2439,26 +2435,26 @@ msgstr ""
 "екопозначки. У виданні також визначено деякі загальні критерії, що "
 "враховуються під час екосертифікації продукції, зокрема:"
 
-#: content/be4foss-handbook/handbook_web.md:300
+#: content/be4foss-handbook/handbook_web.md:299
 msgid ""
 "reduced emissions of harmful substances in the ground, air, water and "
 "indoors;"
 msgstr ""
 "зменшення викидів шкідливих речовин у ґрунт, повітря, воду та приміщення;"
 
-#: content/be4foss-handbook/handbook_web.md:302
+#: content/be4foss-handbook/handbook_web.md:301
 msgid "sustainable production of resources;"
 msgstr "стале виробництво ресурсів;"
 
-#: content/be4foss-handbook/handbook_web.md:304
+#: content/be4foss-handbook/handbook_web.md:303
 msgid "longevity, ability to repair and recycle the product; and"
 msgstr "довговічність, можливість ремонту та переробки виробу; та"
 
-#: content/be4foss-handbook/handbook_web.md:306
+#: content/be4foss-handbook/handbook_web.md:305
 msgid "efficient use, e.g. products which save energy."
 msgstr "ефективне використання, наприклад, енергоощадні вироби."
 
-#: content/be4foss-handbook/handbook_web.md:308
+#: content/be4foss-handbook/handbook_web.md:307
 msgid ""
 "As you reach the end of this section, we hope it is clear how compliance "
 "with the Blue Angel award criteria for desktop software promotes the above "
@@ -2469,7 +2465,7 @@ msgstr ""
 "робочих станцій сприяє досягненню згаданих вище екологічних переваг (серед "
 "інших)."
 
-#: content/be4foss-handbook/handbook_web.md:310
+#: content/be4foss-handbook/handbook_web.md:309
 msgid ""
 "Environmental labels can be an instrument to move markets in the direction "
 "of sustainable products. As the Blue Angel website states: “The aim of the "
@@ -2483,11 +2479,11 @@ msgstr ""
 "покупцям, великим інституційним споживачам та державним установам надійні "
 "орієнтири для здійснення екологічно свідомих закупівель»."
 
-#: content/be4foss-handbook/handbook_web.md:312
+#: content/be4foss-handbook/handbook_web.md:311
 msgid "So what does the market say?"
 msgstr "А що говорить ринок?"
 
-#: content/be4foss-handbook/handbook_web.md:314
+#: content/be4foss-handbook/handbook_web.md:313
 msgid ""
 "A survey from the info-booklet found that 92% of Germans recognize the "
 "ecolabel, and for 37% the label influences their purchasing choices. The "
@@ -2509,7 +2505,7 @@ msgstr ""
 "орієнтир для розвитку ринку ЄС і навіть іноді слугують основою для "
 "вдосконалення продукції."
 
-#: content/be4foss-handbook/handbook_web.md:316
+#: content/be4foss-handbook/handbook_web.md:315
 msgid ""
 "Receiving the Blue Angel seal can raise your product’s profile not only "
 "among individuals, but also among large organizations. [Green Public "
@@ -2535,7 +2531,7 @@ msgstr ""
 "цифрової сталості та забезпечує вашому продукту впізнаваність як у "
 "Німеччині, так і за її межами."
 
-#: content/be4foss-handbook/handbook_web.md:320
+#: content/be4foss-handbook/handbook_web.md:319
 msgid ""
 "Some material in this section is based directly on text from two Wikipedia "
 "articles: (i) [“*Blue Angel (certification)*”](https://en.wikipedia.org/wiki/"
@@ -2562,7 +2558,7 @@ msgstr ""
 "ShareAlike 4.0 International License](https://spdx.org/licenses/CC-BY-SA-4.0."
 "html)."
 
-#: content/be4foss-handbook/handbook_web.md:325
+#: content/be4foss-handbook/handbook_web.md:324
 msgid ""
 "![Monitoring energy and hardware consumption in real time with KDE’s "
 "`LabPlot`. (Image from Alexander Semke published under a [CC-BY-NC-ND-4.0]"
@@ -2575,7 +2571,7 @@ msgstr ""
 "creativecommons.org/licenses/by-nc-nd/4.0/).)](images/sec3_labplot_live-"
 "measurement.png)"
 
-#: content/be4foss-handbook/handbook_web.md:327
+#: content/be4foss-handbook/handbook_web.md:326
 msgid ""
 "The three main categories of the Blue Angel award criteria for desktop "
 "software are:"
@@ -2583,20 +2579,20 @@ msgstr ""
 "Три основні категорії критеріїв нагородження знаком «Blue Angel» для "
 "програмного забезпечення для робочих станцій — це:"
 
-#: content/be4foss-handbook/handbook_web.md:329
+#: content/be4foss-handbook/handbook_web.md:328
 msgid "(A) Resource & Energy Efficiency"
 msgstr "(А) Ресурсо- та енергоефективність"
 
-#: content/be4foss-handbook/handbook_web.md:331
+#: content/be4foss-handbook/handbook_web.md:330
 msgid "(B) Potential Hardware Operating Life"
 msgstr "(Б) Потенційне розширення експлуатаційного ресурсу обладнання"
 
-#: content/be4foss-handbook/handbook_web.md:333
-#: content/be4foss-handbook/handbook_web.md:1046
+#: content/be4foss-handbook/handbook_web.md:332
+#: content/be4foss-handbook/handbook_web.md:1045
 msgid "(C) User Autonomy"
 msgstr "(В) Автономність користувача"
 
-#: content/be4foss-handbook/handbook_web.md:335
+#: content/be4foss-handbook/handbook_web.md:334
 msgid ""
 "In this section we’ll provide a hands-on guide to fulfilling each set of "
 "criteria. There are numerous benefits of meeting the basic award criteria. "
@@ -2610,7 +2606,7 @@ msgstr ""
 "забезпечення та дотримуючись вимог щодо терміну служби обладнання і "
 "автономності користувача, ви отримуєте такі переваги:"
 
-#: content/be4foss-handbook/handbook_web.md:337
+#: content/be4foss-handbook/handbook_web.md:336
 msgid ""
 "**Eco-Certification**: Apply for the Blue Angel ecolabel to demonstrate to "
 "users, companies, and governmental organizations that your software is "
@@ -2620,7 +2616,7 @@ msgstr ""
 "щоб продемонструвати користувачам, компаніям і державним установам, що ваше "
 "програмне забезпечення розроблено з урахуванням принципів сталого розвитку."
 
-#: content/be4foss-handbook/handbook_web.md:339
+#: content/be4foss-handbook/handbook_web.md:338
 msgid ""
 "**Data-Driven Development**: Locate inefficiencies in terms of energy and "
 "hardware consumption, and make data-driven decisions for your software "
@@ -2630,20 +2626,20 @@ msgstr ""
 "та апаратних ресурсів і приймайте обґрунтовані рішення в процесі розробки "
 "програмного забезпечення."
 
-#: content/be4foss-handbook/handbook_web.md:341
+#: content/be4foss-handbook/handbook_web.md:340
 msgid ""
 "**Sustainable Design**: For the long-term sustainable use of software, and "
 "thus hardware, take the user autonomy criteria into consideration when "
 "planning your software design."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:343
+#: content/be4foss-handbook/handbook_web.md:342
 msgid ""
 "**End-User Information**: Highlight to your users the ways your software is "
 "already sustainably designed by using the Blue Angel criteria as a benchmark."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:345
+#: content/be4foss-handbook/handbook_web.md:344
 msgid ""
 "![The three steps to eco-certification: 1. Measure, 2. Analyze, 3. Certify. "
 "(Image from KDE published under a [CC BY-SA 4.0 International](https://"
@@ -2653,11 +2649,11 @@ msgid ""
 "Design by Lana Lutz.)](images/sec3_3StepsToBEECO.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:347
+#: content/be4foss-handbook/handbook_web.md:346
 msgid "(A) How To Measure Your Software"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:349
+#: content/be4foss-handbook/handbook_web.md:348
 msgid ""
 "The laboratory setup consists of a power meter, a computer to aggregate and "
 "evaluate the power meter output, and a desktop computer for the system under "
@@ -2667,18 +2663,18 @@ msgid ""
 "productworld/resources-and-energy-efficient-software-products)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:351
+#: content/be4foss-handbook/handbook_web.md:350
 msgid ""
 "Terminology comes in part from Kern et al. (2018): [“*Sustainable software "
 "products &mdash; Towards assessment criteria for resource and energy "
 "efficiency*”](https://doi.org/10.1016/j.future.2018.02.044)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:353
+#: content/be4foss-handbook/handbook_web.md:352
 msgid "See also the following resources from the Umwelt Campus Birkenfeld:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:355
+#: content/be4foss-handbook/handbook_web.md:354
 msgid ""
 "Seiwert & Zaczyk (2021): [“*Projektbericht: Ressourceneffiziente "
 "Softwaresysteme am Beispiel von KDE-Software*”](https://invent.kde.org/"
@@ -2690,7 +2686,7 @@ msgstr ""
 "cschumac/feep/-/blob/master/measurements/abschlussbericht-kmail-krita.pdf) "
 "(німецькою)"
 
-#: content/be4foss-handbook/handbook_web.md:357
+#: content/be4foss-handbook/handbook_web.md:356
 msgid ""
 "Mai (2021): “*Vergleichende Analyse und Bewertung von Betriebssystemen "
 "hinsichtlich ihrer Energieeffizienz*” (German only)"
@@ -2698,7 +2694,7 @@ msgstr ""
 "Mai (2021): “*Vergleichende Analyse und Bewertung von Betriebssystemen "
 "hinsichtlich ihrer Energieeffizienz*” (німецькою)"
 
-#: content/be4foss-handbook/handbook_web.md:359
+#: content/be4foss-handbook/handbook_web.md:358
 msgid ""
 "[“*OSCAR Manual*”](https://gitlab.umwelt-campus.de/y.becker/oscar-public/"
 "blob/master/OSCAR/static/OSCAR_Gesamt.pdf) (German only)"
@@ -2706,19 +2702,19 @@ msgstr ""
 "[“*Підручник з OSCAR*”](https://gitlab.umwelt-campus.de/y.becker/oscar-"
 "public/blob/master/OSCAR/static/OSCAR_Gesamt.pdf) (німецькою)"
 
-#: content/be4foss-handbook/handbook_web.md:361
+#: content/be4foss-handbook/handbook_web.md:360
 msgid "Overview Of Laboratory Setup"
 msgstr "Огляд параметрів лабораторії"
 
-#: content/be4foss-handbook/handbook_web.md:363
+#: content/be4foss-handbook/handbook_web.md:362
 msgid "The laboratory setup requires 1 power meter and at least 2 computers:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:365
+#: content/be4foss-handbook/handbook_web.md:364
 msgid "*Power Meter*"
 msgstr "*Вимірювання потужності*"
 
-#: content/be4foss-handbook/handbook_web.md:367
+#: content/be4foss-handbook/handbook_web.md:366
 msgid ""
 "One of the devices recommended by the Blue Angel is the [Gude Expert Power "
 "Control 1202 Series](https://www.gude.info/en/power-distribution/switched-"
@@ -2731,24 +2727,24 @@ msgid ""
 "or syslog."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:369
+#: content/be4foss-handbook/handbook_web.md:368
 msgid "*Computer 1: Data Aggregator & Evaluator*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:371
+#: content/be4foss-handbook/handbook_web.md:370
 msgid ""
 "The computer will be used for collecting and evaluating results from the "
 "power meter."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:373
+#: content/be4foss-handbook/handbook_web.md:372
 msgid ""
 "A Python script to read out the data from the Gude Expert Power Control 1202 "
 "Series is available at the [FEEP repository](https://invent.kde.org/teams/"
 "eco/feep/-/tree/master/tools/GUDEPowerMeter)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:375
+#: content/be4foss-handbook/handbook_web.md:374
 msgid ""
 "It is recommended to monitor progress live with the second computer in order "
 "to ensure everything is proceeding smoothly. This can be done with KDE’s "
@@ -2756,22 +2752,22 @@ msgid ""
 "(#sec:labplot)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:377
+#: content/be4foss-handbook/handbook_web.md:376
 msgid ""
 "Other power meters may require non-Free software, e.g., Janitza’s [GridVis "
 "Power Grid Monitoring Software](https://www.gridvis.com/gridvis-overview."
 "html)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:379
+#: content/be4foss-handbook/handbook_web.md:378
 msgid "![Screenshot of the Gude Power Meter.](images/sec3_gude-pm.jpg)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:381
+#: content/be4foss-handbook/handbook_web.md:380
 msgid "*Computer 2: System Under Test*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:383
+#: content/be4foss-handbook/handbook_web.md:382
 msgid ""
 "The reference system is the hardware used to measure the energy consumption "
 "of the “system under test”, or SUT. The SUT includes the operating system "
@@ -2780,7 +2776,7 @@ msgid ""
 "performance results."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:385
+#: content/be4foss-handbook/handbook_web.md:384
 msgid ""
 "[^2]: It is possible to have a setup using 3 computers, with the Standard "
 "Usage Scenario emulation generated on a computer independent of the SUT; see "
@@ -2789,18 +2785,18 @@ msgid ""
 "eco/feep/-/tree/master/tools/arduino-board_external-workload-generator.md)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:387
+#: content/be4foss-handbook/handbook_web.md:386
 msgid "Note the following:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:389
+#: content/be4foss-handbook/handbook_web.md:388
 msgid ""
 "For GNU/Linux systems, the [Blue Angel criteria (Section 1.1)](https://www."
 "blauer-engel.de/en/productworld/resources-and-energy-efficient-software-"
 "products) require one of several Fujitsu computers as the reference system."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:391
+#: content/be4foss-handbook/handbook_web.md:390
 msgid ""
 "For emulating activity in the standard usage scenario, Free Software task "
 "automation tools such as [`xdotool`](https://github.com/jordansissel/"
@@ -2809,7 +2805,7 @@ msgid ""
 "tools/doku.php?id=en:start) (GPLv3) can be used."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:393
+#: content/be4foss-handbook/handbook_web.md:392
 msgid ""
 "For collecting hardware performance data (e.g., processor and RAM "
 "utilization, hard disk activity, network traffic), the Free Software tool "
@@ -2817,7 +2813,7 @@ msgid ""
 "License) is available."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:395
+#: content/be4foss-handbook/handbook_web.md:394
 msgid ""
 "It’s also possible to [repurpose cheap switchable power plugs as measurement "
 "devices](https://volkerkrause.eu/2020/10/17/kde-cheap-power-measurement-"
@@ -2825,7 +2821,7 @@ msgid ""
 "for set up instructions."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:397
+#: content/be4foss-handbook/handbook_web.md:396
 msgid ""
 "![Overview of laboratory setup: System Under Test (SUT), Power Meter (PM), "
 "and Data Aggregator and Evaluator (DAE). (Image from KDE published under a "
@@ -2833,11 +2829,11 @@ msgid ""
 "by Lana Lutz.)](images/sec3_lab-setup_modified.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:399
+#: content/be4foss-handbook/handbook_web.md:398
 msgid "System Under Test (SUT)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:401
+#: content/be4foss-handbook/handbook_web.md:400
 msgid ""
 "For instance, the Fujitsu Esprimo P920 Desktop-PC proGreen selection (Intel "
 "Core i5-4570 3,6GHz, 4GB RAM, 500GB HDD) is one of the recommended reference "
@@ -2845,7 +2841,7 @@ msgid ""
 "systems."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:403
+#: content/be4foss-handbook/handbook_web.md:402
 msgid ""
 "On the reference system you need to set up the SUT, i.e., the system on "
 "which you will test the software. The SUT must reduce unrelated energy "
@@ -2853,66 +2849,66 @@ msgid ""
 "following:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:405
+#: content/be4foss-handbook/handbook_web.md:404
 msgid "Overwrite the entire hard drive of the machine with a standardized OS."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:407
+#: content/be4foss-handbook/handbook_web.md:406
 msgid ""
 "Deactivate all possible background processes (automatic updates, backups, "
 "indexing, etc.)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:409
+#: content/be4foss-handbook/handbook_web.md:408
 msgid ""
 "Install the necessary software, i.e., the application to be measured as well "
 "as the user emulation (e.g., `xdotool`) and hardware performance data (e.g., "
 "`Collectl`) software."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:411
+#: content/be4foss-handbook/handbook_web.md:410
 msgid ""
 "When running the usage scenario scripts, the cache should be cleared between "
 "runs and any new files deleted before starting the next measurement."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:413
+#: content/be4foss-handbook/handbook_web.md:412
 msgid "Preparing The Standard Usage Scenario (SUS)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:415
+#: content/be4foss-handbook/handbook_web.md:414
 msgid "Preparing the SUS requires the following:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:417
+#: content/be4foss-handbook/handbook_web.md:416
 msgid ""
 "Identifying tasks users typically carry out when using the application under "
 "consideration."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:419
+#: content/be4foss-handbook/handbook_web.md:418
 msgid ""
 "Identifying functionalities which require high energy demand or high "
 "resource utilization."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:421
+#: content/be4foss-handbook/handbook_web.md:420
 msgid ""
 "Based on the above, scheduling a flow chart of individual actions and "
 "emulating these actions with a task automation tool."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:423
+#: content/be4foss-handbook/handbook_web.md:422
 msgid ""
 "Scheduling a wait-period of 60 seconds before starting the measurement is "
 "recommended."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:425
+#: content/be4foss-handbook/handbook_web.md:424
 msgid "Running the SUS for at least 5 minutes."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:427
+#: content/be4foss-handbook/handbook_web.md:426
 msgid ""
 "![Steps for preparing Standard Usage Scenario (SUS) scripts to measure the "
 "energy consumption of software. (Image from KDE published under a [CC-BY-"
@@ -2920,14 +2916,14 @@ msgid ""
 "Lutz.)](images/sec3_PreparingSUS.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:429
+#: content/be4foss-handbook/handbook_web.md:428
 msgid ""
 "An automation tool is needed to run the usage scenarios so as not to require "
 "human intervention. In this way the script can be run repeatedly in a well-"
 "defined manner to provide accurate measurements."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:431
+#: content/be4foss-handbook/handbook_web.md:430
 msgid ""
 "Example tasks and functions tested in the SUS for KDE’s email client "
 "[`KMail`](https://apps.kde.org/kmail2/) include searching for an email, "
@@ -2937,7 +2933,7 @@ msgid ""
 "for further examples."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:433
+#: content/be4foss-handbook/handbook_web.md:432
 msgid ""
 "Important: If the emulation tool uses pixel coordinates to store the "
 "position of the automated clicks (e.g., `Actiona`) and, moreover, the screen "
@@ -2946,11 +2942,11 @@ msgid ""
 "laboratory environment."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:435
+#: content/be4foss-handbook/handbook_web.md:434
 msgid "More Emulation Tools"
 msgstr "Додаткові інструменти імітації"
 
-#: content/be4foss-handbook/handbook_web.md:437
+#: content/be4foss-handbook/handbook_web.md:436
 msgid ""
 "Beyond [`xdotool`](https://github.com/jordansissel/xdotool), [`KDE Eco "
 "Tester` (in progress)](https://invent.kde.org/teams/eco/feep/-/tree/master/"
@@ -2963,44 +2959,44 @@ msgid ""
 "few possible approaches here:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:439
+#: content/be4foss-handbook/handbook_web.md:438
 msgid ""
 "[Selenium Webdriver using AT-SPI](https://invent.kde.org/sdk/selenium-"
 "webdriver-at-spi) (currently in testing for [Season of KDE 2023](https://dot."
 "kde.org/2023/01/23/season-kde-2023-mentees-and-projects))"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:441
+#: content/be4foss-handbook/handbook_web.md:440
 msgid ""
 "[The XDG RemoteDesktop portal](https://docs.flatpak.org/en/latest/portal-api-"
 "reference.html#gdbus-org.freedesktop.portal.RemoteDesktop)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:443
+#: content/be4foss-handbook/handbook_web.md:442
 msgid "Various Wayland protocols (support varies between compositors):"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:444
+#: content/be4foss-handbook/handbook_web.md:443
 msgid ""
 "<https://github.com/swaywm/wlr-protocols/blob/master/unstable/wlr-virtual-"
 "pointer-unstable-v1.xml>"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:445
+#: content/be4foss-handbook/handbook_web.md:444
 msgid ""
 "<https://api.kde.org/frameworks/kwayland/html/"
 "classKWayland_1_1Client_1_1FakeInput.html>"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:447
+#: content/be4foss-handbook/handbook_web.md:446
 msgid "[libinput user devices](https://lwn.net/Articles/801767/)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:449
+#: content/be4foss-handbook/handbook_web.md:448
 msgid "Measurement Process"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:451
+#: content/be4foss-handbook/handbook_web.md:450
 msgid ""
 "The measurement process is defined in Appendix A of the [Basic Award "
 "Criteria](https://www.blauer-engel.de/en/productworld/resources-and-energy-"
@@ -3009,41 +3005,41 @@ msgid ""
 "be processed and average values can be calculated."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:453
+#: content/be4foss-handbook/handbook_web.md:452
 msgid "Some general comments:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:455
+#: content/be4foss-handbook/handbook_web.md:454
 msgid "Times between the PM and DAE must be synchronized."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:457
+#: content/be4foss-handbook/handbook_web.md:456
 msgid ""
 "When using `Collectl` to collect performance load, ensure it is running in "
 "the console of the SUT; also, check that the required CSV file is correctly "
 "generated before testing."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:459
+#: content/be4foss-handbook/handbook_web.md:458
 msgid ""
 "Since each run of the usage scenarios results in changes to the standard "
 "operating system, clearing the cache between runs is recommended."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:461
+#: content/be4foss-handbook/handbook_web.md:460
 msgid ""
 "All runs (Baseline, Idle Mode, Standard Usage Scenario) must be for the same "
 "length of time, based on the time needed to run the usage scenario script."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:463
+#: content/be4foss-handbook/handbook_web.md:462
 msgid ""
 "On the DAE you may want to confirm that the desired power outlet is read out "
 "correctly before and/or during testing (e.g., with a live graph using "
 "`LabPlot`)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:466
+#: content/be4foss-handbook/handbook_web.md:465
 msgid ""
 "During the energy measurements, [`Collectl`](https://sourceforge.net/"
 "projects/collectl/) is used to record a set of performance indicators: "
@@ -3051,82 +3047,82 @@ msgid ""
 "traffic. Use the following command to obtain this hardware performance data:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:468
+#: content/be4foss-handbook/handbook_web.md:467
 msgid "`$ collectl -s cdmn -i1 -P --sep 59 -f ~/<FILENAME>.csv`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:470
+#: content/be4foss-handbook/handbook_web.md:469
 msgid "The options are as follows:"
 msgstr "Параметри є такими:"
 
-#: content/be4foss-handbook/handbook_web.md:472
+#: content/be4foss-handbook/handbook_web.md:471
 msgid "`-s cdmn`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:474
+#: content/be4foss-handbook/handbook_web.md:473
 msgid "collect CPU, Disk, memory, and network data"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:476
+#: content/be4foss-handbook/handbook_web.md:475
 msgid "`-i1`"
 msgstr "`-i1`"
 
-#: content/be4foss-handbook/handbook_web.md:478
+#: content/be4foss-handbook/handbook_web.md:477
 msgid "sampling interval of 1 second"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:480
+#: content/be4foss-handbook/handbook_web.md:479
 msgid "`-P`"
 msgstr "`-P`"
 
-#: content/be4foss-handbook/handbook_web.md:482
+#: content/be4foss-handbook/handbook_web.md:481
 msgid ""
 "output in plot format (separated data which consists of a header with one "
 "line per sampling interval)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:484
+#: content/be4foss-handbook/handbook_web.md:483
 msgid "`--sep 59`"
 msgstr "`--sep 59`"
 
-#: content/be4foss-handbook/handbook_web.md:486
+#: content/be4foss-handbook/handbook_web.md:485
 msgid "semicolon separator"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:488
+#: content/be4foss-handbook/handbook_web.md:487
 msgid "`-f </PATH/TO/FILE>.csv`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:490
+#: content/be4foss-handbook/handbook_web.md:489
 msgid "save file at specified path"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:492
+#: content/be4foss-handbook/handbook_web.md:491
 msgid "Measuring Baseline, Idle Mode, And Standard Usage Scenarios"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:494
+#: content/be4foss-handbook/handbook_web.md:493
 msgid "Baseline Scenario: *Operating System* (OS)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:496
+#: content/be4foss-handbook/handbook_web.md:495
 msgid ""
 "To establish the baseline, a scenario is measured in which the OS is running "
 "but no actions are taken."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:498
+#: content/be4foss-handbook/handbook_web.md:497
 msgid "Idle Mode Scenario: *OS + Application While Idle*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:500
+#: content/be4foss-handbook/handbook_web.md:499
 msgid ""
 "To establish the energy consumption and hardware performance data of the "
 "application while idle, a scenario is measured in which the application "
 "under consideration is opened but no action is taken."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:502
+#: content/be4foss-handbook/handbook_web.md:501
 msgid ""
 "Important: the baseline and idle mode must be run for the same time needed "
 "to carry out the standard usage scenario. Since the power consumption for "
@@ -3135,11 +3131,11 @@ msgid ""
 "Zaczyk 2021)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:504
+#: content/be4foss-handbook/handbook_web.md:503
 msgid "Standard Usage Scenario: *OS + Application In Use*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:506
+#: content/be4foss-handbook/handbook_web.md:505
 msgid ""
 "To measure the energy consumption and hardware performance data of the "
 "application in use, the standard usage scenario should be run; see SUS "
@@ -3149,101 +3145,101 @@ msgid ""
 "as the energy consumption and performance data may vary across measurements."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:508
+#: content/be4foss-handbook/handbook_web.md:507
 msgid "<a name=\"sec:labplot\"></a> Monitoring Output With Labplot"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:510
+#: content/be4foss-handbook/handbook_web.md:509
 msgid ""
 "You can use KDE’s [LabPlot](https://apps.kde.org/labplot2/) to monitor the "
 "output live as data is coming in. To do this:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:512
+#: content/be4foss-handbook/handbook_web.md:511
 msgid "Redirect the power meter output to a CSV file."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:514
+#: content/be4foss-handbook/handbook_web.md:513
 msgid ""
 "In LabPlot, import the CSV file by selecting `File > Add New > Live Data "
 "Source…`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:516
+#: content/be4foss-handbook/handbook_web.md:515
 msgid ""
 "Under “Filter”, select the Custom option. Under “Data Format”, define the "
 "separator value used (e.g., comma, semi-colon, space)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:518
+#: content/be4foss-handbook/handbook_web.md:517
 msgid "You can check that the output is correct under the “Preview” tab."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:520
+#: content/be4foss-handbook/handbook_web.md:519
 msgid "If everything looks good, click OK."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:522
+#: content/be4foss-handbook/handbook_web.md:521
 msgid ""
 "Finally, right-click on the data frame window and selecting `Plot Data > xy-"
 "Curve`."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:524
+#: content/be4foss-handbook/handbook_web.md:523
 msgid "Analysis Of The Results With OSCAR"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:526
+#: content/be4foss-handbook/handbook_web.md:525
 msgid ""
 "Once you have results, the Umwelt Campus Birkenfeld provides a useful tool "
 "for generating reports called `OSCAR` (**O**pen source **S**oftware "
 "**C**onsumption **A**nalysis in **R**):"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:528
+#: content/be4foss-handbook/handbook_web.md:527
 msgid ""
 "[Source Code](https://gitlab.rlp.net/green-software-engineering/OSCAR-public)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:530
+#: content/be4foss-handbook/handbook_web.md:529
 msgid "[Running instance](https://oscar.umwelt-campus.de/)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:532
+#: content/be4foss-handbook/handbook_web.md:531
 msgid ""
 "See also the OSCAR Manual with detailed instructions, including additional "
 "screenshots on how to use `OSCAR`."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:534
+#: content/be4foss-handbook/handbook_web.md:533
 msgid "CSV Files"
 msgstr "Файли CSV"
 
-#: content/be4foss-handbook/handbook_web.md:536
+#: content/be4foss-handbook/handbook_web.md:535
 msgid ""
 "Analysis with `OSCAR` requires uploading the following files to the [OSCAR "
 "website](https://oscar.umwelt-campus.de/):"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:538
+#: content/be4foss-handbook/handbook_web.md:537
 msgid "(i) a log file of actions taken,"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:539
+#: content/be4foss-handbook/handbook_web.md:538
 msgid "(ii) the energy consumption data, and"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:540
+#: content/be4foss-handbook/handbook_web.md:539
 msgid "(iii) the hardware performance data."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:542
+#: content/be4foss-handbook/handbook_web.md:541
 msgid ""
 "All files should be CSV files. Some preprocessing of the raw data may be "
 "necessary (e.g., performance data measured by `Collectl`; see below)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:544
+#: content/be4foss-handbook/handbook_web.md:543
 msgid ""
 "Important: `OSCAR` is **very** particular about data frame formats, "
 "including column names and cell values. The tables here provide examples "
@@ -3252,7 +3248,7 @@ msgid ""
 "shown here."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:546
+#: content/be4foss-handbook/handbook_web.md:545
 msgid ""
 "If you just want to test OSCAR, you can download data for Okular in [this "
 "ZIP file](https://invent.kde.org/teams/eco/feep/-/blob/master/measurements/"
@@ -3263,11 +3259,11 @@ msgid ""
 "%20OSCAR%20Standardnutzungsszenario.pdf)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:548
+#: content/be4foss-handbook/handbook_web.md:547
 msgid "Log File Of Actions"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:550
+#: content/be4foss-handbook/handbook_web.md:549
 msgid ""
 "The log file of actions should have the following format. Note the columns "
 "are separated by a semi-colon. Also, columns have no names (i.e., there is "
@@ -3276,22 +3272,23 @@ msgid ""
 "whereas the actions can be listed with any name."
 msgstr ""
 
+#: content/be4foss-handbook/handbook_web.md:553
 #: content/be4foss-handbook/handbook_web.md:554
 #: content/be4foss-handbook/handbook_web.md:555
 #: content/be4foss-handbook/handbook_web.md:556
 #: content/be4foss-handbook/handbook_web.md:557
-#: content/be4foss-handbook/handbook_web.md:558
 msgid "YYYY-MM-DD HH:MM:SS ;"
 msgstr "YYYY-MM-DD HH:MM:SS ;"
 
-#: content/be4foss-handbook/handbook_web.md:554
-#: content/be4foss-handbook/handbook_web.md:564
+#: content/be4foss-handbook/handbook_web.md:553
+#: content/be4foss-handbook/handbook_web.md:563
 msgid "startTestrun ;"
 msgstr "startTestrun ;"
 
+#: content/be4foss-handbook/handbook_web.md:554
 #: content/be4foss-handbook/handbook_web.md:555
 #: content/be4foss-handbook/handbook_web.md:556
-#: content/be4foss-handbook/handbook_web.md:557
+#: content/be4foss-handbook/handbook_web.md:564
 #: content/be4foss-handbook/handbook_web.md:565
 #: content/be4foss-handbook/handbook_web.md:566
 #: content/be4foss-handbook/handbook_web.md:567
@@ -3301,126 +3298,125 @@ msgstr "startTestrun ;"
 #: content/be4foss-handbook/handbook_web.md:571
 #: content/be4foss-handbook/handbook_web.md:572
 #: content/be4foss-handbook/handbook_web.md:573
-#: content/be4foss-handbook/handbook_web.md:574
-#: content/be4foss-handbook/handbook_web.md:581
-#: content/be4foss-handbook/handbook_web.md:614
+#: content/be4foss-handbook/handbook_web.md:580
+#: content/be4foss-handbook/handbook_web.md:613
 msgid ";"
 msgstr ";"
 
-#: content/be4foss-handbook/handbook_web.md:555
+#: content/be4foss-handbook/handbook_web.md:554
 msgid "action1"
 msgstr "action1"
 
-#: content/be4foss-handbook/handbook_web.md:556
+#: content/be4foss-handbook/handbook_web.md:555
 msgid "action2"
 msgstr "action2"
 
-#: content/be4foss-handbook/handbook_web.md:557
+#: content/be4foss-handbook/handbook_web.md:556
 msgid "action3"
 msgstr "action3"
 
-#: content/be4foss-handbook/handbook_web.md:558
-#: content/be4foss-handbook/handbook_web.md:575
+#: content/be4foss-handbook/handbook_web.md:557
+#: content/be4foss-handbook/handbook_web.md:574
 msgid "stopTestrun ;"
 msgstr "stopTestrun ;"
 
-#: content/be4foss-handbook/handbook_web.md:560
+#: content/be4foss-handbook/handbook_web.md:559
 msgid ""
 "An example log file of actions for measuring KDE’s text and code editor "
 "[`Kate`](https://apps.kde.org/kate/). The (i) date and time as well as (ii) "
 "start and stop times and (iii) actions are listed in three columns."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:564
+#: content/be4foss-handbook/handbook_web.md:563
 msgid "2022-05-21 18:54:36 ;"
 msgstr "2022-05-21 18:54:36 ;"
 
-#: content/be4foss-handbook/handbook_web.md:565
+#: content/be4foss-handbook/handbook_web.md:564
 msgid "2022-05-21 18:55:41 ;"
 msgstr "2022-05-21 18:55:41 ;"
 
-#: content/be4foss-handbook/handbook_web.md:565
+#: content/be4foss-handbook/handbook_web.md:564
 msgid "go to line 100"
 msgstr "go to line 100"
 
-#: content/be4foss-handbook/handbook_web.md:566
+#: content/be4foss-handbook/handbook_web.md:565
 msgid "2022-05-21 18:55:46 ;"
 msgstr "2022-05-21 18:55:46 ;"
 
-#: content/be4foss-handbook/handbook_web.md:566
+#: content/be4foss-handbook/handbook_web.md:565
 msgid "toggle comment"
 msgstr "toggle comment"
 
-#: content/be4foss-handbook/handbook_web.md:567
+#: content/be4foss-handbook/handbook_web.md:566
 msgid "2022-05-21 18:55:50 ;"
 msgstr "2022-05-21 18:55:50 ;"
 
-#: content/be4foss-handbook/handbook_web.md:567
+#: content/be4foss-handbook/handbook_web.md:566
 msgid "find kconfig"
 msgstr "find kconfig"
 
-#: content/be4foss-handbook/handbook_web.md:568
+#: content/be4foss-handbook/handbook_web.md:567
 msgid "2022-05-21 18:55:55 ;"
 msgstr "2022-05-21 18:55:55 ;"
 
-#: content/be4foss-handbook/handbook_web.md:568
+#: content/be4foss-handbook/handbook_web.md:567
 msgid "move between searches 6 times"
 msgstr "move between searches 6 times"
 
+#: content/be4foss-handbook/handbook_web.md:568
 #: content/be4foss-handbook/handbook_web.md:569
-#: content/be4foss-handbook/handbook_web.md:570
 msgid "2022-05-21 18:56:05 ;"
 msgstr "2022-05-21 18:56:05 ;"
 
-#: content/be4foss-handbook/handbook_web.md:569
+#: content/be4foss-handbook/handbook_web.md:568
 msgid "close find bar"
 msgstr "close find bar"
 
-#: content/be4foss-handbook/handbook_web.md:570
+#: content/be4foss-handbook/handbook_web.md:569
 msgid "standby 30 sec"
 msgstr "standby 30 sec"
 
-#: content/be4foss-handbook/handbook_web.md:571
+#: content/be4foss-handbook/handbook_web.md:570
 msgid "2022-05-21 18:56:35 ;"
 msgstr "2022-05-21 18:56:35 ;"
 
-#: content/be4foss-handbook/handbook_web.md:571
+#: content/be4foss-handbook/handbook_web.md:570
 msgid "go to line 200"
 msgstr "go to line 200"
 
-#: content/be4foss-handbook/handbook_web.md:572
+#: content/be4foss-handbook/handbook_web.md:571
 msgid "2022-05-21 18:56:40 ;"
 msgstr "2022-05-21 18:56:40 ;"
 
-#: content/be4foss-handbook/handbook_web.md:572
+#: content/be4foss-handbook/handbook_web.md:571
 msgid "select 10 lines"
 msgstr "select 10 lines"
 
-#: content/be4foss-handbook/handbook_web.md:573
+#: content/be4foss-handbook/handbook_web.md:572
 msgid "2022-05-21 18:56:43 ;"
 msgstr "2022-05-21 18:56:43 ;"
 
-#: content/be4foss-handbook/handbook_web.md:573
+#: content/be4foss-handbook/handbook_web.md:572
 msgid "delete selected text"
 msgstr "delete selected text"
 
-#: content/be4foss-handbook/handbook_web.md:574
+#: content/be4foss-handbook/handbook_web.md:573
 msgid "[…] ;"
 msgstr "[…] ;"
 
-#: content/be4foss-handbook/handbook_web.md:574
+#: content/be4foss-handbook/handbook_web.md:573
 msgid "[…]"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:575
+#: content/be4foss-handbook/handbook_web.md:574
 msgid "2022-05-21 18:59:13 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:577
+#: content/be4foss-handbook/handbook_web.md:576
 msgid "Energy Consumption Data"
 msgstr "Дані щодо споживання енергії"
 
-#: content/be4foss-handbook/handbook_web.md:579
+#: content/be4foss-handbook/handbook_web.md:578
 msgid ""
 "The energy consumption data has the following format: the first column is "
 "the row number, the second column is the date and time in one-second "
@@ -3431,68 +3427,68 @@ msgid ""
 "and (iii) no string delimiter used in the CSV file."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:581
-#: content/be4foss-handbook/handbook_web.md:614
+#: content/be4foss-handbook/handbook_web.md:580
+#: content/be4foss-handbook/handbook_web.md:613
 msgid "Zeit ;"
 msgstr "Zeit ;"
 
-#: content/be4foss-handbook/handbook_web.md:581
-#: content/be4foss-handbook/handbook_web.md:614
+#: content/be4foss-handbook/handbook_web.md:580
+#: content/be4foss-handbook/handbook_web.md:613
 msgid "Wert 1-avg[W]"
 msgstr "Wert 1-avg[W]"
 
-#: content/be4foss-handbook/handbook_web.md:583
-#: content/be4foss-handbook/handbook_web.md:616
-#: content/be4foss-handbook/handbook_web.md:650
+#: content/be4foss-handbook/handbook_web.md:582
+#: content/be4foss-handbook/handbook_web.md:615
+#: content/be4foss-handbook/handbook_web.md:649
+#: content/be4foss-handbook/handbook_web.md:651
 #: content/be4foss-handbook/handbook_web.md:652
 #: content/be4foss-handbook/handbook_web.md:653
 #: content/be4foss-handbook/handbook_web.md:654
 #: content/be4foss-handbook/handbook_web.md:655
 #: content/be4foss-handbook/handbook_web.md:656
 #: content/be4foss-handbook/handbook_web.md:657
-#: content/be4foss-handbook/handbook_web.md:658
 msgid "1 ;"
 msgstr "1 ;"
 
+#: content/be4foss-handbook/handbook_web.md:582
 #: content/be4foss-handbook/handbook_web.md:583
 #: content/be4foss-handbook/handbook_web.md:584
 #: content/be4foss-handbook/handbook_web.md:585
-#: content/be4foss-handbook/handbook_web.md:586
 msgid "DD.MM.YY, HH:MM:SS ;"
 msgstr "DD.MM.YY, HH:MM:SS ;"
 
-#: content/be4foss-handbook/handbook_web.md:583
+#: content/be4foss-handbook/handbook_web.md:582
 msgid "value1"
 msgstr "value1"
 
-#: content/be4foss-handbook/handbook_web.md:584
-#: content/be4foss-handbook/handbook_web.md:617
+#: content/be4foss-handbook/handbook_web.md:583
+#: content/be4foss-handbook/handbook_web.md:616
 msgid "2 ;"
 msgstr "2 ;"
 
-#: content/be4foss-handbook/handbook_web.md:584
+#: content/be4foss-handbook/handbook_web.md:583
 msgid "value2"
 msgstr "value2"
 
-#: content/be4foss-handbook/handbook_web.md:585
+#: content/be4foss-handbook/handbook_web.md:584
 msgid "3 ;"
 msgstr "3 ;"
 
-#: content/be4foss-handbook/handbook_web.md:585
+#: content/be4foss-handbook/handbook_web.md:584
 msgid "value3"
 msgstr "value3"
 
-#: content/be4foss-handbook/handbook_web.md:586
-#: content/be4foss-handbook/handbook_web.md:651
-#: content/be4foss-handbook/handbook_web.md:659
+#: content/be4foss-handbook/handbook_web.md:585
+#: content/be4foss-handbook/handbook_web.md:650
+#: content/be4foss-handbook/handbook_web.md:658
 msgid "4 ;"
 msgstr "4 ;"
 
-#: content/be4foss-handbook/handbook_web.md:586
+#: content/be4foss-handbook/handbook_web.md:585
 msgid "value4"
 msgstr "value4"
 
-#: content/be4foss-handbook/handbook_web.md:588
+#: content/be4foss-handbook/handbook_web.md:587
 msgid ""
 "When using the Gude Power Meter with the [Python script](https://invent.kde."
 "org/teams/eco/feep/-/tree/master/tools/GUDEPowerMeter) available at the FEEP "
@@ -3503,51 +3499,51 @@ msgid ""
 "is the readout from the power meter in Watts."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:592
+#: content/be4foss-handbook/handbook_web.md:591
 msgid "1661611923019071 ;"
 msgstr ""
 
+#: content/be4foss-handbook/handbook_web.md:591
 #: content/be4foss-handbook/handbook_web.md:592
-#: content/be4foss-handbook/handbook_web.md:593
 msgid "43"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:593
+#: content/be4foss-handbook/handbook_web.md:592
 msgid "1661611923142924 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:594
+#: content/be4foss-handbook/handbook_web.md:593
 msgid "1661611924293989 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:594
+#: content/be4foss-handbook/handbook_web.md:593
 msgid "29"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:595
+#: content/be4foss-handbook/handbook_web.md:594
 msgid "1661611924417017 ;"
 msgstr ""
 
+#: content/be4foss-handbook/handbook_web.md:594
 #: content/be4foss-handbook/handbook_web.md:595
 #: content/be4foss-handbook/handbook_web.md:596
 #: content/be4foss-handbook/handbook_web.md:597
-#: content/be4foss-handbook/handbook_web.md:598
 msgid "28"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:596
+#: content/be4foss-handbook/handbook_web.md:595
 msgid "1661611924744885 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:597
+#: content/be4foss-handbook/handbook_web.md:596
 msgid "1661611924869051 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:598
+#: content/be4foss-handbook/handbook_web.md:597
 msgid "1661611924992392 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:600
+#: content/be4foss-handbook/handbook_web.md:599
 msgid ""
 "The raw data can be preprocessed in R: Nanoseconds in Epoch time can be "
 "converted to date-time with the command `as.POSIXct(<NANOSECONDS>/1000000, "
@@ -3555,7 +3551,7 @@ msgid ""
 "in row 1 from the raw output is “2022-08-27 16:52:03 CEST” after conversion."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:602
+#: content/be4foss-handbook/handbook_web.md:601
 msgid ""
 "For use with OSCAR, this date-time should then be converted to a character "
 "string with the date as DD.MM.YY followed by a comma. All of this can be "
@@ -3564,168 +3560,169 @@ msgid ""
 "measurements:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:604
+#: content/be4foss-handbook/handbook_web.md:603
 msgid ""
 "`stringr::str_replace(as.character(as.POSIXct(1661611923019071/1000000, "
 "origin = '1970-01-01', tz = 'Europe/Berlin')), '2022-08-27', '27.08.22,')`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:606
+#: content/be4foss-handbook/handbook_web.md:605
 msgid ""
 "The output in Watts should be averaged per second. The same data above is "
 "shown below after processing with R; note the 7 values above are averaged "
 "per second, resulting in two rows."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:608
+#: content/be4foss-handbook/handbook_web.md:607
 msgid ""
 "To save the CSV file with a semi-colon separator, the first column with row "
 "names starting at the number 1, and no string delimiter, use the following R "
 "command:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:610
+#: content/be4foss-handbook/handbook_web.md:609
 msgid ""
 "`write.csv2(<DATAFRAME>, file = <PATH/TO/FILE.csv>, row.names = TRUE, quote "
 "= FALSE)`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:612
+#: content/be4foss-handbook/handbook_web.md:611
 msgid "The result should look something like the following:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:616
+#: content/be4foss-handbook/handbook_web.md:615
 msgid "27.08.22, 16:52:03 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:616
+#: content/be4foss-handbook/handbook_web.md:615
 msgid "43.00000"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:617
+#: content/be4foss-handbook/handbook_web.md:616
 msgid "27.08.22, 16:52:04 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:617
+#: content/be4foss-handbook/handbook_web.md:616
 msgid "28.20000"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:619
+#: content/be4foss-handbook/handbook_web.md:618
 msgid "Performance Data (Raw)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:621
+#: content/be4foss-handbook/handbook_web.md:620
 msgid ""
 "When using `Collectl` for hardware performance data, it is necessary to do "
 "the following before uploading the data to OSCAR.[^3]"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:623
+#: content/be4foss-handbook/handbook_web.md:622
 msgid ""
 "[^3]: See Seiwert & Zaczyk 2021: p. 13 for details; see also Appendix A 2 on "
 "p. 46 for a Python script to automate some of these tasks."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:625
+#: content/be4foss-handbook/handbook_web.md:624
 msgid "Remove all information above the header row."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:627
+#: content/be4foss-handbook/handbook_web.md:626
 msgid "Remove all \\# characters from the file."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:629
+#: content/be4foss-handbook/handbook_web.md:628
 msgid ""
 "In the first column, no separator value should come between the data-time "
 "(otherwise, the date and time will be interpreted as two separate columns)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:631
+#: content/be4foss-handbook/handbook_web.md:630
 msgid ""
 "The date should also have a character inserted between YYYYMMDD, e.g., MM.DD."
 "YYYY as above. Whatever character is used must be specified in `OSCAR`."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:633
+#: content/be4foss-handbook/handbook_web.md:632
 msgid ""
 "Column names can be anything you want as they will be specified within "
 "`OSCAR`."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:635
+#: content/be4foss-handbook/handbook_web.md:634
 msgid "The file must be saved in CSV format."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:637
+#: content/be4foss-handbook/handbook_web.md:636
 msgid ""
 "Moreover, the hardware performance output from `Collectl` includes many "
 "columns that are not necessary for analysis. The only measurements that need "
 "to be specified are the following columns:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:639
+#: content/be4foss-handbook/handbook_web.md:638
 msgid "[CPU]Totl = Processor"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:640
+#: content/be4foss-handbook/handbook_web.md:639
 msgid "[MEM]Used = Main memory - used kilobytes"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:641
+#: content/be4foss-handbook/handbook_web.md:640
 msgid "[NET]RxKBTot = Network - Kilobytes received/s"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:642
+#: content/be4foss-handbook/handbook_web.md:641
 msgid "[NET]TxKBTot = Network - Kilobytes transmitted/s"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:643
+#: content/be4foss-handbook/handbook_web.md:642
 msgid "[DSK]ReadKBTot = Disk - Kilobytes read/s"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:644
+#: content/be4foss-handbook/handbook_web.md:643
 msgid "[DSK]WriteKBTot = Disk - kilobytes written/s."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:646
+#: content/be4foss-handbook/handbook_web.md:645
 msgid ""
 "Below is an example of the preprocessed results from `Collectl` measuring "
 "the performance data for Kate. The timestamp increases in one-second "
 "increments."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:648
+#: content/be4foss-handbook/handbook_web.md:647
 msgid "Date-Time ;"
 msgstr "Date-Time ;"
 
-#: content/be4foss-handbook/handbook_web.md:648
+#: content/be4foss-handbook/handbook_web.md:647
 msgid "cpu ;"
 msgstr "cpu ;"
 
-#: content/be4foss-handbook/handbook_web.md:648
+#: content/be4foss-handbook/handbook_web.md:647
 msgid "mem ;"
 msgstr "mem ;"
 
-#: content/be4foss-handbook/handbook_web.md:648
+#: content/be4foss-handbook/handbook_web.md:647
 msgid "net_rec ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:648
+#: content/be4foss-handbook/handbook_web.md:647
 msgid "net_trn ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:648
+#: content/be4foss-handbook/handbook_web.md:647
 msgid "dsc_rd ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:648
+#: content/be4foss-handbook/handbook_web.md:647
 msgid "dsc_wr"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:650
+#: content/be4foss-handbook/handbook_web.md:649
 msgid "27.08.2022 16:47:10 ;"
 msgstr ""
 
+#: content/be4foss-handbook/handbook_web.md:649
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
 #: content/be4foss-handbook/handbook_web.md:652
@@ -3735,10 +3732,10 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:656
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
-#: content/be4foss-handbook/handbook_web.md:659
 msgid "7131968 ;"
 msgstr ""
 
+#: content/be4foss-handbook/handbook_web.md:649
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
 #: content/be4foss-handbook/handbook_web.md:652
@@ -3748,76 +3745,75 @@ msgstr ""
 #: content/be4foss-handbook/handbook_web.md:656
 #: content/be4foss-handbook/handbook_web.md:657
 #: content/be4foss-handbook/handbook_web.md:658
-#: content/be4foss-handbook/handbook_web.md:659
 msgid "0 ;"
 msgstr ""
 
+#: content/be4foss-handbook/handbook_web.md:649
 #: content/be4foss-handbook/handbook_web.md:650
 #: content/be4foss-handbook/handbook_web.md:651
-#: content/be4foss-handbook/handbook_web.md:652
-#: content/be4foss-handbook/handbook_web.md:654
+#: content/be4foss-handbook/handbook_web.md:653
+#: content/be4foss-handbook/handbook_web.md:656
 #: content/be4foss-handbook/handbook_web.md:657
-#: content/be4foss-handbook/handbook_web.md:658
 msgid "0"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:651
+#: content/be4foss-handbook/handbook_web.md:650
 msgid "27.08.2022 16:47:11 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:652
+#: content/be4foss-handbook/handbook_web.md:651
 msgid "27.08.2022 16:47:12 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:653
+#: content/be4foss-handbook/handbook_web.md:652
 msgid "27.08.2022 16:47:13 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:653
+#: content/be4foss-handbook/handbook_web.md:652
 msgid "120"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:654
+#: content/be4foss-handbook/handbook_web.md:653
 msgid "27.08.2022 16:47:14 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:655
+#: content/be4foss-handbook/handbook_web.md:654
 msgid "27.08.2022 16:47:15 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:655
+#: content/be4foss-handbook/handbook_web.md:654
 msgid "56"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:656
+#: content/be4foss-handbook/handbook_web.md:655
 msgid "27.08.2022 16:47:16 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:656
+#: content/be4foss-handbook/handbook_web.md:655
 msgid "48"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:657
+#: content/be4foss-handbook/handbook_web.md:656
 msgid "27.08.2022 16:47:17 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:658
+#: content/be4foss-handbook/handbook_web.md:657
 msgid "27.08.2022 16:47:18 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:659
+#: content/be4foss-handbook/handbook_web.md:658
 msgid "27.08.2022 16:47:19 ;"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:659
+#: content/be4foss-handbook/handbook_web.md:658
 msgid "132"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:661
+#: content/be4foss-handbook/handbook_web.md:660
 msgid "Uploading Data"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:663
+#: content/be4foss-handbook/handbook_web.md:662
 msgid ""
 "Once the above CSV files are ready, you can run the analysis using OSCAR, "
 "which will generate a summary report you can use either for eco-"
@@ -3825,30 +3821,30 @@ msgid ""
 "interface, note the following:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:665
+#: content/be4foss-handbook/handbook_web.md:664
 msgid ""
 "The interface language is currently German only; see below for translations."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:667
+#: content/be4foss-handbook/handbook_web.md:666
 msgid "The duration of the measurements in seconds must be specified."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:669
+#: content/be4foss-handbook/handbook_web.md:668
 msgid "A semicolon separator is used."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:671
+#: content/be4foss-handbook/handbook_web.md:670
 msgid ""
 "The correct formatting of the time stamp must be specified for each of the "
 "uploaded files, e.g.,`%Y-%m-%d %H:%M:%OS`."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:673
+#: content/be4foss-handbook/handbook_web.md:672
 msgid "Step 1: Obtain Measurement Data"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:675
+#: content/be4foss-handbook/handbook_web.md:674
 msgid ""
 "The landing page of the website (below) states that the first step is "
 "obtaining measurement data (German: *Erfassung Messdaten*). If you are at "
@@ -3856,83 +3852,83 @@ msgid ""
 "and prepared the CSV files."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:677
+#: content/be4foss-handbook/handbook_web.md:676
 msgid ""
 "![First obtain the measurement data (German: *Erfassung Messdaten*) in a "
 "laboratory.](images/sec3_oscar_1_landing.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:679
+#: content/be4foss-handbook/handbook_web.md:678
 msgid ""
 "All examples here are based on the Okular data in [this ZIP file](https://"
 "invent.kde.org/teams/eco/feep/-/blob/master/measurements/"
 "okular/2022-09-22/2022-okular-data.zip)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:681
+#: content/be4foss-handbook/handbook_web.md:680
 msgid "Step 2: Upload Measurement Data"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:683
+#: content/be4foss-handbook/handbook_web.md:682
 msgid ""
 "Once you have the CSV files for the baseline, idle mode, and standard usage "
 "scenario measurements ready, click on *(2) Upload Messdaten* > *Upload*."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:685
+#: content/be4foss-handbook/handbook_web.md:684
 msgid ""
 "The measurement data (German: *Messdaten*) include the log file of actions "
 "(German: *Aktionen*), energy consumption (German: *Elektrische Leistung*), "
 "and hardware performance data (German: *Hardware-Auslastung*)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:687
+#: content/be4foss-handbook/handbook_web.md:686
 msgid ""
 "Under *Messungen*, upload either the idle mode or standard usage scenario "
 "measurement data."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:689
+#: content/be4foss-handbook/handbook_web.md:688
 msgid ""
 "For *Art der Messung* (‘Type of Measurement’) in the lower right of the UX, "
 "select *Leerlauf* (‘Idle Mode’) or *Nutzungsszenario* (‘Usage Scenario’) "
 "depending on which report you wish to generate."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:691
+#: content/be4foss-handbook/handbook_web.md:690
 msgid "Under *Baselines* upload the baseline measurement data."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:693
+#: content/be4foss-handbook/handbook_web.md:692
 msgid ""
 "Indicate the duration of the measurement scenarios in seconds (German: "
 "*Dauer der Einzelmessungen (s)*)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:695
+#: content/be4foss-handbook/handbook_web.md:694
 msgid ""
 "Note that the baseline measurements are always uploaded along with either "
 "the idle mode or standard usage scenario measurements."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:697
+#: content/be4foss-handbook/handbook_web.md:696
 msgid ""
 "See below for what a completed upload for the *Nutzungsszenario* looks like."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:699
+#: content/be4foss-handbook/handbook_web.md:698
 msgid ""
 "![Uploading the measurement data (German: *Upload Messdaten*).](images/"
 "sec3_oscar_2_upload.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:701
+#: content/be4foss-handbook/handbook_web.md:700
 msgid ""
 "***Timestamps*** &nbsp;&nbsp; Once the data has been uploaded, you will need "
 "to tell `OSCAR` how to read the data."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:703
+#: content/be4foss-handbook/handbook_web.md:702
 msgid ""
 "Let’s start with the timestamp format (German: *Formatierung Zeitstempel*). "
 "This is one aspect of the process which can cause problems if not done "
@@ -3940,23 +3936,23 @@ msgid ""
 "Zeitstempel*."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:705
+#: content/be4foss-handbook/handbook_web.md:704
 msgid "Consider the Okular data:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:707
+#: content/be4foss-handbook/handbook_web.md:706
 msgid ""
 "For the log file of actions, the datetime is encoded as *YYYY-MM-DD HH:MM:"
 "SS* (e.g., \"2022-10-04 12:32:43.656\" in “okularActions.csv”)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:709
+#: content/be4foss-handbook/handbook_web.md:708
 msgid ""
 "In `OSCAR`, this is specified as \"%Y-%m-%d %H:%M:%OS\" (see screenshot "
 "below). OSCAR will take care of the fractional seconds."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:711
+#: content/be4foss-handbook/handbook_web.md:710
 msgid ""
 "For the energy consumption data, the datetime is encoded as *DD.MM.YY, HH:MM:"
 "SS* (e.g., \"04.10.22, 12:32:43\" in “okular_baseline_eletrLeistung.csv”). "
@@ -3964,112 +3960,112 @@ msgid ""
 "as only having two digits for the year."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:713
+#: content/be4foss-handbook/handbook_web.md:712
 msgid ""
 "In `OSCAR` this is specified as \"%d.%m.%y, %H:%M:%OS\" (see screenshot "
 "below), in which the lowercase “%y” indicates a year with two digits."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:715
+#: content/be4foss-handbook/handbook_web.md:714
 msgid ""
 "For the hardware performance data, the datetime is encoded as *DD.MM.YYYY HH:"
 "MM:SS* (e.g., \"04.10.2022 12:31:43\" in “baseline_hardware_formatiert."
 "csv”). Note the period in the date and the four-digit year."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:717
+#: content/be4foss-handbook/handbook_web.md:716
 msgid ""
 "In `OSCAR`, this is specified as: \"%d.%m.%Y %H:%M:%OS\" (see screenshot "
 "below), in which the uppercase “%Y” indicates a year with four digits."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:719
+#: content/be4foss-handbook/handbook_web.md:718
 msgid ""
 "![Specifying the format of the timestamps (German: *Formatierung "
 "Zeitstempel*).](images/sec3_oscar_3_timestamp.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:721
+#: content/be4foss-handbook/handbook_web.md:720
 msgid ""
 "***Measurement Data*** &nbsp;&nbsp; After the timestamps have been correctly "
 "specified, let’s explore the format of the measurement data (German: "
 "*Formatierung Messdaten*) in `OSCAR`."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:723
+#: content/be4foss-handbook/handbook_web.md:722
 msgid ""
 "First, take a look at the log file of actions (German: *Aktionen*). This is "
 "done under *(2) Upload Messdaten* > *Formatierung Messdaten* > *Aktionen*."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:725
+#: content/be4foss-handbook/handbook_web.md:724
 msgid ""
 "Here you need to indicate for the uploaded CSV file the separator (German: "
 "*Trennzeichen*), the string delimiter (German: *Textqualifizierer*), and the "
 "decimal separator (German: *Dezimaltrennzeichen*)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:727
+#: content/be4foss-handbook/handbook_web.md:726
 msgid ""
 "For the Okular data, this is defined as a semi-colon separator, double "
 "quotation string delimiter, and a period or full-stop decimal separator (see "
 "screenshot below)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:729
+#: content/be4foss-handbook/handbook_web.md:728
 msgid "Additionally, you will need to specify the following:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:731
+#: content/be4foss-handbook/handbook_web.md:730
 msgid ""
 "whether the first line contains headings (German: *Erste Zeile enthält "
 "Überschriften*);"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:732
+#: content/be4foss-handbook/handbook_web.md:731
 msgid ""
 "the number of lines to skip (German: *Anzahl zu überspringender Zeilen*); and"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:733
+#: content/be4foss-handbook/handbook_web.md:732
 msgid "the character encoding (German: *Zeichensatz (Encoding)*)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:735
+#: content/be4foss-handbook/handbook_web.md:734
 msgid ""
 "For the Okular data, this is defined as follows in the following screenshot: "
 "“first line contains headings” is unchecked, 0 lines are skipped, and "
 "character encoding is utf-8."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:737
-#: content/be4foss-handbook/handbook_web.md:747
+#: content/be4foss-handbook/handbook_web.md:736
+#: content/be4foss-handbook/handbook_web.md:746
 msgid ""
 "When everything is defined correctly, a preview of the spreadsheet will be "
 "shown."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:739
+#: content/be4foss-handbook/handbook_web.md:738
 msgid ""
 "![Specifying the format of the measurement data (German: *Formatierung "
 "Messdaten*) for the log file of actions (German: *Aktionen*).](images/"
 "sec3_oscar_4_actions.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:741
+#: content/be4foss-handbook/handbook_web.md:740
 msgid ""
 "Second, take a look at the energy consumption measurements (German: "
 "*Elektrische Leistung*). This is done under *(2) Upload Messdaten* > "
 "*Formatierung Messdaten* > *Elektrische Leistung*."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:743
+#: content/be4foss-handbook/handbook_web.md:742
 msgid ""
 "The required input is the same as for the log file of actions, seen in the "
 "following screenshot."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:745
+#: content/be4foss-handbook/handbook_web.md:744
 msgid ""
 "For the Okular data here, this is a semi-colon separator, double quotation "
 "string delimiter, and character encoding utf-8. However, now a comma is "
@@ -4077,20 +4073,20 @@ msgid ""
 "line contains headings. Finally, the 1st line is skipped."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:749
+#: content/be4foss-handbook/handbook_web.md:748
 msgid ""
 "![Specifying the format for the energy consumption data (German: "
 "*Elektrische Leistung*).](images/sec3_oscar_5_energy.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:751
+#: content/be4foss-handbook/handbook_web.md:750
 msgid ""
 "Finally, take a look at the hardware performance data (German: *Hardware-"
 "Auslastung*). This is done under *(2) Upload Messdaten* > *Formatierung "
 "Messdaten* > *Hardware-Auslastung*."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:753
+#: content/be4foss-handbook/handbook_web.md:752
 msgid ""
 "The required input is the same. The input in this example is a semi-colon "
 "separator, a double quotation string delimiter, a period (a.k.a. full stop) "
@@ -4098,335 +4094,335 @@ msgid ""
 "headings, 0 lines are skipped, and the character encoding is utf-8."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:755
+#: content/be4foss-handbook/handbook_web.md:754
 msgid ""
 "However, now there is the additional requirement of specifying the columns "
 "(German: *Spalten*)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:757
+#: content/be4foss-handbook/handbook_web.md:756
 msgid ""
 "For the columns specification, the following need to be identified; select "
 "NA for unused columns, e.g., “Auslastung Auslagerungsdatei” here."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:759
+#: content/be4foss-handbook/handbook_web.md:758
 msgid "*Zeitstempel*: Datetime (i.e., ‘Date-Time’)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:760
+#: content/be4foss-handbook/handbook_web.md:759
 msgid "*CPU-Auslastung*: CPU (i.e., ‘X.CPU.Totl’)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:761
+#: content/be4foss-handbook/handbook_web.md:760
 msgid "*RAM-Auslastung*: RAM (i.e., ‘X.MEM.Used’)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:762
+#: content/be4foss-handbook/handbook_web.md:761
 msgid "*Über Netzwerk gesendet*: Network transmitted (i.e., ‘X.NET.TxKBTot’)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:763
+#: content/be4foss-handbook/handbook_web.md:762
 msgid "*Über Netzwerk empfangen*: Network received (i.e., ‘X.NET.RxKBTot’)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:764
+#: content/be4foss-handbook/handbook_web.md:763
 msgid "*Von Festplatte gelesen*: Disk read (i.e., ‘X.DSK.ReadKBTot’)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:765
+#: content/be4foss-handbook/handbook_web.md:764
 msgid "*Auf Festplatte geschrieben*: Disk written (i.e., ‘X.DSK.WriteKBTot’)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:766
+#: content/be4foss-handbook/handbook_web.md:765
 msgid "*Auslastung Auslagerungsdatei*: Swap (here, ‘N/A’)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:768
+#: content/be4foss-handbook/handbook_web.md:767
 msgid ""
 "![Specifying the format for the hardware performance data (German: *Hardware-"
 "Auslastung*).](images/sec3_oscar_6_hw.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:770
+#: content/be4foss-handbook/handbook_web.md:769
 msgid "Translations"
 msgstr "Переклади"
 
-#: content/be4foss-handbook/handbook_web.md:772
+#: content/be4foss-handbook/handbook_web.md:771
 msgid ""
 "Here is an overview of some of the German terminology used in `OSCAR` and "
 "the English translations:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:774
+#: content/be4foss-handbook/handbook_web.md:773
 msgid "*Messungen*: Measurements (e.g., Idle Mode or SUS)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:775
+#: content/be4foss-handbook/handbook_web.md:774
 msgid "*Aktionen*: Actions (i.e., log file of actions taken)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:776
+#: content/be4foss-handbook/handbook_web.md:775
 msgid ""
 "*Elektrische Leistung*: ‘Electrical power’ (i.e., energy consumption "
 "measurements)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:777
+#: content/be4foss-handbook/handbook_web.md:776
 msgid ""
 "*Hardware-Auslastung*: ‘Hardware load’ (i.e., hardware performance "
 "measurements)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:778
+#: content/be4foss-handbook/handbook_web.md:777
 msgid ""
 "*Dauer der Einzelmessungen (s)*: ‘Duration of the individual measurements "
 "(s)’ (i.e., specify how long each iteration was in seconds)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:779
+#: content/be4foss-handbook/handbook_web.md:778
 msgid "*Art der Messung*: ‘Type of measurement’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:780
+#: content/be4foss-handbook/handbook_web.md:779
 msgid "*Leerlauf*: ‘Idle’ (i.e., Idle mode)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:781
+#: content/be4foss-handbook/handbook_web.md:780
 msgid "*Nutzungsszenario*: ‘Usage scenario’ (i.e., SUS)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:783
+#: content/be4foss-handbook/handbook_web.md:782
 msgid "*Formatierung Messdaten*: ‘Formatting measurement data’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:784
+#: content/be4foss-handbook/handbook_web.md:783
 msgid "*Formatierung Zeitstempel*: ‘Formatting timestamp’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:786
+#: content/be4foss-handbook/handbook_web.md:785
 msgid "*Trennzeichen* ‘Separator’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:787
+#: content/be4foss-handbook/handbook_web.md:786
 msgid "*Textqualifizierer*: ‘String delimiter’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:788
+#: content/be4foss-handbook/handbook_web.md:787
 msgid "*Dezimaltrennzeichen*: ‘Decimal separator’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:789
+#: content/be4foss-handbook/handbook_web.md:788
 msgid "*Erste Zeile enthält Überschriften*: ‘First line contains headings’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:790
+#: content/be4foss-handbook/handbook_web.md:789
 msgid "*Anzahl zu überspringender Zeilen*: ‘Number of lines to skip’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:791
+#: content/be4foss-handbook/handbook_web.md:790
 msgid "*Zeichensatz (Encoding)*: ‘Character set (encoding)’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:793
+#: content/be4foss-handbook/handbook_web.md:792
 msgid "*Spalten*: Columns"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:794
+#: content/be4foss-handbook/handbook_web.md:793
 msgid "*Zeitstempel*: ‘Datetime’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:795
+#: content/be4foss-handbook/handbook_web.md:794
 msgid "*CPU-Auslastung*: ‘CPU utilization’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:796
+#: content/be4foss-handbook/handbook_web.md:795
 msgid "*RAM-Auslastung*: ‘RAM utilization’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:797
+#: content/be4foss-handbook/handbook_web.md:796
 msgid "*Über Netzwerk gesendet*: ‘Sent via network’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:798
+#: content/be4foss-handbook/handbook_web.md:797
 msgid "*Über Netzwerk empfangen*: ‘Received via network’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:799
+#: content/be4foss-handbook/handbook_web.md:798
 msgid "*Von Festplatte gelesen*: ‘Read from disk’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:800
+#: content/be4foss-handbook/handbook_web.md:799
 msgid "*Auf Festplatte geschrieben*: ‘Written to disk’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:801
+#: content/be4foss-handbook/handbook_web.md:800
 msgid "*Auslastung Auslagerungsdatei*: ‘Swap file utlization’"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:803
+#: content/be4foss-handbook/handbook_web.md:802
 msgid "Step 3: Generating The Reports (Idle, SUS)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:805
+#: content/be4foss-handbook/handbook_web.md:804
 msgid ""
 "After completing the above, the report can be generated and downloaded. You "
 "will need to do this process twice, once for (i) the idle mode and (ii) "
 "standard usage scenario measurements, resulting in two documents."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:807
+#: content/be4foss-handbook/handbook_web.md:806
 msgid ""
 "![Generating the report (German: *Bericht erzeugen*).](images/"
 "sec3_oscar_7_report.png)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:809
+#: content/be4foss-handbook/handbook_web.md:808
 msgid ""
 "For Blue Angel eco-certification, the two reports will be submitted for "
 "evaluation by RAL."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:811
-#: content/be4foss-handbook/handbook_web.md:847
+#: content/be4foss-handbook/handbook_web.md:810
+#: content/be4foss-handbook/handbook_web.md:846
 msgid ""
 "For examples of the above for Okular, see KDE’s [Blue Angel Applications]"
 "(https://invent.kde.org/teams/eco/blue-angel-application) repository:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:813
+#: content/be4foss-handbook/handbook_web.md:812
 msgid ""
 "[OSCAR Report: Idle Mode](https://invent.kde.org/teams/eco/blue-angel-"
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
 "idle.pdf)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:814
+#: content/be4foss-handbook/handbook_web.md:813
 msgid ""
 "[OSCAR Report: SUS](https://invent.kde.org/teams/eco/blue-angel-"
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
 "scenario.pdf)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:816
+#: content/be4foss-handbook/handbook_web.md:815
 msgid "Preparing The Documentation For Blue Angel"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:818
+#: content/be4foss-handbook/handbook_web.md:817
 msgid ""
 "For Blue Angel eco-certification, it is necessary to complete several forms "
 "alongside the two reports from `OSCAR`."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:820
+#: content/be4foss-handbook/handbook_web.md:819
 msgid "Information that needs to be included in the forms is as follows:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:822
+#: content/be4foss-handbook/handbook_web.md:821
 msgid ""
 "Details about the software (name, version) and measurement process (when and "
 "where measurements were made, etc.)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:824
+#: content/be4foss-handbook/handbook_web.md:823
 msgid ""
 "Technical details about the power meter (instrument, sampling frequency, "
 "length of scenario, sample size)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:826
+#: content/be4foss-handbook/handbook_web.md:825
 msgid ""
 "Technical details about the reference system (year, model, processor, cores, "
 "etc.)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:828
+#: content/be4foss-handbook/handbook_web.md:827
 msgid "Software stack used for the measurements (`xdotool`, `Collectl`, etc.)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:830
+#: content/be4foss-handbook/handbook_web.md:829
 msgid ""
 "Minimum system requirements (processor architecture, local working memory, "
 "etc.)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:832
+#: content/be4foss-handbook/handbook_web.md:831
 msgid "Energy consumption results found in the `OSCAR` reports or equivalent."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:834
+#: content/be4foss-handbook/handbook_web.md:833
 msgid ""
 "Hardware utilization results, which includes the following (for IDLE use the "
 "idle mode measurements, and for SUS use the standard usage scenario "
 "measurements):"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:835
+#: content/be4foss-handbook/handbook_web.md:834
 msgid ""
 "*Full Load*: “For processing power, the full load is 100%, for working "
 "memory the sum of the installed RAM capacities, for network bandwidth the "
 "maximum transmission speed, etc.” (Blue Angel award criteria: p. 23)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:836
+#: content/be4foss-handbook/handbook_web.md:835
 msgid ""
 "*Base Load*: Average load for the reference system in Baseline measurements."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:837
+#: content/be4foss-handbook/handbook_web.md:836
 msgid ""
 "*Idle/SUS Load*: Average load for the reference system for IDLE/SUS "
 "measurements."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:839
+#: content/be4foss-handbook/handbook_web.md:838
 msgid ""
 "From the above measurements, the following calculations are made for "
 "hardware utilization (for IDLE use the idle mode measurements, and for SUS "
 "use the standard usage scenario measurements):"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:840
+#: content/be4foss-handbook/handbook_web.md:839
 msgid "*Net Load*: IDLE/SUS Load - Base Load"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:841
+#: content/be4foss-handbook/handbook_web.md:840
 msgid "*Allocation Factor*: Net Load/(Full Load - Base Load)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:842
+#: content/be4foss-handbook/handbook_web.md:841
 msgid "*Effective Load*: Net Load + Allocation Factor * Base Load"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:843
+#: content/be4foss-handbook/handbook_web.md:842
 msgid "*Hardware Utilization* (SUS only): Effective Load * Time (seconds)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:845
+#: content/be4foss-handbook/handbook_web.md:844
 msgid ""
 "For Blue Angel eco-certification, the above information will be added to two "
 "documents called “Annex 1” and “Annex 2”."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:849
-#: content/be4foss-handbook/handbook_web.md:1043
+#: content/be4foss-handbook/handbook_web.md:848
+#: content/be4foss-handbook/handbook_web.md:1042
 msgid ""
 "[Annex 1](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
 "master/applications/okular/de-uz-215-eng-annex-1-okular.docx)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:850
-#: content/be4foss-handbook/handbook_web.md:1044
+#: content/be4foss-handbook/handbook_web.md:849
+#: content/be4foss-handbook/handbook_web.md:1043
 msgid ""
 "[Annex 2](https://invent.kde.org/teams/eco/blue-angel-application/-/blob/"
 "master/applications/okular/de-uz-215-eng-annex-2-okular.xlsx)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:852
+#: content/be4foss-handbook/handbook_web.md:851
 msgid "<a name=\"sec:gosundPM\"></a> Alternative: Gosund SP111 Setup"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:854
+#: content/be4foss-handbook/handbook_web.md:853
 msgid ""
 "Want to get started with the process of measuring your software, but short "
 "on cash or gear? Want to give the process a try without setting up a "
@@ -4435,20 +4431,20 @@ msgid ""
 "here. You can read more at the following posts from Volker’s blog:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:856
+#: content/be4foss-handbook/handbook_web.md:855
 msgid ""
 "[“*Cheap Electric Power Measurement*”](https://web.archive.org/"
 "web/20221002125057/https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
 "measurement-tools.html)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:858
+#: content/be4foss-handbook/handbook_web.md:857
 msgid ""
 "[“*KDE Eco Sprint July 2022*”](https://web.archive.org/web/20220819231538/"
 "https://www.volkerkrause.eu/2022/07/23/kde-eco-sprint-july-2022.html)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:860
+#: content/be4foss-handbook/handbook_web.md:859
 msgid ""
 "Below is a guide to setting up a [Gosund SP111](https://templates.blakadder."
 "com/gosund_SP111_v2.html) power plug already [flashed](https://github.com/"
@@ -4456,186 +4452,186 @@ msgid ""
 "firmware](https://tasmota.github.io/docs) in 10 steps."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:862
+#: content/be4foss-handbook/handbook_web.md:861
 msgid ""
 "Although the data from the inexpensive power meter will likely not be "
 "accepted by the Blue Angel for eco-certification, it is nonetheless possible "
 "to obtain preliminary data using this tool."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:864
+#: content/be4foss-handbook/handbook_web.md:863
 msgid "(0) *Prerequisite*"
 msgstr "(0) *Prerequisite*"
 
-#: content/be4foss-handbook/handbook_web.md:866
+#: content/be4foss-handbook/handbook_web.md:865
 msgid ""
 "It is necessary to have the power plug already flashed with a sufficiently "
 "new Tasmota version."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:868
+#: content/be4foss-handbook/handbook_web.md:867
 msgid "(1) *Firmware Reset*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:870
+#: content/be4foss-handbook/handbook_web.md:869
 msgid ""
 "If the device had previously been connected to another Wifi network, it "
 "might need a full reset before being able to connect to a new one."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:872
+#: content/be4foss-handbook/handbook_web.md:871
 msgid ""
 "If the device did open a WiFi access point named “tasmota-XXXXX” this is not "
 "needed, continue directly to (2)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:874
+#: content/be4foss-handbook/handbook_web.md:873
 msgid "Press the button for 40 seconds."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:876
+#: content/be4foss-handbook/handbook_web.md:875
 msgid "The device will restart and you should be able to continue at (2)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:878
+#: content/be4foss-handbook/handbook_web.md:877
 msgid "(2) *WiFi Setup*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:880
+#: content/be4foss-handbook/handbook_web.md:879
 msgid ""
 "The device opens a WiFi access point named “tasmota-XXXXX”&mdash;connect to "
 "that."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:882
+#: content/be4foss-handbook/handbook_web.md:881
 msgid "Open http://192.168.4.1 in a browser."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:884
+#: content/be4foss-handbook/handbook_web.md:883
 msgid ""
 "The device will ask you for the WiFi name and password to connect to after "
 "entering those. The device will reconnect to that WiFi and disable its "
 "access point."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:886
+#: content/be4foss-handbook/handbook_web.md:885
 msgid ""
 "While doing that it should show you its new address in the browser&mdash;"
 "make a note of it."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:888
+#: content/be4foss-handbook/handbook_web.md:887
 msgid ""
 "In case that did not happen, check your WiFi router for the address of the "
 "device."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:890
+#: content/be4foss-handbook/handbook_web.md:889
 msgid "(3) *Tasmota Setup*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:892
-#: content/be4foss-handbook/handbook_web.md:918
+#: content/be4foss-handbook/handbook_web.md:891
+#: content/be4foss-handbook/handbook_web.md:917
 msgid "Open the address from step (2) in a browser."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:894
+#: content/be4foss-handbook/handbook_web.md:893
 msgid ""
 "You should see the Tasmota web UI (a big “ON/OFF” text and a bunch of blue "
 "and one red button)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:896
+#: content/be4foss-handbook/handbook_web.md:895
 msgid "Click “Configuration”."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:898
+#: content/be4foss-handbook/handbook_web.md:897
 msgid "Click “Configure Other”."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:900
+#: content/be4foss-handbook/handbook_web.md:899
 msgid "Copy"
 msgstr "Copy"
 
-#: content/be4foss-handbook/handbook_web.md:906
+#: content/be4foss-handbook/handbook_web.md:905
 msgid "into the template input field."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:908
+#: content/be4foss-handbook/handbook_web.md:907
 msgid "Tick the “Activate” checkbox."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:910
-#: content/be4foss-handbook/handbook_web.md:966
+#: content/be4foss-handbook/handbook_web.md:909
+#: content/be4foss-handbook/handbook_web.md:965
 msgid "Click “Save”."
 msgstr "Натисніть «Зберегти»."
 
-#: content/be4foss-handbook/handbook_web.md:912
+#: content/be4foss-handbook/handbook_web.md:911
 msgid "The device will restart; connect to it again."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:914
+#: content/be4foss-handbook/handbook_web.md:913
 msgid ""
 "The UI should now also contain text fields showing electrical properties, "
 "and the “Toggle” button should now actually work."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:916
+#: content/be4foss-handbook/handbook_web.md:915
 msgid "(4) *Calibration*"
 msgstr "(4) *Калібрування*"
 
-#: content/be4foss-handbook/handbook_web.md:920
+#: content/be4foss-handbook/handbook_web.md:919
 msgid ""
 "Connect a purely resistive load with a known wattage, such as a conventional "
 "light bulb (not a LED or energy-saving bulb)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:922
+#: content/be4foss-handbook/handbook_web.md:921
 msgid "Switch on power by clicking “Toggle” if needed."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:924
+#: content/be4foss-handbook/handbook_web.md:923
 msgid ""
 "Verify that the “Power Factor” value is shown as 1 (or very close to 1); if "
 "it is lower, the current load is not suited for calibration."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:926
+#: content/be4foss-handbook/handbook_web.md:925
 msgid "Click “Console”."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:928
+#: content/be4foss-handbook/handbook_web.md:927
 msgid "Enter the following commands one at a time and press enter:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:938
+#: content/be4foss-handbook/handbook_web.md:937
 msgid ""
 "Enter the command PowerSet XXX with XXX replaced by the wattage specified "
 "for the test load (e.g., “40” for a 40W light bulb)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:940
+#: content/be4foss-handbook/handbook_web.md:939
 msgid "Click “Main Menu”."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:942
+#: content/be4foss-handbook/handbook_web.md:941
 msgid ""
 "The main page now should show correct power readings with several decimals "
 "precision."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:944
+#: content/be4foss-handbook/handbook_web.md:943
 msgid "(5) *MQTT Broker Setup*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:946
+#: content/be4foss-handbook/handbook_web.md:945
 msgid ""
 "At present, the only known way to achieve high-frequency automatic readouts "
 "is by polling over MQTT. This is not ideal and needs additional setup, "
 "unfortunately."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:948
+#: content/be4foss-handbook/handbook_web.md:947
 msgid ""
 "If you happen to have a MQTT Broker around already, skip to step (6); "
 "otherwise, you need to set one up. The below scenario assumes Mosquitto is "
@@ -4644,34 +4640,34 @@ msgid ""
 "when not needed."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:950
+#: content/be4foss-handbook/handbook_web.md:949
 msgid "install the `mosquitto` package"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:951
+#: content/be4foss-handbook/handbook_web.md:950
 msgid ""
 "add a file `/etc/mosquitto/conf.d/listen.conf` with the following content:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:956
+#: content/be4foss-handbook/handbook_web.md:955
 msgid "start Mosquitto using `systemctl start mosquitto.service`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:958
+#: content/be4foss-handbook/handbook_web.md:957
 msgid "(6) *MQTT Tasmota Setup*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:960
+#: content/be4foss-handbook/handbook_web.md:959
 msgid ""
 "Connect to the Tasmota device using a web browser, and open the MQTT "
 "configuration page via Configuration > Configure MQTT."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:962
+#: content/be4foss-handbook/handbook_web.md:961
 msgid "Enter the IP address of the MQTT broker into the “Host” field."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:964
+#: content/be4foss-handbook/handbook_web.md:963
 msgid ""
 "Note down the value shown right of the “Topic” label in parentheses "
 "(typically something like “tasmota_xxxxxx”). This will be needed later on to "
@@ -4680,60 +4676,60 @@ msgid ""
 "devices."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:968
+#: content/be4foss-handbook/handbook_web.md:967
 msgid ""
 "The device will restart and once it is back you should see output in its "
 "Console prefixed with “MQT”."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:970
+#: content/be4foss-handbook/handbook_web.md:969
 msgid "(7) *Verifying MQTT Communication*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:972
+#: content/be4foss-handbook/handbook_web.md:971
 msgid ""
 "This assumes you have the Mosquitto client tools installed, which are "
 "usually available as distribution packages."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:974
+#: content/be4foss-handbook/handbook_web.md:973
 msgid ""
 "You need two terminals to verify that MQTT communication works as intended."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:976
+#: content/be4foss-handbook/handbook_web.md:975
 msgid "In terminal 1, run `mosquitto_sub -t 'stat/<topic>/STATUS10'`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:977
+#: content/be4foss-handbook/handbook_web.md:976
 msgid "In terminal 2, run `mosquitto_pub -t 'cmnd/<topic>/STATUS' -m '10'`"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:979
+#: content/be4foss-handbook/handbook_web.md:978
 msgid "Replace `<topic>` with the value noted down in step (6)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:981
+#: content/be4foss-handbook/handbook_web.md:980
 msgid ""
 "Everytime you run the second command, you should see a set of values printed "
 "in the first terminal."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:983
+#: content/be4foss-handbook/handbook_web.md:982
 msgid "(8) *Continuous Power Measurements*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:985
+#: content/be4foss-handbook/handbook_web.md:984
 msgid ""
 "See [these scripts](https://volkerkrause.eu/2020/10/17/kde-cheap-power-"
 "measurement-tools.html)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:987
+#: content/be4foss-handbook/handbook_web.md:986
 msgid "(9) *Switching WiFi Networks*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:989
+#: content/be4foss-handbook/handbook_web.md:988
 msgid ""
 "For security reasons, once connected to a WiFi network, Tasmota will not let "
 "you get back to step (2) by default without hard resetting the device (40-"
@@ -4743,7 +4739,7 @@ msgid ""
 "network you originally connected to:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:991
+#: content/be4foss-handbook/handbook_web.md:990
 msgid ""
 "Under Configuration > Configure WiFi, you can add details for a second WiFi "
 "access point. Those will be tried alternatingly with the first configuration "
@@ -4751,7 +4747,7 @@ msgid ""
 "details for the network you want to connect to."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:993
+#: content/be4foss-handbook/handbook_web.md:992
 msgid ""
 "You can configure Tasmota to open an access point as in step (2) by default "
 "for a minute or so after boot, and then try to connect to the known "
@@ -4761,7 +4757,7 @@ msgid ""
 "`WifiConfig 2`, and disabled by the command `WifiConfig 4`."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:995
+#: content/be4foss-handbook/handbook_web.md:994
 msgid ""
 "For Tasmota version 11 the 40-second button press reset can leave the device "
 "in a non-booting state, whereas resetting from the Console using `Reset 1` "
@@ -4769,11 +4765,11 @@ msgid ""
 "known WiFi as well."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:997
+#: content/be4foss-handbook/handbook_web.md:996
 msgid "(10) *Recovering Non-Booting Devices*"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:999
+#: content/be4foss-handbook/handbook_web.md:998
 msgid ""
 "First and foremost: **DO NOT CONNECT THE DEVICE TO MAIN POWER**! That would "
 "be life-threatening. The entire flashing process is solely powered from 3.3V "
@@ -4782,21 +4778,21 @@ msgid ""
 "Started/)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1001
+#: content/be4foss-handbook/handbook_web.md:1000
 msgid ""
 "With Tasmota 11, you can end up in a non-booting state by merely resetting "
 "the device using the 40-second button press. This does not permanently "
 "damage the device, and it can be fixed with reflashing via a serial adapter."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1003
+#: content/be4foss-handbook/handbook_web.md:1002
 msgid ""
 "The basic process is described in the above [guide](https://tasmota.github."
 "io/docs/Getting-Started/). The PCB layout of the Gosund SP 111 can be seen "
 "[here](https://templates.blakadder.com/gosund_SP111_v1_1)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1005
+#: content/be4foss-handbook/handbook_web.md:1004
 msgid ""
 "In order for this to work, you need to connect GPIO0 (second pin on bottom "
 "left in the above image) to GND **before** powering up (i.e., before "
@@ -4808,31 +4804,31 @@ msgid ""
 "until a reboot."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1007
+#: content/be4foss-handbook/handbook_web.md:1006
 msgid ""
 "Again: **DO NOT CONNECT THE DEVICE TO MAIN POWER** as this is life-"
 "threatening."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1009
+#: content/be4foss-handbook/handbook_web.md:1008
 msgid "(B) Hardware Operating Life"
 msgstr "(Б) Експлуатаційний ресурс обладнання"
 
-#: content/be4foss-handbook/handbook_web.md:1011
+#: content/be4foss-handbook/handbook_web.md:1010
 msgid ""
 "The criteria in category (B) ensure that the software has low-enough "
 "performance requirements to run on older, less powerful hardware at least "
 "five years old."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1013
+#: content/be4foss-handbook/handbook_web.md:1012
 msgid ""
 "Many FOSS applications run on hardware much older than 5 years. In fact, "
 "members of the KDE community have noted that KDE’s desktop environment "
 "`Plasma` runs on hardware from even 2005!"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1015
+#: content/be4foss-handbook/handbook_web.md:1014
 msgid ""
 "This category is relatively easily to fulfill for the Blue Angel "
 "application. Compliance entails a declaration of backward compatibility, "
@@ -4841,97 +4837,97 @@ msgid ""
 "information in two documents called “Annex 1” and “Annex 2”:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1017
+#: content/be4foss-handbook/handbook_web.md:1016
 msgid "*Reference System Year* &mdash; e.g., 2015"
 msgstr "*Еталонний рік системи* &mdash; наприклад, 2015"
 
-#: content/be4foss-handbook/handbook_web.md:1019
+#: content/be4foss-handbook/handbook_web.md:1018
 msgid "*Model* &mdash; e.g., Fujitsu Esprimo 920"
 msgstr "*Модель* &mdash; наприклад, Fujitsu Esprimo 920"
 
-#: content/be4foss-handbook/handbook_web.md:1021
+#: content/be4foss-handbook/handbook_web.md:1020
 msgid "*Processor* &mdash; e.g., Intel Core i5-4570"
 msgstr "*Процесор* &mdash; наприклад, Intel Core i5-4570"
 
-#: content/be4foss-handbook/handbook_web.md:1023
+#: content/be4foss-handbook/handbook_web.md:1022
 msgid "*Cores* &mdash; e.g., 4"
 msgstr "*Ядра* &mdash; наприклад, 4"
 
-#: content/be4foss-handbook/handbook_web.md:1025
+#: content/be4foss-handbook/handbook_web.md:1024
 msgid "*Clock Speed* &mdash; e.g., 3,6 GHz"
 msgstr "*Тактова частота* &mdash; наприклад, 3,6 ГГц"
 
-#: content/be4foss-handbook/handbook_web.md:1027
+#: content/be4foss-handbook/handbook_web.md:1026
 msgid "*RAM* &mdash; e.g., 4 GB"
 msgstr "*Оперативна пам'ять* &mdash; наприклад, 4 ГБ"
 
-#: content/be4foss-handbook/handbook_web.md:1029
+#: content/be4foss-handbook/handbook_web.md:1028
 msgid "*Hard Disk (SSD/HDD)* &mdash; e.g., 500 GB"
 msgstr "*Жорсткий диск (SSD/HDD)* &mdash; наприклад, 500 ГБ"
 
-#: content/be4foss-handbook/handbook_web.md:1031
+#: content/be4foss-handbook/handbook_web.md:1030
 msgid "*Graphics Card* &mdash; e.g., Intel Ivybridge Desktop"
 msgstr "*Графічна картка* &mdash; наприклад, Intel Ivybridge Desktop"
 
-#: content/be4foss-handbook/handbook_web.md:1033
+#: content/be4foss-handbook/handbook_web.md:1032
 msgid "*Network* &mdash; e.g., Realtek Ethernet"
 msgstr "*Мережа* &mdash; наприклад, Realtek Ethernet"
 
-#: content/be4foss-handbook/handbook_web.md:1035
+#: content/be4foss-handbook/handbook_web.md:1034
 msgid "*Cache* &mdash; e.g., 6144 KB"
 msgstr "*Кеш* &mdash; наприклад, 6144 КБ"
 
-#: content/be4foss-handbook/handbook_web.md:1037
+#: content/be4foss-handbook/handbook_web.md:1036
 msgid "*Mainboard* &mdash; e.g., Fujitsu D3171-A1"
 msgstr "*Базова плата* &mdash; наприклад, Fujitsu D3171-A1"
 
-#: content/be4foss-handbook/handbook_web.md:1039
+#: content/be4foss-handbook/handbook_web.md:1038
 msgid "*Operating System* &mdash; e.g., Ubuntu 18.04"
 msgstr "*Операційна система* &mdash; наприклад, Ubuntu 18.04"
 
-#: content/be4foss-handbook/handbook_web.md:1041
+#: content/be4foss-handbook/handbook_web.md:1040
 msgid "Again, examples for Okular can be found at the following links:"
 msgstr "Знову ж таки, приклади для Okular можна знайти за такими посиланнями:"
 
-#: content/be4foss-handbook/handbook_web.md:1048
+#: content/be4foss-handbook/handbook_web.md:1047
 msgid ""
 "As discussed in PART II, the Blue Angel user autonomy criteria cover eight "
 "general areas:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1050
+#: content/be4foss-handbook/handbook_web.md:1049
 msgid "Data Formats"
 msgstr "Формати даних"
 
-#: content/be4foss-handbook/handbook_web.md:1051
+#: content/be4foss-handbook/handbook_web.md:1050
 msgid "Transparency"
 msgstr "Прозорість"
 
-#: content/be4foss-handbook/handbook_web.md:1052
+#: content/be4foss-handbook/handbook_web.md:1051
 msgid "Continuity Of Support"
 msgstr "Неперервна підтримка"
 
-#: content/be4foss-handbook/handbook_web.md:1053
+#: content/be4foss-handbook/handbook_web.md:1052
 msgid "Uninstallability"
 msgstr "Неможливість вилучення"
 
-#: content/be4foss-handbook/handbook_web.md:1054
+#: content/be4foss-handbook/handbook_web.md:1053
 msgid "Offline Capability"
 msgstr "Автономні можливості"
 
-#: content/be4foss-handbook/handbook_web.md:1055
+#: content/be4foss-handbook/handbook_web.md:1054
 msgid "Modularity"
 msgstr "Модульність"
 
-#: content/be4foss-handbook/handbook_web.md:1056
+#: content/be4foss-handbook/handbook_web.md:1055
 msgid "Freedom From Advertising"
 msgstr "Свобода від реклами"
 
-#: content/be4foss-handbook/handbook_web.md:1057
+#: content/be4foss-handbook/handbook_web.md:1056
 msgid "Documentation"
 msgstr "Документація"
 
-#: content/be4foss-handbook/handbook_web.md:1059
+#: content/be4foss-handbook/handbook_web.md:1058
 msgid ""
 "Many FOSS projects may take for granted that Free Software respects user "
 "autonomy and in some cases information from the above list is missing from "
@@ -4939,14 +4935,14 @@ msgid ""
 "for open standards, uninstallability, continuity of support, and so on."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1061
+#: content/be4foss-handbook/handbook_web.md:1060
 msgid ""
 "Documenting this information is important, both for fulfilling the Blue "
 "Angel award criteria and for giving users information about long-term "
 "sustainable use of their software and hardware."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1063
+#: content/be4foss-handbook/handbook_web.md:1062
 msgid ""
 "This is not an exhaustive presentation for each of the above categories of "
 "the Blue Angel criteria. Rather, this guide focuses on aspects of the "
@@ -4956,103 +4952,103 @@ msgid ""
 "and-energy-efficient-software-products)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1065
+#: content/be4foss-handbook/handbook_web.md:1064
 msgid "2.1 Data Formats"
 msgstr "2.1 Формати даних"
 
-#: content/be4foss-handbook/handbook_web.md:1067
+#: content/be4foss-handbook/handbook_web.md:1066
 msgid "The main information to include in documentation:"
 msgstr "Основні відомості, які слід включити до документації:"
 
-#: content/be4foss-handbook/handbook_web.md:1069
+#: content/be4foss-handbook/handbook_web.md:1068
 msgid ""
 "Which (open) data formats are supported&mdash;with links to specifications, "
 "e.g., [PDF](https://www.iso.org/standard/51502.html)?"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1071
+#: content/be4foss-handbook/handbook_web.md:1070
 msgid ""
 "Also of interest: Are there examples of other software products that process "
 "these data formats?"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1073
+#: content/be4foss-handbook/handbook_web.md:1072
 msgid ""
 "For an example of the online documentation of supported data formats for "
 "Okular, visit [the Okular website](https://okular.kde.org/formats/)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1075
+#: content/be4foss-handbook/handbook_web.md:1074
 msgid ""
 "An example of documentation for the Blue Angel can be found in [Annex 4]"
 "(https://invent.kde.org/teams/eco/blue-angel-application/-/blob/master/"
 "applications/okular/de-uz-215-eng-annex-4-okular.md)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1078
+#: content/be4foss-handbook/handbook_web.md:1077
 msgid "2.2 Transparency Of The Software Product"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1080
+#: content/be4foss-handbook/handbook_web.md:1079
 msgid ""
 "When missing, provide links to documentation of the API, source code, and "
 "software license. For example, for KMail:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1082
+#: content/be4foss-handbook/handbook_web.md:1081
 msgid "[KDE PIM API documentation](https://api.kde.org/kdepim/index.html)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1084
+#: content/be4foss-handbook/handbook_web.md:1083
 msgid "[Source code](https://invent.kde.org/pim/kmail)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1086
+#: content/be4foss-handbook/handbook_web.md:1085
 msgid "[License](https://invent.kde.org/pim/kmail/-/blob/master/LICENSES)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1088
+#: content/be4foss-handbook/handbook_web.md:1087
 msgid ""
 "An example of documentation for the Blue Angel can be found in [Annex 5]"
 "(https://invent.kde.org/teams/eco/blue-angel-application/-/blob/master/"
 "applications/kmail/de-uz-215-eng-annex-5-kmail.md)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1091
+#: content/be4foss-handbook/handbook_web.md:1090
 msgid "2.3 Continuity Of Support"
 msgstr "2.3 Неперервна підтримка"
 
-#: content/be4foss-handbook/handbook_web.md:1093
+#: content/be4foss-handbook/handbook_web.md:1092
 msgid "Details about continuity of support to document include:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1095
+#: content/be4foss-handbook/handbook_web.md:1094
 msgid ""
 "Information about how long the software has been supported for (with links "
 "to release announcements)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1097
+#: content/be4foss-handbook/handbook_web.md:1096
 msgid "Release schedule and details (e.g., who maintains the software)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1099
+#: content/be4foss-handbook/handbook_web.md:1098
 msgid "Statement that updates are free of charge."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1101
+#: content/be4foss-handbook/handbook_web.md:1100
 msgid ""
 "Declaration on how the free and open source software license enables "
 "continuous support indefinitely."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1103
+#: content/be4foss-handbook/handbook_web.md:1102
 msgid ""
 "Information about whether and how functional and security updates may be "
 "installed separately."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1105
+#: content/be4foss-handbook/handbook_web.md:1104
 msgid ""
 "An example of Okular’s continuity of support documentation for the Blue "
 "Angel can be found in Section 3.1.3.3 of [Annex 6](https://invent.kde.org/"
@@ -5060,35 +5056,35 @@ msgid ""
 "eng-annex-6-okular.md)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1107
+#: content/be4foss-handbook/handbook_web.md:1106
 msgid "2.4 Uninstallability"
 msgstr "2.4 Неможливість вилучення"
 
-#: content/be4foss-handbook/handbook_web.md:1109
+#: content/be4foss-handbook/handbook_web.md:1108
 msgid ""
 "How are users able to completely uninstall the software? Relevant details "
 "might include:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1111
+#: content/be4foss-handbook/handbook_web.md:1110
 msgid ""
 "Uninstallation instructions that depend on how the software was installed "
 "(source code or binary)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1113
+#: content/be4foss-handbook/handbook_web.md:1112
 msgid ""
 "Examples of uninstallation instructions (source code or package managers, "
 "with relevant links to documentation)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1115
+#: content/be4foss-handbook/handbook_web.md:1114
 msgid ""
 "Information about whether user-generated data is also removed when "
 "uninstalling a program."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1117
+#: content/be4foss-handbook/handbook_web.md:1116
 msgid ""
 "An example of Okular’s uninstallability documentation for the Blue Angel can "
 "be found in Section 3.1.3.4 of [Annex 6](https://invent.kde.org/teams/eco/"
@@ -5096,18 +5092,18 @@ msgid ""
 "annex-6-okular.md)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1119
+#: content/be4foss-handbook/handbook_web.md:1118
 msgid "2.5 Offline Capability"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1121
+#: content/be4foss-handbook/handbook_web.md:1120
 msgid ""
 "Does the software require external connections such as a license server in "
 "order to run? If not, and no network connection is needed as the software "
 "can be used offline, this should be documented."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1123
+#: content/be4foss-handbook/handbook_web.md:1122
 msgid ""
 "An example of Okular’s offline capability documentation for the Blue Angel "
 "can be found in Section 3.1.3.5 of [Annex 6](https://invent.kde.org/teams/"
@@ -5115,32 +5111,32 @@ msgid ""
 "annex-6-okular.md)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1125
+#: content/be4foss-handbook/handbook_web.md:1124
 msgid "2.6 Modularity"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1127
+#: content/be4foss-handbook/handbook_web.md:1126
 msgid "Information to document includes:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1129
+#: content/be4foss-handbook/handbook_web.md:1128
 msgid ""
 "What aspects of the software are modular and can be deactivated during "
 "installation?"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1131
+#: content/be4foss-handbook/handbook_web.md:1130
 msgid "Can the software manuals or translations be installed separately?"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1133
+#: content/be4foss-handbook/handbook_web.md:1132
 msgid ""
 "Are any modules which are unrelated to the core functionality included with "
 "installation, such as tracking modules or cloud integration? If not, "
 "document it!"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1135
+#: content/be4foss-handbook/handbook_web.md:1134
 msgid ""
 "An example of Okular’s modularity documentation for the Blue Angel can be "
 "found in Section 3.1.3.6 of [Annex 6](https://invent.kde.org/teams/eco/blue-"
@@ -5148,64 +5144,64 @@ msgid ""
 "okular.md)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1137
+#: content/be4foss-handbook/handbook_web.md:1136
 msgid "2.7 Freedom From Advertising"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1139
+#: content/be4foss-handbook/handbook_web.md:1138
 msgid ""
 "If the software does not display advertising, make this explicit in manuals "
 "and wikis and declare it in the Blue Angel application document."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1141
+#: content/be4foss-handbook/handbook_web.md:1140
 msgid "2.8 Documentation"
 msgstr "2.8 Документація"
 
-#: content/be4foss-handbook/handbook_web.md:1143
+#: content/be4foss-handbook/handbook_web.md:1142
 msgid "This includes the following:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1145
+#: content/be4foss-handbook/handbook_web.md:1144
 msgid ""
 "General process for installing/uninstalling the software? This may include "
 "generic instructions or tutorials for a specific desktop environment or "
 "package manager."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1147
+#: content/be4foss-handbook/handbook_web.md:1146
 msgid "Data import/export process?"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1149
+#: content/be4foss-handbook/handbook_web.md:1148
 msgid ""
 "What can users do to reduce the use of resources (e.g., configuration "
 "options for improving performance)?"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1151
+#: content/be4foss-handbook/handbook_web.md:1150
 msgid ""
 "Does the software have any resource-intensive functionality not necessary "
 "for the core functionality? If not, great. Let’s tell the users!"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1153
+#: content/be4foss-handbook/handbook_web.md:1152
 msgid ""
 "Licensing terms related to further development of the software products, "
 "with links to source code and license?"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1155
+#: content/be4foss-handbook/handbook_web.md:1154
 msgid "Who supports the development of the software?"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1157
+#: content/be4foss-handbook/handbook_web.md:1156
 msgid ""
 "Does the software collect any personal data? Is is compliant with existing "
 "data protection laws? If yes, document it!"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1159
+#: content/be4foss-handbook/handbook_web.md:1158
 msgid ""
 "What is the privacy policy? Is there telemetry? If yes, how does the "
 "software handle data security, data collection, and data transmission? Also, "
@@ -5213,7 +5209,7 @@ msgid ""
 "now make sure to spread the word!"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1161
+#: content/be4foss-handbook/handbook_web.md:1160
 msgid ""
 "An example of Okular’s product documentation for Blue Angel certification "
 "can be found in Section 3.1.3.8 of [Annex 6](https://invent.kde.org/teams/"
@@ -5221,18 +5217,18 @@ msgid ""
 "annex-6-okular.md)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1163
+#: content/be4foss-handbook/handbook_web.md:1162
 msgid "Submitting To RAL"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1165
+#: content/be4foss-handbook/handbook_web.md:1164
 msgid ""
 "For examples of all of the above documentation, see KDE’s [Blue Angel "
 "Applications](https://invent.kde.org/teams/eco/blue-angel-application) "
 "repository."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1167
+#: content/be4foss-handbook/handbook_web.md:1166
 msgid ""
 "Once you have all of the documentation prepared, you need to submit it for "
 "review to RAL gGmbH (if you recall, RAL is the authorized body that assesses "
@@ -5241,69 +5237,69 @@ msgid ""
 "portal.ral-umwelt.de/)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1169
+#: content/be4foss-handbook/handbook_web.md:1168
 msgid ""
 "If you need help with the online interface, RAL provides [documentation]"
 "(https://portal.ral-umwelt.de/RALUmwelt/Anleitung/1)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1171
+#: content/be4foss-handbook/handbook_web.md:1170
 msgid "Example Submission Documents"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1173
+#: content/be4foss-handbook/handbook_web.md:1172
 msgid "Below are examples of Blue Angel documentation for Okular."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1175
+#: content/be4foss-handbook/handbook_web.md:1174
 msgid ""
 "[Annex 1: Form](https://invent.kde.org/teams/eco/blue-angel-application/-/"
 "blob/master/applications/okular/de-uz-215-eng-annex-1-okular.docx)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1177
+#: content/be4foss-handbook/handbook_web.md:1176
 msgid ""
 "[Annex 2: Spreadsheet](https://invent.kde.org/teams/eco/blue-angel-"
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-2-okular."
 "xlsx)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1179
+#: content/be4foss-handbook/handbook_web.md:1178
 msgid ""
 "[Annex 3: OSCAR Report For Idle Mode](https://invent.kde.org/teams/eco/blue-"
 "angel-application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-"
 "okular-idle.pdf)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1181
+#: content/be4foss-handbook/handbook_web.md:1180
 msgid ""
 "[Annex 3: OSCAR Report For SUS](https://invent.kde.org/teams/eco/blue-angel-"
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-3-okular-"
 "scenario.pdf)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1183
+#: content/be4foss-handbook/handbook_web.md:1182
 msgid ""
 "[Annex 4: Data Formats](https://invent.kde.org/teams/eco/blue-angel-"
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-4-okular."
 "md)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1185
+#: content/be4foss-handbook/handbook_web.md:1184
 msgid ""
 "[Annex 5: Open Standards](https://invent.kde.org/teams/eco/blue-angel-"
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-5-okular."
 "md)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1187
+#: content/be4foss-handbook/handbook_web.md:1186
 msgid ""
 "[Annex 6: Product Information](https://invent.kde.org/teams/eco/blue-angel-"
 "application/-/blob/master/applications/okular/de-uz-215-eng-annex-6-okular."
 "md)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1189
+#: content/be4foss-handbook/handbook_web.md:1188
 msgid ""
 "[Annex 7: Data format for passing on the product information about resource "
 "and energy efficiency](https://invent.kde.org/teams/eco/blue-angel-"
@@ -5311,25 +5307,25 @@ msgid ""
 "xml)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1191
+#: content/be4foss-handbook/handbook_web.md:1190
 msgid "Notable Sustainable Software Initiatives"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1193
+#: content/be4foss-handbook/handbook_web.md:1192
 msgid ""
 "There are many initiatives working on tooling for measuring the energy "
 "consumption of software. We would like to mention five in particular who "
 "have been collaborating with the KDE Eco initiative:"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1195
+#: content/be4foss-handbook/handbook_web.md:1194
 msgid ""
 "[The Green Software Engineering work group](https://www.umwelt-campus.de/en/"
 "green-software-engineering) at the [Environmental Campus Birkenfeld](https://"
 "www.umwelt-campus.de/en/) (German: *Umwelt Campus Birkenfeld*)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1197
+#: content/be4foss-handbook/handbook_web.md:1196
 msgid ""
 "Since 2008, the Green Software Engineering work group have been working on "
 "research projects with a focus on sustainable software. Their research "
@@ -5337,11 +5333,11 @@ msgid ""
 "such as `OSCAR` and have measured various KDE applications, including Okular."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1199
+#: content/be4foss-handbook/handbook_web.md:1198
 msgid "[Öko-Institut e.V.](https://www.oeko.de/en/)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1201
+#: content/be4foss-handbook/handbook_web.md:1200
 msgid ""
 "The Öko-Institut is one of Europe’s leading independent research and "
 "consultancy organizations working for a sustainable future. The *Sustainable "
@@ -5351,50 +5347,50 @@ msgid ""
 "self-measurement technique using a simple Python script."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1203
+#: content/be4foss-handbook/handbook_web.md:1202
 msgid "[Green Coding Berlin](https://www.green-coding.berlin/)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1205
+#: content/be4foss-handbook/handbook_web.md:1204
 msgid ""
 "Green Coding Berlin is focused on research into the energy consumption of "
 "software and its infrastructure, creating open source measurement tools, and "
 "building a community and ecosystem around green software."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1207
+#: content/be4foss-handbook/handbook_web.md:1206
 msgid ""
 "The [SoftAWERE](https://sdialliance.org/steering-groups/softawere) project "
 "from the [Sustainable Digital Infrastructure Alliance](https://sdialliance."
 "org/)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1209
+#: content/be4foss-handbook/handbook_web.md:1208
 msgid ""
 "The SoftAWERE steering group oversees and sets the direction for the "
 "development of tools and labels for energy-efficient software applications."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1211
+#: content/be4foss-handbook/handbook_web.md:1210
 msgid "[Green Web Foundation](https://www.thegreenwebfoundation.org/)"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1213
+#: content/be4foss-handbook/handbook_web.md:1212
 msgid ""
 "The Green Web Foundation tracks and accelerates the transition to a fossil-"
 "free internet."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1217
+#: content/be4foss-handbook/handbook_web.md:1216
 msgid "About"
 msgstr "Про нас"
 
-#: content/be4foss-handbook/handbook_web.md:1219
+#: content/be4foss-handbook/handbook_web.md:1218
 #: content/opt-green-handbook/index.md:25
 msgid "Authors"
 msgstr "Автори"
 
-#: content/be4foss-handbook/handbook_web.md:1221
+#: content/be4foss-handbook/handbook_web.md:1220
 msgid ""
 "KDE Eco tooling and documentation are provided by community members who have "
 "volunteered to contribute to this project for the benefit of all. Primary "
@@ -5404,7 +5400,7 @@ msgid ""
 "handbook possible."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1223
+#: content/be4foss-handbook/handbook_web.md:1222
 msgid ""
 "The text of this version of the handbook was written and/or compiled from "
 "the above documentation by Joseph P. De Veaugh-Geiss. Olea Morris edited the "
@@ -5418,12 +5414,12 @@ msgid ""
 "sources."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1225
+#: content/be4foss-handbook/handbook_web.md:1224
 #: content/opt-green-handbook/index.md:29
 msgid "Acknowledgments"
 msgstr "Подяки"
 
-#: content/be4foss-handbook/handbook_web.md:1227
+#: content/be4foss-handbook/handbook_web.md:1226
 msgid ""
 "Thank you to the many contributors to the KDE Eco initiative in general "
 "(listed in alphabetical order by first name): Achim Guldner, Adriaan de "
@@ -5435,7 +5431,7 @@ msgid ""
 "Tobias Fella. Your contributions are greatly appreciated."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1229
+#: content/be4foss-handbook/handbook_web.md:1228
 msgid ""
 "People who are interested in contributing to KDE Eco are encouraged to join "
 "the [mailing list](https://mail.kde.org/cgi-bin/mailman/listinfo/energy-"
@@ -5445,7 +5441,7 @@ msgid ""
 "(https://eco.kde.org/get-involved/)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1231
+#: content/be4foss-handbook/handbook_web.md:1230
 msgid ""
 "The KDE Eco initiative has benefited from many informative discussions that "
 "took place at the following conferences and workshops: Akademy 2022, Linux "
@@ -5455,12 +5451,12 @@ msgid ""
 "hackathon, EnviroInfo 2022, and Bits & Bäume 2022. Thank you!"
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1233
+#: content/be4foss-handbook/handbook_web.md:1232
 #: content/opt-green-handbook/index.md:52
 msgid "License"
 msgstr "Ліцензування"
 
-#: content/be4foss-handbook/handbook_web.md:1235
+#: content/be4foss-handbook/handbook_web.md:1234
 msgid ""
 "Unless indicated otherwise, all contents released under the [Creative "
 "Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)](https://"
@@ -5469,7 +5465,7 @@ msgid ""
 "community.kde.org/Policies/Licensing_Policy)."
 msgstr ""
 
-#: content/be4foss-handbook/handbook_web.md:1237
+#: content/be4foss-handbook/handbook_web.md:1236
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:138
 #: content/blog/2022-03-05-energy-conservation-day.md:33
 #: content/blog/2024-05-29_introducing-ns4nh.md:114
@@ -5478,7 +5474,7 @@ msgstr ""
 msgid "Funding Notice"
 msgstr "Зауваження щодо фінансування"
 
-#: content/be4foss-handbook/handbook_web.md:1239
+#: content/be4foss-handbook/handbook_web.md:1238
 msgid ""
 "The *Blauer Engel Für FOSS* project was funded by the Federal German "
 "Environment Agency (UBA) and the Federal Ministry for the Environment, "
@@ -5490,14 +5486,14 @@ msgstr ""
 "навколишнього середовища, збереження природи, ядерної безпеки та захисту "
 "споживачів (BMUV). Доступ до фінансування було затверджено Бундестагом ФРН."
 
-#: content/be4foss-handbook/handbook_web.md:1241
+#: content/be4foss-handbook/handbook_web.md:1240
 #: content/opt-green-handbook/index.md:742
 msgid "![Logo of the Federal German Environment Agency.](images/sec4_uba.jpg)"
 msgstr ""
 "![Логотип Федеральної Агенції з навколишнього середовища Німеччини.](images/"
 "sec4_uba.jpg)"
 
-#: content/be4foss-handbook/handbook_web.md:1243
+#: content/be4foss-handbook/handbook_web.md:1242
 msgid ""
 "![Logo of the Federal Ministry for the Environment, Nature Conservation, "
 "Nuclear Safety and Consumer Protection.](images/sec4_bmuv.png)"
@@ -5505,7 +5501,7 @@ msgstr ""
 "![Логотип Федерального міністерства з навколишнього середовища, збереження "
 "природи, ядерної безпеки та захисту споживачів.](images/sec4_bmuv.png)"
 
-#: content/be4foss-handbook/handbook_web.md:1245
+#: content/be4foss-handbook/handbook_web.md:1244
 #: content/blog/2022-02-07-kde-eco-2021-sprint.md:150
 #: content/blog/2022-03-05-energy-conservation-day.md:45
 #: content/blog/2024-05-29_introducing-ns4nh.md:126
@@ -13053,6 +13049,9 @@ msgstr ""
 #: i18n/en.yaml:247
 msgid "Visit endof10.org"
 msgstr "Відвідати endof10.org"
+
+#~ msgid "en"
+#~ msgstr "uk"
 
 #~ msgid ""
 #~ "We need as many motivated people as possible to drive this forward. Here "
