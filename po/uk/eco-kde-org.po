@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: websites-eco-kde-org 1.0\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2026-09-26 02:25+0000\n"
-"PO-Revision-Date: 2026-10-02 11:26+0300\n"
+"PO-Revision-Date: 2026-10-12 09:14+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
 "Language: uk\n"
@@ -2925,6 +2925,11 @@ msgid ""
 "systems; see Appendix D in the award criteria for other recommended Fujitsu "
 "systems."
 msgstr ""
+"Наприклад, настільний ПК Fujitsu Esprimo P920 (серія proGreen; процесор "
+"Intel Core i5-4570 із частотою 3,6 ГГц, 4 ГБ оперативної пам’яті, жорсткий "
+"диск на 500 ГБ) є однією з рекомендованих еталонних систем; перелік інших "
+"рекомендованих систем Fujitsu наведено в Додатку D до критеріїв присудження "
+"відзнаки."
 
 #: content/be4foss-handbook/handbook_web.md:402
 msgid ""
@@ -2933,16 +2938,23 @@ msgid ""
 "consumption and have a standardized configuration. Recommended is the "
 "following:"
 msgstr ""
+"На еталонній системі необхідно підготувати тестовану систему — тобто "
+"систему, на якій ви тестуватимете програмне забезпечення. Тестована система "
+"повинна мінімізувати енергоспоживання, не пов’язане з тестуванням, і мати "
+"стандартизовану конфігурацію. Рекомендовано таке:"
 
 #: content/be4foss-handbook/handbook_web.md:404
 msgid "Overwrite the entire hard drive of the machine with a standardized OS."
 msgstr ""
+"Перезапишіть увесь жорсткий диск комп’ютера стандартною операційною системою."
 
 #: content/be4foss-handbook/handbook_web.md:406
 msgid ""
 "Deactivate all possible background processes (automatic updates, backups, "
 "indexing, etc.)."
 msgstr ""
+"Вимкніть усі можливі фонові процеси (автоматичні оновлення, резервне "
+"копіювання, індексацію тощо)."
 
 #: content/be4foss-handbook/handbook_web.md:408
 msgid ""
@@ -2950,16 +2962,22 @@ msgid ""
 "as the user emulation (e.g., `xdotool`) and hardware performance data (e.g., "
 "`Collectl`) software."
 msgstr ""
+"Встановіть необхідне програмне забезпечення: власне програму, що підлягає "
+"вимірюванню, а також засоби для імітації дій користувача (наприклад, "
+"`xdotool`) і збору даних про продуктивність апаратного забезпечення "
+"(наприклад, `Collectl`)."
 
 #: content/be4foss-handbook/handbook_web.md:410
 msgid ""
 "When running the usage scenario scripts, the cache should be cleared between "
 "runs and any new files deleted before starting the next measurement."
 msgstr ""
+"Під час виконання сценаріїв користування слід очищати кеш між запусками та "
+"вилучати всі нові файли перед початком наступного вимірювання."
 
 #: content/be4foss-handbook/handbook_web.md:412
 msgid "Preparing The Standard Usage Scenario (SUS)"
-msgstr ""
+msgstr "Приготування стандартного сценарію користування (SUS)"
 
 #: content/be4foss-handbook/handbook_web.md:414
 msgid "Preparing the SUS requires the following:"
